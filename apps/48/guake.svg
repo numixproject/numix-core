@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    viewBox="0 0 13.546667 13.546667"
-   sodipodi:docname="chrome-apdfllckaahabafndbhieahigkjlhalf-Default.svg"
+   sodipodi:docname="terminal.svg"
    inkscape:export-filename="/home/uri/Descargas/numix-round.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -25,11 +25,11 @@
     <linearGradient
        id="linearGradient4460">
       <stop
-         style="stop-color:#1b1b1b;stop-opacity:1;"
+         style="stop-color:#172a19;stop-opacity:1;"
          offset="0"
          id="stop4462" />
       <stop
-         style="stop-color:#383838;stop-opacity:1;"
+         style="stop-color:#36924c;stop-opacity:1;"
          offset="1"
          id="stop4464" />
     </linearGradient>
@@ -38,7 +38,7 @@
        xlink:href="#linearGradient4460"
        id="linearGradient4500"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.0952381,0,0,1.0952381,-132.99191,-9.494803)"
+       gradientTransform="matrix(1.0952381,0,0,1.0952381,-133.00183,-9.5686658)"
        x1="128.26065"
        y1="279.09631"
        x2="128.26065"
@@ -73,30 +73,11 @@
        id="linearGradient3895-9-0-3-2-4-0">
       <stop
          id="stop3783"
-         style="stop-color:#e9c5b0"
+         style="stop-color:#f18795"
          offset="0" />
       <stop
          id="stop3785"
-         style="stop-color:#9c542b"
-         offset="1" />
-    </linearGradient>
-    <radialGradient
-       gradientUnits="userSpaceOnUse"
-       xlink:href="#linearGradient3895-9-0-3-2-4-0-3"
-       id="radialGradient4432-0"
-       r="128"
-       gradientTransform="matrix(0.97656,0,0,0.97656,-16.5349,-236.25)"
-       cy="160"
-       cx="148.004" />
-    <linearGradient
-       id="linearGradient3895-9-0-3-2-4-0-3">
-      <stop
-         id="stop3824"
-         style="stop-color:#e9c5b0"
-         offset="0" />
-      <stop
-         id="stop3826"
-         style="stop-color:#9c542b"
+         style="stop-color:#772933"
          offset="1" />
     </linearGradient>
   </defs>
@@ -107,9 +88,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="21.098775"
-     inkscape:cx="18.77804"
-     inkscape:cy="37.818975"
+     inkscape:zoom="5.5223673"
+     inkscape:cx="36.780185"
+     inkscape:cy="18.120191"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -198,7 +179,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -217,30 +198,26 @@
        ry="6.4911113" />
     <rect
        ry="5.87291"
-       y="284.42761"
-       x="0.91034532"
+       y="284.35376"
+       x="0.90042347"
        height="11.74582"
        width="11.74582"
        id="rect4498"
        style="fill:url(#linearGradient4500);fill-opacity:1;fill-rule:evenodd;stroke:none" />
     <g
-       id="g3870"
-       transform="matrix(0.81845153,0,0,0.81845153,-10.318933,52.457194)">
-      <polygon
-         transform="matrix(8.1280005e-5,0,0,8.0738138e-5,15.465779,285.56659)"
-         points="133156,76894 110963,115341 22194,115341 44385,76894 "
-         id="polygon3837"
-         style="fill:#4186fb;fill-opacity:1;fill-rule:evenodd" />
-      <polygon
-         transform="matrix(8.1280005e-5,0,0,8.0738138e-5,15.465779,285.56659)"
-         points="88772,0 44385,0 88772,76894 133156,76894 "
-         id="polygon3839"
-         style="fill:#fdd04b;fill-opacity:1;fill-rule:evenodd" />
-      <polygon
-         transform="matrix(8.1280005e-5,0,0,8.0738138e-5,15.465779,285.56659)"
-         points="66578,38447 44385,0 0,76894 22194,115341 "
-         id="polygon3841"
-         style="fill:#0ca55f;fill-opacity:1;fill-rule:evenodd" />
+       style="fill:#dee090;fill-opacity:1"
+       transform="matrix(0.44639021,0,0,0.45630652,-3.9879273,-180.32192)"
+       id="g3794">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 32.620945,1036.9794 v -2.2382 h -8.206336 v 2.2382 h 8.206336 z"
+         id="path3796"
+         style="fill:#dee090;fill-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 17.508604,1034.7412 -2.046288,-2.0345 4.604053,-3.5607 -4.604053,-3.5605 2.046288,-2.0347 6.906079,5.5952 -6.906079,5.5952 z"
+         id="path3798"
+         style="fill:#dee090;fill-opacity:1" />
     </g>
   </g>
 </svg>
