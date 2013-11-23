@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    viewBox="0 0 13.546667 13.546667"
-   sodipodi:docname="AdobeReader.svg"
+   sodipodi:docname="acroread.svg"
    inkscape:export-filename="/home/uri/Descargas/numix-round.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -80,6 +80,69 @@
          style="stop-color:#9c0008"
          offset="1" />
     </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="296.15332"
+       x2="6.9397669"
+       y1="284.29999"
+       x1="6.9394865"
+       id="linearGradient3784"
+       xlink:href="#linearGradient3778"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient3896-4">
+      <stop
+         offset="0"
+         style="stop-color:#262626"
+         id="stop3015-7" />
+      <stop
+         offset="1"
+         style="stop-color:#7b7b7b"
+         id="stop3017-5" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient3896-4"
+       id="linearGradient3787-4"
+       y1="1053.158"
+       y2="1004.847"
+       gradientUnits="userSpaceOnUse"
+       x2="0" />
+    <linearGradient
+       id="linearGradient4460-0">
+      <stop
+         id="stop4462-7"
+         offset="0"
+         style="stop-color:#2ea7c9;stop-opacity:1" />
+      <stop
+         id="stop4464-6"
+         offset="1"
+         style="stop-color:#5ecee1;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3778">
+      <stop
+         id="stop3780"
+         offset="0"
+         style="stop-color:#ff6124;stop-opacity:1;" />
+      <stop
+         style="stop-color:#fd1d00;stop-opacity:1;"
+         offset="0.23333333"
+         id="stop3973" />
+      <stop
+         id="stop3782"
+         offset="1"
+         style="stop-color:#d90000;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3778"
+       id="linearGradient3092"
+       gradientUnits="userSpaceOnUse"
+       x1="6.9394865"
+       y1="284.29999"
+       x2="6.9397669"
+       y2="296.15332"
+       gradientTransform="translate(18.167642,0.3771777)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -88,12 +151,12 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.0156752"
-     inkscape:cx="10.839576"
-     inkscape:cy="24.836068"
+     inkscape:zoom="9.2629455"
+     inkscape:cx="24.466144"
+     inkscape:cy="27.685071"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="true"
+     showgrid="false"
      inkscape:showpageshadow="false"
      units="px"
      borderlayer="true"
@@ -102,9 +165,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="713"
+     inkscape:window-height="742"
      inkscape:window-x="0"
-     inkscape:window-y="29"
+     inkscape:window-y="26"
      inkscape:window-maximized="1">
     <sodipodi:guide
        position="8.999997,38.999851"
@@ -182,7 +245,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -208,7 +271,7 @@
        id="rect4498"
        style="fill:url(#linearGradient4500);fill-opacity:1;fill-rule:evenodd;stroke:none" />
     <g
-       transform="matrix(0.03420875,0,0,0.03386667,2.3946136,285.89171)"
+       transform="matrix(0.03765514,0,0,0.03727859,2.4563206,285.23299)"
        id="g3009">
       <path
          d="m 124.12429,44.7975 c 0,0 5.70174,53.0805 -34.570358,123.16233 -40.27205,70.08183 -52.08117,60.67658 -56.32037,58.24942 -4.23914,-2.42654 -9.68952,-10.31482 8.17553,-26.09076 17.86511,-15.77593 24.82941,-15.47254 24.82941,-15.47254 0,0 -16.35106,10.01143 -22.70981,19.72008 -6.35874,9.70803 -11.5063,15.77593 -9.99232,18.50649 1.51399,2.72994 19.76759,-11.19703 27.33751,-23.02882 12.02257,-18.79124 34.73604,-53.72771 45.333918,-87.09995 10.59794,-33.37224 17.91649,-67.94625 17.91649,-67.94625 z"
