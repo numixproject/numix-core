@@ -1,9 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" xmlns:xlink="http://www.w3.org/1999/xlink">
 <defs>
-<linearGradient id="OrLin-5-9">
-<stop offset="0" style="stop-color:#ff0"/>
-<stop offset="1" style="stop-color:#ffe000"/>
-</linearGradient>
 <linearGradient id="ArgentLin-4-7">
 <stop offset="0" style="stop-color:#fff"/>
 <stop offset="1" style="stop-color:#e0e0e0"/>
@@ -12,236 +8,36 @@
 <stop offset="0" style="stop-color:#fff"/>
 <stop offset="1" style="stop-color:#e0e0e0"/>
 </linearGradient>
-<linearGradient id="OrLin-5">
-<stop offset="0" style="stop-color:#ff0"/>
-<stop offset="1" style="stop-color:#ffe000"/>
-</linearGradient>
 <linearGradient id="ArgentLin">
 <stop offset="0" style="stop-color:#fff"/>
 <stop offset="1" style="stop-color:#e0e0e0"/>
-</linearGradient>
-<linearGradient id="linearGradient3895-9-0-3-2-4-0">
-<stop offset="0" style="stop-color:#e19dec"/>
-<stop offset="1" style="stop-color:#75507b"/>
 </linearGradient>
 <linearGradient id="OrLin">
 <stop offset="0" style="stop-color:#ff0"/>
 <stop offset="1" style="stop-color:#ffe000"/>
 </linearGradient>
+<linearGradient id="linearGradient3895-9-0-3-2-4-0">
+<stop offset="0" style="stop-color:#e19dec"/>
+<stop offset="1" style="stop-color:#75507b"/>
+</linearGradient>
 <linearGradient id="ArgentLin-4">
 <stop offset="0" style="stop-color:#fff"/>
 <stop offset="1" style="stop-color:#e0e0e0"/>
+</linearGradient>
+<linearGradient id="OrLin-5">
+<stop offset="0" style="stop-color:#ff0"/>
+<stop offset="1" style="stop-color:#ffe000"/>
 </linearGradient>
 <linearGradient id="OrLin-1">
 <stop offset="0" style="stop-color:#ff0"/>
 <stop offset="1" style="stop-color:#ffe000"/>
 </linearGradient>
-<pattern patternTransform="translate(28,0.5)rotate(135)" id="HatchD-9" xlink:href="#Hatch-32-8"/>
-<pattern width="4" height="64" patternTransform="translate(70,0)" patternUnits="userSpaceOnUse" id="Hatch-3-3">
-<g transform="translate(-64)">
-<rect width="4" x="64" y="0" height="65" style="fill:#fff"/>
-<rect width="2" x="67" y="0" height="65"/>
-</g>
-</pattern>
-<pattern width="4" height="64" patternTransform="translate(70,0)" patternUnits="userSpaceOnUse" id="Hatch-0">
-<g transform="translate(-64)">
-<rect width="4" x="64" y="0" height="65" style="fill:#fff"/>
-<rect width="2" x="67" y="0" height="65"/>
-</g>
-</pattern>
-<pattern width="4" height="4" patternTransform="translate(70,0)" patternUnits="userSpaceOnUse" id="XHatch-6-9">
-<g transform="translate(-64)">
-<rect width="5" x="64" y="0" height="5"/>
-<rect width="3" x="64" y="0" height="3" style="fill:#fff"/>
-</g>
-</pattern>
-<pattern patternTransform="translate(3,2)skewX(45)" id="HatchHD-6" xlink:href="#XHatch-6-9"/>
-<pattern patternTransform="translate(3,2)skewX(45)" xlink:href="#XHatch-6-4-9" id="HatchHD-7-6"/>
-<pattern patternTransform="translate(26,0)" id="HatchV-4" xlink:href="#Hatch-3-3"/>
-<pattern width="4" height="64" patternTransform="translate(70,0)" patternUnits="userSpaceOnUse" id="Hatch-32-8">
-<g transform="translate(-64)">
-<rect width="4" x="64" y="0" height="65" style="fill:#fff"/>
-<rect width="2" x="67" y="0" height="65"/>
-</g>
-</pattern>
-<pattern patternTransform="translate(28,0.5)rotate(135)" xlink:href="#Hatch-32-5-9" id="HatchD-6-0"/>
-<pattern patternTransform="translate(0,2)rotate(90)" id="HatchH-9" xlink:href="#Hatch-0"/>
-<pattern width="4" height="64" patternTransform="translate(70,0)" patternUnits="userSpaceOnUse" id="Hatch-32-5-9">
-<g transform="translate(-64)">
-<rect width="4" x="64" y="0" height="65" style="fill:#fff"/>
-<rect width="2" x="67" y="0" height="65"/>
-</g>
-</pattern>
-<pattern width="4" height="4" patternTransform="translate(70,0)" patternUnits="userSpaceOnUse" id="XHatch-3-5">
-<g transform="translate(-64)">
-<rect width="5" x="64" y="0" height="5"/>
-<rect width="3" x="64" y="0" height="3" style="fill:#fff"/>
-</g>
-</pattern>
-<pattern width="8" height="10" patternTransform="translate(60,0)" patternUnits="userSpaceOnUse" id="DashDotHatch-6-21">
-<g transform="translate(-60)">
-<rect width="9" x="60" y="0" height="11" style="fill:#fff"/>
-<rect width="1" x="61" y="0" height="5"/>
-<rect width="1" x="61" y="7" height="1"/>
-<rect width="1" x="65" y="2" height="1"/>
-<rect width="1" x="65" y="5" height="5"/>
-</g>
-</pattern>
-<pattern patternTransform="translate(30,2)" id="XHatchT-8" xlink:href="#XHatch-7-0"/>
-<pattern width="8" height="10" patternTransform="translate(60,0)" patternUnits="userSpaceOnUse" id="DashDotHatch-6-3">
-<g transform="translate(-60)">
-<rect width="9" x="60" y="0" height="11" style="fill:#fff"/>
-<rect width="1" x="61" y="0" height="5"/>
-<rect width="1" x="61" y="7" height="1"/>
-<rect width="1" x="65" y="2" height="1"/>
-<rect width="1" x="65" y="5" height="5"/>
-</g>
-</pattern>
-<pattern patternTransform="translate(27,2)rotate(45)" id="XHatchD-4" xlink:href="#XHatch-3"/>
-<pattern width="4" height="4" patternTransform="translate(70,0)" patternUnits="userSpaceOnUse" id="XHatch-3">
-<g transform="translate(-64)">
-<rect width="5" x="64" y="0" height="5"/>
-<rect width="3" x="64" y="0" height="3" style="fill:#fff"/>
-</g>
-</pattern>
-<pattern width="11.729" height="11.16" patternTransform="translate(1.490023,-16.73815)" patternUnits="userSpaceOnUse" id="pattern7489-6">
-<g transform="translate(-57.27057 .1596)">
-<g>
-<rect width="9" x="60" y="0" height="11" style="fill:#fff"/>
-<rect width="1" x="59.244" y="-.16" height="5"/>
-<rect width="1" x="65" y="5" height="5"/>
-<rect width="1" x="1.395" y="-67.857" height="5" transform="rotate(90)"/>
-<rect width="1" x="7.141" y="-62.271" height="5" transform="rotate(90)"/>
-</g>
-</g>
-</pattern>
-<pattern width="4" height="64" patternTransform="translate(70,0)" patternUnits="userSpaceOnUse" id="Hatch-4-6">
-<g transform="translate(-64)">
-<rect width="4" x="64" y="0" height="65" style="fill:#fff"/>
-<rect width="2" x="67" y="0" height="65"/>
-</g>
-</pattern>
-<pattern patternTransform="translate(26,0)" xlink:href="#Hatch-3-3-3" id="HatchV-4-0"/>
-<pattern patternTransform="translate(57.5,0)rotate(45)" xlink:href="#Hatch-4-6-5" id="HatchU-4-5"/>
-<pattern width="4" height="64" patternTransform="translate(70,0)" patternUnits="userSpaceOnUse" id="Hatch-4-6-5">
-<g transform="translate(-64)">
-<rect width="4" x="64" y="0" height="65" style="fill:#fff"/>
-<rect width="2" x="67" y="0" height="65"/>
-</g>
-</pattern>
-<pattern width="4" height="64" patternTransform="translate(70,0)" patternUnits="userSpaceOnUse" id="Hatch-0-7">
-<g transform="translate(-64)">
-<rect width="4" x="64" y="0" height="65" style="fill:#fff"/>
-<rect width="2" x="67" y="0" height="65"/>
-</g>
-</pattern>
-<pattern width="4" height="64" patternTransform="translate(70,0)" patternUnits="userSpaceOnUse" id="Hatch-3-3-3">
-<g transform="translate(-64)">
-<rect width="4" x="64" y="0" height="65" style="fill:#fff"/>
-<rect width="2" x="67" y="0" height="65"/>
-</g>
-</pattern>
-<pattern width="11.729" height="11.16" patternTransform="translate(1.490023,-16.73815)" patternUnits="userSpaceOnUse" id="pattern7489-6-8">
-<g transform="translate(-57.27057 .1596)">
-<g>
-<rect width="9" x="60" y="0" height="11" style="fill:#fff"/>
-<rect width="1" x="59.244" y="-.16" height="5"/>
-<rect width="1" x="65" y="5" height="5"/>
-<rect width="1" x="1.395" y="-67.857" height="5" transform="rotate(90)"/>
-<rect width="1" x="7.141" y="-62.271" height="5" transform="rotate(90)"/>
-</g>
-</g>
-</pattern>
-<pattern patternTransform="translate(0,2)rotate(90)" xlink:href="#Hatch-0-7" id="HatchH-9-7"/>
-<pattern width="8" height="8" patternTransform="translate(60,0)" patternUnits="userSpaceOnUse" id="Dotted-7-9">
-<g transform="translate(-60)">
-<rect width="9" x="60" y="0" height="9" style="fill:#fff"/>
-<rect width="1" x="61" y="5" height="1"/>
-<rect width="1" x="65" y="1" height="1"/>
-</g>
-</pattern>
-<pattern patternTransform="translate(30,2)" xlink:href="#XHatch-7-4-6" id="XHatchT-6-5"/>
-<pattern patternTransform="translate(28,7)" xlink:href="#Dotted-7-9" id="DottedT-2-8"/>
-<pattern patternTransform="translate(27,2)rotate(45)" xlink:href="#XHatch-3-5" id="XHatchD-4-9"/>
-<pattern width="4" height="4" patternTransform="translate(70,0)" patternUnits="userSpaceOnUse" id="XHatch-6-4-9">
-<g transform="translate(-64)">
-<rect width="5" x="64" y="0" height="5"/>
-<rect width="3" x="64" y="0" height="3" style="fill:#fff"/>
-</g>
-</pattern>
-<pattern width="4" height="4" patternTransform="translate(70,0)" patternUnits="userSpaceOnUse" id="XHatch-7-4-6">
-<g transform="translate(-64)">
-<rect width="5" x="64" y="0" height="5"/>
-<rect width="3" x="64" y="0" height="3" style="fill:#fff"/>
-</g>
-</pattern>
-<pattern width="8" height="10" patternTransform="translate(60,0)" patternUnits="userSpaceOnUse" id="DashDotHatch-6-3-4">
-<g transform="translate(-60)">
-<rect width="9" x="60" y="0" height="11" style="fill:#fff"/>
-<rect width="1" x="61" y="0" height="5"/>
-<rect width="1" x="61" y="7" height="1"/>
-<rect width="1" x="65" y="2" height="1"/>
-<rect width="1" x="65" y="5" height="5"/>
-</g>
-</pattern>
-<pattern patternTransform="translate(28,8)" id="DashDotHatchT-2-5" xlink:href="#DashDotHatch-6-3"/>
-<pattern width="4" height="64" patternTransform="translate(70,0)" patternUnits="userSpaceOnUse" id="Hatch-3">
-<g transform="translate(-64)">
-<rect width="4" x="64" y="0" height="65" style="fill:#fff"/>
-<rect width="2" x="67" y="0" height="65"/>
-</g>
-</pattern>
-<pattern patternTransform="translate(28,8)" xlink:href="#DashDotHatch-6-3-4" id="DashDotHatchT-2-5-8"/>
-<pattern patternTransform="translate(28,7)" id="DottedT-2" xlink:href="#Dotted-7"/>
-<pattern width="8" height="8" patternTransform="translate(60,0)" patternUnits="userSpaceOnUse" id="Dotted-7">
-<g transform="translate(-60)">
-<rect width="9" x="60" y="0" height="9" style="fill:#fff"/>
-<rect width="1" x="61" y="5" height="1"/>
-<rect width="1" x="65" y="1" height="1"/>
-</g>
-</pattern>
-<pattern patternTransform="translate(57.5,0)rotate(45)" id="HatchU-4" xlink:href="#Hatch-4-6"/>
-<pattern patternTransform="translate(30,2)" xlink:href="#XHatch-7" id="XHatchT"/>
-<pattern patternTransform="translate(3,2)skewX(45)" id="HatchHD-7" xlink:href="#XHatch-6-4"/>
-<pattern patternTransform="translate(0,2)rotate(90)" xlink:href="#Hatch" id="HatchH"/>
-<pattern patternTransform="translate(27,2)rotate(45)" xlink:href="#XHatch" id="XHatchD"/>
-<pattern patternTransform="translate(57.5,0)rotate(45)" id="HatchU-9" xlink:href="#Hatch-4-29"/>
-<pattern width="4" height="4" patternTransform="translate(70,0)" patternUnits="userSpaceOnUse" id="XHatch">
-<g transform="translate(-64)">
-<rect width="5" x="64" y="0" height="5"/>
-<rect width="3" x="64" y="0" height="3" style="fill:#fff"/>
-</g>
-</pattern>
-<pattern patternTransform="translate(28,7)" xlink:href="#Dotted" id="DottedT"/>
-<pattern width="4" height="64" patternTransform="translate(70,0)" patternUnits="userSpaceOnUse" id="Hatch-4-29">
-<g transform="translate(-64)">
-<rect width="4" x="64" y="0" height="65" style="fill:#fff"/>
-<rect width="2" x="67" y="0" height="65"/>
-</g>
-</pattern>
-<pattern width="8" height="8" patternTransform="translate(60,0)" patternUnits="userSpaceOnUse" id="Dotted">
-<g transform="translate(-60)">
-<rect width="9" x="60" y="0" height="9" style="fill:#fff"/>
-<rect width="1" x="61" y="5" height="1"/>
-<rect width="1" x="65" y="1" height="1"/>
-</g>
-</pattern>
-<pattern width="8" height="8" patternTransform="translate(60,0)" patternUnits="userSpaceOnUse" id="Dotted-1">
-<g transform="translate(-60)">
-<rect width="9" x="60" y="0" height="9" style="fill:#fff"/>
-<rect width="1" x="61" y="5" height="1"/>
-<rect width="1" x="65" y="1" height="1"/>
-</g>
-</pattern>
-<pattern patternTransform="translate(27,2)rotate(45)" id="XHatchD-47" xlink:href="#XHatch-0"/>
-<pattern patternTransform="translate(28,7)" id="DottedT-3" xlink:href="#Dotted-1"/>
-<pattern width="4" height="64" patternTransform="translate(70,0)" patternUnits="userSpaceOnUse" id="Hatch-49">
-<g transform="translate(-64)">
-<rect width="4" x="64" y="0" height="65" style="fill:#fff"/>
-<rect width="2" x="67" y="0" height="65"/>
-</g>
-</pattern>
+<linearGradient id="OrLin-5-9">
+<stop offset="0" style="stop-color:#ff0"/>
+<stop offset="1" style="stop-color:#ffe000"/>
+</linearGradient>
 <pattern patternTransform="translate(28,8)" id="DashDotHatchT-2-8" xlink:href="#DashDotHatch-6-21"/>
+<pattern patternTransform="translate(26,0)" id="HatchV-7" xlink:href="#Hatch-3-36"/>
 <pattern width="4" height="4" patternTransform="translate(70,0)" patternUnits="userSpaceOnUse" id="XHatch-0">
 <g transform="translate(-64)">
 <rect width="5" x="64" y="0" height="5"/>
@@ -249,7 +45,14 @@
 </g>
 </pattern>
 <pattern patternTransform="translate(0,2)rotate(90)" id="HatchH-5" xlink:href="#Hatch-49"/>
-<pattern patternTransform="translate(26,0)" id="HatchV-7" xlink:href="#Hatch-3-36"/>
+<pattern patternTransform="translate(27,2)rotate(45)" id="XHatchD-47" xlink:href="#XHatch-0"/>
+<pattern patternTransform="translate(30,2)" xlink:href="#XHatch-7" id="XHatchT"/>
+<pattern width="4" height="64" patternTransform="translate(70,0)" patternUnits="userSpaceOnUse" id="Hatch">
+<g transform="translate(-64)">
+<rect width="4" x="64" y="0" height="65" style="fill:#fff"/>
+<rect width="2" x="67" y="0" height="65"/>
+</g>
+</pattern>
 <pattern width="11.729" height="11.16" patternTransform="translate(1.490023,-16.73815)" patternUnits="userSpaceOnUse" id="pattern7489">
 <g transform="translate(-57.27057 .1596)">
 <g>
@@ -261,13 +64,93 @@
 </g>
 </g>
 </pattern>
-<pattern width="4" height="64" patternTransform="translate(70,0)" patternUnits="userSpaceOnUse" id="Hatch">
+<pattern width="4" height="4" patternTransform="translate(70,0)" patternUnits="userSpaceOnUse" id="XHatch">
+<g transform="translate(-64)">
+<rect width="5" x="64" y="0" height="5"/>
+<rect width="3" x="64" y="0" height="3" style="fill:#fff"/>
+</g>
+</pattern>
+<pattern width="4" height="64" patternTransform="translate(70,0)" patternUnits="userSpaceOnUse" id="Hatch-49">
 <g transform="translate(-64)">
 <rect width="4" x="64" y="0" height="65" style="fill:#fff"/>
 <rect width="2" x="67" y="0" height="65"/>
 </g>
 </pattern>
+<pattern width="4" height="64" patternTransform="translate(70,0)" patternUnits="userSpaceOnUse" id="Hatch-4-29">
+<g transform="translate(-64)">
+<rect width="4" x="64" y="0" height="65" style="fill:#fff"/>
+<rect width="2" x="67" y="0" height="65"/>
+</g>
+</pattern>
+<pattern width="4" height="64" patternTransform="translate(70,0)" patternUnits="userSpaceOnUse" id="Hatch-3-36">
+<g transform="translate(-64)">
+<rect width="4" x="64" y="0" height="65" style="fill:#fff"/>
+<rect width="2" x="67" y="0" height="65"/>
+</g>
+</pattern>
+<pattern patternTransform="translate(0,2)rotate(90)" xlink:href="#Hatch" id="HatchH"/>
+<pattern width="8" height="8" patternTransform="translate(60,0)" patternUnits="userSpaceOnUse" id="Dotted-1">
+<g transform="translate(-60)">
+<rect width="9" x="60" y="0" height="9" style="fill:#fff"/>
+<rect width="1" x="61" y="5" height="1"/>
+<rect width="1" x="65" y="1" height="1"/>
+</g>
+</pattern>
+<pattern patternTransform="translate(3,2)skewX(45)" id="HatchHD-7" xlink:href="#XHatch-6-4"/>
+<pattern width="8" height="8" patternTransform="translate(60,0)" patternUnits="userSpaceOnUse" id="Dotted">
+<g transform="translate(-60)">
+<rect width="9" x="60" y="0" height="9" style="fill:#fff"/>
+<rect width="1" x="61" y="5" height="1"/>
+<rect width="1" x="65" y="1" height="1"/>
+</g>
+</pattern>
+<pattern patternTransform="translate(28,7)" xlink:href="#Dotted" id="DottedT"/>
+<pattern patternTransform="translate(28,7)" id="DottedT-3" xlink:href="#Dotted-1"/>
+<pattern patternTransform="translate(28,0.5)rotate(135)" xlink:href="#Hatch-32" id="HatchD"/>
 <pattern width="4" height="4" patternTransform="translate(70,0)" patternUnits="userSpaceOnUse" id="XHatch-7-4">
+<g transform="translate(-64)">
+<rect width="5" x="64" y="0" height="5"/>
+<rect width="3" x="64" y="0" height="3" style="fill:#fff"/>
+</g>
+</pattern>
+<pattern patternTransform="translate(3,2)skewX(45)" xlink:href="#XHatch-6" id="HatchHD"/>
+<pattern width="8" height="10" patternTransform="translate(60,0)" patternUnits="userSpaceOnUse" id="DashDotHatch-6">
+<g transform="translate(-60)">
+<rect width="9" x="60" y="0" height="11" style="fill:#fff"/>
+<rect width="1" x="61" y="0" height="5"/>
+<rect width="1" x="61" y="7" height="1"/>
+<rect width="1" x="65" y="2" height="1"/>
+<rect width="1" x="65" y="5" height="5"/>
+</g>
+</pattern>
+<pattern width="4" height="4" patternTransform="translate(70,0)" patternUnits="userSpaceOnUse" id="XHatch-6">
+<g transform="translate(-64)">
+<rect width="5" x="64" y="0" height="5"/>
+<rect width="3" x="64" y="0" height="3" style="fill:#fff"/>
+</g>
+</pattern>
+<pattern patternTransform="translate(28,8)" xlink:href="#DashDotHatch-6" id="DashDotHatchT-2"/>
+<pattern patternTransform="translate(57.5,0)rotate(45)" xlink:href="#Hatch-4" id="HatchU"/>
+<pattern width="4" height="64" patternTransform="translate(70,0)" patternUnits="userSpaceOnUse" id="Hatch-4">
+<g transform="translate(-64)">
+<rect width="4" x="64" y="0" height="65" style="fill:#fff"/>
+<rect width="2" x="67" y="0" height="65"/>
+</g>
+</pattern>
+<pattern width="4" height="4" patternTransform="translate(70,0)" patternUnits="userSpaceOnUse" id="XHatch-7">
+<g transform="translate(-64)">
+<rect width="5" x="64" y="0" height="5"/>
+<rect width="3" x="64" y="0" height="3" style="fill:#fff"/>
+</g>
+</pattern>
+<pattern patternTransform="translate(30,2)" id="XHatchT-6" xlink:href="#XHatch-7-4"/>
+<pattern width="4" height="64" patternTransform="translate(70,0)" patternUnits="userSpaceOnUse" id="Hatch-32-5">
+<g transform="translate(-64)">
+<rect width="4" x="64" y="0" height="65" style="fill:#fff"/>
+<rect width="2" x="67" y="0" height="65"/>
+</g>
+</pattern>
+<pattern width="4" height="4" patternTransform="translate(70,0)" patternUnits="userSpaceOnUse" id="XHatch-6-4">
 <g transform="translate(-64)">
 <rect width="5" x="64" y="0" height="5"/>
 <rect width="3" x="64" y="0" height="3" style="fill:#fff"/>
@@ -290,14 +173,9 @@
 <rect width="3" x="64" y="0" height="3" style="fill:#fff"/>
 </g>
 </pattern>
-<pattern width="4" height="4" patternTransform="translate(70,0)" patternUnits="userSpaceOnUse" id="XHatch-6-4">
-<g transform="translate(-64)">
-<rect width="5" x="64" y="0" height="5"/>
-<rect width="3" x="64" y="0" height="3" style="fill:#fff"/>
-</g>
-</pattern>
-<pattern patternTransform="translate(3,2)skewX(45)" xlink:href="#XHatch-6" id="HatchHD"/>
 <pattern patternTransform="translate(26,0)" xlink:href="#Hatch-3" id="HatchV"/>
+<pattern patternTransform="translate(27,2)rotate(45)" xlink:href="#XHatch" id="XHatchD"/>
+<pattern patternTransform="translate(57.5,0)rotate(45)" id="HatchU-4" xlink:href="#Hatch-4-6"/>
 <pattern width="4" height="64" patternTransform="translate(70,0)" patternUnits="userSpaceOnUse" id="Hatch-32">
 <g transform="translate(-64)">
 <rect width="4" x="64" y="0" height="65" style="fill:#fff"/>
@@ -305,7 +183,21 @@
 </g>
 </pattern>
 <pattern patternTransform="translate(28,0.5)rotate(135)" id="HatchD-6" xlink:href="#Hatch-32-5"/>
-<pattern width="8" height="10" patternTransform="translate(60,0)" patternUnits="userSpaceOnUse" id="DashDotHatch-6">
+<pattern patternTransform="translate(57.5,0)rotate(45)" id="HatchU-9" xlink:href="#Hatch-4-29"/>
+<pattern width="11.729" height="11.16" patternTransform="translate(1.490023,-16.73815)" patternUnits="userSpaceOnUse" id="pattern7489-6">
+<g transform="translate(-57.27057 .1596)">
+<g>
+<rect width="9" x="60" y="0" height="11" style="fill:#fff"/>
+<rect width="1" x="59.244" y="-.16" height="5"/>
+<rect width="1" x="65" y="5" height="5"/>
+<rect width="1" x="1.395" y="-67.857" height="5" transform="rotate(90)"/>
+<rect width="1" x="7.141" y="-62.271" height="5" transform="rotate(90)"/>
+</g>
+</g>
+</pattern>
+<pattern patternTransform="translate(26,0)" xlink:href="#Hatch-3-3-3" id="HatchV-4-0"/>
+<pattern patternTransform="translate(57.5,0)rotate(45)" xlink:href="#Hatch-4-6-5" id="HatchU-4-5"/>
+<pattern width="8" height="10" patternTransform="translate(60,0)" patternUnits="userSpaceOnUse" id="DashDotHatch-6-21">
 <g transform="translate(-60)">
 <rect width="9" x="60" y="0" height="11" style="fill:#fff"/>
 <rect width="1" x="61" y="0" height="5"/>
@@ -314,49 +206,157 @@
 <rect width="1" x="65" y="5" height="5"/>
 </g>
 </pattern>
-<pattern patternTransform="translate(30,2)" id="XHatchT-6" xlink:href="#XHatch-7-4"/>
-<pattern width="4" height="64" patternTransform="translate(70,0)" patternUnits="userSpaceOnUse" id="Hatch-32-5">
+<pattern patternTransform="translate(0,2)rotate(90)" id="HatchH-9" xlink:href="#Hatch-0"/>
+<pattern width="4" height="64" patternTransform="translate(70,0)" patternUnits="userSpaceOnUse" id="Hatch-0">
 <g transform="translate(-64)">
 <rect width="4" x="64" y="0" height="65" style="fill:#fff"/>
 <rect width="2" x="67" y="0" height="65"/>
 </g>
 </pattern>
-<pattern width="4" height="64" patternTransform="translate(70,0)" patternUnits="userSpaceOnUse" id="Hatch-3-36">
-<g transform="translate(-64)">
-<rect width="4" x="64" y="0" height="65" style="fill:#fff"/>
-<rect width="2" x="67" y="0" height="65"/>
-</g>
-</pattern>
-<pattern patternTransform="translate(28,0.5)rotate(135)" xlink:href="#Hatch-32" id="HatchD"/>
-<pattern patternTransform="translate(28,8)" xlink:href="#DashDotHatch-6" id="DashDotHatchT-2"/>
-<pattern width="4" height="4" patternTransform="translate(70,0)" patternUnits="userSpaceOnUse" id="XHatch-6">
+<pattern patternTransform="translate(27,2)rotate(45)" id="XHatchD-4" xlink:href="#XHatch-3"/>
+<pattern width="4" height="4" patternTransform="translate(70,0)" patternUnits="userSpaceOnUse" id="XHatch-3">
 <g transform="translate(-64)">
 <rect width="5" x="64" y="0" height="5"/>
 <rect width="3" x="64" y="0" height="3" style="fill:#fff"/>
 </g>
 </pattern>
-<pattern width="4" height="64" patternTransform="translate(70,0)" patternUnits="userSpaceOnUse" id="Hatch-4">
+<pattern width="4" height="64" patternTransform="translate(70,0)" patternUnits="userSpaceOnUse" id="Hatch-3-3">
 <g transform="translate(-64)">
 <rect width="4" x="64" y="0" height="65" style="fill:#fff"/>
 <rect width="2" x="67" y="0" height="65"/>
 </g>
 </pattern>
-<pattern width="4" height="4" patternTransform="translate(70,0)" patternUnits="userSpaceOnUse" id="XHatch-7">
+<pattern patternTransform="translate(28,0.5)rotate(135)" xlink:href="#Hatch-32-5-9" id="HatchD-6-0"/>
+<pattern width="4" height="4" patternTransform="translate(70,0)" patternUnits="userSpaceOnUse" id="XHatch-6-9">
 <g transform="translate(-64)">
 <rect width="5" x="64" y="0" height="5"/>
 <rect width="3" x="64" y="0" height="3" style="fill:#fff"/>
 </g>
 </pattern>
-<pattern patternTransform="translate(57.5,0)rotate(45)" xlink:href="#Hatch-4" id="HatchU"/>
-<radialGradient cx="27" cy="31.7" gradientTransform="matrix(1 0 0 1.18077 0 -5.73039)" xlink:href="#OrLin-5-9" id="radialGradient8983" r="26" gradientUnits="userSpaceOnUse"/>
-<radialGradient cx="148.004" cy="160" gradientTransform="matrix(.97656 0 0 .97656 -16.5349 -236.25)" r="128" id="radialGradient4432" xlink:href="#linearGradient3895-9-0-3-2-4-0" gradientUnits="userSpaceOnUse"/>
+<pattern patternTransform="translate(28,0.5)rotate(135)" id="HatchD-9" xlink:href="#Hatch-32-8"/>
+<pattern width="4" height="64" patternTransform="translate(70,0)" patternUnits="userSpaceOnUse" id="Hatch-32-8">
+<g transform="translate(-64)">
+<rect width="4" x="64" y="0" height="65" style="fill:#fff"/>
+<rect width="2" x="67" y="0" height="65"/>
+</g>
+</pattern>
+<pattern patternTransform="translate(26,0)" id="HatchV-4" xlink:href="#Hatch-3-3"/>
+<pattern patternTransform="translate(3,2)skewX(45)" id="HatchHD-6" xlink:href="#XHatch-6-9"/>
+<pattern patternTransform="translate(3,2)skewX(45)" xlink:href="#XHatch-6-4-9" id="HatchHD-7-6"/>
+<pattern patternTransform="translate(27,2)rotate(45)" xlink:href="#XHatch-3-5" id="XHatchD-4-9"/>
+<pattern width="8" height="10" patternTransform="translate(60,0)" patternUnits="userSpaceOnUse" id="DashDotHatch-6-3">
+<g transform="translate(-60)">
+<rect width="9" x="60" y="0" height="11" style="fill:#fff"/>
+<rect width="1" x="61" y="0" height="5"/>
+<rect width="1" x="61" y="7" height="1"/>
+<rect width="1" x="65" y="2" height="1"/>
+<rect width="1" x="65" y="5" height="5"/>
+</g>
+</pattern>
+<pattern width="4" height="4" patternTransform="translate(70,0)" patternUnits="userSpaceOnUse" id="XHatch-3-5">
+<g transform="translate(-64)">
+<rect width="5" x="64" y="0" height="5"/>
+<rect width="3" x="64" y="0" height="3" style="fill:#fff"/>
+</g>
+</pattern>
+<pattern width="4" height="64" patternTransform="translate(70,0)" patternUnits="userSpaceOnUse" id="Hatch-4-6">
+<g transform="translate(-64)">
+<rect width="4" x="64" y="0" height="65" style="fill:#fff"/>
+<rect width="2" x="67" y="0" height="65"/>
+</g>
+</pattern>
+<pattern patternTransform="translate(28,8)" id="DashDotHatchT-2-5" xlink:href="#DashDotHatch-6-3"/>
+<pattern width="4" height="4" patternTransform="translate(70,0)" patternUnits="userSpaceOnUse" id="XHatch-6-4-9">
+<g transform="translate(-64)">
+<rect width="5" x="64" y="0" height="5"/>
+<rect width="3" x="64" y="0" height="3" style="fill:#fff"/>
+</g>
+</pattern>
+<pattern width="4" height="4" patternTransform="translate(70,0)" patternUnits="userSpaceOnUse" id="XHatch-7-4-6">
+<g transform="translate(-64)">
+<rect width="5" x="64" y="0" height="5"/>
+<rect width="3" x="64" y="0" height="3" style="fill:#fff"/>
+</g>
+</pattern>
+<pattern width="4" height="64" patternTransform="translate(70,0)" patternUnits="userSpaceOnUse" id="Hatch-4-6-5">
+<g transform="translate(-64)">
+<rect width="4" x="64" y="0" height="65" style="fill:#fff"/>
+<rect width="2" x="67" y="0" height="65"/>
+</g>
+</pattern>
+<pattern width="8" height="8" patternTransform="translate(60,0)" patternUnits="userSpaceOnUse" id="Dotted-7">
+<g transform="translate(-60)">
+<rect width="9" x="60" y="0" height="9" style="fill:#fff"/>
+<rect width="1" x="61" y="5" height="1"/>
+<rect width="1" x="65" y="1" height="1"/>
+</g>
+</pattern>
+<pattern patternTransform="translate(30,2)" id="XHatchT-8" xlink:href="#XHatch-7-0"/>
+<pattern patternTransform="translate(28,8)" xlink:href="#DashDotHatch-6-3-4" id="DashDotHatchT-2-5-8"/>
+<pattern patternTransform="translate(28,7)" id="DottedT-2" xlink:href="#Dotted-7"/>
+<pattern width="4" height="64" patternTransform="translate(70,0)" patternUnits="userSpaceOnUse" id="Hatch-32-5-9">
+<g transform="translate(-64)">
+<rect width="4" x="64" y="0" height="65" style="fill:#fff"/>
+<rect width="2" x="67" y="0" height="65"/>
+</g>
+</pattern>
+<pattern width="4" height="64" patternTransform="translate(70,0)" patternUnits="userSpaceOnUse" id="Hatch-0-7">
+<g transform="translate(-64)">
+<rect width="4" x="64" y="0" height="65" style="fill:#fff"/>
+<rect width="2" x="67" y="0" height="65"/>
+</g>
+</pattern>
+<pattern width="4" height="64" patternTransform="translate(70,0)" patternUnits="userSpaceOnUse" id="Hatch-3-3-3">
+<g transform="translate(-64)">
+<rect width="4" x="64" y="0" height="65" style="fill:#fff"/>
+<rect width="2" x="67" y="0" height="65"/>
+</g>
+</pattern>
+<pattern width="8" height="10" patternTransform="translate(60,0)" patternUnits="userSpaceOnUse" id="DashDotHatch-6-3-4">
+<g transform="translate(-60)">
+<rect width="9" x="60" y="0" height="11" style="fill:#fff"/>
+<rect width="1" x="61" y="0" height="5"/>
+<rect width="1" x="61" y="7" height="1"/>
+<rect width="1" x="65" y="2" height="1"/>
+<rect width="1" x="65" y="5" height="5"/>
+</g>
+</pattern>
+<pattern width="4" height="64" patternTransform="translate(70,0)" patternUnits="userSpaceOnUse" id="Hatch-3">
+<g transform="translate(-64)">
+<rect width="4" x="64" y="0" height="65" style="fill:#fff"/>
+<rect width="2" x="67" y="0" height="65"/>
+</g>
+</pattern>
+<pattern patternTransform="translate(30,2)" xlink:href="#XHatch-7-4-6" id="XHatchT-6-5"/>
+<pattern patternTransform="translate(28,7)" xlink:href="#Dotted-7-9" id="DottedT-2-8"/>
+<pattern width="8" height="8" patternTransform="translate(60,0)" patternUnits="userSpaceOnUse" id="Dotted-7-9">
+<g transform="translate(-60)">
+<rect width="9" x="60" y="0" height="9" style="fill:#fff"/>
+<rect width="1" x="61" y="5" height="1"/>
+<rect width="1" x="65" y="1" height="1"/>
+</g>
+</pattern>
+<pattern patternTransform="translate(0,2)rotate(90)" xlink:href="#Hatch-0-7" id="HatchH-9-7"/>
+<pattern width="11.729" height="11.16" patternTransform="translate(1.490023,-16.73815)" patternUnits="userSpaceOnUse" id="pattern7489-6-8">
+<g transform="translate(-57.27057 .1596)">
+<g>
+<rect width="9" x="60" y="0" height="11" style="fill:#fff"/>
+<rect width="1" x="59.244" y="-.16" height="5"/>
+<rect width="1" x="65" y="5" height="5"/>
+<rect width="1" x="1.395" y="-67.857" height="5" transform="rotate(90)"/>
+<rect width="1" x="7.141" y="-62.271" height="5" transform="rotate(90)"/>
+</g>
+</g>
+</pattern>
+<radialGradient cx="27" cy="31.7" gradientTransform="matrix(1 0 0 1.18077 0 -5.73039)" xlink:href="#OrLin-5" id="radialGradient8975" r="26" gradientUnits="userSpaceOnUse"/>
+<radialGradient cx="27" cy="31.7" gradientTransform="matrix(1 0 0 1.18077 0 -5.73039)" xlink:href="#OrLin-1" id="radialGradient8979" r="26" gradientUnits="userSpaceOnUse"/>
+<radialGradient cx="27" cy="31.7" gradientTransform="matrix(1 0 0 1.18077 0 -5.73039)" xlink:href="#ArgentLin" id="radialGradient8969" r="26" gradientUnits="userSpaceOnUse"/>
+<radialGradient cx="27" cy="31.7" gradientTransform="matrix(1 0 0 1.18077 0 -5.73039)" xlink:href="#OrLin" id="radialGradient8971" r="26" gradientUnits="userSpaceOnUse"/>
 <radialGradient cx="27" cy="31.7" gradientTransform="matrix(1 0 0 1.18077 0 -5.73039)" xlink:href="#ArgentLin-4-7" id="radialGradient8981" r="26" gradientUnits="userSpaceOnUse"/>
 <radialGradient cx="27" cy="31.7" gradientTransform="matrix(1 0 0 1.18077 0 -5.73039)" xlink:href="#ArgentLin-9" id="radialGradient8977" r="26" gradientUnits="userSpaceOnUse"/>
-<radialGradient cx="27" cy="31.7" gradientTransform="matrix(1 0 0 1.18077 0 -5.73039)" xlink:href="#ArgentLin" id="radialGradient8969" r="26" gradientUnits="userSpaceOnUse"/>
-<radialGradient cx="27" cy="31.7" gradientTransform="matrix(1 0 0 1.18077 0 -5.73039)" xlink:href="#OrLin-5" id="radialGradient8975" r="26" gradientUnits="userSpaceOnUse"/>
-<radialGradient cx="27" cy="31.7" gradientTransform="matrix(1 0 0 1.18077 0 -5.73039)" xlink:href="#OrLin" id="radialGradient8971" r="26" gradientUnits="userSpaceOnUse"/>
+<radialGradient cx="27" cy="31.7" gradientTransform="matrix(1 0 0 1.18077 0 -5.73039)" xlink:href="#OrLin-5-9" id="radialGradient8983" r="26" gradientUnits="userSpaceOnUse"/>
+<radialGradient cx="148.004" cy="160" gradientTransform="matrix(.97656 0 0 .97656 -16.5349 -236.25)" r="128" id="radialGradient4432" xlink:href="#linearGradient3895-9-0-3-2-4-0" gradientUnits="userSpaceOnUse"/>
 <radialGradient cx="27" cy="31.7" gradientTransform="matrix(1 0 0 1.18077 0 -5.73039)" xlink:href="#ArgentLin-4" id="radialGradient8973" r="26" gradientUnits="userSpaceOnUse"/>
-<radialGradient cx="27" cy="31.7" gradientTransform="matrix(1 0 0 1.18077 0 -5.73039)" xlink:href="#OrLin-1" id="radialGradient8979" r="26" gradientUnits="userSpaceOnUse"/>
 </defs>
 <g transform="translate(0 208)">
 <path style="fill:url(#radialGradient4432);color:#bebebe" d="m 253,-146.40625 0,132.8125 C 253,41.09375 253,45 194.40625,45 L 61.59375,45 C 3,45 3,41.09375 3,-13.59375 l 0,-132.8125 C 3,-201.09375 3,-205 61.59375,-205 l 132.8125,0 C 253,-205 253,-201.09375 253,-146.40625 z"/>
