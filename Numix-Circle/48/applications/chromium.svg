@@ -1,36 +1,36 @@
 <svg width="48" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 13.546667 13.546667" height="48" xmlns:xlink="http://www.w3.org/1999/xlink">
 <defs>
+<linearGradient gradientTransform="matrix(.04149 0 0 .0415 1.47294 284.93269)" xlink:href="#linearGradient3795" id="linearGradient4088" y1="225" x1="72" y2="149" gradientUnits="userSpaceOnUse" x2="118"/>
+<linearGradient xlink:href="#blueFade" id="linearGradient4097" y1="-40.5" y2="41.5" gradientUnits="userSpaceOnUse" x2="0"/>
 <linearGradient gradientTransform="matrix(.04149 0 0 .0415 1.47294 284.93269)" xlink:href="#linearGradient8655" id="linearGradient4091" y1="16" y2="107" gradientUnits="userSpaceOnUse" x2="0"/>
-<linearGradient gradientTransform="matrix(.04149 0 0 .0415 1.47294 284.93269)" xlink:href="#linearGradient4067-0-2" id="linearGradient4085" y1="220" x1="187" y2="102" gradientUnits="userSpaceOnUse" x2="138"/>
 <linearGradient id="blueFade" y1="-40.5" y2="41.5" x2="0" gradientUnits="userSpaceOnUse">
 <stop offset="0%" style="stop-color:#81b4e0"/>
 <stop offset="100%" style="stop-color:#0c5a94"/>
 </linearGradient>
-<linearGradient xlink:href="#blueFade" id="linearGradient4097" y1="-40.5" y2="41.5" gradientUnits="userSpaceOnUse" x2="0"/>
-<linearGradient gradientTransform="matrix(.04149 0 0 .0415 1.47294 284.93269)" xlink:href="#linearGradient3795" id="linearGradient4088" y1="225" x1="72" y2="149" gradientUnits="userSpaceOnUse" x2="118"/>
-<linearGradient id="linearGradient8655">
-<stop offset="0" style="stop-color:#608ab6"/>
-<stop offset="1" style="stop-color:#3f70a0"/>
-</linearGradient>
+<linearGradient gradientTransform="matrix(.04149 0 0 .0415 1.47294 284.93269)" xlink:href="#linearGradient4067-0-2" id="linearGradient4085" y1="220" x1="187" y2="102" gradientUnits="userSpaceOnUse" x2="138"/>
 <linearGradient id="linearGradient4067-0-2">
 <stop offset="0" style="stop-color:#99c1e5"/>
 <stop offset="1" style="stop-color:#cdd9e3"/>
 </linearGradient>
 <linearGradient id="linearGradient4460">
-<stop offset="0" style="stop-color:#bebebe"/>
-<stop offset="1" style="stop-color:#dedede"/>
+<stop offset="0" style="stop-color:#dbdbdb"/>
+<stop offset="1" style="stop-color:#f9f9f9"/>
 </linearGradient>
 <linearGradient id="linearGradient3795">
 <stop offset="0" style="stop-color:#6398ce"/>
 <stop offset="1" style="stop-color:#89b7e1"/>
 </linearGradient>
-<linearGradient gradientTransform="matrix(1.09524 0 0 1.09524 -133.00183 -9.56867)" xlink:href="#linearGradient4460" id="linearGradient4500" y1="279.096" y2="268.33" gradientUnits="userSpaceOnUse" x2="0"/>
+<linearGradient gradientTransform="matrix(1.10525 0 0 1.10525 -134.27874 -295.76183)" xlink:href="#linearGradient4460" id="linearGradient3032" y1="279.096" y2="268.33" gradientUnits="userSpaceOnUse" x2="0"/>
+<linearGradient id="linearGradient8655">
+<stop offset="0" style="stop-color:#608ab6"/>
+<stop offset="1" style="stop-color:#3f70a0"/>
+</linearGradient>
 </defs>
-<g style="fill-rule:evenodd" transform="translate(0 -283.45331)">
-<rect width="12.982" x=".282" y="283.736" rx="6.491" height="12.982" style="opacity:.5;fill:#fff"/>
-<rect width="11.746" x=".9" y="284.354" rx="5.873" height="11.746" style="fill:url(#linearGradient4500)"/>
+<g style="fill-rule:evenodd">
+<rect width="12.982" x=".282" y=".282" rx="6.491" height="12.982" style="opacity:.5;fill:#fff"/>
+<rect width="11.853" x=".847" y=".847" rx="5.926" height="11.853" style="fill:url(#linearGradient3032)"/>
 </g>
-<g transform="translate(0 -283.45331)">
+<g transform="matrix(1.27862 0 0 1.27827 -1.88716 -364.21382)">
 <circle cx=".5" cy=".5" style="fill:url(#linearGradient4097)" r="41" d="m 41.5,0.5 c 0,22.643675 -18.356325,41 -41,41 -22.643675,0 -41,-18.356325 -41,-41 0,-22.643675 18.356325,-41 41,-41 22.643675,0 41,18.356325 41,41 z" transform="matrix(.03786 0 0 .03786 6.7544 290.20771)"/>
 <path style="fill:url(#linearGradient4091)" d="m 10.933724,288.16932 a 4.6474023,4.6474714 0 0 0 -8.0084693,-0.53945 l 1.86726,3.23664 a 2.0747332,2.0747641 0 0 1 1.950248,-2.69719"/>
 <path style="fill:url(#linearGradient4088)" d="m 2.9252547,287.62987 a 4.6474023,4.6474714 0 0 0 3.485552,7.22018 l 1.950248,-3.31961 a 2.0747332,2.0747641 0 0 1 -3.56854,-0.66393"/>

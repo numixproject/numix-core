@@ -1,22 +1,17 @@
 <svg width="48" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 13.546667 13.546667" height="48" xmlns:xlink="http://www.w3.org/1999/xlink">
 <defs>
-<linearGradient gradientTransform="translate(-296.99996 -283.4533)" xlink:href="#linearGradient3778" id="linearGradient3784" x1="2.137" x2="11.41" gradientUnits="userSpaceOnUse"/>
-<linearGradient gradientTransform="matrix(1.09524 0 0 1.09524 -133.00183 -9.56867)" xlink:href="#linearGradient4460" id="linearGradient4500" y1="279.096" y2="268.33" gradientUnits="userSpaceOnUse" x2="0"/>
-<linearGradient id="linearGradient3778">
-<stop offset="0" style="stop-color:#e02a2a"/>
-<stop offset="1" style="stop-color:#f9595c"/>
-</linearGradient>
 <linearGradient id="linearGradient4460">
-<stop offset="0" style="stop-color:#282828"/>
-<stop offset="1" style="stop-color:#3a3a3a"/>
+<stop offset="0" style="stop-color:#2d2d2d"/>
+<stop offset="1" style="stop-color:#4b4b4b"/>
 </linearGradient>
+<linearGradient gradientTransform="matrix(1.10525 0 0 1.10525 -134.27874 -295.76183)" xlink:href="#linearGradient4460" id="linearGradient3015" y1="279.096" y2="268.33" gradientUnits="userSpaceOnUse" x2="0"/>
 </defs>
-<g style="fill-rule:evenodd" transform="translate(0 -283.45331)">
-<rect width="12.982" x=".282" y="283.736" rx="6.491" height="12.982" style="opacity:.5;fill:#fff"/>
-<rect width="11.746" x=".9" y="284.354" rx="5.873" height="11.746" style="fill:url(#linearGradient4500)"/>
-<rect width="9.273" x="-294.863" y="2.137" rx="4.636" height="9.273" style="fill:url(#linearGradient3784)" transform="matrix(0 -1 1 0 0 0)"/>
+<g style="fill-rule:evenodd">
+<rect width="12.982" x=".282" y=".282" rx="6.491" height="12.982" style="opacity:.5;fill:#fff"/>
+<rect width="11.853" x=".847" y=".847" rx="5.926" height="11.853" style="fill:url(#linearGradient3015)"/>
+<rect width="8.467" x="-11.007" y="2.54" rx="4.233" height="8.467" style="fill:#e33f3f" transform="matrix(0 -1 1 0 0 0)"/>
 </g>
-<g style="fill:#ffc3c3" transform="matrix(.22706 0 0 .22685 1.09415 -226.52039)">
+<g style="fill:#f9f9f9" transform="matrix(.19732 0 0 .18869 1.83798 -187.27415)">
 <rect width="12.375" x="18.625" y="1013.448" rx="6.188" height="21.914"/>
 <path d="m 15,24 c 0,0 0,11 9,10.96875 L 24,37 l -3,0 0,2 8,0 0,-2 -3,0 0,-2.03125 C 35.941986,34.323547 35,24 35,24 l -2,0 c 0,0 0,9 -8,9 -8,0 -8,-9 -8,-9 z" transform="translate(0 1004.3622)"/>
 </g>
