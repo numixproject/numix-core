@@ -1,8 +1,8 @@
 <svg width="48" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 13.546667 13.546667" height="48" xmlns:xlink="http://www.w3.org/1999/xlink">
 <defs>
 <linearGradient id="linearGradient4460">
-<stop offset="0" style="stop-color:#c8b702"/>
-<stop offset="1" style="stop-color:#fce70a"/>
+<stop offset="0" style="stop-color:#f1bc13"/>
+<stop offset="1" style="stop-color:#f5cc4b"/>
 </linearGradient>
 <linearGradient gradientTransform="matrix(1.10525 0 0 1.10525 -134.27874 -295.76183)" xlink:href="#linearGradient4460" id="linearGradient3006" y1="279.096" y2="268.33" gradientUnits="userSpaceOnUse" x2="0"/>
 </defs>
@@ -10,5 +10,12 @@
 <rect width="12.982" x=".282" y=".282" rx="6.491" height="12.982" style="opacity:.5;fill:#fff"/>
 <rect width="11.853" x=".847" y=".847" rx="5.926" height="11.853" style="fill:url(#linearGradient3006)"/>
 </g>
-<path style="fill:#1a1a1a;fill-opacity:.784" d="M 7.261795,3.3866666 3.3866668,7.2571429 6.293013,10.16 10.16,6.2895239 l 0,-2.9028573 -2.8982049,0 z m 1.5956412,0.7806003 c 0.3715658,0 0.6675641,0.29565 0.6675641,0.6667627 0,0.3711125 -0.2959983,0.674894 -0.6675641,0.674894 -0.3715659,0 -0.6757052,-0.3037815 -0.6757052,-0.674894 0,-0.3711127 0.3041393,-0.6667627 0.6757052,-0.6667627 z"/>
+<g transform="matrix(-.76108 -.76108 -.76108 .76108 17.08336 5.91416)">
+<rect width="3.951" x="4.233" y="3.951" rx="1.561" height="6.773" style="fill:#f9f9f9"/>
+<path style="fill:#f3593f;fill-opacity:.941" d="M 20.53125,14 C 17.467113,14 15,16.467113 15,19.53125 L 15,20 29,20 29,19.53125 C 29,16.467113 26.532887,14 23.46875,14 l -2.9375,0 z" transform="scale(.28222)"/>
+</g>
+<g transform="matrix(-1 0 0 1 13.54667 0)">
+<path style="fill:#f9f9f9" d="m 23,17 c 0,0.552285 -0.447715,1 -1,1 -0.552285,0 -1,-0.447715 -1,-1 0,-0.552285 0.447715,-1 1,-1 0.552285,0 1,0.447715 1,1 z" transform="matrix(.19956 -.19956 .19956 .19956 -2.98511 5.79558)"/>
+</g>
+<path style="fill:none;stroke:#888;stroke-linejoin:round;stroke-width:.282" d="M 8.809339,4.7977444 C 9.7542704,5.075225 9.1093195,6.3317978 9.7556606,7.2929766 9.8148842,9.9695177 5.8955633,11.07001 9.2824997,8.1247206 10.621236,6.5146955 9.3612372,5.2915357 8.809339,4.7977444 z"/>
 </svg>
