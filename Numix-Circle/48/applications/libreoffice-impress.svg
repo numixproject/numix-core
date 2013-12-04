@@ -1,23 +1,24 @@
 <svg width="48" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 13.546667 13.546667" height="48" xmlns:xlink="http://www.w3.org/1999/xlink">
 <defs>
 <linearGradient id="linearGradient4460">
-<stop offset="0" style="stop-color:#e7e7e7"/>
-<stop offset="1" style="stop-color:#f9f9f9"/>
+<stop offset="0" style="stop-color:#d25a18"/>
+<stop offset="1" style="stop-color:#e97d43"/>
 </linearGradient>
-<linearGradient gradientTransform="matrix(1.09524 0 0 1.09524 -133.00183 -9.56867)" xlink:href="#linearGradient4460" id="linearGradient4500" y1="279.096" y2="268.33" gradientUnits="userSpaceOnUse" x2="0"/>
+<linearGradient gradientTransform="matrix(1.10525 0 0 1.10525 -134.27874 -295.76214)" xlink:href="#linearGradient4460" id="linearGradient4992" y1="279.096" y2="268.33" gradientUnits="userSpaceOnUse" x2="0"/>
 </defs>
-<g style="fill-rule:evenodd" transform="translate(0 -283.45331)">
-<rect width="12.982" x=".282" y="283.736" rx="6.491" height="12.982" style="opacity:.5;fill:#fff"/>
-<rect width="11.746" x=".9" y="284.354" rx="5.873" height="11.746" style="fill:url(#linearGradient4500)"/>
+<g style="fill-rule:evenodd">
+<rect width="12.982" x=".282" y=".282" rx="6.491" height="12.982" style="opacity:.5;fill:#fff"/>
+<rect width="11.853" x=".847" y=".847" rx="5.926" height="11.853" style="fill:url(#linearGradient4992)"/>
 </g>
-<g transform="translate(0 -283.45331)">
-<rect width="8.552" x="2.497" y="285.951" rx="4.276" height="8.552" style="fill:none;stroke:#ae2265;stroke-width:.721"/>
+<g style="fill:#f9f9f9">
+<g transform="translate(-.14111)">
+<path d="m 3.2455552,3.9511112 2.2577778,0 0,1.6933334 -2.2577778,0 z"/>
+<path d="m 3.2455553,6.4911112 2.2577777,0 0,1.6933334 -2.2577778,0 z"/>
+<path d="m 3.2455552,9.0311113 7.3377778,0 0,0.5644445 -7.3377778,0 z"/>
 </g>
-<g style="fill:#d44087" transform="matrix(.10817 0 0 .10816 -6.31157 15.96708)">
-<rect width="6.667" x="128.437" y="-110.257" height="47.199"/>
-<rect width="6.667" x="95.969" y="-92.407" height="29.538"/>
-<rect width="6.667" x="107.158" y="-96.032" height="32.986"/>
-<rect width="6.667" x="118.15" y="-106.033" height="43.163"/>
-<rect width="6.667" x="139.301" y="-105.53" height="42.66"/>
+<g transform="translate(.14111)">
+<path d="m 8.3255558,3.9511112 0,1.9755556 1.9755562,0 c 0,-1.0910692 -0.8844881,-1.9755556 -1.9755562,-1.9755556 z"/>
+<path d="m 8.0433322,4.2333334 c -1.0910693,0 -1.9755555,0.8844862 -1.9755555,1.9755557 0,1.0910693 0.8844862,1.9755555 1.9755555,1.9755555 1.0910694,0 1.9755558,-0.8844862 1.9755558,-1.9755555 l -1.9755558,0 0,-1.9755557 z"/>
+</g>
 </g>
 </svg>
