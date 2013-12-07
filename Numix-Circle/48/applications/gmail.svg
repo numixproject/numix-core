@@ -1,22 +1,21 @@
 <svg width="48" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 13.546667 13.546667" height="48" xmlns:xlink="http://www.w3.org/1999/xlink">
 <defs>
 <linearGradient id="linearGradient4460">
-<stop offset="0" style="stop-color:#ebebeb"/>
-<stop offset="1" style="stop-color:#fbfbfb"/>
+<stop offset="0" style="stop-color:#c0c0c0"/>
+<stop offset="1" style="stop-color:#dedede"/>
 </linearGradient>
-<linearGradient gradientTransform="matrix(1.09524 0 0 1.09524 -133.00183 -9.56867)" xlink:href="#linearGradient4460" id="linearGradient4500" y1="279.096" y2="268.33" gradientUnits="userSpaceOnUse" x2="0"/>
+<linearGradient gradientTransform="matrix(1.10525 0 0 1.10525 -134.27874 -295.76183)" xlink:href="#linearGradient4460" id="linearGradient3960" y1="279.096" y2="268.33" gradientUnits="userSpaceOnUse" x2="0"/>
 </defs>
-<g style="fill-rule:evenodd" transform="translate(0 -283.45331)">
-<rect width="12.982" x=".282" y="283.736" rx="6.491" height="12.982" style="opacity:.5;fill:#fff"/>
-<rect width="11.746" x=".9" y="284.354" rx="5.873" height="11.746" style="fill:url(#linearGradient4500)"/>
+<g style="fill-rule:evenodd">
+<rect width="12.982" x=".282" y=".282" rx="6.491" height="12.982" style="opacity:.5;fill:#fff"/>
+<rect width="11.853" x=".847" y=".847" rx="5.927" height="11.853" style="fill:url(#linearGradient3960)"/>
 </g>
-<g transform="translate(0 -283.45331)">
-<rect width="7.127" x="3.216" y="287.612" height="5.215" style="fill:none;stroke:#da1a1a;stroke-width:.282"/>
-<polygon points="27.375,22.033 15.552,11.768 5.875,11.768 27.377,31.034 48.875,11.768 39.199,11.768 " style="fill:#da1a1a" transform="matrix(.16574 0 0 .16574 2.24197 285.66153)"/>
-<polyline points="5.875,40.663 27.399,25.871 48.875,40.663  " style="fill:none;stroke:#da1a1a;stroke-width:1.703" transform="matrix(.16574 0 0 .16574 2.24197 285.66153)"/>
-</g>
-<g style="fill:#da1a1a" transform="translate(0 -283.45331)">
-<rect width=".945" x="3.216" y="287.612" height="5.215"/>
-<rect width=".945" x="9.398" y="287.612" height="5.215"/>
+<rect width="7.338" x="3.104" y="4.233" rx=".278" height="5.08" style="fill:#f9f9f9"/>
+<path style="fill:#ccc" d="M 37,17 24,25.65625 35,33 l 1,0 c 0.545822,0 1,-0.45418 1,-1 l 0,-15 z" transform="scale(.28222)"/>
+<path style="fill:#c02c1f" d="m 9.877778,4.2333329 0,5.0800002 0.282222,0 c 0.154043,0 0.282223,-0.1281797 0.282223,-0.2822222 l 0,-4.5155557 c 0,-0.1540426 -0.12818,-0.2822223 -0.282223,-0.2822223 l -0.282222,0 z"/>
+<g style="fill:#ff493c">
+<path d="m 3.3866667,4.2333329 c -0.1540428,0 -0.2822222,0.1281797 -0.2822222,0.2822223 l 0,4.5155557 c 0,0.1540425 0.1281794,0.2822222 0.2822222,0.2822222 l 0.2822223,0 0,-5.0800002 -0.2822223,0 z"/>
+<path d="m 3.3866667,4.2333329 c -0.1540428,0 -0.2822222,0.1281797 -0.2822222,0.2822223 l 0,0.2822222 3.668889,2.4429862 0,-0.9348612 -3.1044445,-2.0725695 -0.2822223,0 z"/>
+<path d="m 10.16,4.2333329 c 0.154043,0 0.282223,0.1281797 0.282223,0.2822223 l 0,0.2822222 -3.6688895,2.4429862 0,-0.9348612 3.1044445,-2.0725695 0.282222,0 z"/>
 </g>
 </svg>
