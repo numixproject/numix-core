@@ -7,24 +7,24 @@ Inherits=Numix
 Example=directory-x-normal
 
 # Directory list
-Directories=48/applications,24/applications,22/applications,16/applications
+Directories=16x16/applications,22x22/applications,24x24/applications,48x48/applications
 
-[16/applications]
+[16x16/applications]
 Size=16
 Context=Applications
 Type=Fixed
 
-[22/applications]
+[22x22/applications]
 Size=22
 Context=Applications
 Type=Fixed
 
-[24/applications]
+[24x24/applications]
 Size=24
 Context=Applications
 Type=Fixed
 
-[48/applications]
+[48x48/applications]
 Size=48
 Context=Applications
 Type=Fixed
