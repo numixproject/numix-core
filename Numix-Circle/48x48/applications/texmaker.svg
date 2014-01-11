@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="text-editor.svg">
+   sodipodi:docname="texmaker.svg">
   <metadata
      id="metadata42">
     <rdf:RDF>
@@ -41,8 +41,8 @@
      id="namedview40"
      showgrid="false"
      inkscape:zoom="9.8368439"
-     inkscape:cx="24.40678"
-     inkscape:cy="24"
+     inkscape:cx="24.610097"
+     inkscape:cy="23.796683"
      inkscape:window-x="0"
      inkscape:window-y="26"
      inkscape:window-maximized="1"
@@ -53,71 +53,49 @@
        id="linearGradient4460">
       <stop
          offset="0"
-         style="stop-color:#aaa"
+         style="stop-color:#80b60d;stop-opacity:1;"
          id="stop7" />
       <stop
          offset="1"
-         style="stop-color:#c8c8c8"
+         style="stop-color:#a4ce5e;stop-opacity:1;"
          id="stop9" />
     </linearGradient>
     <linearGradient
-       gradientTransform="matrix(1.10528 0 0 1.10528 -134.28288 -295.77052)"
+       gradientTransform="matrix(1.10528,0,0,1.10528,-134.28288,-295.77052)"
        xlink:href="#linearGradient4460"
        id="linearGradient3005"
        y1="279.096"
        y2="268.33"
        gradientUnits="userSpaceOnUse"
        x2="0" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4460"
+       id="linearGradient2998"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.10528,0,0,1.10528,-134.28288,-295.77052)"
+       y1="279.096"
+       x2="0"
+       y2="268.33" />
   </defs>
+  <rect
+     id="rect14"
+     style="opacity:0.5;fill:#ffffff;fill-rule:evenodd"
+     height="12.982"
+     rx="6.4910002"
+     y="0.28200001"
+     x="0.28200001"
+     width="12.982" />
+  <rect
+     id="rect16"
+     style="fill:url(#linearGradient2998);fill-rule:evenodd"
+     height="11.853"
+     rx="5.9260001"
+     y="0.847"
+     x="0.847"
+     width="11.853" />
   <g
-     style="fill-rule:evenodd"
-     id="g12">
-    <rect
-       width="12.982"
-       x=".282"
-       y=".282"
-       rx="6.491"
-       height="12.982"
-       style="opacity:.5;fill:#fff"
-       id="rect14" />
-    <rect
-       width="11.853"
-       x=".847"
-       y=".847"
-       rx="5.926"
-       height="11.853"
-       style="fill:url(#linearGradient3005)"
-       id="rect16" />
-  </g>
-  <g
-     transform="translate(0,1.1288389)"
-     id="g20">
-    <path
-       style="fill:#ff6f05"
-       d="m 10.001049,8.4667169 c 0,0 0.15918,-0.091699 0.15895,-0.5644279 7e-6,-0.4553909 -0.1792446,-0.5644277 -0.1792446,-0.5644277 l -4.2519024,1.5e-6 -1.2132963,0.5644219 1.2132972,0.5644322 z"
-       id="path22"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:#ffc13e"
-       d="M 20,26.15625 16,28 l 4,1.84375 0,-3.6875 z"
-       transform="scale(0.28222,0.28222)"
-       id="path24"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:#2d2d2d"
-       d="M 18,27.0625 16,28 l 2,0.9375 0,-1.875 z"
-       transform="scale(0.28222,0.28222)"
-       id="path26"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:#ff2d5e"
-       d="m 33,26 0,4 2.4375,0 c 0,0 0.563315,-0.324976 0.5625,-2 2.5e-5,-1.61359 -0.625,-2 -0.625,-2 L 33,26 z"
-       transform="scale(0.28222,0.28222)"
-       id="path28"
-       inkscape:connector-curvature="0" />
-  </g>
-  <g
-     transform="matrix(0.17641858,0,0,0.17735484,3.1044445,3.9511157)"
+     transform="matrix(0.17641858,0,0,0.17735484,3.1044445,4.797778)"
      id="g12-6"
      style="fill:#2d2d2d;fill-opacity:1">
     <path
