@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="amarok.svg">
+   sodipodi:docname="alienarena.svg">
   <metadata
      id="metadata22">
     <rdf:RDF>
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,7 +41,7 @@
      id="namedview20"
      showgrid="false"
      inkscape:zoom="2.6312391"
-     inkscape:cx="28.281533"
+     inkscape:cx="29.041631"
      inkscape:cy="25.408244"
      inkscape:window-x="0"
      inkscape:window-y="26"
@@ -89,10 +89,47 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4460"
+       xlink:href="#linearGradient4460-8"
        id="linearGradient3834"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.10525,0,0,1.10525,-134.27875,-295.76183)"
+       y1="279.09601"
+       x2="0"
+       y2="268.32999" />
+    <linearGradient
+       x2="0"
+       gradientUnits="userSpaceOnUse"
+       y2="268.33"
+       y1="279.096"
+       id="linearGradient3232"
+       xlink:href="#linearGradient4460-8"
+       gradientTransform="matrix(1.10525,0,0,1.10525,-134.27874,-295.76183)" />
+    <linearGradient
+       id="linearGradient4460-8">
+      <stop
+         id="stop2998"
+         style="stop-color:#3c8610"
+         offset="0" />
+      <stop
+         id="stop3000"
+         style="stop-color:#54bc16"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4460-8"
+       id="linearGradient3041"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.10525,0,0,1.10525,-134.27874,-295.76183)"
+       y1="279.096"
+       x2="0"
+       y2="268.33" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4460-8"
+       id="linearGradient3044"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.10525,0,0,1.10525,-120.5654,-297.35431)"
        y1="279.096"
        x2="0"
        y2="268.33" />
@@ -107,7 +144,7 @@
      width="12.982" />
   <rect
      id="rect16"
-     style="fill:url(#linearGradient3834);fill-rule:evenodd"
+     style="fill:url(#linearGradient3834);fill-rule:evenodd;fill-opacity:1.0"
      height="11.853"
      rx="5.9260001"
      y="0.847"
