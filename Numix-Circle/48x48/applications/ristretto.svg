@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -42,7 +42,7 @@
      id="namedview24"
      showgrid="false"
      inkscape:zoom="7.38"
-     inkscape:cx="17.625457"
+     inkscape:cx="17.354454"
      inkscape:cy="10.676129"
      inkscape:window-x="0"
      inkscape:window-y="26"
@@ -62,11 +62,11 @@
        id="linearGradient4460">
       <stop
          offset="0"
-         style="stop-color:#f6aa18"
+         style="stop-color:#0ac8dd;stop-opacity:1;"
          id="stop8" />
       <stop
          offset="1"
-         style="stop-color:#f8bf52"
+         style="stop-color:#93c8e0;stop-opacity:1;"
          id="stop10" />
     </linearGradient>
     <clipPath
@@ -1544,15 +1544,6 @@
        x2="463"
        y2="44" />
     <linearGradient
-       y2="268.33"
-       x2="0"
-       y1="279.096"
-       gradientTransform="matrix(1.09524,0,0,1.09524,-133.0015,-293.02234)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient5001"
-       xlink:href="#linearGradient4460-2"
-       inkscape:collect="always" />
-    <linearGradient
        y2="44"
        x2="463"
        y1="44"
@@ -2607,15 +2598,6 @@
        gradientTransform="matrix(1.09524,0,0,1.09524,-133.0015,-293.02234)" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4460-2"
-       id="linearGradient5621"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.09524,0,0,1.09524,-149.14367,-291.9849)"
-       y1="279.096"
-       x2="0"
-       y2="268.33" />
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient4460"
        id="linearGradient5625"
        gradientUnits="userSpaceOnUse"
@@ -2641,7 +2623,7 @@
      x="0.89999998"
      width="11.746" />
   <path
-     style="fill:#a63a3a;fill-opacity:1"
+     style="fill:#3d7ba9;fill-opacity:1"
      d="M 18.21875 17.1875 L 13.1875 22.53125 L 9.40625 18.90625 L 4.15625 24.5625 L 5.8125 30.375 L 4.65625 31.625 C 5.2478565 31.335972 7.5211737 35.01453 10.28125 37.78125 C 13.041326 40.54797 16.285734 42.412008 16.875 42.125 C 18.706523 43.957279 28.382316 42.802201 29.40625 43.1875 C 30.421079 43.580807 35.113508 38.802201 36.1875 39.1875 C 37.252388 39.548067 36.459512 37.470295 37.65625 37.6875 C 38.848559 37.900453 38.753851 35.87564 39.71875 35.84375 C 40.665419 35.790494 40.777929 36.245035 41.1875 35.1875 L 40.125 34.0625 C 41.309756 32.128618 42.8125 29.65625 42.8125 29.65625 L 36.15625 21.21875 L 32.21875 25.6875 L 28.34375 21.59375 L 24.96875 25 L 18.21875 17.1875 z "
      transform="scale(.28222)"
      id="path18" />
@@ -2651,7 +2633,7 @@
      y="1.14"
      rx="5.633"
      height="11.266"
-     style="fill:none;stroke:#a63a3a;stroke-width:0.58699999999999997;stroke-opacity:1"
+     style="fill:none;stroke:#3d7ba9;stroke-width:0.58699999999999997;stroke-opacity:1"
      id="rect20" />
   <path
      style="fill:#f9f9f9;fill-opacity:1"
