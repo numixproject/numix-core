@@ -14,15 +14,16 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="final-term.svg">
+   sodipodi:docname="terminal.svg">
   <metadata
-     id="metadata30">
+     id="metadata26">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -37,11 +38,11 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
      inkscape:window-height="742"
-     id="namedview28"
+     id="namedview24"
      showgrid="false"
-     inkscape:zoom="24.228922"
+     inkscape:zoom="4.9166667"
      inkscape:cx="24.40678"
-     inkscape:cy="33.905517"
+     inkscape:cy="24"
      inkscape:window-x="0"
      inkscape:window-y="26"
      inkscape:window-maximized="1"
@@ -49,24 +50,43 @@
   <defs
      id="defs4">
     <linearGradient
-       id="linearGradient4460-2">
+       id="linearGradient4460">
       <stop
          offset="0"
-         style="stop-color:#2b2b2b"
+         style="stop-color:#2d2d2d"
          id="stop7" />
       <stop
          offset="1"
-         style="stop-color:#535353"
+         style="stop-color:#4b4b4b"
          id="stop9" />
     </linearGradient>
     <linearGradient
-       gradientTransform="matrix(1.10525 0 0 1.10525 -134.27874 -295.76183)"
-       xlink:href="#linearGradient4460-2"
-       id="linearGradient2995"
+       gradientTransform="matrix(1.10528 0 0 1.10528 -134.28255 -295.77052)"
+       xlink:href="#linearGradient4460"
+       id="linearGradient3005"
        y1="279.096"
        y2="268.33"
        gradientUnits="userSpaceOnUse"
        x2="0" />
+    <linearGradient
+       x2="0"
+       gradientUnits="userSpaceOnUse"
+       y2="268.33"
+       y1="279.096"
+       id="linearGradient2995"
+       xlink:href="#linearGradient4460-2"
+       gradientTransform="matrix(1.10525,0,0,1.10525,-134.27874,-295.76183)" />
+    <linearGradient
+       id="linearGradient4460-2">
+      <stop
+         id="stop7-5"
+         style="stop-color:#2b2b2b"
+         offset="0" />
+      <stop
+         id="stop9-1"
+         style="stop-color:#535353"
+         offset="1" />
+    </linearGradient>
   </defs>
   <g
      style="fill-rule:evenodd"
@@ -74,7 +94,7 @@
     <rect
        width="12.982"
        x=".282"
-       y=".283"
+       y=".282"
        rx="6.491"
        height="12.982"
        style="opacity:.5;fill:#fff"
@@ -83,28 +103,19 @@
        width="11.853"
        x=".847"
        y=".847"
-       rx="5.927"
+       rx="5.926"
        height="11.853"
-       style="fill:url(#linearGradient2995)"
+       style="fill:url(#linearGradient3005)"
        id="rect16" />
   </g>
   <path
-     style="fill:#d0e090"
-     d="M 7.337778,6.208889 V 5.9266668 H 5.9266669 V 6.208889 H 7.337778 z"
-     id="path18"
-     inkscape:connector-curvature="0" />
-  <path
-     style="fill:#fea264"
-     d="M 4.8381006,5.9266668 4.5155557,5.5674997 5.2412667,4.938889 4.5155557,4.3103203 4.8381006,3.9511112 5.9266668,4.938889 4.8381006,5.9266668 z"
+     style="fill:#d0e090;fill-opacity:1"
+     inkscape:connector-curvature="0"
      id="path20"
-     inkscape:connector-curvature="0" />
-  <rect
-     style="fill:none;stroke:#dedede;stroke-width:0.56444448;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     id="rect3783"
-     width="6.208889"
-     height="6.7733335"
-     x="3.668889"
-     y="3.3866668"
-     rx="0.5"
-     ry="0.49999997" />
+     d="M 10.159998,9.59556 V 8.4666711 H 6.7733313 V 9.59556 h 3.3866667 z" />
+  <path
+     style="fill:#fea264;fill-opacity:1"
+     inkscape:connector-curvature="0"
+     id="path22"
+     d="M 4.1607721,8.4666669 3.3866645,7.6457045 5.1283707,6.2088892 3.3866645,4.7721544 4.1607721,3.9511112 6.7733312,6.2088892 4.1607721,8.4666669 z" />
 </svg>
