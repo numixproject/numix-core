@@ -1,6 +1,6 @@
 [Icon Theme]
 Name=Numix-Circle
-Comment=Numix icon theme with a circular design
+Comment=Numix icon theme with a circular apps icons design
 
 Inherits=Numix
 
@@ -17,6 +17,11 @@ Type=Fixed
 [22x22/applications]
 Size=22
 Context=Applications
+Type=Fixed
+
+[22x22/status]
+Size=22
+Context=Status
 Type=Fixed
 
 [24x24/applications]
