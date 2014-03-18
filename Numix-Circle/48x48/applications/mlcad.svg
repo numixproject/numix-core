@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="ldview.svg">
+   sodipodi:docname="mlcad.svg">
   <metadata
      id="metadata28">
     <rdf:RDF>
@@ -36,17 +36,30 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1301"
-     inkscape:window-height="744"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
      id="namedview26"
-     showgrid="false"
-     inkscape:zoom="10.233322"
-     inkscape:cx="-1.0612133"
-     inkscape:cy="32.849687"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
+     showgrid="true"
+     inkscape:zoom="18.541667"
+     inkscape:cx="17.716854"
+     inkscape:cy="24"
+     inkscape:window-x="1600"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="svg2"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2991" />
+  </sodipodi:namedview>
   <defs
      id="defs4">
     <linearGradient
@@ -94,27 +107,30 @@
      y="0.847"
      x="0.847"
      width="11.853" />
-  <rect
-     style="opacity:1;fill:#ee3131;fill-opacity:1;stroke:none"
-     id="rect2992"
-     width="6.7733335"
-     height="5.0799999"
-     x="3.3866668"
-     y="5.0800004"
-     rx="0.5"
-     ry="0.5" />
-  <rect
-     y="3.3866668"
-     x="4.2333336"
-     height="1.9755557"
-     width="2.2577779"
-     id="rect3762"
-     style="fill:#ee3131;fill-opacity:1;stroke:none" />
-  <rect
-     style="fill:#ee3131;fill-opacity:1;stroke:none"
-     id="rect3764"
-     width="2.2577779"
-     height="1.9755557"
-     x="7.0555563"
-     y="3.3866668" />
+  <g
+     id="g3003">
+    <rect
+       ry="0.55555558"
+       rx="0.58333337"
+       y="4.5155559"
+       x="2.8222222"
+       height="5.6444445"
+       width="7.9022226"
+       id="rect2992"
+       style="fill:#ee3131;fill-opacity:1;stroke:none" />
+    <rect
+       style="fill:#ee3131;fill-opacity:1;stroke:none"
+       id="rect3762"
+       width="2.5399997"
+       height="1.9755559"
+       x="3.668889"
+       y="3.3866668" />
+    <rect
+       y="3.3866668"
+       x="7.3377781"
+       height="1.9755559"
+       width="2.5400004"
+       id="rect3764"
+       style="fill:#ee3131;fill-opacity:1;stroke:none" />
+  </g>
 </svg>
