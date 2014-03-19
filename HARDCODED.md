@@ -14,6 +14,7 @@ For example, take the **Format Junkie** application. Currently ```formatjunkie.d
 | Conky Manager | /usr/share/pixmaps/conky-manager.png | conky-manager |
 | Driver Manager | /usr/share/icons/hicolor/scalable/apps/driver-manager.svg | jockey |
 | Easy Life | /usr/share/pixmaps/easylife.png | easylife |
+| Fade In | /usr/share/fadein/icon_app/fadein_icon_128x128.png | fadein |
 | Format Junkie | /opt/extras.ubuntu.com/formatjunkie/pixmap/fjt.png | fjt |
 | Gcolor2 | /usr/share/pixmaps/gcolor2/gcolor2.xpm | gcolor2 |
 | Gespeaker | /usr/share/gespeaker/data/icons/gespeaker.svg | gespeaker |
@@ -31,6 +32,7 @@ For example, take the **Format Junkie** application. Currently ```formatjunkie.d
 | My Weather Indicator | /opt/extras.ubuntu.com/my-weather-indicator/share/pixmaps/my-weather-indicator.png | indicator-weather |
 | Netbeans | /usr/share/netbeans/7.0.1/nb/netbeans.png | netbeans |
 | Ninja IDE | /usr/share/ninja-ide/img/icon.png | ninja-ide |
+| Nitro | /usr/share/nitrotasks/media/nitrotasks.png | nitrotasks |
 | OmegaT | /usr/share/omegat/images/OmegaT.xpm | omegat |
 | Oracle SQL Developer | /opt/oracle-sqldeveloper/icon.png | N/A |
 | PacmanXG | /usr/share/pixmaps/pacmanxg.png | pacmanxg |
