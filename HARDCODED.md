@@ -42,5 +42,4 @@ For example, take the **Format Junkie** application. Currently ```formatjunkie.d
 | Springseed | /usr/share/pixmaps/springseed/springseed.svg | springseed |
 | TimeShift | /usr/share/pixmaps/timeshift.png | timeshift |
 | Tomate | /usr/share/tomate/media/tomate.png | tomate |
-| TypeCatcher | /usr/share/typecatcher/media/typecatcher.svg | typecatcher |
 | Valentina Studio | /opt/VStudio/Resources/vstudio.png | vstudio |
