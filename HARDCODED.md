@@ -37,6 +37,12 @@ For example, take the **Format Junkie** application. Currently ```formatjunkie.d
 | Oracle SQL Developer | /opt/oracle-sqldeveloper/icon.png | N/A |
 | PacmanXG | /usr/share/pixmaps/pacmanxg.png | pacmanxg |
 | Pycharm | /home/radio/Descargas/pycharm-community-3.1.1/bin/pycharm.png | pycharm |
+| Python 2.6 | /usr/share/pixmaps/python2.6.xpm | python2.6 |
+| Python 2.7 | /usr/share/pixmaps/python2.7.xpm | python2.7 |
+| Python 3.0 | /usr/share/pixmaps/python3.0.xpm | python3.0 |
+| Python 3.1 | /usr/share/pixmaps/python3.1.xpm | python3.1 |
+| Python 3.2 | /usr/share/pixmaps/python3.2.xpm | python3.2 |
+| Python 3.3 | /usr/share/pixmaps/python3.3.xpm | python3.3 |
 | Robomongo | robomongo.png | robomongo |
 | SmartGitHG | smartgithg.png | smartgithg |
 | Springseed | /usr/share/pixmaps/springseed/springseed.svg | springseed |
