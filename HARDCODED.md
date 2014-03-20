@@ -43,6 +43,7 @@ For example, take the **Format Junkie** application. Currently ```formatjunkie.d
 | Python 3.1 | /usr/share/pixmaps/python3.1.xpm | python3.1 |
 | Python 3.2 | /usr/share/pixmaps/python3.2.xpm | python3.2 |
 | Python 3.3 | /usr/share/pixmaps/python3.3.xpm | python3.3 |
+| Python 3.4 | /usr/share/pixmaps/python3.4.xpm | python3.4 |
 | Robomongo | robomongo.png | robomongo |
 | SmartGitHG | smartgithg.png | smartgithg |
 | Springseed | /usr/share/pixmaps/springseed/springseed.svg | springseed |
