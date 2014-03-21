@@ -36,6 +36,7 @@ For example, take the **Format Junkie** application. Currently ```formatjunkie.d
 | OmegaT | /usr/share/omegat/images/OmegaT.xpm | omegat |
 | Oracle SQL Developer | /opt/oracle-sqldeveloper/icon.png | N/A |
 | PacmanXG | /usr/share/pixmaps/pacmanxg.png | pacmanxg |
+| Pencil | /usr/share/pencil/skin/classic/icon.svg | pencil |
 | Pycharm | /home/radio/Descargas/pycharm-community-3.1.1/bin/pycharm.png | pycharm |
 | Python 2.6 | /usr/share/pixmaps/python2.6.xpm | python2.6 |
 | Python 2.7 | /usr/share/pixmaps/python2.7.xpm | python2.7 |
