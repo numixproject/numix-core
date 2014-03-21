@@ -14,6 +14,7 @@ For example, take the **Format Junkie** application. Currently ```formatjunkie.d
 | Conky Manager | /usr/share/pixmaps/conky-manager.png | conky-manager |
 | Driver Manager | /usr/share/icons/hicolor/scalable/apps/driver-manager.svg | jockey |
 | Easy Life | /usr/share/pixmaps/easylife.png | easylife |
+| Fade In | /usr/share/fadein/icon_app/fadein_icon_128x128.png | fadein |
 | Format Junkie | /opt/extras.ubuntu.com/formatjunkie/pixmap/fjt.png | fjt |
 | Gcolor2 | /usr/share/pixmaps/gcolor2/gcolor2.xpm | gcolor2 |
 | Gespeaker | /usr/share/gespeaker/data/icons/gespeaker.svg | gespeaker |
@@ -31,14 +32,22 @@ For example, take the **Format Junkie** application. Currently ```formatjunkie.d
 | My Weather Indicator | /opt/extras.ubuntu.com/my-weather-indicator/share/pixmaps/my-weather-indicator.png | indicator-weather |
 | Netbeans | /usr/share/netbeans/7.0.1/nb/netbeans.png | netbeans |
 | Ninja IDE | /usr/share/ninja-ide/img/icon.png | ninja-ide |
+| Nitro | /usr/share/nitrotasks/media/nitrotasks.png | nitrotasks |
 | OmegaT | /usr/share/omegat/images/OmegaT.xpm | omegat |
 | Oracle SQL Developer | /opt/oracle-sqldeveloper/icon.png | N/A |
 | PacmanXG | /usr/share/pixmaps/pacmanxg.png | pacmanxg |
+| Pencil | /usr/share/pencil/skin/classic/icon.svg | pencil |
 | Pycharm | /home/radio/Descargas/pycharm-community-3.1.1/bin/pycharm.png | pycharm |
+| Python 2.6 | /usr/share/pixmaps/python2.6.xpm | python2.6 |
+| Python 2.7 | /usr/share/pixmaps/python2.7.xpm | python2.7 |
+| Python 3.0 | /usr/share/pixmaps/python3.0.xpm | python3.0 |
+| Python 3.1 | /usr/share/pixmaps/python3.1.xpm | python3.1 |
+| Python 3.2 | /usr/share/pixmaps/python3.2.xpm | python3.2 |
+| Python 3.3 | /usr/share/pixmaps/python3.3.xpm | python3.3 |
+| Python 3.4 | /usr/share/pixmaps/python3.4.xpm | python3.4 |
 | Robomongo | robomongo.png | robomongo |
 | SmartGitHG | smartgithg.png | smartgithg |
 | Springseed | /usr/share/pixmaps/springseed/springseed.svg | springseed |
 | TimeShift | /usr/share/pixmaps/timeshift.png | timeshift |
 | Tomate | /usr/share/tomate/media/tomate.png | tomate |
-| TypeCatcher | /usr/share/typecatcher/media/typecatcher.svg | typecatcher |
 | Valentina Studio | /opt/VStudio/Resources/vstudio.png | vstudio |
