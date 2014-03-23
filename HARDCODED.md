@@ -12,6 +12,7 @@ For example, take the **Format Junkie** application. Currently ```formatjunkie.d
 | Android Studio | /opt/android-studio/bin/idea.png | androidstudio |
 | Aptik | /usr/share/pixmaps/aptik.png | aptik |
 | Conky Manager | /usr/share/pixmaps/conky-manager.png | conky-manager |
+| Dogecoin-qt (AUR) | /usr/share/pixmaps/dogecoin.png | dogecoin |
 | Driver Manager | /usr/share/icons/hicolor/scalable/apps/driver-manager.svg | jockey |
 | Easy Life | /usr/share/pixmaps/easylife.png | easylife |
 | Fade In | /usr/share/fadein/icon_app/fadein_icon_128x128.png | fadein |
@@ -48,6 +49,7 @@ For example, take the **Format Junkie** application. Currently ```formatjunkie.d
 | Robomongo | robomongo.png | robomongo |
 | SmartGitHG | smartgithg.png | smartgithg |
 | Springseed | /usr/share/pixmaps/springseed/springseed.svg | springseed |
+| Synergy | /usr/share/icons/synergy.ico | synergy |
 | TimeShift | /usr/share/pixmaps/timeshift.png | timeshift |
 | Tomate | /usr/share/tomate/media/tomate.png | tomate |
 | Valentina Studio | /opt/VStudio/Resources/vstudio.png | vstudio |
