@@ -22,6 +22,7 @@ For example, take the **Format Junkie** application. Currently ```formatjunkie.d
 | GNOME Weather | org.gnome.Weather.Application | gnome-weather |
 | GNUcview | /usr/share/pixmaps/guvcview/guvcview.png | guvcview |
 | GNU Octave | /usr/share/octave/3.6.4/imagelib/octave-logo.svg | octave |
+| GPRename | /usr/share/pixmaps/gprename/gprename.png | gprename |
 | Graphic Network Simulator | /usr/share/pixmaps/gns3.xpm | gns |
 | Guake | /usr/share/pixmaps/guake/guake.png | guake |
 | HipChat | hipchat.png | hipchat |
