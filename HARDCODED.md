@@ -29,7 +29,7 @@ Obviously this is just a temporary solution and to fix the problem for good upst
 | Guake | /usr/share/pixmaps/guake/guake.png | guake |
 | HipChat | hipchat.png | hipchat |
 | Intel Graphics Installer | /usr/share/intel-linux-graphics-installer/images/logo.png | intel-installer |
-| IntelliJ IDEA | /opt/idea-IC/bin/idea.png | idea |
+| [IntelliJ IDEA](http://youtrack.jetbrains.com/issue/IDEA-122364) | /opt/idea-IC/bin/idea.png | idea |
 | Lightworks | /usr/share/lightworks/Icons/App.png | lightworks |
 | Lucky Backup | /usr/share/pixmaps/luckybackup.png | luckybackup |
 | Master PDF Editor | /opt/master-pdf-editor/master-pdf-editor.png | master-pdf-editor |
