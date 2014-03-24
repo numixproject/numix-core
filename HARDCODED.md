@@ -20,7 +20,7 @@ Obviously this is just a temporary solution and to fix the problem for good upst
 | Fade In | /usr/share/fadein/icon_app/fadein_icon_128x128.png | fadein |
 | Format Junkie | /opt/extras.ubuntu.com/formatjunkie/pixmap/fjt.png | fjt |
 | [Gcolor2](http://sourceforge.net/p/gcolor2/feature-requests/11/)| /usr/share/pixmaps/gcolor2/gcolor2.xpm | gcolor2 |
-| Gespeaker | /usr/share/gespeaker/data/icons/gespeaker.svg | gespeaker |
+| [Gespeaker](https://github.com/muflone/gespeaker/issues/49) | /usr/share/gespeaker/data/icons/gespeaker.svg | gespeaker |
 | GNOME Weather | org.gnome.Weather.Application | gnome-weather |
 | GNUcview | /usr/share/pixmaps/guvcview/guvcview.png | guvcview |
 | GNU Octave | /usr/share/octave/3.6.4/imagelib/octave-logo.svg | octave |
