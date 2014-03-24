@@ -52,7 +52,7 @@ Obviously this is just a temporary solution and to fix the problem for good upst
 | Robomongo | robomongo.png | robomongo |
 | SmartGitHG | smartgithg.png | smartgithg |
 | Springseed | /usr/share/pixmaps/springseed/springseed.svg | springseed |
-| Synergy | /usr/share/icons/synergy.ico | synergy |
+| [Synergy](http://synergy-foss.org/spit/issues/details/3971/#) | /usr/share/icons/synergy.ico | synergy |
 | TimeShift | /usr/share/pixmaps/timeshift.png | timeshift |
 | Tomate | /usr/share/tomate/media/tomate.png | tomate |
 | Valentina Studio | /opt/VStudio/Resources/vstudio.png | vstudio |
