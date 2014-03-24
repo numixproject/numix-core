@@ -13,7 +13,7 @@ Obviously this is just a temporary solution and to fix the problem for good upst
 | :---------------: | :---------------: | :---------------:|]
 | [Android Studio](https://code.google.com/p/android/issues/detail?id=67582) | /opt/android-studio/bin/idea.png | androidstudio |
 | Aptik | /usr/share/pixmaps/aptik.png | aptik |
-| Conky Manager | /usr/share/pixmaps/conky-manager.png | conky-manager |
+| [Conky Manager](https://bugs.launchpad.net/conky-manager/+bug/1296810) | /usr/share/pixmaps/conky-manager.png | conky-manager |
 | Dogecoin-qt (AUR) | /usr/share/pixmaps/dogecoin.png | dogecoin |
 | Driver Manager | /usr/share/icons/hicolor/scalable/apps/driver-manager.svg | jockey |
 | Easy Life | /usr/share/pixmaps/easylife.png | easylife |
