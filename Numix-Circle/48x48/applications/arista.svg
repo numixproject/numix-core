@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -53,11 +53,11 @@
        id="linearGradient4460">
       <stop
          offset="0"
-         style="stop-color:#009f3c;stop-opacity:1;"
+         style="stop-color:#859900;stop-opacity:1;"
          id="stop7" />
       <stop
          offset="1"
-         style="stop-color:#30bd65;stop-opacity:1;"
+         style="stop-color:#b5ce0c;stop-opacity:1;"
          id="stop9" />
     </linearGradient>
     <linearGradient
@@ -95,6 +95,24 @@
        y1="279.096"
        x2="0"
        y2="268.33" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4460"
+       id="linearGradient3777"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.9162401,0,0,3.9162401,-475.7913,-1047.9761)"
+       y1="279.096"
+       x2="0"
+       y2="268.33" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4460"
+       id="linearGradient3783"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.9162401,0,0,3.9162401,-475.7913,-1047.9761)"
+       y1="279.096"
+       x2="0"
+       y2="268.33" />
   </defs>
   <rect
      id="rect14"
@@ -104,14 +122,21 @@
      y="0.28299999"
      x="0.28200001"
      width="12.982" />
-  <rect
-     id="rect16"
-     style="fill:url(#linearGradient3046);fill-rule:evenodd"
-     height="11.853"
-     rx="5.9260001"
-     y="0.847"
-     x="0.847"
-     width="11.853" />
+  <path
+     style="fill:#3faf27;fill-rule:evenodd;fill-opacity:1"
+     d="M 24 3 C 21.16286 3 18.464385 3.5825835 16 4.59375 L 16 43.40625 C 18.464385 44.417417 21.16286 45 24 45 C 26.83714 45 29.535615 44.417417 32 43.40625 L 32 4.59375 C 29.535615 3.5825835 26.83714 3 24 3 z "
+     id="rect3769"
+     transform="scale(0.28222223,0.28222223)" />
+  <path
+     style="fill:#d51d3b;fill-opacity:1;fill-rule:evenodd"
+     d="M 4.5155557,1.2964584 C 2.3593898,2.1811588 0.84666669,4.2910335 0.84666669,6.7733335 c 0,2.4823 1.51272311,4.5921745 3.66888901,5.4768755 l 0,-10.9537506 z"
+     id="rect3771"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#337dd6;fill-opacity:1;stroke:none"
+     d="M 32 4.59375 L 32 43.40625 C 39.639958 40.271485 45 32.795551 45 24 C 45 15.204449 39.639958 7.7285151 32 4.59375 z "
+     id="rect2999"
+     transform="scale(0.28222223,0.28222223)" />
   <g
      style="fill:#f9f9f9;fill-opacity:1"
      id="g4016"
