@@ -7,7 +7,7 @@ However, this problem can be dealt with manually. Below is a list of all the har
 
 For example, take the **Format Junkie** application. Currently ```formatjunkie.desktop``` has the icon line ```Icon=/opt/extras.ubuntu.com/formatjunkie/pixmap/fjt.png``` but there's a numix icon for it called ```fjt.svg```. Using your text editor of choice simple replace ```/opt/extras.ubuntu.com/formatjunkie/pixmap/fjt.png``` with ```fjt``` and the change will be made.
 
-Obviously this is just a temporary solution and to fix the problem for good upstream issues need to be filed for all these hardcoded icons. To see the upstream report for an icon just click on the link in the icons name below. No link? Then file that upstream now! Are we missing any reports? [File that issue with us!](https://github.com/numixproject/numix-icon-theme-circle/issues/new)
+Obviously this is just a temporary solution and to fix the problem for good upstream issues need to be filed for all these hard coded icons. To see the upstream report for an icon just click on the link in the icon's name below. No link? Then file that upstream now! Are we missing any reports? [File that issue with us!](https://github.com/numixproject/numix-icon-theme-circle/issues/new)
 
 | Application Name | Current Icon Location | Numix Icon Name |
 | :---------------: | :---------------: | :---------------:|]
