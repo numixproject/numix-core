@@ -7,26 +7,30 @@ However, this problem can be dealt with manually. Below is a list of all the har
 
 For example, take the **Format Junkie** application. Currently ```formatjunkie.desktop``` has the icon line ```Icon=/opt/extras.ubuntu.com/formatjunkie/pixmap/fjt.png``` but there's a numix icon for it called ```fjt.svg```. Using your text editor of choice simple replace ```/opt/extras.ubuntu.com/formatjunkie/pixmap/fjt.png``` with ```fjt``` and the change will be made.
 
+Obviously this is just a temporary solution and to fix the problem for good upstream issues need to be filed for all these hard coded icons. To see the upstream report for an icon just click on the link in the icon's name below. No link? Then file that upstream now! Are we missing any reports? [File that issue with us!](https://github.com/numixproject/numix-icon-theme-circle/issues/new)
+
 | Application Name | Current Icon Location | Numix Icon Name |
 | :---------------: | :---------------: | :---------------:|]
-| Android Studio | /opt/android-studio/bin/idea.png | androidstudio |
-| Aptik | /usr/share/pixmaps/aptik.png | aptik |
-| Conky Manager | /usr/share/pixmaps/conky-manager.png | conky-manager |
+| [Android Studio](https://code.google.com/p/android/issues/detail?id=67582) | /opt/android-studio/bin/idea.png | androidstudio |
+| [Aptik](https://launchpad.net/apt-toolkit) | /usr/share/pixmaps/aptik.png | aptik |
+| [Arista](https://github.com/danielgtaylor/arista/issues/164) | /usr/share/arista/ui/icon.svg | arista |
+| [Conky Manager](https://bugs.launchpad.net/conky-manager/+bug/1296810) | /usr/share/pixmaps/conky-manager.png | conky-manager |
 | Dogecoin-qt (AUR) | /usr/share/pixmaps/dogecoin.png | dogecoin |
 | Driver Manager | /usr/share/icons/hicolor/scalable/apps/driver-manager.svg | jockey |
 | Easy Life | /usr/share/pixmaps/easylife.png | easylife |
 | Fade In | /usr/share/fadein/icon_app/fadein_icon_128x128.png | fadein |
 | Format Junkie | /opt/extras.ubuntu.com/formatjunkie/pixmap/fjt.png | fjt |
-| Gcolor2 | /usr/share/pixmaps/gcolor2/gcolor2.xpm | gcolor2 |
-| Gespeaker | /usr/share/gespeaker/data/icons/gespeaker.svg | gespeaker |
+| [Gcolor2](http://sourceforge.net/p/gcolor2/feature-requests/11/)| /usr/share/pixmaps/gcolor2/gcolor2.xpm | gcolor2 |
+| [Gespeaker](https://github.com/muflone/gespeaker/issues/49) | /usr/share/gespeaker/data/icons/gespeaker.svg | gespeaker |
 | GNOME Weather | org.gnome.Weather.Application | gnome-weather |
 | GNUcview | /usr/share/pixmaps/guvcview/guvcview.png | guvcview |
 | GNU Octave | /usr/share/octave/3.6.4/imagelib/octave-logo.svg | octave |
+| [GPRename](http://sourceforge.net/p/gprename/bugs/12/) | /usr/share/pixmaps/gprename/gprename.png | gprename |
 | Graphic Network Simulator | /usr/share/pixmaps/gns3.xpm | gns |
 | Guake | /usr/share/pixmaps/guake/guake.png | guake |
 | HipChat | hipchat.png | hipchat |
 | Intel Graphics Installer | /usr/share/intel-linux-graphics-installer/images/logo.png | intel-installer |
-| IntelliJ IDEA | /opt/idea-IC/bin/idea.png | idea |
+| [IntelliJ IDEA](http://youtrack.jetbrains.com/issue/IDEA-122364) | /opt/idea-IC/bin/idea.png | idea |
 | Lightworks | /usr/share/lightworks/Icons/App.png | lightworks |
 | Lucky Backup | /usr/share/pixmaps/luckybackup.png | luckybackup |
 | Master PDF Editor | /opt/master-pdf-editor/master-pdf-editor.png | master-pdf-editor |
@@ -49,7 +53,7 @@ For example, take the **Format Junkie** application. Currently ```formatjunkie.d
 | Robomongo | robomongo.png | robomongo |
 | SmartGitHG | smartgithg.png | smartgithg |
 | Springseed | /usr/share/pixmaps/springseed/springseed.svg | springseed |
-| Synergy | /usr/share/icons/synergy.ico | synergy |
-| TimeShift | /usr/share/pixmaps/timeshift.png | timeshift |
+| [Synergy](http://synergy-foss.org/spit/issues/details/3971/#) | /usr/share/icons/synergy.ico | synergy |
+| [TimeShift](https://bugs.launchpad.net/timeshift/+bug/1296812) | /usr/share/pixmaps/timeshift.png | timeshift |
 | Tomate | /usr/share/tomate/media/tomate.png | tomate |
 | Valentina Studio | /opt/VStudio/Resources/vstudio.png | vstudio |
