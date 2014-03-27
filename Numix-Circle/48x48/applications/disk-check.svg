@@ -14,9 +14,9 @@
    inkscape:version="0.48.4 r9939"
    width="100%"
    height="100%"
-   sodipodi:docname="badge-small.svg">
+   sodipodi:docname="gdu-check-disk.svg">
   <metadata
-     id="metadata24">
+     id="metadata38">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -37,71 +37,73 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1280"
      inkscape:window-height="969"
-     id="namedview22"
+     id="namedview36"
      showgrid="true"
-     inkscape:zoom="11.313709"
-     inkscape:cx="36.424288"
-     inkscape:cy="21.024708"
+     inkscape:zoom="32"
+     inkscape:cx="30.488239"
+     inkscape:cy="23.577369"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2">
+     inkscape:current-layer="g12">
     <inkscape:grid
        type="xygrid"
-       id="grid3503" />
+       id="grid4749" />
   </sodipodi:namedview>
   <defs
      id="defs4">
     <linearGradient
-       id="linearGradient6336">
+       id="linearGradient3795">
       <stop
          offset="0"
-         style="stop-color:#a3a3a3"
+         style="stop-color:#cc9f52"
          id="stop7" />
       <stop
          offset="1"
-         style="stop-color:#3b3b3b"
+         style="stop-color:#e18559"
          id="stop9" />
     </linearGradient>
     <linearGradient
-       gradientTransform="translate(326,-1560.7244)"
-       id="linearGradient6315"
-       xlink:href="#linearGradient6336"
+       xlink:href="#linearGradient3795"
+       id="linearGradient3801"
        y1="1053.158"
        y2="1004.847"
        x2="0"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient6336"
-       id="linearGradient3002"
+       xlink:href="#linearGradient3795"
+       id="linearGradient3040"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.875,0,0,0.875,3,-923.81708)"
        y1="1053.158"
        x2="0"
-       y2="1004.847" />
+       y2="1004.847"
+       gradientTransform="matrix(0.875,0,0,0.875,3,128.54545)" />
   </defs>
-  <rect
-     id="rect3448"
-     style="opacity:0.5;fill:#ffffff;fill-rule:evenodd"
-     height="46"
-     rx="23"
-     y="1"
-     x="1"
-     width="46" />
-  <rect
-     id="rect14"
-     transform="scale(1,-1)"
-     style="fill:url(#linearGradient3002)"
-     height="42"
-     rx="21"
-     y="-45"
-     x="3"
-     width="42" />
-  <path
-     inkscape:connector-curvature="0"
-     id="path18"
-     d="m 24,13 c 0,0 6.993148,0.135663 7,5 l 0,4 c 0,0 2.000003,-0.103438 2,1 l -3.2e-5,10.249952 c -1.02e-4,0.925682 -0.9188,1.750057 -1.928573,1.75018 l -14.142862,0 c -1.009766,-1.23e-4 -1.928471,-0.824498 -1.928565,-1.75018 L 15,23 c 3e-6,-1.103438 2,-1 2,-1 l 0,-4 c 0.05248,-4.870056 7.000007,-5 7,-5 z m 0,3 c 0,0 -4,-0.152545 -4,3.5 l 0,2.5 8,0 0,-2.5 C 28,15.847455 24,16 24,16 z"
-     style="line-height:normal;color:#000000;fill:#ffffff"
-     sodipodi:nodetypes="cccsccccsccccsccsc" />
+  <g
+     transform="translate(0,-1004.3622)"
+     id="g12">
+    <rect
+       width="45.999214"
+       x="1"
+       y="1005.363"
+       rx="22.999607"
+       height="45.999214"
+       style="opacity:0.5;fill:#ffffff;fill-rule:evenodd"
+       id="rect3903" />
+    <rect
+       width="42"
+       x="3"
+       y="1007.3622"
+       rx="21"
+       height="42"
+       style="fill:url(#linearGradient3040)"
+       id="rect14" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff"
+       d="m 24,1016.3622 c -6.630604,0 -12,5.3624 -12,11.9842 0,6.6217 5.369396,12.0158 12,12.0158 6.630604,0 12,-5.3941 12,-12.0158 0,-6.6218 -5.369396,-11.9842 -12,-11.9842 z m 6.542553,4.9721 c 2.876586,0.8699 3.632882,4.9911 1.404254,6.5976 l 1.806167,6.8398 -2.508294,0.6184 -1.787234,-6.7888 c -3.185423,-0.7853 -3.915269,-3.5616 -2.010638,-6.4065 l 2.042554,3.7929 1.180851,-0.3505 z M 24,1026.147 c 1.221427,0 2.202127,0.9794 2.202127,2.1994 0,1.2196 -0.9807,2.231 -2.202127,2.231 -1.221427,0 -2.202128,-1.0114 -2.202128,-2.231 0,-1.22 0.980701,-2.1994 2.202128,-2.1994 z"
+       id="path16"
+       sodipodi:nodetypes="ssssscccccccccsssss" />
+  </g>
 </svg>
