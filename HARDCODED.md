@@ -40,6 +40,8 @@ Obviously this is just a temporary solution and to fix the problem for good upst
 | OmegaT | /usr/share/omegat/images/OmegaT.xpm | omegat |
 | Oracle SQL Developer | /opt/oracle-sqldeveloper/icon.png | N/A |
 | PacmanXG | /usr/share/pixmaps/pacmanxg.png | pacmanxg |
+| Pamac (Install) | /usr/share/pamac/icons/32x32/apps/pamac.png | system-software-install |
+| Pamac (Update) | /usr/share/pamac/icons/32x32/apps/pamac.png | system-software-update |
 | Pencil | /usr/share/pencil/skin/classic/icon.svg | pencil |
 | PHP Storm | PhpStorm-133.803/bin/webide.png | phpstorm |
 | Pycharm | /home/radio/Descargas/pycharm-community-3.1.1/bin/pycharm.png | pycharm |
