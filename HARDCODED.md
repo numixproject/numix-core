@@ -25,7 +25,6 @@ Obviously this is just a temporary solution and to fix the problem for good upst
 | GNOME Weather | org.gnome.Weather.Application | gnome-weather |
 | GNUcview | /usr/share/pixmaps/guvcview/guvcview.png | guvcview |
 | GNU Octave | /usr/share/octave/3.6.4/imagelib/octave-logo.svg | octave |
-| [GPRename](http://sourceforge.net/p/gprename/bugs/12/) | /usr/share/pixmaps/gprename/gprename.png | gprename |
 | Graphic Network Simulator | /usr/share/pixmaps/gns3.xpm | gns |
 | Guake | /usr/share/pixmaps/guake/guake.png | guake |
 | HipChat | hipchat.png | hipchat |
