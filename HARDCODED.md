@@ -41,6 +41,7 @@ Obviously this is just a temporary solution and to fix the problem for good upst
 | Oracle SQL Developer | /opt/oracle-sqldeveloper/icon.png | N/A |
 | PacmanXG | /usr/share/pixmaps/pacmanxg.png | pacmanxg |
 | Pencil | /usr/share/pencil/skin/classic/icon.svg | pencil |
+| PHP Storm | PhpStorm-133.803/bin/webide.png | phpstorm |
 | Pycharm | /home/radio/Descargas/pycharm-community-3.1.1/bin/pycharm.png | pycharm |
 | Python 2.6 | /usr/share/pixmaps/python2.6.xpm | python2.6 |
 | Python 2.7 | /usr/share/pixmaps/python2.7.xpm | python2.7 |
@@ -56,3 +57,4 @@ Obviously this is just a temporary solution and to fix the problem for good upst
 | [TimeShift](https://bugs.launchpad.net/timeshift/+bug/1296812) | /usr/share/pixmaps/timeshift.png | timeshift |
 | Tomate | /usr/share/tomate/media/tomate.png | tomate |
 | Valentina Studio | /opt/VStudio/Resources/vstudio.png | vstudio |
+| YouTube-DL GUI | /usr/share/pixmaps/youtube-dlg.png | youtube-dl |
