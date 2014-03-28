@@ -26,6 +26,7 @@ Obviously this is just a temporary solution and to fix the problem for good upst
 | GNUcview | /usr/share/pixmaps/guvcview/guvcview.png | guvcview |
 | GNU Octave | /usr/share/octave/3.6.4/imagelib/octave-logo.svg | octave |
 | Graphic Network Simulator | /usr/share/pixmaps/gns3.xpm | gns |
+| Grisbi | /usr/share/pixmaps/grisbi/grisbi.svg | grisbi |
 | Guake | /usr/share/pixmaps/guake/guake.png | guake |
 | HipChat | hipchat.png | hipchat |
 | Intel Graphics Installer | /usr/share/intel-linux-graphics-installer/images/logo.png | intel-installer |
