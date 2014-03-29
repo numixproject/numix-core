@@ -3,19 +3,21 @@ Hard Coded Icons
 
 When making applications some developers choose to hard code their icons. This is a bad practice as it makes it impossible for icon themes to change them. Other than reporting these issues upstream there's not much that can be done about this.
 
-However, this problem can be dealt with manually. Below is a list of all the hard coded icons that Numix has its own Circle icons for. The icon change can be manually made by changing the ```icon``` line of the ```application.desktop``` file in ```/usr/share/applications/``` as specified.
+However, this problem can be dealt with manually. Below is a list of all the hard coded icons that Numix has its own Circle icons for. The icon change can be manually made by changing the ```icon``` line of the ```application.desktop``` file in ```/usr/share/applications/``` as specified. The list also includes Steam games which list ```steam``` as their icon.
 
 For example, take the **Format Junkie** application. Currently ```formatjunkie.desktop``` has the icon line ```Icon=/opt/extras.ubuntu.com/formatjunkie/pixmap/fjt.png``` but there's a numix icon for it called ```fjt.svg```. Using your text editor of choice simple replace ```/opt/extras.ubuntu.com/formatjunkie/pixmap/fjt.png``` with ```fjt``` and the change will be made.
 
 Obviously this is just a temporary solution and to fix the problem for good upstream issues need to be filed for all these hard coded icons. To see the upstream report for an icon just click on the link in the icon's name below. No link? Then file that upstream now! Are we missing any reports? [File that issue with us!](https://github.com/numixproject/numix-icon-theme-circle/issues/new)
 
 | Application Name | Current Icon Location | Numix Icon Name |
-| :---------------: | :---------------: | :---------------:|]
+| :---------------: | :---------------: | :---------------: |
 | [Android Studio](https://code.google.com/p/android/issues/detail?id=67582) | /opt/android-studio/bin/idea.png | androidstudio |
 | [Aptik](https://launchpad.net/apt-toolkit) | /usr/share/pixmaps/aptik.png | aptik |
 | [Arista](https://github.com/danielgtaylor/arista/issues/164) | /usr/share/arista/ui/icon.svg | arista |
+| Bastion (Steam) | steam | steam_icon_107100 |
 | [Conky Manager](https://bugs.launchpad.net/conky-manager/+bug/1296810) | /usr/share/pixmaps/conky-manager.png | conky-manager |
 | Dogecoin-qt (AUR) | /usr/share/pixmaps/dogecoin.png | dogecoin |
+| Dota 2 (Steam) | steam | steam_icon_570 |
 | Driver Manager | /usr/share/icons/hicolor/scalable/apps/driver-manager.svg | jockey |
 | Easy Life | /usr/share/pixmaps/easylife.png | easylife |
 | Fade In | /usr/share/fadein/icon_app/fadein_icon_128x128.png | fadein |
@@ -31,6 +33,9 @@ Obviously this is just a temporary solution and to fix the problem for good upst
 | HipChat | hipchat.png | hipchat |
 | Intel Graphics Installer | /usr/share/intel-linux-graphics-installer/images/logo.png | intel-installer |
 | [IntelliJ IDEA](http://youtrack.jetbrains.com/issue/IDEA-122364) | /opt/idea-IC/bin/idea.png | idea |
+| Kerbal Space Program.desktop | steam | steam_icon_220200 |
+| Left 4 Dead 2.desktop | steam | steam_icon_550 |
+| Left 4 Dead 2 Beta.desktop | steam | steam_icon_223530 |
 | Lightworks | /usr/share/lightworks/Icons/App.png | lightworks |
 | Lucky Backup | /usr/share/pixmaps/luckybackup.png | luckybackup |
 | Master PDF Editor | /opt/master-pdf-editor/master-pdf-editor.png | master-pdf-editor |
