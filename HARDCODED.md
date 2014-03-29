@@ -23,7 +23,7 @@ Obviously this is just a temporary solution and to fix the problem for good upst
 | Fade In | /usr/share/fadein/icon_app/fadein_icon_128x128.png | fadein |
 | Format Junkie | /opt/extras.ubuntu.com/formatjunkie/pixmap/fjt.png | fjt |
 | [Gcolor2](http://sourceforge.net/p/gcolor2/feature-requests/11/)| /usr/share/pixmaps/gcolor2/gcolor2.xpm | gcolor2 |
-| [Gespeaker](https://github.com/muflone/gespeaker/issues/49) | /usr/share/gespeaker/data/icons/gespeaker.svg | gespeaker |
+| [Gespeaker](https://github.com/muflone/gespeaker/issues/49) | /usr/share/gespeaker/data/icons/gespeaker.svg | gespeaker | 
 | GNOME Weather | org.gnome.Weather.Application | gnome-weather |
 | GNUcview | /usr/share/pixmaps/guvcview/guvcview.png | guvcview |
 | GNU Octave | /usr/share/octave/3.6.4/imagelib/octave-logo.svg | octave |
@@ -31,6 +31,7 @@ Obviously this is just a temporary solution and to fix the problem for good upst
 | Grisbi | /usr/share/pixmaps/grisbi/grisbi.svg | grisbi |
 | Guake | /usr/share/pixmaps/guake/guake.png | guake |
 | HipChat | hipchat.png | hipchat |
+| [HPLJ](https://bugs.launchpad.net/ubuntu/+source/foo2zjs/+bug/1299552) | /usr/share/pixmaps/hplj1020_icon | printer |
 | Intel Graphics Installer | /usr/share/intel-linux-graphics-installer/images/logo.png | intel-installer |
 | [IntelliJ IDEA](http://youtrack.jetbrains.com/issue/IDEA-122364) | /opt/idea-IC/bin/idea.png | idea |
 | Kerbal Space Program.desktop | steam | steam_icon_220200 |
@@ -50,13 +51,13 @@ Obviously this is just a temporary solution and to fix the problem for good upst
 | Pamac (Update) | /usr/share/pamac/icons/32x32/apps/pamac.png | system-software-update |
 | PHP Storm | PhpStorm-133.803/bin/webide.png | phpstorm |
 | Pycharm | /home/radio/Descargas/pycharm-community-3.1.1/bin/pycharm.png | pycharm |
-| Python 2.6 | /usr/share/pixmaps/python2.6.xpm | python2.6 |
-| Python 2.7 | /usr/share/pixmaps/python2.7.xpm | python2.7 |
-| Python 3.0 | /usr/share/pixmaps/python3.0.xpm | python3.0 |
-| Python 3.1 | /usr/share/pixmaps/python3.1.xpm | python3.1 |
-| Python 3.2 | /usr/share/pixmaps/python3.2.xpm | python3.2 |
-| Python 3.3 | /usr/share/pixmaps/python3.3.xpm | python3.3 |
-| Python 3.4 | /usr/share/pixmaps/python3.4.xpm | python3.4 |
+| [Python 2.6](http://bugs.python.org/issue21096) | /usr/share/pixmaps/python2.6.xpm | python2.6 |
+| [Python 2.7](http://bugs.python.org/issue21096) | /usr/share/pixmaps/python2.7.xpm | python2.7 |
+| [Python 3.0](http://bugs.python.org/issue21096) | /usr/share/pixmaps/python3.0.xpm | python3.0 |
+| [Python 3.1](http://bugs.python.org/issue21096) | /usr/share/pixmaps/python3.1.xpm | python3.1 |
+| [Python 3.2](http://bugs.python.org/issue21096) | /usr/share/pixmaps/python3.2.xpm | python3.2 |
+| [Python 3.3](http://bugs.python.org/issue21096) | /usr/share/pixmaps/python3.3.xpm | python3.3 |
+| [Python 3.4](http://bugs.python.org/issue21096) | /usr/share/pixmaps/python3.4.xpm | python3.4 |
 | Robomongo | robomongo.png | robomongo |
 | SmartGitHG | smartgithg.png | smartgithg |
 | Springseed | /usr/share/pixmaps/springseed/springseed.svg | springseed |
