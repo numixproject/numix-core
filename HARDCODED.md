@@ -11,6 +11,7 @@ Obviously this is just a temporary solution and to fix the problem for good upst
 
 | Application Name | Current Icon Location | Numix Icon Name |
 | :---------------: | :---------------: | :---------------: |
+| 2048 | /usr/share/2048/meta/apple-touch-icon.png | NYA |
 | [Android Studio](https://code.google.com/p/android/issues/detail?id=67582) | /opt/android-studio/bin/idea.png | androidstudio |
 | [Aptik](https://launchpad.net/apt-toolkit) | /usr/share/pixmaps/aptik.png | aptik |
 | [Arista](https://github.com/danielgtaylor/arista/issues/164) | /usr/share/arista/ui/icon.svg | arista |
@@ -44,11 +45,13 @@ Obviously this is just a temporary solution and to fix the problem for good upst
 | Netbeans | /usr/share/netbeans/7.0.1/nb/netbeans.png | netbeans |
 | Ninja IDE | /usr/share/ninja-ide/img/icon.png | ninja-ide |
 | Nitro | /usr/share/nitrotasks/media/nitrotasks.png | nitrotasks |
+| NotifyOSD | /usr/share/notifyosdconf/not.png | notifyosdconf |
 | OmegaT | /usr/share/omegat/images/OmegaT.xpm | omegat |
 | Oracle SQL Developer | /opt/oracle-sqldeveloper/icon.png | N/A |
 | PacmanXG | /usr/share/pixmaps/pacmanxg.png | pacmanxg |
 | Pamac (Install) | /usr/share/pamac/icons/32x32/apps/pamac.png | system-software-install |
 | Pamac (Update) | /usr/share/pamac/icons/32x32/apps/pamac.png | system-software-update |
+| pgModeler | etc/pgmodeler/pgmodeler_logo.png | NYA |
 | PHP Storm | PhpStorm-133.803/bin/webide.png | phpstorm |
 | Pycharm | /home/radio/Descargas/pycharm-community-3.1.1/bin/pycharm.png | pycharm |
 | [Python 2.6](http://bugs.python.org/issue21096) | /usr/share/pixmaps/python2.6.xpm | python2.6 |
