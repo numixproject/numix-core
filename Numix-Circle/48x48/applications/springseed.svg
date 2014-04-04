@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="access.svg">
+   sodipodi:docname="springseed.svg">
   <metadata
      id="metadata24">
     <rdf:RDF>
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -37,14 +37,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="742"
+     inkscape:window-height="712"
      id="namedview22"
      showgrid="false"
-     inkscape:zoom="1.995"
-     inkscape:cx="24.81356"
-     inkscape:cy="20.881683"
+     inkscape:zoom="4.2743207"
+     inkscape:cx="24.81517"
+     inkscape:cy="12.694904"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="29"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <defs
@@ -68,15 +68,18 @@
        y2="268.33"
        gradientUnits="userSpaceOnUse"
        x2="0" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4460"
-       id="linearGradient3807"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.10525,0,0,1.10525,-134.27874,-295.76183)"
-       y1="279.096"
-       x2="0"
-       y2="268.33" />
+    <filter
+       height="1.3572257"
+       y="-0.17861283"
+       width="1.3628178"
+       x="-0.18140888"
+       id="filter3847"
+       inkscape:collect="always">
+      <feGaussianBlur
+         id="feGaussianBlur3849"
+         stdDeviation="1.9238686"
+         inkscape:collect="always" />
+    </filter>
   </defs>
   <rect
      id="rect14"
@@ -88,7 +91,7 @@
      width="12.982" />
   <rect
      id="rect16"
-     style="fill:url(#linearGradient3807);fill-rule:evenodd"
+     style="fill:#3b3a3f;fill-rule:evenodd;fill-opacity:1"
      height="11.853"
      rx="5.9260001"
      y="0.847"
@@ -109,14 +112,19 @@
      id="text6110-1-8-2"
      transform="matrix(0.06622053,0,0,0.0653017,23.730849,-97.817662)" />
   <g
-     style="filter:url(#filter4235)"
-     id="path3"
-     inkscape:connector-curvature="0"
-     transform="matrix(0.05047532,0,0,0.05111711,0.31246739,-0.07635904)">
+     id="g4942"
+     transform="matrix(0.28222223,0,0,0.28222223,-0.28222224,-283.45334)">
     <path
-       style="fill:#003300"
+       sodipodi:nodetypes="cccccccc"
        inkscape:connector-curvature="0"
-       d="m 195.096,189.431 c 0,0 -6.127,-5.305 -14.266,-11.289 -8.136,-5.982 -56.171,-46.019 -56.188,-46.029 l -27.407,-27.623 82.982,61.76 c 1.873,-4.811 2.32,-11.332 0.683,-20.079 -10.403,-55.635 -60.589,-64.703 -72.462,-66.679 -7.229,-1.204 -45.235,-6.158 -47.533,-6.224 0.417,2.261 11.11,39.066 13.401,46.029 3.762,11.432 20.381,59.647 76.948,61.444 7.532,0.24 13.253,-0.754 17.547,-2.632 l 23.183,16.623 3.112,-5.301 0,0 z"
-       id="path3014" />
+       id="path4670"
+       d="m 37.409336,1014.5114 c -0.06703,0.7852 -0.71313,4.0751 -6.71875,6.2812 -13.720491,5.7087 -7.238196,12.8525 -7.238196,12.8525 1.812689,-4.9156 3.057492,-8.8398 7.953413,-10.5049 1,0.4995 1.129314,0.3725 0.378533,1.0904 -3.006223,2.7765 -4.682868,5.95 -6.4375,9.5625 9.672091,0.2483 12.500501,-11.5215 12.0625,-19.281 z"
+       style="fill:#00ce9b;fill-opacity:1;stroke:none" />
+    <path
+       sodipodi:nodetypes="csccccc"
+       style="fill:#00ce9b;fill-opacity:1"
+       d="m 20,1040.3622 c -2,-1 -8,-12.6237 -8,-13 0,-1 3.442736,0.058 4,1 1.392064,1.8913 2.909101,5.9502 4,5 1,-1 0.675339,-2.757 1.859358,-5.2089 1.122211,-2.7815 5.058186,-4.0429 1.595965,5.466 C 20.494232,1039.9999 21,1040.3622 20,1040.3622 z"
+       id="path3881"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

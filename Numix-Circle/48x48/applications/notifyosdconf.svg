@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="gtk-info.svg">
+   sodipodi:docname="notifyosdconf.svg">
   <metadata
      id="metadata26">
     <rdf:RDF>
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,15 +36,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1301"
-     inkscape:window-height="744"
+     inkscape:window-width="1366"
+     inkscape:window-height="712"
      id="namedview24"
      showgrid="false"
-     inkscape:zoom="6.2984333"
-     inkscape:cx="24.167835"
-     inkscape:cy="19.233906"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
+     inkscape:zoom="13.299384"
+     inkscape:cx="24.485374"
+     inkscape:cy="18.916367"
+     inkscape:window-x="0"
+     inkscape:window-y="29"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <defs
@@ -3046,49 +3046,7 @@
      width="11.853" />
   <path
      style="fill:#f9f9f9;fill-opacity:1"
-     d="m 3.7967709,3.6688895 c -0.2282032,0 -0.4101042,0.1818922 -0.4101042,0.4100971 l 0,4.4714726 c 0,0.2282049 0.181901,0.4100971 0.4101042,0.4100971 l 1.2832292,0 0,1.4816657 1.6933334,-1.4816657 2.9765626,0 C 9.9780993,8.9605563 10.16,8.7786641 10.16,8.5504592 l 0,-4.4714726 C 10.16,3.8507817 9.9779935,3.6688895 9.7497902,3.6688895 z m 2.6943404,1.1288889 0.5644444,0 0,1.1288889 L 7.9022224,5.3622229 8.1844446,5.7855562 7.337778,6.3500007 8.1844446,6.9144451 7.9022224,7.3377785 7.0555557,6.773334 l 0,1.128889 -0.5644444,0 -0.0022,-1.1376943 L 5.6444482,7.3377785 5.362226,6.9144451 6.2088927,6.3500007 5.362226,5.7855562 5.6444482,5.3622229 6.4911149,5.9266673 z"
-     id="path4"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="sssscccsssssccccccccccccccccccc" />
-  <g
-     id="g3010"
-     style="fill:#2d2d2d;fill-opacity:1"
-     transform="matrix(0.28222223,0,0,0.28222223,4.5155557,4.5155557)">
-    <path
-       id="path3012"
-       d="m 7.25,0 0,16 1.5,0 0,-16 z"
-       xml:space="default"
-       inkscape:connector-curvature="0"
-       style="fill:#2d2d2d;fill-opacity:1" />
-    <path
-       id="path3014"
-       d="M 10.5,12.5 C 10.5,13.328428 9.380712,14 8,14 6.6192883,14 5.5,13.328428 5.5,12.5 5.5,11.671574 6.6192883,11 8,11 c 1.380712,0 2.5,0.671574 2.5,1.5 z"
-       xml:space="default"
-       inkscape:connector-curvature="0"
-       style="fill:#2d2d2d;fill-opacity:1" />
-    <path
-       id="path3016"
-       d="m 3.2500001,15 0,-14 -1.5,0 0,14 z"
-       xml:space="default"
-       inkscape:connector-curvature="0"
-       style="fill:#2d2d2d;fill-opacity:1" />
-    <path
-       id="path3018"
-       d="M 5.0000001,5.5 C 5.0000001,6.328428 3.8807122,7 2.5000002,7 1.1192883,7 0,6.328428 0,5.5 0,4.671574 1.1192883,4 2.5000002,4 3.8807122,4 5.0000001,4.671574 5.0000001,5.5 z"
-       xml:space="default"
-       inkscape:connector-curvature="0"
-       style="fill:#2d2d2d;fill-opacity:1" />
-    <path
-       id="path3020"
-       d="m 14.25,15 0,-14 -1.5,0 0,14 z"
-       xml:space="default"
-       inkscape:connector-curvature="0"
-       style="fill:#2d2d2d;fill-opacity:1" />
-    <path
-       id="path3022"
-       d="M 16,5.5 C 16,6.3284278 14.880712,7 13.5,7 12.119288,7 11,6.3284278 11,5.5 11,4.671574 12.119288,4 13.5,4 14.880712,4 16,4.671574 16,5.5 z"
-       xml:space="default"
-       inkscape:connector-curvature="0"
-       style="fill:#2d2d2d;fill-opacity:1" />
-  </g>
+     d="M 13.4375 13 C 12.628906 13 12 13.6289 12 14.4375 L 12 30.3125 C 12 31.1211 12.628906 31.75 13.4375 31.75 L 18 31.75 L 18 37 L 24 31.75 L 34.5625 31.75 C 35.371094 31.75 36 31.1211 36 30.3125 L 36 14.4375 C 36 13.6289 35.339844 13 34.53125 13 L 13.4375 13 z M 23.25 14 L 24.75 14 L 24.75 25.09375 C 25.758354 25.287 26.5 25.830886 26.5 26.5 C 26.5 27.169115 25.758354 27.713 24.75 27.90625 L 24.75 30 L 23.25 30 L 23.25 27.90625 C 22.241646 27.713 21.5 27.169115 21.5 26.5 C 21.5 25.830886 22.241646 25.287 23.25 25.09375 L 23.25 14 z M 17.75 15 L 19.25 15 L 19.25 18.09375 C 20.258354 18.287 21 18.830886 21 19.5 C 21 20.169115 20.258354 20.713 19.25 20.90625 L 19.25 29 L 17.75 29 L 17.75 20.90625 C 16.741646 20.713 16 20.169115 16 19.5 C 16 18.830886 16.741646 18.287 17.75 18.09375 L 17.75 15 z M 28.75 15 L 30.25 15 L 30.25 18.09375 C 31.258354 18.287 32 18.830886 32 19.5 C 32 20.169115 31.258354 20.713 30.25 20.90625 L 30.25 29 L 28.75 29 L 28.75 20.90625 C 27.741646 20.713 27 20.169115 27 19.5 C 27 18.830886 27.741646 18.287 28.75 18.09375 L 28.75 15 z "
+     transform="scale(0.28222223,0.28222223)"
+     id="path4" />
 </svg>
