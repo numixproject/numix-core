@@ -11,9 +11,8 @@ Obviously this is just a temporary solution and to fix the problem for good upst
 
 | Application Name | Current Icon Location | Numix Icon Name |
 | :---------------: | :---------------: | :---------------: |
-| 2048 | /usr/share/2048/meta/apple-touch-icon.png | NYA |
+| 2048 | /usr/share/2048/meta/apple-touch-icon.png | 2048 |
 | [Android Studio](https://code.google.com/p/android/issues/detail?id=67582) | /opt/android-studio/bin/idea.png | androidstudio |
-| [Aptik](https://launchpad.net/apt-toolkit) | /usr/share/pixmaps/aptik.png | aptik |
 | [Arista](https://github.com/danielgtaylor/arista/issues/164) | /usr/share/arista/ui/icon.svg | arista |
 | Bastion (Steam) | steam | steam_icon_107100 |
 | [Conky Manager](https://bugs.launchpad.net/conky-manager/+bug/1296810) | /usr/share/pixmaps/conky-manager.png | conky-manager |
@@ -61,11 +60,12 @@ Obviously this is just a temporary solution and to fix the problem for good upst
 | [Python 3.2](http://bugs.python.org/issue21096) | /usr/share/pixmaps/python3.2.xpm | python3.2 |
 | [Python 3.3](http://bugs.python.org/issue21096) | /usr/share/pixmaps/python3.3.xpm | python3.3 |
 | [Python 3.4](http://bugs.python.org/issue21096) | /usr/share/pixmaps/python3.4.xpm | python3.4 |
+| Quick List Editor | /usr/share/pixmaps/qle_pix/logoqle2.svg | logoqle2 |
 | Robomongo | robomongo.png | robomongo |
 | SmartGitHG | smartgithg.png | smartgithg |
 | Springseed | /usr/share/pixmaps/springseed/springseed.svg | springseed |
 | [Synergy](http://synergy-foss.org/spit/issues/details/3971/#) | /usr/share/icons/synergy.ico | synergy |
-| [TimeShift](https://bugs.launchpad.net/timeshift/+bug/1296812) | /usr/share/pixmaps/timeshift.png | timeshift |
 | Tomate | /usr/share/tomate/media/tomate.png | tomate |
+| Wireframe Sketcher | /usr/share/icons/hicolor/128x128/apps/WireframeSketcher.png | wireframe-sketcher.svg |
 | Valentina Studio | /opt/VStudio/Resources/vstudio.png | vstudio |
 | YouTube-DL GUI | /usr/share/pixmaps/youtube-dlg.png | youtube-dl |
