@@ -15,7 +15,7 @@
    id="svg3054"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="New document 2">
+   sodipodi:docname="gucharmap.svg">
   <defs
      id="defs3056">
     <linearGradient
@@ -80,10 +80,47 @@
        inkscape:collect="always" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient3895-9-0-3-2-4-0"
+       xlink:href="#linearGradient4460"
        id="linearGradient3907"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(3.9163464,0,0,3.9163464,-523.80626,-1095.3016)"
+       gradientTransform="matrix(3.9163464,0,0,3.9163464,-523.80626,-1048.7113)"
+       y1="279.09601"
+       x2="0"
+       y2="268.32999" />
+    <linearGradient
+       gradientTransform="matrix(1.10525,0,0,1.10525,-134.27874,-295.76183)"
+       xlink:href="#linearGradient4460"
+       id="linearGradient3824"
+       y1="279.09601"
+       y2="268.32999"
+       gradientUnits="userSpaceOnUse"
+       x2="0" />
+    <linearGradient
+       id="linearGradient4460">
+      <stop
+         offset="0"
+         style="stop-color:#dbdbdb"
+         id="stop3174" />
+      <stop
+         offset="1"
+         style="stop-color:#f9f9f9"
+         id="stop3176" />
+    </linearGradient>
+    <linearGradient
+       y2="268.32999"
+       x2="0"
+       y1="279.09601"
+       gradientTransform="matrix(1.10525,0,0,1.10525,-134.27874,-295.76183)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3212"
+       xlink:href="#linearGradient4460"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4460"
+       id="linearGradient3241"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.9162401,0,0,3.9162401,-422.2508,-1049.975)"
        y1="279.09601"
        x2="0"
        y2="268.32999" />
@@ -95,17 +132,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6568543"
-     inkscape:cx="34.264974"
-     inkscape:cy="15.604043"
+     inkscape:zoom="17.833316"
+     inkscape:cx="22.442869"
+     inkscape:cy="35.87184"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
-     inkscape:window-width="1280"
-     inkscape:window-height="969"
+     inkscape:window-width="1366"
+     inkscape:window-height="712"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="29"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -119,7 +156,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -140,21 +177,20 @@
        style="fill:url(#linearGradient3907);fill-opacity:1;fill-rule:evenodd"
        height="41.998817"
        rx="20.997637"
-       y="-44.294582"
+       y="2.2957649"
        x="-45.000786"
        width="41.998817"
-       transform="scale(-1,-1)" />
-    <text
-       sodipodi:linespacing="125%"
-       id="text22"
+       transform="scale(-1,1)" />
+    <g
        transform="scale(1.0046206,0.99540065)"
-       xml:space="preserve"
-       style="font-size:33.77504349px;line-height:125%;letter-spacing:0;word-spacing:0;fill:#ffffff;font-family:Decker"
-       y="35.16172"
-       x="13.935609"><tspan
-         id="tspan24"
-         style="font-family:Droid Serif"
-         y="35.16172"
-         x="13.935609">F</tspan></text>
+       style="font-size:33.77504349px;line-height:125%;letter-spacing:0;word-spacing:0;fill:#5d5d5d;fill-opacity:1;font-family:Decker"
+       id="text22">
+      <path
+         d="m 22.894214,22.101653 7.963206,0 0,2.009241 -7.963206,0 0,7.032345 c 0,2.009241 0.995401,3.013861 3.981603,3.013861 l 0,1.004621 -10.949407,0 0,-1.004621 c 2.986202,0 3.981602,-1.00462 3.981602,-3.013861 l 1e-6,-16.07393 c 0,-2.009241 -1.990801,-3.013862 -3.981602,-3.013862 l 0,-1.00462 16.921811,0 0,6.027723 -0.995401,0 c 0,-4.018482 -2.986202,-4.018482 -8.958606,-4.018482"
+         style="fill:#5d5d5d;font-family:Droid Serif"
+         id="path4013"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccccccccccc" />
+    </g>
   </g>
 </svg>
