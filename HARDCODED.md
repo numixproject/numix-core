@@ -21,12 +21,14 @@ Obviously this is just a temporary solution and to fix the problem for good upst
 | Driver Manager | /usr/share/icons/hicolor/scalable/apps/driver-manager.svg | jockey |
 | Easy Life | /usr/share/pixmaps/easylife.png | easylife |
 | Fade In | /usr/share/fadein/icon_app/fadein_icon_128x128.png | fadein |
+| FileBot | /usr/share/filebot/icon.svg | filebot |
 | Format Junkie | /opt/extras.ubuntu.com/formatjunkie/pixmap/fjt.png | fjt |
 | [Gcolor2](http://sourceforge.net/p/gcolor2/feature-requests/11/)| /usr/share/pixmaps/gcolor2/gcolor2.xpm | gcolor2 |
 | [Gespeaker](https://github.com/muflone/gespeaker/issues/49) | /usr/share/gespeaker/data/icons/gespeaker.svg | gespeaker | 
 | GNOME Weather | org.gnome.Weather.Application | gnome-weather |
 | GNUcview | /usr/share/pixmaps/guvcview/guvcview.png | guvcview |
 | GNU Octave | /usr/share/octave/3.6.4/imagelib/octave-logo.svg | octave |
+| GoldenDict | /usr/share/pixmaps/goldendict.png | goldendict |
 | Graphic Network Simulator | /usr/share/pixmaps/gns3.xpm | gns |
 | Grisbi | /usr/share/pixmaps/grisbi/grisbi.svg | grisbi |
 | Guake | /usr/share/pixmaps/guake/guake.png | guake |
@@ -53,6 +55,7 @@ Obviously this is just a temporary solution and to fix the problem for good upst
 | pgModeler | etc/pgmodeler/pgmodeler_logo.png | NYA |
 | PHP Storm | PhpStorm-133.803/bin/webide.png | phpstorm |
 | Pycharm | /home/radio/Descargas/pycharm-community-3.1.1/bin/pycharm.png | pycharm |
+| pyRenamer | /usr/share/pyrenamer/pyrenamer.png | pyrenamer |
 | [Python 2.6](http://bugs.python.org/issue21096) | /usr/share/pixmaps/python2.6.xpm | python2.6 |
 | [Python 2.7](http://bugs.python.org/issue21096) | /usr/share/pixmaps/python2.7.xpm | python2.7 |
 | [Python 3.0](http://bugs.python.org/issue21096) | /usr/share/pixmaps/python3.0.xpm | python3.0 |
@@ -68,4 +71,5 @@ Obviously this is just a temporary solution and to fix the problem for good upst
 | Tomate | /usr/share/tomate/media/tomate.png | tomate |
 | Wireframe Sketcher | /usr/share/icons/hicolor/128x128/apps/WireframeSketcher.png | wireframe-sketcher.svg |
 | Valentina Studio | /opt/VStudio/Resources/vstudio.png | vstudio |
+| Viber | /usr/share/pixmaps/viber.png | viber |
 | YouTube-DL GUI | /usr/share/pixmaps/youtube-dlg.png | youtube-dl |
