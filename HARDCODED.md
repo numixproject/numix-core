@@ -57,7 +57,8 @@ Obviously this is just a temporary solution and to fix the problem for good upst
 | PacmanXG | /usr/share/pixmaps/pacmanxg.png | pacmanxg |
 | Pamac (Install) | /usr/share/pamac/icons/32x32/apps/pamac.png | system-software-install |
 | Pamac (Update) | /usr/share/pamac/icons/32x32/apps/pamac.png | system-software-update |
-| pgModeler | etc/pgmodeler/pgmodeler_logo.png | NYA |
+| pgAdmin3 | /usr/share/pgadmin3/pgAdmin3.png |pgAdmin3 |
+| [pgModeler](https://github.com/pgmodeler/pgmodeler/issues/441) | etc/pgmodeler/pgmodeler_logo.png | NYA |
 | PHP Storm | PhpStorm-133.803/bin/webide.png | phpstorm |
 | Pycharm | /home/radio/Descargas/pycharm-community-3.1.1/bin/pycharm.png | pycharm |
 | pyRenamer | /usr/share/pyrenamer/pyrenamer.png | pyrenamer |
@@ -78,3 +79,4 @@ Obviously this is just a temporary solution and to fix the problem for good upst
 | Valentina Studio | /opt/VStudio/Resources/vstudio.png | vstudio |
 | Viber | /usr/share/pixmaps/viber.png | viber |
 | YouTube-DL GUI | /usr/share/pixmaps/youtube-dlg.png | youtube-dl |
+| Zenmap | /usr/share/zenmap/pixmaps/zenmap.png | zenmap |
