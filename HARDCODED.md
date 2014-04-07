@@ -16,6 +16,7 @@ Obviously this is just a temporary solution and to fix the problem for good upst
 | [Arista](https://github.com/danielgtaylor/arista/issues/164) | /usr/share/arista/ui/icon.svg | arista |
 | Bastion (Steam) | steam | steam_icon_107100 |
 | [Conky Manager](https://bugs.launchpad.net/conky-manager/+bug/1296810) | /usr/share/pixmaps/conky-manager.png | conky-manager |
+| Diagnose Graphics Issues | /usr/share/xdiagnose/icons/microscope.svg | microscope |
 | Dogecoin-qt (AUR) | /usr/share/pixmaps/dogecoin.png | dogecoin |
 | Dota 2 (Steam) | steam | steam_icon_570 |
 | Driver Manager | /usr/share/icons/hicolor/scalable/apps/driver-manager.svg | jockey |
@@ -37,11 +38,15 @@ Obviously this is just a temporary solution and to fix the problem for good upst
 | Intel Graphics Installer | /usr/share/intel-linux-graphics-installer/images/logo.png | intel-installer |
 | [IntelliJ IDEA](http://youtrack.jetbrains.com/issue/IDEA-122364) | /opt/idea-IC/bin/idea.png | idea |
 | Kerbal Space Program.desktop | steam | steam_icon_220200 |
+| Klavaro | /usr/share/icons/hicolor/24x24/apps/klavaro.png | klavaro |
 | Left 4 Dead 2.desktop | steam | steam_icon_550 |
 | Left 4 Dead 2 Beta.desktop | steam | steam_icon_223530 |
 | Lightworks | /usr/share/lightworks/Icons/App.png | lightworks |
 | Lucky Backup | /usr/share/pixmaps/luckybackup.png | luckybackup |
 | Master PDF Editor | /opt/master-pdf-editor/master-pdf-editor.png | master-pdf-editor |
+| Mint Audio Tag | /usr/lib/linuxmint/mintInstall/icon.svg | audio-tag-tool |
+| Mint Backup | /usr/lib/linuxmint/mintBackup/icon.png | mintbackup |
+| Mint Software Manager | /usr/lib/linuxmint/mintInstall/icon.svg | software-manager |
 | My Weather Indicator | /opt/extras.ubuntu.com/my-weather-indicator/share/pixmaps/my-weather-indicator.png | indicator-weather |
 | Netbeans | /usr/share/netbeans/7.0.1/nb/netbeans.png | netbeans |
 | Ninja IDE | /usr/share/ninja-ide/img/icon.png | ninja-ide |
