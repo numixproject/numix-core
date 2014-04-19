@@ -75,6 +75,7 @@ Obviously this is just a temporary solution and to fix the problem for good upst
 | Springseed | /usr/share/pixmaps/springseed/springseed.svg | springseed |
 | [Synergy](http://synergy-foss.org/spit/issues/details/3971/#) | /usr/share/icons/synergy.ico | synergy |
 | Tomate | /usr/share/tomate/media/tomate.png | tomate |
+| Uberwriter | /opt/extras.ubuntu.com/uberwriter/share/uberwriter/media/uberwriter.svg | uberwriter |
 | Wireframe Sketcher | /usr/share/icons/hicolor/128x128/apps/WireframeSketcher.png | wireframe-sketcher.svg |
 | Valentina Studio | /opt/VStudio/Resources/vstudio.png | vstudio |
 | Viber | /usr/share/pixmaps/viber.png | viber |
