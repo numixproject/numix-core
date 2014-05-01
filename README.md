@@ -1,6 +1,6 @@
 Numix Circle icon theme
 ==============
-Numix Circle is an icon theme from the [Numix project](http://numixproject.org). License: GPL-3.0+
+Numix Circle is an icon theme from the [Numix project](http://numixproject.org). Licensed under the GPL-3.0+
 
 ### Installation
 Simply download the package on [DeviantArt](http://me4oslav.deviantart.com/art/Numix-Circle-Linux-Desktop-Icon-Theme-414741466) and follow the instructions. Alternatively you can follow any of the following distribution specific methods.
