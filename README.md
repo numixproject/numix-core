@@ -10,7 +10,7 @@ If you use Ubuntu or any of it's derivatives (including Mint and elementary OS) 
 ```bash
 sudo add-apt-repository ppa:numix/ppa
 sudo apt-get update
-sudo apt-get install numix-icon-theme circle
+sudo apt-get install numix-icon-theme-circle
 ```
 
 For Fedora, Red Hat and OpenSUSE, we have setup repos on [OpenSUSE build service](https://build.opensuse.org/project/show/home:paolorotolo:numix).
