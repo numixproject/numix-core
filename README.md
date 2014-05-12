@@ -5,7 +5,6 @@ Numix uTouch is an icon theme from the [Numix project](http://numixproject.org).
 Licensed under the GPL-3.0+
 
 ### Installation
-
 If you still want to use uTouch on Ubuntu or any of it's derivatives (including Mint and elementary OS) you can use our Numix PPA. Fire up a Terminal and run the following:
 
 ```bash
