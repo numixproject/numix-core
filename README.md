@@ -1,6 +1,6 @@
 Numix uTouch icon theme
 ==============
-Numix uTouch is an icon theme from the [Numix project](http://numixproject.org). This theme is on a form of LTS - it will not receive updates anywhere as frequently as Circle or Square (which we recommend you use) but it will still receive the occasional update to keep it up to date. This is only because the theme still seems to be popular with the community and as soon as community interest drops the theme will be axed.
+Numix uTouch is an icon theme from the [Numix project](http://numixproject.org). This theme is on a form of LTS - it will not receive updates anywhere as frequently as Circle or Square (which we recommend you use) but it will still receive the occasional update to keep it up to date. This is only because the theme still seems to be popular with the community and as soon as that interest drops the theme will be axed.
 
 Licensed under the GPL-3.0+
 
