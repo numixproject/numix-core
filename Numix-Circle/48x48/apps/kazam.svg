@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="kazam-new.svg">
+   sodipodi:docname="kazam.svg">
   <metadata
      id="metadata32">
     <rdf:RDF>
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,17 +36,25 @@
      guidetolerance="10"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="740"
+     inkscape:window-width="1600"
+     inkscape:window-height="855"
      id="namedview30"
      showgrid="true"
      inkscape:zoom="18.379174"
-     inkscape:cx="45.507246"
-     inkscape:cy="21.297873"
+     inkscape:cx="21.079742"
+     inkscape:cy="23.317719"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="22"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2">
+     inkscape:current-layer="svg2"
+     inkscape:snap-bbox="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true">
     <inkscape:grid
        type="xygrid"
        id="grid3785"
@@ -234,10 +242,12 @@
      x="5.0799999"
      width="3.3866668" />
   <path
-     style="fill:#ffffff;fill-opacity:1;stroke:none;opacity:0.15"
-     d="M 28.71875 20.3125 C 27.056151 25.476939 20.859615 22.350962 19 27 L 19 27.3125 C 20.072781 28.928781 21.906519 30 24 30 C 27.324 30 30 27.324 30 24 C 30 22.60159 29.514992 21.330528 28.71875 20.3125 z "
+     style="opacity:0.15;fill:#ffffff;fill-opacity:1;stroke:none"
+     d="M 28.71875,20.3125 C 27.056151,25.476939 18.894198,23 19,27.3125 l 0,0 C 20.072781,28.928781 21.906519,30 24,30 c 3.324,0 6,-2.676 6,-6 0,-1.39841 -0.485008,-2.669472 -1.28125,-3.6875 z"
      transform="scale(0.28222223,0.28222223)"
-     id="path3809" />
+     id="path3809"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccssc" />
   <rect
      id="rect3814"
      style="fill:url(#radialGradient3822);fill-opacity:1;fill-rule:evenodd;opacity:0.75"
