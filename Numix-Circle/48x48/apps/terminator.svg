@@ -1,111 +1,17 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="48"
-   viewBox="0 0 13.546667 13.546667"
-   height="48"
-   id="svg2"
-   version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="terminator.svg">
-  <metadata
-     id="metadata38">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="742"
-     id="namedview36"
-     showgrid="false"
-     inkscape:zoom="13.925646"
-     inkscape:cx="26.724655"
-     inkscape:cy="30.528483"
-     inkscape:window-x="0"
-     inkscape:window-y="26"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
-  <defs
-     id="defs4">
-    <linearGradient
-       id="linearGradient4460-9">
-      <stop
-         offset="0"
-         style="stop-color:#940000"
-         id="stop7" />
-      <stop
-         offset="1"
-         style="stop-color:#c51919"
-         id="stop9" />
-    </linearGradient>
-    <linearGradient
-       gradientTransform="matrix(1.10525 0 0 1.10525 -134.27874 -295.76183)"
-       xlink:href="#linearGradient4460-9"
-       id="linearGradient3073"
-       y1="279.096"
-       y2="268.33"
-       gradientUnits="userSpaceOnUse"
-       x2="0" />
-  </defs>
-  <g
-     style="fill-rule:evenodd"
-     id="g12">
-    <rect
-       width="12.982"
-       x=".282"
-       y=".283"
-       rx="6.491"
-       height="12.982"
-       style="opacity:.5;fill:#fff"
-       id="rect14" />
-    <rect
-       width="11.853"
-       x=".847"
-       y=".847"
-       rx="5.927"
-       height="11.853"
-       style="fill:url(#linearGradient3073)"
-       id="rect16" />
-  </g>
-  <path
-     style="fill:#ffffff"
-     inkscape:connector-curvature="0"
-     id="path26"
-     d="M 7.9022224,6.208889 V 5.6444445 H 6.208889 V 6.208889 h 1.6933334 z" />
-  <path
-     style="fill:#ffffff"
-     inkscape:connector-curvature="0"
-     id="path28"
-     d="M 4.4223092,6.0194107 3.9511112,5.5407578 5.0112848,4.7030386 3.9511112,3.8653666 4.4223092,3.3866667 6.0125694,4.7030386 4.4223092,6.0194107 z" />
-  <path
-     style="fill:#ffffff"
-     d="M 7.9022224,10.16 V 9.5955555 H 6.208889 V 10.16 h 1.6933334 z"
-     id="path32"
-     inkscape:connector-curvature="0" />
-  <path
-     style="fill:#ffffff"
-     d="M 4.4223092,9.9684208 3.9511112,9.4897679 5.0112848,8.6520487 3.9511112,7.8143767 4.4223092,7.3356768 6.0125694,8.6520487 4.4223092,9.9684208 z"
-     id="path34"
-     inkscape:connector-curvature="0" />
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" viewBox="0 0 13.546667 13.546667" height="48">
+ <defs>
+  <linearGradient id="0">
+   <stop stop-color="#940000"/>
+   <stop offset="1" stop-color="#c51919"/>
+  </linearGradient>
+  <linearGradient gradientTransform="matrix(1.10525 0 0 1.10525 -134.27874 -295.76183)" xlink:href="#0" id="1" y1="279.1" y2="268.33" gradientUnits="userSpaceOnUse" x2="0"/>
+ </defs>
+ <g fill-rule="evenodd">
+  <rect width="12.982" x="0.282" y="0.283" rx="6.491" height="12.982" opacity="0.5" fill="#fff"/>
+  <rect width="11.853" x="0.847" y="0.847" rx="5.927" height="11.853" fill="url(#1)"/>
+ </g>
+ <path d="M 7.9022224,6.208889 V 5.6444445 H 6.208889 V 6.208889 h 1.6933334 z" fill="#ffffff"/>
+ <path d="M 4.4223092,6.0194107 3.9511112,5.5407578 5.0112848,4.7030386 3.9511112,3.8653666 4.4223092,3.3866667 6.0125694,4.7030386 4.4223092,6.0194107 z" fill="#ffffff"/>
+ <path d="M 7.9022224,10.16 V 9.5955555 H 6.208889 V 10.16 h 1.6933334 z" fill="#ffffff"/>
+ <path d="M 4.4223092,9.9684208 3.9511112,9.4897679 5.0112848,8.6520487 3.9511112,7.8143767 4.4223092,7.3356768 6.0125694,8.6520487 4.4223092,9.9684208 z" fill="#ffffff"/>
 </svg>
