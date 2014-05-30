@@ -1,105 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="48"
-   viewBox="0 0 13.546667 13.546667"
-   height="48"
-   id="svg2"
-   version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="sencha-animator.svg">
-  <metadata
-     id="metadata24">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="998"
-     id="namedview22"
-     showgrid="false"
-     inkscape:zoom="3.4766084"
-     inkscape:cx="-2.8654441"
-     inkscape:cy="3.5612205"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2">
-    <inkscape:grid
-       type="xygrid"
-       id="grid3008" />
-  </sodipodi:namedview>
-  <defs
-     id="defs4">
-    <linearGradient
-       id="linearGradient4460">
-      <stop
-         offset="0"
-         style="stop-color:#333"
-         id="stop7" />
-      <stop
-         offset="1"
-         style="stop-color:#5e5e5e"
-         id="stop9" />
-    </linearGradient>
-    <linearGradient
-       gradientTransform="matrix(1.10529 0 0 1.10529 -134.2844 -295.77361)"
-       xlink:href="#linearGradient4460"
-       id="linearGradient3002"
-       y1="279.096"
-       y2="268.33"
-       gradientUnits="userSpaceOnUse"
-       x2="0" />
-  </defs>
-  <g
-     style="fill-rule:evenodd"
-     id="g12">
-    <rect
-       width="12.982"
-       x=".282"
-       y=".282"
-       rx="6.491"
-       height="12.982"
-       style="opacity:.5;fill:#fff"
-       id="rect14" />
-    <rect
-       width="11.853"
-       x=".847"
-       y=".847"
-       rx="5.926"
-       height="11.853"
-       style="fill:url(#linearGradient3002)"
-       id="rect16" />
-  </g>
-  <path
-     style="fill:none"
-     d="m 20.775132,5.1571271 c 0.0718,-0.040357 0.154786,-0.063343 0.243338,-0.063343 l 0,0 0,0 0.729798,0 c 0.274622,0 0.495709,0.2210872 0.495709,0.495708 l 0,0.8353694 c 0,0.2746208 -0.221087,0.495708 -0.495709,0.495708 l -0.729798,0 c -0.08855,0 -0.171537,-0.022987 -0.243338,-0.063343"
-     id="path18" />
-  <path
-     style="fill:#8acb10;fill-opacity:1;stroke:none"
-     d="m 6.2130362,3.3866672 c -2.403431,1.018035 -2.123555,3.769451 0.01549,4.489663 C 8.8967742,9.4137233 7.3654692,9.5400853 7.2357482,10.16 8.7686362,9.6294253 10.372047,7.0969402 7.2125082,5.5227522 5.5746452,4.8750533 5.3309152,4.1586153 6.2130352,3.3866673 z"
-     id="path3002"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccc" />
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" viewBox="0 0 13.546667 13.546667" height="48">
+ <defs>
+  <linearGradient id="0">
+   <stop stop-color="#333"/>
+   <stop offset="1" stop-color="#5e5e5e"/>
+  </linearGradient>
+  <linearGradient gradientTransform="matrix(1.10529 0 0 1.10529 -134.2844 -295.77361)" xlink:href="#0" id="1" y1="279.1" y2="268.33" gradientUnits="userSpaceOnUse" x2="0"/>
+ </defs>
+ <g fill-rule="evenodd">
+  <rect width="12.982" x="0.282" y="0.282" rx="6.491" height="12.982" opacity="0.5" fill="#fff"/>
+  <rect width="11.853" x="0.847" y="0.847" rx="5.926" height="11.853" fill="url(#1)"/>
+ </g>
+ <path d="m 6.2130362,3.3866672 c -2.403431,1.018035 -2.123555,3.769451 0.01549,4.489663 C 8.8967742,9.4137233 7.3654692,9.5400853 7.2357482,10.16 8.7686362,9.6294253 10.372047,7.0969402 7.2125082,5.5227522 5.5746452,4.8750533 5.3309152,4.1586153 6.2130352,3.3866673 z" fill="#8acb10"/>
 </svg>

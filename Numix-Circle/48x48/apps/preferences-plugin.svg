@@ -1,108 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="48"
-   viewBox="0 0 13.546667 13.546667"
-   height="48"
-   id="svg2"
-   version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="preferences-plugin.svg">
-  <metadata
-     id="metadata24">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview22"
-     showgrid="false"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="24"
-     inkscape:cy="22.372881"
-     inkscape:window-x="515"
-     inkscape:window-y="332"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg2" />
-  <defs
-     id="defs4">
-    <linearGradient
-       id="0">
-      <stop
-         stop-color="#2d2d2d"
-         id="stop7" />
-      <stop
-         offset="1"
-         stop-color="#4e4e4e"
-         id="stop9" />
-    </linearGradient>
-    <linearGradient
-       xlink:href="#0"
-       id="1"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.10525,0,0,1.10525,-134.22538,-295.81512)"
-       y1="279.1"
-       x2="0"
-       y2="268.33" />
-  </defs>
-  <rect
-     height="12.982"
-     rx="6.491"
-     y="0.282"
-     x="0.282"
-     width="12.982"
-     opacity="0.5"
-     fill="#ffffff"
-     fill-rule="evenodd"
-     id="rect12" />
-  <rect
-     height="11.853"
-     rx="5.926"
-     y="0.793"
-     x="0.9"
-     width="11.853"
-     fill="url(#1)"
-     fill-rule="evenodd"
-     id="rect14" />
-  <rect
-     width="5.644"
-     x="4.516"
-     y="5.08"
-     rx="1.221"
-     height="3.387"
-     fill="#f9f9f9"
-     id="rect16" />
-  <path
-     d="m 27,24 a 7.5,8 0 1 1 -15,0 7.5,8 0 1 1 15,0 z"
-     id="path18"
-     fill="#aaaaaa"
-     transform="matrix(.26341 0 0 .24694 .22578 .84667)" />
-  <path
-     d="m 27,24 a 7.5,8 0 1 1 -15,0 7.5,8 0 1 1 15,0 z"
-     id="path20"
-     style="fill:#d34836;fill-opacity:1"
-     fill="#555555"
-     transform="matrix(.15052 0 0 .14111 2.42711 3.38667)" />
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" viewBox="0 0 13.546667 13.546667" height="48">
+ <defs>
+  <linearGradient id="0">
+   <stop stop-color="#2d2d2d"/>
+   <stop offset="1" stop-color="#4e4e4e"/>
+  </linearGradient>
+  <linearGradient xlink:href="#0" id="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.10525,0,0,1.10525,-134.22538,-295.81512)" y1="279.1" x2="0" y2="268.33"/>
+ </defs>
+ <rect height="12.982" rx="6.491" y="0.282" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
+ <rect height="11.853" rx="5.926" y="0.793" x="0.9" width="11.853" fill="url(#1)" fill-rule="evenodd"/>
+ <rect width="5.644" x="4.516" y="5.08" rx="1.221" height="3.387" fill="#f9f9f9"/>
+ <path d="m 27,24 a 7.5,8 0 1 1 -15,0 7.5,8 0 1 1 15,0 z" fill="#aaaaaa" transform="matrix(.26341 0 0 .24694 .22578 .84667)"/>
+ <path d="m 27,24 a 7.5,8 0 1 1 -15,0 7.5,8 0 1 1 15,0 z" fill="#d34836" transform="matrix(.15052 0 0 .14111 2.42711 3.38667)"/>
 </svg>
