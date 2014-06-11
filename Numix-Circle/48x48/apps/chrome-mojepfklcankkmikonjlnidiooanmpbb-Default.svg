@@ -38,10 +38,10 @@
      inkscape:window-width="1280"
      inkscape:window-height="998"
      id="namedview104"
-     showgrid="true"
+     showgrid="false"
      inkscape:zoom="11.313709"
-     inkscape:cx="9.9507477"
-     inkscape:cy="21.01666"
+     inkscape:cx="36.733579"
+     inkscape:cy="8.1001159"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -341,6 +341,45 @@
        y1="279.1"
        x2="0"
        y2="268.33" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3817"
+       id="linearGradient3823"
+       x1="6.7806764"
+       y1="2.5326571"
+       x2="6.8657713"
+       y2="11.014009"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient3817">
+      <stop
+         style="stop-color:#fe753f;stop-opacity:1;"
+         offset="0"
+         id="stop3819" />
+      <stop
+         style="stop-color:#ff4f6c;stop-opacity:1;"
+         offset="1"
+         id="stop3821" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="translate(-8.1844447,-1.6933333)"
+       y2="11.014009"
+       x2="6.8657713"
+       y1="2.5326571"
+       x1="6.7806764"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3840"
+       xlink:href="#linearGradient3817"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3817"
+       id="linearGradient3830"
+       x1="24"
+       y1="3"
+       x2="24"
+       y2="45"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <rect
      height="12.982"
@@ -362,7 +401,7 @@
      fill-rule="evenodd"
      id="rect98" />
   <path
-     style="fill:#ff794b;fill-rule:evenodd"
+     style="fill:url(#linearGradient3830);fill-rule:evenodd;fill-opacity:1"
      d="M 24 3 C 12.367309 3 3 12.367309 3 24 L 45 24 C 45 12.367309 35.632691 3 24 3 z M 3.21875 27 C 3.4141175 28.381517 3.7385633 29.720007 4.1875 31 L 43.8125 31 C 44.261437 29.720007 44.585882 28.381517 44.78125 27 L 3.21875 27 z M 5.53125 34 C 6.3134866 35.448183 7.2560556 36.783601 8.34375 38 L 39.65625 38 C 40.743944 36.783601 41.686513 35.448183 42.46875 34 L 5.53125 34 z M 11.65625 41 C 15.118748 43.5159 19.373768 45 24 45 C 28.626232 45 32.881252 43.5159 36.34375 41 L 11.65625 41 z "
      id="use3085"
      transform="scale(0.28222223,0.28222223)" />
