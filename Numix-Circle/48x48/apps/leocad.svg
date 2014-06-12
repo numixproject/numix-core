@@ -14,9 +14,9 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="ldview.svg">
+   sodipodi:docname="mlcad.svg">
   <metadata
-     id="metadata26">
+     id="metadata28">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -38,101 +38,93 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
      inkscape:window-height="1057"
-     id="namedview24"
-     showgrid="false"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="1.1186441"
-     inkscape:cy="24"
+     id="namedview26"
+     showgrid="true"
+     inkscape:zoom="18.541667"
+     inkscape:cx="11.649438"
+     inkscape:cy="23.568539"
      inkscape:window-x="1600"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="svg2"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2991" />
+  </sodipodi:namedview>
   <defs
      id="defs4">
     <linearGradient
-       id="0">
+       id="linearGradient4460">
       <stop
-         stop-color="#333333"
+         offset="0"
+         style="stop-color:#b3b3b3;stop-opacity:1;"
          id="stop7" />
       <stop
          offset="1"
-         stop-color="#5a5a5a"
+         style="stop-color:#d3d3d3;stop-opacity:1;"
          id="stop9" />
     </linearGradient>
     <linearGradient
-       xlink:href="#0"
-       id="1"
+       gradientTransform="matrix(1.10528,0,0,1.10528,-134.28255,-295.77083)"
+       xlink:href="#linearGradient4460"
+       id="linearGradient3774"
+       y1="279.096"
+       y2="268.33"
+       gradientUnits="userSpaceOnUse"
+       x2="0" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4460"
+       id="linearGradient3767"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.10528,0,0,1.10528,-134.28255,-295.77083)"
-       y1="279.1"
+       y1="279.096"
        x2="0"
        y2="268.33" />
-    <linearGradient
-       y2="268.33"
-       x2="0"
-       y1="279.096"
-       gradientTransform="matrix(1.10528,0,0,1.10528,-134.28255,-295.77083)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient3767"
-       xlink:href="#linearGradient4460"
-       inkscape:collect="always" />
-    <linearGradient
-       x2="0"
-       gradientUnits="userSpaceOnUse"
-       y2="268.33"
-       y1="279.096"
-       id="linearGradient3774"
-       xlink:href="#linearGradient4460"
-       gradientTransform="matrix(1.10528,0,0,1.10528,-134.28255,-295.77083)" />
-    <linearGradient
-       id="linearGradient4460">
-      <stop
-         id="stop7-6"
-         style="stop-color:#b3b3b3;stop-opacity:1;"
-         offset="0" />
-      <stop
-         id="stop9-8"
-         style="stop-color:#d3d3d3;stop-opacity:1;"
-         offset="1" />
-    </linearGradient>
   </defs>
   <rect
+     id="rect14"
+     style="opacity:0.5;fill:#ffffff;fill-rule:evenodd"
      height="12.982"
-     rx="6.491"
-     y="0.282"
-     x="0.282"
-     width="12.982"
-     opacity="0.5"
-     fill="#ffffff"
-     fill-rule="evenodd"
-     id="rect12" />
+     rx="6.4910002"
+     y="0.28200001"
+     x="0.28200001"
+     width="12.982" />
   <rect
+     id="rect16"
+     style="fill:url(#linearGradient3767);fill-rule:evenodd"
      height="11.853"
-     rx="5.926"
+     rx="5.9260001"
      y="0.847"
      x="0.847"
-     width="11.853"
-     fill="url(#1)"
-     fill-rule="evenodd"
-     id="rect14" />
+     width="11.853" />
   <g
-     transform="translate(1.8346108,1.6629696e-4)"
-     id="g3003">
+     id="g3003"
+     transform="translate(1.8346108,0)">
+    <rect
+       ry="0.55555558"
+       rx="0.58333337"
+       y="4.5155559"
+       x="2.8222222"
+       height="5.6444445"
+       width="4.2333336"
+       id="rect2992"
+       style="fill:#ee3131;fill-opacity:1;stroke:none" />
     <rect
        style="fill:#ee3131;fill-opacity:1;stroke:none"
-       id="rect2992"
-       width="4.2333336"
-       height="5.6444445"
-       x="2.8222222"
-       y="4.5155559"
-       rx="0.58333337"
-       ry="0.55555558" />
-    <rect
-       y="3.3866668"
-       x="3.668889"
-       height="1.9755559"
-       width="2.5399997"
        id="rect3762"
-       style="fill:#ee3131;fill-opacity:1;stroke:none" />
+       width="2.5399997"
+       height="1.9755559"
+       x="3.668889"
+       y="3.3866668" />
   </g>
 </svg>
