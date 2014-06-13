@@ -14,9 +14,9 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="ldlite.svg">
+   sodipodi:docname="steam_icon_97000.svg">
   <metadata
-     id="metadata36">
+     id="metadata38">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -37,64 +37,57 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1280"
      inkscape:window-height="998"
-     id="namedview34"
-     showgrid="true"
-     inkscape:zoom="3.4766084"
-     inkscape:cx="92.710926"
-     inkscape:cy="-50.713519"
+     id="namedview36"
+     showgrid="false"
+     inkscape:zoom="1.7383042"
+     inkscape:cx="-35.241675"
+     inkscape:cy="15.119789"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2">
-    <inkscape:grid
-       type="xygrid"
-       id="grid3001" />
-  </sodipodi:namedview>
+     inkscape:current-layer="svg2" />
   <defs
      id="defs4">
-    <inkscape:perspective
-       sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 24 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="48 : 24 : 1"
-       inkscape:persp3d-origin="24 : 16 : 1"
-       id="perspective3030" />
+    <linearGradient
+       id="linearGradient3783">
+      <stop
+         style="stop-color:#ffe662;stop-opacity:1;"
+         offset="0"
+         id="stop3785" />
+      <stop
+         style="stop-color:#e4c000;stop-opacity:1;"
+         offset="1"
+         id="stop3787" />
+    </linearGradient>
     <linearGradient
        id="0">
       <stop
-         stop-color="#b3b3b3"
+         stop-color="#c0c0c0"
          id="stop7" />
       <stop
          offset="1"
-         stop-color="#d3d3d3"
+         stop-color="#dedede"
          id="stop9" />
     </linearGradient>
     <linearGradient
        gradientTransform="matrix(0.28222223,0,0,0.28222223,0,-283.45334)"
-       xlink:href="#0-2"
+       xlink:href="#0"
        id="1"
        y1="1050.36"
        x2="0"
        y2="1006.36"
        gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       xlink:href="#0-2"
-       id="1-2"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.10528,0,0,1.10528,-120.39115,-294.85209)"
-       y1="279.10001"
-       x2="0"
-       y2="268.32999" />
-    <linearGradient
-       id="0-2">
-      <stop
-         stop-color="#333333"
-         id="stop7-8" />
-      <stop
-         offset="1"
-         stop-color="#5a5a5a"
-         id="stop9-8" />
-    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3783"
+       id="radialGradient3789"
+       cx="-65.796608"
+       cy="22.983051"
+       fx="-65.796608"
+       fy="22.983051"
+       r="14.338983"
+       gradientTransform="matrix(1,0,0,1.2340426,0,-5.3790134)"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <g
      transform="matrix(0.28222223,0,0,0.28222223,0,-283.45334)"
@@ -140,26 +133,11 @@
      y="0.564"
      rx="1.129"
      fill="url(#1)"
-     id="rect26"
-     style="fill-opacity:1.0" />
-  <g
-     transform="translate(1.8346108,0)"
-     id="g28">
-    <rect
-       ry="0.55599999"
-       rx="0.583"
-       y="4.5155559"
-       x="2.6809449"
-       height="5.644444"
-       width="4.5155559"
-       id="rect30"
-       style="fill:#ee3131" />
-    <rect
-       width="2.822222"
-       height="1.9755554"
-       x="3.5276115"
-       y="3.3866668"
-       id="rect32"
-       style="fill:#ee3131" />
-  </g>
+     id="rect26" />
+  <path
+     d="m -51.457625,22.983051 a 14.338983,17.694916 0 1 1 -28.677966,0 14.338983,17.694916 0 1 1 28.677966,0 z"
+     transform="matrix(0.29523248,0,0,0.2392401,26.198629,1.274866)"
+     fill="#2d2d2d"
+     id="path28"
+     style="fill-opacity:1;fill:url(#radialGradient3789)" />
 </svg>
