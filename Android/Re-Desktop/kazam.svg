@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" viewBox="0 0 13.546667 13.546667" height="48">
+ <defs>
+  <linearGradient id="0">
+   <stop/>
+   <stop offset="1" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="1">
+   <stop stop-color="#ffffff"/>
+   <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="2">
+   <stop stop-color="#e7e9e2"/>
+   <stop offset="1" stop-color="#ececec"/>
+  </linearGradient>
+  <linearGradient xlink:href="#2" id="3" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.1052811,0,0,1.1052811,-134.28288,-295.77052)" y1="279.1" x2="0" y2="268.33"/>
+  <radialGradient xlink:href="#1" id="4" cx="6.209" cy="5.927" r="0.282" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.4999999,0,0,1.4999999,-3.1044441,-2.963333)"/>
+  <radialGradient xlink:href="#1" id="5" gradientUnits="userSpaceOnUse" cx="6.209" cy="5.927" r="0.282" gradientTransform="matrix(1.4999999,0,0,1.4999999,-2.5399997,-1.2699997)"/>
+  <radialGradient xlink:href="#0" id="6" cx="6.773" cy="6.773" r="3.669" gradientUnits="userSpaceOnUse"/>
+ </defs>
+ <rect height="12.982" rx="6.491" y="0.282" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
+ <rect height="11.853" rx="5.927" y="0.847" x="0.847" width="11.853" fill="url(#3)" fill-rule="evenodd"/>
+ <rect width="1.129" x="3.669" y="2.54" rx="0.564" height="1.129" fill="#ff7373" fill-rule="evenodd"/>
+ <path d="M 5,15 C 4.1160924,16.868421 3.5056278,18.874148 3.205,21 L 44.8,21 C 44.499372,18.874148 43.883908,16.868421 43,15 z" transform="scale(0.28222223,0.28222223)" fill="#976cb2"/>
+ <path d="M 3.205,21 C 3.0668982,21.97657 3,22.984118 3,24 c 0,1.015882 0.067898,2.02343 0.206,3 L 44.8,27 c 0.138102,-0.97657 0.2,-1.984118 0.2,-3 0,-1.015882 -0.0619,-2.02343 -0.2,-3 z" transform="scale(0.28222223,0.28222223)" fill="#dedd8e"/>
+ <rect height="7.338" rx="3.669" y="3.104" x="3.104" width="7.338" fill="url(#6)" fill-rule="evenodd"/>
+ <path d="m 0.90452224,7.6200002 c 0.086687,0.6004766 0.25498166,1.1660559 0.50658886,1.6933334 l 10.7244449,0 c 0.251608,-0.5272775 0.421313,-1.0928568 0.508,-1.6933334 z" fill="#976cb2"/>
+ <rect width="7.338" x="3.104" y="3.104" rx="3.669" height="7.338" opacity="0.25" fill="url(#6)" fill-rule="evenodd"/>
+ <rect width="6.773" x="3.387" y="3.387" rx="3.387" height="6.773" fill="#f6fbe6" fill-rule="evenodd"/>
+ <rect height="5.644" rx="2.822" y="3.951" x="3.951" width="5.644" fill="#72517b" fill-rule="evenodd"/>
+ <rect width="4.516" x="4.516" y="4.516" rx="2.258" height="4.516" fill="#e4e9d5" fill-rule="evenodd"/>
+ <rect height="3.387" rx="1.693" y="5.08" x="5.08" width="3.387" fill="#4b3052" fill-rule="evenodd"/>
+ <path d="M 28.71875,20.3125 C 27.056151,25.476939 18.894198,23 19,27.3125 l 0,0 C 20.072781,28.928781 21.906519,30 24,30 c 3.324,0 6,-2.676 6,-6 0,-1.39841 -0.485008,-2.669472 -1.28125,-3.6875 z" transform="scale(0.28222223,0.28222223)" opacity="0.15" fill="#ffffff"/>
+ <rect height="0.847" rx="0.423" y="5.503" x="5.786" width="0.847" opacity="0.75" fill="url(#4)" fill-rule="evenodd"/>
+ <rect width="0.847" x="6.35" y="7.197" rx="0.423" height="0.847" opacity="0.75" fill="url(#5)" fill-rule="evenodd"/>
+</svg>
