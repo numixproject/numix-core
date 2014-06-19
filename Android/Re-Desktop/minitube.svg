@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" viewBox="0 0 13.546667 13.546667" height="48">
+ <defs>
+  <linearGradient gradientTransform="matrix(.8 0 0 .8 1.6615 1.03375)" xlink:href="#1" id="0" x1="4.626" x2="8.859" gradientUnits="userSpaceOnUse"/>
+  <linearGradient id="1">
+   <stop stop-color="#c22219"/>
+   <stop offset="1" stop-color="#e12a20"/>
+  </linearGradient>
+  <linearGradient id="2">
+   <stop stop-color="#333"/>
+   <stop offset="1" stop-color="#555"/>
+  </linearGradient>
+  <linearGradient gradientTransform="matrix(1.10525 0 0 1.10525 -134.27874 -295.76183)" xlink:href="#2" id="3" y1="279.1" y2="268.33" gradientUnits="userSpaceOnUse" x2="0"/>
+ </defs>
+ <g fill-rule="evenodd">
+  <rect width="12.982" x="0.282" y="0.283" rx="6.491" height="12.982" opacity="0.5" fill="#fff"/>
+  <rect width="11.853" x="0.847" y="0.847" rx="5.926" height="11.853" fill="url(#3)"/>
+ </g>
+ <rect width="6.773" x="3.387" y="3.387" rx="1" height="6.773" fill="#f9f9f9"/>
+ <path d="m 5.3622224,4.5155556 0,4.5155557 3.3866653,-2.257773 z" fill="url(#0)"/>
+</svg>

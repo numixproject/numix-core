@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" viewBox="0 0 13.546667 13.546667" height="48">
+ <defs>
+  <linearGradient id="0">
+   <stop stop-color="#dedede"/>
+   <stop offset="1" stop-color="#f9f9f9"/>
+  </linearGradient>
+  <linearGradient id="1">
+   <stop stop-color="#2d2d2d"/>
+   <stop offset="1" stop-color="#4e4e4e"/>
+  </linearGradient>
+  <linearGradient xlink:href="#1" id="2" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.10525,0,0,1.10525,-134.27874,-295.76183)" y1="279.1" x2="0" y2="268.33"/>
+  <linearGradient xlink:href="#0" id="3" gradientUnits="userSpaceOnUse" gradientTransform="matrix(3.9162401,0,0,3.9162401,-475.7908,-1047.975)" y1="279.1" x2="0" y2="268.33"/>
+ </defs>
+ <rect height="12.982" rx="6.491" y="0.282" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
+ <rect height="11.853" rx="5.926" y="0.847" x="0.847" width="11.853" fill="url(#2)" fill-rule="evenodd"/>
+ <path d="M 24 3 L 24 45 C 35.632691 45 45 35.632691 45 24 C 45 12.367309 35.632691 3 24 3 z " transform="scale(0.28222223,0.28222223)" fill="url(#3)" fill-rule="evenodd"/>
+ <path transform="matrix(0.01730434,0,0,0.01689696,3.6562683,2.8292035)" d="m 98.585329,133.20719 48.928001,-33.405086 81.54666,0 32.61866,33.405086 0,16.70255 65.23733,0 2e-5,-50.107636 -81.54668,-66.810178 -130.47466,0 L 33.348,99.803 l 0,100.21437 81.54666,66.81018 114.16533,0 32.61866,33.40509 0,33.40509 -32.61866,33.40509 -81.54666,0 -32.61867,-33.40509 0,-16.70254 -81.54666,0 0,50.10763 81.54666,66.81018 130.47466,0 81.54666,-66.81018 0,-100.21527 -65.23733,-66.81018 -114.16532,0 -48.928001,-33.40509 z" fill="#1a9cff"/>
+</svg>

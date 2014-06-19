@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" viewBox="0 0 13.546667 13.546667" height="48">
+ <defs>
+  <clipPath id="0">
+   <path d="m 328,-238 c -7.73199,0 -14,-6.26801 -14,-14 0,-7.73199 6.26801,-14 14,-14 7.73199,0 14,6.26801 14,14 0,7.73199 -6.26801,14 -14,14 z m 0,-9 c 2.7552,0 4.99121,-2.21357 5,-4.96875 L 333,-252 c 0,-2.76142 -2.23858,-5 -5,-5 -2.76142,0 -5,2.23858 -5,5 0,2.76142 2.23858,5 5,5 z"/>
+  </clipPath>
+  <clipPath id="1">
+   <path d="m 328,242 c -7.73199,0 -14,6.26801 -14,14 0,7.73199 6.26801,14 14,14 7.73199,0 14,-6.26801 14,-14 0,-7.73199 -6.26801,-14 -14,-14 z m 0,9 c 2.7552,0 4.99121,2.21357 5,4.96875 L 333,256 c 0,2.76142 -2.23858,5 -5,5 -2.76142,0 -5,-2.23858 -5,-5 0,-2.76142 2.23858,-5 5,-5 z"/>
+  </clipPath>
+  <linearGradient id="2">
+   <stop stop-color="#aeaeae"/>
+   <stop offset="1" stop-color="#dedede"/>
+  </linearGradient>
+  <linearGradient y2="268.33" x2="0" y1="279.1" gradientTransform="matrix(1.10525,0,0,1.10525,-134.27907,-295.76182)" gradientUnits="userSpaceOnUse" id="3" xlink:href="#2"/>
+ </defs>
+ <rect height="11.853" rx="5.926" y="0.847" x="0.847" width="11.853" fill="url(#3)" fill-rule="evenodd"/>
+ <path d="m 328,256 -17,11 0,-31 37,0 0,20 z" transform="matrix(.30238 0 0 .30238 -92.4075 -70.63642)" clip-path="url(#1)" fill="#e38c54"/>
+ <path d="m 311,272 0,-5 17,-11 8,14 0,2 z" transform="matrix(.30238 0 0 .30238 -92.4075 -70.63642)" clip-path="url(#1)" fill="#a8cf36"/>
+ <rect width="20" x="328" y="-268" rx="0" height="17" transform="matrix(.30238 0 0 -.30238 -92.4075 -69.42691)" clip-path="url(#0)" fill="#59a5c8" color="#000"/>
+</svg>

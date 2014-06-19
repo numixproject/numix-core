@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" viewBox="0 0 13.546667 13.546667" height="48">
+ <defs>
+  <linearGradient id="0">
+   <stop stop-color="#0091f3"/>
+   <stop offset="1" stop-color="#00d4ff"/>
+  </linearGradient>
+  <linearGradient xlink:href="#0" id="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.10525,0,0,1.10525,-134.27874,-295.76214)" y1="279.1" x2="0" y2="268.33"/>
+  <linearGradient xlink:href="#0" id="2" x1="6.803" y1="12.76" x2="6.795" y2="0.766" gradientUnits="userSpaceOnUse" gradientTransform="scale(3.543307,3.543307)"/>
+ </defs>
+ <rect height="12.982" rx="6.491" y="0.283" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
+ <rect height="11.853" rx="5.927" y="0.847" x="0.847" width="11.853" fill="url(#1)" fill-rule="evenodd"/>
+ <rect height="8.467" rx="4.233" y="2.54" x="2.54" width="8.467" fill="#f0f0f0" fill-rule="evenodd"/>
+ <path d="M 19 14 L 19 34 L 34 24 L 19 14 z M 24 20 C 26.430064 20.011587 27.994685 22.171824 28 24 C 28 27 25.000003 28 24 28 L 24 26 C 27.356376 25.662808 26.258103 21.129836 23 22 L 23 28 L 21 28 L 21 21.5625 C 21 21.015431 22.000002 20 24 20 z " transform="scale(0.28222223,0.28222223)" fill="url(#2)"/>
+</svg>

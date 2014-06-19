@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" viewBox="0 0 13.546667 13.546667" height="48">
+ <defs>
+  <linearGradient id="0">
+   <stop stop-color="#1b2b3f"/>
+   <stop offset="1" stop-color="#6e85a2"/>
+  </linearGradient>
+  <linearGradient xlink:href="#0" id="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.10528,0,0,1.10528,-134.28288,-295.77052)" y1="279.1" x2="0" y2="268.33"/>
+ </defs>
+ <rect height="12.982" rx="6.491" y="0.282" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
+ <rect height="11.853" rx="5.926" y="0.847" x="0.847" width="11.853" fill="url(#1)" fill-rule="evenodd"/>
+ <rect width="2.258" height="2.258" x="3.951" y="3.951" rx="0.376" fill="#268bd2"/>
+ <rect rx="0.376" y="7.338" x="7.338" height="2.258" width="2.258" fill="#268bd2"/>
+ <g>
+  <path transform="scale(0.28222223,0.28222223)" d="M 14 24 C 12.892 24 12 24.892 12 26 L 12 34 C 12 35.108 12.892 36 14 36 L 22 36 C 23.108 36 24 35.108 24 34 L 24 26 C 24 24.892 23.108 24 22 24 L 14 24 z M 14 25 L 22 25 C 22.554 25 23 25.446 23 26 L 23 34 C 23 34.554 22.554 35 22 35 L 14 35 C 13.446 35 13 34.554 13 34 L 13 26 C 13 25.446 13.446 25 14 25 z " fill="#ffcf37"/>
+  <rect rx="1" transform="scale(0.28222223,0.28222223)" y="26" x="14" height="8" width="8" fill="#ffcf37" id="2"/>
+ </g>
+ <g transform="translate(3.3866667,-3.3866668)">
+  <path d="m 14,24 c -1.108,0 -2,0.892 -2,2 l 0,8 c 0,1.108 0.892,2 2,2 l 8,0 c 1.108,0 2,-0.892 2,-2 l 0,-8 c 0,-1.108 -0.892,-2 -2,-2 l -8,0 z m 0,1 8,0 c 0.554,0 1,0.446 1,1 l 0,8 c 0,0.554 -0.446,1 -1,1 l -8,0 c -0.554,0 -1,-0.446 -1,-1 l 0,-8 c 0,-0.554 0.446,-1 1,-1 z" transform="scale(0.28222223,0.28222223)" fill="#ffcf37"/>
+  <use xlink:href="#2"/>
+ </g>
+</svg>
