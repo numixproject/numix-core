@@ -1,4 +1,4 @@
-Numix Circle (Desktop)
+Numix Circle Icon Theme
 ==============
 Numix Circle is an icon theme for Linux & Android from the [Numix project](http://numixproject.org). This readme provides information on [installation](https://github.com/Foggalong/numix-icon-theme-circle/Desktop#installation), [icon requests](https://github.com/Foggalong/numix-icon-theme-circle/Desktop#icon-requests) and [hardcoded icons](https://github.com/Foggalong/numix-icon-theme-circle/Desktop#hardcoded-icons) for the desktop theme. For information about the Android theme see [here](https://github.com/numixproject/numix-icon-theme-circle/tree/master/Android). Licensed under the GPL-3.0+
 
