@@ -7,7 +7,12 @@ Inherits=Numix
 Example=directory-x-normal
 
 # Directory list
-Directories=16x16/apps,22x22/apps,22x22/status,24x24/apps,48x48/apps
+Directories=16x16/apps,22x22/apps,22x22/status,24x24/apps,48x48/apps,22x22/animations
+
+[22x22/animations]
+Size=22
+Context=Animations
+Type=Fixed
 
 [16x16/apps]
 Size=16
