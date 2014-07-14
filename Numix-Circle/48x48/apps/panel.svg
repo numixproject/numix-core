@@ -15,7 +15,7 @@
    height="100%"
    sodipodi:docname="panel.svg">
   <metadata
-     id="metadata71">
+     id="metadata67">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -34,13 +34,13 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
+     inkscape:window-width="649"
      inkscape:window-height="480"
-     id="namedview69"
+     id="namedview65"
      showgrid="false"
      inkscape:zoom="9.8333333"
-     inkscape:cx="26.827441"
-     inkscape:cy="21.675171"
+     inkscape:cx="31.057488"
+     inkscape:cy="16.460335"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -48,21 +48,23 @@
   <defs
      id="defs4">
     <linearGradient
-       id="1"
+       id="linearGradient3764"
+       x1="1"
+       x2="47"
        gradientUnits="userSpaceOnUse"
-       y1="15"
-       x2="0"
-       y2="11"
-       gradientTransform="matrix(15.333333,0,0,11.5,414.99999,-125.5)">
+       gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)">
       <stop
+         stop-color="#767676"
+         stop-opacity="1"
          id="stop7" />
       <stop
          offset="1"
-         stop-opacity="0"
+         stop-color="#808080"
+         stop-opacity="1"
          id="stop9" />
     </linearGradient>
     <clipPath
-       id="clipPath-854076076">
+       id="clipPath-419911468">
       <g
          transform="translate(0,-1004.3622)"
          id="g12">
@@ -74,7 +76,7 @@
       </g>
     </clipPath>
     <clipPath
-       id="clipPath-865444027">
+       id="clipPath-427570295">
       <g
          transform="translate(0,-1004.3622)"
          id="g17">
@@ -108,39 +110,29 @@
   </g>
   <g
      id="g31">
-    <g
-       transform="translate(0,-1004.3622)"
-       id="g33">
-      <path
-         d="m -24 13 c 0 1.105 -0.672 2 -1.5 2 -0.828 0 -1.5 -0.895 -1.5 -2 0 -1.105 0.672 -2 1.5 -2 0.828 0 1.5 0.895 1.5 2 z"
-         transform="matrix(15.333333,0,0,11.5,414.99999,878.8622)"
-         fill="#808080"
-         id="path35" />
-    </g>
+    <path
+       d="m 24 1 c 12.703 0 23 10.297 23 23 c 0 12.703 -10.297 23 -23 23 -12.703 0 -23 -10.297 -23 -23 0 -12.703 10.297 -23 23 -23 z"
+       fill="url(#linearGradient3764)"
+       fill-opacity="1"
+       id="path33" />
   </g>
+  <g
+     id="g35" />
   <path
      d="m 13.03,14.999979 c -0.539,0 -1.031,0.355 -1.031,0.75 l 0,18.563 c 0.051,0.367 0.527,0.691 1.031,0.688 l 21.938,0 c 0.539,0 1.031,-0.355 1.031,-0.75 l 0,-18.5 c 0,-0.391 -0.492,-0.75 -1.031,-0.75 m -18.969,2 18,0 0,16 -18,0 m -1,-10 0,4 -2,-2 m 2,-2"
-     id="use3063"
+     id="use3053"
      inkscape:connector-curvature="0"
-     style="fill:#787878;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-  <g
-     id="g37">
-    <path
-       d="m 47 24 c 0 12.703 -10.297 23 -23 23 -12.703 0 -23 -10.297 -23 -23 0 -12.703 10.297 -23 23 -23 12.703 0 23 10.297 23 23 z"
-       opacity="0.15"
-       fill="url(#1)"
-       id="path39" />
-  </g>
+     style="fill:#6d6d6d;fill-opacity:1;fill-rule:nonzero;stroke:none" />
   <path
      style="fill:#dedede;fill-opacity:1;fill-rule:nonzero;stroke:none"
      inkscape:connector-curvature="0"
-     id="path63"
+     id="path59"
      d="m 13.03,14 c -0.539,0 -1.031,0.355 -1.031,0.75 l 0,18.563 c 0.051,0.367 0.527,0.691 1.031,0.688 l 21.938,0 c 0.539,0 1.031,-0.355 1.031,-0.75 l 0,-18.5 c 0,-0.391 -0.492,-0.75 -1.031,-0.75 m -18.969,2 18,0 0,16 -18,0 m -1,-10 0,4 -2,-2 m 2,-2" />
   <g
-     id="g65">
+     id="g61">
     <path
        d="m 40.03 7.531 c 3.712 4.084 5.969 9.514 5.969 15.469 0 12.703 -10.297 23 -23 23 c -5.954 0 -11.384 -2.256 -15.469 -5.969 4.178 4.291 10.01 6.969 16.469 6.969 c 12.703 0 23 -10.298 23 -23 0 -6.462 -2.677 -12.291 -6.969 -16.469 z"
        opacity="0.1"
-       id="path67" />
+       id="path63" />
   </g>
 </svg>
