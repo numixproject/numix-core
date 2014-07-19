@@ -39,9 +39,9 @@
      inkscape:window-height="960"
      id="namedview105"
      showgrid="false"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="3.3168305"
-     inkscape:cy="37.340376"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="18.669047"
+     inkscape:cy="39.51529"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -96,6 +96,38 @@
        gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)"
        x1="1"
        x2="47" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3764"
+       id="linearGradient3024"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)"
+       x1="1"
+       x2="47" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3764"
+       id="linearGradient3033"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)"
+       x1="1"
+       x2="47" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3764"
+       id="linearGradient3040"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)"
+       x1="1"
+       x2="47" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3764"
+       id="linearGradient3046"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)"
+       x1="1"
+       x2="47" />
   </defs>
   <g
      id="g21"
@@ -121,14 +153,10 @@
          style="opacity:0.2" />
     </g>
   </g>
-  <g
-     id="g31">
-    <path
-       d="M 24,1 C 36.703,1 47,11.297 47,24 47,36.703 36.703,47 24,47 11.297,47 1,36.703 1,24 1,11.297 11.297,1 24,1 z"
-       id="path33"
-       style="fill:url(#linearGradient3263);fill-opacity:1"
-       inkscape:connector-curvature="0" />
-  </g>
+  <path
+     style="fill:url(#linearGradient3046);fill-opacity:1"
+     d="M 24 1 L 24 24 L 47 24 C 47 11.297 36.703 1 24 1 z "
+     id="path33" />
   <g
      id="g35" />
   <path
