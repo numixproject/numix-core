@@ -16,7 +16,7 @@
    height="100%"
    sodipodi:docname="gnome-maps.svg">
   <metadata
-     id="metadata83">
+     id="metadata81">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -35,16 +35,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview81"
+     inkscape:window-width="1280"
+     inkscape:window-height="960"
+     id="namedview79"
      showgrid="false"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="22.46211"
-     inkscape:cy="25.931187"
+     inkscape:zoom="6.9532167"
+     inkscape:cx="21.708027"
+     inkscape:cy="19.496302"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <defs
      id="defs4">
@@ -65,7 +65,7 @@
          id="stop9" />
     </linearGradient>
     <clipPath
-       id="clipPath-937966901">
+       id="clipPath-324598080">
       <g
          transform="translate(0,-1004.3622)"
          id="g12">
@@ -77,7 +77,7 @@
       </g>
     </clipPath>
     <clipPath
-       id="clipPath-948887726">
+       id="clipPath-330262250">
       <g
          transform="translate(0,-1004.3622)"
          id="g17">
@@ -91,7 +91,7 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3764"
-       id="linearGradient3081"
+       id="linearGradient3085"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)"
        x1="1"
@@ -99,7 +99,7 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3764"
-       id="linearGradient3090"
+       id="linearGradient3093"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)"
        x1="1"
@@ -107,7 +107,7 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3764"
-       id="linearGradient3096"
+       id="linearGradient3101"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)"
        x1="1"
@@ -115,7 +115,7 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3764"
-       id="linearGradient3103"
+       id="linearGradient3104"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)"
        x1="1"
@@ -123,7 +123,7 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3764"
-       id="linearGradient3025"
+       id="linearGradient3107"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)"
        x1="1"
@@ -131,7 +131,39 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3764"
-       id="linearGradient3028"
+       id="linearGradient3110"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)"
+       x1="1"
+       x2="47" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3764"
+       id="linearGradient3113"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)"
+       x1="1"
+       x2="47" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3764"
+       id="linearGradient3116"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)"
+       x1="1"
+       x2="47" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3764"
+       id="linearGradient3123"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)"
+       x1="1"
+       x2="47" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3764"
+       id="linearGradient3126"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)"
        x1="1"
@@ -139,86 +171,81 @@
   </defs>
   <g
      id="g21">
-    <g
-       transform="translate(0,-1004.3622)"
-       id="g23">
-      <path
-         d="m 25 1006.36 c -12.703 0 -23 10.298 -23 23 0 6.367 2.601 12.12 6.781 16.281 4.085 3.712 9.514 5.969 15.469 5.969 12.703 0 23 -10.297 23 -23 0 -5.954 -2.256 -11.384 -5.969 -15.469 -4.165 -4.181 -9.914 -6.781 -16.281 -6.781 z m 16.281 6.781 c 3.854 4.113 6.219 9.637 6.219 15.719 0 12.703 -10.297 23 -23 23 -6.081 0 -11.606 -2.364 -15.719 -6.219 4.16 4.144 9.883 6.719 16.219 6.719 12.703 0 23 -10.297 23 -23 0 -6.335 -2.575 -12.06 -6.719 -16.219 z"
-         opacity="0.05"
-         id="path25" />
-      <path
-         d="m 41.28 1013.14 c 3.712 4.085 5.969 9.514 5.969 15.469 0 12.703 -10.297 23 -23 23 -5.954 0 -11.384 -2.256 -15.469 -5.969 4.113 3.854 9.637 6.219 15.719 6.219 12.703 0 23 -10.297 23 -23 0 -6.081 -2.364 -11.606 -6.219 -15.719 z"
-         opacity="0.1"
-         id="path27" />
-      <path
-         transform="matrix(15.333333,0,0,11.5,415.24999,879.11222)"
-         d="m -24 13 a 1.5 2 0 1 1 -3 0 1.5 2 0 1 1 3 0 z"
-         opacity="0.2"
-         id="path29" />
-    </g>
+    <path
+       d="m 36.31 5 c 5.859 4.062 9.688 10.831 9.688 18.5 c 0 12.426 -10.07 22.5 -22.5 22.5 c -7.669 0 -14.438 -3.828 -18.5 -9.688 c 1.037 1.822 2.306 3.499 3.781 4.969 c 4.085 3.712 9.514 5.969 15.469 5.969 c 12.703 0 23 -10.298 23 -23 c 0 -5.954 -2.256 -11.384 -5.969 -15.469 c -1.469 -1.475 -3.147 -2.744 -4.969 -3.781 z m 4.969 3.781 c 3.854 4.113 6.219 9.637 6.219 15.719 c 0 12.703 -10.297 23 -23 23 c -6.081 0 -11.606 -2.364 -15.719 -6.219 c 4.16 4.144 9.883 6.719 16.219 6.719 c 12.703 0 23 -10.298 23 -23 c 0 -6.335 -2.575 -12.06 -6.719 -16.219 z"
+       opacity="0.05"
+       id="path23" />
+    <path
+       d="m 41.28 8.781 c 3.712 4.085 5.969 9.514 5.969 15.469 c 0 12.703 -10.297 23 -23 23 c -5.954 0 -11.384 -2.256 -15.469 -5.969 c 4.113 3.854 9.637 6.219 15.719 6.219 c 12.703 0 23 -10.298 23 -23 c 0 -6.081 -2.364 -11.606 -6.219 -15.719 z"
+       opacity="0.1"
+       id="path25" />
+    <path
+       d="m 31.25 2.375 c 8.615 3.154 14.75 11.417 14.75 21.13 c 0 12.426 -10.07 22.5 -22.5 22.5 c -9.708 0 -17.971 -6.135 -21.12 -14.75 a 23 23 0 0 0 44.875 -7 a 23 23 0 0 0 -16 -21.875 z"
+       opacity="0.2"
+       id="path27" />
   </g>
   <path
-     style="fill:url(#linearGradient3028);fill-opacity:1"
+     style="fill:url(#linearGradient3126);fill-opacity:1"
      d="M 24 1 C 11.297 1 1 11.297 1 24 C 1 31.113882 4.2397588 37.468651 9.3125 41.6875 L 25.375 29.125 L 37 42.96875 C 43.043254 38.824361 47 31.881707 47 24 C 47 11.297 36.703 1 24 1 z M 35.53125 43.875 C 35.053177 44.15327 34.593015 44.411987 34.09375 44.65625 C 34.582555 44.417048 35.062673 44.147101 35.53125 43.875 z M 12.5 43.90625 C 12.996972 44.193616 13.511672 44.4684 14.03125 44.71875 C 13.51311 44.468245 12.995684 44.19361 12.5 43.90625 z M 14.25 44.8125 C 14.7298 45.037657 15.221544 45.245212 15.71875 45.4375 C 15.222255 45.244775 14.729116 45.038061 14.25 44.8125 z M 32.53125 45.34375 C 32.00338 45.555199 31.452563 45.76477 30.90625 45.9375 C 31.462167 45.762739 31.994427 45.558701 32.53125 45.34375 z M 16.375 45.6875 C 16.888899 45.868127 17.407631 46.043076 17.9375 46.1875 C 17.40153 46.041252 16.894568 45.870862 16.375 45.6875 z M 17.9375 46.1875 C 18.579653 46.362528 19.243027 46.505529 19.90625 46.625 C 19.242461 46.505453 18.580048 46.362829 17.9375 46.1875 z M 19.90625 46.625 C 20.483409 46.728967 21.064986 46.814958 21.65625 46.875 C 21.070004 46.815239 20.478471 46.728056 19.90625 46.625 z M 28.625 46.53125 C 27.877582 46.685032 27.115436 46.795881 26.34375 46.875 C 27.116964 46.796481 27.876362 46.684435 28.625 46.53125 z M 22.1875 46.90625 C 22.787327 46.953149 23.388127 47 24 47 C 23.385869 47 22.789268 46.95359 22.1875 46.90625 z "
-     id="path33" />
+     id="path31" />
   <g
-     id="g35" />
+     id="g33" />
   <g
-     id="g37">
+     id="g35">
     <g
-       clip-path="url(#clipPath-937966901)"
-       id="g39">
+       clip-path="url(#clipPath-324598080)"
+       id="g37">
       <g
-         transform="translate(0,1)"
-         id="g41">
+         transform="translate(1,1)"
+         id="g39">
         <g
            opacity="0.1"
-           id="g43">
+           id="g41">
           <!-- color: #63c038 -->
           <g
-             id="g45">
+             id="g43">
             <path
                d="m 25.375 29.13 l -24.12 18.875 l 40 0 m -15.875 -18.875"
                fill="#000"
                stroke="none"
                fill-rule="nonzero"
                fill-opacity="1"
-               id="path47" />
+               id="path45" />
             <path
                d="m 25.07 28.91 l -15.805 12.766 c 3.984 3.32 9.121 5.324 14.746 5.324 c 4.855 0 9.332 -1.484 13.04 -4.03 m -11.977 -14.06"
                fill="#000"
                stroke="none"
                fill-rule="nonzero"
                fill-opacity="1"
-               id="path49" />
+               id="path47" />
             <path
                d="m 48 7 l -48 39 c 0 0.594 0 1.508 0 2 c 1 0 3 0 4 0 l 44 -36 m 0 -5"
                fill="#000"
                stroke="none"
                fill-rule="nonzero"
                fill-opacity="1"
-               id="path51" />
+               id="path49" />
             <path
                d="m 26.984 27.828 l -2.633 2.492 l 14.648 17.68 c 1 0 3 0 4 0 m -16.02 -20.17"
                fill="#000"
                stroke="none"
                fill-rule="nonzero"
                fill-opacity="1"
-               id="path53" />
+               id="path51" />
             <path
                d="m 15.863 34.949 c -0.449 -2.211 -1.246 -4.051 -2.211 -5.754 c -0.715 -1.262 -1.543 -2.43 -2.309 -3.656 c -0.254 -0.41 -0.477 -0.84 -0.719 -1.266 c -0.492 -0.848 -0.891 -1.832 -0.867 -3.109 c 0.023 -1.25 0.387 -2.25 0.91 -3.07 c 0.855 -1.344 2.293 -2.449 4.223 -2.738 c 1.574 -0.238 3.055 0.164 4.102 0.777 c 0.855 0.496 1.52 1.164 2.023 1.953 c 0.527 0.82 0.891 1.789 0.922 3.055 c 0.016 0.648 -0.094 1.25 -0.242 1.746 c -0.152 0.504 -0.395 0.926 -0.613 1.375 c -0.422 0.879 -0.953 1.684 -1.488 2.488 c -1.586 2.398 -3.078 4.848 -3.73 8.199 m 0 0"
                fill="#000"
                stroke="none"
                fill-rule="evenodd"
                fill-opacity="1"
-               id="path55" />
+               id="path53" />
             <path
                d="m 18.516 21.293 c 0 1.508 -1.223 2.73 -2.734 2.73 c -1.512 0 -2.738 -1.223 -2.738 -2.73 c 0 -1.508 1.227 -2.73 2.738 -2.73 c 1.512 0 2.734 1.223 2.734 2.73 m 0 0"
                fill="#000"
                stroke="none"
                fill-rule="evenodd"
                fill-opacity="1"
-               id="path57" />
+               id="path55" />
           </g>
         </g>
       </g>
@@ -227,30 +254,30 @@
   <path
      style="fill:#868bec;fill-opacity:1;fill-rule:nonzero;stroke:none"
      d="M 25.375 29.125 L 9.3125 41.6875 C 13.297968 45.002096 18.410882 47 24 47 C 28.821293 47 33.303301 45.5039 37 42.96875 L 25.375 29.125 z "
-     id="path65" />
+     id="path63" />
   <path
      style="fill:#ffe68e;fill-opacity:1;fill-rule:nonzero;stroke:none"
      d="M 43 11.0625 L 7.4375 39.9375 C 8.3894188 40.926447 9.4164638 41.849823 10.53125 42.65625 L 44.9375 14.5 C 44.391838 13.299853 43.735202 12.141675 43 11.0625 z "
-     id="path69" />
+     id="path67" />
   <path
      style="fill:#ffe68e;fill-opacity:1;fill-rule:nonzero;stroke:none"
      d="M 26.96875 27.8125 L 24.34375 30.3125 L 35.5625 43.875 C 36.511684 43.322331 37.39343 42.709628 38.25 42.03125 L 26.96875 27.8125 z "
-     id="path71" />
+     id="path69" />
   <path
      style="fill:#f3533d;fill-opacity:1;fill-rule:evenodd;stroke:none"
      inkscape:connector-curvature="0"
-     id="path73"
+     id="path71"
      d="m 15.863,34.949 c -0.449,-2.211 -1.246,-4.051 -2.211,-5.754 -0.715,-1.262 -1.543,-2.43 -2.309,-3.656 -0.254,-0.41 -0.477,-0.84 -0.719,-1.266 -0.492,-0.848 -0.891,-1.832 -0.867,-3.109 0.023,-1.25 0.387,-2.25 0.91,-3.07 0.855,-1.344 2.293,-2.449 4.223,-2.738 1.574,-0.238 3.055,0.164 4.102,0.777 0.855,0.496 1.52,1.164 2.023,1.953 0.527,0.82 0.891,1.789 0.922,3.055 0.016,0.648 -0.094,1.25 -0.242,1.746 -0.152,0.504 -0.395,0.926 -0.613,1.375 -0.422,0.879 -0.953,1.684 -1.488,2.488 -1.586,2.398 -3.078,4.848 -3.73,8.199 m 0,0" />
   <path
      style="fill:#c12f20;fill-opacity:1;fill-rule:evenodd;stroke:none"
      inkscape:connector-curvature="0"
-     id="path75"
+     id="path73"
      d="m 18.516,21.293 c 0,1.508 -1.223,2.73 -2.734,2.73 -1.512,0 -2.738,-1.223 -2.738,-2.73 0,-1.508 1.227,-2.73 2.738,-2.73 1.512,0 2.734,1.223 2.734,2.73 m 0,0" />
   <g
-     id="g77">
+     id="g75">
     <path
        d="m 40.03 7.531 c 3.712 4.084 5.969 9.514 5.969 15.469 0 12.703 -10.297 23 -23 23 c -5.954 0 -11.384 -2.256 -15.469 -5.969 4.178 4.291 10.01 6.969 16.469 6.969 c 12.703 0 23 -10.298 23 -23 0 -6.462 -2.677 -12.291 -6.969 -16.469 z"
        opacity="0.1"
-       id="path79" />
+       id="path77" />
   </g>
 </svg>

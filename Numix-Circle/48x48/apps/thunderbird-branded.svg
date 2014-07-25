@@ -16,13 +16,14 @@
    height="100%"
    sodipodi:docname="thunderbird-branded.svg">
   <metadata
-     id="metadata88">
+     id="metadata86">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -37,11 +38,11 @@
      inkscape:pageshadow="2"
      inkscape:window-width="658"
      inkscape:window-height="480"
-     id="namedview86"
+     id="namedview84"
      showgrid="false"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="27.457627"
-     inkscape:cy="25.016949"
+     inkscape:zoom="2.4583333"
+     inkscape:cx="-18.544574"
+     inkscape:cy="19.359836"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -59,7 +60,7 @@
          stop-opacity="1"
          id="stop7"
          offset="0"
-         style="stop-color:#e4e4e4;stop-opacity:1;" />
+         style="stop-color:#f8f8f8;stop-opacity:1;" />
       <stop
          offset="1"
          stop-color="#3479ee"
@@ -68,7 +69,7 @@
          style="stop-color:#eeeeee;stop-opacity:1;" />
     </linearGradient>
     <clipPath
-       id="clipPath-123888004">
+       id="clipPath-535500908">
       <g
          transform="translate(0,-1004.3622)"
          id="g12">
@@ -80,7 +81,7 @@
       </g>
     </clipPath>
     <clipPath
-       id="clipPath-130970835">
+       id="clipPath-547516983">
       <g
          transform="translate(0,-1004.3622)"
          id="g17">
@@ -100,143 +101,151 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3764"
-       id="linearGradient3077"
+       id="linearGradient3064"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)"
+       x1="1"
+       x2="47" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3764"
+       id="linearGradient3887"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,1,-1,0,48.000002,2e-6)"
        x1="1"
        x2="47" />
   </defs>
   <g
      id="g22">
-    <g
-       transform="translate(0,-1004.3622)"
-       id="g24">
-      <path
-         d="m 25 1006.36 c -12.703 0 -23 10.298 -23 23 0 6.367 2.601 12.12 6.781 16.281 4.085 3.712 9.514 5.969 15.469 5.969 12.703 0 23 -10.297 23 -23 0 -5.954 -2.256 -11.384 -5.969 -15.469 -4.165 -4.181 -9.914 -6.781 -16.281 -6.781 z m 16.281 6.781 c 3.854 4.113 6.219 9.637 6.219 15.719 0 12.703 -10.297 23 -23 23 -6.081 0 -11.606 -2.364 -15.719 -6.219 4.16 4.144 9.883 6.719 16.219 6.719 12.703 0 23 -10.297 23 -23 0 -6.335 -2.575 -12.06 -6.719 -16.219 z"
-         opacity="0.05"
-         id="path26" />
-      <path
-         d="m 41.28 1013.14 c 3.712 4.085 5.969 9.514 5.969 15.469 0 12.703 -10.297 23 -23 23 -5.954 0 -11.384 -2.256 -15.469 -5.969 4.113 3.854 9.637 6.219 15.719 6.219 12.703 0 23 -10.297 23 -23 0 -6.081 -2.364 -11.606 -6.219 -15.719 z"
-         opacity="0.1"
-         id="path28" />
-      <path
-         transform="matrix(15.333333,0,0,11.5,415.24999,879.11222)"
-         d="m -24 13 a 1.5 2 0 1 1 -3 0 1.5 2 0 1 1 3 0 z"
-         opacity="0.2"
-         id="path30" />
-    </g>
+    <path
+       d="m 36.31 5 c 5.859 4.062 9.688 10.831 9.688 18.5 c 0 12.426 -10.07 22.5 -22.5 22.5 c -7.669 0 -14.438 -3.828 -18.5 -9.688 c 1.037 1.822 2.306 3.499 3.781 4.969 c 4.085 3.712 9.514 5.969 15.469 5.969 c 12.703 0 23 -10.298 23 -23 c 0 -5.954 -2.256 -11.384 -5.969 -15.469 c -1.469 -1.475 -3.147 -2.744 -4.969 -3.781 z m 4.969 3.781 c 3.854 4.113 6.219 9.637 6.219 15.719 c 0 12.703 -10.297 23 -23 23 c -6.081 0 -11.606 -2.364 -15.719 -6.219 c 4.16 4.144 9.883 6.719 16.219 6.719 c 12.703 0 23 -10.298 23 -23 c 0 -6.335 -2.575 -12.06 -6.719 -16.219 z"
+       id="path24"
+       opacity="0.05" />
+    <path
+       d="m 41.28 8.781 c 3.712 4.085 5.969 9.514 5.969 15.469 c 0 12.703 -10.297 23 -23 23 c -5.954 0 -11.384 -2.256 -15.469 -5.969 c 4.113 3.854 9.637 6.219 15.719 6.219 c 12.703 0 23 -10.298 23 -23 c 0 -6.081 -2.364 -11.606 -6.219 -15.719 z"
+       id="path26"
+       opacity="0.1" />
+    <path
+       d="m 31.25 2.375 c 8.615 3.154 14.75 11.417 14.75 21.13 c 0 12.426 -10.07 22.5 -22.5 22.5 c -9.708 0 -17.971 -6.135 -21.12 -14.75 a 23 23 0 0 0 44.875 -7 a 23 23 0 0 0 -16 -21.875 z"
+       id="path28"
+       opacity="0.2" />
   </g>
   <path
      inkscape:connector-curvature="0"
-     style="fill:url(#linearGradient3077);fill-opacity:1"
-     id="path34"
-     d="M 24,1 C 36.703,1 47,11.297 47,24 47,36.703 36.703,47 24,47 11.297,47 1,36.703 1,24 1,11.297 11.297,1 24,1 z" />
+     style="fill:url(#linearGradient3887);fill-opacity:1"
+     id="path32"
+     d="M 24,47 C 11.297,47 1,36.703 1,24 1,11.297 11.297,1 24,1 36.703,1 47,11.297 47,24 47,36.703 36.703,47 24,47 z" />
   <g
-     id="g36" />
+     id="g34" />
   <g
-     id="g40"
-     clip-path="url(#clipPath-123888004)">
+     id="g36">
     <g
-       id="g42"
-       transform="translate(0,1)">
+       clip-path="url(#clipPath-535500908)"
+       id="g38">
       <g
-         style="opacity:0.1"
-         id="g44">
-        <!-- color: #3479ee -->
+         transform="translate(1,1)"
+         id="g40">
         <g
-           id="g46">
-          <path
-             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             inkscape:connector-curvature="0"
-             id="path48"
-             d="M 31.594,40.34 4.899,32.09 3.481,20.235 l 6,-9.129 28.11,6.488 -0.5,17.699 m -5.504,5.05" />
-          <use
-             height="48"
-             width="48"
-             y="0"
-             x="0"
-             style="fill:#000000"
-             id="use50"
-             xlink:href="#SVGCleanerId_0" />
-          <path
-             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             inkscape:connector-curvature="0"
-             id="path52"
-             d="m 17.08,15.602 c 0,1.012 -0.711,1.824 -1.594,1.824 -0.879,0 -1.59,-0.816 -1.59,-1.824 0,-1.01 0.711,-1.824 1.59,-1.824 0.883,0 1.594,0.816 1.594,1.824 m 0,0" />
-          <use
-             height="48"
-             width="48"
-             y="0"
-             x="0"
-             style="fill:#000000"
-             id="use54"
-             xlink:href="#SVGCleanerId_0" />
-          <path
-             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             inkscape:connector-curvature="0"
-             id="path56"
-             d="m 15.766,15.32 c 0,0.289 -0.234,0.523 -0.523,0.523 -0.289,0 -0.523,-0.234 -0.523,-0.523 0,-0.289 0.234,-0.523 0.523,-0.523 0.289,0 0.523,0.234 0.523,0.523 m 0,0" />
-          <path
-             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             inkscape:connector-curvature="0"
-             id="path58"
-             d="m 8.406,14.586 c -0.379,0.652 -0.57,1.059 -0.953,1.871 2.863,4.762 6.148,8.34 9.266,12.828 1.309,-0.047 10.664,-4.73 15.996,-6.156 -0.063,-0.477 -0.207,-1.168 -0.355,-1.734 L 17.169,27.504 M 8.407,14.586" />
-          <path
-             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             inkscape:connector-curvature="0"
-             id="path60"
-             d="m 10.914,18.242 -0.723,1.875 0.875,2.578 0.676,-1.809 0.586,-0.535 C 10.91,18.246 11.34,18.941 10.91,18.242 m 0.004,0" />
+           id="g42"
+           opacity="0.1">
+          <!-- color: #3479ee -->
+          <g
+             id="g44">
+            <path
+               d="m 31.594 40.34 l -26.695 -8.25 l -1.418 -11.855 l 6 -9.129 l 28.11 6.488 l -0.5 17.699 m -5.504 5.05"
+               id="path46"
+               stroke="none"
+               fill-rule="nonzero"
+               fill-opacity="1"
+               fill="#000" />
+            <use
+               xlink:href="#SVGCleanerId_0"
+               id="use48"
+               fill="#000" />
+            <path
+               d="m 17.08 15.602 c 0 1.012 -0.711 1.824 -1.594 1.824 c -0.879 0 -1.59 -0.816 -1.59 -1.824 c 0 -1.01 0.711 -1.824 1.59 -1.824 c 0.883 0 1.594 0.816 1.594 1.824 m 0 0"
+               id="path50"
+               stroke="none"
+               fill-rule="nonzero"
+               fill-opacity="1"
+               fill="#000" />
+            <use
+               xlink:href="#SVGCleanerId_0"
+               id="use52"
+               fill="#000" />
+            <path
+               d="m 15.766 15.32 c 0 0.289 -0.234 0.523 -0.523 0.523 c -0.289 0 -0.523 -0.234 -0.523 -0.523 c 0 -0.289 0.234 -0.523 0.523 -0.523 c 0.289 0 0.523 0.234 0.523 0.523 m 0 0"
+               id="path54"
+               stroke="none"
+               fill-rule="nonzero"
+               fill-opacity="1"
+               fill="#000" />
+            <path
+               d="m 8.406 14.586 c -0.379 0.652 -0.57 1.059 -0.953 1.871 c 2.863 4.762 6.148 8.34 9.266 12.828 c 1.309 -0.047 10.664 -4.73 15.996 -6.156 c -0.063 -0.477 -0.207 -1.168 -0.355 -1.734 l -15.191 6.109 m -8.762 -12.918"
+               id="path56"
+               stroke="none"
+               fill-rule="nonzero"
+               fill-opacity="1"
+               fill="#000" />
+            <path
+               d="m 10.914 18.242 l -0.723 1.875 l 0.875 2.578 l 0.676 -1.809 l 0.586 -0.535 c -1.418 -2.105 -0.988 -1.41 -1.418 -2.109 m 0.004 0"
+               id="path58"
+               stroke="none"
+               fill-rule="nonzero"
+               fill-opacity="1"
+               fill="#000" />
+          </g>
         </g>
       </g>
     </g>
   </g>
   <g
-     id="g62">
+     id="g60">
     <g
-       clip-path="url(#clipPath-130970835)"
-       id="g64">
+       clip-path="url(#clipPath-547516983)"
+       id="g62">
       <!-- color: #3479ee -->
       <g
-         id="g66">
+         id="g64">
         <path
            d="m 31.594 40.34 l -26.695 -8.25 l -1.418 -11.855 l 6 -9.129 l 28.11 6.488 l -0.5 17.699 m -5.504 5.05"
-           id="path68"
+           id="path66"
            stroke="none"
            fill-rule="nonzero"
            fill-opacity="1"
            fill="#f4c53b" />
         <use
            xlink:href="#SVGCleanerId_0"
-           id="use70"
+           id="use68"
            fill="#3478ec" />
         <path
            d="m 17.08 15.602 c 0 1.012 -0.711 1.824 -1.594 1.824 c -0.879 0 -1.59 -0.816 -1.59 -1.824 c 0 -1.01 0.711 -1.824 1.59 -1.824 c 0.883 0 1.594 0.816 1.594 1.824 m 0 0"
-           id="path72"
+           id="path70"
            stroke="none"
            fill-rule="nonzero"
            fill-opacity="1"
            fill="#f9f9f9" />
         <use
            xlink:href="#SVGCleanerId_0"
-           id="use74"
+           id="use72"
            fill="#3478ec" />
         <path
            d="m 15.766 15.32 c 0 0.289 -0.234 0.523 -0.523 0.523 c -0.289 0 -0.523 -0.234 -0.523 -0.523 c 0 -0.289 0.234 -0.523 0.523 -0.523 c 0.289 0 0.523 0.234 0.523 0.523 m 0 0"
-           id="path76"
+           id="path74"
            stroke="none"
            fill-rule="nonzero"
            fill-opacity="1"
            fill="#2d2d2d" />
         <path
            d="m 8.406 14.586 c -0.379 0.652 -0.57 1.059 -0.953 1.871 c 2.863 4.762 6.148 8.34 9.266 12.828 c 1.309 -0.047 10.664 -4.73 15.996 -6.156 c -0.063 -0.477 -0.207 -1.168 -0.355 -1.734 l -15.191 6.109 m -8.762 -12.918"
-           id="path78"
+           id="path76"
            stroke="none"
            fill-rule="nonzero"
            fill-opacity="1"
            fill="#a88628" />
         <path
            d="m 10.914 18.242 l -0.723 1.875 l 0.875 2.578 l 0.676 -1.809 l 0.586 -0.535 c -1.418 -2.105 -0.988 -1.41 -1.418 -2.109 m 0.004 0"
-           id="path80"
+           id="path78"
            stroke="none"
            fill-rule="nonzero"
            fill-opacity="1"
@@ -245,10 +254,10 @@
     </g>
   </g>
   <g
-     id="g82">
+     id="g80">
     <path
        d="m 40.03 7.531 c 3.712 4.084 5.969 9.514 5.969 15.469 0 12.703 -10.297 23 -23 23 c -5.954 0 -11.384 -2.256 -15.469 -5.969 4.178 4.291 10.01 6.969 16.469 6.969 c 12.703 0 23 -10.298 23 -23 0 -6.462 -2.677 -12.291 -6.969 -16.469 z"
-       opacity="0.1"
-       id="path84" />
+       id="path82"
+       opacity="0.1" />
   </g>
 </svg>
