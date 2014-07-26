@@ -5,6 +5,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 48 48"
@@ -34,17 +35,21 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1022"
+     inkscape:window-width="1280"
+     inkscape:window-height="960"
      id="namedview63"
-     showgrid="false"
-     inkscape:zoom="29.825062"
-     inkscape:cx="24.813559"
-     inkscape:cy="6.5649987"
+     showgrid="true"
+     inkscape:zoom="3.7281328"
+     inkscape:cx="53.381697"
+     inkscape:cy="30.086353"
      inkscape:window-x="0"
-     inkscape:window-y="29"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3804" />
+  </sodipodi:namedview>
   <defs
      id="defs4">
     <linearGradient
@@ -93,6 +98,22 @@
            id="rect19" />
       </g>
     </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3764"
+       id="linearGradient3798"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-47.997785,0.00221467)"
+       x1="1"
+       x2="47" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3764"
+       id="linearGradient3801"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-47.997785,0.00221467)"
+       x1="1"
+       x2="47" />
   </defs>
   <g
      id="g21">
@@ -130,6 +151,12 @@
        fill-opacity="1"
        id="rect33" />
   </g>
+  <path
+     style="opacity:0.1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     d="M 17.84375,7.625 C 11.410779,7.5914712 4.648,12.586 1,15 l 0,5 c 2.094,-2.492 4.92625,-5.36375 6.78125,-6.59375 3.625,9.879 3.813,9.91775 1.125,-0.65625 2.656,-1.465 5.4055,-1.94475 8.9375,-1.96875 0.309,-0.004 0.59825,0.02025 0.90625,0.03125 -0.043,5.508 -0.90175,16.859 -3.96875,21 -4.434,-11.41 -3.89525,-9.37925 -0.90625,0.34375 -0.211,0.105 -0.41,0.2615 -0.625,0.4375 l -1.375,-1.03125 0.6875,1.96875 C 9.6325,33.97625 3.91,33.930003 1,35 l 0,2 c 2.758,-0.625 8.82875,-2.800952 11.59375,-1.875 0.043,0.215 0.156,0.40575 0.25,0.59375 L 2,41.8125 3,42.466471 c 2.176,-1.027 8.24525,-5.025721 10.28125,-6.122721 0.203,0.18 0.469,0.30925 0.75,0.40625 L 8.5,47 9.53125,47 c 1.457969,-2.66136 3.590817,-8.444475 5.15625,-10.125 0.238,0.02 0.50825,0.06725 0.78125,0.03125 -0.310359,2.532812 -0.157396,7.162451 0.375,10.09375 l 2.78125,0 c -0.828454,-3.139723 -2.377555,-7.225153 -2.21875,-10.28125 0.887,0.34 1.35175,0.78075 2.34375,1.46875 -0.445,-0.668 -0.992,-1.1015 -1.375,-1.9375 0.086,-0.141 0.16775,-0.2805 0.21875,-0.4375 4.555,1.734 8.8125,2.223 13.4375,5 l 2.53125,1.875 c -0.77325,1.131 -1.728374,3.039047 -2.875,4.3125 l 1.46875,0 c 1.888383,-0.952853 3.687171,-2.35872 4.875,-3.75 2.434,-3.645 3.875,-8.0195 3.875,-12.6875 0,-12.594 -10.2835,-22.9375 -23.0625,-22.9375 z m 3.78125,3.53125 c 7.625,1.5 14.27675,7.484 15.71875,14.5 L 37,26.09375 c -0.641,1.109 -6.65975,3.02975 -8.84375,3.71875 -4.168,0.891 -7.15225,3.01025 -11.15625,3.15625 -0.246,-0.324 -0.531,-0.6165 -0.875,-0.8125 2.434,-4.328 1.633,-15.895 5.5,-21 z m 15.125,16.4375 0.90625,0.875 c 0,0.699 -0.0705,1.38675 -0.1875,2.09375 -0.594,3.742 -1.34825,7.44075 -2.90625,10.46875 L 31.25,39.9375 C 27.473,38.0975 21.80925,36.903 17.78125,34.25 23.55425,30.934 30.414,29.59775 36.75,27.59375 z M 22.03125,43.75 c 0.332789,0.967054 1.021982,2.23135 1.6875,3.25 l 0.875,0 c -0.90914,-1.049355 -1.748246,-2.34519 -2.5625,-3.25 z"
+     id="path3014"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccsccccccccccccccccccc" />
   <g
      id="g35" />
   <g
@@ -161,8 +188,8 @@
        id="g59">
       <path
          d="m 1 1043.36 0 4 c 0 2.216 1.784 4 4 4 l 38 0 c 2.216 0 4 -1.784 4 -4 l 0 -4 c 0 2.216 -1.784 4 -4 4 l -38 0 c -2.216 0 -4 -1.784 -4 -4 z"
-         opacity="0.1"
-         id="path61" />
+         id="path61"
+         opacity="0.1" />
     </g>
   </g>
 </svg>
