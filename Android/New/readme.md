@@ -1,1 +1,0 @@
-Icons not currently in the XML file.
