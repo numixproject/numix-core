@@ -1,13 +1,13 @@
 [Icon Theme]
-Name=Numix-Square
-Comment=Numix icon theme with a square apps icons design
+Name=Numix Square Light
+Comment=Numix icon theme with a square apps icons design for use with light themes
 
-Inherits=Numix
+Inherits=Numix-Light
 
 Example=directory-x-normal
 
 # Directory list
-Directories=16x16/apps,22x22/apps,22x22/status,24x24/apps,48x48/app,scalable/apps
+Directories=16x16/apps,22x22/apps,22x22/status,24x24/apps,48x48/apps,scalable/apps
 
 [16x16/apps]
 Size=16
