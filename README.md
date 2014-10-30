@@ -1,7 +1,7 @@
 Numix uTouch icon theme
 =======================
 
-Numix uTouch is an icon theme from the [Numix project](http://numixproject.org). This theme is now being continued by [robocoder-db](https://github.com/robocoder-db)! (Formerly DevilishDB). This is only because the theme still seemed to be popular with the community and hopefully it will become more popular again now that it's being contitued.
+Numix uTouch is an icon theme from the [Numix project](http://numixproject.org). This theme is now being continued by [robocoder-db](https://github.com/robocoder-db)! (Formerly DevilishDB). This is only because the theme still seemed to be popular with the community. Hopefully it will become more popular again now that it's being continued!
 
 Licensed under the GPL-3.0+
 
