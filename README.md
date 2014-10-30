@@ -19,7 +19,7 @@ sudo apt-get install numix-icon-theme-utouch
 Icon Requests
 -------------
 
-You can request icons by using the Numix-Technic [GitHub Issues page](https://github.com/numixproject/numix-icon-theme-technic/issues). These Numix-Technic icons will then later appear in Numix-uTouch, since Technic is the base project.
+You can request icons by using the Numix-Technic [GitHub Issues page](https://github.com/numixproject/numix-icon-theme-technic/issues). These Numix-Technic icons will then later appear in Numix-uTouch, since Technic is the base project. Please include the name of the icon (`icon=...` in the `.desktop` file), the webpage if applicable and the default icon (an image or a link to an image).
 
 Hardcoded Icons
 ---------------
