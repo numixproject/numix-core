@@ -36,17 +36,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="737"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
      id="namedview14157"
      showgrid="false"
-     inkscape:zoom="12.340426"
-     inkscape:cx="10.682621"
-     inkscape:cy="23.5"
+     inkscape:zoom="8.5681996"
+     inkscape:cx="10.321079"
+     inkscape:cy="23.334214"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g14127"
+     inkscape:current-layer="svg14100"
      showguides="true"
      inkscape:snap-bbox="true"
      inkscape:snap-midpoints="true"
@@ -115,13 +115,80 @@
     </clipPath>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient3792"
-       id="linearGradient3798"
-       x1="24.391378"
-       y1="47.027588"
+       xlink:href="#linearGradient3053"
+       id="linearGradient4075"
+       x1="24"
+       y1="1051.36"
        x2="24"
-       y2="1"
+       y2="1005.36"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient3053">
+      <stop
+         style="stop-color:#729cd9;stop-opacity:1;"
+         offset="0"
+         id="stop3055" />
+      <stop
+         style="stop-color:#87aade;stop-opacity:1;"
+         offset="1"
+         id="stop3057" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3053"
+       id="linearGradient4292"
+       x1="24"
+       y1="1051.36"
+       x2="24"
+       y2="1005.36"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient4294">
+      <stop
+         style="stop-color:#729cd9;stop-opacity:1;"
+         offset="0"
+         id="stop4296" />
+      <stop
+         style="stop-color:#87aade;stop-opacity:1;"
+         offset="1"
+         id="stop4298" />
+    </linearGradient>
+    <linearGradient
+       y2="1005.36"
+       x2="24"
+       y1="1051.36"
+       x1="24"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4302"
+       xlink:href="#linearGradient3053"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="1005.36"
+       x2="24"
+       y1="1051.36"
+       x1="24"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4304"
+       xlink:href="#linearGradient3053"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3053"
+       id="linearGradient3877"
+       x1="1"
+       y1="24"
+       x2="47"
+       y2="24"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3053"
+       id="linearGradient3879"
+       gradientUnits="userSpaceOnUse"
+       x1="24.817499"
+       y1="47.150494"
+       x2="24"
+       y2="1" />
   </defs>
   <g
      id="g14119">
@@ -140,11 +207,11 @@
   </g>
   <g
      id="g14127"
-     style="fill:#87aade">
+     style="fill:url(#linearGradient3877);fill-opacity:1.0">
     <path
        d="m 24 1 c 12.703 0 23 10.297 23 23 c 0 12.703 -10.297 23 -23 23 -12.703 0 -23 -10.297 -23 -23 0 -12.703 10.297 -23 23 -23 z"
        id="path14129"
-       style="fill:url(#linearGradient3798);fill-opacity:1"
+       style="fill:url(#linearGradient3879);fill-opacity:1"
        fill-opacity="1"
        fill="url(#linearGradient3764)" />
   </g>
