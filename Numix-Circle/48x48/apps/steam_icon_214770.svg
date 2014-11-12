@@ -67,13 +67,13 @@
          stop-opacity="1"
          id="stop7"
          offset="0"
-         style="stop-color:#c688e0;stop-opacity:1;" />
+         style="stop-color:#cf4978;stop-opacity:1;" />
       <stop
          offset="1"
          stop-color="#eee"
          stop-opacity="1"
          id="stop9"
-         style="stop-color:#bf78dc;stop-opacity:1;" />
+         style="stop-color:#cb396c;stop-opacity:1;" />
     </linearGradient>
     <clipPath
        id="clipPath-151811596">
@@ -145,8 +145,8 @@
   </g>
   <g
      id="g3151"
-     transform="translate(1,1)"
-     style="fill:#000000;opacity:0.1">
+     transform="translate(0,1)"
+     style="opacity:0.1;fill:#000000">
     <path
        style="fill:#000000;stroke:none"
        d="m 18,14 7,-4 7,4 3,17 -6,5 -8,0 -6,-5 z"
@@ -258,7 +258,8 @@
     </g>
   </g>
   <g
-     id="g3130">
+     id="g3130"
+     transform="translate(-1,0)">
     <path
        sodipodi:nodetypes="cccccccc"
        inkscape:connector-curvature="0"

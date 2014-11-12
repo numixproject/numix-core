@@ -67,13 +67,13 @@
          stop-opacity="1"
          id="stop7"
          offset="0"
-         style="stop-color:#8779ef;stop-opacity:1;" />
+         style="stop-color:#6b2160;stop-opacity:1;" />
       <stop
          offset="1"
          stop-color="#eee"
          stop-opacity="1"
          id="stop9"
-         style="stop-color:#7767ed;stop-opacity:1;" />
+         style="stop-color:#5b1d53;stop-opacity:1;" />
     </linearGradient>
     <clipPath
        id="clipPath-151811596">
@@ -145,8 +145,8 @@
   </g>
   <g
      id="g3151"
-     transform="translate(1,1)"
-     style="fill:#000000;opacity:0.1">
+     transform="translate(0,1)"
+     style="opacity:0.1;fill:#000000">
     <path
        style="fill:#000000;stroke:none"
        d="m 18,14 7,-4 7,4 3,17 -6,5 -8,0 -6,-5 z"
@@ -259,36 +259,36 @@
   </g>
   <path
      style="fill:#ff5555;stroke:none"
-     d="m 18,14 7,-4 7,4 3,17 -6,5 -8,0 -6,-5 z"
+     d="m 17,14 7,-4 7,4 3,17 -6,5 -8,0 -6,-5 z"
      id="path3005"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccccccc" />
   <path
      inkscape:connector-curvature="0"
      id="path3017"
-     d="m 18,32 7,1 7,-1 -1.4,-4 -11.2,0 z"
+     d="m 17,32 7,1 7,-1 -1.4,-4 -11.2,0 z"
      style="fill:#ffff00;stroke:none"
      sodipodi:nodetypes="cccccc" />
   <path
      style="fill:#333333;stroke:none"
-     d="m 20,31 10,0 -1,-2 -8,0 z"
+     d="m 19,31 10,0 -1,-2 -8,0 z"
      id="path3007"
      inkscape:connector-curvature="0" />
   <path
      style="fill:#ffff00;stroke:none"
-     d="m 17,14 8,2 8,-2 1,7 -9,2 -9,-2 z"
+     d="m 16,14 8,2 8,-2 1,7 -9,2 -9,-2 z"
      id="path3015"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccccc" />
   <path
      style="fill:#333333;stroke:none"
-     d="m 22,26 3,1 3,-1 0,-1 -2,0 0,-3 -1,-2 -1,2 0,3 -2,0 z"
+     d="m 21,26 3,1 3,-1 0,-1 -2,0 0,-3 -1,-2 -1,2 0,3 -2,0 z"
      id="path3009"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccccccccc" />
   <path
      style="fill:#333333;stroke:none"
-     d="m 19,17 4,1 1,2 -5,0 z"
+     d="m 18,17 4,1 1,2 -5,0 z"
      id="path3011"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccc" />
@@ -296,11 +296,12 @@
      sodipodi:nodetypes="ccccc"
      inkscape:connector-curvature="0"
      id="path3013"
-     d="m 31,17 -4,1 -1,2 5,0 z"
+     d="m 30,17 -4,1 -1,2 5,0 z"
      style="fill:#333333;stroke:none" />
   <g
      id="g3111"
-     style="fill:#ffcc00">
+     style="fill:#ffcc00"
+     transform="translate(-1,0)">
     <path
        sodipodi:nodetypes="cccccccccccccccc"
        inkscape:connector-curvature="0"
@@ -334,7 +335,8 @@
   </g>
   <g
      style="fill:#66ff00"
-     id="g3118">
+     id="g3118"
+     transform="translate(-1,0)">
     <path
        style="fill:#66ff00;stroke:none"
        d="m 25,10 -8,3 -3,18 6,5 10,0 6,-5 -3,-18 z m 0,1 7,3 3,17 -6,4 -8,0 -6,-4 3,-17 z"
