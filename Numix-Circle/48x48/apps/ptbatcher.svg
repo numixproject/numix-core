@@ -5,6 +5,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 48 48"
@@ -34,15 +35,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="737"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
      id="namedview67"
      showgrid="true"
-     inkscape:zoom="12.340426"
-     inkscape:cx="24.499"
-     inkscape:cy="23.5"
+     inkscape:zoom="8.3079731"
+     inkscape:cx="24.754893"
+     inkscape:cy="23.334214"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2">
     <inkscape:grid
@@ -94,6 +95,43 @@
            id="path19" />
       </g>
     </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3791"
+       id="linearGradient3797"
+       x1="25"
+       y1="47"
+       x2="25"
+       y2="1"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient3791">
+      <stop
+         style="stop-color:#2483cc;stop-opacity:1;"
+         offset="0"
+         id="stop3793" />
+      <stop
+         style="stop-color:#50a7e9;stop-opacity:1;"
+         offset="1"
+         id="stop3795" />
+    </linearGradient>
+    <linearGradient
+       y2="1"
+       x2="25"
+       y1="47"
+       x1="25"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3870"
+       xlink:href="#linearGradient3791"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3764"
+       id="linearGradient3050"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)"
+       x1="1"
+       x2="47" />
   </defs>
   <g
      id="g21">
@@ -110,14 +148,11 @@
        opacity="0.2"
        id="path27" />
   </g>
-  <g
-     id="g29">
-    <path
-       d="m 24 1 c 12.703 0 23 10.297 23 23 c 0 12.703 -10.297 23 -23 23 -12.703 0 -23 -10.297 -23 -23 0 -12.703 10.297 -23 23 -23 z"
-       id="path31"
-       fill-opacity="1"
-       fill="url(#linearGradient3764)" />
-  </g>
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:url(#linearGradient3870);fill-opacity:1"
+     id="path31-3"
+     d="M 24,1 C 36.703,1 47,11.297 47,24 47,36.703 36.703,47 24,47 11.297,47 1,36.703 1,24 1,11.297 11.297,1 24,1 z" />
   <g
      id="g33" />
   <g
