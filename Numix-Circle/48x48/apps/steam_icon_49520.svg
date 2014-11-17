@@ -26,7 +26,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -39,15 +39,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="737"
+     inkscape:window-width="1910"
+     inkscape:window-height="1027"
      id="namedview67"
      showgrid="true"
      inkscape:zoom="12.361114"
-     inkscape:cx="0.35280937"
-     inkscape:cy="22.774633"
+     inkscape:cx="25.610941"
+     inkscape:cy="26.010587"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="23"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2">
     <inkscape:grid
@@ -56,6 +56,17 @@
   </sodipodi:namedview>
   <defs
      id="defs4">
+    <linearGradient
+       id="linearGradient3031">
+      <stop
+         style="stop-color:#f4ea4c;stop-opacity:1;"
+         offset="0"
+         id="stop3033" />
+      <stop
+         style="stop-color:#ffff2d;stop-opacity:1;"
+         offset="1"
+         id="stop3036" />
+    </linearGradient>
     <linearGradient
        id="linearGradient3027">
       <stop
@@ -179,6 +190,15 @@
        y1="11.936755"
        x2="49.294987"
        y2="35.007641" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3031"
+       id="linearGradient3038"
+       x1="-3"
+       y1="1"
+       x2="-3"
+       y2="47"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <g
      id="g21">
@@ -201,7 +221,8 @@
        d="m 24 1 c 12.703 0 23 10.297 23 23 c 0 12.703 -10.297 23 -23 23 -12.703 0 -23 -10.297 -23 -23 0 -12.703 10.297 -23 23 -23 z"
        id="path31"
        fill-opacity="1"
-       fill="url(#linearGradient3764)" />
+       fill="url(#linearGradient3764)"
+       style="fill:url(#linearGradient3038);fill-opacity:1" />
   </g>
   <g
      transform="matrix(0.76839014,0,0,0.7217611,8.7902465,11.851317)"
