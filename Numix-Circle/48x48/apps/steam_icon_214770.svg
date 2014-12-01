@@ -26,7 +26,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -44,8 +44,8 @@
      id="namedview79"
      showgrid="true"
      inkscape:zoom="12.083333"
-     inkscape:cx="23.400222"
-     inkscape:cy="24"
+     inkscape:cx="0.22780757"
+     inkscape:cy="32.096412"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -56,6 +56,17 @@
   </sodipodi:namedview>
   <defs
      id="defs4">
+    <linearGradient
+       id="linearGradient3041">
+      <stop
+         style="stop-color:#cb396c;stop-opacity:1;"
+         offset="0"
+         id="stop3043" />
+      <stop
+         style="stop-color:#cf4978;stop-opacity:1;"
+         offset="1"
+         id="stop3045" />
+    </linearGradient>
     <linearGradient
        id="linearGradient3764"
        x1="1"
@@ -101,12 +112,12 @@
     </clipPath>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient3764"
-       id="linearGradient3003"
-       x1="25"
-       y1="1"
-       x2="25"
-       y2="47"
+       xlink:href="#linearGradient3041"
+       id="linearGradient3047"
+       x1="24"
+       y1="47"
+       x2="24"
+       y2="1"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <g
@@ -126,13 +137,13 @@
   </g>
   <g
      id="g29"
-     style="fill-opacity:1;fill:url(#linearGradient3003)">
+     style="fill-opacity:1;fill:url(#linearGradient3047)">
     <path
        d="m 24 1 c 12.703 0 23 10.297 23 23 c 0 12.703 -10.297 23 -23 23 -12.703 0 -23 -10.297 -23 -23 0 -12.703 10.297 -23 23 -23 z"
        fill="url(#linearGradient3764)"
        fill-opacity="1"
        id="path31"
-       style="fill-opacity:1;fill:url(#linearGradient3003)" />
+       style="fill-opacity:1;fill:url(#linearGradient3047)" />
   </g>
   <g
      id="g33" />
