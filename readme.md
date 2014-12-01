@@ -25,4 +25,4 @@ For Arch users there's a [community maintained package](https://aur.archlinux.or
 For normal applications follow [this video tutorial](https://plus.google.com/+NumixprojectOrg/posts/DkRmhFZuWez), for Steam games follow [this one](https://www.youtube.com/watch?v=BuUy4CzCoXc) and for Chrome apps just post a link to the webstore page. When filing your request please be respectful, patient, and remember that Circle development is done solely on the back of donations.
 
 ### Hardcoded Icons
-To deal with hardcoded application icons Numix uses the [hardcode-fixer](https://github.com/Foggalong/hardcode-fixer) script. A list of the applications supported by the script that Numix also covers can be found [here](https://github.com/Foggalong/hardcode-fixer/blob/master/data/themes/numix.md).
+To deal with hardcoded application icons Numix uses the [hardcode-fixer](https://github.com/Foggalong/hardcode-fixer) script. A list of the applications supported by the script can be found [here](https://github.com/Foggalong/hardcode-fixer/wiki/App-Support).
