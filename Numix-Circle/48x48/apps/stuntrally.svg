@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="stuntrally2.svg">
+   sodipodi:docname="stuntrally.svg">
   <metadata
      id="metadata331">
     <rdf:RDF>
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,13 +40,13 @@
      inkscape:window-height="713"
      id="namedview329"
      showgrid="false"
-     inkscape:zoom="18.737102"
-     inkscape:cx="35.291493"
+     inkscape:zoom="11.313708"
+     inkscape:cx="16.210022"
      inkscape:cy="23.19869"
      inkscape:window-x="0"
      inkscape:window-y="28"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer3"
      inkscape:snap-to-guides="false"
      showguides="true"
      inkscape:guide-bbox="true">
@@ -59,33 +59,33 @@
     <linearGradient
        id="linearGradient5239">
       <stop
-         style="stop-color:#060606;stop-opacity:1;"
+         style="stop-color:#121212;stop-opacity:1;"
          offset="0"
          id="stop5241" />
       <stop
-         style="stop-color:#000000;stop-opacity:1;"
+         style="stop-color:#0c0c0c;stop-opacity:1;"
          offset="1"
          id="stop5243" />
     </linearGradient>
     <linearGradient
        id="linearGradient5231">
       <stop
-         style="stop-color:#171005;stop-opacity:1;"
+         style="stop-color:#111111;stop-opacity:1;"
          offset="0"
          id="stop5233" />
       <stop
-         style="stop-color:#0f0a03;stop-opacity:1;"
+         style="stop-color:#0d0d0d;stop-opacity:1;"
          offset="1"
          id="stop5235" />
     </linearGradient>
     <linearGradient
        id="linearGradient4073">
       <stop
-         style="stop-color:#e11111;stop-opacity:1;"
+         style="stop-color:#dd1313;stop-opacity:1;"
          offset="0"
          id="stop4075" />
       <stop
-         style="stop-color:#cf0f0f;stop-opacity:1;"
+         style="stop-color:#eb1919;stop-opacity:1;"
          offset="1"
          id="stop4077" />
     </linearGradient>
@@ -1355,25 +1355,6 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5231"
-       id="linearGradient5237"
-       x1="270.47412"
-       y1="821.12433"
-       x2="266.25876"
-       y2="977.84186"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.0045108,0,0,1,-4.3330423,-0.14561551)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5239"
-       id="linearGradient5245"
-       x1="780.60583"
-       y1="404.44513"
-       x2="886.99579"
-       y2="511.39191"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5231"
        id="linearGradient5278"
        gradientUnits="userSpaceOnUse"
        x1="270.47412"
@@ -1516,7 +1497,7 @@
        transform="matrix(0.04745774,0,0,0.04745774,-5.8416735,-36.571119)">
       <rect
          id="rect7150"
-         style="fill:url(#linearGradient4070);fill-opacity:1;stroke:url(#linearGradient5245);stroke-width:2.9734057"
+         style="fill:url(#linearGradient4070);fill-opacity:1;stroke:#141414;stroke-width:2.97340569999999982;stroke-opacity:1"
          transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)"
          height="106.68"
          width="106.68"
@@ -1528,7 +1509,7 @@
         <path
            id="path7144"
            sodipodi:nodetypes="cccccsccsccccc"
-           style="fill:url(#linearGradient5237);fill-opacity:1"
+           style="fill:#141414;fill-opacity:1"
            d="m 232.84372,932.81425 c 0.0912,-29.08124 43.64562,-23.2353 43.69944,-35.60868 -0.0538,-13.48329 -22.56991,-13.28809 -22.66007,-32.41828 -5.28333,0.0757 -17.1308,5.82249 -17.80434,1.36088 -0.3964,-3.2766 24.07733,-44.90896 29.13437,-45.01379 5.05704,-0.10483 29.56401,42.25939 28.32509,45.01379 -1.79231,3.98473 -11.91614,-1.1929 -16.99505,-1.36088 -0.18851,7.00411 22.68087,10.9269 22.66005,33.0673 1.8e-4,29.86975 -43.44349,26.06043 -43.70155,34.95966 -0.22266,7.67827 21.52436,10.92908 21.0415,32.57013 l 0,12.75 c -7.43338,0 -22.66007,0 -22.66007,0 l 0,-12.64215 c -2.5155,-12.34698 -21.26969,-14.45217 -21.03937,-32.67798 z"
            inkscape:connector-curvature="0" />
       </g>
