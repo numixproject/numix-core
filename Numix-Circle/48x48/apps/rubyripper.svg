@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,9 +40,9 @@
      inkscape:window-height="713"
      id="namedview329"
      showgrid="false"
-     inkscape:zoom="5.6568542"
-     inkscape:cx="25.815589"
-     inkscape:cy="17.852693"
+     inkscape:zoom="16"
+     inkscape:cx="25.495237"
+     inkscape:cy="23.200411"
      inkscape:window-x="0"
      inkscape:window-y="28"
      inkscape:window-maximized="1"
@@ -1416,6 +1416,16 @@
          id="stop3103" />
     </linearGradient>
     <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4737"
+       id="linearGradient5343"
+       gradientUnits="userSpaceOnUse"
+       x1="25"
+       y1="48"
+       x2="25"
+       y2="0"
+       gradientTransform="translate(-0.004,-0.003)" />
+    <linearGradient
        id="linearGradient4737">
       <stop
          style="stop-color:#cb2b46;stop-opacity:1;"
@@ -1474,13 +1484,13 @@
          stop-opacity="1"
          id="stop22-3"
          offset="0"
-         style="stop-color:#ec2e2e;stop-opacity:1;" />
+         style="stop-color:#e93131;stop-opacity:1;" />
       <stop
          offset="1"
          stop-color="#fb5b5b"
          stop-opacity="1"
          id="stop24-6"
-         style="stop-color:#ff4747;stop-opacity:1;" />
+         style="stop-color:#ff4343;stop-opacity:1;" />
     </linearGradient>
   </defs>
   <g
@@ -1784,8 +1794,8 @@
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccccc" />
       <path
-         style="fill:#e6291b;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="M 30.799937,17 32,21 23,35.265747 14,21 15.20003,17 20.7,14 25.3,14 z M 30.54,17.2 l -1.77,-0.97 0.63,1.99 2.15,2.3 z m -5.34,-2.9 -4.4,0 -3.2,1.75 -0.68,2.250375 3.42,2.399375 5.32,0 L 29.08,18.3 28.4,16.05 z m 4.07,4.3 -3.27,2.32 0.85,3.8 4.71,-3.72 z m -3.62,2.47 -5.3,0 -0.8,3.740088 6.9,0 z m -8.42,-4.84 -1.77,0.97 -1.01,3.32 2.15,-2.299625 z m 13.9375,5.520183 -4.3175,3.449515 -3.606054,9.140905 z M 16.73,18.6 14.44,21 19.15,24.72 20,20.91975 z m 9.7,6.647217 -6.86,0 3.43,9.014314 z M 14.8325,21.750183 22.754909,34.340603 19.15,25.200305 z"
+         style="fill:#cc2012;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="M 30.799937,17 32,21 23,35.265747 14,21 15.20003,17 20.7,14 25.3,14 z M 30.54,17.2 l -1.77,-0.97 0.63,1.99 2.15,2.3 z m -5.34,-2.9 -4.4,0 -3.2,1.75 -0.68,2.250375 3.42,2.399375 5.32,0 L 29.08,18.3 28.4,16.05 z m 4.07,4.3 -3.27,2.32 0.85,3.8 4.71,-3.72 z m -3.62,2.47 -5.3,0 -0.8,3.73 6.9,0 z m -8.42,-4.84 -1.77,0.97 -1.01,3.32 2.15,-2.299625 z M 31.22,21.72 26.85,25.199698 23.243946,34.37 z M 16.73,18.6 14.44,21 19.15,24.72 20,20.91975 z m 9.7,6.65 -6.86,0 3.43,9.08 z M 14.78,21.72 22.754909,34.37 19.15,25.200305 z"
          id="path82"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
