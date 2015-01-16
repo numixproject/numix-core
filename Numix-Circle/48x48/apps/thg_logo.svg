@@ -5,6 +5,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 48 48"
@@ -13,7 +14,10 @@
    inkscape:version="0.48.5 r10040"
    width="100%"
    height="100%"
-   sodipodi:docname="thg_logo.svg">
+   sodipodi:docname="thg_logo.svg"
+   inkscape:export-filename="/home/ismael/Imágenes/icons.png"
+   inkscape:export-xdpi="245"
+   inkscape:export-ydpi="245">
   <metadata
      id="metadata61">
     <rdf:RDF>
@@ -22,6 +26,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -37,10 +42,10 @@
      inkscape:window-width="1366"
      inkscape:window-height="737"
      id="namedview59"
-     showgrid="false"
+     showgrid="true"
      inkscape:zoom="12.021277"
-     inkscape:cx="16.962248"
-     inkscape:cy="31.039042"
+     inkscape:cx="29.237102"
+     inkscape:cy="21.735309"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -51,6 +56,17 @@
   </sodipodi:namedview>
   <defs
      id="defs4">
+    <linearGradient
+       id="linearGradient3018">
+      <stop
+         style="stop-color:#7d959b;stop-opacity:1;"
+         offset="0"
+         id="stop3020" />
+      <stop
+         style="stop-color:#889ea4;stop-opacity:1;"
+         offset="1"
+         id="stop3022" />
+    </linearGradient>
     <linearGradient
        id="linearGradient3764"
        x1="1"
@@ -91,6 +107,15 @@
            id="path19" />
       </g>
     </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3018"
+       id="linearGradient3024"
+       x1="24"
+       y1="47"
+       x2="24"
+       y2="1"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <g
      id="g21">
@@ -113,7 +138,7 @@
     <path
        d="m 24 1 c 12.703 0 23 10.297 23 23 c 0 12.703 -10.297 23 -23 23 -12.703 0 -23 -10.297 -23 -23 0 -12.703 10.297 -23 23 -23 z"
        id="path31"
-       style="fill:#6f8a91"
+       style="fill:url(#linearGradient3024);fill-opacity:1"
        fill-opacity="1"
        fill="url(#linearGradient3764)" />
   </g>
