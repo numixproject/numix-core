@@ -14,7 +14,7 @@
    inkscape:version="0.48.5 r10040"
    width="100%"
    height="100%"
-   sodipodi:docname="nasc3.svg"
+   sodipodi:docname="nasc.svg"
    inkscape:export-filename="/home/ismael/Imágenes/icons.png"
    inkscape:export-xdpi="245"
    inkscape:export-ydpi="245">
@@ -26,7 +26,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -488,284 +488,24 @@
        id="g4088"
        transform="translate(0,1)"
        style="fill:#000000;fill-opacity:0.09803922">
-      <rect
-         y="13"
-         x="12"
-         height="1"
-         width="24"
-         id="rect4090"
-         style="fill:#000000;fill-opacity:0.09803922;fill-rule:nonzero;stroke:none" />
-      <rect
-         ry="1.6666666"
-         rx="1.5"
-         y="11"
-         x="13"
-         height="5"
-         width="3"
-         id="rect4092"
-         style="fill:#000000;fill-opacity:0.09803922;fill-rule:nonzero;stroke:none" />
-      <rect
+      <path
          style="fill:#000000;fill-opacity:0.09803922;fill-rule:nonzero;stroke:none"
-         id="rect4094"
-         width="3"
-         height="5"
-         x="16"
-         y="11"
-         rx="1.5"
-         ry="1.6666666" />
-      <rect
-         ry="1.6666666"
-         rx="1.5"
-         y="11"
-         x="19"
-         height="5"
-         width="3"
-         id="rect4096"
-         style="fill:#000000;fill-opacity:0.09803922;fill-rule:nonzero;stroke:none" />
-      <rect
-         style="fill:#000000;fill-opacity:0.09803922;fill-rule:nonzero;stroke:none"
-         id="rect4098"
-         width="3"
-         height="5"
-         x="32"
-         y="11"
-         rx="1.5"
-         ry="1.6666666" />
-      <rect
-         ry="1.6666666"
-         rx="1.5"
-         y="11"
-         x="29"
-         height="5"
-         width="3"
-         id="rect4100"
-         style="fill:#000000;fill-opacity:0.09803922;fill-rule:nonzero;stroke:none" />
-      <rect
-         style="fill:#000000;fill-opacity:0.09803922;fill-rule:nonzero;stroke:none"
-         id="rect4102"
-         width="3"
-         height="5"
-         x="22"
-         y="11"
-         rx="1.5"
-         ry="1.6666666" />
+         d="M 13 13 C 12.446 13 12 13.446 12 14 L 12 35 C 12 35.554 12.446 36 13 36 C 13.554 36 14 35.554 14 35 L 14 34.34375 C 14 35.267083 14.669 36 15.5 36 C 16.331 36 17 35.267083 17 34.34375 L 17 34 L 21 34 L 21 34.34375 C 21 35.267083 21.669 36 22.5 36 C 23.331 36 24 35.267083 24 34.34375 C 24 35.267083 24.669 36 25.5 36 C 26.331 36 27 35.267083 27 34.34375 C 27 35.267083 27.669 36 28.5 36 C 29.331 36 30 35.267083 30 34.34375 C 30 35.267083 30.669 36 31.5 36 C 32.331 36 33 35.267083 33 34.34375 C 33 35.267083 33.669 36 34.5 36 C 35.331 36 36 35.267083 36 34.34375 L 36 35 C 36 35.554 36.446 36 37 36 C 37.554 36 38 35.554 38 35 L 38 14 C 38 13.446 37.554 13 37 13 C 36.446 13 36 13.446 36 14 L 36 14.65625 C 36 13.732917 35.331 13 34.5 13 C 33.669 13 33 13.732917 33 14.65625 C 33 13.732917 32.331 13 31.5 13 C 30.669 13 30 13.732917 30 14.65625 L 30 15 L 26 15 L 26 14.65625 C 26 13.732917 25.331 13 24.5 13 C 23.669 13 23 13.732917 23 14.65625 C 23 13.732917 22.331 13 21.5 13 C 20.669 13 20 13.732917 20 14.65625 C 20 13.732917 19.331 13 18.5 13 C 17.669 13 17 13.732917 17 14.65625 C 17 13.732917 16.331 13 15.5 13 C 14.669 13 14 13.732917 14 14.65625 L 14 14 C 14 13.446 13.554 13 13 13 z M 26 16 L 30 16 L 30 16.34375 C 30 17.267083 30.669 18 31.5 18 C 32.331 18 33 17.267083 33 16.34375 C 33 17.267083 33.669 18 34.5 18 C 35.331 18 36 17.267083 36 16.34375 L 36 20.65625 C 36 19.732917 35.331 19 34.5 19 C 33.669 19 33 19.732917 33 20.65625 C 33 19.732917 32.331 19 31.5 19 C 30.669 19 30 19.732917 30 20.65625 C 30 19.732917 29.331 19 28.5 19 C 27.669 19 27 19.732917 27 20.65625 L 27 21 L 23 21 L 23 20.65625 C 23 19.732917 22.331 19 21.5 19 C 20.669 19 20 19.732917 20 20.65625 C 20 19.732917 19.331 19 18.5 19 C 17.669 19 17 19.732917 17 20.65625 C 17 19.732917 16.331 19 15.5 19 C 14.669 19 14 19.732917 14 20.65625 L 14 16.34375 C 14 17.267083 14.669 18 15.5 18 C 16.331 18 17 17.267083 17 16.34375 C 17 17.267083 17.669 18 18.5 18 C 19.331 18 20 17.267083 20 16.34375 C 20 17.267083 20.669 18 21.5 18 C 22.331 18 23 17.267083 23 16.34375 C 23 17.267083 23.669 18 24.5 18 C 25.331 18 26 17.267083 26 16.34375 L 26 16 z M 23 22 L 27 22 L 27 22.34375 C 27 23.267083 27.669 24 28.5 24 C 29.331 24 30 23.267083 30 22.34375 C 30 23.267083 30.669 24 31.5 24 C 32.331 24 33 23.267083 33 22.34375 C 33 23.267083 33.669 24 34.5 24 C 35.331 24 36 23.267083 36 22.34375 L 36 26.65625 C 36 25.732917 35.331 25 34.5 25 C 33.669 25 33 25.732917 33 26.65625 L 33 27 L 29 27 L 29 26.65625 C 29 25.732917 28.331 25 27.5 25 C 26.669 25 26 25.732917 26 26.65625 C 26 25.732917 25.331 25 24.5 25 C 23.669 25 23 25.732917 23 26.65625 C 23 25.732917 22.331 25 21.5 25 C 20.669 25 20 25.732917 20 26.65625 C 20 25.732917 19.331 25 18.5 25 C 17.669 25 17 25.732917 17 26.65625 C 17 25.732917 16.331 25 15.5 25 C 14.669 25 14 25.732917 14 26.65625 L 14 22.34375 C 14 23.267083 14.669 24 15.5 24 C 16.331 24 17 23.267083 17 22.34375 C 17 23.267083 17.669 24 18.5 24 C 19.331 24 20 23.267083 20 22.34375 C 20 23.267083 20.669 24 21.5 24 C 22.331 24 23 23.267083 23 22.34375 L 23 22 z M 29 28 L 33 28 L 33 28.34375 C 33 29.267083 33.669 30 34.5 30 C 35.331 30 36 29.267083 36 28.34375 L 36 32.65625 C 36 31.732917 35.331 31 34.5 31 C 33.669 31 33 31.732917 33 32.65625 C 33 31.732917 32.331 31 31.5 31 C 30.669 31 30 31.732917 30 32.65625 C 30 31.732917 29.331 31 28.5 31 C 27.669 31 27 31.732917 27 32.65625 C 27 31.732917 26.331 31 25.5 31 C 24.669 31 24 31.732917 24 32.65625 C 24 31.732917 23.331 31 22.5 31 C 21.669 31 21 31.732917 21 32.65625 L 21 33 L 17 33 L 17 32.65625 C 17 31.732917 16.331 31 15.5 31 C 14.669 31 14 31.732917 14 32.65625 L 14 28.34375 C 14 29.267083 14.669 30 15.5 30 C 16.331 30 17 29.267083 17 28.34375 C 17 29.267083 17.669 30 18.5 30 C 19.331 30 20 29.267083 20 28.34375 C 20 29.267083 20.669 30 21.5 30 C 22.331 30 23 29.267083 23 28.34375 C 23 29.267083 23.669 30 24.5 30 C 25.331 30 26 29.267083 26 28.34375 C 26 29.267083 26.669 30 27.5 30 C 28.331 30 29 29.267083 29 28.34375 L 29 28 z "
+         transform="translate(-1,-2)"
+         id="rect4090" />
     </g>
     <g
        id="g4104"
        transform="translate(0,-2)"
-       style="fill:#000000;fill-opacity:0.09803922">
-      <rect
-         style="fill:#000000;fill-opacity:0.09803922;fill-rule:nonzero;stroke:none"
-         id="rect4106"
-         width="24"
-         height="1"
-         x="12"
-         y="22" />
-      <rect
-         style="fill:#000000;fill-opacity:0.09803922;fill-rule:nonzero;stroke:none"
-         id="rect4108"
-         width="3"
-         height="5"
-         x="13"
-         y="20"
-         rx="1.5"
-         ry="1.6666666" />
-      <rect
-         ry="1.6666666"
-         rx="1.5"
-         y="20"
-         x="16"
-         height="5"
-         width="3"
-         id="rect4110"
-         style="fill:#000000;fill-opacity:0.09803922;fill-rule:nonzero;stroke:none" />
-      <rect
-         style="fill:#000000;fill-opacity:0.09803922;fill-rule:nonzero;stroke:none"
-         id="rect4112"
-         width="3"
-         height="5"
-         x="32"
-         y="20"
-         rx="1.5"
-         ry="1.6666666" />
-      <rect
-         ry="1.6666666"
-         rx="1.5"
-         y="20"
-         x="29"
-         height="5"
-         width="3"
-         id="rect4114"
-         style="fill:#000000;fill-opacity:0.09803922;fill-rule:nonzero;stroke:none" />
-      <rect
-         style="fill:#000000;fill-opacity:0.09803922;fill-rule:nonzero;stroke:none"
-         id="rect4116"
-         width="3"
-         height="5"
-         x="26"
-         y="20"
-         rx="1.5"
-         ry="1.6666666" />
-      <rect
-         ry="1.6666666"
-         rx="1.5"
-         y="20"
-         x="19"
-         height="5"
-         width="3"
-         id="rect4118"
-         style="fill:#000000;fill-opacity:0.09803922;fill-rule:nonzero;stroke:none" />
-    </g>
+       style="fill:#000000;fill-opacity:0.09803922" />
     <g
        id="g4120"
        transform="translate(0,-2)"
-       style="fill:#000000;fill-opacity:0.09803922">
-      <rect
-         y="28"
-         x="12"
-         height="1"
-         width="24"
-         id="rect4122"
-         style="fill:#000000;fill-opacity:0.09803922;fill-rule:nonzero;stroke:none" />
-      <rect
-         ry="1.6666666"
-         rx="1.5"
-         y="26"
-         x="13"
-         height="5"
-         width="3"
-         id="rect4124"
-         style="fill:#000000;fill-opacity:0.09803922;fill-rule:nonzero;stroke:none" />
-      <rect
-         style="fill:#000000;fill-opacity:0.09803922;fill-rule:nonzero;stroke:none"
-         id="rect4126"
-         width="3"
-         height="5"
-         x="32"
-         y="26"
-         rx="1.5"
-         ry="1.6666666" />
-      <rect
-         ry="1.6666666"
-         rx="1.5"
-         y="26"
-         x="16"
-         height="5"
-         width="3"
-         id="rect4128"
-         style="fill:#000000;fill-opacity:0.09803922;fill-rule:nonzero;stroke:none" />
-      <rect
-         style="fill:#000000;fill-opacity:0.09803922;fill-rule:nonzero;stroke:none"
-         id="rect4130"
-         width="3"
-         height="5"
-         x="19"
-         y="26"
-         rx="1.5"
-         ry="1.6666666" />
-      <rect
-         ry="1.6666666"
-         rx="1.5"
-         y="26"
-         x="22"
-         height="5"
-         width="3"
-         id="rect4132"
-         style="fill:#000000;fill-opacity:0.09803922;fill-rule:nonzero;stroke:none" />
-      <rect
-         style="fill:#000000;fill-opacity:0.09803922;fill-rule:nonzero;stroke:none"
-         id="rect4134"
-         width="3"
-         height="5"
-         x="25"
-         y="26"
-         rx="1.5"
-         ry="1.6666666" />
-    </g>
+       style="fill:#000000;fill-opacity:0.09803922" />
     <g
        id="g4136"
        transform="translate(0,-2)"
-       style="fill:#000000;fill-opacity:0.09803922">
-      <rect
-         style="fill:#000000;fill-opacity:0.09803922;fill-rule:nonzero;stroke:none"
-         id="rect4138"
-         width="24"
-         height="1"
-         x="12"
-         y="34" />
-      <rect
-         style="fill:#000000;fill-opacity:0.09803922;fill-rule:nonzero;stroke:none"
-         id="rect4140"
-         width="3"
-         height="5"
-         x="13"
-         y="32"
-         rx="1.5"
-         ry="1.6666666" />
-      <rect
-         ry="1.6666666"
-         rx="1.5"
-         y="32"
-         x="32"
-         height="5"
-         width="3"
-         id="rect4142"
-         style="fill:#000000;fill-opacity:0.09803922;fill-rule:nonzero;stroke:none" />
-      <rect
-         style="fill:#000000;fill-opacity:0.09803922;fill-rule:nonzero;stroke:none"
-         id="rect4144"
-         width="3"
-         height="5"
-         x="29"
-         y="32"
-         rx="1.5"
-         ry="1.6666666" />
-      <rect
-         ry="1.6666666"
-         rx="1.5"
-         y="32"
-         x="26"
-         height="5"
-         width="3"
-         id="rect4146"
-         style="fill:#000000;fill-opacity:0.09803922;fill-rule:nonzero;stroke:none" />
-      <rect
-         style="fill:#000000;fill-opacity:0.09803922;fill-rule:nonzero;stroke:none"
-         id="rect4148"
-         width="3"
-         height="5"
-         x="23"
-         y="32"
-         rx="1.5"
-         ry="1.6666666" />
-      <rect
-         ry="1.6666666"
-         rx="1.5"
-         y="32"
-         x="20"
-         height="5"
-         width="3"
-         id="rect4150"
-         style="fill:#000000;fill-opacity:0.09803922;fill-rule:nonzero;stroke:none" />
-    </g>
-    <rect
-       style="fill:#000000;fill-opacity:0.09803922;fill-rule:nonzero;stroke:none"
-       id="rect4152"
-       width="2"
-       height="23"
-       x="11"
-       y="12"
-       rx="1"
-       ry="1" />
-    <rect
-       ry="1"
-       rx="1"
-       y="12"
-       x="35"
-       height="23"
-       width="2"
-       id="rect4154"
-       style="fill:#000000;fill-opacity:0.09803922;fill-rule:nonzero;stroke:none" />
+       style="fill:#000000;fill-opacity:0.09803922" />
   </g>
   <g
      id="g4050">
