@@ -36,15 +36,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1052"
+     inkscape:window-width="1280"
+     inkscape:window-height="998"
      id="namedview329"
      showgrid="true"
      inkscape:zoom="12.118768"
-     inkscape:cx="27.182104"
-     inkscape:cy="31.492059"
+     inkscape:cx="45.088215"
+     inkscape:cy="25.055761"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer3"
      showguides="true"
@@ -1847,13 +1847,42 @@
        inkscape:collect="always" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4140"
+       xlink:href="#linearGradient4140-7"
        id="linearGradient4147"
        x1="-27"
        y1="13"
        x2="-24"
        y2="13"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4140-7"
+       id="linearGradient4147-4"
+       x1="-27"
+       y1="13"
+       x2="-24"
+       y2="13"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient4140-7">
+      <stop
+         style="stop-color:#6e6196;stop-opacity:1;"
+         offset="0"
+         id="stop4143-0" />
+      <stop
+         style="stop-color:#847baf;stop-opacity:1;"
+         offset="1"
+         id="stop4145-5" />
+    </linearGradient>
+    <linearGradient
+       y2="13"
+       x2="-24"
+       y1="13"
+       x1="-27"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3607"
+       xlink:href="#linearGradient4140-7"
+       inkscape:collect="always" />
   </defs>
   <g
      inkscape:groupmode="layer"
@@ -1889,7 +1918,7 @@
      inkscape:label="Base">
     <path
        sodipodi:type="arc"
-       style="fill:url(#linearGradient4147);fill-opacity:1;stroke:none"
+       style="fill:url(#linearGradient4147);fill-opacity:1.0;stroke:none"
        id="path3942"
        sodipodi:cx="-25.5"
        sodipodi:cy="13"
