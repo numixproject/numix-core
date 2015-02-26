@@ -5,6 +5,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 48 48"
@@ -50,7 +51,7 @@
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-midpoints="true"
      inkscape:zoom="12.085106"
-     inkscape:cx="24.499"
+     inkscape:cx="8.1151967"
      inkscape:cy="23.5"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -62,6 +63,18 @@
   </sodipodi:namedview>
   <defs
      id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4175">
+      <stop
+         style="stop-color:#505050;stop-opacity:1"
+         offset="0"
+         id="stop4177" />
+      <stop
+         style="stop-color:#464646;stop-opacity:1"
+         offset="1"
+         id="stop4179" />
+    </linearGradient>
     <linearGradient
        id="linearGradient3764"
        x1="1"
@@ -102,6 +115,15 @@
            id="path19" />
       </g>
     </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4175"
+       id="linearGradient4181"
+       x1="24"
+       y1="1"
+       x2="24.497999"
+       y2="47.5"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <g
      id="g21">
@@ -120,11 +142,11 @@
   </g>
   <g
      id="g29"
-     style="fill:#4d4d4d">
+     style="fill:url(#linearGradient4181);fill-opacity:1">
     <path
        d="m 24 1 c 12.703 0 23 10.297 23 23 c 0 12.703 -10.297 23 -23 23 -12.703 0 -23 -10.297 -23 -23 0 -12.703 10.297 -23 23 -23 z"
        id="path31"
-       style="fill:#4d4d4d"
+       style="fill:url(#linearGradient4181);fill-opacity:1"
        fill-opacity="1"
        fill="url(#linearGradient3764)" />
   </g>
