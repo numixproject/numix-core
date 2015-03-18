@@ -11,7 +11,7 @@
    viewBox="0 0 48 48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    width="100%"
    height="100%"
    sodipodi:docname="nootka.svg"
@@ -26,7 +26,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,9 +40,9 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="737"
+     inkscape:window-height="713"
      id="namedview59"
-     showgrid="false"
+     showgrid="true"
      inkscape:snap-bbox="true"
      inkscape:object-paths="true"
      inkscape:snap-intersection-paths="true"
@@ -54,7 +54,7 @@
      inkscape:cx="10.606965"
      inkscape:cy="23.5"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2"
      inkscape:snap-nodes="true"
@@ -77,101 +77,6 @@
          offset="1"
          id="stop3176" />
     </linearGradient>
-    <linearGradient
-       id="linearGradient3164">
-      <stop
-         style="stop-color:#f5f5f5;stop-opacity:1;"
-         offset="0"
-         id="stop3166" />
-      <stop
-         style="stop-color:#ebebeb;stop-opacity:1;"
-         offset="1"
-         id="stop3168" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient3145">
-      <stop
-         style="stop-color:#ffcf4c;stop-opacity:1;"
-         offset="0"
-         id="stop3147" />
-      <stop
-         style="stop-color:#800000;stop-opacity:1;"
-         offset="1"
-         id="stop3149" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient3041">
-      <stop
-         style="stop-color:#cd8823;stop-opacity:1;"
-         offset="0"
-         id="stop3043" />
-      <stop
-         style="stop-color:#6d3e1f;stop-opacity:1;"
-         offset="1"
-         id="stop3045" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient3016">
-      <stop
-         style="stop-color:#5a5a5a;stop-opacity:1;"
-         offset="0"
-         id="stop3018" />
-      <stop
-         style="stop-color:#505050;stop-opacity:1;"
-         offset="1"
-         id="stop3020" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient3040">
-      <stop
-         style="stop-color:#fffccd;stop-opacity:1;"
-         offset="0"
-         id="stop3042" />
-      <stop
-         style="stop-color:#fffbb9;stop-opacity:1;"
-         offset="1"
-         id="stop3044" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient3764"
-       x1="1"
-       x2="47"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)">
-      <stop
-         stop-color="#333"
-         stop-opacity="1"
-         id="stop7" />
-      <stop
-         offset="1"
-         stop-color="#3d3d3d"
-         stop-opacity="1"
-         id="stop9" />
-    </linearGradient>
-    <clipPath
-       id="clipPath-799970715">
-      <g
-         transform="translate(0,-1004.3622)"
-         id="g12">
-        <path
-           d="m -24 13 c 0 1.105 -0.672 2 -1.5 2 -0.828 0 -1.5 -0.895 -1.5 -2 0 -1.105 0.672 -2 1.5 -2 0.828 0 1.5 0.895 1.5 2 z"
-           transform="matrix(15.333333,0,0,11.5,414.99999,878.8622)"
-           fill="#1890d0"
-           id="path14" />
-      </g>
-    </clipPath>
-    <clipPath
-       id="clipPath-808101755">
-      <g
-         transform="translate(0,-1004.3622)"
-         id="g17">
-        <path
-           d="m -24 13 c 0 1.105 -0.672 2 -1.5 2 -0.828 0 -1.5 -0.895 -1.5 -2 0 -1.105 0.672 -2 1.5 -2 0.828 0 1.5 0.895 1.5 2 z"
-           transform="matrix(15.333333,0,0,11.5,414.99999,878.8622)"
-           fill="#1890d0"
-           id="path19" />
-      </g>
-    </clipPath>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3172"
@@ -304,83 +209,12 @@
          d="m -21,10 0.5,0 0,0.5 -0.5,0 z"
          id="path3160" />
     </g>
-    <rect
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="rect3162"
-       width="2"
-       height="1"
-       x="22.999996"
-       y="24.9998" />
-    <rect
-       y="28"
-       x="23"
-       height="1"
-       width="2"
-       id="rect3164"
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
     <path
        style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        d="m 23,11 1,-0.25 1,0.25 0,3 -2,0 z"
        id="path3166"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccc" />
-    <path
-       sodipodi:type="arc"
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path3168"
-       sodipodi:cx="21.5"
-       sodipodi:cy="22.5"
-       sodipodi:rx="0.5"
-       sodipodi:ry="0.5"
-       d="M 22,22.5 C 22,22.776142 21.776142,23 21.5,23 21.223858,23 21,22.776142 21,22.5 21,22.223858 21.223858,22 21.5,22 c 0.276142,0 0.5,0.223858 0.5,0.5 z"
-       transform="translate(0.4169598,2)" />
-    <rect
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="rect3170"
-       width="4"
-       height="0.5"
-       x="22"
-       y="29.5" />
-    <path
-       sodipodi:type="arc"
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path3172"
-       sodipodi:cx="21.5"
-       sodipodi:cy="22.5"
-       sodipodi:rx="0.5"
-       sodipodi:ry="0.5"
-       d="M 22,22.5 C 22,22.776142 21.776142,23 21.5,23 21.223858,23 21,22.776142 21,22.5 21,22.223858 21.223858,22 21.5,22 c 0.276142,0 0.5,0.223858 0.5,0.5 z"
-       transform="matrix(0.75,0,0,0.75,11.25,15.25)" />
-    <path
-       transform="matrix(0.75,0,0,0.75,11.25,13.75)"
-       d="M 22,22.5 C 22,22.776142 21.776142,23 21.5,23 21.223858,23 21,22.776142 21,22.5 21,22.223858 21.223858,22 21.5,22 c 0.276142,0 0.5,0.223858 0.5,0.5 z"
-       sodipodi:ry="0.5"
-       sodipodi:rx="0.5"
-       sodipodi:cy="22.5"
-       sodipodi:cx="21.5"
-       id="path3174"
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       sodipodi:type="arc" />
-    <path
-       sodipodi:type="arc"
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path3176"
-       sodipodi:cx="21.5"
-       sodipodi:cy="22.5"
-       sodipodi:rx="0.5"
-       sodipodi:ry="0.5"
-       d="M 22,22.5 C 22,22.776142 21.776142,23 21.5,23 21.223858,23 21,22.776142 21,22.5 21,22.223858 21.223858,22 21.5,22 c 0.276142,0 0.5,0.223858 0.5,0.5 z"
-       transform="matrix(0.75,0,0,0.75,9.75,14.25)" />
-    <path
-       transform="matrix(0.75,0,0,0.75,9.75,15.75)"
-       d="M 22,22.5 C 22,22.776142 21.776142,23 21.5,23 21.223858,23 21,22.776142 21,22.5 21,22.223858 21.223858,22 21.5,22 c 0.276142,0 0.5,0.223858 0.5,0.5 z"
-       sodipodi:ry="0.5"
-       sodipodi:rx="0.5"
-       sodipodi:cy="22.5"
-       sodipodi:cx="21.5"
-       id="path3178"
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       sodipodi:type="arc" />
   </g>
   <g
      id="g3203"
@@ -394,7 +228,7 @@
     <path
        sodipodi:nodetypes="ccccc"
        id="path3033"
-       d="M 23.25,14 23,25 25,25 24.75,14 z"
+       d="M 23.25,14 23,25 25,25 24.75,14 Z"
        style="fill:#6c5d53;stroke:none"
        inkscape:connector-curvature="0" />
     <g
@@ -452,16 +286,13 @@
        id="rect3123"
        d="m 23,11 1,-0.25 1,0.25 0,3 -2,0 z"
        style="fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-    <path
+    <circle
        transform="translate(0.4169598,2)"
-       d="M 22,22.5 C 22,22.776142 21.776142,23 21.5,23 21.223858,23 21,22.776142 21,22.5 21,22.223858 21.223858,22 21.5,22 c 0.276142,0 0.5,0.223858 0.5,0.5 z"
-       sodipodi:ry="0.5"
-       sodipodi:rx="0.5"
-       sodipodi:cy="22.5"
-       sodipodi:cx="21.5"
        id="path3131"
        style="fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       sodipodi:type="arc" />
+       cx="21.5"
+       cy="22.5"
+       r="0.5" />
     <rect
        y="29.5"
        x="22"
@@ -469,45 +300,33 @@
        width="4"
        id="rect3133"
        style="fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-    <path
+    <circle
        transform="matrix(0.75,0,0,0.75,11.25,15.25)"
-       d="M 22,22.5 C 22,22.776142 21.776142,23 21.5,23 21.223858,23 21,22.776142 21,22.5 21,22.223858 21.223858,22 21.5,22 c 0.276142,0 0.5,0.223858 0.5,0.5 z"
-       sodipodi:ry="0.5"
-       sodipodi:rx="0.5"
-       sodipodi:cy="22.5"
-       sodipodi:cx="21.5"
        id="path3137"
        style="fill:#ffd42a;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       sodipodi:type="arc" />
-    <path
-       sodipodi:type="arc"
+       cx="21.5"
+       cy="22.5"
+       r="0.5" />
+    <circle
        style="fill:#ffd42a;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="path3139"
-       sodipodi:cx="21.5"
-       sodipodi:cy="22.5"
-       sodipodi:rx="0.5"
-       sodipodi:ry="0.5"
-       d="M 22,22.5 C 22,22.776142 21.776142,23 21.5,23 21.223858,23 21,22.776142 21,22.5 21,22.223858 21.223858,22 21.5,22 c 0.276142,0 0.5,0.223858 0.5,0.5 z"
-       transform="matrix(0.75,0,0,0.75,11.25,13.75)" />
-    <path
+       transform="matrix(0.75,0,0,0.75,11.25,13.75)"
+       cx="21.5"
+       cy="22.5"
+       r="0.5" />
+    <circle
        transform="matrix(0.75,0,0,0.75,9.75,14.25)"
-       d="M 22,22.5 C 22,22.776142 21.776142,23 21.5,23 21.223858,23 21,22.776142 21,22.5 21,22.223858 21.223858,22 21.5,22 c 0.276142,0 0.5,0.223858 0.5,0.5 z"
-       sodipodi:ry="0.5"
-       sodipodi:rx="0.5"
-       sodipodi:cy="22.5"
-       sodipodi:cx="21.5"
        id="path3141"
        style="fill:#ffd42a;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       sodipodi:type="arc" />
-    <path
-       sodipodi:type="arc"
+       cx="21.5"
+       cy="22.5"
+       r="0.5" />
+    <circle
        style="fill:#ffd42a;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="path3143"
-       sodipodi:cx="21.5"
-       sodipodi:cy="22.5"
-       sodipodi:rx="0.5"
-       sodipodi:ry="0.5"
-       d="M 22,22.5 C 22,22.776142 21.776142,23 21.5,23 21.223858,23 21,22.776142 21,22.5 21,22.223858 21.223858,22 21.5,22 c 0.276142,0 0.5,0.223858 0.5,0.5 z"
-       transform="matrix(0.75,0,0,0.75,9.75,15.75)" />
+       transform="matrix(0.75,0,0,0.75,9.75,15.75)"
+       cx="21.5"
+       cy="22.5"
+       r="0.5" />
   </g>
 </svg>

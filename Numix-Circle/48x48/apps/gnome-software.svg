@@ -11,10 +11,10 @@
    viewBox="0 0 48 48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    width="100%"
    height="100%"
-   sodipodi:docname="gnome-software1.svg">
+   sodipodi:docname="software.svg">
   <metadata
      id="metadata118">
     <rdf:RDF>
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -60,132 +60,6 @@
          offset="1"
          id="stop3824" />
     </linearGradient>
-    <linearGradient
-       id="linearGradient3764"
-       x1="1"
-       x2="47"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)">
-      <stop
-         stop-color="#e2e3d5"
-         stop-opacity="1"
-         id="stop7"
-         offset="0"
-         style="stop-color:#9cb6d3;stop-opacity:1;" />
-      <stop
-         offset="1"
-         stop-color="#eaebe1"
-         stop-opacity="1"
-         id="stop9"
-         style="stop-color:#abc1d9;stop-opacity:1;" />
-    </linearGradient>
-    <clipPath
-       id="clipPath-905894966">
-      <g
-         transform="translate(0,-1004.3622)"
-         id="g12">
-        <path
-           d="m -24 13 c 0 1.105 -0.672 2 -1.5 2 -0.828 0 -1.5 -0.895 -1.5 -2 0 -1.105 0.672 -2 1.5 -2 0.828 0 1.5 0.895 1.5 2 z"
-           transform="matrix(15.333333,0,0,11.5,414.99999,878.8622)"
-           fill="#1890d0"
-           id="path14" />
-      </g>
-    </clipPath>
-    <clipPath
-       id="clipPath-915995154">
-      <g
-         transform="translate(0,-1004.3622)"
-         id="g17">
-        <path
-           d="m -24 13 c 0 1.105 -0.672 2 -1.5 2 -0.828 0 -1.5 -0.895 -1.5 -2 0 -1.105 0.672 -2 1.5 -2 0.828 0 1.5 0.895 1.5 2 z"
-           transform="matrix(15.333333,0,0,11.5,414.99999,878.8622)"
-           fill="#1890d0"
-           id="path19" />
-      </g>
-    </clipPath>
-    <linearGradient
-       id="linear0"
-       gradientUnits="userSpaceOnUse"
-       y1="34"
-       x2="0"
-       y2="19"
-       gradientTransform="matrix(1,0,0,1.090909,0.00000295276,-3.090909)">
-      <stop
-         stop-color="#000"
-         stop-opacity="0.059"
-         id="stop22" />
-      <stop
-         offset="1"
-         stop-color="#000"
-         stop-opacity="0"
-         id="stop24" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient26"
-       gradientUnits="userSpaceOnUse"
-       y1="34"
-       x2="0"
-       y2="19"
-       gradientTransform="matrix(1,0,0,1.090909,0.00000295276,-3.090909)">
-      <stop
-         stop-color="#000"
-         stop-opacity="0.059"
-         id="stop28" />
-      <stop
-         offset="1"
-         stop-color="#000"
-         stop-opacity="0"
-         id="stop30" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linear0"
-       id="linearGradient3196"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,1.090909,2.95276e-6,-3.090909)"
-       y1="34"
-       x2="0"
-       y2="19" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linear0"
-       id="linearGradient3213"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,1.090909,2.95276e-6,-3.090909)"
-       y1="34"
-       x2="0"
-       y2="19" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linear0"
-       id="linearGradient3229"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,1.090909,2.95276e-6,-3.090909)"
-       y1="34"
-       x2="0"
-       y2="19" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linear0"
-       id="linearGradient3232"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,1.090909,2.95276e-6,-3.090909)"
-       y1="34"
-       x2="0"
-       y2="19" />
-    <clipPath
-       id="clipPath-106233399">
-      <g
-         transform="translate(0,-1004.3622)"
-         id="g17-1">
-        <path
-           style="fill:#1890d0"
-           inkscape:connector-curvature="0"
-           d="m -24,13 c 0,1.105 -0.672,2 -1.5,2 -0.828,0 -1.5,-0.895 -1.5,-2 0,-1.105 0.672,-2 1.5,-2 0.828,0 1.5,0.895 1.5,2 z"
-           transform="matrix(15.333333,0,0,11.5,414.99999,878.8622)"
-           id="path19-2" />
-      </g>
-    </clipPath>
     <clipPath
        id="clipPath-096530490">
       <g
@@ -199,22 +73,6 @@
            id="path14-6" />
       </g>
     </clipPath>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3764"
-       id="linearGradient4089"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)"
-       x1="1"
-       x2="47" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3764"
-       id="linearGradient4092"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,-1,1,0,52.677965,47.694913)"
-       x1="1"
-       x2="47" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3820"
