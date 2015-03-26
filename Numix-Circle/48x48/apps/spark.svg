@@ -39,20 +39,35 @@
      inkscape:window-width="1871"
      inkscape:window-height="1056"
      id="namedview59"
-     showgrid="true"
-     inkscape:zoom="9.8333335"
-     inkscape:cx="8.4248662"
-     inkscape:cy="25.333623"
+     showgrid="false"
+     inkscape:zoom="19.666667"
+     inkscape:cx="22.153277"
+     inkscape:cy="11.138168"
      inkscape:window-x="49"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2">
+     inkscape:current-layer="g3120">
     <inkscape:grid
        type="xygrid"
        id="grid3038" />
   </sodipodi:namedview>
   <defs
      id="defs4">
+    <linearGradient
+       id="linearGradient3838">
+      <stop
+         style="stop-color:#ef7f2d;stop-opacity:1;"
+         offset="0"
+         id="stop3840" />
+      <stop
+         id="stop3842"
+         offset="0.61747992"
+         style="stop-color:#ec6f13;stop-opacity:1;" />
+      <stop
+         style="stop-color:#f49a32;stop-opacity:1;"
+         offset="1"
+         id="stop3844" />
+    </linearGradient>
     <linearGradient
        id="linearGradient3764"
        x1="1"
@@ -191,11 +206,15 @@
       <stop
          id="stop3810-9-4"
          offset="0"
-         style="stop-color:#ef8232;stop-opacity:1;" />
+         style="stop-color:#ef7f2d;stop-opacity:1;" />
+      <stop
+         style="stop-color:#ec6f13;stop-opacity:1;"
+         offset="0.5"
+         id="stop3836" />
       <stop
          id="stop3812-6-5"
          offset="1"
-         style="stop-color:#f3952d;stop-opacity:1;" />
+         style="stop-color:#f49a32;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -279,7 +298,7 @@
        y2="21" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient3808-5-6"
+       xlink:href="#linearGradient3838"
        id="linearGradient4022"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.45025668,0,0,0.49455506,16.437128,19.440776)"
