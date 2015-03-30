@@ -11,7 +11,7 @@
    viewBox="0 0 48 48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.48.5 r10040"
    sodipodi:docname="freeminer.svg"
    inkscape:export-xdpi="240"
    inkscape:export-ydpi="240"
@@ -25,7 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -38,15 +38,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1871"
-     inkscape:window-height="1056"
+     inkscape:window-width="1280"
+     inkscape:window-height="998"
      id="namedview59"
      showgrid="true"
-     inkscape:zoom="6.9532168"
-     inkscape:cx="32.706474"
-     inkscape:cy="18.945156"
-     inkscape:window-x="49"
-     inkscape:window-y="24"
+     inkscape:zoom="13.906434"
+     inkscape:cx="37.219319"
+     inkscape:cy="22.202404"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2">
     <inkscape:grid
@@ -59,6 +59,17 @@
   </sodipodi:namedview>
   <defs
      id="defs4">
+    <linearGradient
+       id="linearGradient3781">
+      <stop
+         style="stop-color:#8dbbeb;stop-opacity:1;"
+         offset="0"
+         id="stop3783" />
+      <stop
+         style="stop-color:#9ec5ee;stop-opacity:1;"
+         offset="1"
+         id="stop3785" />
+    </linearGradient>
     <linearGradient
        id="linearGradient3764"
        x1="1"
@@ -104,13 +115,22 @@
     </clipPath>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient3764"
-       id="linearGradient3012"
-       x1="1.1016949"
-       y1="46.881355"
-       x2="0.93220413"
-       y2="1.0169495"
+       xlink:href="#linearGradient3781"
+       id="linearGradient3787"
+       x1="1"
+       y1="24"
+       x2="47"
+       y2="24"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3781"
+       id="linearGradient3789"
+       gradientUnits="userSpaceOnUse"
+       x1="1"
+       y1="24"
+       x2="47"
+       y2="24" />
   </defs>
   <g
      id="g21">
@@ -129,13 +149,13 @@
   </g>
   <g
      id="g29"
-     style="fill:url(#linearGradient3012);fill-opacity:1">
+     style="fill:url(#linearGradient3787);fill-opacity:1"
+     transform="matrix(0,-1,1,0,0,48)">
     <path
-       d="m 24 1 c 12.703 0 23 10.297 23 23 c 0 12.703 -10.297 23 -23 23 -12.703 0 -23 -10.297 -23 -23 0 -12.703 10.297 -23 23 -23 z"
+       d="M 24,1 C 36.703,1 47,11.297 47,24 47,36.703 36.703,47 24,47 11.297,47 1,36.703 1,24 1,11.297 11.297,1 24,1 z"
        id="path31"
-       fill-opacity="1"
-       fill="url(#linearGradient3764)"
-       style="fill:url(#linearGradient3012);fill-opacity:1.0" />
+       style="fill:url(#linearGradient3789);fill-opacity:1"
+       inkscape:connector-curvature="0" />
   </g>
   <g
      id="g33" />
