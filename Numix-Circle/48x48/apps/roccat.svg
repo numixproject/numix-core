@@ -14,7 +14,7 @@
    inkscape:version="0.48.5 r10040"
    width="100%"
    height="100%"
-   sodipodi:docname="roccat.svg">
+   sodipodi:docname="roccat1.svg">
   <metadata
      id="metadata77">
     <rdf:RDF>
@@ -23,6 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,14 +41,25 @@
      id="namedview75"
      showgrid="false"
      inkscape:zoom="6.9532167"
-     inkscape:cx="77.897022"
-     inkscape:cy="54.109202"
+     inkscape:cx="-9.5881701"
+     inkscape:cy="4.5805874"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <defs
      id="defs4">
+    <linearGradient
+       id="linearGradient3782">
+      <stop
+         style="stop-color:#363636;stop-opacity:1;"
+         offset="0"
+         id="stop3784" />
+      <stop
+         style="stop-color:#404040;stop-opacity:1;"
+         offset="1"
+         id="stop3786" />
+    </linearGradient>
     <linearGradient
        id="linearGradient3764"
        y1="47"
@@ -93,12 +105,14 @@
     </clipPath>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient3764"
-       id="linearGradient3834"
+       xlink:href="#linearGradient3782"
+       id="linearGradient3788"
+       x1="1"
+       y1="24"
+       x2="47"
+       y2="24"
        gradientUnits="userSpaceOnUse"
-       y1="47"
-       x2="0"
-       y2="1" />
+       gradientTransform="matrix(0,-1,1,0,0,48)" />
   </defs>
   <g
      id="g21">
@@ -117,9 +131,9 @@
   </g>
   <path
      inkscape:connector-curvature="0"
-     style="fill:url(#linearGradient3834);fill-opacity:1"
+     style="fill:url(#linearGradient3788);fill-opacity:1"
      id="path31"
-     d="M 24,1 C 36.703,1 47,11.297 47,24 47,36.703 36.703,47 24,47 11.297,47 1,36.703 1,24 1,11.297 11.297,1 24,1 z" />
+     d="M 1,24 C 1,11.297 11.297,1 24,1 36.703,1 47,11.297 47,24 47,36.703 36.703,47 24,47 11.297,47 1,36.703 1,24 z" />
   <g
      id="g33" />
   <g
