@@ -11,7 +11,7 @@
    viewBox="0 0 48 48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    width="100%"
    height="100%"
    sodipodi:docname="openmw-cs.svg">
@@ -35,15 +35,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="998"
+     inkscape:window-width="1366"
+     inkscape:window-height="713"
      id="namedview75"
-     showgrid="true"
-     inkscape:zoom="7.8653846"
-     inkscape:cx="11.998505"
-     inkscape:cy="9.1704582"
+     showgrid="false"
+     inkscape:zoom="11.123334"
+     inkscape:cx="17.508068"
+     inkscape:cy="21.756613"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2">
     <inkscape:grid
@@ -68,55 +68,6 @@
          stop-opacity="1"
          id="stop9" />
     </linearGradient>
-    <clipPath
-       id="clipPath-549593179">
-      <g
-         transform="translate(0,-1004.3622)"
-         id="g12">
-        <path
-           d="m -24 13 c 0 1.105 -0.672 2 -1.5 2 -0.828 0 -1.5 -0.895 -1.5 -2 0 -1.105 0.672 -2 1.5 -2 0.828 0 1.5 0.895 1.5 2 z"
-           transform="matrix(15.333333,0,0,11.5,414.99999,878.8622)"
-           fill="#1890d0"
-           id="path14" />
-      </g>
-    </clipPath>
-    <clipPath
-       id="clipPath-559001417">
-      <g
-         transform="translate(0,-1004.3622)"
-         id="g17">
-        <path
-           d="m -24 13 c 0 1.105 -0.672 2 -1.5 2 -0.828 0 -1.5 -0.895 -1.5 -2 0 -1.105 0.672 -2 1.5 -2 0.828 0 1.5 0.895 1.5 2 z"
-           transform="matrix(15.333333,0,0,11.5,414.99999,878.8622)"
-           fill="#1890d0"
-           id="path19" />
-      </g>
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath3067">
-      <rect
-         style="opacity:0.08999999;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="rect3069"
-         width="228.3835"
-         height="228.3835"
-         x="-314.6745"
-         y="-107.3238" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath3863">
-      <path
-         sodipodi:type="arc"
-         style="opacity:0.56837607;fill:#352217;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path3865"
-         sodipodi:cx="28"
-         sodipodi:cy="24"
-         sodipodi:rx="11"
-         sodipodi:ry="11"
-         d="m 39,24 a 11,11 0 1 1 -22,0 11,11 0 1 1 22,0 z"
-         transform="matrix(8.7839808,0,0,8.7839808,-420.08227,-203.94759)" />
-    </clipPath>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3764"
@@ -148,10 +99,8 @@
      d="M 24,1 C 36.703,1 47,11.297 47,24 47,36.703 36.703,47 24,47 11.297,47 1,36.703 1,24 1,11.297 11.297,1 24,1 z" />
   <path
      style="opacity:0.1;fill:#000000;fill-opacity:1;stroke:none"
-     d="m 28,12 c -10,0 -15,7 -15,13 0,6 5,13 15,13 -6,-3.569251 -9,-7 -9,-13 0,-6 3,-9.430749 9,-13 z"
-     id="path4027"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cscsc" />
+     d="M 28 12 C 18 12 13 19 13 25 C 13 31 18 38 28 38 C 22 34.430749 19 31 19 25 C 19 19 22 15.569251 28 12 z M 27.625 16.4375 L 27.1875 18.65625 C 26.647949 18.801166 26.133079 19.01949 25.65625 19.28125 L 23.6875 18.03125 L 21.78125 19.875 L 23.0625 21.78125 C 22.792344 22.243254 22.587065 22.727224 22.4375 23.25 L 20.15625 23.6875 L 20.15625 26.34375 L 22.4375 26.78125 C 22.587065 27.304028 22.792344 27.819245 23.0625 28.28125 L 21.78125 30.15625 L 23.6875 32.03125 L 25.65625 30.75 C 26.133079 31.011758 26.647949 31.230084 27.1875 31.375 L 27.625 33.59375 L 30.375 33.59375 L 30.8125 31.375 C 31.35205 31.230084 31.866922 31.011758 32.34375 30.75 L 34.3125 32.03125 L 36.21875 30.15625 L 34.9375 28.28125 C 35.207657 27.819245 35.412934 27.304028 35.5625 26.78125 L 37.84375 26.34375 L 37.84375 23.6875 L 35.5625 23.25 C 35.412934 22.727224 35.207657 22.243254 34.9375 21.78125 L 36.21875 19.875 L 34.3125 18.03125 L 32.34375 19.28125 C 31.866922 19.01949 31.35205 18.801166 30.8125 18.65625 L 30.375 16.4375 L 27.625 16.4375 z M 29 22 C 30.656855 22 32 23.343145 32 25 C 32 26.656855 30.656855 28 29 28 C 27.343145 28 26 26.656855 26 25 C 26 23.343145 27.343145 22 29 22 z "
+     id="path4027" />
   <path
      style="opacity:0.1"
      inkscape:connector-curvature="0"
