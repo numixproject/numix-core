@@ -10,7 +10,7 @@
    viewBox="0 0 48 48"
    id="svg3102"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    width="100%"
    height="100%"
    sodipodi:docname="bcloud.svg">
@@ -35,8 +35,8 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="998"
+     inkscape:window-width="1366"
+     inkscape:window-height="713"
      id="namedview3167"
      showgrid="true"
      inkscape:snap-global="false"
@@ -46,7 +46,7 @@
      inkscape:cx="16.59086"
      inkscape:cy="14.923544"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg3102">
     <inkscape:grid
@@ -55,46 +55,6 @@
   </sodipodi:namedview>
   <defs
      id="defs3104">
-    <linearGradient
-       id="linearGradient3764"
-       x1="1"
-       x2="47"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)">
-      <stop
-         stop-color="#333"
-         stop-opacity="1"
-         id="stop3107" />
-      <stop
-         offset="1"
-         stop-color="#3d3d3d"
-         stop-opacity="1"
-         id="stop3109" />
-    </linearGradient>
-    <clipPath
-       id="clipPath-952966047">
-      <g
-         transform="translate(0,-1004.3622)"
-         id="g3112">
-        <path
-           d="m -24 13 c 0 1.105 -0.672 2 -1.5 2 -0.828 0 -1.5 -0.895 -1.5 -2 0 -1.105 0.672 -2 1.5 -2 0.828 0 1.5 0.895 1.5 2 z"
-           transform="matrix(15.333333,0,0,11.5,414.99999,878.8622)"
-           id="path3114"
-           fill="#1890d0" />
-      </g>
-    </clipPath>
-    <clipPath
-       id="clipPath-961078958">
-      <g
-         transform="translate(0,-1004.3622)"
-         id="g3117">
-        <path
-           d="m -24 13 c 0 1.105 -0.672 2 -1.5 2 -0.828 0 -1.5 -0.895 -1.5 -2 0 -1.105 0.672 -2 1.5 -2 0.828 0 1.5 0.895 1.5 2 z"
-           transform="matrix(15.333333,0,0,11.5,414.99999,878.8622)"
-           id="path3119"
-           fill="#1890d0" />
-      </g>
-    </clipPath>
     <filter
        inkscape:label="Blur content"
        inkscape:menu="Blurs"
@@ -119,31 +79,6 @@
          operator="in"
          in2="result91"
          id="feComposite4162" />
-    </filter>
-    <filter
-       inkscape:label="Blur content"
-       inkscape:menu="Blurs"
-       inkscape:menu-tooltip="Blur the contents of objects, preserving the outline"
-       color-interpolation-filters="sRGB"
-       id="filter4154-1">
-      <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 "
-         result="result7"
-         id="feColorMatrix4156-5" />
-      <feGaussianBlur
-         result="result6"
-         stdDeviation="5"
-         id="feGaussianBlur4158-0" />
-      <feComposite
-         in2="result7"
-         operator="atop"
-         in="result6"
-         result="result91"
-         id="feComposite4160-9" />
-      <feComposite
-         operator="in"
-         in2="result91"
-         id="feComposite4162-9" />
     </filter>
     <filter
        inkscape:label="Blur content"
@@ -243,7 +178,7 @@
        style="fill:#1793e6;fill-opacity:1;stroke:none" />
     <path
        transform="matrix(1.0421053,0,0,1.0421053,-1.1704598,5.1950055)"
-       d="m 38.421875,24.703125 c 0,0.819798 -0.664577,1.484375 -1.484375,1.484375 -0.819798,0 -1.484375,-0.664577 -1.484375,-1.484375 0,-0.819798 0.664577,-1.484375 1.484375,-1.484375 0.819798,0 1.484375,0.664577 1.484375,1.484375 z"
+       d="M 38.421875,24.703125 A 1.484375,1.484375 0 0 1 36.9375,26.1875 1.484375,1.484375 0 0 1 35.453125,24.703125 1.484375,1.484375 0 0 1 36.9375,23.21875 a 1.484375,1.484375 0 0 1 1.484375,1.484375 z"
        sodipodi:ry="1.484375"
        sodipodi:rx="1.484375"
        sodipodi:cy="24.703125"
@@ -290,7 +225,7 @@
          style="fill:#1793e6;fill-opacity:1;stroke:none" />
       <path
          transform="matrix(1.0421053,0,0,1.0421053,-1.1704598,5.1950055)"
-         d="m 38.421875,24.703125 c 0,0.819798 -0.664577,1.484375 -1.484375,1.484375 -0.819798,0 -1.484375,-0.664577 -1.484375,-1.484375 0,-0.819798 0.664577,-1.484375 1.484375,-1.484375 0.819798,0 1.484375,0.664577 1.484375,1.484375 z"
+         d="M 38.421875,24.703125 A 1.484375,1.484375 0 0 1 36.9375,26.1875 1.484375,1.484375 0 0 1 35.453125,24.703125 1.484375,1.484375 0 0 1 36.9375,23.21875 a 1.484375,1.484375 0 0 1 1.484375,1.484375 z"
          sodipodi:ry="1.484375"
          sodipodi:rx="1.484375"
          sodipodi:cy="24.703125"
