@@ -33,17 +33,21 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="998"
+     inkscape:window-width="1366"
+     inkscape:window-height="713"
      id="namedview59"
      showgrid="false"
-     inkscape:zoom="1.7383042"
-     inkscape:cx="4.3164761"
-     inkscape:cy="-37.688955"
+     inkscape:zoom="13.906434"
+     inkscape:cx="16.964173"
+     inkscape:cy="30.356828"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3363" />
+  </sodipodi:namedview>
   <defs
      id="defs4">
     <linearGradient
@@ -58,22 +62,6 @@
          offset="1"
          id="stop4239" />
     </linearGradient>
-    <linearGradient
-       id="linearGradient3764"
-       x1="1"
-       x2="47"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)">
-      <stop
-         stop-color="#e4e4e4"
-         stop-opacity="1"
-         id="stop7" />
-      <stop
-         offset="1"
-         stop-color="#eee"
-         stop-opacity="1"
-         id="stop9" />
-    </linearGradient>
     <clipPath
        id="clipPath-725264839">
       <g
@@ -86,18 +74,6 @@
            id="path14" />
       </g>
     </clipPath>
-    <clipPath
-       id="clipPath-730514797">
-      <g
-         transform="translate(0,-1004.3622)"
-         id="g17">
-        <path
-           d="m -24 13 c 0 1.105 -0.672 2 -1.5 2 -0.828 0 -1.5 -0.895 -1.5 -2 0 -1.105 0.672 -2 1.5 -2 0.828 0 1.5 0.895 1.5 2 z"
-           transform="matrix(15.333333,0,0,11.5,414.99999,878.8622)"
-           fill="#1890d0"
-           id="path19" />
-      </g>
-    </clipPath>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4235"
@@ -108,6 +84,19 @@
        y2="24"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(-48,0)" />
+    <clipPath
+       id="clipPath-730514797-0">
+      <g
+         transform="translate(0,-1004.3622)"
+         id="g17-3">
+        <path
+           style="fill:#1890d0"
+           inkscape:connector-curvature="0"
+           d="m -24,13 c 0,1.105 -0.672,2 -1.5,2 -0.828,0 -1.5,-0.895 -1.5,-2 0,-1.105 0.672,-2 1.5,-2 0.828,0 1.5,0.895 1.5,2 z"
+           transform="matrix(15.333333,0,0,11.5,414.99999,878.8622)"
+           id="path19-3" />
+      </g>
+    </clipPath>
   </defs>
   <g
      id="g21">
@@ -160,10 +149,18 @@
      r="23"
      transform="matrix(0,-1,1,0,0,0)" />
   <g
+     id="g55">
+    <path
+       d="m 40.03 7.531 c 3.712 4.084 5.969 9.514 5.969 15.469 0 12.703 -10.297 23 -23 23 c -5.954 0 -11.384 -2.256 -15.469 -5.969 4.178 4.291 10.01 6.969 16.469 6.969 c 12.703 0 23 -10.298 23 -23 0 -6.462 -2.677 -12.291 -6.969 -16.469 z"
+       opacity="0.1"
+       id="path57" />
+  </g>
+  <g
+     transform="matrix(1.0000254,0,0,1.0001115,-9.1519505e-4,-0.00487161)"
      id="g47"
      style="fill:#49335c;fill-opacity:1">
     <g
-       clip-path="url(#clipPath-730514797)"
+       clip-path="url(#clipPath-730514797-0)"
        id="g49"
        style="fill:#49335c;fill-opacity:1">
       <!-- color: #eeeeee -->
@@ -171,21 +168,16 @@
          id="g51"
          style="fill:#49335c;fill-opacity:1">
         <path
-           d="m 36 13.977 c 0 0 -2 3.01 -5 3.01 c -2.797 -0.539 -3.906 -0.082 -4 0 l 0 12.11 c -0.133 2.551 -2.223 5.109 -5.336 6.285 c -3.949 1.492 -8.125 0.195 -9.332 -2.91 c -1.211 -3.098 1 -6.855 4.953 -8.348 c 3.059 -1.152 5.867 -0.867 7.715 0.867 l 0 -12.01 c 4 -2.664 7.719 0.957 11 1 m 0 -0.004"
-           fill="#1086b9"
-           stroke="none"
-           fill-rule="nonzero"
-           fill-opacity="1"
+           style="fill:#000000;fill-opacity:0.09803922;fill-rule:nonzero;stroke:none"
+           id="path3398"
+           d="m 36.999975,14.976889 c 0,0 -2,3.01 -5,3.01 -2.797,-0.539 -3.906,-0.082 -4,0 l 0,12.11 c -0.133,2.551 -2.223,5.109 -5.336,6.285 -3.949,1.492 -8.125,0.195 -9.332,-2.91 -1.211,-3.098 1,-6.855 4.953,-8.348 3.059,-1.152 5.867,-0.867 7.715,0.867 l 0,-12.01 c 4,-2.664 7.719,0.957 11,1 m 0,-0.004"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 36,13.977 c 0,0 -2,3.01 -5,3.01 -2.797,-0.539 -3.906,-0.082 -4,0 l 0,12.11 c -0.133,2.551 -2.223,5.109 -5.336,6.285 -3.949,1.492 -8.125,0.195 -9.332,-2.91 -1.211,-3.098 1,-6.855 4.953,-8.348 3.059,-1.152 5.867,-0.867 7.715,0.867 l 0,-12.01 c 4,-2.664 7.719,0.957 11,1 m 0,-0.004"
            id="path53"
-           style="fill:#49335c;fill-opacity:1" />
+           style="fill:#49335c;fill-opacity:1;fill-rule:nonzero;stroke:none" />
       </g>
     </g>
-  </g>
-  <g
-     id="g55">
-    <path
-       d="m 40.03 7.531 c 3.712 4.084 5.969 9.514 5.969 15.469 0 12.703 -10.297 23 -23 23 c -5.954 0 -11.384 -2.256 -15.469 -5.969 4.178 4.291 10.01 6.969 16.469 6.969 c 12.703 0 23 -10.298 23 -23 0 -6.462 -2.677 -12.291 -6.969 -16.469 z"
-       opacity="0.1"
-       id="path57" />
   </g>
 </svg>
