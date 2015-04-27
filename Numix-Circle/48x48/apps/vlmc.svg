@@ -11,7 +11,7 @@
    viewBox="0 0 48 48"
    id="svg3029"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    width="100%"
    height="100%"
    sodipodi:docname="vlmc.svg">
@@ -35,15 +35,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="998"
+     inkscape:window-width="1366"
+     inkscape:window-height="713"
      id="namedview3110"
      showgrid="false"
-     inkscape:zoom="9.8333332"
+     inkscape:zoom="19.666666"
      inkscape:cx="6.546459"
-     inkscape:cy="28.355268"
+     inkscape:cy="24.287471"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg3029" />
   <defs
@@ -58,83 +58,6 @@
          style="stop-color:#ffb321;stop-opacity:1;"
          offset="1"
          id="stop3782" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient3764"
-       x1="1"
-       x2="47"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)">
-      <stop
-         stop-color="#575757"
-         stop-opacity="1"
-         id="stop3034" />
-      <stop
-         offset="1"
-         stop-color="#616161"
-         stop-opacity="1"
-         id="stop3036" />
-    </linearGradient>
-    <clipPath
-       id="clipPath-519435725">
-      <g
-         transform="translate(0,-1004.3622)"
-         id="g3039">
-        <path
-           d="m -24 13 c 0 1.105 -0.672 2 -1.5 2 -0.828 0 -1.5 -0.895 -1.5 -2 0 -1.105 0.672 -2 1.5 -2 0.828 0 1.5 0.895 1.5 2 z"
-           transform="matrix(15.333333,0,0,11.5,414.99999,878.8622)"
-           fill="#1890d0"
-           id="path3041" />
-      </g>
-    </clipPath>
-    <clipPath
-       id="clipPath-529463298">
-      <g
-         transform="translate(0,-1004.3622)"
-         id="g3044">
-        <path
-           d="m -24 13 c 0 1.105 -0.672 2 -1.5 2 -0.828 0 -1.5 -0.895 -1.5 -2 0 -1.105 0.672 -2 1.5 -2 0.828 0 1.5 0.895 1.5 2 z"
-           transform="matrix(15.333333,0,0,11.5,414.99999,878.8622)"
-           fill="#1890d0"
-           id="path3046" />
-      </g>
-    </clipPath>
-    <linearGradient
-       id="linearGradient3108"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,-1,1,0,9.98e-4,46.999998)"
-       x1="1"
-       x2="47">
-      <stop
-         stop-color="#ffab09"
-         stop-opacity="1"
-         id="stop26" />
-      <stop
-         offset="1"
-         stop-color="#ffb31d"
-         stop-opacity="1"
-         id="stop28" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient3094"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.115973,0,0,1.115973,-3.0373754,-3.7308391)"
-       x1="7.7810001"
-       x2="43.439999">
-      <stop
-         stop-color="#e5e5e5"
-         stop-opacity="1"
-         id="stop19" />
-      <stop
-         offset="0.5"
-         stop-color="#f9f9f9"
-         stop-opacity="1"
-         id="stop21" />
-      <stop
-         offset="1"
-         stop-color="#e5e5e5"
-         stop-opacity="1"
-         id="stop23" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -191,10 +114,11 @@
      id="path3094"
      d="m 13.773,20 20.453,0 c 0.98,0 1.773,0.703 1.773,1.57 l 0,12.855 c 0,0.871 -0.793,1.574 -1.773,1.574 l -20.453,0 C 12.793,35.999 12,35.296 12,34.425 L 12,21.57 C 12,20.703 12.793,20 13.773,20 m 0,0" />
   <path
-     style="fill:#2d2d2d;fill-opacity:1;fill-rule:nonzero;stroke:none;opacity:0.1"
-     d="m 36,13.21875 -22,3.4375 C 13,16.99625 13,17.48 13,18 l 0,1.4375 0,1.5625 0,1.5625 0,2 0,10.875 C 13,36.3085 13.80125,37 14.78125,37 l 20.4375,0 C 36.19875,37 37,36.3085 37,35.4375 l 0,-12.875 C 37,21.6955 36.19875,21 35.21875,21 L 16,21 16,20.5 36,17.15625 C 37,16.92225 37,16.609 37,16 l 0,-2 c 0,-0.445 -0.457,-0.77725 -1,-0.78125 z"
+     style="opacity:0.1;fill:#2d2d2d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     d="m 36,13.21875 -22,3.4375 C 13,16.99625 13,17.48 13,18 13,23.8125 13,29.625 13,35.4375 13,36.3085 13.80125,37 14.78125,37 l 20.4375,0 C 36.19875,37 37,36.3085 37,35.4375 l 0,-12.875 C 37,21.6955 36.19875,21 35.21875,21 L 16,21 16,20.5 36,17.15625 C 37,16.92225 37,16.609 37,16 l 0,-2 c 0,-0.445 -0.457,-0.77725 -1,-0.78125 z"
      id="path3204"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccssssscccssc" />
   <path
      style="fill:#2d2d2d;fill-opacity:1;fill-rule:nonzero;stroke:none"
      inkscape:connector-curvature="0"
