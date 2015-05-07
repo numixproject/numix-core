@@ -12,7 +12,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r"
-   sodipodi:docname="unsettings_3.svg">
+   sodipodi:docname="unsettings.svg">
   <metadata
      id="metadata65">
     <rdf:RDF>
@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -39,9 +39,9 @@
      id="namedview63"
      showgrid="true"
      showguides="true"
-     inkscape:zoom="12.291667"
-     inkscape:cx="24"
-     inkscape:cy="24"
+     inkscape:zoom="12.708333"
+     inkscape:cx="24.000001"
+     inkscape:cy="24.000001"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -53,33 +53,17 @@
   <defs
      id="defs4">
     <linearGradient
-       id="3764"
-       x1="1"
-       x2="47"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)">
+       id="linearGradient4185"
+       inkscape:collect="always">
       <stop
+         id="stop4187"
          offset="0"
-         stop-color="#e2a8bf"
-         stop-opacity="1"
-         id="stop7"
          style="stop-color:#e2a8db;stop-opacity:1" />
       <stop
+         id="stop4189"
          offset="1"
-         stop-color="#e7b7e1"
-         stop-opacity="1"
-         id="stop9"
          style="stop-color:#e7b7e1;stop-opacity:1" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#3764"
-       id="linearGradient5815"
-       x1="24"
-       y1="47"
-       x2="24"
-       y2="1"
-       gradientUnits="userSpaceOnUse" />
     <clipPath
        id="clipPath-592456933-1-6">
       <g
@@ -91,19 +75,6 @@
            d="m -24,13 c 0,1.105 -0.672,2 -1.5,2 -0.828,0 -1.5,-0.895 -1.5,-2 0,-1.105 0.672,-2 1.5,-2 0.828,0 1.5,0.895 1.5,2 z"
            transform="matrix(15.333333,0,0,11.5,414.99999,878.8622)"
            id="path19-0-8" />
-      </g>
-    </clipPath>
-    <clipPath
-       id="clipPath-592456933-1-1-9">
-      <g
-         transform="translate(0,-1004.3622)"
-         id="g17-4-38-0">
-        <path
-           style="fill:#1890d0"
-           inkscape:connector-curvature="0"
-           d="m -24,13 c 0,1.105 -0.672,2 -1.5,2 -0.828,0 -1.5,-0.895 -1.5,-2 0,-1.105 0.672,-2 1.5,-2 0.828,0 1.5,0.895 1.5,2 z"
-           transform="matrix(15.333333,0,0,11.5,414.99999,878.8622)"
-           id="path19-0-5-6" />
       </g>
     </clipPath>
     <clipPath
@@ -145,6 +116,24 @@
            id="path19-0-5-6-3" />
       </g>
     </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4185"
+       id="linearGradient4211"
+       x1="24"
+       y1="47"
+       x2="24"
+       y2="1"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4185"
+       id="linearGradient4183"
+       gradientUnits="userSpaceOnUse"
+       x1="24"
+       y1="47"
+       x2="24"
+       y2="1" />
   </defs>
   <g
      id="g21">
@@ -162,11 +151,12 @@
        id="path27" />
   </g>
   <g
-     id="g29">
+     id="g29"
+     style="fill:url(#linearGradient4211);fill-opacity:1">
     <path
        d="m 24 1 c 12.703 0 23 10.297 23 23 c 0 12.703 -10.297 23 -23 23 -12.703 0 -23 -10.297 -23 -23 0 -12.703 10.297 -23 23 -23 z"
        id="path31"
-       style="fill:url(#linearGradient5815);fill-opacity:1"
+       style="fill:url(#linearGradient4183);fill-opacity:1.0"
        fill-opacity="1"
        fill="url(#linearGradient3764)" />
   </g>
