@@ -5,6 +5,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 48 48"
@@ -50,6 +51,18 @@
   </sodipodi:namedview>
   <defs
      id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4164">
+      <stop
+         style="stop-color:#74bfff;stop-opacity:1;"
+         offset="0"
+         id="stop4166" />
+      <stop
+         style="stop-color:#89c9ff;stop-opacity:1"
+         offset="1"
+         id="stop4168" />
+    </linearGradient>
     <linearGradient
        id="linearGradient3764"
        x1="1"
@@ -101,6 +114,24 @@
          x="-66.012611"
          y="-3.9184165" />
     </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4164"
+       id="linearGradient4170"
+       x1="1"
+       y1="24"
+       x2="47"
+       y2="24"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4164"
+       id="linearGradient4172"
+       gradientUnits="userSpaceOnUse"
+       x1="1"
+       y1="24"
+       x2="47"
+       y2="24" />
   </defs>
   <g
      id="g21">
@@ -119,13 +150,13 @@
   </g>
   <g
      id="g29"
-     style="fill:#74bfff;fill-opacity:1">
+     style="fill:url(#linearGradient4170);fill-opacity:1"
+     transform="matrix(0,-1,1,0,0,48)">
     <path
-       d="m 24 1 c 12.703 0 23 10.297 23 23 c 0 12.703 -10.297 23 -23 23 -12.703 0 -23 -10.297 -23 -23 0 -12.703 10.297 -23 23 -23 z"
-       fill="url(#linearGradient3764)"
-       fill-opacity="1"
+       d="M 24,1 C 36.703,1 47,11.297 47,24 47,36.703 36.703,47 24,47 11.297,47 1,36.703 1,24 1,11.297 11.297,1 24,1 Z"
        id="path31"
-       style="fill:#74bfff;fill-opacity:1" />
+       style="fill:url(#linearGradient4172);fill-opacity:1"
+       inkscape:connector-curvature="0" />
   </g>
   <path
      style="opacity:0.1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
