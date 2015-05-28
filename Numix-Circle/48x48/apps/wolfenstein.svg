@@ -5,6 +5,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 48 48"
@@ -41,8 +42,8 @@
      id="namedview3715"
      showgrid="false"
      inkscape:zoom="8.0941163"
-     inkscape:cx="24.482441"
-     inkscape:cy="20.124067"
+     inkscape:cx="28.200604"
+     inkscape:cy="28.772324"
      inkscape:window-x="0"
      inkscape:window-y="29"
      inkscape:window-maximized="1"
@@ -54,6 +55,18 @@
   </sodipodi:namedview>
   <defs
      id="defs3644">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4277">
+      <stop
+         style="stop-color:#aa0000;stop-opacity:1;"
+         offset="0"
+         id="stop4279" />
+      <stop
+         style="stop-color:#c41a1a;stop-opacity:1"
+         offset="1"
+         id="stop4281" />
+    </linearGradient>
     <clipPath
        id="clipPath-348990565">
       <g
@@ -78,134 +91,15 @@
            id="path3659" />
       </g>
     </clipPath>
-    <filter
-       style="color-interpolation-filters:sRGB;"
-       inkscape:label="Drop Shadow"
-       id="filter7667">
-      <feFlood
-         flood-opacity="0.498039"
-         flood-color="rgb(0,0,0)"
-         result="flood"
-         id="feFlood7669" />
-      <feComposite
-         in="flood"
-         in2="SourceGraphic"
-         operator="in"
-         result="composite1"
-         id="feComposite7671" />
-      <feGaussianBlur
-         in="composite1"
-         stdDeviation="0"
-         result="blur"
-         id="feGaussianBlur7673" />
-      <feOffset
-         dx="0.5"
-         dy="0.5"
-         result="offset"
-         id="feOffset7675" />
-      <feComposite
-         in="SourceGraphic"
-         in2="offset"
-         operator="over"
-         result="composite2"
-         id="feComposite7677" />
-    </filter>
-    <filter
-       style="color-interpolation-filters:sRGB;"
-       inkscape:label="Drop Shadow"
-       id="filter7679">
-      <feFlood
-         flood-opacity="0.498039"
-         flood-color="rgb(0,0,0)"
-         result="flood"
-         id="feFlood7681" />
-      <feComposite
-         in="flood"
-         in2="SourceGraphic"
-         operator="in"
-         result="composite1"
-         id="feComposite7683" />
-      <feGaussianBlur
-         in="composite1"
-         stdDeviation="0"
-         result="blur"
-         id="feGaussianBlur7685" />
-      <feOffset
-         dx="0.5"
-         dy="0.5"
-         result="offset"
-         id="feOffset7687" />
-      <feComposite
-         in="SourceGraphic"
-         in2="offset"
-         operator="over"
-         result="composite2"
-         id="feComposite7689" />
-    </filter>
-    <filter
-       style="color-interpolation-filters:sRGB;"
-       inkscape:label="Drop Shadow"
-       id="filter7691">
-      <feFlood
-         flood-opacity="0.498039"
-         flood-color="rgb(0,0,0)"
-         result="flood"
-         id="feFlood7693" />
-      <feComposite
-         in="flood"
-         in2="SourceGraphic"
-         operator="in"
-         result="composite1"
-         id="feComposite7695" />
-      <feGaussianBlur
-         in="composite1"
-         stdDeviation="0"
-         result="blur"
-         id="feGaussianBlur7697" />
-      <feOffset
-         dx="0.5"
-         dy="0.5"
-         result="offset"
-         id="feOffset7699" />
-      <feComposite
-         in="SourceGraphic"
-         in2="offset"
-         operator="over"
-         result="composite2"
-         id="feComposite7701" />
-    </filter>
-    <filter
-       style="color-interpolation-filters:sRGB;"
-       inkscape:label="Drop Shadow"
-       id="filter7703">
-      <feFlood
-         flood-opacity="0.498039"
-         flood-color="rgb(0,0,0)"
-         result="flood"
-         id="feFlood7705" />
-      <feComposite
-         in="flood"
-         in2="SourceGraphic"
-         operator="in"
-         result="composite1"
-         id="feComposite7707" />
-      <feGaussianBlur
-         in="composite1"
-         stdDeviation="0"
-         result="blur"
-         id="feGaussianBlur7709" />
-      <feOffset
-         dx="0.5"
-         dy="0.5"
-         result="offset"
-         id="feOffset7711" />
-      <feComposite
-         in="SourceGraphic"
-         in2="offset"
-         operator="over"
-         result="composite2"
-         id="feComposite7713" />
-    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4277"
+       id="linearGradient4283"
+       x1="23.979654"
+       y1="46.85611"
+       x2="24.143892"
+       y2="1.1438916"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <g
      id="g3661">
@@ -227,9 +121,9 @@
     <path
        d="m 24 1 c 12.703 0 23 10.297 23 23 c 0 12.703 -10.297 23 -23 23 -12.703 0 -23 -10.297 -23 -23 0 -12.703 10.297 -23 23 -23 z"
        id="path3671"
+       style="fill:url(#linearGradient4283);fill-opacity:1"
        fill-opacity="1"
-       fill="url(#linearGradient3764)"
-       style="fill:#800000;fill-opacity:1" />
+       fill="url(#linearGradient3764)" />
   </g>
   <g
      id="g3673" />
@@ -263,26 +157,7 @@
        id="g3697">
       <!-- color: #a0a0a0 -->
       <g
-         id="g3699">
-        <path
-           d="m 12.50125,23.321112 5.1075,1.369638 0,9.015469 4.640625,-2.953125 0,5.027343 3.515449,-2.636718 0,-1.229766 1.757813,-1.160859 0,2.514375 2.809863,-2.022188 0,-6.554531 5.1075,-1.390078 -7.918594,0 0,5.694609 -1.757812,1.16086 -5.28e-4,-6.855469 -3.515625,0 0,5.694609 -1.827597,1.012219 0,-6.620344"
-           id="path3705"
-           inkscape:connector-curvature="0"
-           style="opacity:1;fill:#ffdd55;fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter7703)"
-           sodipodi:nodetypes="cccccccccccccccccccc" />
-        <path
-           d="m 35.874531,21.982312 -8.293838,0 0,-3.585937 -1.195537,-0.632813 2.952844,-1.335937 0,3.796875 3.093919,0 -1.47645,-1.539844 9,0 -6.46875,0.773438"
-           id="path3709"
-           inkscape:connector-curvature="0"
-           style="fill:#ffdd55;fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter7667)"
-           sodipodi:nodetypes="cccccccccc" />
-        <path
-           sodipodi:nodetypes="cccccccccc"
-           style="fill:#ffdd55;fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter7679)"
-           inkscape:connector-curvature="0"
-           id="path4187"
-           d="m 12.185068,21.982312 8.293838,0 0,-3.445312 1.195537,-0.773438 -2.953349,-1.335937 0,3.796875 -3.09375,0 1.476562,-1.539844 -8.8593747,0 6.3281247,0.773438" />
-      </g>
+         id="g3699" />
     </g>
   </g>
   <g
@@ -293,10 +168,67 @@
        id="path3713"
        style="fill:#000000" />
   </g>
-  <path
-     d="m 22.252188,22.045594 3.533906,0 0,-7.091719 1.677656,-0.524531 -5.211562,-1.795782"
-     id="path5037"
-     inkscape:connector-curvature="0"
-     style="fill:#ffff55;fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter7691)"
-     sodipodi:nodetypes="ccccc" />
+  <g
+     id="g4189"
+     transform="translate(1,0)">
+    <g
+       id="g4211">
+      <g
+         id="g4259"
+         transform="translate(1,1)"
+         style="fill:#000000;fill-opacity:0.10196079">
+        <path
+           d="m 12,24 6,1 0,9 4,-2.246906 L 22,35 l 2,-1 0,-2 2,-1 0,2 2,-1 0,-7 6,-1 -8,0 0,6 -2,1 0,-7 -2,0 0,5.995281 L 20,31 20,24"
+           id="path4261"
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:#000000;fill-opacity:0.10196079;fill-rule:nonzero;stroke:none"
+           sodipodi:nodetypes="cccccccccccccccccccc" />
+        <path
+           sodipodi:nodetypes="cccccccccc"
+           style="fill:#000000;fill-opacity:0.10196079;fill-rule:nonzero;stroke:none"
+           inkscape:connector-curvature="0"
+           id="path4263"
+           d="M 11.740537,23 20.034375,23 20,20 l 1,-1 -3,-1 0,4 -3,0 2,-2 -9,0 6,1" />
+        <path
+           d="M 34.259458,23 25.96562,23 26,20 l -1,-1 3,-1 0,4 3,0 -2,-2 9,0 -6,1"
+           id="path4265"
+           inkscape:connector-curvature="0"
+           style="fill:#000000;fill-opacity:0.10196079;fill-rule:nonzero;stroke:none"
+           sodipodi:nodetypes="cccccccccc" />
+        <path
+           d="m 22,23 2,0 0,-6 2,-1 -4,-1"
+           id="path4267"
+           inkscape:connector-curvature="0"
+           style="fill:#000000;fill-opacity:0.10196079;fill-rule:nonzero;stroke:none"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <g
+         id="g4253">
+        <path
+           sodipodi:nodetypes="cccccccccccccccccccc"
+           style="opacity:1;fill:#ffdd55;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           inkscape:connector-curvature="0"
+           id="path3705"
+           d="m 12,24 6,1 0,9 4,-2.246906 L 22,35 l 2,-1 0,-2 2,-1 0,2 2,-1 0,-7 6,-1 -8,0 0,6 -2,1 0,-7 -2,0 0,5.995281 L 20,31 20,24" />
+        <path
+           d="M 11.740537,23 20.034375,23 20,20 l 1,-1 -3,-1 0,4 -3,0 2,-2 -9,0 6,1"
+           id="path4187"
+           inkscape:connector-curvature="0"
+           style="fill:#ffdd55;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           sodipodi:nodetypes="cccccccccc" />
+        <path
+           sodipodi:nodetypes="cccccccccc"
+           style="fill:#ffdd55;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           inkscape:connector-curvature="0"
+           id="path4184"
+           d="M 34.259458,23 25.96562,23 26,20 l -1,-1 3,-1 0,4 3,0 -2,-2 9,0 -6,1" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           style="fill:#ffff55;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           inkscape:connector-curvature="0"
+           id="path5037"
+           d="m 22,23 2,0 0,-6 2,-1 -4,-1" />
+      </g>
+    </g>
+  </g>
 </svg>
