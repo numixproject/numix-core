@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -63,7 +63,7 @@
          offset="0"
          id="stop4279" />
       <stop
-         style="stop-color:#c41a1a;stop-opacity:1"
+         style="stop-color:#b40a0a;stop-opacity:1"
          offset="1"
          id="stop4281" />
     </linearGradient>
