@@ -3,7 +3,9 @@ Numix Circle
 Circle is an icon theme for Linux from the [Numix project](http://numixproject.org). This readme provides information on [installation](https://github.com/numixproject/numix-icon-theme-circle/#installation), [icon requests](https://github.com/numixproject/numix-icon-theme-circle/#icon-requests) and [hardcoded icons](https://github.com/numixproject/numix-icon-theme-circle/#hardcoded-icons). Licensed under the GPL-3.0+
 
 ### Installation
-Simply download the package on [DeviantArt](http://me4oslav.deviantart.com/art/Numix-Circle-Linux-Desktop-Icon-Theme-414741466) and follow the instructions. Alternatively you can follow any of the following distribution specific methods.
+If using this with our [base icon theme](https://github.com/numixproject/numix-icon-theme) make sure you install both parts using the same method. This makes sure that the panel icons keep working as intended.
+
+To install simply download the package on [DeviantArt](http://me4oslav.deviantart.com/art/Numix-Circle-Linux-Desktop-Icon-Theme-414741466) and follow the instructions. Alternatively you can follow any of the following distribution specific methods.
 
 If you use Ubuntu or any of it's derivatives (including Mint and elementary OS) you can use our Numix PPA. Fire up a Terminal and run the following:
 
