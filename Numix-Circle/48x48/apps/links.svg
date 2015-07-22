@@ -21,19 +21,17 @@
   <path d="m 31.25 2.375 c 8.615 3.154 14.75 11.417 14.75 21.13 c 0 12.426 -10.07 22.5 -22.5 22.5 c -9.708 0 -17.971 -6.135 -21.12 -14.75 a 23 23 0 0 0 44.875 -7 a 23 23 0 0 0 -16 -21.875 z" style="opacity:0.2"/>
  </g>
  <g>
-  <path d="m 24 1 c 12.703 0 23 10.297 23 23 c 0 12.703 -10.297 23 -23 23 -12.703 0 -23 -10.297 -23 -23 0 -12.703 10.297 -23 23 -23 z" style="fill:url(#linearGradient3764);fill-opacity:1"/>
+  <path d="m 24 1 c -0.336 0 -0.669 0.011 -1 0.025 l -21.973 21.975 c -0.014 0.332 -0.025 0.665 -0.025 1 c 0 0.336 0.011 0.669 0.025 1 l 21.975 21.973 c 0.332 0.014 0.665 0.025 1 0.025 c 12.703 0 23 -10.297 23 -23 c 0 -0.335 -0.011 -0.668 -0.025 -1 l 0 -0.002 l -21.973 -21.973 c -0.333 -0.014 -0.666 -0.025 -1 -0.025 z" style="fill:url(#linearGradient3764);fill-opacity:1"/>
+  <path d="M 24,1 C 11.297,1 1,11.297 1,24 l 15.01,0 -0.002,2 -14.912,0 c 1.014,11.766 10.88,21 22.908,21 l 0,-10.336 9.289,0 0,-4.547 -9.289,0 0,-6.117 -1.274,0 0,-2 1.274,0 0,-23 z M 26,1.092 26,24 47,24 C 47,11.97 37.766,2.106 26,1.092 Z" style="fill:#000;fill-opacity:0.098"/>
+  <path d="m 23 1.025 c -11.907 0.51 -21.465 10.07 -21.975 21.975 l 21.975 0 l 0 -21.975 z" style="fill:#ec8e68;fill-opacity:1"/>
+  <path d="m 25 1.025 l 0 21.975 l 21.975 0 c -0.51 -11.907 -10.07 -21.465 -21.975 -21.975 z" style="fill:#9add9c;fill-opacity:1"/>
+  <path d="m 1.025 25 c 0.51 11.907 10.07 21.465 21.975 21.975 l 0 -21.975 l -21.975 0 z" style="fill:#9ab9dd;fill-opacity:1"/>
  </g>
  <g>
   <g style="clip-path:url(#clipPath-914612849)">
    <g transform="translate(1,1)">
     <g style="opacity:0.1">
      <!-- color: #eeeeee -->
-     <g>
-      <path d="m 0 0 l 23 0 l 0 23 l -23 0 m 0 -23" style="fill:#000;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-      <path d="m 25 0 l 23 0 l 0 23 l -23 0 m 0 -23" style="fill:#000;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-      <path d="m 0 25 l 23 0 l 0 23 l -23 0 m 0 -23" style="fill:#000;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-      <path d="m 15.711 12.336 l 6.02 0 l 0 18.781 l 10.563 0 l 0 4.547 l -16.578 0 l 0 -23.328" style="fill:#000;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-     </g>
     </g>
    </g>
   </g>
@@ -42,14 +40,12 @@
   <g style="clip-path:url(#clipPath-923417323)">
    <!-- color: #eeeeee -->
    <g>
-    <path d="m 0 0 l 23 0 l 0 23 l -23 0 m 0 -23" style="fill:#ec8e68;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 25 0 l 23 0 l 0 23 l -23 0 m 0 -23" style="fill:#9add9c;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 0 25 l 23 0 l 0 23 l -23 0 m 0 -23" style="fill:#9ab9dd;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 15.711 12.336 l 6.02 0 l 0 18.781 l 10.563 0 l 0 4.547 l -16.578 0 l 0 -23.328" style="fill:#2d2d2d;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+    <path d="m 16.716,13.336 0,9.664 6.014,0 0,-9.664 z M 16.714,25 l 0,11.664 6.29,0 -0.004,-4.547 -0.27,0 0,-7.117" style="fill:#000;fill-opacity:0.098;stroke:none;fill-rule:nonzero"/>
    </g>
   </g>
  </g>
  <g>
   <path d="m 40.03 7.531 c 3.712 4.084 5.969 9.514 5.969 15.469 0 12.703 -10.297 23 -23 23 c -5.954 0 -11.384 -2.256 -15.469 -5.969 4.178 4.291 10.01 6.969 16.469 6.969 c 12.703 0 23 -10.298 23 -23 0 -6.462 -2.677 -12.291 -6.969 -16.469 z" style="opacity:0.1"/>
  </g>
+ <path d="m 15.71 12.336 6.02 0 0 18.781 10.563 0 0 4.547 -16.578 0" style="clip-path:none;fill:#2d2d2d;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
 </svg>
