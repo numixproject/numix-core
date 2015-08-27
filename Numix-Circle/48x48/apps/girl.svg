@@ -5,16 +5,14 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 48 48"
    id="svg3899"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="girl.svg"
-   inkscape:export-filename="/home/cjohnson/Pictures/girl.png"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
+   sodipodi:docname="girl.svg">
   <metadata
      id="metadata3960">
     <rdf:RDF>
@@ -43,9 +41,9 @@
      inkscape:object-nodes="true"
      inkscape:snap-smooth-nodes="true"
      showguides="false"
-     inkscape:zoom="1"
+     inkscape:zoom="5.6568542"
      inkscape:cx="23.545455"
-     inkscape:cy="27.012462"
+     inkscape:cy="23.476928"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -56,6 +54,18 @@
   </sodipodi:namedview>
   <defs
      id="defs3901">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4418">
+      <stop
+         style="stop-color:#e1dfbb;stop-opacity:1"
+         offset="0"
+         id="stop4420" />
+      <stop
+         style="stop-color:#edecd6;stop-opacity:1"
+         offset="1"
+         id="stop4422" />
+    </linearGradient>
     <linearGradient
        id="linearGradient3764"
        x1="1"
@@ -94,6 +104,15 @@
            id="path3916" />
       </g>
     </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4418"
+       id="linearGradient4424"
+       x1="1"
+       y1="47"
+       x2="1"
+       y2="1"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <g
      id="g3918">
@@ -114,7 +133,7 @@
      id="g3926">
     <path
        d="m 24 1 c 12.703 0 23 10.297 23 23 c 0 12.703 -10.297 23 -23 23 -12.703 0 -23 -10.297 -23 -23 0 -12.703 10.297 -23 23 -23 z"
-       style="fill:url(#linearGradient3764);fill-opacity:1"
+       style="fill:url(#linearGradient4424);fill-opacity:1"
        id="path3928" />
   </g>
   <g
@@ -176,7 +195,7 @@
        inkscape:connector-curvature="0"
        id="rect3980"
        d="m 31,10.951172 0,1.003906 C 33,11.999998 35,13 36,14.5 L 37,14 C 36,12 34,11 31,10.951172 Z M 31,14 l 0,1 c 1.304543,0.0018 2.432506,0.504847 3.179688,1.574219 L 35,16 c -0.934696,-1.336724 -2.3689,-1.998739 -4,-2 z m -1,3 c -0.554,0 -1,0.446 -1,1 l 0,2 -5.308594,0 L 13,20 c -1,0 -2,1 -2,2 l 0,10 c 0,1 1,2 2,2 L 23.691406,34 35,34 c 1,0 2,-1 2,-2 l 0,-10 c 0,-1 -1,-2 -2,-2 l -2,0 0,-2 c 0,-0.554 -0.446,-1 -1,-1 l -2,0 z m 0.5,1 1,0 c 0.277,0 0.5,0.223 0.5,0.5 l 0,1.5 -2,0 0,-1.5 C 30,18.223 30.223,18 30.5,18 Z M 14.691406,22 22,22 c 0.846154,0 1.691406,0.713449 1.691406,1.427734 l 0,7.144532 C 23.691406,31.286551 22.846154,32 22,32 l -7.308594,0 C 14.585637,32 14.479092,31.98965 14.375,31.96875 13.646356,31.822426 13,31.197265 13,30.572266 l 0,-7.144532 C 13,22.713449 13.845252,22 14.691406,22 Z m 11,0 7.617188,0 C 34.154748,22 35,22.713449 35,23.427734 l 0,7.144532 C 35,31.286551 34.154748,32 33.308594,32 l -7.617188,0 0,-10 z M 28.5,23 c -0.277,0 -0.5,0.223 -0.5,0.5 0,0.277 0.223,0.5 0.5,0.5 l 1,0 C 29.777,24 30,23.777 30,23.5 30,23.223 29.777,23 29.5,23 l -1,0 z m 3,0 c -0.277,0 -0.5,0.223 -0.5,0.5 0,0.277 0.223,0.5 0.5,0.5 l 1,0 C 32.777,24 33,23.777 33,23.5 33,23.223 32.777,23 32.5,23 l -1,0 z M 18,24 c -1.656854,0 -3,1.343146 -3,3 0,1.656854 1.343146,3 3,3 1.656854,0 3,-1.343146 3,-3 0,-1.656854 -1.343146,-3 -3,-3 z m 10.5,1 c -0.277,0 -0.5,0.223 -0.5,0.5 0,0.277 0.223,0.5 0.5,0.5 l 1,0 C 29.777,26 30,25.777 30,25.5 30,25.223 29.777,25 29.5,25 l -1,0 z m 3,0 c -0.277,0 -0.5,0.223 -0.5,0.5 0,0.277 0.223,0.5 0.5,0.5 l 1,0 C 32.777,26 33,25.777 33,25.5 33,25.223 32.777,25 32.5,25 l -1,0 z M 18,25.875 c 0.62132,0 1.125,0.50368 1.125,1.125 0,0.62132 -0.50368,1.125 -1.125,1.125 -0.62132,0 -1.125,-0.50368 -1.125,-1.125 0,-0.62132 0.50368,-1.125 1.125,-1.125 z M 28.5,27 c -0.277,0 -0.5,0.223 -0.5,0.5 0,0.277 0.223,0.5 0.5,0.5 l 1,0 C 29.777,28 30,27.777 30,27.5 30,27.223 29.777,27 29.5,27 l -1,0 z m 3,0 c -0.277,0 -0.5,0.223 -0.5,0.5 0,0.277 0.223,0.5 0.5,0.5 l 1,0 C 32.777,28 33,27.777 33,27.5 33,27.223 32.777,27 32.5,27 l -1,0 z m 1.5,2 c -0.552285,0 -1,0.447715 -1,1 0,0.552285 0.447715,1 1,1 0.552285,0 1,-0.447715 1,-1 0,-0.552285 -0.447715,-1 -1,-1 z m 0.482422,0.25 c 0.0059,-2.06e-4 0.01172,-2.06e-4 0.01758,0 0.138071,0 0.25,0.111929 0.25,0.25 0,0.138071 -0.111929,0.25 -0.25,0.25 -0.138071,0 -0.25,-0.111929 -0.25,-0.25 -3.25e-4,-0.131488 0.101259,-0.240755 0.232422,-0.25 z"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
   </g>
   <g
      id="g4882"
