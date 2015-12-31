@@ -4,16 +4,6 @@
    <stop style="stop-color:#3591c1;stop-opacity:1"/>
    <stop offset="1" style="stop-color:#409bcb;stop-opacity:1"/>
   </linearGradient>
-  <clipPath id="clipPath-579811960">
-   <g transform="translate(0,-1004.3622)">
-    <path d="m -24 13 c 0 1.105 -0.672 2 -1.5 2 -0.828 0 -1.5 -0.895 -1.5 -2 0 -1.105 0.672 -2 1.5 -2 0.828 0 1.5 0.895 1.5 2 z" transform="matrix(15.333333,0,0,11.5,414.99999,878.8622)" style="fill:#1890d0"/>
-   </g>
-  </clipPath>
-  <clipPath id="clipPath-588316483">
-   <g transform="translate(0,-1004.3622)">
-    <path d="m -24 13 c 0 1.105 -0.672 2 -1.5 2 -0.828 0 -1.5 -0.895 -1.5 -2 0 -1.105 0.672 -2 1.5 -2 0.828 0 1.5 0.895 1.5 2 z" transform="matrix(15.333333,0,0,11.5,414.99999,878.8622)" style="fill:#1890d0"/>
-   </g>
-  </clipPath>
   <linearGradient id="linear0" gradientUnits="userSpaceOnUse" y1="279.1" x2="0" y2="268.33" gradientTransform="matrix(2.797157,0,0,2.797157,-332.97333,-741.65338)">
    <stop style="stop-color:#c8c8c8;stop-opacity:1"/>
    <stop offset="1" style="stop-color:#eaeaea;stop-opacity:1"/>
@@ -28,7 +18,7 @@
   <path d="m 24 1 c 12.703 0 23 10.297 23 23 c 0 12.703 -10.297 23 -23 23 -12.703 0 -23 -10.297 -23 -23 0 -12.703 10.297 -23 23 -23 z" style="fill:url(#linearGradient3764);fill-opacity:1"/>
  </g>
  <g>
-  <g style="clip-path:url(#clipPath-579811960)">
+  <g>
    <g transform="translate(1,1)">
     <g style="opacity:0.1">
      <!-- color: #409bcb -->
@@ -40,7 +30,7 @@
   </g>
  </g>
  <g>
-  <g style="clip-path:url(#clipPath-588316483)">
+  <g>
    <!-- color: #409bcb -->
    <g>
     <path d="m 24,9 c 8.281,0 14.996,6.715 14.996,15 0,8.281 -6.715,14.996 -14.996,14.996 C 15.715,38.996 9,32.281 9,24 9,15.715 15.715,9 24,9 m 0,0" style="fill:url(#linear0);stroke:none;fill-rule:evenodd"/>

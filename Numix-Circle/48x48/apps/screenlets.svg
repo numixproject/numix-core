@@ -4,16 +4,6 @@
    <stop style="stop-color:#555d67;stop-opacity:1"/>
    <stop offset="1" style="stop-color:#5e6772;stop-opacity:1"/>
   </linearGradient>
-  <clipPath id="clipPath-753784443">
-   <g transform="translate(0,-1004.3622)">
-    <path d="m -24 13 c 0 1.105 -0.672 2 -1.5 2 -0.828 0 -1.5 -0.895 -1.5 -2 0 -1.105 0.672 -2 1.5 -2 0.828 0 1.5 0.895 1.5 2 z" transform="matrix(15.333333,0,0,11.5,414.99999,878.8622)" style="fill:#1890d0"/>
-   </g>
-  </clipPath>
-  <clipPath id="clipPath-763649884">
-   <g transform="translate(0,-1004.3622)">
-    <path d="m -24 13 c 0 1.105 -0.672 2 -1.5 2 -0.828 0 -1.5 -0.895 -1.5 -2 0 -1.105 0.672 -2 1.5 -2 0.828 0 1.5 0.895 1.5 2 z" transform="matrix(15.333333,0,0,11.5,414.99999,878.8622)" style="fill:#1890d0"/>
-   </g>
-  </clipPath>
   <path id="SVGCleanerId_0" d="m 15 13 l 18 0 c 1.105 0 2 0.895 2 2 l 0 18 c 0 1.105 -0.895 2 -2 2 l -18 0 c -1.105 0 -2 -0.895 -2 -2 l 0 -18 c 0 -1.105 0.895 -2 2 -2 m 0 0"/>
  </defs>
  <g>
@@ -25,7 +15,7 @@
   <path d="m 24 1 c 12.703 0 23 10.297 23 23 c 0 12.703 -10.297 23 -23 23 -12.703 0 -23 -10.297 -23 -23 0 -12.703 10.297 -23 23 -23 z" style="fill:url(#linearGradient3764);fill-opacity:1"/>
  </g>
  <g>
-  <g style="clip-path:url(#clipPath-753784443)">
+  <g>
    <g transform="translate(1,1)">
     <g style="opacity:0.1">
      <!-- color: #5e6772 -->
@@ -37,7 +27,7 @@
   </g>
  </g>
  <g>
-  <g style="clip-path:url(#clipPath-763649884)">
+  <g>
    <!-- color: #5e6772 -->
    <g>
     <use xlink:href="#SVGCleanerId_0" width="48" height="48" style="stroke-opacity:1;fill:none;stroke-miterlimit:4;stroke:#af8566;stroke-linecap:butt;stroke-linejoin:miter;stroke-width:2"/>
