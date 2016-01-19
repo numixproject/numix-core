@@ -1,15 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
  <defs>
-  <clipPath id="clipPath-613755625">
-   <g transform="translate(0,-1004.3622)">
-    <path d="m -24 13 c 0 1.105 -0.672 2 -1.5 2 -0.828 0 -1.5 -0.895 -1.5 -2 0 -1.105 0.672 -2 1.5 -2 0.828 0 1.5 0.895 1.5 2 z" transform="matrix(15.333333,0,0,11.5,414.99999,878.8622)" style="fill:#1890d0"/>
-   </g>
-  </clipPath>
-  <clipPath id="clipPath-624289728">
-   <g transform="translate(0,-1004.3622)">
-    <path d="m -24 13 c 0 1.105 -0.672 2 -1.5 2 -0.828 0 -1.5 -0.895 -1.5 -2 0 -1.105 0.672 -2 1.5 -2 0.828 0 1.5 0.895 1.5 2 z" transform="matrix(15.333333,0,0,11.5,414.99999,878.8622)" style="fill:#1890d0"/>
-   </g>
-  </clipPath>
   <linearGradient id="linearGradient3843" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)" x1="1" x2="47">
    <stop style="stop-color:#e7e7e7;stop-opacity:1"/>
    <stop offset="1" style="stop-color:#f1f1f1;stop-opacity:1"/>
@@ -22,7 +12,7 @@
  </g>
  <path d="M 24,1 C 36.703,1 47,11.297 47,24 47,36.703 36.703,47 24,47 11.297,47 1,36.703 1,24 1,11.297 11.297,1 24,1 z" style="fill:url(#linearGradient3843);fill-opacity:1"/>
  <g>
-  <g style="clip-path:url(#clipPath-613755625)">
+  <g>
    <g transform="translate(1,1)">
     <g style="opacity:0.1">
      <!-- color: #8c509d -->
@@ -34,7 +24,7 @@
   </g>
  </g>
  <g style="fill:#78b920;fill-opacity:1">
-  <g style="clip-path:url(#clipPath-624289728)">
+  <g>
    <!-- color: #8c509d -->
    <g>
     <path d="M 19 14 L 19 33.996094 L 33.996094 24 M 19 14 " style="stroke:none;fill-rule:nonzero"/>

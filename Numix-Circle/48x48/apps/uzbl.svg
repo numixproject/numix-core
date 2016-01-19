@@ -4,16 +4,6 @@
    <stop style="stop-color:#5792ab;stop-opacity:1"/>
    <stop offset="1" style="stop-color:#659bb2;stop-opacity:1"/>
   </linearGradient>
-  <clipPath id="clipPath-614444582">
-   <g transform="translate(0,-1004.3622)">
-    <path d="m -24 13 c 0 1.105 -0.672 2 -1.5 2 -0.828 0 -1.5 -0.895 -1.5 -2 0 -1.105 0.672 -2 1.5 -2 0.828 0 1.5 0.895 1.5 2 z" transform="matrix(15.333333,0,0,11.5,414.99999,878.8622)" style="fill:#1890d0"/>
-   </g>
-  </clipPath>
-  <clipPath id="clipPath-628782224">
-   <g transform="translate(0,-1004.3622)">
-    <path d="m -24 13 c 0 1.105 -0.672 2 -1.5 2 -0.828 0 -1.5 -0.895 -1.5 -2 0 -1.105 0.672 -2 1.5 -2 0.828 0 1.5 0.895 1.5 2 z" transform="matrix(15.333333,0,0,11.5,414.99999,878.8622)" style="fill:#1890d0"/>
-   </g>
-  </clipPath>
   <linearGradient id="linear0" gradientUnits="userSpaceOnUse" x1="543.61" y1="170.52" x2="643.5" y2="240.35" gradientTransform="matrix(0.221925,0,0,0.228593,-109.39051,-24.584394)">
    <stop style="stop-color:#e6b96e;stop-opacity:1"/>
    <stop offset="0.573" style="stop-color:#e4b269;stop-opacity:1"/>
@@ -46,7 +36,7 @@
   <path d="m 24 1 c 12.703 0 23 10.297 23 23 c 0 12.703 -10.297 23 -23 23 -12.703 0 -23 -10.297 -23 -23 0 -12.703 10.297 -23 23 -23 z" style="fill:url(#linearGradient3764);fill-opacity:1"/>
  </g>
  <g>
-  <g style="clip-path:url(#clipPath-614444582)">
+  <g>
    <g transform="translate(1,1)">
     <g style="opacity:0.1">
      <!-- color: #659bb2 -->
@@ -58,7 +48,7 @@
   </g>
  </g>
  <g>
-  <g style="clip-path:url(#clipPath-628782224)">
+  <g>
    <!-- color: #659bb2 -->
    <g>
     <path d="m 15.06 27.26 c -2.371 -1.965 -4.051 -6.996 -4.059 -13.191 5.703 -0.461 11.371 2.402 11.348 3.215 l 0.582 0 0.469 -1.977 0 1.754 2.441 -3.063 -1.566 3.137 0.258 0.223 0.691 -0.855 0.18 0.973 c 2.926 -2.887 6.793 -3.238 11.605 -3.398 -0.273 4.48 -0.066 9.598 -3.523 12.996 3.105 5.43 -1.242 8.121 -4.461 8.719 -3.09 0.313 -6.176 0.258 -9.266 -0.07 -4.875 -0.523 -7.156 -5.379 -4.695 -8.465 m 0 0.004" style="fill:url(#linear0);stroke:none;fill-rule:nonzero"/>
