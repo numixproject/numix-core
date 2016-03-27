@@ -5,7 +5,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    version="1.1"
    id="svg2"
    viewBox="0 0 48 48">
@@ -24,20 +23,7 @@
   <defs
      id="defs4">
     <linearGradient
-       gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)"
-       gradientUnits="userSpaceOnUse"
-       x2="47"
-       x1="1"
-       id="linearGradient3764">
-      <stop
-         id="stop7"
-         style="stop-color:#9b1815;stop-opacity:1" />
-      <stop
-         id="stop9"
-         style="stop-color:#ac1917;stop-opacity:1"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
+       gradientTransform="scale(0.7,0.7)"
        id="rubymine_a"
        gradientUnits="userSpaceOnUse"
        x1="49.609001"
@@ -70,6 +56,7 @@
          stop-color="#FF8629" />
     </linearGradient>
     <linearGradient
+       gradientTransform="scale(0.7,0.7)"
        id="rubymine_b"
        gradientUnits="userSpaceOnUse"
        x1="33.258999"
@@ -86,6 +73,7 @@
          stop-color="#FF1F51" />
     </linearGradient>
     <linearGradient
+       gradientTransform="scale(0.7,0.7)"
        id="rubymine_c"
        gradientUnits="userSpaceOnUse"
        x1="0.28999999"
@@ -125,76 +113,6 @@
          offset=".85"
          stop-color="#FF8629" />
     </linearGradient>
-    <clipPath
-       id="clipPath8204"
-       clipPathUnits="userSpaceOnUse">
-      <path
-         id="path8206"
-         style="fill:url(#linearGradient8208);fill-opacity:1"
-         d="M 35,1.4583333 C 53.525208,1.4583333 68.541666,16.474792 68.541666,35 68.541666,53.525208 53.525208,68.541666 35,68.541666 16.474792,68.541666 1.4583333,53.525208 1.4583333,35 1.4583333,16.474792 16.474792,1.4583333 35,1.4583333 Z" />
-    </clipPath>
-    <linearGradient
-       x2="47"
-       x1="1"
-       gradientTransform="matrix(0,-1.4583333,1.4583333,0,-2.1875e-6,69.999997)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient8208"
-       xlink:href="#linearGradient3764" />
-    <linearGradient
-       gradientTransform="scale(0.68571429,0.68571429)"
-       y2="7.1630001"
-       x2="30.346001"
-       y1="52.554001"
-       x1="49.609001"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient13686"
-       xlink:href="#rubymine_a" />
-    <linearGradient
-       gradientTransform="scale(0.68571429,0.68571429)"
-       y2="33.436001"
-       x2="25.105"
-       y1="12.887"
-       x1="33.258999"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient13688"
-       xlink:href="#rubymine_b" />
-    <linearGradient
-       gradientTransform="scale(0.68571429,0.68571429)"
-       y2="68.419998"
-       x2="45.284"
-       y1="11.224"
-       x1="0.28999999"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient13690"
-       xlink:href="#rubymine_c" />
-    <linearGradient
-       gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)"
-       gradientUnits="userSpaceOnUse"
-       x2="47"
-       x1="1"
-       id="linearGradient3764-3">
-      <stop
-         id="stop7-4"
-         style="stop-color:#9b1815;stop-opacity:1" />
-      <stop
-         id="stop9-0"
-         style="stop-color:#ac1917;stop-opacity:1"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)"
-       gradientUnits="userSpaceOnUse"
-       x2="47"
-       x1="1"
-       id="linearGradient3764-3-1">
-      <stop
-         id="stop7-4-2"
-         style="stop-color:#9b1815;stop-opacity:1" />
-      <stop
-         id="stop9-0-7"
-         style="stop-color:#ac1917;stop-opacity:1"
-         offset="1" />
-    </linearGradient>
   </defs>
   <g
      id="g11">
@@ -214,16 +132,16 @@
   <g
      id="g8172">
     <path
-       style="fill:url(#linearGradient13686)"
-       d="M 24 1 C 20.712127 1 17.588454 1.694707 14.759766 2.9375 L 4.7304688 26.673828 L 16.9375 21.806641 L 15 43 L 34.853516 44.28125 C 42.082407 40.404422 47 32.77718 47 24 C 47 11.297 36.703 1 24 1 z "
+       style="fill:url(#rubymine_a)"
+       d="M 24,1 C 20.712127,1 17.588454,1.694707 14.759766,2.9375 L 4.7304688,26.673828 16.9375,21.806641 15,43 34.853516,44.28125 C 42.082407,40.404422 47,32.77718 47,24 47,11.297 36.703,1 24,1 Z"
        id="path13674" />
     <path
-       style="fill:url(#linearGradient13688)"
+       style="fill:url(#rubymine_b)"
        d="M 34.834286,15.565714 17.554286,4.2514286 6.9902179,13.000823 34.148572,24.617143"
        id="path13676" />
     <path
-       style="fill:url(#linearGradient13690)"
-       d="M 17.517578 1.9316406 C 7.9721829 4.7311168 1 13.548806 1 24 C 1 36.703 11.297 47 24 47 C 28.697856 47 33.064481 45.589362 36.705078 43.171875 L 32.228516 33.394531 L 36 28.800781 L 36.412109 25.988281 L 17.517578 1.9316406 z "
+       style="fill:url(#rubymine_c)"
+       d="M 17.517578,1.9316406 C 7.9721829,4.7311168 1,13.548806 1,24 c 0,12.703 10.297,23 23,23 4.697856,0 9.064481,-1.410638 12.705078,-3.828125 L 32.228516,33.394531 36,28.800781 36.412109,25.988281 17.517578,1.9316406 Z"
        id="path13678" />
   </g>
   <g
@@ -238,7 +156,7 @@
      style="display:inline;"
      transform="matrix(0.60185185,0,0,0.60185185,2.9351852,2.9351853)">
     <path
-       style="display:inline;fill:#000000;fill-opacity:0.16470589"
+       style="display:inline;fill:#000000;fill-opacity:0.1"
        d="m 15.061538,15.061538 43.200001,0 0,43.2 -43.200001,0 z"
        id="path13682-7" />
     <path
@@ -250,7 +168,7 @@
        d="m 35,18.384615 3.323077,0 4.984615,8.307693 4.984616,-8.307693 3.323077,0 0,18.276923 -3.323077,0 0,-11.630769 -4.984616,8.307692 -4.984615,-8.307692 0,11.630769 -3.323077,0 M 25.030769,18.384615 c 3.323077,0 6.646154,2.587507 6.646154,5.815385 l 0,0 c 0,2.492308 -1.565218,4.004496 -3.665233,5.194811 l 3.665233,7.266727 -3.323077,0 -3.323077,-6.646153 -3.323077,0 0,6.646153 -3.323077,0 0,-18.276923 z m 0,8.307693 c 2.5924,0 3.323077,-1.18362 3.369231,-2.492308 l 0,0 c -0.04615,-1.159339 -0.73437,-2.492308 -3.369231,-2.492308 l -3.323077,0 0,4.984616 z"
        id="path13684" />
     <rect
-       ry="3.9355911e-07"
+       ry="0"
        y="48.292309"
        x="16.723078"
        height="3.323077"

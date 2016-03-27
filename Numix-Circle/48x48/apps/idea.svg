@@ -5,7 +5,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    version="1.1"
    id="svg2"
    viewBox="0 0 48 48">
@@ -24,20 +23,7 @@
   <defs
      id="defs4">
     <linearGradient
-       gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)"
-       gradientUnits="userSpaceOnUse"
-       x2="47"
-       x1="1"
-       id="linearGradient3764">
-      <stop
-         id="stop7"
-         style="stop-color:#e4e4e4;stop-opacity:1" />
-      <stop
-         id="stop9"
-         style="stop-color:#eee;stop-opacity:1"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
+       gradientTransform="scale(0.7,0.7)"
        id="intellij-idea_a"
        gradientUnits="userSpaceOnUse"
        x1="0.79000002"
@@ -66,6 +52,7 @@
          stop-color="#087CFA" />
     </linearGradient>
     <linearGradient
+       gradientTransform="scale(0.7,0.7)"
        id="intellij-idea_b"
        gradientUnits="userSpaceOnUse"
        x1="25.767"
@@ -114,6 +101,7 @@
          stop-color="#087CFA" />
     </linearGradient>
     <linearGradient
+       gradientTransform="scale(0.7,0.7)"
        id="intellij-idea_c"
        gradientUnits="userSpaceOnUse"
        x1="63.228001"
@@ -162,6 +150,7 @@
          stop-color="#087CFA" />
     </linearGradient>
     <linearGradient
+       gradientTransform="scale(0.7,0.7)"
        id="intellij-idea_d"
        gradientUnits="userSpaceOnUse"
        x1="10.72"
@@ -201,99 +190,6 @@
          offset="1"
          stop-color="#087CFA" />
     </linearGradient>
-    <clipPath
-       id="clipPath8244"
-       clipPathUnits="userSpaceOnUse">
-      <path
-         id="path8246"
-         style="display:inline;fill:url(#linearGradient8248);fill-opacity:1"
-         d="M 35,1.4583333 C 53.525208,1.4583333 68.541666,16.474792 68.541666,35 68.541666,53.525208 53.525208,68.541666 35,68.541666 16.474792,68.541666 1.4583333,53.525208 1.4583333,35 1.4583333,16.474792 16.474792,1.4583333 35,1.4583333 Z" />
-    </clipPath>
-    <linearGradient
-       x2="47"
-       x1="1"
-       gradientTransform="matrix(0,-1.4583333,1.4583333,0,-2.1875e-6,69.999997)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient8248"
-       xlink:href="#linearGradient3764" />
-    <linearGradient
-       gradientTransform="scale(0.68571429,0.68571429)"
-       y2="40.089001"
-       x2="33.317001"
-       y1="40.089001"
-       x1="0.79000002"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient11025"
-       xlink:href="#intellij-idea_a" />
-    <linearGradient
-       gradientTransform="scale(0.68571429,0.68571429)"
-       y2="54.57"
-       x2="79.424004"
-       y1="24.879999"
-       x1="25.767"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient11027"
-       xlink:href="#intellij-idea_b" />
-    <linearGradient
-       gradientTransform="scale(0.68571429,0.68571429)"
-       y2="-1.719"
-       x2="48.290001"
-       y1="42.915001"
-       x1="63.228001"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient11029"
-       xlink:href="#intellij-idea_c" />
-    <linearGradient
-       gradientTransform="scale(0.68571429,0.68571429)"
-       y2="90.580002"
-       x2="55.523998"
-       y1="16.473"
-       x1="10.72"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient11031"
-       xlink:href="#intellij-idea_d" />
-    <linearGradient
-       gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)"
-       gradientUnits="userSpaceOnUse"
-       x2="47"
-       x1="1"
-       id="linearGradient3764-9">
-      <stop
-         id="stop7-9"
-         style="stop-color:#e4e4e4;stop-opacity:1" />
-      <stop
-         id="stop9-1"
-         style="stop-color:#eee;stop-opacity:1"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)"
-       gradientUnits="userSpaceOnUse"
-       x2="47"
-       x1="1"
-       id="linearGradient3764-9-8">
-      <stop
-         id="stop7-9-0"
-         style="stop-color:#e4e4e4;stop-opacity:1" />
-      <stop
-         id="stop9-1-4"
-         style="stop-color:#eee;stop-opacity:1"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)"
-       gradientUnits="userSpaceOnUse"
-       x2="47"
-       x1="1"
-       id="linearGradient3764-9-5">
-      <stop
-         id="stop7-9-08"
-         style="stop-color:#e4e4e4;stop-opacity:1" />
-      <stop
-         id="stop9-1-2"
-         style="stop-color:#eee;stop-opacity:1"
-         offset="1" />
-    </linearGradient>
   </defs>
   <g
      id="g11">
@@ -313,26 +209,22 @@
   <g
      id="g8222">
     <path
-       style="fill:url(#linearGradient11025)"
-       d="M 1.4667969 19.367188 C 1.1606773 20.863882 1 22.412789 1 24 C 1 27.701513 1.8782878 31.195262 3.4316406 34.292969 L 4.1992188 35.699219 C 4.7861207 36.690369 5.4437535 37.635273 6.1679688 38.523438 L 12 22 L 1.4667969 19.367188 z "
+       style="fill:url(#intellij-idea_a)"
+       d="M 1.4667969,19.367188 C 1.1606773,20.863882 1,22.412789 1,24 c 0,3.701513 0.8782878,7.195262 2.4316406,10.292969 l 0.7675782,1.40625 c 0.5869019,0.99115 1.2445347,1.936054 1.96875,2.824219 L 12,22 1.4667969,19.367188 Z"
        id="path11011" />
     <path
-       style="fill:url(#linearGradient11027)"
-       d="M 26.673828 8.4335938 L 33.806641 24 L 11 42 L 12.136719 43.707031 C 15.600707 45.796809 19.659308 47 24 47 C 36.703 47 47 36.703 47 24 C 47 19.563498 45.740242 15.423566 43.564453 11.910156 L 26.673828 8.4335938 z "
+       style="fill:url(#intellij-idea_b)"
+       d="M 26.673828,8.4335938 33.806641,24 11,42 12.136719,43.707031 C 15.600707,45.796809 19.659308,47 24,47 36.703,47 47,36.703 47,24 47,19.563498 45.740242,15.423566 43.564453,11.910156 L 26.673828,8.4335938 Z"
        id="path11013" />
     <path
-       style="fill:url(#linearGradient11029)"
-       d="M 24 1 C 22.830655 1 21.682962 1.0894603 20.560547 1.2578125 L 33.394531 30.103516 L 45.486328 15.794922 C 42.18136 7.1454205 33.81135 1 24 1 z "
+       style="fill:url(#intellij-idea_c)"
+       d="m 24,1 c -1.169345,0 -2.317038,0.08946 -3.439453,0.2578125 L 33.394531,30.103516 45.486328,15.794922 C 42.18136,7.1454205 33.81135,1 24,1 Z"
        id="path11015" />
     <path
-       style="fill:url(#linearGradient11031)"
-       d="M 21.308594 1.1621094 C 11.36276 2.3221422 3.3552082 9.8225807 1.4394531 19.517578 L 11 23 L 6.1542969 38.505859 C 7.8915653 40.640606 10.005188 42.454645 12.392578 43.853516 L 23.109375 39.839844 L 38 16 L 21.308594 1.1621094 z "
+       style="fill:url(#intellij-idea_d)"
+       d="M 21.308594,1.1621094 C 11.36276,2.3221422 3.3552082,9.8225807 1.4394531,19.517578 L 11,23 6.1542969,38.505859 c 1.7372684,2.134747 3.8508911,3.948786 6.2382811,5.347657 L 23,40 38,16 Z"
        id="path11017" />
   </g>
-  <path
-     style="fill:#000000;fill-opacity:0.16470589"
-     d="m 12,11.999999 26,0 L 38,38 12,38 Z"
-     id="path11021-7" />
   <g
      id="g47">
     <path
@@ -341,22 +233,25 @@
        d="m 40.03 7.531 c 3.712 4.084 5.969 9.514 5.969 15.469 0 12.703 -10.297 23 -23 23 c -5.954 0 -11.384 -2.256 -15.469 -5.969 4.178 4.291 10.01 6.969 16.469 6.969 c 12.703 0 23 -10.298 23 -23 0 -6.462 -2.677 -12.291 -6.969 -16.469 z" />
   </g>
   <g
-     transform="matrix(0.60185185,0,0,0.60185185,2.7546297,2.8750001)"
-     id="g11019">
+     id="g4208">
+    <path
+       id="path11021-7"
+       d="m 12,11.999999 26,0 L 38,38 12,38 Z"
+       style="fill:#000000;fill-opacity:0.1" />
     <path
        style="fill:#202020;fill-opacity:1"
-       d="m 13.7,13.5 43.2,0 0,43.2 -43.2,0 z"
+       d="m 11,11 26,0 0,26 -26,0 z"
        id="path11021" />
     <path
        style="fill:#ffffff"
-       d="m 30.315385,21.807692 0,-3.323077 -9.969231,0 0,3.323077 3.323077,0 0,11.630769 -3.323077,0 0,3.323077 9.969231,0 0,-3.323077 -3.323077,0 0,-11.630769 m 10.953846,14.924779 c -2.006792,-0.229206 -3.42009,-1.538757 -4.684197,-2.693063 l 2.017834,-2.278906 c 0.662753,0.687961 1.660703,1.511847 2.696896,1.649589 1.036193,0.137743 2.368685,0.02403 3.169076,-0.655195 0.800391,-0.679221 0.800391,-1.601304 0.800391,-2.701304 l 0,-11.568977 3.323077,0 -0.0093,11.768977 c 0.0093,2.340863 -0.879044,3.919583 -1.7,4.8 -1.31295,1.343892 -3.013475,1.480202 -4.6,1.7"
+       d="m 21,16 0,-2 -6,0 0,2 2,0 0,7 -2,0 0,2 6,0 0,-2 -2,0 0,-7 m 6.592593,8.982506 C 24.384801,24.844558 23.534205,24.056402 22.7734,23.361681 l 1.214437,-1.371564 c 0.398879,0.414051 0.999497,0.909908 1.623132,0.992808 0.623635,0.0829 1.425597,0.01446 1.907314,-0.39433 C 28,22.179804 28,21.624847 28,20.96281 L 28,14 l 2,0 -0.0056,7.08318 c 0.0056,1.408853 -0.529054,2.359009 -1.023148,2.888889 -0.790202,0.808824 -1.813666,0.890863 -2.768519,1.023148"
        id="path11023" />
     <rect
-       ry="3.9355911e-07"
-       y="48.392307"
-       x="17.023077"
-       height="3.323077"
-       width="16.615385"
+       ry="0"
+       y="32"
+       x="13"
+       height="2"
+       width="10"
        id="rect8169"
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.20000005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.95999992;stroke-opacity:1" />
   </g>

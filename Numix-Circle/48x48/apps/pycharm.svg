@@ -5,7 +5,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    version="1.1"
    id="svg2"
    viewBox="0 0 48 48">
@@ -24,20 +23,7 @@
   <defs
      id="defs4">
     <linearGradient
-       gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)"
-       gradientUnits="userSpaceOnUse"
-       x2="47"
-       x1="1"
-       id="linearGradient3764">
-      <stop
-         id="stop7"
-         style="stop-color:#e4e4e4;stop-opacity:1" />
-      <stop
-         id="stop9"
-         style="stop-color:#eee;stop-opacity:1"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
+       gradientTransform="scale(0.7,0.7)"
        id="pycharm_a"
        gradientUnits="userSpaceOnUse"
        x1="24.997999"
@@ -54,6 +40,7 @@
          stop-color="#07C3F2" />
     </linearGradient>
     <linearGradient
+       gradientTransform="scale(0.7,0.7)"
        id="pycharm_b"
        gradientUnits="userSpaceOnUse"
        x1="-24.559"
@@ -114,6 +101,7 @@
          stop-color="#07C3F2" />
     </linearGradient>
     <linearGradient
+       gradientTransform="scale(0.7,0.7)"
        id="pycharm_c"
        gradientUnits="userSpaceOnUse"
        x1="9.3299999"
@@ -158,6 +146,7 @@
          stop-color="#F1EB5E" />
     </linearGradient>
     <linearGradient
+       gradientTransform="scale(0.7,0.7)"
        id="pycharm_d"
        gradientUnits="userSpaceOnUse"
        x1="28.275"
@@ -202,6 +191,7 @@
          stop-color="#B2E56B" />
     </linearGradient>
     <linearGradient
+       gradientTransform="scale(0.7,0.7)"
        id="pycharm_e"
        gradientUnits="userSpaceOnUse"
        x1="75.889"
@@ -225,141 +215,6 @@
          offset=".925"
          stop-color="#B2E56B" />
     </linearGradient>
-    <clipPath
-       id="clipPath8263"
-       clipPathUnits="userSpaceOnUse">
-      <g
-         transform="scale(1.4583333,1.4583333)"
-         id="g8265"
-         style="display:inline">
-        <path
-           id="path8267"
-           style="fill:url(#linearGradient8269);fill-opacity:1"
-           d="M 24,1 C 36.703,1 47,11.297 47,24 47,36.703 36.703,47 24,47 11.297,47 1,36.703 1,24 1,11.297 11.297,1 24,1 Z" />
-      </g>
-    </clipPath>
-    <linearGradient
-       x2="47"
-       x1="1"
-       gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient8269"
-       xlink:href="#linearGradient3764" />
-    <linearGradient
-       gradientTransform="matrix(0.68571429,0,0,0.68571429,1.6607146e-8,7.8053572e-7)"
-       y2="27.046"
-       x2="66.655998"
-       y1="27.046"
-       x1="24.997999"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient13693"
-       xlink:href="#pycharm_a" />
-    <linearGradient
-       gradientTransform="matrix(0.68571429,0,0,0.68571429,1.6607146e-8,7.8053572e-7)"
-       y2="-4.2410002"
-       x2="61.220001"
-       y1="59.081001"
-       x1="-24.559"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient13695"
-       xlink:href="#pycharm_b" />
-    <linearGradient
-       gradientTransform="matrix(0.68571429,0,0,0.68571429,1.6607146e-8,7.8053572e-7)"
-       y2="32.759998"
-       x2="23.636999"
-       y1="77.653999"
-       x1="9.3299999"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient13697"
-       xlink:href="#pycharm_c" />
-    <linearGradient
-       gradientTransform="matrix(0.68571429,0,0,0.68571429,1.6607146e-8,7.8053572e-7)"
-       y2="-3.2360001"
-       x2="59.409"
-       y1="38.623001"
-       x1="28.275"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient13699"
-       xlink:href="#pycharm_d" />
-    <linearGradient
-       gradientTransform="matrix(0.68571429,0,0,0.68571429,1.6607146e-8,7.8053572e-7)"
-       y2="43.368999"
-       x2="13.158"
-       y1="43.950001"
-       x1="75.889"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient13701"
-       xlink:href="#pycharm_e" />
-    <linearGradient
-       gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)"
-       gradientUnits="userSpaceOnUse"
-       x2="47"
-       x1="1"
-       id="linearGradient3764-2">
-      <stop
-         id="stop7-4"
-         style="stop-color:#e4e4e4;stop-opacity:1" />
-      <stop
-         id="stop9-7"
-         style="stop-color:#eee;stop-opacity:1"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)"
-       gradientUnits="userSpaceOnUse"
-       x2="47"
-       x1="1"
-       id="linearGradient3764-0">
-      <stop
-         id="stop7-3"
-         style="stop-color:#e4e4e4;stop-opacity:1" />
-      <stop
-         id="stop9-8"
-         style="stop-color:#eee;stop-opacity:1"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)"
-       gradientUnits="userSpaceOnUse"
-       x2="47"
-       x1="1"
-       id="linearGradient3764-0-8">
-      <stop
-         id="stop7-3-0"
-         style="stop-color:#e4e4e4;stop-opacity:1" />
-      <stop
-         id="stop9-8-1"
-         style="stop-color:#eee;stop-opacity:1"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)"
-       gradientUnits="userSpaceOnUse"
-       x2="47"
-       x1="1"
-       id="linearGradient3764-0-5">
-      <stop
-         id="stop7-3-4"
-         style="stop-color:#e4e4e4;stop-opacity:1" />
-      <stop
-         id="stop9-8-15"
-         style="stop-color:#eee;stop-opacity:1"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)"
-       gradientUnits="userSpaceOnUse"
-       x2="47"
-       x1="1"
-       id="linearGradient3764-0-7">
-      <stop
-         id="stop7-3-2"
-         style="stop-color:#e4e4e4;stop-opacity:1" />
-      <stop
-         id="stop9-8-2"
-         style="stop-color:#eee;stop-opacity:1"
-         offset="1" />
-    </linearGradient>
   </defs>
   <g
      id="g11">
@@ -379,24 +234,24 @@
   <g
      id="g8292">
     <path
-       style="fill:url(#linearGradient13693)"
-       d="M 36.990234 5.0214844 L 26.880859 27.154297 L 34.148438 27.154297 L 42.652344 29.486328 L 46.626953 19.898438 C 45.517139 13.737625 41.959124 8.4291553 36.990234 5.0214844 z "
+       style="fill:url(#pycharm_a)"
+       d="m 36.990234,5.0214844 -10.109375,22.1328126 7.267579,0 8.503906,2.332031 3.974609,-9.58789 C 45.517139,13.737625 41.959124,8.4291553 36.990234,5.0214844 Z"
        id="path13677" />
     <path
-       style="fill:url(#linearGradient13695)"
-       d="M 24 1 C 11.297 1 1 11.297 1 24 C 1 28.431459 2.2565073 32.56728 4.4277344 36.078125 L 9.7363281 37.371094 L 16.525391 34.423828 L 16.800781 29.486328 L 19.542969 15.154297 L 33.783203 3.1816406 C 30.813927 1.7837444 27.499426 1 24 1 z "
+       style="fill:url(#pycharm_b)"
+       d="M 24,1 C 11.297,1 1,11.297 1,24 c 0,4.431459 1.2565073,8.56728 3.4277344,12.078125 l 5.3085937,1.292969 6.7890629,-2.947266 0.27539,-4.9375 L 19.542969,15.154297 33.783203,3.1816406 C 30.813927,1.7837444 27.499426,1 24,1 Z"
        id="path13679" />
     <path
-       style="fill:url(#linearGradient13697)"
-       d="M 19.542969 15.154297 L 13.507812 18.240234 L 3.9609375 35.285156 C 6.9527203 40.585963 11.983985 44.579178 17.992188 46.201172 L 20.845703 42.857422 L 19.542969 15.154297 z "
+       style="fill:url(#pycharm_c)"
+       d="m 19.542969,15.154297 -6.035157,3.085937 -9.5468745,17.044922 c 2.9917828,5.300807 8.0230475,9.294022 14.0312505,10.916016 l 2.853515,-3.34375 -1.302734,-27.703125 z"
        id="path13681" />
     <path
-       style="fill:url(#linearGradient13699)"
-       d="M 33.347656 2.9863281 L 20.982422 13.097656 L 38 13 L 37.408203 5.3183594 C 36.144398 4.4096771 34.785246 3.6268208 33.347656 2.9863281 z "
+       style="fill:url(#pycharm_d)"
+       d="M 33.347656,2.9863281 20.982422,13.097656 38,13 37.408203,5.3183594 C 36.144398,4.4096771 34.785246,3.6268208 33.347656,2.9863281 Z"
        id="path13683" />
     <path
-       style="fill:url(#linearGradient13701)"
-       d="M 33.667969 12 L 21.806641 13.097656 L 19.542969 15.154297 L 13.685547 44.556641 C 16.788659 46.116853 20.289774 47 24 47 C 36.703 47 47 36.703 47 24 C 47 22.149615 46.775863 20.352799 46.363281 18.628906 L 32.572266 23.931641 L 33.667969 12 z "
+       style="fill:url(#pycharm_e)"
+       d="m 33.667969,12 -11.861328,1.097656 -2.263672,2.056641 -5.857422,29.402344 C 16.788659,46.116853 20.289774,47 24,47 36.703,47 47,36.703 47,24 47,22.149615 46.775863,20.352799 46.363281,18.628906 L 32.572266,23.931641 33.667969,12 Z"
        id="path13685" />
   </g>
   <g
@@ -406,28 +261,27 @@
        style="opacity:0.1"
        d="m 40.03 7.531 c 3.712 4.084 5.969 9.514 5.969 15.469 0 12.703 -10.297 23 -23 23 c -5.954 0 -11.384 -2.256 -15.469 -5.969 4.178 4.291 10.01 6.969 16.469 6.969 c 12.703 0 23 -10.298 23 -23 0 -6.462 -2.677 -12.291 -6.969 -16.469 z" />
   </g>
-  <path
-     style="fill:#000000;fill-opacity:0.16470588"
-     d="m 12,12 26,0 0,26 -26,0 z"
-     id="path13689-0" />
   <g
-     id="g13687"
-     transform="matrix(0.60185185,0,0,0.60185185,2.9351852,2.9351853)">
+     id="g3421">
+    <path
+       id="path13689-0"
+       d="m 12,12 26,0 0,26 -26,0 z"
+       style="fill:#000000;fill-opacity:0.1" />
     <path
        style="fill:#202020;fill-opacity:1"
-       d="m 13.4,13.4 43.2,0 0,43.2 -43.2,0 z"
+       d="m 11,11 26,0 0,26 -26,0 z"
        id="path13689" />
     <path
        style="fill:#ffffff"
-       d="m 18.384615,18.384615 7.186962,0 c 4.3,0 6.105346,2.115385 6.105346,5.815385 l 0,0.08308 c 0,4.1 -2.646154,5.732308 -6.646154,5.732308 l -3.323077,0 0,6.646153 -3.323077,0 z m 6.646154,8.307693 c 2,0 3.323077,-0.909231 3.323077,-2.409231 l 0,-0.08308 c 0,-1.8 -1.323077,-2.492308 -3.323077,-2.492308 l -3.323077,0 0,4.984616 z M 35,27.424119 c 0,-5.1 2.807692,-9.039504 8.307692,-9.039504 3.4,0 5.195055,0.988854 6.895055,2.688854 l -2.17143,2.6013 c -1.4,-1.3 -2.923625,-1.967077 -4.723625,-1.967077 -3,0 -4.984615,2.616427 -4.984615,5.716427 l 0,-0.1 c 0,3.1 1.884615,6.014342 4.984615,6.014342 2,0 3.584616,-1.035122 4.984616,-2.335122 l 2.279269,2.32078 c -1.8,2 -3.863885,3.337419 -7.263885,3.337419 C 38.007692,36.761538 35,32.524119 35,27.424119"
+       d="m 14,14 4.325486,0 C 20.913449,14 22,15.273148 22,17.5 l 0,0.05 c 0,2.467593 -1.592593,3.45 -4,3.45 l -2,0 0,4 -2,0 z m 4,5 c 1.203704,0 2,-0.547222 2,-1.45 l 0,-0.05 c 0,-1.083333 -0.796296,-1.5 -2,-1.5 l -2,0 0,3 z m 6,0.440442 C 24,16.370998 25.689815,14 29,14 c 2.046296,0 3.126653,0.595143 4.149801,1.618292 l -1.306879,1.565597 C 31.00033,16.401481 30.083333,16 29,16 c -1.805556,0 -3,1.574701 -3,3.440442 l 0,-0.06019 C 26,21.245998 27.134259,23 29,23 c 1.203703,0 2.157408,-0.62299 3,-1.405398 l 1.371782,1.396766 C 32.288449,24.195072 31.046296,25 29,25 c -3.189815,0.06019 -5,-2.490114 -5,-5.559558"
        id="path13691" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.20000005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.95999992;stroke-opacity:1"
+       id="rect8169"
+       width="10"
+       height="2"
+       x="13"
+       y="32"
+       ry="0" />
   </g>
-  <rect
-     ry="2.3686428e-07"
-     y="32"
-     x="13"
-     height="2"
-     width="10"
-     id="rect8169"
-     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.20000005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.95999992;stroke-opacity:1" />
 </svg>
