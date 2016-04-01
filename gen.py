@@ -8,7 +8,7 @@
 # If not, see <http://www.gnu.org/licenses/>.
 
 # Sorting out modules
-from json import load 
+from json import load
 from os import chdir, devnull, getcwd, listdir, makedirs, path, symlink
 from shutil import copy2
 from subprocess import call
