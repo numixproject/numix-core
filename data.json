@@ -1,0 +1,38 @@
+{
+    "facebook": {
+        "android": [
+            "com_facebook_katana",
+            "com_danvelazco_fbwrapper" 
+        ],
+        "linux": {
+            "root": "web-facebook",
+            "symlinks": [
+                "facebookresource",
+                "chrome-boeajhmfdjldchidhphikilcgdacljfm-Default",
+                "facebook-facebook.com"
+            ]
+        },
+        "osx": [
+            "facebook"
+        ]
+    },
+    "googleplus": {
+        "android": [
+            "com_google_android_apps_plus"
+        ],
+        "linux": {
+            "root": "googleplus",
+            "symlinks": [
+                "Google-plus.google.com",
+                "chrome-dlppkpafhbajpcmmoheippocdidnckmm-Default",
+                "web-google-plus",
+                "unity-webapps-googleplus",
+                "google-plus",
+                "unity-webapps-google-plus"
+            ]
+        },
+        "osx": [
+            "googleplus"
+        ]
+    }
+}

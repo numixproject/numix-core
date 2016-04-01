@@ -8,7 +8,7 @@
 # If not, see <http://www.gnu.org/licenses/>.
 
 # Sorting out modules
-from csv import reader
+from json import load 
 from os import chdir, devnull, getcwd, listdir, makedirs, path, symlink
 from shutil import copy2
 from subprocess import call
@@ -20,31 +20,17 @@ except ImportError:
     exit("You need python3-cairosvg to run this scripts")
 
 # Importing CSV
-with open('db.csv', 'r') as db:
-    csv, data = reader(db, delimiter=',', quotechar='|'), []
-    for row in csv:
-        data.append(row)
+with open('data.json') as data:
+    icons = load(data)
 
 # User selects the platform
-ans, platforms = "", data[0][1:]
+ans, platforms = "", ["android", "linux", "osx"]
 while True:
     ans = input("What OS would you like to build for? ").lower().strip()
     if ans in platforms:
         break
     else:
         print("Please enter one of the following:", ", ".join(platforms), "\n")
-
-# Cleans up the data
-position = data[0].index(ans)
-for line in data:
-    for x in range(1, len(data[0])):
-        if x != position:
-            line[x] = ""
-        else:
-            line[x] = line[x].split(" ")
-for line in data:
-    for item in line:
-        line.remove("")
 
 
 def mkdir(dir):
@@ -74,9 +60,9 @@ odir = "numix-circle.icns/"
 if ans == "android":
     print("\nGenerating Android theme...")
     mkdir(adir)
-    for x in range(1, len(data)):
-        for icon in data[x][1]:
-            copy2("icons/48/"+data[x][0]+".svg", adir+icon+".svg")
+    for icon in icons:
+        for name in icons[icon]["android"]:
+            copy2("icons/48/"+icon+".svg", adir+name+".svg")
     # Androidizing
     copy2("scripts/android.sh", adir)
     with cd(adir):
@@ -86,21 +72,21 @@ elif ans == "linux":
     print("\nGenerating Linux theme...")
     for size in sizes:
         mkdir(ldir + size + "/apps")
-    for x in range(1, len(data)):
+    for icon in icons:
         for size in sizes:
-            copy2("icons/"+size+"/"+data[x][0]+".svg",
-                  ldir+size+"/apps/"+data[x][1][0]+".svg")
+            root = icons[icon]["linux"]["root"]+".svg"
+            copy2("icons/"+size+"/"+icon+".svg", ldir+size+"/apps/"+root)
             with cd(ldir+size+"/apps/"):
-                for icon in data[x][1][1:]:
-                    symlink(data[x][1][0]+".svg", icon+".svg")
+                for link in icons[icon]["linux"]["symlinks"]:
+                    symlink(root, link+".svg")
 elif ans == "osx":
     print("\nGenerating OSX theme...")
     for ext in ["icns", "pngs", "vectors"]:
         mkdir(odir + ext)
-    for x in range(1, len(data)):
-        for icon in data[x][1]:
-            copy2("icons/48/"+data[x][0]+".svg", odir+"vectors/"+icon+".svg")
-            copy2("icons/48/"+data[x][0]+".svg", odir+"pngs/"+icon+".svg")
+    for icon in icons:
+        for name in icons[icon]["osx"]:
+            copy2("icons/48/"+icon+".svg", odir+"vectors/"+name+".svg")
+            copy2("icons/48/"+icon+".svg", odir+"pngs/"+name+".svg")
     copy2("scripts/osx.sh", odir+"pngs/")
     with cd(odir + "pngs"):
         devnull = open(devnull, 'r')
