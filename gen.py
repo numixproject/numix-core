@@ -11,13 +11,16 @@
 from json import load
 from os import chdir, devnull, getcwd, listdir, makedirs, path, symlink
 from shutil import copy2
-from subprocess import call
+from subprocess import call, PIPE, Popen
 try:
-    # Use of CairoSVG rather than the Inkscape bashscripts
-    # hasn't been implemented yet but will be before release
     from cairosvg import svg2png
-except ImportError:
-    exit("You need python3-cairosvg to run this scripts")
+    use_inkscape = False
+except (ImportError, AttributeError):
+    ink_flag = call(['which', 'inkscape'], stdout=PIPE, stderr=PIPE)
+    if ink_flag == 0:
+        use_inkscape = True
+    else:
+        exit("Can't load cariosvg nor inkscape")
 
 # Importing CSV
 with open('data.json') as data:
@@ -36,6 +39,25 @@ while True:
 def mkdir(dir):
     if not path.exists(dir):
         makedirs(dir)
+
+
+def convert_svg2png(infile, outfile, width, height):
+    """
+        Converts svg files to png using Cairosvg or Inkscape
+        @file_path : String; the svg file absolute path
+        @dest_path : String; the png file absolute path
+    """
+    if use_inkscape:
+        p = Popen(["inkscape", "-f", infile, "-e", outfile,
+                   "-w" + str(width), "-h" + str(height)],
+                  stdout=PIPE, stderr=PIPE)
+        output, err = p.communicate()
+    else:
+        with open(infile, "r") as content_file:
+            svg = content_file.read()
+        fout = open(outfile, "wb")
+        svg2png(bytestring=bytes(svg, "UTF-8"), write_to=fout)
+        fout.close()
 
 
 class cd:
@@ -62,39 +84,40 @@ if ans == "android":
     mkdir(adir)
     for icon in icons:
         for name in icons[icon]["android"]:
-            copy2("icons/48/"+icon+".svg", adir+name+".svg")
-    # Androidizing
-    copy2("scripts/android.sh", adir)
-    with cd(adir):
-        devnull = open(devnull, 'w')
-        call("./android.sh", stdout=devnull, stderr=devnull)
+            name = name.replace("_", ".")
+            convert_svg2png("icons/48/" + icon + ".svg",
+                            adir + name + ".png", 192, 192)
 elif ans == "linux":
     print("\nGenerating Linux theme...")
     for size in sizes:
         mkdir(ldir + size + "/apps")
     for icon in icons:
         for size in sizes:
-            root = icons[icon]["linux"]["root"]+".svg"
-            copy2("icons/"+size+"/"+icon+".svg", ldir+size+"/apps/"+root)
-            with cd(ldir+size+"/apps/"):
-                for link in icons[icon]["linux"]["symlinks"]:
-                    symlink(root, link+".svg")
+            root = icons[icon]["linux"]["root"] + ".svg"
+            copy2("icons/" + size + "/" + icon + ".svg",
+                  ldir + size + "/apps/" + root)
+        with cd(ldir + size + "/apps/"):
+            for link in icons[icon]["linux"]["symlinks"]:
+                symlink(root, link + ".svg")
 elif ans == "osx":
     print("\nGenerating OSX theme...")
     for ext in ["icns", "pngs", "vectors"]:
         mkdir(odir + ext)
+    try:
+        ink_flag = call(['which', 'png2icns'], stdout=PIPE, stderr=PIPE)
+        if ink_flag != 0:
+            raise Exception
+    except (FileNotFoundError, Exception):
+        exit("You will need png2icns in order to generate OSX theme")
     for icon in icons:
         for name in icons[icon]["osx"]:
-            copy2("icons/48/"+icon+".svg", odir+"vectors/"+name+".svg")
-            copy2("icons/48/"+icon+".svg", odir+"pngs/"+name+".svg")
-    copy2("scripts/osx.sh", odir+"pngs/")
-    with cd(odir + "pngs"):
-        devnull = open(devnull, 'r')
-        call("./osx.sh", stdout=devnull, stderr=devnull)
-    for icon in listdir(odir+"pngs"):
-        call(["png2icns", odir+"icns/"+icon.replace(".png", ".icn"),
-              odir+"pngs/"+icon], stdout=devnull, stderr=devnull)
-
+            copy2("icons/48/" + icon + ".svg",
+                  odir + "vectors/" + name + ".svg")
+            convert_svg2png("icons/48/" + icon + ".svg",
+                            odir + "pngs/" + name + ".png", 1024, 1024)
+            call(["png2icns", odir + "icns/" + name + ".icn",
+                 odir + "pngs/" + name + ".png"],
+                 stdout=PIPE, stderr=PIPE)
 # Clean Up
 print("Done!\n")
 exit(0)
