@@ -9,11 +9,16 @@
 
 # Sorting out modules
 from json import load
-from os import chdir, devnull, getcwd, listdir, makedirs, path, symlink
+from os import chdir, devnull, getcwd, listdir, makedirs, path, remove, symlink
 from shutil import copy2
-from subprocess import call, PIPE, Popen
+from subprocess import PIPE, Popen, call
+from gi import require_version
+require_version('Rsvg', '2.0')
 try:
-    from cairosvg import svg2png
+    import wand.image
+    from gi.repository import Rsvg
+    import cairo
+    import StringIO
     use_inkscape = False
 except (ImportError, AttributeError):
     ink_flag = call(['which', 'inkscape'], stdout=PIPE, stderr=PIPE)
@@ -21,7 +26,6 @@ except (ImportError, AttributeError):
         use_inkscape = True
     else:
         exit("Can't load cariosvg nor inkscape")
-
 # Importing CSV
 with open('data.json') as data:
     icons = load(data)
@@ -41,7 +45,16 @@ def mkdir(dir):
         makedirs(dir)
 
 
-def convert_svg2png(infile, outfile, width, height):
+def get_dimension(img_path):
+    width = 0
+    height = 0
+    with wand.image.Image(filename=img_path) as img:
+        width = img.width
+        height = img.height
+    return (width, height)
+
+
+def convert_svg2png(infile, outfile, w, h):
     """
         Converts svg files to png using Cairosvg or Inkscape
         @file_path : String; the svg file absolute path
@@ -49,20 +62,30 @@ def convert_svg2png(infile, outfile, width, height):
     """
     if use_inkscape:
         p = Popen(["inkscape", "-f", infile, "-e", outfile,
-                   "-w" + str(width), "-h" + str(height)],
+                   "-w" + str(w), "-h" + str(h)],
                   stdout=PIPE, stderr=PIPE)
         output, err = p.communicate()
     else:
-        with open(infile, "r") as content_file:
-            svg = content_file.read()
-        fout = open(outfile, "wb")
-        svg2png(bytestring=bytes(svg, "UTF-8"), write_to=fout)
-        fout.close()
+        handle = Rsvg.Handle()
+        svg = handle.new_from_file(infile)
+        dim = get_dimension(infile)
+        img = cairo.ImageSurface(cairo.FORMAT_ARGB32, dim[0], dim[1])
+        ctx = cairo.Context(img)
+        ctx.scale(w / dim[0], h / dim[1])
+        svg.render_cairo(ctx)
+
+        png_io = StringIO.StringIO()
+        img.write_to_png(png_io)
+        with open(outfile, 'wb') as fout:
+            fout.write(png_io.getvalue())
+        svg.close()
+        img.finish()
 
 
 class cd:
-    """Context manager for changing the current working directory"""
+
     def __init__(self, newPath):
+        """Context manager for changing the current working directory"""
         self.newPath = path.expanduser(newPath)
 
     def __enter__(self):
@@ -116,7 +139,7 @@ elif ans == "osx":
             convert_svg2png("icons/48/" + icon + ".svg",
                             odir + "pngs/" + name + ".png", 1024, 1024)
             call(["png2icns", odir + "icns/" + name + ".icn",
-                 odir + "pngs/" + name + ".png"],
+                  odir + "pngs/" + name + ".png"],
                  stdout=PIPE, stderr=PIPE)
 # Clean Up
 print("Done!\n")
