@@ -74,20 +74,6 @@ def convert_svg2png(infile, outfile, w, h):
         img.finish()
 
 
-class cd:
-
-    def __init__(self, newPath):
-        """Context manager for changing the current working directory"""
-        self.newPath = path.expanduser(newPath)
-
-    def __enter__(self):
-        self.savedPath = getcwd()
-        chdir(self.newPath)
-
-    def __exit__(self, etype, value, traceback):
-        chdir(self.savedPath)
-
-
 sizes = listdir("icons")
 adir = "com.numix.icons_circle/MainActivity22/app/src/main/res/drawable-xxhdpi/"
 ldir = "numix-icon-theme-circle/Numix-Circle/"
@@ -111,9 +97,12 @@ elif ans == "linux":
             root = icons[icon]["linux"]["root"] + ".svg"
             copy2("icons/" + size + "/" + icon + ".svg",
                   ldir + size + "/apps/" + root)
-        with cd(ldir + size + "/apps/"):
-            for link in icons[icon]["linux"]["symlinks"]:
-                symlink(root, link + ".svg")
+            if icons[icon]["linux"]["symlinks"]:
+                for link in icons[icon]["linux"]["symlinks"]:
+                    try:
+                        symlink(root, ldir + size + "/apps/" + link + ".svg")
+                    except FileExistsError:
+                        continue
 elif ans == "osx":
     print("\nGenerating OSX theme...")
     for ext in ["icns", "pngs", "vectors"]:
