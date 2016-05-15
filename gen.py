@@ -12,13 +12,12 @@ from json import load
 from os import chdir, devnull, getcwd, listdir, makedirs, path, remove, symlink
 from shutil import copy2
 from subprocess import PIPE, Popen, call
+from io import BytesIO
 from gi import require_version
 require_version('Rsvg', '2.0')
 try:
-    import wand.image
     from gi.repository import Rsvg
     import cairo
-    import StringIO
     use_inkscape = False
 except (ImportError, AttributeError):
     ink_flag = call(['which', 'inkscape'], stdout=PIPE, stderr=PIPE)
@@ -26,6 +25,7 @@ except (ImportError, AttributeError):
         use_inkscape = True
     else:
         exit("Can't load cariosvg nor inkscape")
+use_inkscape = False
 # Importing CSV
 with open('data.json') as data:
     icons = load(data)
@@ -45,15 +45,6 @@ def mkdir(dir):
         makedirs(dir)
 
 
-def get_dimension(img_path):
-    width = 0
-    height = 0
-    with wand.image.Image(filename=img_path) as img:
-        width = img.width
-        height = img.height
-    return (width, height)
-
-
 def convert_svg2png(infile, outfile, w, h):
     """
         Converts svg files to png using Cairosvg or Inkscape
@@ -68,17 +59,19 @@ def convert_svg2png(infile, outfile, w, h):
     else:
         handle = Rsvg.Handle()
         svg = handle.new_from_file(infile)
-        dim = get_dimension(infile)
-        img = cairo.ImageSurface(cairo.FORMAT_ARGB32, dim[0], dim[1])
+        dim = svg.get_dimensions()
+
+        img = cairo.ImageSurface(cairo.FORMAT_ARGB32, w, h)
         ctx = cairo.Context(img)
-        ctx.scale(w / dim[0], h / dim[1])
+        ctx.scale(w / dim.width, h / dim.height)
         svg.render_cairo(ctx)
 
-        png_io = StringIO.StringIO()
+        png_io = BytesIO()
         img.write_to_png(png_io)
         with open(outfile, 'wb') as fout:
             fout.write(png_io.getvalue())
         svg.close()
+        png_io.close()
         img.finish()
 
 
