@@ -25,7 +25,6 @@ except (ImportError, AttributeError):
         use_inkscape = True
     else:
         exit("Can't load cariosvg nor inkscape")
-use_inkscape = False
 # Importing CSV
 with open('data.json') as data:
     icons = load(data)
