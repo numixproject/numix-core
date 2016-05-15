@@ -9,7 +9,7 @@
 
 # Sorting out modules
 from json import load
-from os import chdir, devnull, getcwd, listdir, makedirs, path, remove, symlink
+from os import chdir, devnull, getcwd, listdir, makedirs, path, symlink
 from shutil import copy2
 from subprocess import PIPE, Popen, call
 from io import BytesIO
