@@ -3,7 +3,7 @@ This is a demo repo for testing the new generation idea for the Numix app icons 
 
 
 ## Dependencies
-The main script needs Python 3.x to run. The exporting-to-PNG part of the script currently uses bash scripts and [Inkscape](https://inkscape.org/) but I hope to move these into the main script asap. The OSX packaging needs [libicns](http://icns.sourceforge.net/) for the `png2icns` command.
+The main script needs Python 3.x to run. The exporting-to-PNG part of the script currently uses [Cairo](https://cairographics.org/) or [Inkscape](https://inkscape.org/). The OSX packaging needs [libicns](http://icns.sourceforge.net/) for the `png2icns` command.
 
 ## How To Use
 1. Download the repo
