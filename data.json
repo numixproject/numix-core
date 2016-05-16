@@ -369,7 +369,10 @@
     },
     "Spring": {
         "linux": {
-            "root": "Spring"
+            "root": "Spring",
+            "symlinks": [
+                "spring"
+            ]
         }
     },
     "Sqlectron": {
@@ -426,7 +429,10 @@
     },
     "TruckSim": {
         "linux": {
-            "root": "TruckSim"
+            "root": "TruckSim",
+            "symlinks": [
+                "simutrans"
+            ]
         }
     },
     "Vbox": {
@@ -2743,6 +2749,7 @@
             "symlinks": [
                 "steam_icon_255710",
                 "cities-skylines",
+                "Micropolis",
                 "lincity-ng"
             ]
         }
@@ -4205,7 +4212,10 @@
     },
     "fluid": {
         "linux": {
-            "root": "fluid"
+            "root": "fluid",
+            "symlinks": [
+                "freealchemist"
+            ]
         }
     },
     "fluxgui": {
@@ -4439,6 +4449,11 @@
             ]
         }
     },
+    "gPicon": {
+        "linux": {
+            "root": "gPicon"
+        }
+    },
     "gSTM": {
         "linux": {
             "root": "gSTM",
@@ -4618,6 +4633,11 @@
     "gelemental": {
         "linux": {
             "root": "gelemental"
+        }
+    },
+    "gemrb": {
+        "linux": {
+            "root": "gemrb"
         }
     },
     "gensgs": {
@@ -6623,6 +6643,7 @@
         "linux": {
             "root": "kigo",
             "symlinks": [
+                "quarry",
                 "gogui"
             ]
         }
@@ -6635,6 +6656,11 @@
     "killbots": {
         "linux": {
             "root": "killbots"
+        }
+    },
+    "kimtoy": {
+        "linux": {
+            "root": "kimtoy"
         }
     },
     "kingsoft-presentation": {
@@ -8886,6 +8912,7 @@
         "linux": {
             "root": "peg-e",
             "symlinks": [
+                "peg",
                 "sgt-pegs"
             ]
         }
@@ -9723,7 +9750,9 @@
         "linux": {
             "root": "qgo",
             "symlinks": [
-                "gnome-iagno"
+                "gnome-iagno",
+                "gnugo48",
+                "gnugo"
             ]
         }
     },
@@ -11960,6 +11989,11 @@
     "systemback": {
         "linux": {
             "root": "systemback"
+        }
+    },
+    "tagainijisho": {
+        "linux": {
+            "root": "tagainijisho"
         }
     },
     "tagspaces": {
