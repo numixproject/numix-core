@@ -86,8 +86,9 @@ if ans == "android":
     for icon in icons:
         for name in icons[icon]["android"]:
             name = name.replace("_", ".")
-            convert_svg2png("icons/48/" + icon + ".svg",
-                            adir + name + ".png", 192, 192)
+            if path.exists("icons/48/" + icon + ".svg"):
+                convert_svg2png("icons/48/" + icon + ".svg",
+                                adir + name + ".png", 192, 192)
 elif ans == "linux":
     print("\nGenerating Linux theme...")
     for size in sizes:
@@ -95,14 +96,16 @@ elif ans == "linux":
     for icon in icons:
         for size in sizes:
             root = icons[icon]["linux"]["root"] + ".svg"
-            copy2("icons/" + size + "/" + icon + ".svg",
-                  ldir + size + "/apps/" + root)
-            if icons[icon]["linux"]["symlinks"]:
-                for link in icons[icon]["linux"]["symlinks"]:
-                    try:
-                        symlink(root, ldir + size + "/apps/" + link + ".svg")
-                    except FileExistsError:
-                        continue
+            if path.exists("icons/" + size + "/" + icon + ".svg"):
+                copy2("icons/" + size + "/" + icon + ".svg",
+                      ldir + size + "/apps/" + root)
+                if icons[icon]["linux"]["symlinks"]:
+                    for link in icons[icon]["linux"]["symlinks"]:
+                        try:
+                            symlink(root,
+                                    ldir + size + "/apps/" + link + ".svg")
+                        except FileExistsError:
+                            continue
 elif ans == "osx":
     print("\nGenerating OSX theme...")
     for ext in ["icns", "pngs", "vectors"]:
@@ -115,13 +118,14 @@ elif ans == "osx":
         exit("You will need png2icns in order to generate OSX theme")
     for icon in icons:
         for name in icons[icon]["osx"]:
-            copy2("icons/48/" + icon + ".svg",
-                  odir + "vectors/" + name + ".svg")
-            convert_svg2png("icons/48/" + icon + ".svg",
-                            odir + "pngs/" + name + ".png", 1024, 1024)
-            call(["png2icns", odir + "icns/" + name + ".icn",
-                  odir + "pngs/" + name + ".png"],
-                 stdout=PIPE, stderr=PIPE)
+            if path.exists("icons/48/" + icon + ".svg"):
+                copy2("icons/48/" + icon + ".svg",
+                      odir + "vectors/" + name + ".svg")
+                convert_svg2png("icons/48/" + icon + ".svg",
+                                odir + "pngs/" + name + ".png", 1024, 1024)
+                call(["png2icns", odir + "icns/" + name + ".icn",
+                      odir + "pngs/" + name + ".png"],
+                     stdout=PIPE, stderr=PIPE)
 # Clean Up
 print("Done!\n")
 exit(0)
