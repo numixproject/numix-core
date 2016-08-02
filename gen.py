@@ -13,7 +13,7 @@
 from git import Git
 from json import load
 from os import listdir, makedirs, path, symlink
-from shutil import copy2
+from shutil import copy2, move, rmtree
 from subprocess import PIPE, Popen, call
 from io import BytesIO
 from gi import require_version
@@ -86,14 +86,26 @@ def convert_svg2png(infile, outfile, w, h):
         img.finish()
 
 
+# Downloading icons
+try:
+    print("Cloning icons from GitHub...")
+    Git().clone("https://github.com/numixproject/" + theme + "-core.git")
+except Exception as error:
+    exit(error)
+move("numix-icon-theme-" + theme + "/Numix-Circle", "icons")
+rmtree("numix-icon-theme-circle")
+
+
+# Only certain icon sizes may be covered
 sizes = listdir("icons")
-adir = "com.numix.icons_circle/MainActivity22/app/src/main/res/drawable-xxhdpi/"
-ldir = "numix-icon-theme-circle/Numix-Circle/"
-odir = "numix-circle.icns/"
+
 
 # The Generation Stuff
 if platform == "android":
     print("\nGenerating Android theme...")
+    adir = "com.numix.icons_%s/" % theme
+    adir_extra = "MainActivity22/app/src/main/res/drawable-xxhdpi/"
+    adir = adir + adir_extra
     mkdir(adir)
     for icon in icons:
         for name in icons[icon]["android"]:
@@ -103,6 +115,7 @@ if platform == "android":
                                 adir + name + ".png", 192, 192)
 elif platform == "linux":
     print("\nGenerating Linux theme...")
+    ldir = "numix-icon-theme-%s/Numix-%s/" % theme
     for size in sizes:
         mkdir(ldir + size + "/apps")
     for icon in icons:
@@ -120,6 +133,7 @@ elif platform == "linux":
                             continue
 elif platform == "osx":
     print("\nGenerating OSX theme...")
+    odir = "numix-%s.icns/"
     for ext in ["icns", "pngs", "vectors"]:
         mkdir(odir + ext)
     try:
