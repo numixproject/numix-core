@@ -113,7 +113,7 @@ if platform == "android":
                                 adir + name + ".png", 192, 192)
 elif platform == "linux":
     print("\nGenerating Linux theme...")
-    ldir = "numix-icon-theme-{0}/Numix-{0}/".format(theme)
+    ldir = "numix-icon-theme-{0}/Numix-{1}/".format(theme, theme.title())
     for size in sizes:
         mkdir(ldir + size + "/apps")
     for icon in icons:
