@@ -92,8 +92,8 @@ try:
     Git().clone("https://github.com/numixproject/" + theme + "-core.git")
 except Exception as error:
     exit(error)
-move("numix-icon-theme-" + theme + "/Numix-Circle", "icons")
-rmtree("numix-icon-theme-circle")
+move(theme + "-core/icons", "icons")
+rmtree(theme + "-core")
 
 
 # Only certain icon sizes may be covered
@@ -103,7 +103,7 @@ sizes = listdir("icons")
 # The Generation Stuff
 if platform == "android":
     print("\nGenerating Android theme...")
-    adir = "com.numix.icons_%s/" % theme
+    adir = "com.numix.icons_{0}/".format(theme)
     adir_extra = "MainActivity22/app/src/main/res/drawable-xxhdpi/"
     adir = adir + adir_extra
     mkdir(adir)
@@ -115,7 +115,7 @@ if platform == "android":
                                 adir + name + ".png", 192, 192)
 elif platform == "linux":
     print("\nGenerating Linux theme...")
-    ldir = "numix-icon-theme-%s/Numix-%s/" % theme
+    ldir = "numix-icon-theme-{0}/Numix-{0}/".format(theme)
     for size in sizes:
         mkdir(ldir + size + "/apps")
     for icon in icons:
@@ -133,7 +133,7 @@ elif platform == "linux":
                             continue
 elif platform == "osx":
     print("\nGenerating OSX theme...")
-    odir = "numix-%s.icns/"
+    odir = "numix-{0}.icns/".format(theme)
     for ext in ["icns", "pngs", "vectors"]:
         mkdir(odir + ext)
     try:
