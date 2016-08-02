@@ -106,7 +106,7 @@ if platform == "android":
     adir = adir + adir_extra
     mkdir(adir)
     for icon in icons:
-        for name in icons[icon]["android"]:
+        for name in icons[icon].get("android", []):
             name = name.replace("_", ".")
             if path.exists("icons/48/" + icon + ".svg"):
                 convert_svg2png("icons/48/" + icon + ".svg",
@@ -117,13 +117,13 @@ elif platform == "linux":
     for size in sizes:
         mkdir(ldir + size + "/apps")
     for icon in icons:
-        for size in sizes:
-            root = icons[icon]["linux"]["root"] + ".svg"
-            if path.exists("icons/" + size + "/" + icon + ".svg"):
-                copy2("icons/" + size + "/" + icon + ".svg",
-                      ldir + size + "/apps/" + root)
-                if icons[icon]["linux"]["symlinks"]:
-                    for link in icons[icon]["linux"]["symlinks"]:
+        if "linux" in icons[icon].keys():
+            for size in sizes:
+                root = icons[icon]["linux"]["root"] + ".svg"
+                if path.exists("icons/" + size + "/" + icon + ".svg"):
+                    copy2("icons/" + size + "/" + icon + ".svg",
+                          ldir + size + "/apps/" + root)
+                    for link in icons[icon]["linux"].get("symlinks", []):
                         try:
                             symlink(root,
                                     ldir + size + "/apps/" + link + ".svg")
@@ -141,7 +141,7 @@ elif platform == "osx":
     except (FileNotFoundError, Exception):
         exit("You will need png2icns in order to generate OSX theme")
     for icon in icons:
-        for name in icons[icon]["osx"]:
+        for name in icons[icon].get("osx", []):
             if path.exists("icons/48/" + icon + ".svg"):
                 copy2("icons/48/" + icon + ".svg",
                       odir + "vectors/" + name + ".svg")
