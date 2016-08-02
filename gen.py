@@ -8,8 +8,6 @@
 # If not, see <http://www.gnu.org/licenses/>.
 
 # Sorting out modules
-
-
 from git import Git
 from json import load
 from os import listdir, makedirs, path, symlink
