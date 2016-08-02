@@ -106,29 +106,31 @@ if platform == "android":
     adir = adir + adir_extra
     mkdir(adir)
     for icon in icons:
-        for name in icons[icon]["android"]:
-            name = name.replace("_", ".")
-            if path.exists("icons/48/" + icon + ".svg"):
-                convert_svg2png("icons/48/" + icon + ".svg",
-                                adir + name + ".png", 192, 192)
+        if "android" in icons[icon].keys():
+            for name in icons[icon]["android"]:
+                name = name.replace("_", ".")
+                if path.exists("icons/48/" + icon + ".svg"):
+                    convert_svg2png("icons/48/" + icon + ".svg",
+                                    adir + name + ".png", 192, 192)
 elif platform == "linux":
     print("\nGenerating Linux theme...")
     ldir = "numix-icon-theme-{0}/Numix-{0}/".format(theme)
     for size in sizes:
         mkdir(ldir + size + "/apps")
     for icon in icons:
-        for size in sizes:
-            root = icons[icon]["linux"]["root"] + ".svg"
-            if path.exists("icons/" + size + "/" + icon + ".svg"):
-                copy2("icons/" + size + "/" + icon + ".svg",
-                      ldir + size + "/apps/" + root)
-                if icons[icon]["linux"]["symlinks"]:
-                    for link in icons[icon]["linux"]["symlinks"]:
-                        try:
-                            symlink(root,
-                                    ldir + size + "/apps/" + link + ".svg")
-                        except FileExistsError:
-                            continue
+        if "linux" in icons[icon].keys():
+            for size in sizes:
+                root = icons[icon]["linux"]["root"] + ".svg"
+                if path.exists("icons/" + size + "/" + icon + ".svg"):
+                    copy2("icons/" + size + "/" + icon + ".svg",
+                          ldir + size + "/apps/" + root)
+                    if "symlinks" in icons[icon]["linux"].keys():
+                        for link in icons[icon]["linux"]["symlinks"]:
+                            try:
+                                symlink(root,
+                                        ldir + size + "/apps/" + link + ".svg")
+                            except FileExistsError:
+                                continue
 elif platform == "osx":
     print("\nGenerating OSX theme...")
     odir = "numix-{0}.icns/".format(theme)
@@ -141,15 +143,16 @@ elif platform == "osx":
     except (FileNotFoundError, Exception):
         exit("You will need png2icns in order to generate OSX theme")
     for icon in icons:
-        for name in icons[icon]["osx"]:
-            if path.exists("icons/48/" + icon + ".svg"):
-                copy2("icons/48/" + icon + ".svg",
-                      odir + "vectors/" + name + ".svg")
-                convert_svg2png("icons/48/" + icon + ".svg",
-                                odir + "pngs/" + name + ".png", 1024, 1024)
-                call(["png2icns", odir + "icns/" + name + ".icn",
-                      odir + "pngs/" + name + ".png"],
-                     stdout=PIPE, stderr=PIPE)
+        if "osx" in icons[icon].keys():
+            for name in icons[icon]["osx"]:
+                if path.exists("icons/48/" + icon + ".svg"):
+                    copy2("icons/48/" + icon + ".svg",
+                          odir + "vectors/" + name + ".svg")
+                    convert_svg2png("icons/48/" + icon + ".svg",
+                                    odir + "pngs/" + name + ".png", 1024, 1024)
+                    call(["png2icns", odir + "icns/" + name + ".icn",
+                          odir + "pngs/" + name + ".png"],
+                         stdout=PIPE, stderr=PIPE)
 # Clean Up
 print("Done!\n")
 exit(0)
