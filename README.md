@@ -1,4 +1,4 @@
-# Circle Core
+# Numix Core
 This is a demo repo for testing the new generation idea for the Numix app icons theme. This new method is designed to make keeping themes on different platforms on feature parity easier as well as making it as simple as possible to add support for new platforms.
 
 

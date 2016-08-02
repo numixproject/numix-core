@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-# Copyright (C) 2015
+# Copyright (C) 2016
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License (version 3+) as
 # published by the Free Software Foundation. You should have received
@@ -8,6 +8,9 @@
 # If not, see <http://www.gnu.org/licenses/>.
 
 # Sorting out modules
+
+
+from git import Git
 from json import load
 from os import listdir, makedirs, path, symlink
 from shutil import copy2
@@ -25,15 +28,24 @@ except (ImportError, AttributeError):
         use_inkscape = True
     else:
         exit("Can't load cariosvg nor inkscape")
-# Importing CSV
+# Importing JSON
 with open('data.json') as data:
     icons = load(data)
 
-# User selects the platform
-ans, platforms = "", ["android", "linux", "osx"]
+# User selects the theme
+theme, themes = "", ["circle"]
 while True:
-    ans = input("What OS would you like to build for? ").lower().strip()
-    if ans in platforms:
+    theme = input("What theme would you like to build? ").lower().strip()
+    if theme in themes:
+        break
+    else:
+        print("Please enter one of the following:", ", ".join(themes), "\n")
+
+# User selects the platform
+platform, platforms = "", ["android", "linux", "osx"]
+while True:
+    platform = input("What OS would you like to build for? ").lower().strip()
+    if platform in platforms:
         break
     else:
         print("Please enter one of the following:", ", ".join(platforms), "\n")
@@ -80,7 +92,7 @@ ldir = "numix-icon-theme-circle/Numix-Circle/"
 odir = "numix-circle.icns/"
 
 # The Generation Stuff
-if ans == "android":
+if platform == "android":
     print("\nGenerating Android theme...")
     mkdir(adir)
     for icon in icons:
@@ -89,7 +101,7 @@ if ans == "android":
             if path.exists("icons/48/" + icon + ".svg"):
                 convert_svg2png("icons/48/" + icon + ".svg",
                                 adir + name + ".png", 192, 192)
-elif ans == "linux":
+elif platform == "linux":
     print("\nGenerating Linux theme...")
     for size in sizes:
         mkdir(ldir + size + "/apps")
@@ -106,7 +118,7 @@ elif ans == "linux":
                                     ldir + size + "/apps/" + link + ".svg")
                         except FileExistsError:
                             continue
-elif ans == "osx":
+elif platform == "osx":
     print("\nGenerating OSX theme...")
     for ext in ["icns", "pngs", "vectors"]:
         mkdir(odir + ext)
