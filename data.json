@@ -2596,7 +2596,10 @@
     },
     "chrome-efjnaogkjbogokcnohkmnjdojkikgobo-Default": {
         "linux": {
-            "root": "chrome-efjnaogkjbogokcnohkmnjdojkikgobo-Default"
+            "root": "chrome-efjnaogkjbogokcnohkmnjdojkikgobo-Default",
+            "symlinks": [
+                "chrome-hcglmfcclpfgljeaiahehebeoaiicbko-Default"
+            ]
         }
     },
     "chrome-ehjonnoogdmhhidjcldckckmfkpcfefh-Default": {
@@ -5188,7 +5191,10 @@
     },
     "gnome-encfs-manager": {
         "linux": {
-            "root": "gnome-encfs-manager"
+            "root": "gnome-encfs-manager",
+            "symlinks": [
+                "cryfs-gui"
+            ]
         }
     },
     "gnome-glines": {
@@ -5205,6 +5211,7 @@
         "linux": {
             "root": "gnome-klotski",
             "symlinks": [
+                "blocks",
                 "kblocks"
             ]
         }
@@ -10192,6 +10199,7 @@
         "linux": {
             "root": "qgo",
             "symlinks": [
+                "checkers",
                 "gnome-iagno",
                 "gnugo48",
                 "gnugo"
@@ -14132,7 +14140,8 @@
             "root": "wxmedit",
             "symlinks": [
                 "cudatext",
-                "cudatext-256"
+                "cudatext-256",
+                "textadept"
             ]
         }
     },
