@@ -3455,6 +3455,16 @@
             ]
         }
     },
+    "distributor-logo-backbox": {
+        "linux": {
+            "root": "distributor-logo-backbox"
+        }
+    },
+    "distributor-logo-bodhi": {
+        "linux": {
+            "root": "distributor-logo-bodhi"
+        }
+    },
     "distributor-logo-chakra": {
         "linux": {
             "root": "distributor-logo-chakra"
@@ -3481,6 +3491,11 @@
     "distributor-logo-deepin": {
         "linux": {
             "root": "distributor-logo-deepin"
+        }
+    },
+    "distributor-logo-dragonflybsd": {
+        "linux": {
+            "root": "distributor-logo-dragonflybsd"
         }
     },
     "distributor-logo-elementaryos": {
@@ -3551,9 +3566,19 @@
             "root": "distributor-logo-mint"
         }
     },
+    "distributor-logo-netbsd": {
+        "linux": {
+            "root": "distributor-logo-netbsd"
+        }
+    },
     "distributor-logo-nixos": {
         "linux": {
             "root": "distributor-logo-nixos"
+        }
+    },
+    "distributor-logo-openbsd": {
+        "linux": {
+            "root": "distributor-logo-openbsd"
         }
     },
     "distributor-logo-openmandriva": {
@@ -3574,6 +3599,11 @@
     "distributor-logo-parsix": {
         "linux": {
             "root": "distributor-logo-parsix"
+        }
+    },
+    "distributor-logo-pcbsd": {
+        "linux": {
+            "root": "distributor-logo-pcbsd"
         }
     },
     "distributor-logo-qubes": {
@@ -9448,6 +9478,11 @@
             ]
         }
     },
+    "pick-colour-picker": {
+        "linux": {
+            "root": "pick-colour-picker"
+        }
+    },
     "picmi": {
         "linux": {
             "root": "picmi"
@@ -14503,6 +14538,16 @@
     "zsnes": {
         "linux": {
             "root": "zsnes"
+        }
+    },
+    "zuluCrypt": {
+        "linux": {
+            "root": "zuluCrypt"
+        }
+    },
+    "zuluMount": {
+        "linux": {
+            "root": "zuluMount"
         }
     },
     "zynaddsubfx": {
