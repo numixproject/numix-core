@@ -1162,7 +1162,10 @@
     },
     "arteFetcher": {
         "linux": {
-            "root": "arteFetcher"
+            "root": "arteFetcher",
+            "symlinks": [
+                "qarte"
+            ]
         }
     },
     "artha": {
