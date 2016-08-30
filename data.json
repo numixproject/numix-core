@@ -2844,7 +2844,10 @@
     },
     "ckb": {
         "linux": {
-            "root": "ckb"
+            "root": "ckb",
+            "symlinks": [
+                "polychromatic"
+            ]
         }
     },
     "classicmenu-indicator-dark": {
