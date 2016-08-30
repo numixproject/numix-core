@@ -1137,7 +1137,10 @@
     },
     "armagetronad": {
         "linux": {
-            "root": "armagetronad"
+            "root": "armagetronad",
+            "symlinks": [
+                "gltron"
+            ]
         }
     },
     "armoryicon": {
