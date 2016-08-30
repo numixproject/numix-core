@@ -3435,6 +3435,19 @@
             ]
         }
     },
+    "discord": {
+        "linux": {
+            "root": "discord",
+            "symlinks": [
+                "web-discord"
+            ]
+        }
+    },
+    "discord-canary": {
+        "linux": {
+            "root": "discord-canary"
+        }
+    },
     "disk-check": {
         "linux": {
             "root": "disk-check",
@@ -13716,14 +13729,6 @@
                 "unity-webapps-deviantart",
                 "chrome-pbppfiakkcakldnnhcfncfmclhkhhdcp-Default",
                 "Deviantart-deviantart.com"
-            ]
-        }
-    },
-    "web-discord": {
-        "linux": {
-            "root": "web-discord",
-            "symlinks": [
-                "discord"
             ]
         }
     },
