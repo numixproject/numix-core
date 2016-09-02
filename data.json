@@ -3115,11 +3115,6 @@
             "root": "cs-cat-admin"
         }
     },
-    "cs-desktop": {
-        "linux": {
-            "root": "cs-desktop"
-        }
-    },
     "cs-user": {
         "linux": {
             "root": "cs-user"
@@ -3319,6 +3314,19 @@
     "denemo": {
         "linux": {
             "root": "denemo"
+        }
+    },
+    "desktop": {
+        "linux": {
+            "root": "desktop",
+            "symlinks": [
+                "cs-desktop",
+                "show-background",
+                "show-desktop",
+                "dock",
+                "panel-applets",
+                "dockbarx"
+            ]
         }
     },
     "desktop-environment-gnome": {
@@ -11282,18 +11290,6 @@
             "symlinks": [
                 "multimedia-photo-manager",
                 "multimedia-photo-viewer"
-            ]
-        }
-    },
-    "show-desktop": {
-        "linux": {
-            "root": "show-desktop",
-            "symlinks": [
-                "show-background",
-                "dock",
-                "panel-applets",
-                "desktop",
-                "dockbarx"
             ]
         }
     },
