@@ -9466,7 +9466,8 @@
         "linux": {
             "root": "pdfmod",
             "symlinks": [
-                "master-pdf-editor"
+                "master-pdf-editor",
+                "flpsed"
             ]
         }
     },
@@ -13233,7 +13234,10 @@
     },
     "ubuntu-sdk": {
         "linux": {
-            "root": "ubuntu-sdk"
+            "root": "ubuntu-sdk",
+            "symlinks": [
+                "ubuntu-app-test"
+            ]
         }
     },
     "ubuntu-tweak": {
