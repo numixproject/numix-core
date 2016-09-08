@@ -2443,6 +2443,14 @@
             ]
         }
     },
+    "cdemu-client": {
+        "linux": {
+            "root": "cdemu-client",
+            "symlinks": [
+                "gcdemu"
+            ]
+        }
+    },
     "cecilia": {
         "linux": {
             "root": "cecilia"
