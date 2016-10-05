@@ -1010,6 +1010,7 @@
             "root": "applications-games",
             "symlinks": [
                 "gnome-games",
+                "org.gnome.Games",
                 "preferences-desktop-gaming",
                 "deepin-game-center"
             ]
@@ -5493,6 +5494,7 @@
             "root": "gnome-power-statistics",
             "symlinks": [
                 "mate-power-statistics",
+                "org.gnome.PowerStats",
                 "preferences-system-power-management"
             ]
         }
@@ -13805,6 +13807,7 @@
             "root": "web-browser",
             "symlinks": [
                 "gnome-internet",
+                "org.gnome.Epiphany",
                 "flock-browser",
                 "internet-web-browser",
                 "epiphany-browser",
