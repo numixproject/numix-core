@@ -3710,7 +3710,10 @@
     },
     "distributor-logo-pcbsd": {
         "linux": {
-            "root": "distributor-logo-pcbsd"
+            "root": "distributor-logo-pcbsd",
+            "symlinks": [
+                "distributor-logo-trueos"
+            ]
         }
     },
     "distributor-logo-qubes": {
