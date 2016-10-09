@@ -8767,7 +8767,10 @@
     },
     "nextcloud": {
         "linux": {
-            "root": "nextcloud"
+            "root": "nextcloud",
+            "symlinks": [
+                "Nextcloud"
+            ]
         }
     },
     "nexuiz": {
