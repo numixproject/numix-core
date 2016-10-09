@@ -10226,7 +10226,10 @@
     },
     "PurpleEgg": {
         "linux": {
-            "root": "org.gnome.PurpleEgg"
+            "root": "PurpleEgg",
+            "symlinks": [
+                "org.gnome.PurpleEgg"
+            ]
         }
     },
     "putty": {
