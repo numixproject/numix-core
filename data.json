@@ -9238,7 +9238,10 @@
     },
     "openshot": {
         "linux": {
-            "root": "openshot"
+            "root": "openshot",
+            "symlinks": [
+                "openshot-qt"
+            ]
         }
     },
     "opensong": {
