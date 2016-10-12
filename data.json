@@ -3665,7 +3665,11 @@
     },
     "distributor-logo-mint": {
         "linux": {
-            "root": "distributor-logo-mint"
+            "root": "distributor-logo-mint",
+            "symlinks": [
+                "mintwelcome",
+                "mintWelcome"
+            ]
         }
     },
     "distributor-logo-netbsd": {
