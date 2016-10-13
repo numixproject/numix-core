@@ -8,14 +8,17 @@
 # If not, see <http://www.gnu.org/licenses/>.
 
 # Sorting out modules
-from git import Git
 from json import load
+import urllib.request
 from os import listdir, makedirs, path, symlink
 from shutil import copy2, move, rmtree
 from subprocess import PIPE, Popen, call
 from io import BytesIO
 from gi import require_version
 require_version('Rsvg', '2.0')
+git_flag = call(['which', 'git'], stdout=PIPE, stderr=PIPE)
+if git_flag != 0:
+    exit("Please install git first. Exiting")
 try:
     from gi.repository import Rsvg
     import cairo
@@ -27,8 +30,11 @@ except (ImportError, AttributeError):
     else:
         exit("Can't load cariosvg nor inkscape")
 # Importing JSON
-with open('data.json') as data:
-    icons = load(data)
+try:
+    with open('data.json') as data:
+        icons = load(data)
+except FileNotFoundError:
+    exit("Database file not found, please download data.json. Exiting")
 
 # User selects the theme
 theme, themes = "", ["circle"]
@@ -52,6 +58,16 @@ while True:
 def mkdir(dir):
     if not path.exists(dir):
         makedirs(dir)
+
+
+def clone(repo):
+    try:
+        urllib.request.urlopen("https://google.com", timeout=1)
+        print("Cloning the repo...")
+        p = Popen(["git", "clone", repo], stdout=PIPE, stderr=PIPE)
+        p.communicate()
+    except urllib.request.URLError:
+        exit("Internet connection is needed in order to download the icon theme. Existing")
 
 
 def convert_svg2png(infile, outfile, w, h):
@@ -85,17 +101,33 @@ def convert_svg2png(infile, outfile, w, h):
 
 
 # Downloading icons
-try:
-    print("Cloning icons from GitHub...")
-    Git().clone("https://github.com/numixproject/" + theme + "-core.git")
-except Exception as error:
-    exit(error)
-move(theme + "-core/icons", "icons")
-rmtree(theme + "-core")
-
+print("Cloning icons from GitHub...")
+if path.isdir(theme + "-core/icons"):
+    print("The icon theme already exists.")
+    print("1 - Update")
+    print("2 - Ignore")
+    print("3 - Cancel")
+    choosed = False
+    while not choosed:
+        try:
+            choice = int(input("Please choose : "))
+        except ValueError:
+            continue
+        if choice == 1:
+            choosed = True
+            print("Updating..")
+            rmtree(theme + "-core")
+            clone("https://github.com/numixproject/" + theme + "-core.git")
+        elif choice == 2:
+            choosed = True
+        elif choice == 3:
+            choosed = True
+            exit("Exiting")
+else:
+    clone("https://github.com/numixproject/" + theme + "-core.git")
 
 # Only certain icon sizes may be covered
-sizes = listdir("icons")
+sizes = listdir(theme + "-core/icons")
 
 
 # The Generation Stuff
@@ -109,7 +141,7 @@ if platform == "android":
         for name in icons[icon].get("android", []):
             name = name.replace("_", ".")
             if path.exists("icons/48/" + icon + ".svg"):
-                convert_svg2png("icons/48/" + icon + ".svg",
+                convert_svg2png(theme + "-core/icons/48/" + icon + ".svg",
                                 adir + name + ".png", 192, 192)
 elif platform == "linux":
     print("\nGenerating Linux theme...")
@@ -120,8 +152,8 @@ elif platform == "linux":
         if "linux" in icons[icon].keys():
             for size in sizes:
                 root = icons[icon]["linux"]["root"] + ".svg"
-                if path.exists("icons/" + size + "/" + icon + ".svg"):
-                    copy2("icons/" + size + "/" + icon + ".svg",
+                if path.exists(theme + "-core/icons/" + size + "/" + icon + ".svg"):
+                    copy2(theme + "-core/icons/" + size + "/" + icon + ".svg",
                           ldir + size + "/apps/" + root)
                     for link in icons[icon]["linux"].get("symlinks", []):
                         try:
@@ -142,10 +174,10 @@ elif platform == "osx":
         exit("You will need png2icns in order to generate OSX theme")
     for icon in icons:
         for name in icons[icon].get("osx", []):
-            if path.exists("icons/48/" + icon + ".svg"):
-                copy2("icons/48/" + icon + ".svg",
+            if path.exists(theme + "-core/cons/48/" + icon + ".svg"):
+                copy2(theme + "-core/icons/48/" + icon + ".svg",
                       odir + "vectors/" + name + ".svg")
-                convert_svg2png("icons/48/" + icon + ".svg",
+                convert_svg2png(theme + "-core/icons/48/" + icon + ".svg",
                                 odir + "pngs/" + name + ".png", 1024, 1024)
                 call(["png2icns", odir + "icns/" + name + ".icn",
                       odir + "pngs/" + name + ".png"],
