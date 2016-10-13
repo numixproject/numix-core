@@ -1407,6 +1407,7 @@
             "symlinks": [
                 "filelight",
                 "partitions",
+                "qdirstat",
                 "mate-disk-usage-analyzer"
             ]
         }
@@ -11420,7 +11421,8 @@
         "linux": {
             "root": "skype",
             "symlinks": [
-                "skype.png"
+                "skype.png",
+                "skypeforlinux"
             ]
         }
     },
