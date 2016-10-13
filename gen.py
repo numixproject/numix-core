@@ -8,7 +8,6 @@
 # If not, see <http://www.gnu.org/licenses/>.
 
 # Sorting out modules
-from git import Git
 from json import load
 from os import listdir, makedirs, path, symlink
 from shutil import copy2, move, rmtree
@@ -31,7 +30,7 @@ with open('data.json') as data:
     icons = load(data)
 
 # User selects the theme
-theme, themes = "", ["circle"]
+theme, themes = "", listdir("icons")
 while True:
     theme = input("What theme would you like to build? ").lower().strip()
     if theme in themes:
@@ -84,18 +83,8 @@ def convert_svg2png(infile, outfile, w, h):
         img.finish()
 
 
-# Downloading icons
-try:
-    print("Cloning icons from GitHub...")
-    Git().clone("https://github.com/numixproject/" + theme + "-core.git")
-except Exception as error:
-    exit(error)
-move(theme + "-core/icons", "icons")
-rmtree(theme + "-core")
-
-
 # Only certain icon sizes may be covered
-sizes = listdir("icons")
+sizes = listdir("icons/" + theme)
 
 
 # The Generation Stuff
@@ -108,8 +97,8 @@ if platform == "android":
     for icon in icons:
         for name in icons[icon].get("android", []):
             name = name.replace("_", ".")
-            if path.exists("icons/48/" + icon + ".svg"):
-                convert_svg2png("icons/48/" + icon + ".svg",
+            if path.exists("icons/" + theme + "/48/" + icon + ".svg"):
+                convert_svg2png("icons/" + theme + "/48/" + icon + ".svg",
                                 adir + name + ".png", 192, 192)
 elif platform == "linux":
     print("\nGenerating Linux theme...")
@@ -120,8 +109,8 @@ elif platform == "linux":
         if "linux" in icons[icon].keys():
             for size in sizes:
                 root = icons[icon]["linux"]["root"] + ".svg"
-                if path.exists("icons/" + size + "/" + icon + ".svg"):
-                    copy2("icons/" + size + "/" + icon + ".svg",
+                if path.exists("icons/" + theme + "/" + size + "/" + icon + ".svg"):
+                    copy2("icons/" + theme + "/" + size + "/" + icon + ".svg",
                           ldir + size + "/apps/" + root)
                     for link in icons[icon]["linux"].get("symlinks", []):
                         try:
@@ -142,10 +131,10 @@ elif platform == "osx":
         exit("You will need png2icns in order to generate OSX theme")
     for icon in icons:
         for name in icons[icon].get("osx", []):
-            if path.exists("icons/48/" + icon + ".svg"):
-                copy2("icons/48/" + icon + ".svg",
+            if path.exists("icons/" + theme + "/48/" + icon + ".svg"):
+                copy2("icons/" + theme + "48/" + icon + ".svg",
                       odir + "vectors/" + name + ".svg")
-                convert_svg2png("icons/48/" + icon + ".svg",
+                convert_svg2png("icons/" + theme + "/48/" + icon + ".svg",
                                 odir + "pngs/" + name + ".png", 1024, 1024)
                 call(["png2icns", odir + "icns/" + name + ".icn",
                       odir + "pngs/" + name + ".png"],
