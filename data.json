@@ -11694,6 +11694,14 @@
             "root": "spek"
         }
     },
+    "spice": {
+        "linux": {
+            "root": "spice",
+            "symlinks": [
+                "com.github.philip-scott.spice-up"
+            ]
+        }
+    },
     "sportstracker": {
         "linux": {
             "root": "sportstracker"
