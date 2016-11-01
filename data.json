@@ -1515,6 +1515,11 @@
             "root": "bitdefender"
         }
     },
+    "bitmap2component": {
+    	"linux": {
+    		"root": "bitmap2component"
+    	}
+    },
     "bittorent": {
         "linux": {
             "root": "bittorent"
@@ -4046,6 +4051,11 @@
             "root": "edgar"
         }
     },
+    "eeschema": {
+    	"linux": {
+    		"root": "eeschema"
+    	}
+    },
     "efax-gtk": {
         "linux": {
             "root": "efax-gtk"
@@ -5106,6 +5116,11 @@
                 "fidocadj"
             ]
         }
+    },
+    "gerbview": {
+    	"linux": {
+    		"root": "gerbview"
+    	}
     },
     "gespeaker": {
         "linux": {
@@ -9515,6 +9530,16 @@
                 "web-paypal"
             ]
         }
+    },
+    "pcbcalculator": {
+    	"linux": {
+    		"root": "pcbcalculator"
+    	}
+    },
+    "pcbnew": {
+    	"linux": {
+    		"root": "pcbnew"
+    	}
     },
     "pcsx-icon": {
         "linux": {
