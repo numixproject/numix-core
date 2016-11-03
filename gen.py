@@ -30,7 +30,10 @@ with open('data.json') as data:
     icons = load(data)
 
 # User selects the theme
-theme, themes = "", listdir("icons")
+try:
+    theme, themes = "", listdir("icons")
+except FileNotFoundError:
+    exit("Can't detect icons folder. Please clone the repository and try again.")
 while True:
     theme = input("What theme would you like to build? ").lower().strip()
     if theme in themes:
@@ -110,14 +113,19 @@ elif platform == "linux":
             for size in sizes:
                 root = icons[icon]["linux"]["root"] + ".svg"
                 if path.exists("icons/" + theme + "/" + size + "/" + icon + ".svg"):
-                    copy2("icons/" + theme + "/" + size + "/" + icon + ".svg",
-                          ldir + size + "/apps/" + root)
-                    for link in icons[icon]["linux"].get("symlinks", []):
-                        try:
-                            symlink(root,
-                                    ldir + size + "/apps/" + link + ".svg")
-                        except FileExistsError:
-                            continue
+                    if "bfb" in icons[icon]["linux"].keys():
+                        if int(size) == 48:
+                            convert_svg2png("icons/" + theme + "/" + size + "/" +
+                                icon + ".svg", ldir + size + "/apps/" + icons[icon]["linux"]["bfb"] + ".png", 144, 144)                    
+                    else:                       
+                        copy2("icons/" + theme + "/" + size + "/" + icon + ".svg",
+                              ldir + size + "/apps/" + root)
+                        for link in icons[icon]["linux"].get("symlinks", []):
+                            try:
+                                symlink(root,
+                                        ldir + size + "/apps/" + link + ".svg")
+                            except FileExistsError:
+                                continue
 elif platform == "osx":
     print("\nGenerating OSX theme...")
     odir = "numix-{0}.icns/".format(theme)
