@@ -116,16 +116,15 @@ elif platform == "linux":
                     if "bfb" in icons[icon]["linux"].keys():
                         if int(size) == 48:
                             convert_svg2png("icons/" + theme + "/" + size + "/" +
-                                icon + ".svg", ldir + size + "/apps/" + icons[icon]["linux"]["bfb"] + ".png", 144, 144)                    
-                    else:                       
-                        copy2("icons/" + theme + "/" + size + "/" + icon + ".svg",
-                              ldir + size + "/apps/" + root)
-                        for link in icons[icon]["linux"].get("symlinks", []):
-                            try:
-                                symlink(root,
-                                        ldir + size + "/apps/" + link + ".svg")
-                            except FileExistsError:
-                                continue
+                                icon + ".svg", ldir + size + "/apps/" + icons[icon]["linux"]["bfb"] + ".png", 144, 144)                                   
+                    copy2("icons/" + theme + "/" + size + "/" + icon + ".svg",
+                          ldir + size + "/apps/" + root)
+                    for link in icons[icon]["linux"].get("symlinks", []):
+                        try:
+                            symlink(root,
+                                    ldir + size + "/apps/" + link + ".svg")
+                        except FileExistsError:
+                            continue
 elif platform == "osx":
     print("\nGenerating OSX theme...")
     odir = "numix-{0}.icns/".format(theme)
