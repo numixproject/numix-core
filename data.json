@@ -632,7 +632,8 @@
     },
     "app-launcher": {
         "linux": {
-            "root": "app-launcher"
+            "root": "app-launcher",
+            "bfb": "launcher_bfb"
         }
     },
     "appgrid": {
@@ -3523,6 +3524,7 @@
     "distributor-logo-ubuntu": {
         "linux": {
             "root": "distributor-logo-ubuntu",
+            "bfb": "launcher_bfb_ubuntu",
             "symlinks": [
                 "distributor-logo",
                 "ubuntu-online-tour"
@@ -7412,21 +7414,6 @@
             "root": "latexila"
         }
     },
-    "launcher_bfb": {
-        "linux": {
-            "root": "launcher_bfb"
-        }
-    },
-    "launcher_bfb_numix": {
-        "linux": {
-            "root": "launcher_bfb_numix"
-        }
-    },
-    "launcher_bfb_ubuntu": {
-        "linux": {
-            "root": "launcher_bfb_ubuntu"
-        }
-    },
     "launchpad": {
         "linux": {
             "root": "launchpad",
@@ -8753,6 +8740,7 @@
     "numix": {
         "linux": {
             "root": "numix",
+            "bfb": "launcher_bfb_numix",
             "symlinks": [
                 "gtk3-icon-browser",
                 "preferences-desktop-icons"
