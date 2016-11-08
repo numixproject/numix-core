@@ -857,7 +857,10 @@
     "asc-de": {
         "linux": {
             "root": "asc-de"
-        }
+        },
+        "symlinks" : [
+            "onlyoffice"
+        ]
     },
     "ascii-design": {
         "linux": {
