@@ -5850,12 +5850,9 @@
             ]
         }
     },
-    "grsync.png": {
+    "grsync": {
         "linux": {
-            "root": "grsync.png",
-            "symlinks": [
-                "grsync"
-            ]
+            "root": "grsync"
         }
     },
     "grub-customizer": {
@@ -6627,7 +6624,6 @@
                 "sun-java-jdk7",
                 "sun-java-jdk8",
                 "sun-java-jre8",
-                "sun-java.png",
                 "sun-java6",
                 "sun-java7",
                 "sun-java8",
@@ -6636,13 +6632,11 @@
                 "sun-javaws-jdk7",
                 "sun-javaws-jdk8",
                 "sun-javaws-jre8",
-                "sun-javaws.png",
                 "sun-jcontrol",
                 "sun-jcontrol-jdk6",
                 "sun-jcontrol-jdk7",
                 "sun-jcontrol-jdk8",
                 "sun-jcontrol-jre8",
-                "sun-jcontrol.png",
                 "sun_java",
                 "system-switch-java"
             ]
@@ -11377,7 +11371,6 @@
         "linux": {
             "root": "skype",
             "symlinks": [
-                "skype.png",
                 "skypeforlinux"
             ]
         }
