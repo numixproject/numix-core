@@ -8,11 +8,13 @@
 # If not, see <http://www.gnu.org/licenses/>.
 
 # Sorting out modules
+import argparse
+from io import BytesIO
 from json import load
 from os import listdir, makedirs, path, symlink
 from shutil import copy2, move, rmtree
 from subprocess import PIPE, Popen, call
-from io import BytesIO
+
 from gi import require_version
 require_version('Rsvg', '2.0')
 try:
@@ -25,30 +27,49 @@ except (ImportError, AttributeError):
         use_inkscape = True
     else:
         exit("Can't load cariosvg nor inkscape")
+
+
+parser = argparse.ArgumentParser(prog="Numix-core")
+
 # Importing JSON
 with open('data.json') as data:
     icons = load(data)
 
-# User selects the theme
 try:
     theme, themes = "", listdir("icons")
+    parser.add_argument("--theme", "-t",
+                        help="Theme you want to build.", choices=themes)
 except FileNotFoundError:
     exit("Can't detect icons folder. Please clone the repository and try again.")
-while True:
-    theme = input("What theme would you like to build? ").lower().strip()
-    if theme in themes:
-        break
-    else:
-        print("Please enter one of the following:", ", ".join(themes), "\n")
+
+platform, platforms = "", ["android", "linux", "osx"]
+parser.add_argument("--platform", "-t",
+                    help="Platform you like to build the theme for.", choices=platforms)
+
+args = parser.parse_args()
+# User selects the theme
+if not args.theme:
+    while True:
+        theme = input("What theme would you like to build? ").lower().strip()
+        if theme in themes:
+            break
+        else:
+            print("Please enter one of the following:", ", ".join(themes), "\n")
+else:
+    theme = args.theme
 
 # User selects the platform
-platform, platforms = "", ["android", "linux", "osx"]
-while True:
-    platform = input("What OS would you like to build for? ").lower().strip()
-    if platform in platforms:
-        break
-    else:
-        print("Please enter one of the following:", ", ".join(platforms), "\n")
+if args.platform:
+    while True:
+        platform = input(
+            "What OS would you like to build for? ").lower().strip()
+        if platform in platforms:
+            break
+        else:
+            print("Please enter one of the following:",
+                  ", ".join(platforms), "\n")
+else:
+    platform = args.platform
 
 
 def mkdir(dir):
@@ -116,7 +137,7 @@ elif platform == "linux":
                     if "bfb" in icons[icon]["linux"].keys():
                         if int(size) == 48:
                             convert_svg2png("icons/" + theme + "/" + size + "/" +
-                                icon + ".svg", ldir + size + "/apps/" + icons[icon]["linux"]["bfb"] + ".png", 144, 144)                                   
+                                            icon + ".svg", ldir + size + "/apps/" + icons[icon]["linux"]["bfb"] + ".png", 144, 144)
                     copy2("icons/" + theme + "/" + size + "/" + icon + ".svg",
                           ldir + size + "/apps/" + root)
                     for link in icons[icon]["linux"].get("symlinks", []):
