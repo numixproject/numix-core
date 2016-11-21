@@ -32,8 +32,11 @@ except (ImportError, AttributeError):
 parser = argparse.ArgumentParser(prog="Numix-core")
 
 # Importing JSON
-with open('data.json') as data:
-    icons = load(data)
+try:
+    with open('data.json') as data:
+        icons = load(data)
+except FileNotFoundError:
+    exit("Please clone the whole repository and try again.")
 
 try:
     theme, themes = "", listdir("icons")
@@ -47,27 +50,16 @@ parser.add_argument("--platform", "-t",
                     help="Platform you like to build the theme for.", choices=platforms)
 
 args = parser.parse_args()
+
 # User selects the theme
 if not args.theme:
-    while True:
-        theme = input("What theme would you like to build? ").lower().strip()
-        if theme in themes:
-            break
-        else:
-            print("Please enter one of the following:", ", ".join(themes), "\n")
+    exit("Please use --theme argument with one of the following:", ", ".join(themes), "\n")
 else:
     theme = args.theme
 
 # User selects the platform
-if args.platform:
-    while True:
-        platform = input(
-            "What OS would you like to build for? ").lower().strip()
-        if platform in platforms:
-            break
-        else:
-            print("Please enter one of the following:",
-                  ", ".join(platforms), "\n")
+if not args.platform:
+    exit("Please use --platform argument with one of the following:", ", ".join(platforms), "\n")
 else:
     platform = args.platform
 
