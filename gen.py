@@ -46,7 +46,7 @@ except FileNotFoundError:
     exit("Can't detect icons folder. Please clone the repository and try again.")
 
 platform, platforms = "", ["android", "linux", "osx"]
-parser.add_argument("--platform", "-t",
+parser.add_argument("--platform", "-p",
                     help="Platform you like to build the theme for.", choices=platforms)
 
 args = parser.parse_args()
