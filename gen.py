@@ -53,13 +53,13 @@ args = parser.parse_args()
 
 # User selects the theme
 if not args.theme:
-    exit("Please use --theme argument with one of the following:", ", ".join(themes), "\n")
+    exit("Please use --theme argument with one of the following: " + ", ".join(themes) + "\n")
 else:
     theme = args.theme
 
 # User selects the platform
 if not args.platform:
-    exit("Please use --platform argument with one of the following:", ", ".join(platforms), "\n")
+    exit("Please use --platform argument with one of the following: " + ", ".join(platforms) + "\n")
 else:
     platform = args.platform
 
