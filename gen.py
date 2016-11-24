@@ -43,23 +43,26 @@ try:
     parser.add_argument("--theme", "-t",
                         help="Theme you want to build.", choices=themes)
 except FileNotFoundError:
-    exit("Can't detect icons folder. Please clone the repository and try again.")
+    exit("No icons folder found. Please reclone and try again.")
 
 platform, platforms = "", ["android", "linux", "osx"]
 parser.add_argument("--platform", "-p",
-                    help="Platform you like to build the theme for.", choices=platforms)
+                    help="Platform you like to build the theme for.",
+                    choices=platforms)
 
 args = parser.parse_args()
 
 # User selects the theme
 if not args.theme:
-    exit("Please use --theme argument with one of the following: " + ", ".join(themes) + "\n")
+    exit("Please use --theme argument with one of the following: " +
+         ", ".join(themes) + "\n")
 else:
     theme = args.theme
 
 # User selects the platform
 if not args.platform:
-    exit("Please use --platform argument with one of the following: " + ", ".join(platforms) + "\n")
+    exit("Please use --platform argument with one of the following: " +
+         ", ".join(platforms) + "\n")
 else:
     platform = args.platform
 
