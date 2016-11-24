@@ -14,7 +14,7 @@ To deal with hardcoded application icons Numix uses the [hardcode-fixer](https:/
 ## Script
 
 ### Dependencies
-The script needs Python 3.x to run. The downloading of the icon resources requires [git](https://git-scm.com/) to be installed and accessible via system's PATH. The exporting-to-PNG part of the script currently uses [Cairo](https://cairographics.org/) or [Inkscape](https://inkscape.org/). The OSX packaging needs [libicns](http://icns.sourceforge.net/) for the `png2icns` command.
+The script needs Python 3.x to run. The exporting-to-PNG part of the script currently uses [Cairo](https://cairographics.org/) or [Inkscape](https://inkscape.org/). The OSX packaging needs [libicns](http://icns.sourceforge.net/) for the `png2icns` command.
 
 ### How To Use
 1. Download the repo
