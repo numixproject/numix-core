@@ -8,7 +8,7 @@
 # If not, see <http://www.gnu.org/licenses/>.
 
 # Sorting out modules
-import argparse
+from argparse import ArgumentParser
 from io import BytesIO
 from json import load
 from os import listdir, makedirs, path, symlink
@@ -29,7 +29,7 @@ except (ImportError, AttributeError):
         exit("Can't load cariosvg nor inkscape")
 
 
-parser = argparse.ArgumentParser(prog="Numix-core")
+parser = ArgumentParser(prog="Numix-core")
 
 # Importing JSON
 try:
