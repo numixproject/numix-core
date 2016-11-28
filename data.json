@@ -5771,7 +5771,10 @@
     },
     "gradio": {
         "linux": {
-            "root": "gradio"
+            "root": "gradio",
+            "symlinks": [
+                "de.haeckerfelix.gradio"
+            ]
         }
     },
     "grafx2": {
