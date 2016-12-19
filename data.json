@@ -7228,7 +7228,11 @@
     },
     "krecipes": {
         "linux": {
-            "root": "krecipes"
+            "root": "krecipes",
+            "symlinks": [
+                "gnome-recipes",
+                "org.gnome.Recipes"
+            ]
         }
     },
     "kreversi": {
