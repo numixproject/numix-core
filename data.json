@@ -8324,7 +8324,10 @@
     },
     "mu": {
         "linux": {
-            "root": "mu"
+            "root": "mu",
+            "symlinks": [
+                "kreogist-mu"
+            ]
         }
     },
     "mugshot": {
