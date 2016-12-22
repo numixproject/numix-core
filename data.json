@@ -7702,7 +7702,10 @@
     },
     "loggerpro": {
         "linux": {
-            "root": "loggerpro"
+            "root": "loggerpro",
+            "symlinks": [
+                "kpl"
+            ]
         }
     },
     "login": {
