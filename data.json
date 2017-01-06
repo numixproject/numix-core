@@ -6279,7 +6279,10 @@
     },
     "hyperterm": {
         "linux": {
-            "root": "hyperterm"
+            "root": "hyperterm",
+            "symlinks": [
+                "hyper"
+            ]
         }
     },
     "i-nex-128": {
