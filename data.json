@@ -3843,6 +3843,11 @@
             ]
         }
     },
+    "electron": {
+        "linux": {
+            "root": "electron"
+        }
+    },
     "electrum": {
         "linux": {
             "root": "electrum"
