@@ -11205,7 +11205,11 @@
     },
     "seafile": {
         "linux": {
-            "root": "seafile"
+            "root": "seafile",
+            "symlinks": [
+                "seafile-client",
+                "seafile-client-qt5"
+            ]
         }
     },
     "seahorse": {
