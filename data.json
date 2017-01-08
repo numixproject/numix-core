@@ -6410,6 +6410,7 @@
         "linux": {
             "root": "indicator-weather",
             "symlinks": [
+                "gis-weather",
                 "gnome-weather",
                 "org.gnome.Weather",
                 "org.gnome.Weather.Application",
