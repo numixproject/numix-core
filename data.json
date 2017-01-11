@@ -7765,7 +7765,10 @@
     },
     "lollypop": {
         "linux": {
-            "root": "lollypop"
+            "root": "lollypop",
+            "symlinks": [
+                "org.gnome.Lollypop"
+            ]
         }
     },
     "love-app": {
