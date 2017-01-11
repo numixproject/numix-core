@@ -9109,7 +9109,10 @@
     },
     "openlugaru": {
         "linux": {
-            "root": "openlugaru"
+            "root": "openlugaru",
+            "symlinks": [
+                "lugaru"
+            ]
         }
     },
     "openmw": {
