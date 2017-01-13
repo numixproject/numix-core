@@ -3107,7 +3107,8 @@
         "linux": {
             "root": "desktop-environment-gnome",
             "symlinks": [
-                "gnome-logo-icon"
+                "gnome-logo-icon",
+                "org.gnome.ChromeGnomeShell"
             ]
         }
     },
