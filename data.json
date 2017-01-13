@@ -4087,6 +4087,7 @@
             "root": "fbmessenger",
             "symlinks": [
                 "Caprine",
+                "caprine",
                 "FacebookMessenger-facebook.com",
                 "messengerfordesktop"
             ]
@@ -4975,7 +4976,10 @@
     },
     "Gitter": {
         "linux": {
-            "root": "Gitter"
+            "root": "Gitter",
+            "symlinks": [
+                "gitter"
+            ]
         }
     },
     "gkdebconf": {
@@ -5412,7 +5416,10 @@
     },
     "gnome-twofactorauth": {
         "linux": {
-            "root": "gnome-twofactorauth"
+            "root": "gnome-twofactorauth",
+            "symlinks": [
+                "org.gnome.Authenticator"
+            ]
         }
     },
     "gnome-video-arcade": {
