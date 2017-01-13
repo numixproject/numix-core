@@ -5959,12 +5959,18 @@
     },
     "gtk3-demo": {
         "linux": {
-            "root": "gtk3-demo"
+            "root": "gtk3-demo",
+            "symlinks": [
+                "gtk4-demo"
+            ]
         }
     },
     "gtk3-widget-factory": {
         "linux": {
-            "root": "gtk3-widget-factory"
+            "root": "gtk3-widget-factory",
+            "symlinks": [
+                "gtk4-widget-factory"
+            ]
         }
     },
     "gtkdialog": {
