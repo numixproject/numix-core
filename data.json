@@ -3107,7 +3107,8 @@
         "linux": {
             "root": "desktop-environment-gnome",
             "symlinks": [
-                "gnome-logo-icon"
+                "gnome-logo-icon",
+                "org.gnome.ChromeGnomeShell"
             ]
         }
     },
@@ -4087,6 +4088,7 @@
             "root": "fbmessenger",
             "symlinks": [
                 "Caprine",
+                "caprine",
                 "FacebookMessenger-facebook.com",
                 "messengerfordesktop"
             ]
@@ -4975,7 +4977,10 @@
     },
     "Gitter": {
         "linux": {
-            "root": "Gitter"
+            "root": "Gitter",
+            "symlinks": [
+                "gitter"
+            ]
         }
     },
     "gkdebconf": {
@@ -5412,7 +5417,10 @@
     },
     "gnome-twofactorauth": {
         "linux": {
-            "root": "gnome-twofactorauth"
+            "root": "gnome-twofactorauth",
+            "symlinks": [
+                "org.gnome.Authenticator"
+            ]
         }
     },
     "gnome-video-arcade": {
@@ -5952,12 +5960,18 @@
     },
     "gtk3-demo": {
         "linux": {
-            "root": "gtk3-demo"
+            "root": "gtk3-demo",
+            "symlinks": [
+                "gtk4-demo"
+            ]
         }
     },
     "gtk3-widget-factory": {
         "linux": {
-            "root": "gtk3-widget-factory"
+            "root": "gtk3-widget-factory",
+            "symlinks": [
+                "gtk4-widget-factory"
+            ]
         }
     },
     "gtkdialog": {
@@ -6279,7 +6293,10 @@
     },
     "hyperterm": {
         "linux": {
-            "root": "hyperterm"
+            "root": "hyperterm",
+            "symlinks": [
+                "hyper"
+            ]
         }
     },
     "i-nex-128": {
@@ -6407,6 +6424,7 @@
         "linux": {
             "root": "indicator-weather",
             "symlinks": [
+                "gis-weather",
                 "gnome-weather",
                 "org.gnome.Weather",
                 "org.gnome.Weather.Application",
@@ -7761,7 +7779,10 @@
     },
     "lollypop": {
         "linux": {
-            "root": "lollypop"
+            "root": "lollypop",
+            "symlinks": [
+                "org.gnome.Lollypop"
+            ]
         }
     },
     "love-app": {
@@ -9102,7 +9123,10 @@
     },
     "openlugaru": {
         "linux": {
-            "root": "openlugaru"
+            "root": "openlugaru",
+            "symlinks": [
+                "lugaru"
+            ]
         }
     },
     "openmw": {
@@ -11202,7 +11226,11 @@
     },
     "seafile": {
         "linux": {
-            "root": "seafile"
+            "root": "seafile",
+            "symlinks": [
+                "seafile-client",
+                "seafile-client-qt5"
+            ]
         }
     },
     "seahorse": {
@@ -11272,6 +11300,11 @@
     "sencha-animator": {
         "linux": {
             "root": "sencha-animator"
+        }
+    },
+    "semaphor": {
+        "linux": {
+            "root": "semaphor"
         }
     },
     "serialplot": {
