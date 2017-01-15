@@ -15,9 +15,9 @@ from json import load
 from os import listdir, makedirs, path, symlink
 from shutil import copy2, rmtree
 from subprocess import PIPE, Popen, call
-from gi import require_version
-require_version('Rsvg', '2.0')
 try:
+    from gi import require_version
+    require_version('Rsvg', '2.0')
     from gi.repository import Rsvg
     from cairo import ImageSurface, Context, FORMAT_ARGB32
     use_inkscape = False
