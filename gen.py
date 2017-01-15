@@ -176,7 +176,7 @@ elif platform == "osx":
         ink_flag = call(['which', 'png2icns'], stdout=PIPE, stderr=PIPE)
         if ink_flag != 0:
             raise PNG2IcnsNotInstalled
-    except (FileNotFoundError, PNG2IcnsNotInstalled):
+    except PNG2IcnsNotInstalled:
         exit("You will need png2icns in order to generate OSX theme")
 
     osx_dir = "numix-{0}.icns".format(theme)
