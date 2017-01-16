@@ -125,7 +125,11 @@ else:
 
 
 # Only certain icon sizes may be covered
-sizes = listdir(path.join("icons", theme))
+try:
+    sizes = listdir(path.join("icons", theme))
+except FileNotFoundError:
+    exit("The theme {0} does not exists.Please reclone" 
+        "the repository and try again.".format(theme))
 
 
 # The Generation Stuff
