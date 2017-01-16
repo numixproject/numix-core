@@ -8790,7 +8790,8 @@
             "bfb": "launcher_bfb_numix",
             "symlinks": [
                 "gtk3-icon-browser",
-                "preferences-desktop-icons"
+                "preferences-desktop-icons",
+                "gtk4-icon-browser"
             ]
         }
     },
@@ -11297,14 +11298,14 @@
             ]
         }
     },
-    "sencha-animator": {
-        "linux": {
-            "root": "sencha-animator"
-        }
-    },
     "semaphor": {
         "linux": {
             "root": "semaphor"
+        }
+    },
+    "sencha-animator": {
+        "linux": {
+            "root": "sencha-animator"
         }
     },
     "serialplot": {
@@ -11715,6 +11716,7 @@
                 "spotify-linux-48x48",
                 "spotify-linux-512x512",
                 "spotify-web-player",
+                "spotifywebplayer",
                 "web-spotify"
             ]
         }
