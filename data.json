@@ -2841,7 +2841,10 @@
     },
     "cryptote": {
         "linux": {
-            "root": "cryptote"
+            "root": "cryptote",
+            "symlinks": [
+                "encryptpad"
+            ]
         }
     },
     "crystal-picnic": {
