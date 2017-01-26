@@ -4150,7 +4150,10 @@
     },
     "feedreader": {
         "linux": {
-            "root": "feedreader"
+            "root": "feedreader",
+            "symlinks": [
+               "org.gnome.feedreader"
+            ]
         }
     },
     "ffmulticonverter": {
