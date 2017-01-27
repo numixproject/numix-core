@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg29" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" version="1.1">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg29" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
  <metadata id="metadata33">
   <rdf:RDF>
    <cc:Work rdf:about="">
@@ -10,9 +10,9 @@
   </rdf:RDF>
  </metadata>
  <defs id="defs7">
-  <linearGradient id="linearGradient3764" x1="1" x2="47" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0 -1 1 0 -.0000015 48)">
-   <stop id="stop2" style="stop-color:#f2a2ab" offset="0"/>
-   <stop id="stop4" offset="1" style="stop-color:#f5b3b9"/>
+  <linearGradient id="linearGradient3764" x1="1" x2="47" gradientTransform="matrix(0 -1 1 0 -1.5e-6 48)" gradientUnits="userSpaceOnUse">
+   <stop id="stop2" style="stop-color:#c6c6c6" offset="0"/>
+   <stop id="stop4" style="stop-color:#d0d0d0" offset="1"/>
   </linearGradient>
  </defs>
  <g id="g15">
@@ -26,9 +26,9 @@
  <g id="g23">
   <path id="path21" d="m40.03 7.531c3.712 4.084 5.969 9.514 5.969 15.469 0 12.703-10.297 23-23 23-5.954 0-11.384-2.256-15.469-5.969 4.178 4.291 10.01 6.969 16.469 6.969 12.703 0 23-10.298 23-23 0-6.462-2.677-12.291-6.969-16.469z" style="opacity:.1"/>
  </g>
- <path id="rect4508" style="opacity:.1" d="m14 13c-0.554 0-1 0.446-1 1v6c0 0.554 0.446 1 1 1-0.554 0-1 0.446-1 1v14c0 0.554 0.446 1 1 1h6c0.554 0 1-0.446 1-1 0 0.554 0.446 1 1 1h14c0.554 0 1-0.446 1-1v-6c0-0.554-0.446-1-1-1 0.554 0 1-0.446 1-1v-14c0-0.554-0.446-1-1-1h-6c-0.554 0-1 0.446-1 1 0-0.554-0.446-1-1-1zm15 7v8c0 0.554 0.446 1 1 1h-8c-0.554 0-1 0.446-1 1v-8c0-0.554-0.446-1-1-1h8c0.554 0 1-0.446 1-1z"/>
- <rect id="rect4489" style="fill:#4c4c4c" width="8" height="16" x="12" y="20" ry="1"/>
- <rect id="rect4491" style="fill:#f5d767" width="16" height="8" x="20" y="28" ry="1"/>
- <rect id="rect4493" style="fill:#1781c7" width="16" height="8" x="12" y="12" ry="1"/>
- <rect id="rect4495" style="fill:#e547c9" width="8" height="16" x="28" y="12" ry="1"/>
+ <path id="rect4508" d="m14 13c-0.554 0-1 0.446-1 1v6c0 0.554 0.446 1 1 1-0.554 0-1 0.446-1 1v14c0 0.554 0.446 1 1 1h6c0.554 0 1-0.446 1-1 0 0.554 0.446 1 1 1h14c0.554 0 1-0.446 1-1v-6c0-0.554-0.446-1-1-1 0.554 0 1-0.446 1-1v-14c0-0.554-0.446-1-1-1h-6c-0.554 0-1 0.446-1 1 0-0.554-0.446-1-1-1zm15 7v8c0 0.554 0.446 1 1 1h-8c-0.554 0-1 0.446-1 1v-8c0-0.554-0.446-1-1-1h8c0.554 0 1-0.446 1-1z" style="opacity:.1"/>
+ <rect id="rect4489" x="12" y="20" width="8" height="16" ry="1" style="fill:#3a3a3a"/>
+ <rect id="rect4491" x="20" y="28" width="16" height="8" ry="1" style="fill:#f3d441"/>
+ <rect id="rect4493" x="12" y="12" width="16" height="8" ry="1" style="fill:#146eaa"/>
+ <rect id="rect4495" x="28" y="12" width="8" height="16" ry="1" style="fill:#e235c4"/>
 </svg>
