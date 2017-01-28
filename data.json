@@ -5952,7 +5952,10 @@
     },
     "gthumb": {
         "linux": {
-            "root": "gthumb"
+            "root": "gthumb",
+            "symlinks": [
+                "pix"
+            ]
         }
     },
     "gtick": {
