@@ -2015,8 +2015,9 @@
     },
     "calendar-red-31": {
         "linux": {
-            "root": "calendar-red-31",
+            "root": "office-calendar",
             "symlinks": [
+                "calendar-red-31",
                 "date",
                 "dates",
                 "dayfolder",
@@ -2024,7 +2025,6 @@
                 "gnome-mime-text-x-vcalendar",
                 "gnome-planner",
                 "korganizer",
-                "office-calendar",
                 "office-date",
                 "org.gnome.Calendar",
                 "plan",
