@@ -105,7 +105,7 @@ def convert_svg2png(infile, outfile, w, h):
 try:
     sizes = listdir("icons/" + theme)
 except FileNotFoundError:
-    exit("The theme {0} does not exists.Please reclone" 
+    exit("The theme {0} does not exists. Please reclone" 
         "the repository and try again.".format(theme))
 
 
