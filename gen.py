@@ -12,16 +12,15 @@ from argparse import ArgumentParser
 from io import BytesIO
 from json import load
 from os import listdir, makedirs, path, symlink
-from shutil import copy2, move, rmtree
+from shutil import copy2, rmtree
 from subprocess import PIPE, Popen, call
-
-from gi import require_version
-require_version('Rsvg', '2.0')
 try:
+    from gi import require_version
+    require_version('Rsvg', '2.0')
     from gi.repository import Rsvg
-    import cairo
+    from cairo import ImageSurface, Context, FORMAT_ARGB32
     use_inkscape = False
-except (ImportError, AttributeError):
+except (ImportError, AttributeError, ValueError):
     ink_flag = call(['which', 'inkscape'], stdout=PIPE, stderr=PIPE)
     if ink_flag == 0:
         use_inkscape = True
@@ -55,14 +54,14 @@ args = parser.parse_args()
 # User selects the theme
 if not args.theme:
     exit("Please use --theme argument with one of the following: " +
-         ", ".join(themes) + "\n")
+         ", ".join(themes))
 else:
     theme = args.theme
 
 # User selects the platform
 if not args.platform:
     exit("Please use --platform argument with one of the following: " +
-         ", ".join(platforms) + "\n")
+         ", ".join(platforms))
 else:
     platform = args.platform
 
@@ -88,8 +87,8 @@ def convert_svg2png(infile, outfile, w, h):
         svg = handle.new_from_file(infile)
         dim = svg.get_dimensions()
 
-        img = cairo.ImageSurface(cairo.FORMAT_ARGB32, w, h)
-        ctx = cairo.Context(img)
+        img = ImageSurface(FORMAT_ARGB32, w, h)
+        ctx = Context(img)
         ctx.scale(w / dim.width, h / dim.height)
         svg.render_cairo(ctx)
 
@@ -103,7 +102,11 @@ def convert_svg2png(infile, outfile, w, h):
 
 
 # Only certain icon sizes may be covered
-sizes = listdir("icons/" + theme)
+try:
+    sizes = listdir("icons/" + theme)
+except FileNotFoundError:
+    exit("The theme {0} does not exists.Please reclone" 
+        "the repository and try again.".format(theme))
 
 
 # The Generation Stuff
@@ -146,12 +149,9 @@ elif platform == "osx":
     odir = "numix-{0}.icns/".format(theme)
     for ext in ["icns", "pngs", "vectors"]:
         mkdir(odir + ext)
-    try:
         ink_flag = call(['which', 'png2icns'], stdout=PIPE, stderr=PIPE)
         if ink_flag != 0:
-            raise Exception
-    except (FileNotFoundError, Exception):
-        exit("You will need png2icns in order to generate OSX theme")
+            exit("You will need png2icns in order to generate OSX theme")
     for icon in icons:
         for name in icons[icon].get("osx", []):
             if path.exists("icons/" + theme + "/48/" + icon + ".svg"):
@@ -163,5 +163,4 @@ elif platform == "osx":
                       odir + "pngs/" + name + ".png"],
                      stdout=PIPE, stderr=PIPE)
 # Clean Up
-print("Done!\n")
-exit(0)
+exit("Done!\n")
