@@ -103,7 +103,7 @@ def convert_svg2png(infile, outfile, w, h):
 
 # Only certain icon sizes may be covered
 try:
-    sizes = listdir("icons/" + theme)
+    sizes = listdir(path.join("icons", theme))
 except FileNotFoundError:
     exit("The theme {0} does not exists. Please reclone" 
         "the repository and try again.".format(theme))
@@ -112,55 +112,56 @@ except FileNotFoundError:
 # The Generation Stuff
 if platform == "android":
     print("\nGenerating Android theme...")
-    adir = "com.numix.icons_{0}/".format(theme)
-    adir_extra = "MainActivity22/app/src/main/res/drawable-xxhdpi/"
-    adir = adir + adir_extra
-    mkdir(adir)
+    android_dir = path.join("com.numix.icons_{0}".format(theme), "MainActivity22", "app", "src", "main", "res", "drawable-xxhdpi")
+    mkdir(android_dir)
     for icon in icons:
         for name in icons[icon].get("android", []):
             name = name.replace("_", ".")
-            if path.exists("icons/" + theme + "/48/" + icon + ".svg"):
-                convert_svg2png("icons/" + theme + "/48/" + icon + ".svg",
-                                adir + name + ".png", 192, 192)
+            source = path.join("icons", theme, "48", "{0}.svg".format(icon))
+            output = path.join(android_dir, "{0}.png".format(name))
+            if path.exists(source):
+                convert_svg2png(source, output, 192, 192)
 elif platform == "linux":
     print("\nGenerating Linux theme...")
-    ldir = "numix-icon-theme-{0}/Numix-{1}/".format(theme, theme.title())
+    linux_dir = path.join("numix-icon-theme-{0}".format(theme), "Numix-{0}".format(theme.title()))
     for size in sizes:
-        mkdir(ldir + size + "/apps")
+        mkdir(path.join(linux_dir, size, "apps"))
     for icon in icons:
         if "linux" in icons[icon].keys():
             for size in sizes:
-                root = icons[icon]["linux"]["root"] + ".svg"
-                if path.exists("icons/" + theme + "/" + size + "/" + icon + ".svg"):
+                root = "{0}.svg".format(icons[icon]["linux"]["root"])
+                source = path.join("icons", theme, size, "{0}.svg".format(icon))
+                output = path.join(linux_dir, size, "apps", root)
+                if path.exists(source):
                     if "bfb" in icons[icon]["linux"].keys():
+                        output_bfb = path.join(linux_dir, size, "apps", "{0}.png".format(icons[icon]["linux"]["bfb"]))
                         if int(size) == 48:
-                            convert_svg2png("icons/" + theme + "/" + size + "/" +
-                                            icon + ".svg", ldir + size + "/apps/" + icons[icon]["linux"]["bfb"] + ".png", 144, 144)
-                    copy2("icons/" + theme + "/" + size + "/" + icon + ".svg",
-                          ldir + size + "/apps/" + root)
+                            convert_svg2png(source, output_bfb, 144, 144)
+                    copy2(source, output)
                     for link in icons[icon]["linux"].get("symlinks", []):
+                        output_symlink = path.join(linux_dir, size, "apps", "{0}.svg".format(link))
                         try:
-                            symlink(root,
-                                    ldir + size + "/apps/" + link + ".svg")
+                            symlink(root, output_symlink)
                         except FileExistsError:
                             continue
 elif platform == "osx":
     print("\nGenerating OSX theme...")
-    odir = "numix-{0}.icns/".format(theme)
-    for ext in ["icns", "pngs", "vectors"]:
-        mkdir(odir + ext)
-        ink_flag = call(['which', 'png2icns'], stdout=PIPE, stderr=PIPE)
-        if ink_flag != 0:
-            exit("You will need png2icns in order to generate OSX theme")
+    ink_flag = call(['which', 'png2icns'], stdout=PIPE, stderr=PIPE)
+    if ink_flag != 0:
+        exit("You will need png2icns in order to generate OSX theme")
+    osx_dir = path.join("numix-{0}.icns".format(theme), "")
+    osx_sub_dirs = ["icns", "pngs", "vectors"]
+    for sub_dir in osx_sub_dirs:
+        mkdir(path.join(osx_dir, sub_dir, "")) 
     for icon in icons:
         for name in icons[icon].get("osx", []):
-            if path.exists("icons/" + theme + "/48/" + icon + ".svg"):
-                copy2("icons/" + theme + "48/" + icon + ".svg",
-                      odir + "vectors/" + name + ".svg")
-                convert_svg2png("icons/" + theme + "/48/" + icon + ".svg",
-                                odir + "pngs/" + name + ".png", 1024, 1024)
-                call(["png2icns", odir + "icns/" + name + ".icn",
-                      odir + "pngs/" + name + ".png"],
-                     stdout=PIPE, stderr=PIPE)
+            source = path.join("icons", theme, "48", "{0}.svg".format(icon))
+            output_svg = path.join(osx_dir, "vectors", "{0}.svg".format(icon))
+            output_png = path.join(osx_dir, "pngs", "{0}.png".format(icon))
+            output_icn = path.join(osx_dir, "icns", "{0}.icn".format(icon))
+            if path.exists(source):
+                copy2(source, output_svg)
+                convert_svg2png(source, output_png, 1024, 1024)
+                call(["png2icns", output_icn, output_png], stdout=PIPE, stderr=PIPE)
 # Clean Up
 exit("Done!\n")
