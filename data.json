@@ -75,6 +75,11 @@
             ]
         }
     },
+    "abricotine": {
+        "linux": {
+            "root": "abricotine"
+        }
+    },
     "abrowser": {
         "linux": {
             "root": "abrowser"
@@ -2010,8 +2015,9 @@
     },
     "calendar-red-31": {
         "linux": {
-            "root": "calendar-red-31",
+            "root": "office-calendar",
             "symlinks": [
+                "calendar-red-31",
                 "date",
                 "dates",
                 "dayfolder",
@@ -2019,7 +2025,6 @@
                 "gnome-mime-text-x-vcalendar",
                 "gnome-planner",
                 "korganizer",
-                "office-calendar",
                 "office-date",
                 "org.gnome.Calendar",
                 "plan",
@@ -2841,7 +2846,10 @@
     },
     "cryptote": {
         "linux": {
-            "root": "cryptote"
+            "root": "cryptote",
+            "symlinks": [
+                "encryptpad"
+            ]
         }
     },
     "crystal-picnic": {
@@ -3844,6 +3852,11 @@
             ]
         }
     },
+    "electron": {
+        "linux": {
+            "root": "electron"
+        }
+    },
     "electrum": {
         "linux": {
             "root": "electrum"
@@ -4137,7 +4150,10 @@
     },
     "feedreader": {
         "linux": {
-            "root": "feedreader"
+            "root": "feedreader",
+            "symlinks": [
+               "org.gnome.feedreader"
+            ]
         }
     },
     "ffmulticonverter": {
@@ -5527,6 +5543,11 @@
             "root": "godot"
         }
     },
+    "gogglesmm": {
+        "linux": {
+            "root": "gogglesmm"
+        }
+    },
     "goldendict": {
         "linux": {
             "root": "goldendict"
@@ -5548,6 +5569,11 @@
             "symlinks": [
                 "kscd"
             ]
+        }
+    },
+    "goodvibes": {
+        "linux": {
+            "root": "goodvibes"
         }
     },
     "google-chrome": {
@@ -5926,7 +5952,10 @@
     },
     "gthumb": {
         "linux": {
-            "root": "gthumb"
+            "root": "gthumb",
+            "symlinks": [
+                "pix"
+            ]
         }
     },
     "gtick": {
@@ -6307,6 +6336,11 @@
             ]
         }
     },
+    "i-score": {
+        "linux": {
+            "root": "i-score"
+        }
+    },
     "i2prouter": {
         "linux": {
             "root": "i2prouter"
@@ -6556,6 +6590,7 @@
         "linux": {
             "root": "irssi"
         }
+
     },
     "ispconfig": {
         "linux": {
@@ -6938,7 +6973,8 @@
         "linux": {
             "root": "keepassx",
             "symlinks": [
-                "keepassx2"
+                "keepassx2",
+                "keepassxc"
             ]
         }
     },
@@ -7856,6 +7892,11 @@
             "root": "lxmusic"
         }
     },
+    "lyricfier": {
+        "linux": {
+            "root": "lyricfier"
+        }
+    },
     "lyx": {
         "linux": {
             "root": "lyx"
@@ -8566,6 +8607,11 @@
             "root": "navit"
         }
     },
+    "ndm": {
+        "linux": {
+            "root": "ndm"
+        }
+    },
     "nemiver": {
         "linux": {
             "root": "nemiver",
@@ -9100,6 +9146,11 @@
             "symlinks": [
                 "openarena128"
             ]
+        }
+    },
+    "openbazaar": {
+        "linux": {
+            "root": "openbazaar"
         }
     },
     "openbravo-erp": {
@@ -9720,7 +9771,8 @@
                 "chrome-fpniocchabmgenibceglhnfeimmdhdfm-Default",
                 "openpht",
                 "plex",
-                "plex-icon-256"
+                "plex-icon-256",
+                "plex-media-player"
             ]
         }
     },
@@ -11298,11 +11350,6 @@
             ]
         }
     },
-    "semaphor": {
-        "linux": {
-            "root": "semaphor"
-        }
-    },
     "sencha-animator": {
         "linux": {
             "root": "sencha-animator"
@@ -11334,6 +11381,11 @@
             "symlinks": [
                 "setBfree"
             ]
+        }
+    },
+    "semaphor": {
+        "linux": {
+            "root": "semaphor"
         }
     },
     "setroubleshoot_icon": {
@@ -11424,6 +11476,19 @@
     "sirikali": {
         "linux": {
             "root": "sirikali"
+        }
+    },
+    "sk1": {
+        "linux": {
+            "root": "sk1"
+        }
+    },
+    "skifra": {
+        "linux": {
+            "root": "skifra",
+            "symlinks": [
+                "Skifra"
+            ]
         }
     },
     "skrooge": {
@@ -12941,6 +13006,14 @@
             ]
         }
     },
+    "temps": {
+        "linux": {
+            "root": "temps",
+            "symlinks": [
+                "Temps"
+            ]
+        }
+    },
     "terminal": {
         "linux": {
             "root": "terminal",
@@ -13751,6 +13824,11 @@
             "root": "vidalia"
         }
     },
+    "vidcutter": {
+        "linux": {
+            "root": "vidcutter"
+        }
+    },
     "view3dscene": {
         "linux": {
             "root": "view3dscene"
@@ -14208,7 +14286,8 @@
             "root": "web-pushbullet",
             "symlinks": [
                 "chrome-chlffgpmiacpedhhbkiomidkjlcfhogd-Default",
-                "pushbullet-indicator"
+                "pushbullet-indicator",
+                "pb-for-desktop"
             ]
         }
     },
@@ -14273,6 +14352,7 @@
             "symlinks": [
                 "chrome-bgkodfmeijboinjdegggmkbkjfiagaan-Default",
                 "whatsappfordesktop",
+                "whatsapp-desktop",
                 "whatsapp"
             ]
         }
@@ -14425,6 +14505,11 @@
     "winpdb": {
         "linux": {
             "root": "winpdb"
+        }
+    },
+    "wire": {
+        "linux": {
+            "root": "wire"
         }
     },
     "wireframe-sketcher": {
@@ -14836,6 +14921,12 @@
     "yandex-browser-beta": {
         "linux": {
             "root": "yandex-browser-beta"
+        }
+    },
+
+    "yaourtgui": {
+        "linux": {
+            "root": "yaourtgui"
         }
     },
     "yast": {
