@@ -3398,7 +3398,10 @@
     },
     "distributor-logo-lfs": {
         "linux": {
-            "root": "distributor-logo-lfs"
+            "root": "distributor-logo-lfs",
+            "symlinks": [
+                "ukuu"
+            ]
         }
     },
     "distributor-logo-lubuntu": {
