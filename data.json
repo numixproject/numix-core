@@ -6959,7 +6959,10 @@
     },
     "kdiff3": {
         "linux": {
-            "root": "kdiff3"
+            "root": "kdiff3",
+            "symlinks": [
+                "compared"
+            ]
         }
     },
     "keepass": {
