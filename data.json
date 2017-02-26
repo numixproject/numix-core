@@ -5727,7 +5727,10 @@
     },
     "gottengeography": {
         "linux": {
-            "root": "gottengeography"
+            "root": "gottengeography",
+            "symlinks": [
+                "mapollage"
+            ]
         }
     },
     "gourmet": {
