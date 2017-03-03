@@ -4302,6 +4302,14 @@
             ]
         }
     },
+    "firetools": {
+        "linux": {
+            "root": "firetools",
+            "symlinks": [
+                "firejail-ui"
+            ]
+        }
+    },
     "firewall": {
         "linux": {
             "root": "firewall",
