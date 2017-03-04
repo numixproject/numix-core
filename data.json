@@ -14632,7 +14632,10 @@
     },
     "Writefull": {
         "linux": {
-            "root": "Writefull"
+            "root": "Writefull",
+            "symlinks": [
+            	"writefull"
+            ]
         }
     },
     "wuala": {
