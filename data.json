@@ -7424,7 +7424,10 @@
     },
     "kwordquiz": {
         "linux": {
-            "root": "kwordquiz"
+            "root": "kwordquiz",
+            "symlinks": [
+                "wordflow"
+            ]
         }
     },
     "kwplayer": {
