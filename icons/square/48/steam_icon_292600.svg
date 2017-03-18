@@ -2,6 +2,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1"
      viewBox="0 0 48 48">
   <defs>
+    <linearGradient id="background" gradientUnits="userSpaceOnUse"
+                    x1="50%" y1="1"
+                    x2="50%" y2="47">
+      <stop offset="0" stop-opacity="1" stop-color="#2A2A2A"/>
+      <stop offset="47" stop-opacity="1" stop-color="#202020"/>
+    </linearGradient>
     <linearGradient id="blue-shadow" stop-color="#00AAFF"
                     x1="50%" y1="15%"
                     x2="50%" y2="75%">
@@ -32,7 +38,7 @@
     <path opacity=".02" d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4zm0 0.5v0.5c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.5c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z"/>
     <path opacity=".05" d="m1 43.25v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z"/>
     <path opacity=".1" d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z"/>
-    <rect fill="#202020" rx="4" height="46" width="46" y="1" x="1"/>
+    <rect fill="url(#background)" rx="4" height="46" width="46" y="1" x="1"/>
     <path opacity=".1" d="m1 39v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z"/>
   </g>
   <!-- Dropped shadow -->
