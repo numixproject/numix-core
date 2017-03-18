@@ -9552,7 +9552,11 @@
     },
     "peek": {
         "linux": {
-            "root": "peek"
+            "root": "peek",
+            "symlinks": [
+                "com.uploadedlobster.peek"
+            ]
+              
         }
     },
     "peerio-client": {
@@ -13090,7 +13094,8 @@
         "linux": {
             "root": "terminix",
             "symlinks": [
-                "com.gexperts.Terminix"
+                "com.gexperts.Terminix",
+                "com.gexperts.Tilix"
             ]
         }
     },
