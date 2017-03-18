@@ -43,15 +43,15 @@
   </g>
   <!-- Dropped shadow -->
   <g transform="rotate(-30 24 24)" opacity="0.1" fill="black">
-    <path d="M24,9 A15,15 0 0,0 24,39 A11,11 0 1,1 24,17" fill="url(#red-shadow-shadow)"/>
-    <path d="M24,39 A15,15 0 0,0 24,9 A11,11 0 1,1 24,31" fill="url(#blue-shadow-shadow)"/>
+    <path d="m24,9 a15,15 0 0,0 0,30 a11,11 0 1,1 0,-22" fill="url(#red-shadow-shadow)"/>
+    <path d="m24,39 a15,15 0 0,0 0,-30 a11,11 0 1,1 0,22" fill="url(#blue-shadow-shadow)"/>
     <circle cx="24" cy="13" r="4"/>
     <circle cx="24" cy="35" r="4"/>
   </g>
   <!-- Symbol -->
   <g transform="translate(0-1) rotate(-30 24 24)">
-    <path d="M24,9 A15,15 0 0,0 24,39 A11,11 0 1,1 24,17" fill="url(#red-shadow)"/>
-    <path d="M24,39 A15,15 0 0,0 24,9 A11,11 0 1,1 24,31" fill="url(#blue-shadow)"/>
+    <path d="m24,9 a15,15 0 0,0 0,30 a11,11 0 1,1 0,-22" fill="url(#red-shadow)"/>
+    <path d="m24,39 a15,15 0 0,0 0,-30 a11,11 0 1,1 0,22" fill="url(#blue-shadow)"/>
     <circle cx="24" cy="13" r="4" fill="#EE1111"/>
     <circle cx="24" cy="35" r="4" fill="#00AAFF"/>
   </g>
