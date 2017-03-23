@@ -7747,7 +7747,10 @@
     },
     "livestreamer-twitch-gui": {
         "linux": {
-            "root": "livestreamer-twitch-gui"
+            "root": "livestreamer-twitch-gui",
+            "symlinks": [
+                "streamlink-twitch-gui"
+            ]
         }
     },
     "liveusb-creator": {
