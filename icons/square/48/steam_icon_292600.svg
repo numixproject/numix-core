@@ -33,7 +33,6 @@
       <stop offset="1" stop-opacity="0" stop-color="inherit"/>
     </linearGradient>
   </defs>
-  <!-- Background -->
   <g>
     <path opacity=".02" d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4zm0 0.5v0.5c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.5c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z"/>
     <path opacity=".05" d="m1 43.25v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z"/>
@@ -41,14 +40,12 @@
     <rect fill="url(#background)" rx="4" height="46" width="46" y="1" x="1"/>
     <path opacity=".1" d="m1 39v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z"/>
   </g>
-  <!-- Dropped shadow -->
   <g opacity="0.1" fill="black">
     <path d="m24,9 a15,15 0 0,0 0,30 a11,11 0 1,1 0,-22" fill="url(#red-shadow-shadow)"/>
     <path d="m24,39 a15,15 0 0,0 0,-30 a11,11 0 1,1 0,22" fill="url(#blue-shadow-shadow)"/>
     <circle cx="24" cy="13" r="4"/>
     <circle cx="24" cy="35" r="4"/>
   </g>
-  <!-- Symbol -->
   <g transform="translate(0-1)">
     <path d="m24,9 a15,15 0 0,0 0,30 a11,11 0 1,1 0,-22" fill="url(#red-shadow)"/>
     <path d="m24,39 a15,15 0 0,0 0,-30 a11,11 0 1,1 0,22" fill="url(#blue-shadow)"/>
