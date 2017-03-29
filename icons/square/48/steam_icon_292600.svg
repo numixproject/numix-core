@@ -18,7 +18,7 @@
                     x1="50%" y1="15%"
                     x2="50%" y2="75%">
       <stop offset="0" stop-opacity="0" stop-color="inherit"/>
-      <stop offset="1" stop-opacity="0.5" stop-color="inherit"/>
+      <stop offset="1" stop-opacity="0.1" stop-color="inherit"/>
     </linearGradient>
     <linearGradient id="red-shadow" stop-color="#EE2211"
                     x1="50%" y1="25%"
@@ -29,7 +29,7 @@
     <linearGradient id="red-shadow-shadow"
                     x1="50%" y1="25%"
                     x2="50%" y2="85%">
-      <stop offset="0" stop-opacity="0.5" stop-color="inherit"/>
+      <stop offset="0" stop-opacity="0.1" stop-color="inherit"/>
       <stop offset="1" stop-opacity="0" stop-color="inherit"/>
     </linearGradient>
   </defs>
@@ -40,11 +40,9 @@
     <rect fill="url(#background)" rx="4" height="46" width="46" y="1" x="1"/>
     <path opacity=".1" d="m1 39v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z"/>
   </g>
-  <g opacity="0.1" fill="black">
-    <path d="m24,9 a15,15 0 0,0 0,30 a11,11 0 1,1 0,-22" fill="url(#red-shadow-shadow)"/>
-    <path d="m24,39 a15,15 0 0,0 0,-30 a11,11 0 1,1 0,22" fill="url(#blue-shadow-shadow)"/>
-    <circle cx="24" cy="13" r="4"/>
-    <circle cx="24" cy="35" r="4"/>
+  <g>
+    <path d="m24,9 a15,15 0 0,0 0,30 a11,11 0 1,1 0,-22 a4,4 0 0,0 0,-8" fill="url(#red-shadow-shadow)"/>
+    <path d="m24,39 a15,15 0 0,0 0,-30 a11,11 0 1,1 0,22 a4,4 0 0,0 0,8" fill="url(#blue-shadow-shadow)"/>
   </g>
   <g transform="translate(0-1)">
     <path d="m24,9 a15,15 0 0,0 0,30 a11,11 0 1,1 0,-22" fill="url(#red-shadow)"/>
