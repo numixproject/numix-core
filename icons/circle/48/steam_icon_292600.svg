@@ -3,34 +3,34 @@
      viewBox="0 0 48 48">
   <defs>
     <linearGradient id="background" gradientUnits="userSpaceOnUse"
-                    x1="50%" y1="1"
-                    x2="50%" y2="47">
-      <stop offset="0" stop-opacity="1" stop-color="#2A2A2A"/>
-      <stop offset="47" stop-opacity="1" stop-color="#202020"/>
+                    x1="24" y1="1"
+                    x2="24" y2="47">
+      <stop offset="0" stop-color="#2A2A2A"/>
+      <stop offset="1" stop-color="#202020"/>
     </linearGradient>
-    <linearGradient id="blue-shadow" stop-color="#00AAFF"
+    <linearGradient id="blue-shadow"
                     x1="50%" y1="15%"
                     x2="50%" y2="75%">
-      <stop offset="0" stop-opacity="0" stop-color="inherit"/>
-      <stop offset="1" stop-opacity="0.5" stop-color="inherit"/>
+      <stop offset="0" stop-opacity=".0" stop-color="#0AF"/>
+      <stop offset="1" stop-opacity=".5" stop-color="#0AF"/>
     </linearGradient>
     <linearGradient id="blue-shadow-shadow"
                     x1="50%" y1="15%"
                     x2="50%" y2="75%">
-      <stop offset="0" stop-opacity="0" stop-color="inherit"/>
-      <stop offset="1" stop-opacity="0.1" stop-color="inherit"/>
+      <stop offset="0" stop-opacity=".0"/>
+      <stop offset="1" stop-opacity=".1"/>
     </linearGradient>
-    <linearGradient id="red-shadow" stop-color="#EE2211"
+    <linearGradient id="red-shadow"
                     x1="50%" y1="25%"
                     x2="50%" y2="85%">
-      <stop offset="0" stop-opacity="0.5" stop-color="inherit"/>
-      <stop offset="1" stop-opacity="0" stop-color="inherit"/>
+      <stop offset="0" stop-opacity=".5" stop-color="#E21"/>
+      <stop offset="1" stop-opacity=".0" stop-color="#E21"/>
     </linearGradient>
     <linearGradient id="red-shadow-shadow"
                     x1="50%" y1="25%"
                     x2="50%" y2="85%">
-      <stop offset="0" stop-opacity="0.1" stop-color="inherit"/>
-      <stop offset="1" stop-opacity="0" stop-color="inherit"/>
+      <stop offset="0" stop-opacity=".1"/>
+      <stop offset="1" stop-opacity=".0"/>
     </linearGradient>
   </defs>
   <g>
@@ -47,7 +47,7 @@
   <g>
     <path d="m24,9 a15,15 0 0,0 0,30 a11,11 0 1,1 0,-22" fill="url(#red-shadow)"/>
     <path d="m24,39 a15,15 0 0,0 0,-30 a11,11 0 1,1 0,22" fill="url(#blue-shadow)"/>
-    <circle cx="24" cy="13" r="4" fill="#EE2211"/>
-    <circle cx="24" cy="35" r="4" fill="#00AAFF"/>
+    <circle cx="24" cy="13" r="4" fill="#E21"/>
+    <circle cx="24" cy="35" r="4" fill="#0AF"/>
   </g>
 </svg>
