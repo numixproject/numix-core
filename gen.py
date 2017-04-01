@@ -163,4 +163,4 @@ elif platform == "osx":
                 convert_svg2png(source, output_png, 1024, 1024)
                 call(["png2icns", output_icn, output_png], stdout=PIPE, stderr=PIPE)
 # Clean Up
-exit("Done!\n")
+print("Done!\n")
