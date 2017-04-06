@@ -1481,7 +1481,10 @@
     },
     "buddi": {
         "linux": {
-            "root": "buddi"
+            "root": "buddi",
+            "symlinks": [
+                "tilitin"
+            ]
         }
     },
     "budgie": {
