@@ -5453,7 +5453,10 @@
     },
     "gnome-twitch": {
         "linux": {
-            "root": "gnome-twitch"
+            "root": "gnome-twitch",
+            "symlinks": [
+                "com.vinszent.GnomeTwitch"
+            ]
         }
     },
     "gnome-twofactorauth": {
