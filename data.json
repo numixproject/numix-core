@@ -6186,7 +6186,11 @@
     },
     "hb-icon": {
         "linux": {
-            "root": "hb-icon"
+            "root": "hb-icon",
+            "symlinks": [
+                "handbrake",
+                "fr.handbrake.ghb"
+            ]
         }
     },
     "hedgewars": {
@@ -6337,10 +6341,7 @@
     },
     "hwbrowser": {
         "linux": {
-            "root": "hwbrowser",
-            "symlinks": [
-                "handbrake"
-            ]
+            "root": "hwbrowser"
         }
     },
     "hydrogen": {
