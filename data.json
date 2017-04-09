@@ -10612,6 +10612,7 @@
             "root": "qt",
             "symlinks": [
                 "qt4-logo",
+                "qt5-logo",
                 "qt4logo",
                 "qtcreator_logo_32",
                 "QtIcon"
@@ -10623,7 +10624,8 @@
             "root": "qtassistant",
             "symlinks": [
                 "assistant",
-                "assistant-qt4"
+                "assistant-qt4",
+                "assistant-qt5"
             ]
         }
     },
@@ -10636,7 +10638,8 @@
         "linux": {
             "root": "qtconfig",
             "symlinks": [
-                "qtconfig-qt4"
+                "qtconfig-qt4",
+                "qtconfig-qt5"
             ]
         }
     },
@@ -10663,6 +10666,7 @@
             "symlinks": [
                 "qdbusviewer",
                 "qdbusviewer-qt4",
+                "qdbusviewer-qt5",
                 "qdbusviewer5"
             ]
         }
@@ -10673,6 +10677,7 @@
             "symlinks": [
                 "designer",
                 "designer-qt4",
+                "designer-qt5",
                 "QtProject-designer"
             ]
         }
@@ -10691,6 +10696,7 @@
             "symlinks": [
                 "linguist",
                 "linguist-qt4",
+                "linguist-qt5",
                 "linguistic",
                 "qtlinguist"
             ]
