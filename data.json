@@ -9532,7 +9532,10 @@
     },
     "pcsx2": {
         "linux": {
-            "root": "pcsx2"
+            "root": "pcsx2",
+            "symlinks": [
+                "PCSX2"
+            ]
         }
     },
     "pd": {
