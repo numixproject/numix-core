@@ -8956,7 +8956,10 @@
     },
     "nylas": {
         "linux": {
-            "root": "nylas"
+            "root": "nylas",
+            "symlinks": [
+                "nylas-mail"
+            ]
         }
     },
     "obozrenie-short": {
