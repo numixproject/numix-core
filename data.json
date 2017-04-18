@@ -11957,7 +11957,10 @@
     },
     "starfighter": {
         "linux": {
-            "root": "starfighter"
+            "root": "starfighter",
+            "symlinks": [
+                "gog-stargunner"
+            ]
         }
     },
     "steadyflow": {
