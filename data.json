@@ -1715,10 +1715,10 @@
     },
     "calendar-blue-31": {
         "linux": {
-            "root": "calendar-blue-31",
+            "root": "google-calendar",
             "symlinks": [
                 "chrome-ejjicmeblgpmajnghnpcppodonldlgfn-Default",
-                "google-calendar",
+                "calendar-blue-31",
                 "unity-webapps-google-calendar",
                 "web-google-calendar"
             ]
@@ -1876,9 +1876,9 @@
     },
     "calendar-purple-31": {
         "linux": {
-            "root": "calendar-purple-31",
+            "root": "ms-calendar",
             "symlinks": [
-                "ms-calendar"
+                "calendar-purple-31"
             ]
         }
     },
