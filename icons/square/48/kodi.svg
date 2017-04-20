@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg width="48" height="48" version="1.1" viewBox="0 0 48 48.000001" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<svg width="48" height="48" version="1.1" viewBox="0 0 48 48.000001" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient4507" x1="-47" x2="-1" y1="24" y2="24" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#4b4b4b" offset="0"/>
+   <stop stop-color="#555" offset="1"/>
+  </linearGradient>
+ </defs>
  <metadata>
   <rdf:RDF>
    <cc:Work rdf:about="">
@@ -15,12 +20,12 @@
   <path d="m1 43.25v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" opacity=".05"/>
   <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" opacity=".1"/>
  </g>
- <rect transform="rotate(-90)" x="-47" y="1" width="46" height="46" rx="4" fill="#555"/>
+ <rect transform="rotate(-90)" x="-47" y="1" width="46" height="46" rx="4" fill="url(#linearGradient4507)"/>
  <g transform="translate(0 3.949e-5)">
   <g transform="translate(0 -1004.4)">
    <path d="m1 1043.4v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" opacity=".1"/>
   </g>
  </g>
- <path d="m23.857 10.286-5.7143 5.7143v11.429l11.429-11.429zm9.1429 9.1429-5.7143 5.7143 5.7143 5.7143 5.7143-5.7143zm-19.429 1.1429-4.5714 4.5714l4.5714 4.5714zm10.286 8-5.7143 5.7143l5.7143 5.7143 5.7143-5.7143z" opacity=".1"/>
- <path d="m23.857 8-5.7143 5.7143v11.429l11.429-11.429zm9.1429 9.1429-5.7143 5.7143 5.7143 5.7143 5.7143-5.7143zm-19.429 1.1429-4.5714 4.5714l4.5714 4.5714zm10.286 8l-5.7143 5.7143 5.7143 5.7143 5.7143-5.7143z" fill="#5fbcd3"/>
+ <path d="m24 11-5 5v10l10-10zm8 8-5 5 5 5 5-5zm-17 1-4 4 4 4zm9 7-5 5 5 5 5-5z" opacity=".1"/>
+ <path d="m24 10-5 5v10l10-10zm8 8-5 5 5 5 5-5zm-17 1-4 4 4 4zm9 7-5 5 5 5 5-5z" fill="#5fbcd3"/>
 </svg>
