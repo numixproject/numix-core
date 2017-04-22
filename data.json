@@ -11709,7 +11709,11 @@
     },
     "sm-ssc": {
         "linux": {
-            "root": "sm-ssc"
+            "root": "sm-ssc",
+            "symlinks": [
+                "stepmania",
+                "stepmania-ssc"
+            ]
         }
     },
     "smartgithg": {
