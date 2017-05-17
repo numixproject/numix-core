@@ -4036,7 +4036,10 @@
     },
     "etcher": {
         "linux": {
-            "root": "etcher"
+            "root": "etcher",
+            "symlinks": [
+                "etcher-electron"
+            ]
         }
     },
     "etherape": {
