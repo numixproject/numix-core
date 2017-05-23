@@ -14740,7 +14740,10 @@
     },
     "wire": {
         "linux": {
-            "root": "wire"
+            "root": "wire",
+            "symlinks": [
+                "wire-desktop"
+            ]
         }
     },
     "wireframe-sketcher": {
