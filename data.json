@@ -5488,6 +5488,14 @@
             ]
         }
     },
+    "gnome-usage": {
+        "linux": {
+            "root": "gnome-usage",
+            "symlinks": [
+                "org.gnome.Usage"
+            ]
+        }
+    },
     "gnome-video-arcade": {
         "linux": {
             "root": "gnome-video-arcade"
