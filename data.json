@@ -14213,7 +14213,10 @@
     },
     "vocal": {
         "linux": {
-            "root": "vocal"
+            "root": "vocal",
+            "symlinks:" [
+                "com.github.needle-and-thread.vocal"
+            ]
         }
     },
     "vollyball": {
