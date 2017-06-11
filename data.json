@@ -2040,6 +2040,7 @@
                 "date",
                 "dates",
                 "dayfolder",
+                "deepin-calendar",
                 "gnome-calendar",
                 "gnome-mime-text-x-vcalendar",
                 "gnome-planner",
@@ -2388,9 +2389,9 @@
             "root": "chrome-epionbmgciknkbdibokmpmcfllkdfeeo-Default"
         }
     },
-    "chrome-fgbjpbdfegnodokpoejnbhnblcojccal-Default": {
+    "chrome-fgbjpbdfegnodokpoejnbhnblcojccal-Default.svg": {
         "linux": {
-            "root": "chrome-fgbjpbdfegnodokpoejnbhnblcojccal-Default"
+            "root": "chrome-fgbjpbdfegnodokpoejnbhnblcojccal-Default.svg"
         }
     },
     "chrome-fhbjgbiflinjbdggehcddcbncdddomop-Default": {
@@ -3182,7 +3183,7 @@
                 "xfce-mouse",
                 "xfce4-logo",
                 "xfce4-panel-menu",
-                "xfce4_xicon"
+                "xfce4_xicon.svg"
             ]
         }
     },
@@ -4210,6 +4211,7 @@
             "root": "file-manager",
             "symlinks": [
                 "caja-actions",
+                "dde-file-manager",
                 "filerunner",
                 "Insight-FileManager",
                 "kfm",
@@ -5439,7 +5441,8 @@
         "linux": {
             "root": "gnome-sound-recorder",
             "symlinks": [
-                "audio-recorder"
+                "audio-recorder",
+                "deepin-vioce-recorder"
             ]
         }
     },
@@ -5913,7 +5916,10 @@
     },
     "green-recorder": {
         "linux": {
-            "root": "green-recorder"
+            "root": "green-recorder",
+            "symlinks": [
+                "deepin-screen-recorder"
+            ]
         }
     },
     "greenfoot": {
@@ -7496,6 +7502,7 @@
             "root": "kuickshow",
             "symlinks": [
                 "AdvancedPhoto",
+                "deepin-image-viewer",
                 "showimage",
                 "xviewer"
             ]
@@ -8598,7 +8605,10 @@
     },
     "multitasking-view": {
         "linux": {
-            "root": "multitasking-view"
+            "root": "multitasking-view",
+            "symlinks": [
+                "deepin-multitasking-view"
+            ]
         }
     },
     "mumble": {
@@ -11141,6 +11151,7 @@
             "root": "remote-desktop",
             "symlinks": [
                 "chrome-iabmpiboiopbgfabjmgeedhcmjenhbla-Default",
+                "deepin-remote-assistance",
                 "gnome-remote-desktop",
                 "krdc",
                 "krfb",
