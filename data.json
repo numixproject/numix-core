@@ -5592,7 +5592,10 @@
     },
     "godot": {
         "linux": {
-            "root": "godot"
+            "root": "godot",
+            "symlinks": [
+                "steam_icon_404790"
+            ]
         }
     },
     "gogglesmm": {
