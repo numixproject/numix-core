@@ -4680,7 +4680,10 @@
     },
     "fromscratch": {
         "linux": {
-            "root": "fromscratch"
+            "root": "fromscratch",
+            "symlinks": [
+                "com.github.lainsce.quilter"
+            ]
         }
     },
     "frostwire": {
