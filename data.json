@@ -2861,6 +2861,16 @@
             ]
         }
     },
+    "cryptobox-search": {
+        "linux": {
+            "root": "cryptobox-search"
+        }
+    },
+    "cryptobox-wizard": {
+        "linux": {
+            "root": "cryptobox-wizard"
+        }
+    },
     "cryptocat": {
         "linux": {
             "root": "cryptocat",
@@ -5578,6 +5588,21 @@
             ]
         }
     },
+    "gnupg-scripts-config": {
+        "linux": {
+            "root": "gnupg-scripts-config"
+        }
+    },
+    "gnupg-scripts-groups": {
+        "linux": {
+            "root": "gnupg-scripts-groups"
+        }
+    },
+    "gnupg-scripts-janitor": {
+        "linux": {
+            "root": "gnupg-scripts-janitor"
+        }
+    },
     "go-for-it": {
         "linux": {
             "root": "go-for-it"
@@ -8142,6 +8167,11 @@
     "masterpassword-gui": {
         "linux": {
             "root": "masterpassword-gui"
+        }
+    },
+    "mat": {
+        "linux": {
+            "root": "mat"
         }
     },
     "mate-panel-fish": {
@@ -13905,6 +13935,11 @@
     "usb-creator-kde": {
         "linux": {
             "root": "usb-creator-kde"
+        }
+    },
+    "usb-imagewriter-ng": {
+        "linux": {
+            "root": "usb-imagewriter-ng"
         }
     },
     "userinfo": {
