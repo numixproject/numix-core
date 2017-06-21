@@ -5,6 +5,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 48 48"
@@ -32,16 +33,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
+     inkscape:window-width="3840"
      inkscape:window-height="2033"
      id="namedview87"
      showgrid="false"
-     inkscape:zoom="16.708984"
-     inkscape:cx="22.481086"
-     inkscape:cy="32.892478"
-     inkscape:window-x="1920"
+     inkscape:zoom="29.259664"
+     inkscape:cx="18.698758"
+     inkscape:cy="20.277248"
+     inkscape:window-x="0"
      inkscape:window-y="55"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="g29">
     <inkscape:grid
        type="xygrid"
@@ -50,53 +51,26 @@
   <defs
      id="defs17">
     <linearGradient
-       id="linearGradient3764"
-       x1="1"
-       x2="47"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-48.000001,0.00221467)">
+       inkscape:collect="always"
+       id="linearGradient836">
       <stop
-         stop-color="#ff8f21"
-         stop-opacity="1"
-         id="stop2"
-         style="stop-color:#51627c;stop-opacity:1" />
+         style="stop-color:#51617b;stop-opacity:1"
+         offset="0"
+         id="stop832" />
       <stop
+         style="stop-color:#596b87;stop-opacity:1"
          offset="1"
-         stop-color="#ff9834"
-         stop-opacity="1"
-         id="stop4"
-         style="stop-color:#596b87;stop-opacity:1" />
+         id="stop834" />
     </linearGradient>
-    <clipPath
-       id="clipPath-366599503">
-      <g
-         transform="translate(0,-1004.3622)"
-         id="g9">
-        <rect
-           rx="4"
-           y="1005.36"
-           x="1"
-           height="46"
-           width="46"
-           fill="#1890d0"
-           id="rect7" />
-      </g>
-    </clipPath>
-    <clipPath
-       id="clipPath-380842787">
-      <g
-         transform="translate(0,-1004.3622)"
-         id="g14">
-        <rect
-           rx="4"
-           y="1005.36"
-           x="1"
-           height="46"
-           width="46"
-           fill="#1890d0"
-           id="rect12" />
-      </g>
-    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient836"
+       id="linearGradient838"
+       x1="-47"
+       y1="0"
+       x2="-1"
+       y2="0"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <g
      id="g25">
@@ -124,7 +98,8 @@
        transform="matrix(0,-1,1,0,0,0)"
        id="rect27"
        fill-opacity="1"
-       fill="url(#linearGradient3764)" />
+       fill="url(#linearGradient3764)"
+       style="fill:url(#linearGradient838);fill-opacity:1" />
     <circle
        r="13"
        cy="23"
