@@ -11214,7 +11214,10 @@
     },
     "ring": {
         "linux": {
-            "root": "ring"
+            "root": "ring",
+            "symlinks": [
+                "ring-kde"
+            ]
         }
     },
     "ristretto": {
