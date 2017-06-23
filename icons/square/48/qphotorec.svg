@@ -4,13 +4,6 @@
    <stop style="stop-color:#323232" offset="0"/>
    <stop style="stop-color:#3c3c3c" offset="1"/>
   </linearGradient>
-  <linearGradient id="linearGradient871" x1="9" x2="39" y1="22" y2="22" gradientTransform="translate(0,-2)" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#e53935" offset="0"/>
-   <stop style="stop-color:#ee6f0b" offset=".25"/>
-   <stop style="stop-color:#ffea00" offset=".5"/>
-   <stop style="stop-color:#66bb6a" offset=".75"/>
-   <stop style="stop-color:#29b6f6" offset="1"/>
-  </linearGradient>
  </defs>
  <g transform="translate(0 3.949e-5)">
   <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4zm0 0.5v0.5c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.5c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.02"/>
@@ -24,7 +17,13 @@
   </g>
  </g>
  <path d="M 39,23 A 15,15 0 0 1 24,38 15,15 0 0 1 9,23 15,15 0 0 1 24,8 15,15 0 0 1 39,23 Z" style="fill-rule:evenodd;opacity:.1;paint-order:markers stroke fill"/>
- <path d="M 39,22 A 15,15 0 0 1 24,37 15,15 0 0 1 9,22 15,15 0 0 1 24,7 15,15 0 0 1 39,22 Z" style="fill-rule:evenodd;fill:url(#linearGradient871);paint-order:markers stroke fill"/>
+ <g transform="translate(0,-2)">
+  <path d="m15 12.018a15 15 0 0 0 -6 11.982 15 15 0 0 0 6 11.977z" style="fill-rule:evenodd;fill:#ff8656"/>
+  <path d="m21 9.3203a15 15 0 0 0 -6 2.6973v23.959a15 15 0 0 0 6 2.7188z" style="fill-rule:evenodd;fill:#ffbd56"/>
+  <path d="m24 9a15 15 0 0 0 -3 0.32031v29.375a15 15 0 0 0 3 0.30469 15 15 0 0 0 3 -0.32031v-29.375a15 15 0 0 0 -3 -0.30469z" style="fill-rule:evenodd;fill:#fffe69"/>
+  <path d="m27 9.3047v29.375a15 15 0 0 0 6 -2.6973v-23.959a15 15 0 0 0 -6 -2.7188z" style="fill-rule:evenodd;fill:#71f286"/>
+  <path d="m33 12.023v23.959a15 15 0 0 0 6 -11.982 15 15 0 0 0 -6 -11.977z" style="fill-rule:evenodd;fill:#77baff"/>
+ </g>
  <circle cx="24" cy="23" r="7" style="fill-rule:evenodd;fill:#1a1a1a;opacity:.1;paint-order:markers stroke fill"/>
  <circle cx="24" cy="22" r="7" style="fill-rule:evenodd;fill:#1a1a1a;paint-order:markers stroke fill"/>
  <path d="m26.996 16.809-0.99805 1.7305a4 4 0 0 1 1.4609 1.4629l1.7305-0.99805a6 6 0 0 0 -2.1934 -2.1953z" style="fill-rule:evenodd;fill:#fff"/>
