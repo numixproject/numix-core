@@ -3,7 +3,7 @@
 	<defs>
 		<linearGradient id="bg" gradientUnits="userSpaceOnUse" y1="1" y2="47">
 			<stop offset="0" stop-color="#f9a41b"/>
-			<stop offset="1" stop-color="#f99c06"/>
+			<stop offset="1" stop-color="#f89c08"/>
 		</linearGradient>
 	</defs>
 	<g>
@@ -18,7 +18,9 @@
 		<circle cx="15" cy="31" r="3" />
 		<circle cx="33" cy="31" r="3" />
 	</g>
-	<path d="M20,33 A5,5,0,0,0,28,33 Z"/>
-	<circle cx="15" cy="31" r="3" />
-	<circle cx="33" cy="31" r="3" />
+	<g fill="#242424">
+		<path d="M20,33 A5,5,0,0,0,28,33 Z"/>
+		<circle cx="15" cy="31" r="3" />
+		<circle cx="33" cy="31" r="3" />
+	</g>
 </svg>
