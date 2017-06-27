@@ -6644,14 +6644,6 @@
             "root": "internet-telephony"
         }
     },
-    "io.github.Pithos": {
-        "linux": {
-            "root": "io.github.Pithos",
-            "symlinks": [
-                "pithos"
-            ]
-        }
-    },
     "ipscan": {
         "linux": {
             "root": "ipscan"
@@ -9886,6 +9878,14 @@
     "pioneers-server": {
         "linux": {
             "root": "pioneers-server"
+        }
+    },
+    "pithos": {
+        "linux": {
+            "root": "pithos",
+            "symlinks": [
+                "io.github.Pithos"
+            ]
         }
     },
     "plague": {
