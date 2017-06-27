@@ -396,7 +396,10 @@
     },
     "agenda": {
         "linux": {
-            "root": "agenda"
+            "root": "agenda",
+            "symlinks": [
+                "com.github.dahenson.agenda"
+            ]
         }
     },
     "ailurus": {
