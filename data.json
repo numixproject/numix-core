@@ -6284,7 +6284,10 @@
     },
     "hexchat": {
         "linux": {
-            "root": "hexchat"
+            "root": "hexchat",
+            "symlinks": [
+                "io.github.Hexchat"
+            ]
         }
     },
     "hexedit": {
