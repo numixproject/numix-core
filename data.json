@@ -13592,6 +13592,14 @@
             "root": "torrent-file-editor"
         }
     },
+    "torrential": {
+        "linux": {
+            "root": "torrential",
+            "symlinks": [
+                "com.github.davidmhewitt.torrential"
+            ]
+        }
+    },
     "totem": {
         "linux": {
             "root": "totem",
