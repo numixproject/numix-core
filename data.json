@@ -6234,6 +6234,14 @@
             "root": "haroopad"
         }
     },
+    "harvey": {
+        "linux": {
+            "root": "harvey",
+            "symlinks": [
+                "com.github.danrabbit.harvey"
+            ]
+        }
+    },
     "hatari": {
         "linux": {
             "root": "hatari"
