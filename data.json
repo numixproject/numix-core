@@ -8898,6 +8898,14 @@
             "root": "nightingale"
         }
     },
+    "nimbus": {
+        "linux": {
+            "root": "nimbus",
+            "symlinks": [
+                "com.github.danrabbit.nimbus"
+            ]
+        }
+    },
     "ninja-ide": {
         "linux": {
             "root": "ninja-ide"
