@@ -11024,6 +11024,14 @@
             "root": "quickhash"
         }
     },
+    "quilter": {
+        "linux": {
+            "root": "quilter",
+            "symlinks": [
+                "com.github.lainsce.quilter"
+            ]
+        }
+    },
     "quiterss": {
         "linux": {
             "root": "quiterss"
