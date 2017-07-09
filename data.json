@@ -6603,7 +6603,10 @@
     },
     "indicator-stickynotes": {
         "linux": {
-            "root": "indicator-stickynotes"
+            "root": "indicator-stickynotes",
+            "symlinks": [
+                "com.github.lainsce.notejot"
+            ]
         }
     },
     "indicator-weather": {
