@@ -7886,7 +7886,10 @@
     },
     "liri-browser": {
         "linux": {
-            "root": "liri-browser"
+            "root": "liri-browser",
+            "symlinks": [
+                "io.liri.Browser"
+            ]
         }
     },
     "liteide": {
