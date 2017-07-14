@@ -3330,12 +3330,22 @@
             "root": "distributor-logo-antergos"
         }
     },
+    "distributor-logo-antix": {
+        "linux": {
+            "root": "distributor-logo-antix"
+        }
+    },
     "distributor-logo-archlinux": {
         "linux": {
             "root": "distributor-logo-archlinux",
             "symlinks": [
                 "archlinux"
             ]
+        }
+    },
+    "distributor-logo-arya": {
+        "linux": {
+            "root": "distributor-logo-arya"
         }
     },
     "distributor-logo-backbox": {
@@ -3356,6 +3366,11 @@
     "distributor-logo-chakra": {
         "linux": {
             "root": "distributor-logo-chakra"
+        }
+    },
+    "distributor-logo-chaletos": {
+        "linux": {
+            "root": "distributor-logo-chaletos"
         }
     },
     "distributor-logo-connochaetos": {
@@ -3457,9 +3472,19 @@
             ]
         }
     },
+    "distributor-logo-lite": {
+        "linux": {
+            "root": "distributor-logo-lite"
+        }
+    },
     "distributor-logo-lubuntu": {
         "linux": {
             "root": "distributor-logo-lubuntu"
+        }
+    },
+    "distributor-logo-lxle": {
+        "linux": {
+            "root": "distributor-logo-lxle"
         }
     },
     "distributor-logo-mageia": {
@@ -3484,6 +3509,11 @@
                 "mintwelcome",
                 "mintWelcome"
             ]
+        }
+    },
+    "distributor-logo-mx": {
+        "linux": {
+            "root": "distributor-logo-mx"
         }
     },
     "distributor-logo-netbsd": {
@@ -3532,6 +3562,16 @@
             "symlinks": [
                 "distributor-logo-trueos"
             ]
+        }
+    },
+    "distributor-logo-peppermint": {
+        "linux": {
+            "root": "distributor-logo-peppermint"
+        }
+    },
+    "distributor-logo-puppy": {
+        "linux": {
+            "root": "distributor-logo-puppy"
         }
     },
     "distributor-logo-qubes": {
@@ -3599,6 +3639,11 @@
             ]
         }
     },
+    "distributor-logo-ubuntu-budgie": {
+        "linux": {
+            "root": "distributor-logo-ubuntu-budgie"
+        }
+    },
     "distributor-logo-ubuntu-gnome": {
         "linux": {
             "root": "distributor-logo-ubuntu-gnome"
@@ -3621,6 +3666,11 @@
                 "winusbgui-icon",
                 "woeusbgui-icon"
             ]
+        }
+    },
+    "distributor-logo-voyager": {
+        "linux": {
+            "root": "distributor-logo-voyager"
         }
     },
     "distributor-logo-xubuntu": {
