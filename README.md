@@ -7,6 +7,17 @@ This repository powers the generation of the all the Numix app icon themes accro
 ### Icon Requests
 Please report icon requests in this repo, providing all the details required. For normal applications follow [this video tutorial](https://plus.google.com/+NumixprojectOrg/posts/DkRmhFZuWez), for Steam games follow [this one](https://www.youtube.com/watch?v=BuUy4CzCoXc) and for Chrome apps just post a link to the webstore page. When filing your request please be respectful, patient, and remember that development is done solely on the back of donations.
 
+### Contributions
+If you want to contribute to this project making new icons you must follow our [guidelines](https://github.com/numixproject/numix-wiki/wiki/Guidelines).
+
+1. [Fork](https://help.github.com/articles/fork-a-repo/) our GitHub repository
+2. Create a new icon. You can use free open source tools like [Inkscape](https://inkscape.org/)
+3. Make a commit and push your changes to GitHub
+4. [Create a new pull request](https://help.github.com/articles/creating-a-pull-request/#creating-the-pull-request). You should include a picture of your icon in the pull request description ([example](https://github.com/numixproject/numix-core/pull/1422))
+5. When the pull request is accepted you can delete your fork or [sync it](https://help.github.com/articles/syncing-a-fork/)
+
+Remember to create a different pull request for each icon you want to submit. Contributions are always welcome!
+
 ### Hardcoded Icons
 To deal with hardcoded application icons Numix uses the [hardcode-fixer](https://github.com/Foggalong/hardcode-fixer) script. A list of the applications supported by the script can be found [here](https://github.com/Foggalong/hardcode-fixer/wiki/App-Support).
 
@@ -20,3 +31,5 @@ The script needs Python 3.x to run. The exporting-to-PNG part of the script curr
 1. Download the repo
 2. Run `gen.py --theme {square,circle} --platform {linux,osx,android}`
 3. Get your generated package
+
+
