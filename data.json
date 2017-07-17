@@ -7601,6 +7601,14 @@
             "root": "kuaipan4uk"
         }
     },
+    "kube": {
+        "linux": {
+            "root": "kube",
+            "symlinks": [
+                "kube_icon"
+            ]
+        }
+    },
     "kuickshow": {
         "linux": {
             "root": "kuickshow",
