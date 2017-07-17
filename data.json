@@ -4910,7 +4910,10 @@
     },
     "gcleaner": {
         "linux": {
-            "root": "gcleaner"
+            "root": "gcleaner",
+            "symlinks": [
+                "sweeper"
+            ]
         }
     },
     "gcolor2": {
