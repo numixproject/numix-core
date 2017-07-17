@@ -15236,7 +15236,10 @@
     },
     "xcircuit": {
         "linux": {
-            "root": "xcircuit"
+            "root": "xcircuit",
+            "symlinks": [
+                "ktechlab"
+            ]
         }
     },
     "xcos": {
