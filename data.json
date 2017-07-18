@@ -8269,7 +8269,10 @@
     },
     "mattermost-desktop": {
         "linux": {
-            "root": "mattermost-desktop"
+            "root": "mattermost-desktop",
+            "symlinks": [
+                "mattermost"
+            ]
         }
     },
     "maxthon-browser": {
