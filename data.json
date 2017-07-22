@@ -15006,7 +15006,10 @@
     },
     "wine-uninstaller": {
         "linux": {
-            "root": "wine-uninstaller"
+            "root": "wine-uninstaller",
+            "symlinks": [
+                "msiexec"
+            ]
         }
     },
     "wine-winecfg": {
