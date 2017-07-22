@@ -4077,7 +4077,10 @@
     },
     "eolie": {
         "linux": {
-            "root": "eolie"
+            "root": "eolie",
+             "symlinks": [
+                 "org.gnome.Eolie"
+             ]
         }
     },
     "epoptes": {
