@@ -15020,6 +15020,14 @@
             ]
         }
     },
+    "wine-winefile": {
+        "linux": {
+    	    "root": "wine-winefile",
+    	    "symlinks": [
+    	        "winefile"
+    	    ]
+        }
+    },
     "wine-winetricks": {
         "linux": {
             "root": "wine-winetricks",
