@@ -10127,7 +10127,10 @@
     },
     "playitslowly": {
         "linux": {
-            "root": "playitslowly"
+            "root": "playitslowly",
+            "symlinks": [
+                "ch.x29a.playitslowly"
+            ]
         }
     },
     "playonlinux": {
@@ -10271,7 +10274,10 @@
     },
     "ppsspp": {
         "linux": {
-            "root": "ppsspp"
+            "root": "ppsspp",
+            "symlinks": [
+                "org.ppsspp.PPSSPP"
+            ]
         }
     },
     "pragha": {
