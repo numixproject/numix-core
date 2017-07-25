@@ -4775,7 +4775,10 @@
     },
     "frogr": {
         "linux": {
-            "root": "frogr"
+            "root": "frogr",
+            "symlinks": [
+                "org.gnome.frogr"
+            ]
         }
     },
     "fromscratch": {
