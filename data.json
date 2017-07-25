@@ -5047,7 +5047,8 @@
         "linux": {
             "root": "geogebra",
             "symlinks": [
-                "chrome-bnbaboaihhkjoaolfnfoablhllahjnee-Default"
+                "chrome-bnbaboaihhkjoaolfnfoablhllahjnee-Default",
+                "org.geogebra.GeoGebra"
             ]
         }
     },
@@ -15379,7 +15380,10 @@
     },
     "xmoto": {
         "linux": {
-            "root": "xmoto"
+            "root": "xmoto",
+            "symlinks": [
+                "org.tuxfamily.XMoto"
+            ]
         }
     },
     "xnconvert": {
