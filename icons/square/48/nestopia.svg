@@ -16,29 +16,27 @@
    <path d="m1 1043.4v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
   </g>
  </g>
- <g style="opacity:.1">
+ <g transform="translate(0,1)" style="opacity:.1">
   <rect x="11" y="17" width="26" height="13"/>
  </g>
+ <rect x="11" y="17" width="26" height="13" style="fill:#ccc"/>
+ <rect x="12" y="19" width="24" height="10" style="fill:#333"/>
+ <rect x="15" y="22" width="3" height="5" style="fill:#b3b3b3"/>
+ <rect transform="rotate(90)" x="23" y="-19" width="3" height="5" style="fill:#b3b3b3"/>
+ <rect x="21" y="19" width="6" height="1" style="fill:#999"/>
+ <rect x="21" y="23" width="6" height="1" style="fill:#999"/>
+ <rect x="21" y="25" width="6" height="2" style="fill:#b3b3b3"/>
+ <rect x="21" y="21" width="6" height="1" style="fill:#999"/>
+ <rect x="21" y="28" width="6" height="1" style="fill:#999"/>
+ <rect x="21.665" y="25.751" width="2" height=".5" style="fill:#333"/>
+ <rect x="24.333" y="25.751" width="2" height=".5" style="fill:#333"/>
+ <rect x="32" y="24" width="3" height="3" style="fill:#b3b3b3"/>
  <g transform="translate(0,-1)">
-  <rect x="11" y="17" width="26" height="13" style="fill:#ccc"/>
-  <rect x="12" y="19" width="24" height="10" style="fill:#333"/>
-  <rect x="15" y="22" width="3" height="5" style="fill:#b3b3b3"/>
-  <rect transform="rotate(90)" x="23" y="-19" width="3" height="5" style="fill:#b3b3b3"/>
-  <rect x="21" y="19" width="6" height="1" style="fill:#999"/>
-  <rect x="21" y="23" width="6" height="1" style="fill:#999"/>
-  <rect x="21" y="25" width="6" height="2" style="fill:#b3b3b3"/>
-  <rect x="21" y="21" width="6" height="1" style="fill:#999"/>
-  <rect x="21" y="28" width="6" height="1" style="fill:#999"/>
-  <rect x="21.665" y="25.751" width="2" height=".5" style="fill:#333"/>
-  <rect x="24.333" y="25.751" width="2" height=".5" style="fill:#333"/>
-  <rect x="32" y="24" width="3" height="3" style="fill:#b3b3b3"/>
-  <g transform="translate(0,-1)">
-   <rect x="28" y="25" width="3" height="3" style="fill:#b3b3b3"/>
-   <circle transform="matrix(.83333 0 0 .83333 54.917 11.083)" cx="-30.5" cy="18.5" r="1.5" style="fill:#d40000"/>
-  </g>
-  <circle transform="matrix(.83333 0 0 .83333 58.917 10.083)" cx="-30.5" cy="18.5" r="1.5" style="fill:#d40000"/>
-  <rect x="28" y="21" width="7" height="1" style="fill:#a00"/>
-  <rect x="15" y="24" width="3" height="1" style="fill:#333"/>
-  <rect x="16" y="23" width="1" height="3" style="fill:#333"/>
+  <rect x="28" y="25" width="3" height="3" style="fill:#b3b3b3"/>
+  <circle transform="matrix(.83333 0 0 .83333 54.917 11.083)" cx="-30.5" cy="18.5" r="1.5" style="fill:#d40000"/>
  </g>
+ <circle transform="matrix(.83333 0 0 .83333 58.917 10.083)" cx="-30.5" cy="18.5" r="1.5" style="fill:#d40000"/>
+ <rect x="28" y="21" width="7" height="1" style="fill:#a00"/>
+ <rect x="15" y="24" width="3" height="1" style="fill:#333"/>
+ <rect x="16" y="23" width="1" height="3" style="fill:#333"/>
 </svg>
