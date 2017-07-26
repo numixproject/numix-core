@@ -874,7 +874,7 @@
     "asc-de": {
         "linux": {
             "root": "asc-de",
-            "symlinks" : [
+            "symlinks": [
                 "onlyoffice"
             ]
         }
@@ -1731,8 +1731,8 @@
         "linux": {
             "root": "google-calendar",
             "symlinks": [
-                "chrome-ejjicmeblgpmajnghnpcppodonldlgfn-Default",
                 "calendar-blue-31",
+                "chrome-ejjicmeblgpmajnghnpcppodonldlgfn-Default",
                 "unity-webapps-google-calendar",
                 "web-google-calendar"
             ]
@@ -4000,12 +4000,12 @@
             "root": "emacs",
             "symlinks": [
                 "deepin-emacs",
+                "emacs-25",
+                "emacs-snapshot",
                 "emacs22",
                 "emacs23",
                 "emacs24",
                 "emacs25",
-                "emacs-25",
-                "emacs-snapshot",
                 "gnome-emacs"
             ]
         }
@@ -4078,9 +4078,9 @@
     "eolie": {
         "linux": {
             "root": "eolie",
-             "symlinks": [
-                 "org.gnome.Eolie"
-             ]
+            "symlinks": [
+                "org.gnome.Eolie"
+            ]
         }
     },
     "epoptes": {
@@ -4284,8 +4284,8 @@
         "linux": {
             "root": "feedreader",
             "symlinks": [
-               "org.gnome.feedreader",
-               "org.gnome.FeedReader"
+                "org.gnome.feedreader",
+                "org.gnome.FeedReader"
             ]
         }
     },
@@ -5500,9 +5500,9 @@
         "linux": {
             "root": "gnome-power-statistics",
             "symlinks": [
+                "aptik-battery-monitor",
                 "mate-power-statistics",
                 "org.gnome.PowerStats",
-                "aptik-battery-monitor",
                 "preferences-system-power-management"
             ]
         }
@@ -6357,8 +6357,8 @@
         "linux": {
             "root": "hb-icon",
             "symlinks": [
-                "handbrake",
-                "fr.handbrake.ghb"
+                "fr.handbrake.ghb",
+                "handbrake"
             ]
         }
     },
@@ -9146,8 +9146,8 @@
             "bfb": "launcher_bfb_numix",
             "symlinks": [
                 "gtk3-icon-browser",
-                "preferences-desktop-icons",
-                "gtk4-icon-browser"
+                "gtk4-icon-browser",
+                "preferences-desktop-icons"
             ]
         }
     },
@@ -10138,9 +10138,9 @@
         "linux": {
             "root": "playonlinux",
             "symlinks": [
+                "phoenicis",
                 "PlayOnLinux",
-                "playonlinux32",
-                "phoenicis"
+                "playonlinux32"
             ]
         }
     },
@@ -10961,8 +10961,8 @@
             "root": "qt",
             "symlinks": [
                 "qt4-logo",
-                "qt5-logo",
                 "qt4logo",
+                "qt5-logo",
                 "qtcreator_logo_32",
                 "QtIcon"
             ]
@@ -11954,8 +11954,8 @@
         "linux": {
             "root": "skype",
             "symlinks": [
-                "skypeforlinux",
-                "ghetto-skype"
+                "ghetto-skype",
+                "skypeforlinux"
             ]
         }
     },
@@ -14846,8 +14846,8 @@
             "root": "web-pushbullet",
             "symlinks": [
                 "chrome-chlffgpmiacpedhhbkiomidkjlcfhogd-Default",
-                "pushbullet-indicator",
-                "pb-for-desktop"
+                "pb-for-desktop",
+                "pushbullet-indicator"
             ]
         }
     },
@@ -14911,9 +14911,9 @@
             "root": "web-whatsapp",
             "symlinks": [
                 "chrome-bgkodfmeijboinjdegggmkbkjfiagaan-Default",
-                "whatsappfordesktop",
+                "whatsapp",
                 "whatsapp-desktop",
-                "whatsapp"
+                "whatsappfordesktop"
             ]
         }
     },
@@ -15044,10 +15044,10 @@
     },
     "wine-winefile": {
         "linux": {
-    	    "root": "wine-winefile",
-    	    "symlinks": [
-    	        "winefile"
-    	    ]
+            "root": "wine-winefile",
+            "symlinks": [
+                "winefile"
+            ]
         }
     },
     "wine-winetricks": {
@@ -15213,7 +15213,7 @@
         "linux": {
             "root": "Writefull",
             "symlinks": [
-            	"writefull"
+                "writefull"
             ]
         }
     },
