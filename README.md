@@ -24,6 +24,6 @@ The script needs Python 3.x to run. The exporting-to-PNG part of the script curr
 
 ### How To Use
 
-1 - Download the repo
-2 - Run `gen.py --theme {square,circle} --platform {linux,osx,android}`
-3 - Get your generated package
+1. Download the repo
+2. Run `gen.py --theme {square,circle} --platform {linux,osx,android}`
+3. Get your generated package
