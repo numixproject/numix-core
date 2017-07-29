@@ -1,16 +1,10 @@
-<svg width="48" height="48" version="1.1" viewBox="0 0 48 48.000001" xmlns="http://www.w3.org/2000/svg">
- <path d="m5 1c-2.216 0-4 1.784-4 4v19h23v-23h-19z" style="fill-rule:evenodd;fill:#ec6853"/>
- <path d="m1 24v19c0 2.216 1.784 4 4 4h19v-23h-23z" style="fill-rule:evenodd;fill:#87d58e"/>
- <path d="m24 24v23h19c2.216 0 4-1.784 4-4v-19h-23z" style="fill-rule:evenodd;fill:#8b99fa"/>
- <path d="m24 1v23h23v-19c0-2.216-1.784-4-4-4h-19z" style="fill-rule:evenodd;fill:#f0db6b"/>
- <g transform="translate(0 3.949e-5)">
-  <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4zm0 0.5v0.5c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.5c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.02"/>
-  <path d="m1 43.25v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.05"/>
-  <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
- </g>
- <g transform="translate(0 3.949e-5)">
-  <g transform="translate(0 -1004.4)">
-   <path d="m1 1043.4v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
-  </g>
- </g>
+<svg width="48" height="48" viewBox="0 0 48 48.000001" xmlns="http://www.w3.org/2000/svg">
+  <path d="M5 1C2.784 1 1 2.784 1 5v19h23V1H5z" fill-rule="evenodd" fill="#ec6853"/>
+  <path d="M1 24v19c0 2.216 1.784 4 4 4h19V24H1z" fill-rule="evenodd" fill="#87d58e"/>
+  <path d="M24 24v23h19c2.216 0 4-1.784 4-4V24H24z" fill-rule="evenodd" fill="#8b99fa"/>
+  <path d="M24 1v23h23V5c0-2.216-1.784-4-4-4H24z" fill-rule="evenodd" fill="#f0db6b"/>
+  <path d="M1 43v.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4V43c0 2.216-1.784 4-4 4H5c-2.216 0-4-1.784-4-4zm0 .5v.5c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-.5c0 2.216-1.784 4-4 4H5c-2.216 0-4-1.784-4-4z" opacity=".02"/>
+  <path d="M1 43.25v.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-.25c0 2.216-1.784 4-4 4H5c-2.216 0-4-1.784-4-4z" opacity=".05"/>
+  <path d="M1 43v.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4V43c0 2.216-1.784 4-4 4H5c-2.216 0-4-1.784-4-4z" opacity=".1"/>
+  <path d="M1 39v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4H5c-2.216 0-4-1.784-4-4z" opacity=".1"/>
 </svg>
