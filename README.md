@@ -1,4 +1,6 @@
 # Numix Core
+[![Build Status](https://travis-ci.org/numixproject/numix-core.svg?branch=master)](https://travis-ci.org/numixproject/numix-core)
+
 This repository powers the generation of the all the Numix app icon themes accross all platforms. This new method is designed to make keeping themes on different platforms on feature parity easier as well as making it as simple as possible to add support for new platforms. Licensed under the GPL-3.0+
 
 
