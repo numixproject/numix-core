@@ -5611,6 +5611,7 @@
         "linux": {
             "root": "gnome-usage",
             "symlinks": [
+                "deepin-system-monitor",
                 "org.gnome.Usage"
             ]
         }
@@ -14258,7 +14259,6 @@
         "linux": {
             "root": "utilities-system-monitor",
             "symlinks": [
-                "deepin-system-monitor",
                 "gnome-monitor",
                 "gnome-system-monitor",
                 "ksysguard",
