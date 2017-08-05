@@ -8389,7 +8389,10 @@
     },
     "megaglest": {
         "linux": {
-            "root": "megaglest"
+            "root": "megaglest",
+            "symlinks": [
+                "org.megaglest.MegaGlest"
+            ]
         }
     },
     "meld": {
@@ -8460,6 +8463,7 @@
         "linux": {
             "root": "minetest",
             "symlinks": [
+                "net.minetest.Minetest symlinks",
                 "minetest-icon"
             ]
         }
@@ -8588,7 +8592,10 @@
     },
     "monodevelop": {
         "linux": {
-            "root": "monodevelop"
+            "root": "monodevelop",
+            "symlinks": [
+                "com.xamarin.MonoDevelop"
+            ]
         }
     },
     "monster-rpg-2": {
@@ -8627,6 +8634,7 @@
             "root": "mpv",
             "symlinks": [
                 "gnome-mpv",
+                "io.github.GnomeMpv.svg",
                 "kplayer",
                 "mpv-icon-8bit-64x64"
             ]
@@ -9516,6 +9524,7 @@
         "linux": {
             "root": "openlugaru",
             "symlinks": [
+                "io.gitlab.osslugaru.Lugaru",
                 "lugaru"
             ]
         }
@@ -11551,7 +11560,10 @@
     },
     "runescape": {
         "linux": {
-            "root": "runescape"
+            "root": "runescape",
+            "symlinks": [
+                "com.jagex.RuneScape"
+            ]
         }
     },
     "Runner": {
@@ -14580,6 +14592,7 @@
         "linux": {
             "root": "warmux",
             "symlinks": [
+                "org.gna.Warmux"
                 "warmux_128x128"
             ]
         }
