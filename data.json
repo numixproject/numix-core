@@ -1508,6 +1508,14 @@
             ]
         }
     },
+    "btanks": {
+        "linux": {
+            "root": "btanks",
+            "symlinks": [
+                "net.sourceforge.btanks"
+            ]
+        }
+    },
     "btsync-user": {
         "linux": {
             "root": "btsync-user",
