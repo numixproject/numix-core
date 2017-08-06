@@ -116,8 +116,7 @@ except FileNotFoundError:
 if platform == "android":
     print("\nGenerating Android theme...")
     theme_name = "com.numix.icons_{0}".format(theme)
-    android_dir = path.join(theme_name,
-                            "MainActivity22/app/src/main/res/drawable-xxhdpi")
+    android_dir = theme_name + "/MainActivity22/app/src/main/res/drawable-xxhdpi"
     mkdir(android_dir)
     for icon_name, icon in icons.items():
         for output_name in icon.get("android", []):
