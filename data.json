@@ -3941,7 +3941,10 @@
     },
     "eidete": {
         "linux": {
-            "root": "eidete"
+            "root": "eidete",
+            "symlinks": [
+                "com.github.artemanufrij.screencast"
+            ]
         }
     },
     "eintopf": {
