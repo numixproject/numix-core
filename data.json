@@ -2629,7 +2629,10 @@
     },
     "chromium-bsu": {
         "linux": {
-            "root": "chromium-bsu"
+            "root": "chromium-bsu",
+            "symlinks": [
+                "net.sourceforge.chromium-bsu"
+            ]
         }
     },
     "cisco-pt": {
