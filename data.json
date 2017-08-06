@@ -1,7 +1,10 @@
 {
     "0ad": {
         "linux": {
-            "root": "0ad"
+            "root": "0ad",
+            "symlinks": [
+                "com.play0ad.zeroad"
+            ]
         }
     },
     "2048": {
@@ -834,7 +837,8 @@
         "linux": {
             "root": "armagetronad",
             "symlinks": [
-                "gltron"
+                "gltron",
+                "org.armagetronad.ArmagetronAdvanced"
             ]
         }
     },
@@ -936,7 +940,10 @@
     },
     "atanks": {
         "linux": {
-            "root": "atanks"
+            "root": "atanks",
+            "symlinks": [
+                "net.sourceforge.atanks"
+            ]
         }
     },
     "atelier": {
@@ -988,7 +995,8 @@
             "root": "audacity",
             "symlinks": [
                 "audacity16",
-                "audacity32"
+                "audacity32",
+                "org.audacityteam.Audacity"
             ]
         }
     },
@@ -1284,7 +1292,8 @@
         "linux": {
             "root": "blender",
             "symlinks": [
-                "Blender"
+                "Blender",
+                "org.blender.Blender"
             ]
         }
     },
@@ -1306,7 +1315,8 @@
         "linux": {
             "root": "bluefish",
             "symlinks": [
-                "bluefish-icon"
+                "bluefish-icon",
+                "nl.openoffice.bluefish"
             ]
         }
     },
@@ -2824,7 +2834,10 @@
     },
     "corebird": {
         "linux": {
-            "root": "corebird"
+            "root": "corebird",
+            "symlinks": [
+                "org.baedert.corebird"
+            ]
         }
     },
     "cpuinfo": {
@@ -3021,7 +3034,10 @@
     },
     "darktable": {
         "linux": {
-            "root": "darktable"
+            "root": "darktable",
+            "symlinks": [
+                "org.darktable.Darktable"
+            ]
         }
     },
     "dart": {
@@ -3301,6 +3317,7 @@
         "linux": {
             "root": "discord",
             "symlinks": [
+                "com.discordapp.Discord",
                 "web-discord"
             ]
         }
@@ -3744,7 +3761,10 @@
     },
     "dolphin-emu": {
         "linux": {
-            "root": "dolphin-emu"
+            "root": "dolphin-emu",
+            "symlinks": [
+                "org.DolphinEmu.dolphin-emu"
+            ]
         }
     },
     "donut": {
@@ -4081,7 +4101,8 @@
         "linux": {
             "root": "eog",
             "symlinks": [
-                "eom"
+                "eom",
+                "org.gnome.eog"
             ]
         }
     },
@@ -4158,7 +4179,8 @@
         "linux": {
             "root": "etr",
             "symlinks": [
-                "etracericon"
+                "etracericon",
+                "net.sourceforge.ExtremeTuxRacer"
             ]
         }
     },
@@ -4803,7 +4825,10 @@
     },
     "frozen-bubble": {
         "linux": {
-            "root": "frozen-bubble"
+            "root": "frozen-bubble",
+            "symlinks": [
+                "org.frozen_bubble.frozen-bubble"
+            ]
         }
     },
     "frozensynapse": {
@@ -4893,6 +4918,7 @@
             "root": "gba",
             "symlinks": [
                 "gvbam",
+                "io.mgba.mGBA.svg",
                 "mgba",
                 "vbaexpress",
                 "VisualBoyAdvance-gtk-32x32"
@@ -5670,6 +5696,7 @@
             "symlinks": [
                 "chrome-pfoeakahkgllhkommkfeehmkfcloagkl-Default",
                 "gnucash",
+                "org.gnucash.GnuCash",
                 "web-google-fusion-tables"
             ]
         }
@@ -6713,7 +6740,8 @@
         "linux": {
             "root": "inkscape",
             "symlinks": [
-                "inkscape-logo"
+                "inkscape-logo",
+                "org.inkscape.Inkscape"
             ]
         }
     },
@@ -7863,7 +7891,8 @@
                 "libreoffice34-main",
                 "libreoffice34-startcenter",
                 "libreoffice4",
-                "libreoffice5.3-startcenter"
+                "libreoffice5.3-startcenter",
+                "org.libreoffice.LibreOffice-startcenter"
             ]
         }
     },
@@ -8640,7 +8669,7 @@
             "root": "mpv",
             "symlinks": [
                 "gnome-mpv",
-                "io.github.GnomeMpv.svg",
+                "io.github.GnomeMpv",
                 "kplayer",
                 "mpv-icon-8bit-64x64"
             ]
@@ -8842,7 +8871,10 @@
     },
     "mypaint": {
         "linux": {
-            "root": "mypaint"
+            "root": "mypaint",
+            "symlinks": [
+                "org.mypaint.MyPaint"
+            ]
         }
     },
     "mysms": {
@@ -9497,7 +9529,8 @@
         "linux": {
             "root": "openarena",
             "symlinks": [
-                "openarena128"
+                "openarena128",
+                "ws.openarena.OpenArena"
             ]
         }
     },
@@ -10029,7 +10062,10 @@
     },
     "picard": {
         "linux": {
-            "root": "picard"
+            "root": "picard",
+            "symlinks": [
+                "org.musicbrainz.Picard"
+            ]
         }
     },
     "picasa": {
@@ -10067,7 +10103,10 @@
     },
     "pingus-icon": {
         "linux": {
-            "root": "pingus-icon"
+            "root": "pingus-icon",
+            "symlinks": [
+                "org.seul.pingus"
+            ]
         }
     },
     "pino": {
@@ -11424,7 +11463,10 @@
     },
     "retroarch": {
         "linux": {
-            "root": "retroarch"
+            "root": "retroarch",
+            "symlinks": [
+                "org.libretro.RetroArch"
+            ]
         }
     },
     "retroshare": {
@@ -11978,6 +12020,7 @@
         "linux": {
             "root": "skype",
             "symlinks": [
+                "com.skype.Client",
                 "ghetto-skype",
                 "skypeforlinux"
             ]
@@ -12269,6 +12312,7 @@
             "root": "spotify-client",
             "symlinks": [
                 "chrome-cnkjkdjlofllcpbemipjbcpfnglbgieh-Default",
+                "com.spotify.Client",
                 "nuvolaplayer3_spotify",
                 "Spotify",
                 "spotify",
@@ -12370,6 +12414,7 @@
             "root": "steam",
             "symlinks": [
                 "10B4_steam.0",
+                "com.valvesoftware.Steam"
                 "steam-launcher",
                 "steamos-logo-icon",
                 "steampowered"
@@ -13260,13 +13305,17 @@
     },
     "supertux": {
         "linux": {
-            "root": "supertux"
+            "root": "supertux",
+            "symlinks": [
+                "org.supertuxproject.SuperTux"
+            ]
         }
     },
     "supertuxkart": {
         "linux": {
             "root": "supertuxkart",
             "symlinks": [
+                "net.supertuxkart.SuperTuxKart",
                 "supertuxkart_128"
             ]
         }
@@ -13547,13 +13596,17 @@
     },
     "teeworlds": {
         "linux": {
-            "root": "teeworlds"
+            "root": "teeworlds",
+            "symlinks": [
+                "com.teeworlds.Teeworlds"
+            ]
         }
     },
     "telegram": {
         "linux": {
             "root": "telegram",
             "symlinks": [
+                "org.telegram.desktop",
                 "sigram",
                 "telegram-desktop"
             ]
@@ -13922,6 +13975,7 @@
         "linux": {
             "root": "transmission",
             "symlinks": [
+                "io.github.TransmissionRemoteGtk",
                 "transgui",
                 "transgui-2",
                 "transmission-gtk",
@@ -14986,6 +15040,7 @@
         "linux": {
             "root": "wesnoth",
             "symlinks": [
+                "org.wesnoth.Wesnoth",
                 "wesnoth-1.10-icon",
                 "wesnoth-1.12-icon",
                 "wesnoth-icon"
