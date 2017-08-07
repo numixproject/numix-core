@@ -15024,7 +15024,10 @@
     },
     "webby": {
         "linux": {
-            "root": "webby"
+            "root": "webby",
+            "symlinks": [
+                "artemanufrij.webpin"
+            ]
         }
     },
     "webcamoid": {
