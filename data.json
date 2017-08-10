@@ -1209,7 +1209,11 @@
     },
     "bibfilex": {
         "linux": {
-            "root": "bibfilex"
+            "root": "bibfilex"",
+            "symlinks": [
+                "mkbib"
+            ]
+        }
         }
     },
     "bibletime": {
@@ -5964,7 +5968,10 @@
     },
     "gperiodic": {
         "linux": {
-            "root": "gperiodic"
+            "root": "gperiodic",
+            "symlinks": [
+                "ptbl"
+            ]
         }
     },
     "gpg-crypter": {
