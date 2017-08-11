@@ -1209,11 +1209,10 @@
     },
     "bibfilex": {
         "linux": {
-            "root": "bibfilex"",
+            "root": "bibfilex",
             "symlinks": [
                 "mkbib"
             ]
-        }
         }
     },
     "bibletime": {
@@ -8516,8 +8515,8 @@
         "linux": {
             "root": "minetest",
             "symlinks": [
-                "net.minetest.Minetest",
-                "minetest-icon"
+                "minetest-icon",
+                "net.minetest.Minetest"
             ]
         }
     },
