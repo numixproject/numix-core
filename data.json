@@ -2080,6 +2080,7 @@
                 "date",
                 "dates",
                 "dayfolder",
+                "dde-calendar",
                 "deepin-calendar",
                 "gnome-calendar",
                 "gnome-mime-text-x-vcalendar",
@@ -3187,6 +3188,7 @@
             "root": "desktop",
             "symlinks": [
                 "cs-desktop",
+                "deepin-toggle-desktop",
                 "dock",
                 "dockbarx",
                 "panel-applets",
@@ -5504,6 +5506,7 @@
         "linux": {
             "root": "gnome-paint",
             "symlinks": [
+                "deepin-draw",
                 "gp",
                 "gpaint",
                 "lazpaint",
@@ -5595,7 +5598,7 @@
             "root": "gnome-sound-recorder",
             "symlinks": [
                 "audio-recorder",
-                "deepin-vioce-recorder"
+                "deepin-voice-recorder"
             ]
         }
     },
@@ -5654,6 +5657,7 @@
         "linux": {
             "root": "gnome-usage",
             "symlinks": [
+                "deepin-system-monitor",
                 "org.gnome.Usage"
             ]
         }
