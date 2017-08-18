@@ -2857,7 +2857,10 @@
     },
     "Darwinia": {
         "linux": {
-            "root": "steam_icon_1500"
+            "root": "Darwinia",
+            "symlinks": [
+                "steam_icon_1500"
+            ]
         }
     },
     "dassault-systemes.draftsight": {
