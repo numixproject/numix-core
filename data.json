@@ -455,6 +455,11 @@
             "root": "ailurus"
         }
     },
+    "airdroid": {
+        "android": [
+            "com_sand_airdroid"
+        ]
+    },
     "AirPortUtility": {
         "linux": {
             "root": "AirPortUtility"
@@ -667,6 +672,11 @@
             ]
         }
     },
+    "angry-birds-rio": {
+        "android": [
+            "com_rovio_angrybirdsrio"
+        ]
+    },
     "angrysearch": {
         "linux": {
             "root": "angrysearch"
@@ -719,7 +729,10 @@
         ],
         "linux": {
             "root": "app-launcher",
-            "bfb": "launcher_bfb"
+            "bfb": "launcher_bfb",
+            "symlinks": [
+                "chrome-app-list"
+            ]
         }
     },
     "appgrid": {
@@ -1200,6 +1213,16 @@
                 "Babe"
             ]
         }
+    },
+    "bacon-reader": {
+        "android": [
+            "com_onelouder_baconreader"
+        ]
+    },
+    "bad-piggies": {
+        "android": [
+            "com_rovio_badpiggies"
+        ]
     },
     "baka-mplayer": {
         "linux": {
@@ -2465,11 +2488,6 @@
             ]
         }
     },
-    "chrome-app-list": {
-        "linux": {
-            "root": "chrome-app-list"
-        }
-    },
     "chrome-bfimiibpomebbdeomajcknhccgpkjmlh-Default": {
         "linux": {
             "root": "chrome-bfimiibpomebbdeomajcknhccgpkjmlh-Default"
@@ -2957,6 +2975,11 @@
         "linux": {
             "root": "colorhug-refresh"
         }
+    },
+    "comics": {
+        "android": [
+            "com_iconology_comics"
+        ]
     },
     "comix": {
         "linux": {
@@ -4368,6 +4391,11 @@
             "root": "eureka"
         }
     },
+    "eventbrite": {
+        "android": [
+            "com_eventbrite_attendee"
+        ]
+    },
     "evernote": {
         "android": [
             "com_evernote"
@@ -4796,6 +4824,11 @@
         "linux": {
             "root": "fluxgui"
         }
+    },
+    "flyne": {
+        "android": [
+            "com_jv_flyne"
+        ]
     },
     "focuswriter": {
         "linux": {
@@ -5981,6 +6014,11 @@
             "root": "goodvibes"
         }
     },
+    "google-analytics": {
+        "android": [
+            "com_google_android_apps_giant"
+        ]
+    },
     "google-chrome": {
         "android": [
             "com_google_android_apps_chrome"
@@ -6315,6 +6353,11 @@
             ]
         }
     },
+    "greenify": {
+        "android": [
+            "com_oasisfeng_greenify"
+        ]
+    },
     "gretl": {
         "linux": {
             "root": "gretl"
@@ -6356,6 +6399,11 @@
                 "web-grooveshark"
             ]
         }
+    },
+    "group-me": {
+        "android": [
+            "com_groupme_android"
+        ]
     },
     "grsync": {
         "linux": {
@@ -7304,6 +7352,11 @@
         "linux": {
             "root": "juffed"
         }
+    },
+    "juice-defender": {
+        "android": [
+            "com_latedroid_juicedefender"
+        ]
     },
     "juk": {
         "linux": {
@@ -9152,6 +9205,11 @@
         "linux": {
             "root": "mutt"
         }
+    },
+    "my-fitness-pal": {
+        "android": [
+            "com_myfitnesspal_android"
+        ]
     },
     "mynotex": {
         "linux": {
@@ -11720,6 +11778,16 @@
             "root": "recoll"
         }
     },
+    "reddit-sync": {
+        "android": [
+            "com_laurencedawson_reddit_sync"
+        ]
+    },
+    "reddit-sync-pro": {
+        "android": [
+            "com_laurencedawson_reddit_sync_pro"
+        ]
+    },
     "redeclipse": {
         "linux": {
             "root": "redeclipse"
@@ -12481,6 +12549,11 @@
         "linux": {
             "root": "snappy"
         }
+    },
+    "snapseed": {
+        "android": [
+            "com_niksoftware_snapseed_MainActivity"
+        ]
     },
     "snes9x": {
         "linux": {
@@ -13634,6 +13707,11 @@
             ]
         }
     },
+    "stubhub": {
+        "android": [
+            "com_stubhub"
+        ]
+    },
     "stuntrally": {
         "linux": {
             "root": "stuntrally"
@@ -14499,6 +14577,11 @@
             "root": "tuxguitar"
         }
     },
+    "tv-sideview": {
+        "android": [
+            "com_sony_tvsideview_phone"
+        ]
+    },
     "tvbrowser": {
         "linux": {
             "root": "tvbrowser"
@@ -15340,6 +15423,9 @@
         }
     },
     "web-newsblur": {
+        "android": [
+            "com_newsblur"
+        ],
         "linux": {
             "root": "web-newsblur",
             "symlinks": [
@@ -15348,6 +15434,11 @@
                 "unity-webapps-newsblur"
             ]
         }
+    },
+    "web-nytimes": {
+        "android": [
+            "com_nytimes_android"
+        ]
     },
     "web-outlook": {
         "android": [
@@ -15433,6 +15524,11 @@
                 "unity-webapps-reddit"
             ]
         }
+    },
+    "web-stackexchange": {
+        "android": [
+            "com_stackexchange_marvin"
+        ]
     },
     "web-trello": {
         "linux": {
@@ -15961,6 +16057,11 @@
                 "gxine"
             ]
         }
+    },
+    "xing": {
+        "android": [
+            "com_xing_android"
+        ]
     },
     "xiphos": {
         "linux": {
