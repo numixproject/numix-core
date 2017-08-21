@@ -654,7 +654,10 @@
     "app-launcher": {
         "linux": {
             "root": "app-launcher",
-            "bfb": "launcher_bfb"
+            "bfb": "launcher_bfb",
+            "symlinks": [
+                "chrome-app-list"
+            ]
         }
     },
     "appgrid": {
@@ -1462,6 +1465,11 @@
     "brackets": {
         "linux": {
             "root": "brackets"
+        }
+    },
+    "brackets-electron": {
+        "linux": {
+            "root": "brackets-electron"
         }
     },
     "braid": {
@@ -2345,37 +2353,6 @@
             "root": "chrome-bfimiibpomebbdeomajcknhccgpkjmlh-Default"
         }
     },
-    "chrome-efjnaogkjbogokcnohkmnjdojkikgobo-Default": {
-        "linux": {
-            "root": "chrome-efjnaogkjbogokcnohkmnjdojkikgobo-Default",
-            "symlinks": [
-                "chrome-hcglmfcclpfgljeaiahehebeoaiicbko-Default"
-            ]
-        }
-    },
-    "chrome-epionbmgciknkbdibokmpmcfllkdfeeo-Default": {
-        "linux": {
-            "root": "chrome-epionbmgciknkbdibokmpmcfllkdfeeo-Default"
-        }
-    },
-    "chrome-fgbjpbdfegnodokpoejnbhnblcojccal-Default": {
-        "linux": {
-            "root": "chrome-fgbjpbdfegnodokpoejnbhnblcojccal-Default"
-        }
-    },
-    "chrome-fnibmbcdeepaahjmddiihohjanlimlmj-Default": {
-        "linux": {
-            "root": "chrome-fnibmbcdeepaahjmddiihohjanlimlmj-Default",
-            "symlinks": [
-                "chrome-bgjohebimpjdhhocbknplfelpmdhifhd-Default"
-            ]
-        }
-    },
-    "chrome-gcjbnclfkeffmdfdhflnadahgmajfgcm-Default": {
-        "linux": {
-            "root": "chrome-gcjbnclfkeffmdfdhflnadahgmajfgcm-Default"
-        }
-    },
     "chrome-hjkdhkejcnlmkfdodbkdkelefnkobfif-Default": {
         "linux": {
             "root": "chrome-hjkdhkejcnlmkfdodbkdkelefnkobfif-Default"
@@ -2386,29 +2363,9 @@
             "root": "chrome-https___prezi.com"
         }
     },
-    "chrome-jbdlaalbpgnopkpnmoppmccbgkjhfmgh-Default": {
-        "linux": {
-            "root": "chrome-jbdlaalbpgnopkpnmoppmccbgkjhfmgh-Default"
-        }
-    },
     "chrome-jklljiahjgoglchglekebfljnmbaleig-Default": {
         "linux": {
             "root": "chrome-jklljiahjgoglchglekebfljnmbaleig-Default"
-        }
-    },
-    "chrome-mojepfklcankkmikonjlnidiooanmpbb-Default": {
-        "linux": {
-            "root": "chrome-mojepfklcankkmikonjlnidiooanmpbb-Default"
-        }
-    },
-    "chrome-ofbpedjdfkboehhknoohhenbpmgcjoik-Default": {
-        "linux": {
-            "root": "chrome-ofbpedjdfkboehhknoohhenbpmgcjoik-Default"
-        }
-    },
-    "chrome-omimkinlomnncbmnceacpkmlbfaapojj-Default": {
-        "linux": {
-            "root": "chrome-omimkinlomnncbmnceacpkmlbfaapojj-Default"
         }
     },
     "chrome-webstore": {
@@ -2857,10 +2814,7 @@
     },
     "Darwinia": {
         "linux": {
-            "root": "Darwinia",
-            "symlinks": [
-                "steam_icon_1500"
-            ]
+            "root": "Darwinia"
         }
     },
     "dassault-systemes.draftsight": {
@@ -11856,7 +11810,8 @@
         "linux": {
             "root": "slack",
             "symlinks": [
-                "chrome-eifdbcbnlahelniokpkpdlhaocgjdcje-Default"
+                "chrome-eifdbcbnlahelniokpkpdlhaocgjdcje-Default",
+                "chrome-jeogkiiogjbmhklcnbgkdcjoioegiknm-Default"
             ]
         }
     },
@@ -12275,6 +12230,11 @@
             "root": "steam_icon_233720"
         }
     },
+    "steam_icon_293780": {
+        "linux": {
+            "root": "steam_icon_293780"
+        }
+    },
     "steam_icon_299660": {
         "linux": {
             "root": "steam_icon_299660"
@@ -12324,6 +12284,11 @@
     "steam_icon_474750": {
         "linux": {
             "root": "steam_icon_474750"
+        }
+    },
+    "steam_icon_60": {
+        "linux": {
+            "root": "steam_icon_60"
         }
     },
     "steamskinmanager": {
@@ -12745,6 +12710,7 @@
         "linux": {
             "root": "telegram",
             "symlinks": [
+                "chrome-clhhggbfdinjmjhajaheehoeibfljjno-Default",
                 "org.telegram.desktop",
                 "sigram",
                 "telegram-desktop"
@@ -12819,6 +12785,11 @@
     "terminology": {
         "linux": {
             "root": "terminology"
+        }
+    },
+    "terminus": {
+        "linux": {
+            "root": "terminus"
         }
     },
     "terra": {
@@ -14131,6 +14102,7 @@
             "root": "web-whatsapp",
             "symlinks": [
                 "chrome-bgkodfmeijboinjdegggmkbkjfiagaan-Default",
+                "chrome-gcjbnclfkeffmdfdhflnadahgmajfgcm-Default",
                 "whatsapp",
                 "whatsapp-desktop",
                 "whatsappfordesktop"
@@ -14884,7 +14856,7 @@
             "root": "zynaddsubfx"
         }
     },
-    "OMG_Chrome": {
+    "web-omg-chrome": {
         "linux": {
             "root": "chrome-aeellliejpiclijnghognjagifplmmij-Default",
             "symlinks": [
@@ -14892,12 +14864,12 @@
             ]
         }
     },
-    "Gliffy_Diagrams": {
+    "gliffy-diagrams": {
         "linux": {
             "root": "chrome-bhmicilclplefnflapjmnngmkkkkpfad-Default"
         }
     },
-    "Signal_Private_Messenger": {
+    "signal-private-messenger": {
         "linux": {
             "root": "chrome-bikioccmkafdpakkkcpdbppfkghcmihk-Default"
         }
@@ -14907,27 +14879,22 @@
             "root": "chrome-bnadbgmffcofipfljniafanjcafjlbom-Default"
         }
     },
-    "Pixsta": {
+    "pixsta": {
         "linux": {
             "root": "chrome-cijncchffkmlnfdbnkkfclcbnjcoegjc-Default"
         }
     },
-    "Telegram_Web": {
-        "linux": {
-            "root": "chrome-clhhggbfdinjmjhajaheehoeibfljjno-Default"
-        }
-    },
-    "Entanglement": {
+    "entanglement": {
         "linux": {
             "root": "chrome-cmnpffgfpcohhpoddjankjanolcekbni-Default"
         }
     },
-    "Videostream_for_Google_Chromecast": {
+    "videostream-for-google-chromecast": {
         "linux": {
             "root": "chrome-cnciopoikihiagdjbjpnocolokfelagl-Default"
         }
     },
-    "Weebly_Website_Builder": {
+    "weebly-website-builder": {
         "linux": {
             "root": "chrome-cnocophcbjfiimmnhlhleaooedeheifb-Default",
             "symlinks": [
@@ -14935,7 +14902,7 @@
             ]
         }
     },
-    "MightyText": {
+    "mightytext": {
         "linux": {
             "root": "chrome-dkfhfaphfkopdgpbfkebjfcblcafcmpi-Default",
             "symlinks": [
@@ -14943,12 +14910,12 @@
             ]
         }
     },
-    "TickTick": {
+    "ticktick": {
         "linux": {
             "root": "chrome-eempgbpnkjnacmilmobpbhbfpdjdcpgd-Default"
         }
     },
-    "Nitrous": {
+    "nitrous": {
         "linux": {
             "root": "chrome-efdcneeepllhjlbejkfnaolelbpdacai-Default",
             "symlinks": [
@@ -14956,17 +14923,35 @@
             ]
         }
     },
-    "Habit_RPG": {
+    "google-photos": {
+        "linux": {
+            "root": "chrome-efjnaogkjbogokcnohkmnjdojkikgobo-Default",
+            "symlinks": [
+                "chrome-hcglmfcclpfgljeaiahehebeoaiicbko-Default"
+            ]
+        }
+    },
+    "habit-rpg": {
         "linux": {
             "root": "chrome-ehjonnoogdmhhidjcldckckmfkpcfefh-Default"
         }
     },
-    "Instagram": {
+    "instagram": {
         "linux": {
             "root": "chrome-eknidjojcplfcgkoffboklcbfhmcdhip-Default"
         }
     },
-    "Postman": {
+    "google-flights": {
+        "linux": {
+            "root": "chrome-epionbmgciknkbdibokmpmcfllkdfeeo-Default"
+        }
+    },
+    "koding": {
+        "linux": {
+            "root": "chrome-fgbjpbdfegnodokpoejnbhnblcojccal-Default"
+        }
+    },
+    "postman": {
         "linux": {
             "root": "chrome-fhbjgbiflinjbdggehcddcbncdddomop-Default",
             "symlinks": [
@@ -14975,37 +14960,45 @@
             ]
         }
     },
-    "Caret": {
+    "caret": {
         "linux": {
             "root": "chrome-fljalecfjciodhpcledpamjachpmelml-Default"
         }
     },
-    "Chrome_Remote_Desktop": {
+    "todoist": {
+        "linux": {
+            "root": "chrome-fnibmbcdeepaahjmddiihohjanlimlmj-Default",
+            "symlinks": [
+                "chrome-bgjohebimpjdhhocbknplfelpmdhifhd-Default"
+            ]
+        }
+    },
+    "chrome-remote-desktop": {
         "linux": {
             "root": "chrome-gbchcmhmhahfdphkhkmpfmihenigjmpp-Default"
         }
     },
-    "The_Economist": {
+    "the-economist": {
         "linux": {
             "root": "chrome-gebjgjhbjedcomcajgpodjgfjgkepgpl-Default"
         }
     },
-    "AdBlock": {
+    "adblock": {
         "linux": {
             "root": "chrome-gighmmpiobklfepjocnamgkkbiglidom-Default"
         }
     },
-    "AllCast_Receiver": {
+    "allcast-receiver": {
         "linux": {
             "root": "chrome-hjbljnpdahefgnopeohlaeohgkiidnoe-Default"
         }
     },
-    "AirDroid": {
+    "airdroid": {
         "linux": {
             "root": "chrome-hkgndiocipalkpejnpafdbdlfdjihomd-Default"
         }
     },
-    "StackEdit": {
+    "stackedit": {
         "linux": {
             "root": "chrome-https___stackedit.io_editor",
             "symlinks": [
@@ -15013,252 +15006,272 @@
             ]
         }
     },
-    "Full_Web_Tetris": {
+    "full-web-tetris": {
         "linux": {
             "root": "chrome-ieicmdpibfnjbmjolkmohnelljmjomoj-Default"
         }
     },
-    "Looper_for_YouTube": {
+    "looper-for-youtube": {
         "linux": {
             "root": "chrome-iggpfpnahkgpnindfkdncknoldgnccdg-Default"
         }
     },
-    "Murder_Files": {
+    "murder-files": {
         "linux": {
             "root": "chrome-ijfecbiladpinddbjfodaaiahggomhaf-Default"
         }
     },
-    "Slack": {
+    "web-bitbucket": {
         "linux": {
-            "root": "chrome-jeogkiiogjbmhklcnbgkdcjoioegiknm-Default"
+            "root": "chrome-jbdlaalbpgnopkpnmoppmccbgkjhfmgh-Default"
         }
     },
-    "Cut_the_Rope": {
+    "cut-the-rope": {
         "linux": {
             "root": "chrome-jfbadlndcminbkfojhlimnkgaackjmdo-Default"
         }
     },
-    "Marxico": {
+    "marxico": {
         "linux": {
             "root": "chrome-kidnkfckhbdkfgbicccmdggmpgogehop-Default"
         }
     },
-    "Little_Alchemy": {
+    "little-alchemy": {
         "linux": {
             "root": "chrome-knkapnclbofjjgicpkfoagdjohlfjhpd-Default"
         }
     },
-    "Wave_Accounting": {
+    "wave-accounting": {
         "linux": {
             "root": "chrome-knpkfcpnjfbniadmfchjpcigfhookhaa-Default"
         }
     },
-    "WorkFlowy": {
+    "workflowy": {
         "linux": {
             "root": "chrome-koegeopamaoljbmhnfjbclbocehhgmkm-Default"
         }
     },
-    "LINE": {
+    "line": {
         "linux": {
             "root": "chrome-menkifleemblimdogmoihpfopnplikde-Default"
         }
     },
-    "miniLock": {
+    "minilock": {
         "linux": {
             "root": "chrome-mknafpnfcafklkflhenhaldedggpciao-Default"
         }
     },
-    "Snake": {
+    "snake": {
         "linux": {
             "root": "chrome-mlijpphckdfkmcjclnimmbknefojcaol-Default"
         }
     },
-    "WeatherBug": {
+    "sunrise-calendar": {
+        "linux": {
+            "root": "chrome-mojepfklcankkmikonjlnidiooanmpbb-Default"
+        }
+    },
+    "weatherbug": {
         "linux": {
             "root": "chrome-njkkjobcechefaoknodniidfjapgfoco-Default"
         }
     },
-    "Any.do": {
+    "any.do": {
         "linux": {
             "root": "chrome-ocgddccilgpeepgglnlpchkpgamkgmld-Default"
         }
     },
-    "Chrome_Apps_Developer_Tool": {
+    "google-fit": {
+        "linux": {
+            "root": "chrome-ofbpedjdfkboehhknoohhenbpmgcjoik-Default"
+        }
+    },
+    "chrome-apps-developer-tool": {
         "linux": {
             "root": "chrome-ohmmkhmmmpcnpikjeljgnaoabkaalbgc-Default"
         }
     },
-    "Marqueed_Screenshots": {
+    "table-tennis": {
+        "linux": {
+            "root": "chrome-omimkinlomnncbmnceacpkmlbfaapojj-Default"
+        }
+    },
+    "marqueed-screenshots": {
         "linux": {
             "root": "chrome-pkbfakcphdokdnbdhlndlpcehebmplab-Default"
         }
     },
-    "Chrome_Dev_Editor": {
+    "chrome-dev-editor": {
         "linux": {
             "root": "chrome-pnoffddplpippgcfjdhbmhkofpnaalpg-Default"
         }
     },
-    "Empire_Total_War": {
+    "empire-total-war": {
         "linux": {
             "root": "steam_icon_10500"
         }
     },
-    "Terraria": {
+    "terraria": {
         "linux": {
             "root": "steam_icon_105600"
         }
     },
-    "Bastion": {
+    "bastion": {
         "linux": {
             "root": "steam_icon_107100"
         }
     },
-    "Rochard": {
+    "rochard": {
         "linux": {
             "root": "steam_icon_107800"
         }
     },
-    "Avadon_The_Black_Fortress": {
+    "avadon-the-black-fortress": {
         "linux": {
             "root": "steam_icon_112100"
         }
     },
-    "Monaco_Whats_Yours_Is_Mine": {
+    "monaco-whats-yours-is-mine": {
         "linux": {
             "root": "steam_icon_113020"
         }
     },
-    "Costume_Quest": {
+    "costume-quest": {
         "linux": {
             "root": "steam_icon_115100"
         }
     },
-    "HalfLife_Blue_Shift": {
+    "halflife-blue-shift": {
         "linux": {
             "root": "steam_icon_130"
         }
     },
-    "Uplink": {
+    "darwinia": {
+        "linux": {
+            "root": "steam_icon_1500"
+        }
+    },
+    "uplink": {
         "linux": {
             "root": "steam_icon_1510"
         }
     },
-    "Team_Fortress_Classic": {
+    "team-fortress-classic": {
         "linux": {
             "root": "steam_icon_20"
         }
     },
-    "Oil_Rush": {
+    "oil-rush": {
         "linux": {
             "root": "steam_icon_200390"
         }
     },
-    "XCOM_Enemy_Unknown": {
+    "xcom-enemy-unknown": {
         "linux": {
             "root": "steam_icon_200510"
         }
     },
-    "Cave_Story": {
+    "cave-story": {
         "linux": {
             "root": "steam_icon_200900"
         }
     },
-    "Dynamite_Jack": {
+    "dynamite-jack": {
         "linux": {
             "root": "steam_icon_202730"
         }
     },
-    "Superbrothers_Sword__Sworcery_EP": {
+    "superbrothers-sword-sworcery-ep": {
         "linux": {
             "root": "steam_icon_204060"
         }
     },
-    "Waveform": {
+    "waveform": {
         "linux": {
             "root": "steam_icon_204180"
         }
     },
-    "Snapshot": {
+    "snapshot": {
         "linux": {
             "root": "steam_icon_204220"
         }
     },
-    "Cubemen": {
+    "cubemen": {
         "linux": {
             "root": "steam_icon_207250"
         }
     },
-    "Stealth_Bastard_Deluxe": {
+    "stealth-bastard-deluxe": {
         "linux": {
             "root": "steam_icon_209190"
         }
     },
-    "Splice": {
+    "splice": {
         "linux": {
             "root": "steam_icon_209790"
         }
     },
-    "Starbound": {
+    "starbound": {
         "linux": {
             "root": "steam_icon_211820"
         }
     },
-    "Star_Conflict": {
+    "star-conflict": {
         "linux": {
             "root": "steam_icon_212070"
         }
     },
-    "Mark_of_the_Ninja": {
+    "mark-of-the-ninja": {
         "linux": {
             "root": "steam_icon_214560"
         }
     },
-    "Guacamelee_Gold_Edition": {
+    "guacamelee-gold-edition": {
         "linux": {
             "root": "steam_icon_214770"
         }
     },
-    "WAKFU": {
+    "wakfu": {
         "linux": {
             "root": "steam_icon_215080"
         }
     },
-    "The_Book_of_Unwritten_Tales": {
+    "the-book-of-unwritten-tales": {
         "linux": {
             "root": "steam_icon_215160"
         }
     },
-    "Anna__Extended_Edition": {
+    "anna-extended-edition": {
         "linux": {
             "root": "steam_icon_217690"
         }
     },
-    "Hotline_Miami": {
+    "hotline-miami": {
         "linux": {
             "root": "steam_icon_219150"
         }
     },
-    "Proteus": {
+    "proteus": {
         "linux": {
             "root": "steam_icon_219680"
         }
     },
-    "Dont_Starve": {
+    "dont-starve": {
         "linux": {
             "root": "steam_icon_219740"
         }
     },
-    "King_Arthurs_Gold": {
+    "king-arthurs-gold": {
         "linux": {
             "root": "steam_icon_219830"
         }
     },
-    "Antichamber": {
+    "antichamber": {
         "linux": {
             "root": "steam_icon_219890"
         }
     },
-    "HalfLife_2": {
+    "halflife-2": {
         "linux": {
             "root": "steam_icon_220",
             "symlinks": [
@@ -15269,7 +15282,7 @@
             ]
         }
     },
-    "World_of_Goo": {
+    "world-of-goo": {
         "linux": {
             "root": "steam_icon_22000",
             "symlinks": [
@@ -15280,37 +15293,37 @@
             ]
         }
     },
-    "Kerbal_Space_Program": {
+    "kerbal-space-program": {
         "linux": {
             "root": "steam_icon_220200"
         }
     },
-    "Thomas_Was_Alone": {
+    "thomas-was-alone": {
         "linux": {
             "root": "steam_icon_220780"
         }
     },
-    "Eufloria_HD": {
+    "eufloria-hd": {
         "linux": {
             "root": "steam_icon_221180"
         }
     },
-    "Penumbra_Black_Plague_Gold_Edition": {
+    "penumbra-black-plague-gold-edition": {
         "linux": {
             "root": "steam_icon_22120"
         }
     },
-    "Little_Inferno": {
+    "little-inferno": {
         "linux": {
             "root": "steam_icon_221260"
         }
     },
-    "Penumbra_Requiem": {
+    "penumbra-requiem": {
         "linux": {
             "root": "steam_icon_22140"
         }
     },
-    "Super_Hexagon": {
+    "super-hexagon": {
         "linux": {
             "root": "steam_icon_221640",
             "symlinks": [
@@ -15318,107 +15331,107 @@
             ]
         }
     },
-    "Penumbra_Overture": {
+    "penumbra-overture": {
         "linux": {
             "root": "steam_icon_22180"
         }
     },
-    "The_Book_of_Unwritten_Tales_The_Critter_Chronicles": {
+    "the-book-of-unwritten-tales-the-critter-chronicles": {
         "linux": {
             "root": "steam_icon_221830"
         }
     },
-    "Wargame_Airland_Battle": {
+    "wargame-airland-battle": {
         "linux": {
             "root": "steam_icon_222750"
         }
     },
-    "Insurgency": {
+    "insurgency": {
         "linux": {
             "root": "steam_icon_222880"
         }
     },
-    "No_More_Room_in_Hell": {
+    "no-more-room-in-hell": {
         "linux": {
             "root": "steam_icon_224260"
         }
     },
-    "FEZ": {
+    "fez": {
         "linux": {
             "root": "steam_icon_224760"
         }
     },
-    "Cities_in_Motion_2": {
+    "cities-in-motion-2": {
         "linux": {
             "root": "steam_icon_225420"
         }
     },
-    "Waking_Mars": {
+    "waking-mars": {
         "linux": {
             "root": "steam_icon_227200"
         }
     },
-    "Euro_Truck_Simulator_2": {
+    "euro-truck-simulator-2": {
         "linux": {
             "root": "steam_icon_227300"
         }
     },
-    "The_Swapper": {
+    "the-swapper": {
         "linux": {
             "root": "steam_icon_231160"
         }
     },
-    "Kentucky_Route_Zero": {
+    "kentucky-route-zero": {
         "linux": {
             "root": "steam_icon_231200"
         }
     },
-    "Company_of_Heroes_2": {
+    "company-of-heroes-2": {
         "linux": {
             "root": "steam_icon_231430"
         }
     },
-    "Gone_Home": {
+    "gone-home": {
         "linux": {
             "root": "steam_icon_232430"
         }
     },
-    "Broken_Age": {
+    "broken-age": {
         "linux": {
             "root": "steam_icon_232790"
         }
     },
-    "Kairo": {
+    "kairo": {
         "linux": {
             "root": "steam_icon_233230"
         }
     },
-    "Prison_Architect": {
+    "prison-architect": {
         "linux": {
             "root": "steam_icon_233450"
         }
     },
-    "Shadowrun_Returns": {
+    "shadowrun-returns": {
         "linux": {
             "root": "steam_icon_234650"
         }
     },
-    "Dust_An_Elysian_Tail": {
+    "dust-an-elysian-tail": {
         "linux": {
             "root": "steam_icon_236090"
         }
     },
-    "War_Thunder": {
+    "war-thunder": {
         "linux": {
             "root": "steam_icon_236390"
         }
     },
-    "Europa_Universalis_IV": {
+    "europa-universalis-iv": {
         "linux": {
             "root": "steam_icon_236850"
         }
     },
-    "System_Shock_2": {
+    "system-shock-2": {
         "linux": {
             "root": "steam_icon_238210",
             "symlinks": [
@@ -15426,32 +15439,32 @@
             ]
         }
     },
-    "Outlast": {
+    "outlast": {
         "linux": {
             "root": "steam_icon_238320"
         }
     },
-    "BattleBlock_Theater": {
+    "battleblock-theater": {
         "linux": {
             "root": "steam_icon_238460"
         }
     },
-    "Papers_Please": {
+    "papers-please": {
         "linux": {
             "root": "steam_icon_239030"
         }
     },
-    "Hammerwatch": {
+    "hammerwatch": {
         "linux": {
             "root": "steam_icon_239070"
         }
     },
-    "Amnesia_A_Machine_for_Pigs": {
+    "amnesia-a-machine-for-pigs": {
         "linux": {
             "root": "steam_icon_239200"
         }
     },
-    "Spelunky": {
+    "spelunky": {
         "linux": {
             "root": "steam_icon_239350",
             "symlinks": [
@@ -15459,12 +15472,12 @@
             ]
         }
     },
-    "Game_Dev_Tycoon": {
+    "game-dev-tycoon": {
         "linux": {
             "root": "steam_icon_239820"
         }
     },
-    "CounterStrike_Source": {
+    "counterstrike-source": {
         "linux": {
             "root": "steam_icon_240",
             "symlinks": [
@@ -15472,122 +15485,117 @@
             ]
         }
     },
-    "Rogue_Legacy": {
+    "rogue-legacy": {
         "linux": {
             "root": "steam_icon_241600"
         }
     },
-    "Middleearth_Shadow_of_Mordor": {
+    "middleearth-shadow-of-mordor": {
         "linux": {
             "root": "steam_icon_241930"
         }
     },
-    "PixelJunk_Monsters_Ultimate": {
+    "pixeljunk-monsters-ultimate": {
         "linux": {
             "root": "steam_icon_243780"
         }
     },
-    "Toribash": {
+    "toribash": {
         "linux": {
             "root": "steam_icon_248570"
         }
     },
-    "Risk_of_Rain": {
+    "risk-of-rain": {
         "linux": {
             "root": "steam_icon_248820"
         }
     },
-    "FORCED_Slightly_Better_Edition": {
+    "forced-slightly-better-edition": {
         "linux": {
             "root": "steam_icon_249990"
         }
     },
-    "8BitMMO": {
+    "8bitmmo": {
         "linux": {
             "root": "steam_icon_250420"
         }
     },
-    "The_Binding_of_Isaac_Rebirth": {
+    "the-binding-of-isaac-rebirth": {
         "linux": {
             "root": "steam_icon_250900"
         }
     },
-    "Borderlands_The_PreSequel": {
+    "borderlands-the-presequel": {
         "linux": {
             "root": "steam_icon_261640"
         }
     },
-    "Cogs": {
+    "cogs": {
         "linux": {
             "root": "steam_icon_26500"
         }
     },
-    "Fistful_of_Frags": {
+    "fistful-of-frags": {
         "linux": {
             "root": "steam_icon_265630"
         }
     },
-    "Goat_Simulator": {
+    "goat-simulator": {
         "linux": {
             "root": "steam_icon_265930"
         }
     },
-    "Hotline_Miami_2_Wrong_Number": {
+    "hotline-miami-2-wrong-number": {
         "linux": {
             "root": "steam_icon_274170"
         }
     },
-    "Guacamelee_Super_Turbo_Championship_Edition": {
+    "guacamelee-super-turbo-championship-edition": {
         "linux": {
             "root": "steam_icon_275390"
         }
     },
-    "HalfLife_Source": {
+    "halflife-source": {
         "linux": {
             "root": "steam_icon_280"
         }
     },
-    "Stellaris": {
+    "stellaris": {
         "linux": {
             "root": "steam_icon_281990"
         }
     },
-    "Mini_Metro": {
+    "mini-metro": {
         "linux": {
             "root": "steam_icon_287980"
         }
     },
-    "HalfLife_2_Update": {
+    "halflife-2-update": {
         "linux": {
             "root": "steam_icon_290930"
         }
     },
-    "Deponia_The_Complete_Journey": {
+    "deponia-the-complete-journey": {
         "linux": {
             "root": "steam_icon_292910"
         }
     },
-    "Duet": {
+    "duet": {
         "linux": {
             "root": "steam_icon_292600"
         }
     },
-    "Crawl": {
-        "linux": {
-            "root": "steam_icon_293780"
-        }
-    },
-    "PARTICLE_MACE": {
+    "particle-mace": {
         "linux": {
             "root": "steam_icon_295690"
         }
     },
-    "Heavy_Bullets": {
+    "heavy-bullets": {
         "linux": {
             "root": "steam_icon_297120"
         }
     },
-    "Day_of_Defeat": {
+    "day-of-defeat": {
         "linux": {
             "root": "steam_icon_30",
             "symlinks": [
@@ -15595,47 +15603,47 @@
             ]
         }
     },
-    "Shadowrun_Dragonfall__Directors_Cut": {
+    "shadowrun-dragonfall-directors-cut": {
         "linux": {
             "root": "steam_icon_300550"
         }
     },
-    "Robocraft": {
+    "robocraft": {
         "linux": {
             "root": "steam_icon_301520"
         }
     },
-    "Floating_Point": {
+    "floating-point": {
         "linux": {
             "root": "steam_icon_302380"
         }
     },
-    "Boson_X": {
+    "boson-x": {
         "linux": {
             "root": "steam_icon_302610"
         }
     },
-    "Sakura_Spirit": {
+    "sakura-spirit": {
         "linux": {
             "root": "steam_icon_313740"
         }
     },
-    "Double_Action_Boogaloo": {
+    "double-action-boogaloo": {
         "linux": {
             "root": "steam_icon_317360"
         }
     },
-    "Geometry_Dash": {
+    "geometry-dash": {
         "linux": {
             "root": "steam_icon_322170"
         }
     },
-    "Dont_Starve_Together": {
+    "dont-starve-together": {
         "linux": {
             "root": "steam_icon_322330"
         }
     },
-    "Dwarfs": {
+    "dwarfs": {
         "linux": {
             "root": "steam_icon_35480",
             "symlinks": [
@@ -15643,7 +15651,7 @@
             ]
         }
     },
-    "Portal": {
+    "portal": {
         "linux": {
             "root": "steam_icon_400",
             "symlinks": [
@@ -15651,37 +15659,37 @@
             ]
         }
     },
-    "Garrys_Mod": {
+    "garrys-mod": {
         "linux": {
             "root": "steam_icon_4000"
         }
     },
-    "Super_Meat_Boy": {
+    "super-meat-boy": {
         "linux": {
             "root": "steam_icon_40800"
         }
     },
-    "Serious_Sam_3_BFE": {
+    "serious-sam-3-bfe": {
         "linux": {
             "root": "steam_icon_41070"
         }
     },
-    "Team_Fortress_2": {
+    "team-fortress-2": {
         "linux": {
             "root": "steam_icon_440"
         }
     },
-    "Natural_Selection_2": {
+    "natural-selection-2": {
         "linux": {
             "root": "steam_icon_4920"
         }
     },
-    "Borderlands_2": {
+    "borderlands-2": {
         "linux": {
             "root": "steam_icon_49520"
         }
     },
-    "Beat_Hazard": {
+    "beat-hazard": {
         "linux": {
             "root": "steam_icon_49600",
             "symlinks": [
@@ -15689,17 +15697,17 @@
             ]
         }
     },
-    "HalfLife_Opposing_Force": {
+    "halflife-opposing-force": {
         "linux": {
             "root": "steam_icon_50"
         }
     },
-    "Spec_Ops_The_Line": {
+    "spec-ops-the-line": {
         "linux": {
             "root": "steam_icon_50300"
         }
     },
-    "Left_4_Dead_2": {
+    "left-4-dead-2": {
         "linux": {
             "root": "steam_icon_550",
             "symlinks": [
@@ -15707,17 +15715,12 @@
             ]
         }
     },
-    "Wargame_European_Escalation": {
+    "wargame-european-escalation": {
         "linux": {
             "root": "steam_icon_58610"
         }
     },
-    "Ricochet": {
-        "linux": {
-            "root": "steam_icon_60"
-        }
-    },
-    "Shank": {
+    "shank": {
         "linux": {
             "root": "steam_icon_6120",
             "symlinks": [
@@ -15727,12 +15730,12 @@
             ]
         }
     },
-    "Zen_Bound_2": {
+    "zen-bound-2": {
         "linux": {
             "root": "steam_icon_61600"
         }
     },
-    "Portal_2": {
+    "portal-2": {
         "linux": {
             "root": "steam_icon_620",
             "symlinks": [
@@ -15740,32 +15743,32 @@
             ]
         }
     },
-    "Sid_Meiers_Civilization_Beyond_Earth": {
+    "sid-meiers-civilization-beyond-earth": {
         "linux": {
             "root": "steam_icon_65980"
         }
     },
-    "HalfLife": {
+    "halflife": {
         "linux": {
             "root": "steam_icon_70"
         }
     },
-    "VVVVVV": {
+    "vvvvvv": {
         "linux": {
             "root": "steam_icon_70300"
         }
     },
-    "Closure": {
+    "closure": {
         "linux": {
             "root": "steam_icon_72000"
         }
     },
-    "CounterStrike_Global_Offensive": {
+    "counterstrike-global-offensive": {
         "linux": {
             "root": "steam_icon_730"
         }
     },
-    "CounterStrike_Condition_Zero": {
+    "counterstrike-condition-zero": {
         "linux": {
             "root": "steam_icon_80",
             "symlinks": [
@@ -15773,17 +15776,17 @@
             ]
         }
     },
-    "Sid_Meiers_Civilization_V": {
+    "sid-meiers-civilization-v": {
         "linux": {
             "root": "steam_icon_8930"
         }
     },
-    "Solar_2": {
+    "solar-2": {
         "linux": {
             "root": "steam_icon_97000"
         }
     },
-    "Dungeons_of_Dredmor": {
+    "dungeons-of-dredmor": {
         "linux": {
             "root": "steam_icon_98800"
         }
