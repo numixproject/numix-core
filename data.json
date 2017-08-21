@@ -667,6 +667,11 @@
             ]
         }
     },
+    "angry-birds-rio": {
+        "android": [
+            "com_rovio_angrybirdsrio"
+        ]
+    },
     "angrysearch": {
         "linux": {
             "root": "angrysearch"
@@ -719,7 +724,10 @@
         ],
         "linux": {
             "root": "app-launcher",
-            "bfb": "launcher_bfb"
+            "bfb": "launcher_bfb",
+            "symlinks": [
+                "chrome-app-list"
+            ]
         }
     },
     "appgrid": {
@@ -1200,6 +1208,11 @@
                 "Babe"
             ]
         }
+    },
+    "bad-piggies": {
+        "android": [
+            "com_rovio_badpiggies"
+        ]
     },
     "baka-mplayer": {
         "linux": {
@@ -2463,11 +2476,6 @@
             "symlinks": [
                 "chrome-igpknfbadalohcopbkaepbgblomnbdma-Default"
             ]
-        }
-    },
-    "chrome-app-list": {
-        "linux": {
-            "root": "chrome-app-list"
         }
     },
     "chrome-bfimiibpomebbdeomajcknhccgpkjmlh-Default": {
@@ -6315,6 +6323,11 @@
             ]
         }
     },
+    "greenify": {
+        "android": [
+            "com_oasisfeng_greenify"
+        ]
+    },
     "gretl": {
         "linux": {
             "root": "gretl"
@@ -9153,6 +9166,11 @@
             "root": "mutt"
         }
     },
+    "my-fitness-pal": {
+        "android": [
+            "com_myfitnesspal_android"
+        ]
+    },
     "mynotex": {
         "linux": {
             "root": "mynotex"
@@ -11720,6 +11738,16 @@
             "root": "recoll"
         }
     },
+    "reddit-sync": {
+        "android": [
+            "com_laurencedawson_reddit_sync"
+        ]
+    },
+    "reddit-sync-pro": {
+        "android": [
+            "com_laurencedawson_reddit_sync_pro"
+        ]
+    },
     "redeclipse": {
         "linux": {
             "root": "redeclipse"
@@ -13634,6 +13662,11 @@
             ]
         }
     },
+    "stubhub": {
+        "android": [
+            "com_stubhub"
+        ]
+    },
     "stuntrally": {
         "linux": {
             "root": "stuntrally"
@@ -15340,6 +15373,9 @@
         }
     },
     "web-newsblur": {
+        "android": [
+            "com_newsblur"
+        ],
         "linux": {
             "root": "web-newsblur",
             "symlinks": [
@@ -15348,6 +15384,11 @@
                 "unity-webapps-newsblur"
             ]
         }
+    },
+    "web-nytimes": {
+        "android": [
+            "com_nytimes_android"
+        ]
     },
     "web-outlook": {
         "android": [
@@ -15433,6 +15474,11 @@
                 "unity-webapps-reddit"
             ]
         }
+    },
+    "web-stackexchange": {
+        "android": [
+            "com_stackexchange_marvin"
+        ]
     },
     "web-trello": {
         "linux": {
