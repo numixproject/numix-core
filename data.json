@@ -5669,6 +5669,7 @@
         "linux": {
             "root": "gnome-usage",
             "symlinks": [
+                "com.github.stsdc.monitor",
                 "deepin-system-monitor",
                 "org.gnome.Usage"
             ]
@@ -11237,7 +11238,10 @@
     },
     "quickhash": {
         "linux": {
-            "root": "quickhash"
+            "root": "quickhash",
+            "symlinks": [
+                "artemanufrij.hashit"
+            ]
         }
     },
     "quilter": {
