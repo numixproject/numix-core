@@ -13817,6 +13817,7 @@
                 "mousepad",
                 "notecase",
                 "notepad-48",
+                "org.gnome.gedit",
                 "oxygen",
                 "scratch-text-editor",
                 "textadept",
@@ -14691,7 +14692,8 @@
         "linux": {
             "root": "vocal",
             "symlinks": [
-                "com.github.needle-and-thread.vocal"
+                "com.github.needle-and-thread.vocal",
+                "com.github.needleandthread.vocal"
             ]
         }
     },
