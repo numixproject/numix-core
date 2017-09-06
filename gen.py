@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 # pylint: disable=C0103
 """
 # Copyright (C) 2016
