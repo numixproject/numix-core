@@ -24,7 +24,7 @@ has_errors = False
 with open(DB_FILE, 'r') as db_obj:
     try:
         validate(json.load(db_obj), SCHEMA)
-    except (ValidationError, json.JSONDecodeError) as error:
+    except (ValidationError, ValueError) as error:
         has_errors = True
         print("\033[91m Invalid database \033[0m")
         print("\033[91m {}\033[0m".format(error))
