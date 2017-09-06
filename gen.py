@@ -1,5 +1,4 @@
-#!/usr/bin/python3
-# pylint: disable=C0103
+#!/usr/bin/env python3
 """
 # Copyright (C) 2016
 # This program is free software: you can redistribute it and/or modify
@@ -116,12 +115,14 @@ except FileNotFoundError:
 if platform == "android":
     print("\nGenerating Android theme...")
     theme_name = "com.numix.icons_{0}".format(theme)
-    android_dir = theme_name + "/MainActivity22/app/src/main/res/drawable-xxhdpi"
+    android_dir = "/MainActivity22/app/src/main/res/drawable-xxhdpi"
+    theme_dir = theme_name + android_dir
     mkdir(android_dir)
     for icon_name, icon in icons.items():
         for output_name in icon.get("android", []):
             source = "icons/{0}/48/{1}.svg".format(theme, format(icon_name))
-            output = "{0}/{1}.png".format(android_dir, output_name.replace("_", "."))
+            output = "{0}/{1}.png".format(android_dir,
+                                          output_name.replace("_", "."))
             if path.exists(source):
                 convert_svg2png(source, output, 192, 192)
 elif platform == "linux":
@@ -146,7 +147,8 @@ elif platform == "linux":
                         convert_svg2png(source, output_bfb, 144, 144)
                 copy2(source, output)
                 for link in icon["linux"].get("symlinks", []):
-                    output_symlink = "{0}/{1}/apps/{2}.svg".format(linux_dir, size, link)
+                    output_symlink = "{0}/{1}/apps/{2}.svg".format(linux_dir,
+                                                                   size, link)
                     try:
                         symlink(root, output_symlink)
                     except FileExistsError:
@@ -169,6 +171,7 @@ elif platform == "osx":
             if path.exists(source):
                 copy2(source, output_svg)
                 convert_svg2png(source, output_png, 1024, 1024)
-                call(["png2icns", output_icn, output_png], stdout=PIPE, stderr=PIPE)
+                call(["png2icns", output_icn, output_png],
+                     stdout=PIPE, stderr=PIPE)
 # Clean Up
 print("Done!\n")
