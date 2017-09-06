@@ -1,15 +1,32 @@
 {
-    "definitions": {
-        "linux": {
+    "type": "object",
+    "patternProperties": {
+        "[a-zA-Z0-9]*$": {
             "type": "object",
             "properties": {
-                "root": {
-                    "type": "string"
+                "linux": {
+                    "type": "object",
+                    "properties": {
+                        "root": {
+                            "type": "string"
+                        },
+                        "bfb": {
+                            "type": "string"
+                        },
+                        "symlinks": {
+                            "type": "array",
+                            "items": {
+                                "type": "string"
+                            },
+                            "minItems": 1,
+                            "uniqueItems": true
+                        }
+                    },
+                    "required": [
+                        "root"
+                    ]
                 },
-                "bfb": {
-                    "type": "string"
-                },
-                "symlinks": {
+                "android": {
                     "type": "array",
                     "items": {
                         "type": "string"
@@ -18,31 +35,11 @@
                     "uniqueItems": true
                 }
             },
+            "additionalProperties": false,
+            "minProperties": 1,
             "required": [
-                "root"
+                "linux"
             ]
-        },
-        "android": {
-            "type": "array",
-            "items": {
-                "type": "string"
-            },
-            "minItems": 1,
-            "uniqueItems": true
         }
-    },
-    "type": "object",
-    "items": {
-        "type": "object",
-        "properties": {
-            "linux": {
-                "$ref": "#/definitions/linux"
-            },
-            "android": {
-                "$ref": "#/definitions/android"
-            }
-        },
-        "additionalProperties": false,
-        "minProperties": 1
     }
 }
