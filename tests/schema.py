@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# pylint: disable=C0103
 """
 # Copyright (C) 2016
 # This program is free software: you can redistribute it and/or modify
