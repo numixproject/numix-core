@@ -12,4 +12,5 @@ install:
     - sudo pip3 install --upgrade pip
     - sudo pip3 install cairosvg pylint jsonschema
 script:
-    - ./tests/pylint.sh
+    - sh ./tests/pylint.sh
+    - python3 ./tests/schema.py
