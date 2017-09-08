@@ -929,7 +929,8 @@
         "linux": {
             "root": "astromenace",
             "symlinks": [
-                "endless-sky"
+                "endless-sky",
+                "io.github.EndlessSky.endless-sky"
             ]
         }
     },
@@ -3173,7 +3174,8 @@
             "root": "deja-dup",
             "symlinks": [
                 "mintBackup",
-                "mintbackup"
+                "mintbackup",
+                "org.gnome.DejaDup"
             ]
         }
     },
@@ -4025,7 +4027,10 @@
     },
     "electron": {
         "linux": {
-            "root": "electron"
+            "root": "electron",
+            "symlinks": [
+                "io.atom.electron.BaseApp"
+            ]
         }
     },
     "electrum": {
@@ -4426,7 +4431,10 @@
     },
     "filezilla": {
         "linux": {
-            "root": "filezilla"
+            "root": "filezilla",
+            "symlinks": [
+                "org.filezillaproject.Filezilla"
+            ]
         }
     },
     "fillets-ng": {
@@ -5251,7 +5259,10 @@
     },
     "glade": {
         "linux": {
-            "root": "glade"
+            "root": "glade",
+            "symlinks": [
+                "org.gnome.Glade"
+            ]
         }
     },
     "glade-3": {
@@ -6641,7 +6652,10 @@
     },
     "iagno": {
         "linux": {
-            "root": "iagno"
+            "root": "iagno",
+            "symlinks": [
+                "org.gnome.iagno"
+            ]
         }
     },
     "ibus": {
@@ -10733,7 +10747,10 @@
     },
     "pulseeffects": {
         "linux": {
-            "root": "pulseeffects"
+            "root": "pulseeffects",
+            "symlinks": [
+                "com.github.wwmm.pulseeffects"
+            ]
         }
     },
     "pumpa": {
@@ -12105,7 +12122,8 @@
         "linux": {
             "root": "slack",
             "symlinks": [
-                "chrome-eifdbcbnlahelniokpkpdlhaocgjdcje-Default"
+                "chrome-eifdbcbnlahelniokpkpdlhaocgjdcje-Default",
+                "com.slack.Slack"
             ]
         }
     },
@@ -15560,7 +15578,10 @@
     },
     "xiphos": {
         "linux": {
-            "root": "xiphos"
+            "root": "xiphos",
+            "symlinks": [
+                "org.xiphos.Xiphos"
+            ]
         }
     },
     "xmind": {
