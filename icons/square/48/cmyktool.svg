@@ -1,24 +1,17 @@
-<svg width="48" height="48" version="1.1" viewBox="0 0 48 48.000001" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <linearGradient id="linearGradient4501" x1="-47" x2="-1" y1="2.8779e-15" y2="6.1232e-17" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#e4e4e4" offset="0"/>
-   <stop style="stop-color:#eee" offset="1"/>
-  </linearGradient>
- </defs>
- <g transform="translate(0 3.949e-5)">
-  <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4zm0 0.5v0.5c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.5c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.02"/>
-  <path d="m1 43.25v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.05"/>
-  <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
- </g>
- <rect transform="rotate(-90)" x="-47" y="1" width="46" height="46" rx="4" style="fill:url(#linearGradient4501)"/>
- <g transform="translate(0 3.949e-5)">
-  <g transform="translate(0 -1004.4)">
-   <path d="m1 1043.4v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
-  </g>
- </g>
- <path d="m24 10-6.5 6.5 6.5 6.5 6.5-6.5zm-7.5 7.5-6.5 6.5 6.5 6.5 6.5-6.5zm15 0l-6.5 6.5 6.5 6.5 6.5-6.5zm-7.5 7.5-6.5 6.5 6.5 6.5 6.5-6.5z" style="opacity:.1"/>
- <rect transform="rotate(45)" x="23.333" y="3.2947e-5" width="9.192" height="9.192" style="fill:#d76abf"/>
- <rect transform="rotate(45)" x="33.941" y="-10.606" width="9.192" height="9.192" style="fill:#f3f33f"/>
- <rect transform="rotate(45)" x="33.941" y="3.2947e-5" width="9.192" height="9.192" style="fill:#333"/>
- <rect transform="rotate(45)" x="23.333" y="-10.606" width="9.192" height="9.192" style="fill:#12bbda"/>
+<svg width="48" height="48" viewBox="0 0 48 48.000001" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="a" x1="-47" x2="-1" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e4e4e4"/>
+      <stop offset="1" stop-color="#eee"/>
+    </linearGradient>
+  </defs>
+  <path d="M1 43v.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4V43c0 2.216-1.784 4-4 4H5c-2.216 0-4-1.784-4-4zm0 .5v.5c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-.5c0 2.216-1.784 4-4 4H5c-2.216 0-4-1.784-4-4z" opacity=".02"/>
+  <path d="M1 43.25v.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-.25c0 2.216-1.784 4-4 4H5c-2.216 0-4-1.784-4-4z" opacity=".05"/>
+  <path d="M1 43v.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4V43c0 2.216-1.784 4-4 4H5c-2.216 0-4-1.784-4-4z" opacity=".1"/>
+  <rect transform="rotate(-90)" x="-47" y="1" width="46" height="46" rx="4" fill="url(#a)"/>
+  <path d="M1 39v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4H5c-2.216 0-4-1.784-4-4zM24 10l-6.5 6.5L24 23l6.5-6.5zm-7.5 7.5L10 24l6.5 6.5L23 24zm15 0L25 24l6.5 6.5L38 24zM24 25l-6.5 6.5L24 38l6.5-6.5z" opacity=".1"/>
+  <path fill="#d76abf" d="M16.499 16.499l6.5 6.5-6.5 6.5-6.5-6.5z"/>
+  <path fill="#f3f33f" d="M31.5 16.5L38 23l-6.5 6.5L25 23z"/>
+  <path fill="#333" d="M24 24l6.5 6.5L24 37l-6.5-6.5z"/>
+  <path fill="#12bbda" d="M23.998 9l6.5 6.5-6.5 6.499-6.5-6.5z"/>
 </svg>

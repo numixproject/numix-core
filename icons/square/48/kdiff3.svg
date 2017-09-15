@@ -1,43 +1,25 @@
-<svg width="48" height="48" version="1.1" viewBox="0 0 48 48.000001" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <linearGradient id="linearGradient4501" x1="-47" x2="-1" y1="2.8779e-15" y2="6.1232e-17" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#98c15f" offset="0"/>
-   <stop style="stop-color:#a1c76d" offset="1"/>
-  </linearGradient>
- </defs>
- <g transform="translate(0 3.949e-5)">
-  <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4zm0 0.5v0.5c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.5c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.02"/>
-  <path d="m1 43.25v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.05"/>
-  <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
- </g>
- <rect transform="rotate(-90)" x="-47" y="1" width="46" height="46" rx="4" style="fill:url(#linearGradient4501)"/>
- <path d="m11 13v19h10v1 2h16v-19h-10v-3h-16z" style="opacity:.1"/>
- <g transform="translate(0 3.949e-5)">
-  <g transform="translate(0 -1004.4)">
-   <path d="m1 1043.4v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
+<svg width="48" height="48" viewBox="0 0 48 48.000001" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="a" x1="-47" x2="-1" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#98c15f"/>
+      <stop offset="1" stop-color="#a1c76d"/>
+    </linearGradient>
+  </defs>
+  <path d="M1 43v.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4V43c0 2.216-1.784 4-4 4H5c-2.216 0-4-1.784-4-4zm0 .5v.5c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-.5c0 2.216-1.784 4-4 4H5c-2.216 0-4-1.784-4-4z" opacity=".02"/>
+  <path d="M1 43.25v.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-.25c0 2.216-1.784 4-4 4H5c-2.216 0-4-1.784-4-4z" opacity=".05"/>
+  <path d="M1 43v.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4V43c0 2.216-1.784 4-4 4H5c-2.216 0-4-1.784-4-4z" opacity=".1"/>
+  <rect transform="rotate(-90)" x="-47" y="1" width="46" height="46" rx="4" fill="url(#a)"/>
+  <path d="M11 13v19h10v3h16V16H27v-3H11z" opacity=".1"/>
+  <g>
+    <path d="M1 39v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4H5c-2.216 0-4-1.784-4-4z" opacity=".1"/>
   </g>
- </g>
- <g transform="translate(0,-1)">
-  <rect x="21" y="16" width="16" height="19" style="fill:#e8ebe1"/>
-  <g transform="translate(0,1)">
-   <rect x="23" y="17" width="12" height="1" style="fill:#aaa"/>
-   <rect x="26" y="19" width="9" height="1" style="fill:#aaa"/>
-   <rect x="26" y="21" width="6" height="1" style="fill:#aaa"/>
-   <rect x="26" y="23" width="7" height="1" style="fill:#aaa"/>
-   <rect x="26" y="25" width="9" height="1" style="fill:#aaa"/>
-   <rect x="23" y="27" width="9" height="1" style="fill:#aaa"/>
-   <rect x="23" y="29" width="12" height="1" style="fill:#aaa"/>
-   <rect x="23" y="31" width="12" height="1" style="fill:#aaa"/>
+  <g>
+    <path fill="#e8ebe1" d="M21 15h16v19H21z"/>
+    <g fill="#aaa">
+      <path d="M23 17h12v1H23zM26 19h9v1h-9zM26 21h6v1h-6zM26 23h7v1h-7zM26 25h9v1h-9zM23 27h9v1h-9zM23 29h12v1H23zM23 31h12v1H23z"/>
+    </g>
+    <path d="M21 15v17h6V15h-6z" opacity=".1"/>
+    <path fill="#f1f3ed" d="M11 12h16v19H11z"/>
+    <path fill="#b4b4b4" d="M13 14h12v1H13zM13 16h9v1h-9zM16 18h9v1h-9zM16 20h9v1h-9zM13 22h9v1h-9zM13 24h9v1h-9zM13 26h12v1H13zM13 28h12v1H13z"/>
   </g>
-  <path transform="translate(0,1)" d="m21 15v17h6v-17h-6z" style="opacity:.1"/>
-  <rect x="11" y="13" width="16" height="19" style="fill:#f1f3ed"/>
-  <rect x="13" y="15" width="12" height="1" style="fill:#b4b4b4"/>
-  <rect x="13" y="17" width="9" height="1" style="fill:#b4b4b4"/>
-  <rect x="16" y="19" width="9" height="1" style="fill:#b4b4b4"/>
-  <rect x="16" y="21" width="9" height="1" style="fill:#b4b4b4"/>
-  <rect x="13" y="23" width="9" height="1" style="fill:#b4b4b4"/>
-  <rect x="13" y="25" width="9" height="1" style="fill:#b4b4b4"/>
-  <rect x="13" y="27" width="12" height="1" style="fill:#b4b4b4"/>
-  <rect x="13" y="29" width="12" height="1" style="fill:#b4b4b4"/>
- </g>
 </svg>
