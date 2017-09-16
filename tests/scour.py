@@ -46,7 +46,6 @@ def scour_optimize(icon_path):
     return output_file
 
 
-
 def is_optimized(icon_path):
     """Verify if an icon was optimized using Scour."""
     optimized_icon = scour_optimize(icon_path)
