@@ -1,162 +1,27 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 48 48"
-   id="svg2"
-   version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="landrule.svg">
-  <metadata
-     id="metadata65">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="702"
-     id="namedview63"
-     showgrid="false"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="48.824507"
-     inkscape:cy="33.133699"
-     inkscape:window-x="0"
-     inkscape:window-y="29"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
-  <defs
-     id="defs4">
-    <linearGradient
-       id="linearGradient3764"
-       x1="1"
-       x2="47"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-48.000001,0.00221467)">
-      <stop
-         stop-color="#f6b22e"
-         stop-opacity="1"
-         id="stop7" />
-      <stop
-         offset="1"
-         stop-color="#f7b941"
-         stop-opacity="1"
-         id="stop9" />
-    </linearGradient>
-    <clipPath
-       id="clipPath-128818382">
-      <g
-         transform="translate(0,-1004.3622)"
-         id="g12">
-        <rect
-           rx="4"
-           y="1005.36"
-           x="1"
-           height="46"
-           width="46"
-           fill="#1890d0"
-           id="rect14" />
-      </g>
-    </clipPath>
-    <clipPath
-       id="clipPath-142115010">
-      <g
-         transform="translate(0,-1004.3622)"
-         id="g17">
-        <rect
-           rx="4"
-           y="1005.36"
-           x="1"
-           height="46"
-           width="46"
-           fill="#1890d0"
-           id="rect19" />
-      </g>
-    </clipPath>
-  </defs>
-  <g
-     id="g21">
-    <path
-       d="m 1 43 l 0 0.25 c 0 2.216 1.784 4 4 4 l 38 0 c 2.216 0 4 -1.784 4 -4 l 0 -0.25 c 0 2.216 -1.784 4 -4 4 l -38 0 c -2.216 0 -4 -1.784 -4 -4 z m 0 0.5 l 0 0.5 c 0 2.216 1.784 4 4 4 l 38 0 c 2.216 0 4 -1.784 4 -4 l 0 -0.5 c 0 2.216 -1.784 4 -4 4 l -38 0 c -2.216 0 -4 -1.784 -4 -4 z"
-       opacity="0.02"
-       id="path23" />
-    <path
-       d="m 1 43.25 l 0 0.25 c 0 2.216 1.784 4 4 4 l 38 0 c 2.216 0 4 -1.784 4 -4 l 0 -0.25 c 0 2.216 -1.784 4 -4 4 l -38 0 c -2.216 0 -4 -1.784 -4 -4 z"
-       opacity="0.05"
-       id="path25" />
-    <path
-       d="m 1 43 l 0 0.25 c 0 2.216 1.784 4 4 4 l 38 0 c 2.216 0 4 -1.784 4 -4 l 0 -0.25 c 0 2.216 -1.784 4 -4 4 l -38 0 c -2.216 0 -4 -1.784 -4 -4 z"
-       opacity="0.1"
-       id="path27" />
+<svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="linearGradient3764" x1="1" x2="47" gradientTransform="translate(-48 .0022147)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f6b22e" offset="0"/>
+   <stop stop-color="#f7b941" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4zm0 0.5v0.5c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.5c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" opacity=".02"/>
+ <path d="m1 43.25v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" opacity=".05"/>
+ <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" opacity=".1"/>
+ <g style="fill:#a18526">
+  <rect transform="rotate(-90)" x="-47" y="1" width="46" height="46" rx="4" fill="url(#linearGradient3764)" style="fill:#a18526"/>
+ </g>
+ <g transform="translate(0 -1004.4)">
+  <path d="m1 1043.4v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" opacity=".1"/>
+ </g>
+ <g transform="matrix(.058824 0 0 .06192 9 6.7105)" style="opacity:.25">
+  <g>
+   <polygon points="0 197.47 139.1 318.01 97.41 497.25 255 402.21 412.59 497.25 370.9 318.01 510 197.47 326.63 181.74 255 12.75 183.37 181.74"/>
   </g>
-  <g
-     id="g29"
-     style="fill:#a18526;fill-opacity:1">
-    <rect
-       width="46"
-       height="46"
-       x="-47"
-       y="1"
-       rx="4"
-       transform="matrix(0,-1,1,0,0,0)"
-       fill="url(#linearGradient3764)"
-       fill-opacity="1"
-       id="rect31"
-       style="fill:#a18526;fill-opacity:1" />
+ </g>
+ <g transform="matrix(.058824 0 0 .06192 9 6.2105)" style="fill:#fff">
+  <g id="star" style="fill:#fff">
+   <polygon points="255 402.21 412.59 497.25 370.9 318.01 510 197.47 326.63 181.74 255 12.75 183.37 181.74 0 197.47 139.1 318.01 97.41 497.25" style="fill:#fff"/>
   </g>
-  <g
-     id="g57">
-    <g
-       transform="translate(0,-1004.3622)"
-       id="g59">
-      <path
-         d="m 1 1043.36 0 4 c 0 2.216 1.784 4 4 4 l 38 0 c 2.216 0 4 -1.784 4 -4 l 0 -4 c 0 2.216 -1.784 4 -4 4 l -38 0 c -2.216 0 -4 -1.784 -4 -4 z"
-         opacity="0.1"
-         id="path61" />
-    </g>
-  </g>
-  <g
-     transform="matrix(0.05882353,0,0,0.0619195,8.9999999,6.7105286)"
-     id="g3-0"
-     style="fill:#000000;opacity:0.25">
-    <g
-       id="star-6"
-       style="fill:#000000">
-      <polygon
-         points="0,197.472 139.103,318.011 97.41,497.25 255,402.212 412.59,497.25 370.897,318.011 510,197.472 326.63,181.738 255,12.75 183.371,181.738 "
-         id="polygon6-2"
-         style="fill:#000000" />
-    </g>
-  </g>
-  <g
-     transform="matrix(0.05882353,0,0,0.0619195,8.9999999,6.2105286)"
-     id="g3"
-     style="fill:#ffffff">
-    <g
-       id="star"
-       style="fill:#ffffff">
-      <polygon
-         points="255,402.212 412.59,497.25 370.897,318.011 510,197.472 326.63,181.738 255,12.75 183.371,181.738 0,197.472 139.103,318.011 97.41,497.25 "
-         id="polygon6"
-         style="fill:#ffffff" />
-    </g>
-  </g>
+ </g>
 </svg>
