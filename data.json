@@ -4634,7 +4634,10 @@
     },
     "focuswriter": {
         "linux": {
-            "root": "focuswriter"
+            "root": "focuswriter",
+            "symlinks": [
+                "org.gottcode.FocusWriter"
+            ]
         }
     },
     "fogger": {
@@ -5797,6 +5800,7 @@
         "linux": {
             "root": "godot",
             "symlinks": [
+                "org.godotengine.Godot",
                 "steam_icon_404790"
             ]
         }
@@ -9144,7 +9148,8 @@
         "linux": {
             "root": "nextcloud",
             "symlinks": [
-                "Nextcloud"
+                "Nextcloud",
+                "org.nextcloud.Nextcloud"
             ]
         }
     },
@@ -9791,6 +9796,7 @@
         "linux": {
             "root": "othman-browser",
             "symlinks": [
+                "com.github.ojubaorg.Othman",
                 "Othman",
                 "sa.edu.ksa.ayat",
                 "zekr"
@@ -9903,7 +9909,10 @@
     },
     "parlatype": {
         "linux": {
-            "root": "parlatype"
+            "root": "parlatype",
+            "symlinks": [
+                "com.github.gkarsay.parlatype"
+            ]
         }
     },
     "parley": {
@@ -9956,6 +9965,7 @@
         "linux": {
             "root": "pcsx2",
             "symlinks": [
+                "net.pcsx2.PCSX2",
                 "PCSX2"
             ]
         }
@@ -12226,7 +12236,10 @@
     },
     "snes9x": {
         "linux": {
-            "root": "snes9x"
+            "root": "snes9x",
+            "symlinks": [
+                "com.snes9x.Snes9x"
+            ]
         }
     },
     "SoapUI": {
@@ -12361,6 +12374,7 @@
             "root": "sparkleshare",
             "symlinks": [
                 "folder-sparkleshare",
+                "org.sparkleshare.SparkleShare"
                 "sparkleshare-16",
                 "sparkleshare-22",
                 "sparkleshare-24",
@@ -13392,7 +13406,10 @@
     },
     "subsurface-icon": {
         "linux": {
-            "root": "subsurface-icon"
+            "root": "subsurface-icon",
+            "symlinks": [
+                "org.subsurface_divelog.Subsurface"
+            ]
         }
     },
     "sudoku": {
@@ -14683,7 +14700,10 @@
     },
     "vlc": {
         "linux": {
-            "root": "vlc"
+            "root": "vlc",
+            "symlinks": [
+                "org.videolan.VLC"
+            ]
         }
     },
     "vlmc": {
