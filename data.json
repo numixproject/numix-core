@@ -2773,6 +2773,14 @@
             "root": "coedit"
         }
     },
+    "coffee": {
+        "linux": {
+            "root": "coffee",
+            "symlinks": [
+                "com.github.nick92.coffee"
+            ]
+        }
+    },
     "cog": {
         "linux": {
             "root": "cog",
