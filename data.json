@@ -1572,7 +1572,10 @@
     },
     "bygfoot": {
         "linux": {
-            "root": "bygfoot"
+            "root": "bygfoot",
+            "symlinks": [
+                "com.github.mirkobrombin.football"
+            ]
         }
     },
     "byobu": {
