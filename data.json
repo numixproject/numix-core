@@ -1067,6 +1067,7 @@
             "symlinks": [
                 "application-vidiot",
                 "avidemux_icon",
+                "org.pitivi.Pitivi
                 "pitivi",
                 "vidiot"
             ]
@@ -5077,7 +5078,10 @@
     },
     "geary": {
         "linux": {
-            "root": "geary"
+            "root": "geary",
+            "symlinks": [
+                "org.gnome.Geary"
+            ]
         }
     },
     "geda-gattrib": {
