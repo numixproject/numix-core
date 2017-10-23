@@ -3017,7 +3017,8 @@
         "linux": {
             "root": "cutemarked",
             "symlinks": [
-                "chrome-pghodfjepegmciihfhdipmimghiakcjf"
+                "chrome-pghodfjepegmciihfhdipmimghiakcjf",
+                "io.github.cloose.CuteMarkEd"
             ]
         }
     },
@@ -4778,7 +4779,9 @@
         "linux": {
             "root": "freedoom",
             "symlinks": [
-                "freedoom2"
+                "freedoom2",
+                "io.github.Freedoom-Phase-1",
+                "io.github.Freedoom-Phase-2"
             ]
         }
     },
@@ -5200,7 +5203,10 @@
     },
     "gimp": {
         "linux": {
-            "root": "gimp"
+            "root": "gimp",
+            "symlinks": [
+                "org.gimp.GIMP"
+            ]
         }
     },
     "girl": {
@@ -5787,7 +5793,10 @@
     },
     "go-for-it": {
         "linux": {
-            "root": "go-for-it"
+            "root": "go-for-it",
+            "symlinks": [
+                "de.manuel_kehl.go-for-it"
+            ]
         }
     },
     "goa-panel": {
@@ -7459,7 +7468,10 @@
     },
     "klavaro": {
         "linux": {
-            "root": "klavaro"
+            "root": "klavaro",
+            "symlinks": [
+                "net.sourceforge.Klavaro"
+            ]
         }
     },
     "klayout": {
@@ -7514,6 +7526,7 @@
         "linux": {
             "root": "kmymoney",
             "symlinks": [
+                "fr.free.Homebank",
                 "homebank",
                 "wxbanker"
             ]
@@ -9398,6 +9411,7 @@
             "symlinks": [
                 "octave-icon",
                 "octave-logo",
+                "org.octave.Octave",
                 "qtoctave"
             ]
         }
@@ -15845,6 +15859,8 @@
             "root": "youtube-dl",
             "symlinks": [
                 "com.github.robertsanseries.karim",
+                "gydl",
+                "com.github.JannikHv.Gydl",
                 "youtube-dl-gui",
                 "youtube-dl-gui_48x48",
                 "youtube-dl-qt-icon",
