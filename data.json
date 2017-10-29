@@ -41,6 +41,11 @@
             "root": "7BD8_halo.0"
         }
     },
+    "6180-the-moon": {
+        "linux": {
+            "root": "steam_icon_299660"
+        }
+    },
     "7zip": {
         "linux": {
             "root": "7zip",
@@ -390,6 +395,11 @@
     "AdobeWidgetBrowser": {
         "linux": {
             "root": "AdobeWidgetBrowser"
+        }
+    },
+    "ad-venture-capitalist": {
+        "linux": {
+            "root": "steam_icon_346900"
         }
     },
     "aegisub": {
@@ -806,6 +816,7 @@
             "symlinks": [
                 "arduino-icon-small",
                 "arduino-ide",
+                "arduino-arduinoide",
                 "gnoduino"
             ]
         }
@@ -1220,6 +1231,11 @@
     "bibletime": {
         "linux": {
             "root": "bibletime"
+        }
+    },
+    "big-pharma": {
+        "linux": {
+            "root": "steam_icon_344850"
         }
     },
     "billard-gl": {
@@ -2777,6 +2793,14 @@
             "root": "coedit"
         }
     },
+    "coffee": {
+        "linux": {
+            "root": "coffee",
+            "symlinks": [
+                "com.github.nick92.coffee"
+            ]
+        }
+    },
     "cog": {
         "linux": {
             "root": "cog",
@@ -3017,7 +3041,8 @@
         "linux": {
             "root": "cutemarked",
             "symlinks": [
-                "chrome-pghodfjepegmciihfhdipmimghiakcjf"
+                "chrome-pghodfjepegmciihfhdipmimghiakcjf",
+                "io.github.cloose.CuteMarkEd"
             ]
         }
     },
@@ -4134,6 +4159,11 @@
             "root": "entangle"
         }
     },
+    "enter-the-gungeon": {
+        "linux": {
+            "root": "steam_icon_311690"
+        }
+    },
     "eog": {
         "linux": {
             "root": "eog",
@@ -4778,7 +4808,9 @@
         "linux": {
             "root": "freedoom",
             "symlinks": [
-                "freedoom2"
+                "freedoom2",
+                "io.github.Freedoom-Phase-1",
+                "io.github.Freedoom-Phase-2"
             ]
         }
     },
@@ -5200,7 +5232,10 @@
     },
     "gimp": {
         "linux": {
-            "root": "gimp"
+            "root": "gimp",
+            "symlinks": [
+                "org.gimp.GIMP"
+            ]
         }
     },
     "girl": {
@@ -5787,7 +5822,10 @@
     },
     "go-for-it": {
         "linux": {
-            "root": "go-for-it"
+            "root": "go-for-it",
+            "symlinks": [
+                "de.manuel_kehl.go-for-it"
+            ]
         }
     },
     "goa-panel": {
@@ -7459,7 +7497,10 @@
     },
     "klavaro": {
         "linux": {
-            "root": "klavaro"
+            "root": "klavaro",
+            "symlinks": [
+                "net.sourceforge.Klavaro"
+            ]
         }
     },
     "klayout": {
@@ -7514,6 +7555,7 @@
         "linux": {
             "root": "kmymoney",
             "symlinks": [
+                "fr.free.Homebank",
                 "homebank",
                 "wxbanker"
             ]
@@ -9398,6 +9440,7 @@
             "symlinks": [
                 "octave-icon",
                 "octave-logo",
+                "org.octave.Octave",
                 "qtoctave"
             ]
         }
@@ -9814,6 +9857,11 @@
     "otter-browser": {
         "linux": {
             "root": "otter-browser"
+        }
+    },
+    "owlboy": {
+        "linux": {
+            "root": "steam_icon_115800"
         }
     },
     "owncloud": {
@@ -11399,6 +11447,11 @@
             ]
         }
     },
+    "radium": {
+        "linux": {
+            "root": "steam_icon_355410"
+        }
+    },
     "raine": {
         "linux": {
             "root": "raine"
@@ -11538,6 +11591,11 @@
     "regina": {
         "linux": {
             "root": "regina"
+        }
+    },
+    "reigns": {
+        "linux": {
+            "root": "steam_icon_474750"
         }
     },
     "relational": {
@@ -12603,11 +12661,6 @@
             "root": "steam_icon_115100"
         }
     },
-    "steam_icon_115800": {
-        "linux": {
-            "root": "steam_icon_115800"
-        }
-    },
     "steam_icon_130": {
         "linux": {
             "root": "steam_icon_130"
@@ -12888,11 +12941,6 @@
             "root": "steam_icon_233450"
         }
     },
-    "steam_icon_233720": {
-        "linux": {
-            "root": "steam_icon_233720"
-        }
-    },
     "steam_icon_234650": {
         "linux": {
             "root": "steam_icon_234650"
@@ -13082,11 +13130,6 @@
             "root": "steam_icon_297120"
         }
     },
-    "steam_icon_299660": {
-        "linux": {
-            "root": "steam_icon_299660"
-        }
-    },
     "steam_icon_30": {
         "linux": {
             "root": "steam_icon_30",
@@ -13115,11 +13158,6 @@
             "root": "steam_icon_302610"
         }
     },
-    "steam_icon_311690": {
-        "linux": {
-            "root": "steam_icon_311690"
-        }
-    },
     "steam_icon_313740": {
         "linux": {
             "root": "steam_icon_313740"
@@ -13145,27 +13183,12 @@
             "root": "steam_icon_332970"
         }
     },
-    "steam_icon_344850": {
-        "linux": {
-            "root": "steam_icon_344850"
-        }
-    },
-    "steam_icon_346900": {
-        "linux": {
-            "root": "steam_icon_346900"
-        }
-    },
     "steam_icon_35480": {
         "linux": {
             "root": "steam_icon_35480",
             "symlinks": [
                 "steam_icon_213650"
             ]
-        }
-    },
-    "steam_icon_355410": {
-        "linux": {
-            "root": "steam_icon_355410"
         }
     },
     "steam_icon_400": {
@@ -13210,11 +13233,6 @@
     "steam_icon_440": {
         "linux": {
             "root": "steam_icon_440"
-        }
-    },
-    "steam_icon_474750": {
-        "linux": {
-            "root": "steam_icon_474750"
         }
     },
     "steam_icon_4920": {
@@ -13472,6 +13490,11 @@
                 "net.supertuxkart.SuperTuxKart",
                 "supertuxkart_128"
             ]
+        }
+    },
+    "surgeon-simulator-2013": {
+        "linux": {
+            "root": "steam_icon_233720"
         }
     },
     "susers": {
@@ -13924,6 +13947,11 @@
     "TeXworks": {
         "linux": {
             "root": "TeXworks"
+        }
+    },
+    "the-escapist": {
+        "linux": {
+            "root": "steam_icon_298630"
         }
     },
     "the-final-station": {
@@ -15850,6 +15878,8 @@
             "root": "youtube-dl",
             "symlinks": [
                 "com.github.robertsanseries.karim",
+                "gydl",
+                "com.github.JannikHv.Gydl",
                 "youtube-dl-gui",
                 "youtube-dl-gui_48x48",
                 "youtube-dl-qt-icon",
