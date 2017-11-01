@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 48 48">
+	<defs>
+		<linearGradient id="bg" gradientUnits="userSpaceOnUse" x1="0" x2="0" y1="1" y2="47">
+			<stop offset="0" stop-color="#79b01a"/>
+			<stop offset="1" stop-color="#6d9f17"/>
+		</linearGradient>
+	</defs>
+	<path opacity=".02" d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4zm0 0.5v0.5c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.5c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z"/>
+	<path opacity=".05" d="m1 43.25v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z"/>
+	<path opacity=".1" d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z"/>
+	<rect fill="url(#bg)" rx="4" height="46" width="46" y="1" x="1"/>
+	<path opacity=".1" d="m1 39v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z"/>
+	<g transform="translate(0 -1)">
+		<g id="arms" fill="#333">
+			<path d="M 14,20 a 2,2,0,0,1,4,0 v 10 a 2,2,0,0,1,-4,0 z"/>
+			<path d="M 30,20 a 2,2,0,0,1,4,0 v 10 a 2,2,0,0,1,-4,0 z"/>
+		</g>
+		<path id="head" fill="#333" d="m 16,18 a 8,8,0,0,1,16,0 Z"/>
+		<g id="eyes" fill="url(#bg)">
+			<path d="m 19,16 a 2,2,0,0,1,4,0 z"/>
+			<path d="m 25,16 a 2,2,0,0,1,4,0 z"/>
+		</g>
+		<path id="body" fill="#bbb" d="M 16,18 H 32 V 30 A 12,12,0,0,1,24,38 12,12,0,0,1,16,30 z"/>
+		<g id="keyhole" fill="#333">
+			<circle cx="24" cy="24" r="2"/>
+			<path d="m 23.5,24 l 1,0 1.5,6 -4,0 z" fill="#333"/>
+		</g>
+	</g>
+</svg>
