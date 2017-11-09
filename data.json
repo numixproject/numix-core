@@ -1468,6 +1468,14 @@
             "root": "boswars"
         }
     },
+    "bottles": {
+        "linux": {
+            "root": "bottles",
+            "symlinks": [
+                "com.github.mirkobrombin.bottles"
+            ]
+        }
+    },
     "bovo": {
         "linux": {
             "root": "bovo"
