@@ -4506,7 +4506,8 @@
                 "firefox-icon",
                 "firefox-original",
                 "firefox3",
-                "mozilla-firefox"
+                "mozilla-firefox",
+                "org.mozilla.Firefox"
             ]
         }
     },
@@ -4541,7 +4542,9 @@
             "root": "firefox-trunk",
             "symlinks": [
                 "firefox-nightly",
-                "firefox-nightly-icon"
+                "firefox-nightly-icon",
+                "org.mozilla.FirefoxNightly",
+                "org.mozilla.FirefoxNightlyWayland"
             ]
         }
     },
