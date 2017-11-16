@@ -145,6 +145,7 @@
                 "gaiksaurus",
                 "gnome-dictionary",
                 "kthesaurus",
+                "org.gnome.Dictionary",
                 "verbiste",
                 "xfce4-dict"
             ]
@@ -980,7 +981,10 @@
     },
     "atom": {
         "linux": {
-            "root": "atom"
+            "root": "atom",
+            "symlinks": [
+                "io.atom.Atom"
+            ]
         }
     },
     "atom-beta": {
@@ -1437,7 +1441,10 @@
     },
     "bookworm": {
         "linux": {
-            "root": "bookworm"
+            "root": "bookworm",
+            "symlinks": [
+                "com.github.babluboy.bookworm"
+            ]
         }
     },
     "boomaga": {
@@ -1644,6 +1651,7 @@
                 "gcalculator",
                 "gnome-calculator",
                 "kcalc",
+                "org.gnome.Calculator",
                 "speedcrunch"
             ]
         }
@@ -3336,7 +3344,10 @@
     },
     "devhelp": {
         "linux": {
-            "root": "devhelp"
+            "root": "devhelp",
+            "symlinks": [
+                "org.gnome.Devhelp"
+            ]
         }
     },
     "dia": {
@@ -4749,6 +4760,7 @@
                 "gnome-characters",
                 "gnome-settings-font",
                 "kfontview",
+                "org.gnome.Characters",
                 "preferences-desktop-font"
             ]
         }
@@ -5305,7 +5317,8 @@
         "linux": {
             "root": "gitg",
             "symlinks": [
-                "gitk"
+                "gitk",
+                "org.gnome.gitg"
             ]
         }
     },
@@ -8010,7 +8023,8 @@
                 "libreoffice3-base",
                 "libreoffice34-base",
                 "libreoffice4.2-base",
-                "libreoffice5.3-base"
+                "libreoffice5.3-base",
+                "org.libreoffice.LibreOffice-base"
             ]
         }
     },
@@ -8021,7 +8035,8 @@
                 "libreoffice3-calc",
                 "libreoffice34-calc",
                 "libreoffice4.2-calc",
-                "libreoffice5.3-calc"
+                "libreoffice5.3-calc",
+                "org.libreoffice.LibreOffice-calc"
             ]
         }
     },
@@ -8032,7 +8047,8 @@
                 "libreoffice3-draw",
                 "libreoffice34-draw",
                 "libreoffice4.2-draw",
-                "libreoffice5.3-draw"
+                "libreoffice5.3-draw",
+                "org.libreoffice.LibreOffice-draw"
             ]
         }
     },
@@ -8043,7 +8059,8 @@
                 "libreoffice3-impress",
                 "libreoffice34-impress",
                 "libreoffice4.2-impress",
-                "libreoffice5.3-impress"
+                "libreoffice5.3-impress",
+                "org.libreoffice.LibreOffice-impress"
             ]
         }
     },
@@ -8073,7 +8090,8 @@
                 "libreoffice3-math",
                 "libreoffice34-math",
                 "libreoffice4.2-math",
-                "libreoffice5.3-math"
+                "libreoffice5.3-math",
+                "org.libreoffice.LibreOffice-math"
             ]
         }
     },
@@ -8093,7 +8111,8 @@
                 "libreoffice3-writer",
                 "libreoffice34-writer",
                 "libreoffice4.2-writer",
-                "libreoffice5.3-writer"
+                "libreoffice5.3-writer",
+                "org.libreoffice.LibreOffice-writer"
             ]
         }
     },
@@ -9774,7 +9793,10 @@
     },
     "openmw": {
         "linux": {
-            "root": "openmw"
+            "root": "openmw",
+            "symlinks": [
+                "org.openmw.OpenMW"
+            ]
         }
     },
     "openmw-cs": {
@@ -11415,7 +11437,10 @@
     },
     "quassel": {
         "linux": {
-            "root": "quassel"
+            "root": "quassel",
+            "symlinks": [
+                "org.quassel_irc.QuasselClient"
+            ]
         }
     },
     "quaternion": {
@@ -11730,7 +11755,11 @@
     },
     "rhythmbox": {
         "linux": {
-            "root": "rhythmbox"
+            "root": "rhythmbox",
+            "symlinks": [
+                "org.gnome.Rhythmbox",
+                "org.gnome.Rhythmbox3"
+            ]
         }
     },
     "ricin": {
