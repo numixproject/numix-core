@@ -14,3 +14,4 @@ install:
 script:
     - sh ./tests/pep8.sh
     - python3 ./tests/schema.py
+    - python3 ./tests/db_entry.py
