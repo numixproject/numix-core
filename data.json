@@ -2408,7 +2408,10 @@
     },
     "chrome-bikioccmkafdpakkkcpdbppfkghcmihk-Default": {
         "linux": {
-            "root": "chrome-bikioccmkafdpakkkcpdbppfkghcmihk-Default"
+            "root": "chrome-bikioccmkafdpakkkcpdbppfkghcmihk-Default",
+            "symlinks": [
+                "signal-desktop"   
+            ]
         }
     },
     "chrome-bnadbgmffcofipfljniafanjcafjlbom-Default": {
