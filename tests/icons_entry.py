@@ -29,7 +29,8 @@ for theme in THEMES:
         if icon_name not in entries and icon_name not in reported:
             reported.append(icon_name)
             has_errors = True
-            print("\033[91m The icon {} doesn't have any entry in the database \033[0m".format(
-                icon_name
-            ))
+            print("\033[91m The icon {} doesn't have any "
+                  "entry in the database \033[0m".format(
+                      icon_name
+                  ))
 exit(int(has_errors))
