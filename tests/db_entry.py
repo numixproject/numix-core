@@ -25,7 +25,8 @@ with open(DB_FILE, 'r') as db_obj:
             icon = path.join(ICONS_DIR, theme, "48/{}.svg".format(entry))
             if not path.exists(icon):
                 has_errors = True
-                print("\033[91m The icon {} doesn't exist in the theme {} \033[0m".format(
-                    entry, theme
-                ))
+                print("\033[91m The icon {} doesn't exist"
+                      " in the theme {} \033[0m".format(
+                          entry, theme
+                      ))
 exit(int(has_errors))
