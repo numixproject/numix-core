@@ -11787,7 +11787,11 @@
     },
     "riot-web": {
         "linux": {
-            "root": "riot-web"
+            "root": "riot-web",
+            "symlinks": [
+                "im.riot.Riot",
+                "riot"
+            ]
         }
     },
     "ristretto": {
