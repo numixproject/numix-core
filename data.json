@@ -5067,7 +5067,10 @@
     },
     "gbrainy": {
         "linux": {
-            "root": "gbrainy"
+            "root": "gbrainy",
+            "symlinks": [
+                "org.gnome.gbrainy"
+            ]
         }
     },
     "gcad3d": {
@@ -8236,7 +8239,8 @@
             "root": "liveusb-creator",
             "symlinks": [
                 "fedorausb",
-                "mediawriter"
+                "mediawriter",
+                "org.fedoraproject.MediaWriter"
             ]
         }
     },
@@ -9066,13 +9070,17 @@
         "linux": {
             "root": "musescore",
             "symlinks": [
-                "mscore"
+                "mscore",
+                "org.musescore.MuseScore"
             ]
         }
     },
     "musictube": {
         "linux": {
-            "root": "musictube"
+            "root": "musictube",
+            "symlinks": [
+                "org.tordini.flavio.Minitube"
+            ]
         }
     },
     "musique": {
@@ -11445,7 +11453,10 @@
     },
     "quaternion": {
         "linux": {
-            "root": "quaternion"
+            "root": "quaternion",
+            "symlinks": [
+                "com.github.quaternion"
+            ]
         }
     },
     "qucs": {
