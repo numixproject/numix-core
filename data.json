@@ -3018,6 +3018,11 @@
             "root": "cs-cat-admin"
         }
     },
+    "cs-desktop": {
+        "linux": {
+            "root": "cs-desktop"
+        }
+    },
     "cs-user": {
         "linux": {
             "root": "cs-user"
@@ -3800,6 +3805,16 @@
             "root": "distributor-logo-ultimate"
         }
     },
+    "distributor-logo-void": {
+        "linux": {
+            "root": "distributor-logo-void"
+        }
+    },
+    "distributor-logo-voyager": {
+        "linux": {
+            "root": "distributor-logo-voyager"
+        }
+    },
     "distributor-logo-windows": {
         "linux": {
             "root": "distributor-logo-windows",
@@ -3809,11 +3824,6 @@
                 "winusbgui-icon",
                 "woeusbgui-icon"
             ]
-        }
-    },
-    "distributor-logo-voyager": {
-        "linux": {
-            "root": "distributor-logo-voyager"
         }
     },
     "distributor-logo-xubuntu": {
@@ -6644,6 +6654,11 @@
             "root": "higan"
         }
     },
+    "highlight": {
+        "linux": {
+            "root": "highlight"
+        }
+    },
     "hipchat": {
         "linux": {
             "root": "hipchat"
@@ -8847,6 +8862,11 @@
             "symlinks": [
                 "com.xamarin.MonoDevelop"
             ]
+        }
+    },
+    "monogame": {
+        "linux": {
+            "root": "monogame"
         }
     },
     "monster-rpg-2": {
