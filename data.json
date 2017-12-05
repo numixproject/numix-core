@@ -1576,6 +1576,11 @@
             ]
         }
     },
+    "budapest-public-transit": {
+        "android": [
+            "hu_donmade_menetrend_budapest"
+        ]
+    },
     "buddi": {
         "linux": {
             "root": "buddi",
@@ -2408,7 +2413,10 @@
     },
     "chrome-bikioccmkafdpakkkcpdbppfkghcmihk-Default": {
         "linux": {
-            "root": "chrome-bikioccmkafdpakkkcpdbppfkghcmihk-Default"
+            "root": "chrome-bikioccmkafdpakkkcpdbppfkghcmihk-Default",
+            "symlinks": [
+                "signal-desktop"   
+            ]
         }
     },
     "chrome-bnadbgmffcofipfljniafanjcafjlbom-Default": {
@@ -3016,6 +3024,11 @@
     "cs-cat-admin": {
         "linux": {
             "root": "cs-cat-admin"
+        }
+    },
+    "cs-desktop": {
+        "linux": {
+            "root": "cs-desktop"
         }
     },
     "cs-user": {
@@ -3800,6 +3813,16 @@
             "root": "distributor-logo-ultimate"
         }
     },
+    "distributor-logo-void": {
+        "linux": {
+            "root": "distributor-logo-void"
+        }
+    },
+    "distributor-logo-voyager": {
+        "linux": {
+            "root": "distributor-logo-voyager"
+        }
+    },
     "distributor-logo-windows": {
         "linux": {
             "root": "distributor-logo-windows",
@@ -3809,11 +3832,6 @@
                 "winusbgui-icon",
                 "woeusbgui-icon"
             ]
-        }
-    },
-    "distributor-logo-voyager": {
-        "linux": {
-            "root": "distributor-logo-voyager"
         }
     },
     "distributor-logo-xubuntu": {
@@ -4453,6 +4471,11 @@
             "root": "fgmk"
         }
     },
+    "fiji": {
+        "linux": {
+            "root": "ImageJ"
+        }
+    },
     "file-manager": {
         "linux": {
             "root": "file-manager",
@@ -5067,7 +5090,10 @@
     },
     "gbrainy": {
         "linux": {
-            "root": "gbrainy"
+            "root": "gbrainy",
+            "symlinks": [
+                "org.gnome.gbrainy"
+            ]
         }
     },
     "gcad3d": {
@@ -6642,6 +6668,11 @@
     "higan": {
         "linux": {
             "root": "higan"
+        }
+    },
+    "highlight": {
+        "linux": {
+            "root": "highlight"
         }
     },
     "hipchat": {
@@ -8236,7 +8267,8 @@
             "root": "liveusb-creator",
             "symlinks": [
                 "fedorausb",
-                "mediawriter"
+                "mediawriter",
+                "org.fedoraproject.MediaWriter"
             ]
         }
     },
@@ -8849,6 +8881,11 @@
             ]
         }
     },
+    "monogame": {
+        "linux": {
+            "root": "monogame"
+        }
+    },
     "monster-rpg-2": {
         "linux": {
             "root": "monster-rpg-2",
@@ -9066,13 +9103,17 @@
         "linux": {
             "root": "musescore",
             "symlinks": [
-                "mscore"
+                "mscore",
+                "org.musescore.MuseScore"
             ]
         }
     },
     "musictube": {
         "linux": {
-            "root": "musictube"
+            "root": "musictube",
+            "symlinks": [
+                "org.tordini.flavio.Minitube"
+            ]
         }
     },
     "musique": {
@@ -10387,11 +10428,6 @@
             ]
         }
     },
-    "plague2": {
-        "linux": {
-            "root": "plague2"
-        }
-    },
     "planeshift": {
         "linux": {
             "root": "planeshift"
@@ -11445,7 +11481,10 @@
     },
     "quaternion": {
         "linux": {
-            "root": "quaternion"
+            "root": "quaternion",
+            "symlinks": [
+                "com.github.quaternion"
+            ]
         }
     },
     "qucs": {
@@ -11613,6 +11652,11 @@
             "symlinks": [
                 "Rcmdr"
             ]
+        }
+    },
+    "rcps3": {
+        "linux": {
+            "root": "rcps3"
         }
     },
     "rct": {
@@ -11787,7 +11831,11 @@
     },
     "riot-web": {
         "linux": {
-            "root": "riot-web"
+            "root": "riot-web",
+            "symlinks": [
+                "im.riot.Riot",
+                "riot"
+            ]
         }
     },
     "ristretto": {
@@ -11857,11 +11905,6 @@
     "roxterm": {
         "linux": {
             "root": "roxterm"
-        }
-    },
-    "rpcs3": {
-        "linux": {
-            "root": "rpcs3"
         }
     },
     "rsibreak": {
@@ -15861,7 +15904,8 @@
             "symlinks": [
                 "pattern-x11",
                 "x",
-                "x11"
+                "x11",
+                "xinput_calibrator"
             ]
         }
     },
