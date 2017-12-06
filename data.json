@@ -159,6 +159,7 @@
                 "evince",
                 "gnome-pdf",
                 "graphics-viewer-document",
+                "org.gnome.Evince",
                 "x-pdf",
                 "xpdf",
                 "xpdf9"
@@ -946,6 +947,7 @@
         "linux": {
             "root": "astromenace",
             "symlinks": [
+                "com.viewizard.AstroMenace",
                 "endless-sky",
                 "io.github.EndlessSky.endless-sky"
             ]
@@ -5138,6 +5140,7 @@
             "symlinks": [
                 "colorgrab",
                 "com.github.ronnydo.colorpicker",
+                "deepin-picker",
                 "gcolor",
                 "gcolor3",
                 "gpick"
@@ -6376,6 +6379,7 @@
             "root": "gtick",
             "symlinks": [
                 "artemanufrij.metronome",
+                "com.github.artemanufrij.metronome",
                 "gtklick",
                 "kmetronome",
                 "metronome"
@@ -8637,7 +8641,10 @@
     },
     "mediainfo": {
         "linux": {
-            "root": "mediainfo"
+            "root": "mediainfo",
+            "symlinks": [
+                "net.mediaarea.MediaInfo"
+            ]
         }
     },
     "mediathekview": {
@@ -9847,7 +9854,10 @@
     },
     "openra": {
         "linux": {
-            "root": "openra"
+            "root": "openra",
+            "symlinks": [
+                "net.openra.OpenRA"
+            ]
         }
     },
     "openra-editor": {
@@ -10065,7 +10075,10 @@
     },
     "paperwork": {
         "linux": {
-            "root": "paperwork"
+            "root": "paperwork",
+            "symlinks": [
+                "work.openpaper.Paperwork"
+            ]
         }
     },
     "paradroid": {
@@ -10297,6 +10310,7 @@
             "root": "photofilmstrip",
             "symlinks": [
                 "artemanufrij.playmyvideos",
+                "com.github.artemanufrij.playmyvideos",
                 "ffDiaporama",
                 "ffdiaporama"
             ]
@@ -10471,7 +10485,8 @@
         "linux": {
             "root": "playmymusic",
             "symlinks": [
-                "artemanufrij.playmymusic"
+                "artemanufrij.playmymusic",
+                "com.github.artemanufrij.playmymusic"
             ]
         }
     },
@@ -11024,7 +11039,10 @@
     },
     "pycharm": {
         "linux": {
-            "root": "pycharm"
+            "root": "pycharm",
+            "symlinks": [
+                "com.jetbrains.PyCharm-Community"
+            ]
         }
     },
     "pychess": {
@@ -11496,7 +11514,8 @@
         "linux": {
             "root": "quickhash",
             "symlinks": [
-                "artemanufrij.hashit"
+                "artemanufrij.hashit",
+                "com.github.artemanufrij.hashit"
             ]
         }
     },
@@ -11746,7 +11765,10 @@
     },
     "remarkable": {
         "linux": {
-            "root": "remarkable"
+            "root": "remarkable",
+            "symlinks": [
+                "com.remarkable.reMarkable"
+            ]
         }
     },
     "remote-desktop": {
@@ -14897,6 +14919,7 @@
         "linux": {
             "root": "visualstudiocode",
             "symlinks": [
+                "com.visualstudio.code",
                 "visual-studio-code",
                 "vsc",
                 "vscode",
@@ -15392,7 +15415,8 @@
         "linux": {
             "root": "webby",
             "symlinks": [
-                "artemanufrij.webpin"
+                "artemanufrij.webpin",
+                "com.github.artemanufrij.webpin"
             ]
         }
     },
