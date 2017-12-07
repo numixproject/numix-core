@@ -7,7 +7,15 @@
             ]
         }
     },
+    "1password": {
+        "android": [
+            "com_agilebits_onepassword"
+        ]
+    },
     "2048": {
+        "android": [
+            "com_estoty_game2048"
+        ],
         "linux": {
             "root": "2048",
             "symlinks": [
@@ -57,6 +65,9 @@
         }
     },
     "8-ball-pool": {
+        "android": [
+            "rename_me_8_ball"
+        ],
         "linux": {
             "root": "8-ball-pool",
             "symlinks": [
@@ -123,6 +134,10 @@
         }
     },
     "accessories-camera": {
+        "android": [
+            "com_android_camera",
+            "com_motorola_camera"
+        ],
         "linux": {
             "root": "accessories-camera",
             "symlinks": [
@@ -136,6 +151,9 @@
         }
     },
     "accessories-dictionary": {
+        "android": [
+            "com_merriamwebster_dictionary_activity_dictionary_DictionaryActivity"
+        ],
         "linux": {
             "root": "accessories-dictionary",
             "symlinks": [
@@ -167,6 +185,9 @@
         }
     },
     "accessories-image-viewer": {
+        "android": [
+            "com_android_gallery3d"
+        ],
         "linux": {
             "root": "accessories-image-viewer",
             "symlinks": [
@@ -226,12 +247,20 @@
         }
     },
     "accessories-system-cleaner": {
+        "android": [
+            "com_cleanmaster_mguard"
+        ],
         "linux": {
             "root": "accessories-system-cleaner",
             "symlinks": [
                 "gconf-cleaner"
             ]
         }
+    },
+    "accuweather": {
+        "android": [
+            "com_accuweather_android"
+        ]
     },
     "aceofspades": {
         "linux": {
@@ -257,6 +286,9 @@
         }
     },
     "acroread": {
+        "android": [
+            "com_adobe_reader"
+        ],
         "linux": {
             "root": "acroread",
             "symlinks": [
@@ -278,12 +310,20 @@
             ]
         }
     },
+    "action-launcher": {
+        "android": [
+            "com_actionlauncher_playstore"
+        ]
+    },
     "activity-journal": {
         "linux": {
             "root": "activity-journal"
         }
     },
     "addressbook": {
+        "android": [
+            "rename_me_google_people"
+        ],
         "linux": {
             "root": "addressbook",
             "symlinks": [
@@ -512,6 +552,9 @@
         }
     },
     "amazon-store": {
+        "android": [
+            "com_amazon_windowshop"
+        ],
         "linux": {
             "root": "amazon-store",
             "symlinks": [
@@ -528,6 +571,9 @@
         }
     },
     "amazonmp3": {
+        "android": [
+            "com_demiroot_amazonfresh"
+        ],
         "linux": {
             "root": "amazonmp3",
             "symlinks": [
@@ -580,6 +626,11 @@
             ]
         }
     },
+    "andchat": {
+        "android": [
+            "net_andchat"
+        ]
+    },
     "anbox": {
         "linux": {
             "root": "anbox"
@@ -621,6 +672,9 @@
         }
     },
     "angry-birds": {
+        "android": [
+            "com_rovio_angrybirds"
+        ],
         "linux": {
             "root": "angry-birds",
             "symlinks": [
@@ -660,6 +714,9 @@
         }
     },
     "anydo": {
+        "android": [
+            "com_anydo"
+        ],
         "linux": {
             "root": "anydo",
             "symlinks": [
@@ -668,7 +725,15 @@
             ]
         }
     },
+    "anydo-cal": {
+        "android": [
+            "com_anydo_cal"
+        ]
+    },
     "app-launcher": {
+        "android": [
+            "rename_me_app_drawer"
+        ],
         "linux": {
             "root": "app-launcher",
             "bfb": "launcher_bfb"
@@ -888,6 +953,11 @@
             ]
         }
     },
+    "artflow": {
+        "android": [
+            "com_bytestorm_artflow_Editor"
+        ]
+    },
     "artha": {
         "linux": {
             "root": "artha"
@@ -1070,6 +1140,11 @@
             "root": "autoplus"
         }
     },
+    "auto-rotate": {
+        "android": [
+            "com_friedflow_autorotate"
+        ]
+    },
     "avant-window-navigator": {
         "linux": {
             "root": "avant-window-navigator",
@@ -1079,6 +1154,9 @@
         }
     },
     "avastgui": {
+        "android": [
+            "com_avast_android_mobilesecurity"
+        ],
         "linux": {
             "root": "avastgui"
         }
@@ -1165,6 +1243,11 @@
             ]
         }
     },
+    "bandsintown": {
+        "android": [
+            "com_bandsintown"
+        ]
+    },
     "baobab": {
         "linux": {
             "root": "baobab",
@@ -1187,6 +1270,9 @@
         }
     },
     "basket": {
+        "android": [
+            "com_cubeactive_qnotelistfree"
+        ],
         "linux": {
             "root": "basket",
             "symlinks": [
@@ -1293,8 +1379,22 @@
         }
     },
     "bittorent": {
+        "android": [
+            "rename_me_bittorrent"
+        ],
         "linux": {
             "root": "bittorent"
+        }
+    },
+    "bittorrent-sync": {
+        "android": [
+            "com_bittorrent_sync"
+        ],
+        "linux": {
+            "root": "btsync-user",
+            "symlinks": [
+                "btsync-gui-gtk"
+            ]
         }
     },
     "bitwig-studio": {
@@ -1609,6 +1709,11 @@
             ]
         }
     },
+    "busybox": {
+        "android": [
+            "stericson_busybox"
+        ]
+    },
     "buzztrax": {
         "linux": {
             "root": "buzztrax"
@@ -1650,6 +1755,9 @@
         }
     },
     "calc": {
+        "android": [
+            "com_android_calculator2"
+        ],
         "linux": {
             "root": "calc",
             "symlinks": [
@@ -1662,6 +1770,11 @@
                 "speedcrunch"
             ]
         }
+    },
+    "calc-2": {
+        "android": [
+            "uk_co_nickfines_RealCalc"
+        ]
     },
     "calendar-blue-01": {
         "linux": {
@@ -2133,6 +2246,9 @@
         }
     },
     "calendar-red-31": {
+        "android": [
+            "com_android_calendar"
+        ],
         "linux": {
             "root": "office-calendar",
             "symlinks": [
@@ -2421,9 +2537,12 @@
             ]
         }
     },
-    "chrome-bnadbgmffcofipfljniafanjcafjlbom-Default": {
+    "chromecast": {
+        "android": [
+            "com_google_android_apps_chromecast_app"
+        ],
         "linux": {
-            "root": "chrome-bnadbgmffcofipfljniafanjcafjlbom-Default"
+            "root": "chromecast"
         }
     },
     "chrome-cijncchffkmlnfdbnkkfclcbnjcoegjc-Default": {
@@ -2454,7 +2573,10 @@
             ]
         }
     },
-    "chrome-dkfhfaphfkopdgpbfkebjfcblcafcmpi-Default": {
+    "web-mightytext": {
+        "android": [
+            "com_mightytext_tablet"
+        ],
         "linux": {
             "root": "chrome-dkfhfaphfkopdgpbfkebjfcblcafcmpi-Default",
             "symlinks": [
@@ -2716,6 +2838,11 @@
             "root": "cisco-pt"
         }
     },
+    "citc-weather": {
+        "android": [
+            "com_citc_weather"
+        ]
+    },
     "citra": {
         "linux": {
             "root": "citra"
@@ -2765,7 +2892,15 @@
             ]
         }
     },
+    "cleanmaster-security": {
+        "android": [
+            "com_cleanmaster_security"
+        ]
+    },
     "clementine": {
+        "android": [
+            "de_qspool_clementineremote"
+        ],
         "linux": {
             "root": "clementine",
             "symlinks": [
@@ -2778,6 +2913,11 @@
         "linux": {
             "root": "clion"
         }
+    },
+    "cloudmagic": {
+        "android": [
+            "com_cloudmagic_mail"
+        ]
     },
     "clipgrab": {
         "linux": {
@@ -3479,6 +3619,9 @@
         }
     },
     "distributor-logo-archlinux": {
+        "android": [
+            "com_jtmcn_archwiki_viewer"
+        ],
         "linux": {
             "root": "distributor-logo-archlinux",
             "symlinks": [
@@ -3975,6 +4118,9 @@
         }
     },
     "dropbox": {
+        "android": [
+            "com_dropbox_android"
+        ],
         "linux": {
             "root": "dropbox",
             "symlinks": [
@@ -4337,6 +4483,9 @@
         }
     },
     "evernote": {
+        "android": [
+            "com_evernote"
+        ],
         "linux": {
             "root": "evernote",
             "symlinks": [
@@ -4403,6 +4552,9 @@
         }
     },
     "fbmessenger": {
+        "android": [
+            "com_facebook_orca"
+        ],
         "linux": {
             "root": "fbmessenger",
             "symlinks": [
@@ -4445,6 +4597,9 @@
         }
     },
     "feedly": {
+        "android": [
+            "com_devhd_feedly"
+        ],
         "linux": {
             "root": "feedly",
             "symlinks": [
@@ -4479,6 +4634,9 @@
         }
     },
     "file-manager": {
+        "android": [
+            "fm_last_android"
+        ],
         "linux": {
             "root": "file-manager",
             "symlinks": [
@@ -4501,6 +4659,10 @@
         }
     },
     "file-manager-blue": {
+        "android": [
+            "com_anttek_explorerex",
+            "com_estrongs_android_pop"
+        ],
         "linux": {
             "root": "file-manager-blue",
             "symlinks": [
@@ -4518,6 +4680,9 @@
         }
     },
     "file-manager-red": {
+        "android": [
+            "fm_clean"
+        ],
         "linux": {
             "root": "file-manager-red",
             "symlinks": [
@@ -4573,6 +4738,9 @@
         }
     },
     "firefox": {
+        "android": [
+            "org_mozilla_firefox"
+        ],
         "linux": {
             "root": "firefox",
             "symlinks": [
@@ -4599,6 +4767,9 @@
         }
     },
     "firefox-beta": {
+        "android": [
+            "org_mozilla_firefox_beta"
+        ],
         "linux": {
             "root": "firefox-beta",
             "symlinks": [
@@ -4722,6 +4893,9 @@
         }
     },
     "flipboard": {
+        "android": [
+            "rename_me_flipboard"
+        ],
         "linux": {
             "root": "flipboard"
         }
@@ -4984,6 +5158,9 @@
         }
     },
     "frostwire": {
+        "android": [
+            "rename_me_frostwire"
+        ],
         "linux": {
             "root": "frostwire"
         }
@@ -5431,6 +5608,10 @@
         }
     },
     "gmail": {
+        "android": [
+            "com_google_android_gm",
+            "rename_me_gmail"
+        ],
         "linux": {
             "root": "gmail",
             "symlinks": [
@@ -5608,21 +5789,6 @@
             "root": "gnome-mahjongg",
             "symlinks": [
                 "mahjongg"
-            ]
-        }
-    },
-    "gnome-maps": {
-        "linux": {
-            "root": "gnome-maps",
-            "symlinks": [
-                "atlas",
-                "chrome-lneaknkopdijkpnocmklfnjbeapigfbh-Default",
-                "emerillon",
-                "josm",
-                "josm-latest",
-                "maps",
-                "org.gnome.Maps",
-                "web-google-maps"
             ]
         }
     },
@@ -5974,6 +6140,9 @@
         }
     },
     "google-chrome": {
+        "android": [
+            "com_google_android_apps_chrome"
+        ],
         "linux": {
             "root": "google-chrome",
             "symlinks": [
@@ -5984,6 +6153,9 @@
         }
     },
     "google-chrome-beta": {
+        "andoird": [
+            "com_chrome_beta"
+        ],
         "linux": {
             "root": "google-chrome-beta"
         }
@@ -5994,6 +6166,9 @@
         }
     },
     "google-docs": {
+        "android": [
+            "com_google_android_docs_editors_docs"
+        ],
         "linux": {
             "root": "google-docs",
             "symlinks": [
@@ -6004,6 +6179,9 @@
         }
     },
     "google-drive": {
+        "android": [
+            "com_google_android_apps_docs"
+        ],
         "linux": {
             "root": "google-drive",
             "symlinks": [
@@ -6014,6 +6192,9 @@
         }
     },
     "google-earth": {
+        "android": [
+            "com_google_earth"
+        ],
         "linux": {
             "root": "google-earth",
             "symlinks": [
@@ -6025,6 +6206,9 @@
         }
     },
     "google-hangouts": {
+        "android": [
+            "com_google_android_talk"
+        ],
         "linux": {
             "root": "google-hangouts",
             "symlinks": [
@@ -6035,6 +6219,9 @@
         }
     },
     "google-keep": {
+        "android": [
+            "com_google_android_keep"
+        ],
         "linux": {
             "root": "google-keep",
             "symlinks": [
@@ -6044,6 +6231,10 @@
         }
     },
     "google-music": {
+        "android": [
+            "com_android_music",
+            "google_music"
+        ],
         "linux": {
             "root": "google-music",
             "symlinks": [
@@ -6062,6 +6253,10 @@
         }
     },
     "google-play": {
+        "android": [
+            "com_android_vending",
+            "rename_me_googleplay"
+        ],
         "linux": {
             "root": "google-play",
             "symlinks": [
@@ -6081,6 +6276,9 @@
         }
     },
     "google-sheets": {
+        "android": [
+            "com_google_android_apps_docs_editors_sheets"
+        ],
         "linux": {
             "root": "google-sheets",
             "symlinks": [
@@ -6090,6 +6288,9 @@
         }
     },
     "google-translate": {
+        "android": [
+            "com_google_android_apps_translate"
+        ],
         "linux": {
             "root": "google-translate"
         }
@@ -6105,6 +6306,9 @@
         }
     },
     "googleplus": {
+        "android": [
+            "com_google_android_apps_plus"
+        ],
         "linux": {
             "root": "googleplus",
             "symlinks": [
@@ -6298,6 +6502,9 @@
         }
     },
     "grooveshark": {
+        "android": [
+            "com_mysticdeath_md_gs_app"
+        ],
         "linux": {
             "root": "grooveshark",
             "symlinks": [
@@ -6614,6 +6821,9 @@
         }
     },
     "help-browser": {
+        "android": [
+            "com_motorola_genie"
+        ],
         "linux": {
             "root": "help-browser",
             "symlinks": [
@@ -6731,6 +6941,9 @@
         }
     },
     "hp_logo": {
+        "android": [
+            "com_hp_android_printservice"
+        ],
         "linux": {
             "root": "hp_logo",
             "symlinks": [
@@ -6855,6 +7068,11 @@
             "root": "icon"
         }
     },
+    "IconThemer": {
+        "android": [
+            "sg_ruqqq_IconThemer"
+        ]
+    },
     "idea": {
         "linux": {
             "root": "idea",
@@ -6923,6 +7141,9 @@
         }
     },
     "indicator-weather": {
+        "android": [
+            "com_devexpert_weather"
+        ],
         "linux": {
             "root": "indicator-weather",
             "symlinks": [
@@ -7968,6 +8189,9 @@
         }
     },
     "lastpass": {
+        "android": [
+            "com_lastpass_lpandroid"
+        ],
         "linux": {
             "root": "lastpass",
             "symlinks": [
@@ -8552,6 +8776,24 @@
             "root": "mansa"
         }
     },
+    "maps": {
+        "android": [
+            "com_google_android_maps"
+        ],
+        "linux": {
+            "root": "gnome-maps",
+            "symlinks": [
+                "atlas",
+                "chrome-lneaknkopdijkpnocmklfnjbeapigfbh-Default",
+                "emerillon",
+                "josm",
+                "josm-latest",
+                "maps",
+                "org.gnome.Maps",
+                "web-google-maps"
+            ]
+        }
+    },
     "marlin": {
         "linux": {
             "root": "marlin"
@@ -8661,6 +8903,9 @@
         }
     },
     "mega": {
+        "android": [
+            "com_flyingottersoftware_mega"
+        ],
         "linux": {
             "root": "mega"
         }
@@ -8739,6 +8984,9 @@
         }
     },
     "minecraft": {
+        "android": [
+            "rename_me_minecraft"
+        ],
         "linux": {
             "root": "minecraft"
         }
@@ -8917,6 +9165,9 @@
         }
     },
     "mplayer": {
+        "android": [
+            "com_android_mplayer"
+        ],
         "linux": {
             "root": "mplayer",
             "symlinks": [
@@ -9283,6 +9534,9 @@
         }
     },
     "netflix-desktop": {
+        "android": [
+            "com_netflix_mediaclient"
+        ],
         "linux": {
             "root": "netflix-desktop",
             "symlinks": [
@@ -9463,6 +9717,9 @@
         }
     },
     "numix": {
+        "android": [
+            "rename_me_app_drawer_n"
+        ],
         "linux": {
             "root": "numix",
             "bfb": "launcher_bfb_numix",
@@ -9647,6 +9904,9 @@
         }
     },
     "onedrive": {
+        "android": [
+            "com_microsoft_skydrive"
+        ],
         "linux": {
             "root": "onedrive",
             "symlinks": [
@@ -9919,6 +10179,10 @@
         }
     },
     "opera": {
+        "android": [
+            "com_opera_browser",
+            "com_opera_browser_classic"
+        ],
         "linux": {
             "root": "opera",
             "symlinks": [
@@ -9930,7 +10194,15 @@
             ]
         }
     },
+    "opera-mini": {
+        "android": [
+            "com_opera_mini_android"
+        ]
+    },
     "opera-next-browser": {
+        "android": [
+            "com_opera_browser_beta"
+        ],
         "linux": {
             "root": "opera-next-browser",
             "symlinks": [
@@ -9969,6 +10241,11 @@
             ]
         }
     },
+    "organizze": {
+        "android": [
+            "br_com_organizze_android"
+        ]
+    },
     "orion": {
         "linux": {
             "root": "orion"
@@ -10004,6 +10281,9 @@
         }
     },
     "owncloud": {
+        "android": [
+            "com_owncloud_android"
+        ],
         "linux": {
             "root": "owncloud"
         }
@@ -10134,6 +10414,9 @@
         }
     },
     "paypal": {
+        "android": [
+            "com_paypal_android_p2pmobile"
+        ],
         "linux": {
             "root": "paypal",
             "symlinks": [
@@ -10295,6 +10578,14 @@
             "root": "phatch-inspector"
         }
     },
+    "phone": {
+        "android": [
+            "com_android_contacts"
+        ],
+        "linux": {
+            "root": "yate"
+        }
+    },
     "phoronix-test-suite": {
         "linux": {
             "root": "phoronix-test-suite"
@@ -10361,6 +10652,9 @@
         }
     },
     "picasa": {
+        "android": [
+            "com_android_camera_2"
+        ],
         "linux": {
             "root": "picasa",
             "symlinks": [
@@ -10501,6 +10795,9 @@
         }
     },
     "plexhometheater": {
+        "android": [
+            "com_plexapp_android"
+        ],
         "linux": {
             "root": "plexhometheater",
             "symlinks": [
@@ -10595,6 +10892,9 @@
         }
     },
     "popcorntime": {
+        "android": [
+            "dp_ws_popcorntime"
+        ],
         "linux": {
             "root": "popcorntime",
             "symlinks": [
@@ -10806,6 +11106,9 @@
         }
     },
     "preferences-system": {
+        "android": [
+            "com_android_settings"
+        ],
         "linux": {
             "root": "preferences-system",
             "symlinks": [
@@ -10878,6 +11181,9 @@
         }
     },
     "preferences-system-time": {
+        "android": [
+            "com_android_deskclock"
+        ],
         "linux": {
             "root": "preferences-system-time",
             "symlinks": [
@@ -12346,6 +12652,16 @@
             "root": "sk1"
         }
     },
+    "SketchBook": {
+        "android": [
+            "com_adsk_sketchbook_SketchBook"
+        ]
+    },
+    "SketchBook-pro": {
+        "android": [
+            "com_adsk_sketchbookhd_SketchBook"
+        ]
+    },
     "skifra": {
         "linux": {
             "root": "skifra",
@@ -12365,6 +12681,9 @@
         }
     },
     "skype": {
+        "android": [
+            "com_skype_android_raider"
+        ],
         "linux": {
             "root": "skype",
             "symlinks": [
@@ -12570,6 +12889,9 @@
         }
     },
     "soundcloud": {
+        "android": [
+            "com_soundcloud_android"
+        ],
         "linux": {
             "root": "soundcloud",
             "symlinks": [
@@ -12666,6 +12988,9 @@
         }
     },
     "spotify-client": {
+        "android": [
+            "com_spotify_mobile_android_ui"
+        ],
         "linux": {
             "root": "spotify-client",
             "symlinks": [
@@ -12789,6 +13114,9 @@
         }
     },
     "steam": {
+        "android": [
+            "com_valvesoftware_android_steam_community"
+        ],
         "linux": {
             "root": "steam",
             "symlinks": [
@@ -13959,6 +14287,9 @@
         }
     },
     "telegram": {
+        "android": [
+            "org_telegram_messenger"
+        ],
         "linux": {
             "root": "telegram",
             "symlinks": [
@@ -13977,6 +14308,9 @@
         }
     },
     "terminal": {
+        "android": [
+            "jackpal_androidterm"
+        ],
         "linux": {
             "root": "terminal",
             "symlinks": [
@@ -14005,6 +14339,11 @@
                 "xterm_48x48"
             ]
         }
+    },
+    "terminal-blue": {
+        "android": [
+            "com_bluepremium_privilege_terminal"
+        ]
     },
     "terminal-tango": {
         "linux": {
@@ -14123,6 +14462,11 @@
             ]
         }
     },
+    "texts": {
+        "andoird": [
+            "com_android_mms"
+        ]
+    },
     "TeXworks": {
         "linux": {
             "root": "TeXworks"
@@ -14163,6 +14507,11 @@
         "linux": {
             "root": "thg_logo"
         }
+    },
+    "threema": {
+        "android": [
+            "ch_threema_app"
+        ]
     },
     "thunar": {
         "linux": {
@@ -14444,6 +14793,9 @@
         }
     },
     "tumblr": {
+        "android": [
+            "com_tumblr"
+        ],
         "linux": {
             "root": "tumblr",
             "symlinks": [
@@ -14608,22 +14960,6 @@
     "unity-tweak-tool": {
         "linux": {
             "root": "unity-tweak-tool"
-        }
-    },
-    "unity-webapps-instagram": {
-        "linux": {
-            "root": "unity-webapps-instagram",
-            "symlinks": [
-                "chrome-oacfdfgmgfbpgjgpgghdcjfaajdiggho-Default"
-            ]
-        }
-    },
-    "unity-webapps-linkedin": {
-        "linux": {
-            "root": "unity-webapps-linkedin",
-            "symlinks": [
-                "LinkedIn-linkedin.com"
-            ]
         }
     },
     "universalindentgui": {
@@ -14831,6 +15167,9 @@
         }
     },
     "viber": {
+        "android": [
+            "com_viber_voip"
+        ],
         "linux": {
             "root": "viber"
         }
@@ -14874,6 +15213,19 @@
                 "vimlogo"
             ]
         }
+    },
+    "vimeo": {
+        "android": [
+            "rename_me_vimeo"
+        ],
+        "linux": {
+            "root": "chrome-bfimiibpomebbdeomajcknhccgpkjmlh-Default"
+        }
+    },
+    "vine": {
+        "android": [
+            "rename_me_vine"
+        ]
     },
     "vineyard": {
         "linux": {
@@ -14942,6 +15294,9 @@
         }
     },
     "vlc": {
+        "android": [
+            "org_videolan_vlc_betav7neon"
+        ],
         "linux": {
             "root": "vlc",
             "symlinks": [
@@ -15081,6 +15436,9 @@
         }
     },
     "web-9gag": {
+        "android": [
+            "com_ninegag_android_app"
+        ],
         "linux": {
             "root": "web-9gag",
             "symlinks": [
@@ -15098,6 +15456,9 @@
         }
     },
     "web-browser": {
+        "android": [
+            "rename_me_browser"
+        ],
         "linux": {
             "root": "web-browser",
             "symlinks": [
@@ -15161,6 +15522,9 @@
         }
     },
     "web-duolingo": {
+        "android": [
+            "com_duolingo"
+        ],
         "linux": {
             "root": "web-duolingo",
             "symlinks": [
@@ -15168,7 +15532,18 @@
             ]
         }
     },
+    "web-ebay": {
+        "android": [
+            "com_ebay_mobile"
+        ],
+        "linux": {
+            "root": "chrome-bnadbgmffcofipfljniafanjcafjlbom-Default"
+        }
+    },
     "web-facebook": {
+        "android": [
+            "com_facebook_katana"
+        ],
         "linux": {
             "root": "web-facebook",
             "symlinks": [
@@ -15180,6 +15555,10 @@
         }
     },
     "web-google": {
+        "android": [
+            "com_google_android_googlequicksearchbox",
+            "rename_me_google_now_launcher"
+        ],
         "linux": {
             "root": "web-google",
             "symlinks": [
@@ -15231,11 +15610,25 @@
         }
     },
     "web-inbox": {
+        "android": [
+            "rename_me_inbox"
+        ],
         "linux": {
             "root": "web-inbox",
             "symlinks": [
                 "chrome-ajjmenfgmbpceneffopmikhahnkeebje-Default",
                 "chrome-pkclgpgponpjmpfokoepglboejdobkpl-Default"
+            ]
+        }
+    },
+    "web-instagram": {
+        "android": [
+            "com_instagram_android"
+        ],
+        "linux": {
+            "root": "unity-webapps-instagram",
+            "symlinks": [
+                "chrome-oacfdfgmgfbpgjgpgghdcjfaajdiggho-Default"
             ]
         }
     },
@@ -15248,12 +15641,26 @@
         }
     },
     "web-kindle": {
+        "amazon": [
+            "rename_me_kindle"
+        ],
         "linux": {
             "root": "web-kindle",
             "symlinks": [
                 "chrome-icdipabjmbhpdkjaihfjoikhjjeneebd-Default",
                 "tellico",
                 "unity-webapps-amazoncloudreader"
+            ]
+        }
+    },
+    "web-linkedin": {
+        "android": [
+            "com_linkedin_android"
+        ],
+        "linux": {
+            "root": "unity-webapps-linkedin",
+            "symlinks": [
+                "LinkedIn-linkedin.com"
             ]
         }
     },
@@ -15290,6 +15697,9 @@
         }
     },
     "web-outlook": {
+        "android": [
+            "com_outlook_Z7"
+        ],
         "linux": {
             "root": "web-outlook",
             "symlinks": [
@@ -15301,6 +15711,9 @@
         }
     },
     "web-pandora": {
+        "android": [
+            "com_pandora_android"
+        ],
         "linux": {
             "root": "web-pandora",
             "symlinks": [
@@ -15312,6 +15725,9 @@
         }
     },
     "web-pocket": {
+        "android": [
+            "com_ideashower_readitlater_pro"
+        ],
         "linux": {
             "root": "web-pocket",
             "symlinks": [
@@ -15321,11 +15737,17 @@
         }
     },
     "web-pocketcaster": {
+        "android": [
+            "au_com_shiftyjelly_pocketcasts"
+        ],
         "linux": {
             "root": "web-pocketcaster"
         }
     },
     "web-pushbullet": {
+        "android": [
+            "rename_me_pushbullet"
+        ],
         "linux": {
             "root": "web-pushbullet",
             "symlinks": [
@@ -15336,6 +15758,9 @@
         }
     },
     "web-rdio": {
+        "android": [
+            "com_rdio_oi_android_ui"
+        ],
         "linux": {
             "root": "web-rdio",
             "symlinks": [
@@ -15368,6 +15793,9 @@
         }
     },
     "web-twitter": {
+        "android": [
+            "com_twitter_android"
+        ],
         "linux": {
             "root": "web-twitter",
             "symlinks": [
@@ -15380,6 +15808,9 @@
         }
     },
     "web-vk": {
+        "android": [
+            "com_vkontakte_android"
+        ],
         "linux": {
             "root": "web-vk",
             "symlinks": [
@@ -15391,6 +15822,9 @@
         }
     },
     "web-whatsapp": {
+        "android": [
+            "com_whatsapp"
+        ],
         "linux": {
             "root": "web-whatsapp",
             "symlinks": [
@@ -15405,10 +15839,18 @@
         "linux": {
             "root": "web-yahoo",
             "symlinks": [
-                "unity-webapps-yahoo-mail",
+
                 "unity-webapps-yahoo-news",
                 "unity-webapps-yahoonews"
             ]
+        }
+    },
+    "web-yahoo-mail": {
+        "android": [
+            "com_yahoo_mobile_client_android_mail"
+        ],
+        "linux": {
+            "root": "unity-webapps-yahoo-mail"
         }
     },
     "webby": {
@@ -15501,6 +15943,9 @@
         }
     },
     "wikipedia": {
+        "android": [
+            "org_wikipedia"
+        ],
         "linux": {
             "root": "wikipedia",
             "symlinks": [
@@ -15712,6 +16157,9 @@
         }
     },
     "wunderlist": {
+        "android": [
+            "rename_me_wunderlist"
+        ],
         "linux": {
             "root": "wunderlist",
             "symlinks": [
@@ -16047,6 +16495,9 @@
         }
     },
     "youtube": {
+        "android": [
+            "com_google_android_youtube"
+        ],
         "linux": {
             "root": "youtube",
             "symlinks": [
@@ -16061,6 +16512,9 @@
         }
     },
     "youtube-dl": {
+        "android": [
+            "rename_me_get_video"
+        ],
         "linux": {
             "root": "youtube-dl",
             "symlinks": [
