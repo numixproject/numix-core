@@ -3929,7 +3929,10 @@
     },
     "dosbox": {
         "linux": {
-            "root": "dosbox"
+            "root": "dosbox",
+            "symlinks": [
+                "com.dosbox.DOSBox"
+            ]
         }
     },
     "dota": {
@@ -4905,7 +4908,10 @@
     },
     "freefilesync": {
         "linux": {
-            "root": "freefilesync"
+            "root": "freefilesync",
+            "symlinks": [
+                "org.freefilesync.FreeFileSync"
+            ]
         }
     },
     "freemind": {
@@ -5199,7 +5205,10 @@
     },
     "geany": {
         "linux": {
-            "root": "geany"
+            "root": "geany",
+            "symlinks": [
+                "org.gnome.Geany"
+            ]
         }
     },
     "geary": {
@@ -7506,7 +7515,10 @@
     },
     "kicad": {
         "linux": {
-            "root": "kicad"
+            "root": "kicad",
+            "symlinks": [
+                "org.kicad_pcb.KiCad"
+            ]
         }
     },
     "kid3": {
