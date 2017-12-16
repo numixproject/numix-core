@@ -11462,7 +11462,8 @@
         "linux": {
             "root": "quadrapassel",
             "symlinks": [
-                "gnome-quadrapassel"
+                "gnome-quadrapassel",
+                "org.gnome.quadrapassel"
             ]
         }
     },
@@ -11859,6 +11860,7 @@
         "linux": {
             "root": "ring",
             "symlinks": [
+                "cx.ring.Ring",
                 "ring-kde"
             ]
         }
@@ -14298,6 +14300,7 @@
             "symlinks": [
                 "gnote",
                 "kjots",
+                "org.gnome.Gnote",
                 "tomboy-note"
             ]
         }
