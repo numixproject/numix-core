@@ -5794,7 +5794,8 @@
             "root": "gnome-tetravex",
             "symlinks": [
                 "gnome-tetraves",
-                "gnotravex"
+                "gnotravex",
+                "org.gnome.tetravex"
             ]
         }
     },
@@ -9193,7 +9194,8 @@
             "root": "nasc",
             "symlinks": [
                 "com.github.parnold-x.nasc",
-                "gnome-genius"
+                "gnome-genius",
+                "org.gnome.Genius"
             ]
         }
     },
@@ -12345,6 +12347,7 @@
         "linux": {
             "root": "simsu",
             "symlinks": [
+                "com.github.parnold-x.sudoku.svg",
                 "sudokuki",
                 "yapysudoku"
             ]
@@ -15462,7 +15465,10 @@
     },
     "webtorrent-desktop": {
         "linux": {
-            "root": "webtorrent-desktop"
+            "root": "webtorrent-desktop",
+            "symlinks": [
+                "io.webtorrent.WebTorrent"
+            ]
         }
     },
     "wesnoth": {
