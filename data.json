@@ -6730,7 +6730,8 @@
         "linux": {
             "root": "hotwire-openssh",
             "symlinks": [
-                "preferences-cryptography"
+                "preferences-cryptography",
+                "preferences-desktop-cryptography"
             ]
         }
     },
