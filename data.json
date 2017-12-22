@@ -36,11 +36,6 @@
             ]
         }
     },
-    "halo": {
-        "linux": {
-            "root": "7BD8_halo.0"
-        }
-    },
     "6180-the-moon": {
         "linux": {
             "root": "steam_icon_299660"
@@ -283,6 +278,11 @@
             "root": "activity-journal"
         }
     },
+    "ad-venture-capitalist": {
+        "linux": {
+            "root": "steam_icon_346900"
+        }
+    },
     "addressbook": {
         "linux": {
             "root": "addressbook",
@@ -397,11 +397,6 @@
     "AdobeWidgetBrowser": {
         "linux": {
             "root": "AdobeWidgetBrowser"
-        }
-    },
-    "ad-venture-capitalist": {
-        "linux": {
-            "root": "steam_icon_346900"
         }
     },
     "aegisub": {
@@ -821,9 +816,9 @@
         "linux": {
             "root": "arduino",
             "symlinks": [
+                "arduino-arduinoide",
                 "arduino-icon-small",
                 "arduino-ide",
-                "arduino-arduinoide",
                 "gnoduino"
             ]
         }
@@ -1370,7 +1365,6 @@
     "blueprint_tycoon": {
         "linux": {
             "root": "steam_icon_454060"
-
         }
     },
     "blueradio": {
@@ -2417,7 +2411,7 @@
         "linux": {
             "root": "chrome-bikioccmkafdpakkkcpdbppfkghcmihk-Default",
             "symlinks": [
-                "signal-desktop"   
+                "signal-desktop"
             ]
         }
     },
@@ -6550,6 +6544,11 @@
     "haguichi": {
         "linux": {
             "root": "haguichi"
+        }
+    },
+    "halo": {
+        "linux": {
+            "root": "7BD8_halo.0"
         }
     },
     "hammerfight": {
@@ -10982,17 +10981,17 @@
             "root": "puddletag"
         }
     },
+    "pulse-secure": {
+        "linux": {
+            "root": "pulse-secure"
+        }
+    },
     "pulseeffects": {
         "linux": {
             "root": "pulseeffects",
             "symlinks": [
                 "com.github.wwmm.pulseeffects"
             ]
-        }
-    },
-    "pulse-secure": {
-        "linux": {
-            "root": "pulse-secure"
         }
     },
     "pumpa": {
@@ -12227,6 +12226,11 @@
             ]
         }
     },
+    "semaphor": {
+        "linux": {
+            "root": "semaphor"
+        }
+    },
     "sencha-animator": {
         "linux": {
             "root": "sencha-animator"
@@ -12258,11 +12262,6 @@
             "symlinks": [
                 "setBfree"
             ]
-        }
-    },
-    "semaphor": {
-        "linux": {
-            "root": "semaphor"
         }
     },
     "setroubleshoot_icon": {
@@ -12760,6 +12759,11 @@
             "root": "stacer"
         }
     },
+    "star-uml": {
+        "linux": {
+            "root": "staruml"
+        }
+    },
     "starcraft-2": {
         "linux": {
             "root": "starcraft-2",
@@ -12790,11 +12794,6 @@
             "symlinks": [
                 "gog-stargunner"
             ]
-        }
-    },
-    "star-uml": {
-        "linux": {
-            "root": "staruml"
         }
     },
     "steadyflow": {
@@ -13298,14 +13297,14 @@
             "root": "steam_icon_290930"
         }
     },
-    "steam_icon_292910": {
-        "linux": {
-            "root": "steam_icon_292910"
-        }
-    },
     "steam_icon_292600": {
         "linux": {
             "root": "steam_icon_292600"
+        }
+    },
+    "steam_icon_292910": {
+        "linux": {
+            "root": "steam_icon_292910"
         }
     },
     "steam_icon_293780": {
@@ -16084,9 +16083,9 @@
         "linux": {
             "root": "youtube-dl",
             "symlinks": [
+                "com.github.JannikHv.Gydl",
                 "com.github.robertsanseries.karim",
                 "gydl",
-                "com.github.JannikHv.Gydl",
                 "youtube-dl-gui",
                 "youtube-dl-gui_48x48",
                 "youtube-dl-qt-icon",
