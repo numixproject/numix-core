@@ -5,7 +5,7 @@ services:
 branches:
     - master
 before_install:
-  - docker pull numix-core/numix-core-devel
+  - docker pull bilelmoussaoui/numix-core-devel
 script:
     - sh ./tests/pycodestyle.sh
     - python3 ./tests/schema.py
