@@ -11,6 +11,8 @@ from glob import glob
 from os import path
 import json
 
+from utils import error
+
 ABS_PATH = path.dirname(path.abspath(__file__))
 DB_FILE = path.join(ABS_PATH, "../data.json")
 THEMES = ["circle", "square"]
@@ -29,8 +31,8 @@ for theme in THEMES:
         if icon_name not in entries and icon_name not in reported:
             reported.append(icon_name)
             has_errors = True
-            print("\033[91m The icon {} doesn't have any "
-                  "entry in the database \033[0m".format(
+            error("The icon {} doesn't have any "
+                  "entry in the database.".format(
                       icon_name
                   ))
 exit(int(has_errors))
