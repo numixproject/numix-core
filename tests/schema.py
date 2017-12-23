@@ -14,6 +14,8 @@ from os import path
 from jsonschema import validate, ValidationError
 from jsonschema.exceptions import SchemaError as SchemaError
 
+from utils import error, success
+
 DB_FILE = path.join(path.dirname(path.abspath(__file__)), "../data.json")
 SCHEMA_FILE = path.join(path.dirname(path.abspath(__file__)), 'schema.json')
 
@@ -26,8 +28,8 @@ with open(DB_FILE, 'r') as db_obj:
         validate(json.load(db_obj), SCHEMA)
     except (ValidationError, ValueError, SchemaError) as error:
         has_errors = True
-        print("\033[91m Invalid database \033[0m")
-        print("\033[91m {}\033[0m".format(error))
+        error("Invalid database")
+        error("{}".format(error))
     else:
-        print("\033[92m The database is valid\033[0m")
+        success("The database is valid")
 exit(int(has_errors))

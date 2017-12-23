@@ -11,6 +11,8 @@
 from os import path
 import json
 
+from utils import error
+
 ABS_PATH = path.dirname(path.abspath(__file__))
 DB_FILE = path.join(ABS_PATH, "../data.json")
 THEMES = ["circle", "square"]
@@ -25,8 +27,8 @@ with open(DB_FILE, 'r') as db_obj:
             icon = path.join(ICONS_DIR, theme, "48/{}.svg".format(entry))
             if not path.exists(icon):
                 has_errors = True
-                print("\033[91m The icon {} doesn't exist"
-                      " in the theme {} \033[0m".format(
+                error("The icon {} doesn't exist"
+                      " in the theme {}".format(
                           entry, theme
                       ))
 exit(int(has_errors))
