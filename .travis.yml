@@ -5,9 +5,10 @@ branches:
     - master
 before_install:
   - docker pull bilelmoussaoui/numix-core-devel
+  - docker run -d --name tests numix-core-devel
 script:
-    - sh ./tests/pycodestyle.sh
-    - python3 ./tests/schema.py
-    - python3 ./tests/db_entry.py
-    - python3 ./tests/icons_entry.py
-    - python3 ./tests/ordered_db.py
+    - docker exec tests sh ./tests/pycodestyle.sh
+    - docker exec tests python3 ./tests/schema.py
+    - docker exec tests python3 ./tests/db_entry.py
+    - docker exec tests python3 ./tests/icons_entry.py
+    - docker exec tests python3 ./tests/ordered_db.py
