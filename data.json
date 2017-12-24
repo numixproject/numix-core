@@ -507,6 +507,9 @@
         }
     },
     "amazon-store": {
+        "android": [
+            "com_amazon_mShop_android_shopping"  
+        ],
         "linux": {
             "root": "amazon-store",
             "symlinks": [
@@ -2725,6 +2728,9 @@
         }
     },
     "chrome-bikioccmkafdpakkkcpdbppfkghcmihk-Default": {
+        "android": [
+            "org_thoughtcrime_securesms"
+        ],
         "linux": {
             "root": "chrome-bikioccmkafdpakkkcpdbppfkghcmihk-Default",
             "symlinks": [
@@ -4868,6 +4874,9 @@
         }
     },
     "file-manager": {
+        "android": [
+            "com_amaze_filemanager"  
+        ],
         "linux": {
             "root": "file-manager",
             "symlinks": [
@@ -5527,6 +5536,9 @@
         }
     },
     "gcolor2": {
+        "android": [
+            "ch_ihdg_calendarcolor"  
+        ],
         "linux": {
             "root": "gcolor2",
             "symlinks": [
@@ -13233,6 +13245,9 @@
         }
     },
     "steam": {
+        "android": [
+            "com_valvesoftware_android_steam_community"
+        ],
         "linux": {
             "root": "steam",
             "symlinks": [
@@ -15407,6 +15422,9 @@
         }
     },
     "vlc": {
+        "android": [
+            "org_videolan_vlc"  
+        ],
         "linux": {
             "root": "vlc",
             "symlinks": [
@@ -15969,6 +15987,9 @@
         }
     },
     "wikipedia": {
+        "android": [
+            "org_wikipedia"
+        ],
         "linux": {
             "root": "wikipedia",
             "symlinks": [
