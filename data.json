@@ -252,6 +252,9 @@
         }
     },
     "acroread": {
+        "android": [
+            "com.adobe.reader"
+        ],
         "linux": {
             "root": "acroread",
             "symlinks": [
@@ -12833,6 +12836,9 @@
         }
     },
     "skype": {
+        "android": [
+            "com.skype.raider"  
+        ],
         "linux": {
             "root": "skype",
             "symlinks": [
@@ -14417,6 +14423,9 @@
         }
     },
     "teamviewer": {
+        "android": [
+            "com.teamviewer.teamviewer.market.mobile"
+        ],
         "linux": {
             "root": "teamviewer",
             "symlinks": [
@@ -15326,6 +15335,9 @@
         }
     },
     "viber": {
+        "android": [
+            "com.viber.voip"
+        ],
         "linux": {
             "root": "viber"
         }
@@ -15866,6 +15878,9 @@
         }
     },
     "web-twitter": {
+        "android": [
+            "com.twitter.android"
+        ],
         "linux": {
             "root": "web-twitter",
             "symlinks": [
@@ -16216,6 +16231,9 @@
         }
     },
     "wunderlist": {
+        "android": [
+            "com.wunderkinder.wunderlistandroid"
+        ],
         "linux": {
             "root": "wunderlist",
             "symlinks": [
