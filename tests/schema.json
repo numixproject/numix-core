@@ -1,0 +1,42 @@
+{
+    "type": "object",
+    "patternProperties": {
+        "[a-zA-Z0-9]*$": {
+            "type": "object",
+            "properties": {
+                "linux": {
+                    "type": "object",
+                    "properties": {
+                        "root": {
+                            "type": "string"
+                        },
+                        "bfb": {
+                            "type": "string"
+                        },
+                        "symlinks": {
+                            "type": "array",
+                            "items": {
+                                "type": "string"
+                            },
+                            "minItems": 1,
+                            "uniqueItems": true
+                        }
+                    },
+                    "required": [
+                        "root"
+                    ]
+                },
+                "android": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    },
+                    "minItems": 1,
+                    "uniqueItems": true
+                }
+            },
+            "additionalProperties": false,
+            "minProperties": 1
+        }
+    }
+}
