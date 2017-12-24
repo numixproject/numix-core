@@ -508,7 +508,7 @@
     },
     "amazon-store": {
         "android": [
-            "com_amazon_mShop_android_shopping"  
+            "com.amazon.mShop.android.shopping"  
         ],
         "linux": {
             "root": "amazon-store",
@@ -1579,7 +1579,7 @@
     },
     "budapest-public-transit": {
         "android": [
-            "hu_donmade_menetrend_budapest"
+            "hu.donmade.menetrend.budapest"
         ]
     },
     "buddi": {
@@ -4365,6 +4365,9 @@
         }
     },
     "dropbox": {
+        "android": [
+            "com.dropbox.android"
+        ],
         "linux": {
             "root": "dropbox",
             "symlinks": [
@@ -4875,7 +4878,7 @@
     },
     "file-manager": {
         "android": [
-            "com_amaze_filemanager"  
+            "com.amaze.filemanager"  
         ],
         "linux": {
             "root": "file-manager",
@@ -4971,6 +4974,9 @@
         }
     },
     "firefox": {
+        "android": [
+            "org.mozilla.firefox"
+        ],
         "linux": {
             "root": "firefox",
             "symlinks": [
@@ -4997,6 +5003,9 @@
         }
     },
     "firefox-beta": {
+        "android": [
+            "org.mozilla.firefox_beta"  
+        ],
         "linux": {
             "root": "firefox-beta",
             "symlinks": [
@@ -5537,7 +5546,7 @@
     },
     "gcolor2": {
         "android": [
-            "ch_ihdg_calendarcolor"  
+            "ch.ihdg.calendarcolor"  
         ],
         "linux": {
             "root": "gcolor2",
@@ -8130,7 +8139,7 @@
     },
     "kodi": {
         "android": [
-            "org_xbmc_kodi"
+            "org.xbmc.kodi"
         ],
         "linux": {
             "root": "kodi"
@@ -13126,7 +13135,7 @@
     },
     "spotify-client": {
         "android": [
-            "com_spotify_music"
+            "com.spotify.music"
         ],
         "linux": {
             "root": "spotify-client",
@@ -13252,7 +13261,7 @@
     },
     "steam": {
         "android": [
-            "com_valvesoftware_android_steam_community"
+            "com.valvesoftware.android.steam.community"
         ],
         "linux": {
             "root": "steam",
@@ -15429,7 +15438,7 @@
     },
     "vlc": {
         "android": [
-            "org_videolan_vlc"  
+            "org.videolan.vlc"  
         ],
         "linux": {
             "root": "vlc",
@@ -15994,7 +16003,7 @@
     },
     "wikipedia": {
         "android": [
-            "org_wikipedia"
+            "org.wikipedia"
         ],
         "linux": {
             "root": "wikipedia",
