@@ -122,7 +122,7 @@ if platform == "android":
         for output_name in icon.get("android", []):
             source = "icons/{0}/48/{1}.svg".format(theme, format(icon_name))
             output = "{0}/{1}.png".format(android_dir,
-                                          output_name.replace("_", "."))
+                                          output_name)
             if path.exists(source):
                 convert_svg2png(source, output, 192, 192)
 elif platform == "linux":
