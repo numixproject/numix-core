@@ -8129,6 +8129,9 @@
         }
     },
     "kodi": {
+        "android": [
+            "org_xbmc_kodi"
+        ],
         "linux": {
             "root": "kodi"
         }
@@ -13122,6 +13125,9 @@
         }
     },
     "spotify-client": {
+        "android": [
+            "com_spotify_music"
+        ],
         "linux": {
             "root": "spotify-client",
             "symlinks": [
