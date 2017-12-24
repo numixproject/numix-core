@@ -3924,7 +3924,7 @@
         "linux": {
             "root": "distributor-logo-illumos"
         }
-    }
+    },
     "distributor-logo-kali": {
         "linux": {
             "root": "distributor-logo-kali"
@@ -14694,6 +14694,11 @@
             ]
         }
     },
+    "tomb-raider": {
+        "linux": {
+            "root": "steam_icon_203160"
+        }
+    },
     "tomboy": {
         "linux": {
             "root": "tomboy",
@@ -14703,11 +14708,6 @@
                 "org.gnome.Gnote",
                 "tomboy-note"
             ]
-        }
-    },
-    "tomb-raider": {
-        "linux": {
-            "root": "steam_icon_203160"
         }
     },
     "tooth-and-tail": {
