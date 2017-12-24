@@ -2,6 +2,9 @@
 *~
 *.bak
 *.swp
+.vscode/
+__pycache__/*
+*.pyc
 
 # Output Directories
 numix-circle.icns/

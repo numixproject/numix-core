@@ -1,18 +1,19 @@
-#!/usr/bin/python3
-
+#!/usr/bin/env python3
+"""
 # Copyright (C) 2016
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License (version 3+) as
 # published by the Free Software Foundation. You should have received
 # a copy of the GNU General Public License along with this program.
 # If not, see <http://www.gnu.org/licenses/>.
+"""
 
 # Sorting out modules
 from argparse import ArgumentParser
 from io import BytesIO
 from json import load
 from os import listdir, makedirs, path, symlink
-from shutil import copy2, rmtree
+from shutil import copy2
 from subprocess import PIPE, Popen, call
 try:
     from gi import require_version
@@ -53,22 +54,23 @@ args = parser.parse_args()
 
 # User selects the theme
 if not args.theme:
-    exit("Please use --theme argument with one of the following: " +
-         ", ".join(themes))
+    exit("Please use --theme argument with "
+         "one of the following: {}".format(", ".join(themes)))
 else:
     theme = args.theme
 
 # User selects the platform
 if not args.platform:
-    exit("Please use --platform argument with one of the following: " +
-         ", ".join(platforms))
+    exit("Please use --platform argument with "
+         "one of the following: {}".format(", ".join(platforms)))
 else:
     platform = args.platform
 
 
-def mkdir(dir):
-    if not path.exists(dir):
-        makedirs(dir)
+def mkdir(directory):
+    """Create a directory if it doesn't exists."""
+    if not path.exists(directory):
+        makedirs(directory)
 
 
 def convert_svg2png(infile, outfile, w, h):
@@ -78,10 +80,10 @@ def convert_svg2png(infile, outfile, w, h):
         @dest_path : String; the png file absolute path
     """
     if use_inkscape:
-        p = Popen(["inkscape", "-z", "-f", infile, "-e", outfile,
-                   "-w", str(w), "-h", str(h)],
-                  stdout=PIPE, stderr=PIPE)
-        output, err = p.communicate()
+        cmd = Popen(["inkscape", "-z", "-f", infile, "-e", outfile,
+                     "-w", str(w), "-h", str(h)],
+                    stdout=PIPE, stderr=PIPE)
+        cmd.communicate()
     else:
         handle = Rsvg.Handle()
         svg = handle.new_from_file(infile)
@@ -105,19 +107,22 @@ def convert_svg2png(infile, outfile, w, h):
 try:
     sizes = listdir("icons/{0}".format(theme))
 except FileNotFoundError:
-    exit("The theme {0} does not exists. Please reclone" 
-        "the repository and try again.".format(theme))
+    exit("The theme {0} does not exists. Please reclone"
+         "the repository and try again.".format(theme))
 
 
 # The Generation Stuff
 if platform == "android":
     print("\nGenerating Android theme...")
-    android_dir = "com.numix.icons_{0}/MainActivity22/app/src/main/res/drawable-xxhdpi".format(theme)
+    theme_name = "com.numix.icons_{0}".format(theme)
+    android_dir = "/MainActivity22/app/src/main/res/drawable-xxhdpi"
+    theme_dir = theme_name + android_dir
     mkdir(android_dir)
-    for icon in icons:
-        for name in icons[icon].get("android", []):
-            source = "icons/{0}/48/{1}.svg".format(theme, format(icon))
-            output = "{0}/{1}.png".format(android_dir, name.replace("_", "."))
+    for icon_name, icon in icons.items():
+        for output_name in icon.get("android", []):
+            source = "icons/{0}/48/{1}.svg".format(theme, format(icon_name))
+            output = "{0}/{1}.png".format(android_dir,
+                                          output_name.replace("_", "."))
             if path.exists(source):
                 convert_svg2png(source, output, 192, 192)
 elif platform == "linux":
@@ -125,24 +130,29 @@ elif platform == "linux":
     linux_dir = "numix-icon-theme-{0}/Numix-{1}".format(theme, theme.title())
     for size in sizes:
         mkdir("{0}/{1}/apps".format(linux_dir, size))
-    for icon in icons:
-        if "linux" in icons[icon].keys():
-            for size in sizes:
-                root = "{0}.svg".format(icons[icon]["linux"]["root"])
-                source = "icons/{0}/{1}/{2}.svg".format(theme, size, icon)
-                output = "{0}/{1}/apps/{2}".format(linux_dir, size, root)
-                if path.exists(source):
-                    if "bfb" in icons[icon]["linux"].keys():
-                        output_bfb = "{0}/{1}/apps/{2}.png".format(linux_dir, size, icons[icon]["linux"]["bfb"])
-                        if int(size) == 48:
-                            convert_svg2png(source, output_bfb, 144, 144)
-                    copy2(source, output)
-                    for link in icons[icon]["linux"].get("symlinks", []):
-                        output_symlink = "{0}/{1}/apps/{2}.svg".format(linux_dir, size, link)
-                        try:
-                            symlink(root, output_symlink)
-                        except FileExistsError:
-                            continue
+    for icon_name, icon in icons.items():
+        if not icon.get("linux"):
+            continue
+        for size in sizes:
+            root = "{0}.svg".format(icon["linux"]["root"])
+            source = "icons/{0}/{1}/{2}.svg".format(theme, size, icon_name)
+            output = "{0}/{1}/apps/{2}".format(linux_dir, size, root)
+            if path.exists(source):
+                bfb_icon = icon["linux"].get("bfb")
+                if bfb_icon:
+                    output_bfb = "{0}/{1}/apps/{2}.png".format(linux_dir,
+                                                               size,
+                                                               bfb_icon)
+                    if int(size) == 48:
+                        convert_svg2png(source, output_bfb, 144, 144)
+                copy2(source, output)
+                for link in icon["linux"].get("symlinks", []):
+                    output_symlink = "{0}/{1}/apps/{2}.svg".format(linux_dir,
+                                                                   size, link)
+                    try:
+                        symlink(root, output_symlink)
+                    except FileExistsError:
+                        continue
 elif platform == "osx":
     print("\nGenerating OSX theme...")
     ink_flag = call(['which', 'png2icns'], stdout=PIPE, stderr=PIPE)
@@ -151,16 +161,17 @@ elif platform == "osx":
     osx_dir = "numix-{0}.icns".format(theme)
     osx_sub_dirs = ["icns", "pngs", "vectors"]
     for sub_dir in osx_sub_dirs:
-        mkdir("{0}/{1}".format(osx_dir, sub_dir)) 
-    for icon in icons:
-        for name in icons[icon].get("osx", []):
-            source = "icons/{0}/48/{1}.svg".format(theme, format(icon))
-            output_svg = "{0}/vectors/{1}.svg".format(osx_dir, icon)
-            output_png = "{0}/pngs/{1}.png".format(osx_dir, icon) 
-            output_icn = "{0}/icns/{1}.icn".format(osx_dir, icon)
+        mkdir("{0}/{1}".format(osx_dir, sub_dir))
+    for icon_name, icon in icons.items():
+        for output_icon in icon.get("osx", []):
+            source = "icons/{0}/48/{1}.svg".format(theme, icon_name)
+            output_svg = "{0}/vectors/{1}.svg".format(osx_dir, output_icon)
+            output_png = "{0}/pngs/{1}.png".format(osx_dir, output_icon)
+            output_icn = "{0}/icns/{1}.icn".format(osx_dir, output_icon)
             if path.exists(source):
                 copy2(source, output_svg)
                 convert_svg2png(source, output_png, 1024, 1024)
-                call(["png2icns", output_icn, output_png], stdout=PIPE, stderr=PIPE)
+                call(["png2icns", output_icn, output_png],
+                     stdout=PIPE, stderr=PIPE)
 # Clean Up
-exit("Done!\n")
+print("Done!\n")

@@ -1,0 +1,12 @@
+# For more information on code owners, see here
+# https://help.github.com/articles/about-codeowners
+
+# General Owners
+*           @Foggalong
+
+# Icon Owners
+/icons/     @Foggalong @palob
+/templates/ @Foggalong @palob
+
+# Python Owners
+*.py        @Foggalong @bil-elmoussaoui
