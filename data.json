@@ -4621,6 +4621,9 @@
         }
     },
     "enpass": {
+        "android": [
+            "io.enpass.app"
+        ],
         "linux": {
             "root": "enpass"
         }
@@ -4799,6 +4802,9 @@
         }
     },
     "fbmessenger": {
+        "android": [
+            "com.facebook.orca"
+        ],
         "linux": {
             "root": "fbmessenger",
             "symlinks": [
@@ -5155,6 +5161,9 @@
         }
     },
     "fluxgui": {
+        "android": [
+            "com.justgetflux.flux"
+        ],
         "linux": {
             "root": "fluxgui"
         }
@@ -5247,6 +5256,9 @@
         }
     },
     "foxit-reader": {
+        "android": [
+            "com.foxit.mobile.pdf.lite"
+        ],
         "linux": {
             "root": "foxit-reader",
             "symlinks": [
@@ -5786,6 +5798,9 @@
         }
     },
     "Gitter": {
+        "android": [
+            "im.gitter.gitter"
+        ],
         "linux": {
             "root": "Gitter",
             "symlinks": [
@@ -5855,6 +5870,9 @@
         }
     },
     "gmail": {
+        "android": [
+            "com.google.android.gm"
+        ],
         "linux": {
             "root": "gmail",
             "symlinks": [
@@ -6399,6 +6417,9 @@
         }
     },
     "google-chrome": {
+        "android": [
+            "com.android.chrome"
+        ],
         "linux": {
             "root": "google-chrome",
             "symlinks": [
@@ -6409,6 +6430,9 @@
         }
     },
     "google-chrome-beta": {
+        "android": [
+            "com.chrome.beta"
+        ],
         "linux": {
             "root": "google-chrome-beta"
         }
@@ -6419,6 +6443,9 @@
         }
     },
     "google-docs": {
+        "android": [
+            "com.google.android.apps.docs.editors.docs"
+        ],
         "linux": {
             "root": "google-docs",
             "symlinks": [
@@ -6450,6 +6477,9 @@
         }
     },
     "google-hangouts": {
+        "android": [
+            "com.google.android.talk"
+        ],
         "linux": {
             "root": "google-hangouts",
             "symlinks": [
@@ -6460,6 +6490,9 @@
         }
     },
     "google-keep": {
+        "android": [
+            "com.google.android.keep"
+        ],
         "linux": {
             "root": "google-keep",
             "symlinks": [
@@ -6497,6 +6530,9 @@
         }
     },
     "google-play-books": {
+        "android": [
+            "com.google.android.apps.books"
+        ],
         "linux": {
             "root": "google-play-books",
             "symlinks": [
@@ -6506,6 +6542,9 @@
         }
     },
     "google-sheets": {
+        "android": [
+            "com.google.android.apps.docs.editors.sheets"
+        ],
         "linux": {
             "root": "google-sheets",
             "symlinks": [
@@ -6530,6 +6569,9 @@
         }
     },
     "googleplus": {
+        "android": [
+            "com.google.android.apps.plus"
+        ],
         "linux": {
             "root": "googleplus",
             "symlinks": [
@@ -9388,11 +9430,17 @@
         }
     },
     "ms-excel": {
+        "android": [
+            "com.microsoft.office.excel"
+        ],
         "linux": {
             "root": "ms-excel"
         }
     },
     "ms-onenote": {
+        "android": [
+            "com.microsoft.office.onenote"  
+        ],
         "linux": {
             "root": "ms-onenote",
             "symlinks": [
@@ -9412,11 +9460,17 @@
         }
     },
     "ms-powerpoint": {
+        "android": [
+            "com.microsoft.office.powerpoint"
+        ],
         "linux": {
             "root": "ms-powerpoint"
         }
     },
     "ms-word": {
+        "android": [
+            "com.microsoft.office.word"
+        ],
         "linux": {
             "root": "ms-word"
         }
@@ -9736,6 +9790,9 @@
         }
     },
     "netflix-desktop": {
+        "android": [
+            "com.netflix.mediaclient"
+        ],
         "linux": {
             "root": "netflix-desktop",
             "symlinks": [
@@ -10100,6 +10157,9 @@
         }
     },
     "onedrive": {
+        "android": [
+            "om.microsoft.skydrive"  
+        ],
         "linux": {
             "root": "onedrive",
             "symlinks": [
@@ -12854,6 +12914,9 @@
         }
     },
     "slack": {
+        "android": [
+            "com.Slack"
+        ],
         "linux": {
             "root": "slack",
             "symlinks": [
@@ -13044,6 +13107,9 @@
         }
     },
     "soundcloud": {
+        "android": [
+            "com.soundcloud.android"
+        ],
         "linux": {
             "root": "soundcloud",
             "symlinks": [
@@ -14442,6 +14508,9 @@
         }
     },
     "telegram": {
+        "android": [
+            "org.telegram.messenger"
+        ],
         "linux": {
             "root": "telegram",
             "symlinks": [
@@ -15105,6 +15174,9 @@
         }
     },
     "unity-webapps-instagram": {
+        "android": [
+            "com.instagram.android"
+        ],
         "linux": {
             "root": "unity-webapps-instagram",
             "symlinks": [
@@ -15591,6 +15663,9 @@
         }
     },
     "web-9gag": {
+        "android": [
+            "com.ninegag.android.app"
+        ],
         "linux": {
             "root": "web-9gag",
             "symlinks": [
@@ -15741,6 +15816,9 @@
         }
     },
     "web-inbox": {
+        "android": [
+            "com.google.android.apps.inbox"
+        ],
         "linux": {
             "root": "web-inbox",
             "symlinks": [
@@ -15800,6 +15878,9 @@
         }
     },
     "web-outlook": {
+        "android": [
+            "com.microsoft.office.outlook"
+        ],
         "linux": {
             "root": "web-outlook",
             "symlinks": [
@@ -15822,6 +15903,9 @@
         }
     },
     "web-pocket": {
+        "android": [
+            "com.ideashower.readitlater.pro"
+        ],
         "linux": {
             "root": "web-pocket",
             "symlinks": [
@@ -15836,6 +15920,9 @@
         }
     },
     "web-pushbullet": {
+        "android": [
+            "com.pushbullet.android"
+        ],
         "linux": {
             "root": "web-pushbullet",
             "symlinks": [
@@ -15904,6 +15991,9 @@
         }
     },
     "web-whatsapp": {
+        "android": [
+            "com.whatsapp"
+        ],
         "linux": {
             "root": "web-whatsapp",
             "symlinks": [
@@ -16144,6 +16234,9 @@
         }
     },
     "wordpress": {
+        "android": [
+            "org.wordpress.android"
+        ],
         "linux": {
             "root": "wordpress",
             "symlinks": [
@@ -16569,6 +16662,9 @@
         }
     },
     "youtube": {
+        "android": [
+            "com.google.android.youtube"
+        ],
         "linux": {
             "root": "youtube",
             "symlinks": [
