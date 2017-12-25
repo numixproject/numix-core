@@ -115,12 +115,13 @@ except FileNotFoundError:
 if platform == "android":
     print("\nGenerating Android theme...")
     theme_name = "com.numix.icons_{0}".format(theme)
-    android_dir = "/MainActivity22/app/src/main/res/drawable-xxhdpi"
-    app_filter = theme_name + "/MainActivity22/app/src/main/res/xml/appfilter.xml"
+    android_dir = theme_name + "/MainActivity22/app/src/main/res/"
+    app_filter = android_dir + "xml/appfilter.xml"
+    theme_dir = android_dir + "drawable-xxhdpi/"
+
     app_filter_content = '<?xml version="1.0" encoding="utf-8"?>\n'
     app_filter_content += '<resources>\n'
 
-    theme_dir = theme_name + android_dir
     mkdir(theme_dir)
     mkdir(path.dirname(app_filter))
 
