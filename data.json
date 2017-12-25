@@ -6122,7 +6122,10 @@
     },
     "gnome-multi-writer": {
         "linux": {
-            "root": "gnome-multi-writer"
+            "root": "gnome-multi-writer",
+            "symlinks": [
+                "org.gnome.MultiWriter"   
+            ]
         }
     },
     "gnome-music": {
