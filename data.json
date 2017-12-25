@@ -516,7 +516,7 @@
     },
     "amazon-store": {
         "android": [
-            "com.amazon.mShop.android.shopping"  
+            "com.amazon.mShop.android.shopping"
         ],
         "linux": {
             "root": "amazon-store",
@@ -4923,7 +4923,7 @@
     },
     "file-manager": {
         "android": [
-            "com.amaze.filemanager"  
+            "com.amaze.filemanager"
         ],
         "linux": {
             "root": "file-manager",
@@ -5049,7 +5049,7 @@
     },
     "firefox-beta": {
         "android": [
-            "org.mozilla.firefox_beta"  
+            "org.mozilla.firefox_beta"
         ],
         "linux": {
             "root": "firefox-beta",
@@ -5597,7 +5597,7 @@
     },
     "gcolor2": {
         "android": [
-            "ch.ihdg.calendarcolor"  
+            "ch.ihdg.calendarcolor"
         ],
         "linux": {
             "root": "gcolor2",
@@ -6124,7 +6124,7 @@
         "linux": {
             "root": "gnome-multi-writer",
             "symlinks": [
-                "org.gnome.MultiWriter"   
+                "org.gnome.MultiWriter"
             ]
         }
     },
@@ -9491,7 +9491,7 @@
     },
     "ms-onenote": {
         "android": [
-            "com.microsoft.office.onenote"  
+            "com.microsoft.office.onenote"
         ],
         "linux": {
             "root": "ms-onenote",
@@ -10210,7 +10210,7 @@
     },
     "onedrive": {
         "android": [
-            "om.microsoft.skydrive"  
+            "om.microsoft.skydrive"
         ],
         "linux": {
             "root": "onedrive",
@@ -12959,7 +12959,7 @@
     },
     "skype": {
         "android": [
-            "com.skype.raider"  
+            "com.skype.raider"
         ],
         "linux": {
             "root": "skype",
@@ -13358,10 +13358,7 @@
     },
     "starcraft-2": {
         "linux": {
-            "root": "starcraft-2",
-            "symlinks": [
-                "924C_StarCraft II.0"
-            ]
+            "root": "starcraft-2"
         }
     },
     "stardew_valley": {
@@ -15589,7 +15586,7 @@
     },
     "vlc": {
         "android": [
-            "org.videolan.vlc"  
+            "org.videolan.vlc"
         ],
         "linux": {
             "root": "vlc",
