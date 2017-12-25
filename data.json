@@ -1,4 +1,9 @@
 {
+    " wargame-european-escalation": {
+        "linux": {
+            "root": "steam_icon_58610"
+        }
+    },
     "0ad": {
         "linux": {
             "root": "0ad",
@@ -63,6 +68,11 @@
                 "chrome-ddfplgpeamcbpecnihfpikllkfojgkai-Default",
                 "foobillardplus"
             ]
+        }
+    },
+    "8bitmmo": {
+        "linux": {
+            "root": "steam_icon_250420"
         }
     },
     "9AD6_Origin.0": {
@@ -291,6 +301,11 @@
             "root": "steam_icon_346900"
         }
     },
+    "adblock": {
+        "linux": {
+            "root": "chrome-gighmmpiobklfepjocnamgkkbiglidom-Default"
+        }
+    },
     "addressbook": {
         "linux": {
             "root": "addressbook",
@@ -435,6 +450,11 @@
             "root": "ailurus"
         }
     },
+    "airdroid": {
+        "linux": {
+            "root": "chrome-hkgndiocipalkpejnpafdbdlfdjihomd-Default"
+        }
+    },
     "AirPortUtility": {
         "linux": {
             "root": "AirPortUtility"
@@ -516,7 +536,7 @@
     },
     "amazon-store": {
         "android": [
-            "com.amazon.mShop.android.shopping"  
+            "com.amazon.mShop.android.shopping"
         ],
         "linux": {
             "root": "amazon-store",
@@ -548,6 +568,11 @@
                 "amd-ati",
                 "ati"
             ]
+        }
+    },
+    "amnesia-a-machine-for-pigs": {
+        "linux": {
+            "root": "steam_icon_239200"
         }
     },
     "amnesia-dark-decent": {
@@ -655,9 +680,19 @@
             "root": "anki"
         }
     },
+    "anna-extended-edition": {
+        "linux": {
+            "root": "steam_icon_217690"
+        }
+    },
     "anoise": {
         "linux": {
             "root": "anoise"
+        }
+    },
+    "antichamber": {
+        "linux": {
+            "root": "steam_icon_219890"
         }
     },
     "antimicro": {
@@ -1076,6 +1111,11 @@
             "root": "autoplus"
         }
     },
+    "avadon-the-black-fortress": {
+        "linux": {
+            "root": "steam_icon_112100"
+        }
+    },
     "avant-window-navigator": {
         "linux": {
             "root": "avant-window-navigator",
@@ -1213,6 +1253,11 @@
             ]
         }
     },
+    "bastion": {
+        "linux": {
+            "root": "steam_icon_107100"
+        }
+    },
     "bat": {
         "linux": {
             "root": "bat"
@@ -1223,9 +1268,22 @@
             "root": "Battle.net"
         }
     },
+    "battleblock-theater": {
+        "linux": {
+            "root": "steam_icon_238460"
+        }
+    },
     "bcloud": {
         "linux": {
             "root": "bcloud"
+        }
+    },
+    "beat-hazard": {
+        "linux": {
+            "root": "steam_icon_49600",
+            "symlinks": [
+                "steam_icon_49610"
+            ]
         }
     },
     "beryl": {
@@ -1481,6 +1539,16 @@
                 "boot-repair",
                 "x-boot-repair"
             ]
+        }
+    },
+    "borderlands-2": {
+        "linux": {
+            "root": "steam_icon_49520"
+        }
+    },
+    "borderlands-the-presequel": {
+        "linux": {
+            "root": "steam_icon_261640"
         }
     },
     "boswars": {
@@ -2593,6 +2661,11 @@
             "root": "cantor"
         }
     },
+    "cave-story": {
+        "linux": {
+            "root": "steam_icon_200900"
+        }
+    },
     "ccc_large": {
         "linux": {
             "root": "ccc_large"
@@ -2725,11 +2798,6 @@
             "root": "chrome-app-list"
         }
     },
-    "chrome-bfimiibpomebbdeomajcknhccgpkjmlh-Default": {
-        "linux": {
-            "root": "chrome-bfimiibpomebbdeomajcknhccgpkjmlh-Default"
-        }
-    },
     "chrome-bhmicilclplefnflapjmnngmkkkkpfad-Default": {
         "linux": {
             "root": "chrome-bhmicilclplefnflapjmnngmkkkkpfad-Default"
@@ -2744,11 +2812,6 @@
             "symlinks": [
                 "signal-desktop"
             ]
-        }
-    },
-    "chrome-bnadbgmffcofipfljniafanjcafjlbom-Default": {
-        "linux": {
-            "root": "chrome-bnadbgmffcofipfljniafanjcafjlbom-Default"
         }
     },
     "chrome-cijncchffkmlnfdbnkkfclcbnjcoegjc-Default": {
@@ -2865,11 +2928,6 @@
             "root": "chrome-gebjgjhbjedcomcajgpodjgfjgkepgpl-Default"
         }
     },
-    "chrome-gighmmpiobklfepjocnamgkkbiglidom-Default": {
-        "linux": {
-            "root": "chrome-gighmmpiobklfepjocnamgkkbiglidom-Default"
-        }
-    },
     "chrome-hjbljnpdahefgnopeohlaeohgkiidnoe-Default": {
         "linux": {
             "root": "chrome-hjbljnpdahefgnopeohlaeohgkiidnoe-Default"
@@ -2878,24 +2936,6 @@
     "chrome-hjkdhkejcnlmkfdodbkdkelefnkobfif-Default": {
         "linux": {
             "root": "chrome-hjkdhkejcnlmkfdodbkdkelefnkobfif-Default"
-        }
-    },
-    "chrome-hkgndiocipalkpejnpafdbdlfdjihomd-Default": {
-        "linux": {
-            "root": "chrome-hkgndiocipalkpejnpafdbdlfdjihomd-Default"
-        }
-    },
-    "chrome-https___prezi.com": {
-        "linux": {
-            "root": "chrome-https___prezi.com"
-        }
-    },
-    "chrome-https___stackedit.io_editor": {
-        "linux": {
-            "root": "chrome-https___stackedit.io_editor",
-            "symlinks": [
-                "chrome-iiooodelglhkcpgbajoejffhijaclcdg-Default"
-            ]
         }
     },
     "chrome-ieicmdpibfnjbmjolkmohnelljmjomoj-Default": {
@@ -2911,11 +2951,6 @@
     "chrome-ijfecbiladpinddbjfodaaiahggomhaf-Default": {
         "linux": {
             "root": "chrome-ijfecbiladpinddbjfodaaiahggomhaf-Default"
-        }
-    },
-    "chrome-jbdlaalbpgnopkpnmoppmccbgkjhfmgh-Default": {
-        "linux": {
-            "root": "chrome-jbdlaalbpgnopkpnmoppmccbgkjhfmgh-Default"
         }
     },
     "chrome-jeogkiiogjbmhklcnbgkdcjoioegiknm-Default": {
@@ -3046,6 +3081,11 @@
             "root": "cisco-pt"
         }
     },
+    "cities-in-motion-2": {
+        "linux": {
+            "root": "steam_icon_225420"
+        }
+    },
     "citra": {
         "linux": {
             "root": "citra"
@@ -3114,6 +3154,11 @@
             "root": "clipgrab"
         }
     },
+    "closure": {
+        "linux": {
+            "root": "steam_icon_72000"
+        }
+    },
     "cmake": {
         "linux": {
             "root": "cmake",
@@ -3178,6 +3223,11 @@
             ]
         }
     },
+    "cogs": {
+        "linux": {
+            "root": "steam_icon_26500"
+        }
+    },
     "colobot": {
         "linux": {
             "root": "colobot"
@@ -3219,6 +3269,11 @@
     "commonist": {
         "linux": {
             "root": "commonist"
+        }
+    },
+    "company-of-heroes-2": {
+        "linux": {
+            "root": "steam_icon_231430"
         }
     },
     "compton": {
@@ -3264,6 +3319,32 @@
             "root": "corebird",
             "symlinks": [
                 "org.baedert.corebird"
+            ]
+        }
+    },
+    "costume-quest": {
+        "linux": {
+            "root": "steam_icon_115100"
+        }
+    },
+    "counterstrike-condition-zero": {
+        "linux": {
+            "root": "steam_icon_80",
+            "symlinks": [
+                "steam_icon_100"
+            ]
+        }
+    },
+    "counterstrike-global-offensive": {
+        "linux": {
+            "root": "steam_icon_730"
+        }
+    },
+    "counterstrike-source": {
+        "linux": {
+            "root": "steam_icon_240",
+            "symlinks": [
+                "steam_icon_10"
             ]
         }
     },
@@ -3383,6 +3464,11 @@
             "root": "cs-user-accounts"
         }
     },
+    "cubemen": {
+        "linux": {
+            "root": "steam_icon_207250"
+        }
+    },
     "cups-launcher": {
         "linux": {
             "root": "cups-launcher"
@@ -3491,6 +3577,11 @@
             "root": "Darwinia"
         }
     },
+    "darwinia": {
+        "linux": {
+            "root": "steam_icon_1500"
+        }
+    },
     "dassault-systemes.draftsight": {
         "linux": {
             "root": "dassault-systemes.draftsight"
@@ -3499,6 +3590,14 @@
     "datagrip": {
         "linux": {
             "root": "datagrip"
+        }
+    },
+    "day-of-defeat": {
+        "linux": {
+            "root": "steam_icon_30",
+            "symlinks": [
+                "steam_icon_300"
+            ]
         }
     },
     "dbeaver": {
@@ -3605,6 +3704,11 @@
     "denemo": {
         "linux": {
             "root": "denemo"
+        }
+    },
+    "deponia-the-complete-journey": {
+        "linux": {
+            "root": "steam_icon_292910"
         }
     },
     "desktop": {
@@ -4326,6 +4430,16 @@
             ]
         }
     },
+    "dont-starve": {
+        "linux": {
+            "root": "steam_icon_219740"
+        }
+    },
+    "dont-starve-together": {
+        "linux": {
+            "root": "steam_icon_322330"
+        }
+    },
     "donut": {
         "linux": {
             "root": "donut"
@@ -4367,6 +4481,11 @@
             "symlinks": [
                 "steam_icon_570"
             ]
+        }
+    },
+    "double-action-boogaloo": {
+        "linux": {
+            "root": "steam_icon_317360"
         }
     },
     "doublecmd": {
@@ -4438,14 +4557,34 @@
             "root": "ds9"
         }
     },
+    "duet": {
+        "linux": {
+            "root": "steam_icon_292600"
+        }
+    },
+    "duke-nukem-3d-megaton-edition": {
+        "linux": {
+            "root": "steam_icon_225140"
+        }
+    },
     "dukto": {
         "linux": {
             "root": "dukto"
         }
     },
+    "dungeons-of-dredmor": {
+        "linux": {
+            "root": "steam_icon_98800"
+        }
+    },
     "dupeguru": {
         "linux": {
             "root": "dupeguru"
+        }
+    },
+    "dust-an-elysian-tail": {
+        "linux": {
+            "root": "steam_icon_236090"
         }
     },
     "dvdisaster": {
@@ -4467,6 +4606,19 @@
             "symlinks": [
                 "bombono-dvd"
             ]
+        }
+    },
+    "dwarfs": {
+        "linux": {
+            "root": "steam_icon_35480",
+            "symlinks": [
+                "steam_icon_213650"
+            ]
+        }
+    },
+    "dynamite-jack": {
+        "linux": {
+            "root": "steam_icon_202730"
         }
     },
     "eagle": {
@@ -4636,6 +4788,11 @@
             ]
         }
     },
+    "empire-total-war": {
+        "linux": {
+            "root": "steam_icon_10500"
+        }
+    },
     "Encryptr": {
         "linux": {
             "root": "Encryptr"
@@ -4766,9 +4923,24 @@
             "root": "ettercap"
         }
     },
+    "eufloria-hd": {
+        "linux": {
+            "root": "steam_icon_221180"
+        }
+    },
     "eureka": {
         "linux": {
             "root": "eureka"
+        }
+    },
+    "euro-truck-simulator-2": {
+        "linux": {
+            "root": "steam_icon_227300"
+        }
+    },
+    "europa-universalis-iv": {
+        "linux": {
+            "root": "steam_icon_236850"
         }
     },
     "evernote": {
@@ -4906,6 +5078,11 @@
             ]
         }
     },
+    "fez": {
+        "linux": {
+            "root": "steam_icon_224760"
+        }
+    },
     "ffmulticonverter": {
         "linux": {
             "root": "ffmulticonverter"
@@ -4923,7 +5100,7 @@
     },
     "file-manager": {
         "android": [
-            "com.amaze.filemanager"  
+            "com.amaze.filemanager"
         ],
         "linux": {
             "root": "file-manager",
@@ -5049,7 +5226,7 @@
     },
     "firefox-beta": {
         "android": [
-            "org.mozilla.firefox_beta"  
+            "org.mozilla.firefox_beta"
         ],
         "linux": {
             "root": "firefox-beta",
@@ -5100,6 +5277,11 @@
                 "system-config-firewall",
                 "ufw-frontends"
             ]
+        }
+    },
+    "fistful-of-frags": {
+        "linux": {
+            "root": "steam_icon_265630"
         }
     },
     "fityk": {
@@ -5178,6 +5360,11 @@
             "root": "flipboard"
         }
     },
+    "floating-point": {
+        "linux": {
+            "root": "steam_icon_302380"
+        }
+    },
     "flowblade": {
         "linux": {
             "root": "flowblade"
@@ -5250,9 +5437,19 @@
             "root": "foobnix"
         }
     },
+    "football-manager-2014": {
+        "linux": {
+            "root": "steam_icon_231670"
+        }
+    },
     "footnote-1": {
         "linux": {
             "root": "footnote-1"
+        }
+    },
+    "forced-slightly-better-edition": {
+        "linux": {
+            "root": "steam_icon_249990"
         }
     },
     "ForgedAllianceForever": {
@@ -5516,6 +5713,11 @@
             ]
         }
     },
+    "game-dev-tycoon": {
+        "linux": {
+            "root": "steam_icon_239820"
+        }
+    },
     "GammaRay": {
         "linux": {
             "root": "GammaRay"
@@ -5524,6 +5726,11 @@
     "ganttproject": {
         "linux": {
             "root": "ganttproject"
+        }
+    },
+    "garrys-mod": {
+        "linux": {
+            "root": "steam_icon_4000"
         }
     },
     "gaupol": {
@@ -5597,7 +5804,7 @@
     },
     "gcolor2": {
         "android": [
-            "ch.ihdg.calendarcolor"  
+            "ch.ihdg.calendarcolor"
         ],
         "linux": {
             "root": "gcolor2",
@@ -5728,6 +5935,11 @@
                 "geogebra-classic",
                 "org.geogebra.GeoGebra"
             ]
+        }
+    },
+    "geometry-dash": {
+        "linux": {
+            "root": "steam_icon_322170"
         }
     },
     "geppetto": {
@@ -6405,6 +6617,11 @@
             "root": "goa-panel"
         }
     },
+    "goat-simulator": {
+        "linux": {
+            "root": "steam_icon_265930"
+        }
+    },
     "gobby": {
         "linux": {
             "root": "gobby",
@@ -6435,6 +6652,11 @@
     "golly": {
         "linux": {
             "root": "golly"
+        }
+    },
+    "gone-home": {
+        "linux": {
+            "root": "steam_icon_232430"
         }
     },
     "gonvert": {
@@ -6963,6 +7185,11 @@
             "root": "gtranslator"
         }
     },
+    "guacamelee-gold-edition": {
+        "linux": {
+            "root": "steam_icon_214770"
+        }
+    },
     "guake": {
         "linux": {
             "root": "guake",
@@ -7054,6 +7281,42 @@
             "root": "haguichi"
         }
     },
+    "halflife": {
+        "linux": {
+            "root": "steam_icon_70"
+        }
+    },
+    "halflife-2": {
+        "linux": {
+            "root": "steam_icon_220",
+            "symlinks": [
+                "steam_icon_320",
+                "steam_icon_340",
+                "steam_icon_380",
+                "steam_icon_420"
+            ]
+        }
+    },
+    "halflife-2-update": {
+        "linux": {
+            "root": "steam_icon_290930"
+        }
+    },
+    "halflife-blue-shift": {
+        "linux": {
+            "root": "steam_icon_130"
+        }
+    },
+    "halflife-opposing-force": {
+        "linux": {
+            "root": "steam_icon_50"
+        }
+    },
+    "halflife-source": {
+        "linux": {
+            "root": "steam_icon_280"
+        }
+    },
     "halo": {
         "linux": {
             "root": "7BD8_halo.0"
@@ -7065,6 +7328,11 @@
             "symlinks": [
                 "steam_icon_41100"
             ]
+        }
+    },
+    "hammerwatch": {
+        "linux": {
+            "root": "steam_icon_239070"
         }
     },
     "hamster": {
@@ -7117,6 +7385,11 @@
     "hearthstone": {
         "linux": {
             "root": "hearthstone"
+        }
+    },
+    "heavy-bullets": {
+        "linux": {
+            "root": "steam_icon_297120"
         }
     },
     "hedgewars": {
@@ -7226,6 +7499,16 @@
     "hopper-disassembler-v3": {
         "linux": {
             "root": "hopper-disassembler-v3"
+        }
+    },
+    "hotline-miami": {
+        "linux": {
+            "root": "steam_icon_219150"
+        }
+    },
+    "hotline-miami-2-wrong-number": {
+        "linux": {
+            "root": "steam_icon_274170"
         }
     },
     "hotot": {
@@ -7507,6 +7790,11 @@
     "input-touchpad": {
         "linux": {
             "root": "input-touchpad"
+        }
+    },
+    "insurgency": {
+        "linux": {
+            "root": "steam_icon_222880"
         }
     },
     "insync": {
@@ -7831,6 +8119,11 @@
             "root": "kadu"
         }
     },
+    "kairo": {
+        "linux": {
+            "root": "steam_icon_233230"
+        }
+    },
     "kajongg": {
         "linux": {
             "root": "kajongg",
@@ -7994,6 +8287,16 @@
             "root": "keeweb"
         }
     },
+    "kentucky-route-zero": {
+        "linux": {
+            "root": "steam_icon_231200"
+        }
+    },
+    "kerbal-space-program": {
+        "linux": {
+            "root": "steam_icon_220200"
+        }
+    },
     "keybase": {
         "linux": {
             "root": "keybase"
@@ -8077,6 +8380,11 @@
     "kimtoy": {
         "linux": {
             "root": "kimtoy"
+        }
+    },
+    "king-arthurs-gold": {
+        "linux": {
+            "root": "steam_icon_219830"
         }
     },
     "kingsoft-presentation": {
@@ -8577,6 +8885,14 @@
             "root": "LeagueOfLegends"
         }
     },
+    "left-4-dead-2": {
+        "linux": {
+            "root": "steam_icon_550",
+            "symlinks": [
+                "steam_icon_223530"
+            ]
+        }
+    },
     "lenmus": {
         "linux": {
             "root": "lenmus"
@@ -8787,6 +9103,11 @@
     "liteide": {
         "linux": {
             "root": "liteide"
+        }
+    },
+    "little-inferno": {
+        "linux": {
+            "root": "steam_icon_221260"
         }
     },
     "liveinst": {
@@ -9093,6 +9414,11 @@
             "root": "mansa"
         }
     },
+    "mark-of-the-ninja": {
+        "linux": {
+            "root": "steam_icon_214560"
+        }
+    },
     "marlin": {
         "linux": {
             "root": "marlin"
@@ -9261,6 +9587,27 @@
             "root": "metamorphose2"
         }
     },
+    "metro-2033": {
+        "linux": {
+            "root": "steam_icon_43110",
+            "symlinks": [
+                "steam_icon_286690"
+            ]
+        }
+    },
+    "metro-last-night": {
+        "linux": {
+            "root": "steam_icon_43160",
+            "symlinks": [
+                "steam_icon_287390"
+            ]
+        }
+    },
+    "middleearth-shadow-of-mordor": {
+        "linux": {
+            "root": "steam_icon_241930"
+        }
+    },
     "midori": {
         "linux": {
             "root": "midori",
@@ -9296,6 +9643,11 @@
                 "minetest-icon",
                 "net.minetest.Minetest"
             ]
+        }
+    },
+    "mini-metro": {
+        "linux": {
+            "root": "steam_icon_287980"
         }
     },
     "minitube": {
@@ -9411,6 +9763,11 @@
             "root": "moinmoin"
         }
     },
+    "monaco-whats-yours-is-mine": {
+        "linux": {
+            "root": "steam_icon_113020"
+        }
+    },
     "mongodb": {
         "linux": {
             "root": "mongodb"
@@ -9491,7 +9848,7 @@
     },
     "ms-onenote": {
         "android": [
-            "com.microsoft.office.onenote"  
+            "com.microsoft.office.onenote"
         ],
         "linux": {
             "root": "ms-onenote",
@@ -9749,6 +10106,11 @@
             "root": "natronIcon256_linux"
         }
     },
+    "natural-selection-2": {
+        "linux": {
+            "root": "steam_icon_4920"
+        }
+    },
     "nautilus-pastebin": {
         "linux": {
             "root": "nautilus-pastebin"
@@ -9976,6 +10338,11 @@
             ]
         }
     },
+    "no-more-room-in-hell": {
+        "linux": {
+            "root": "steam_icon_224260"
+        }
+    },
     "nodejs": {
         "linux": {
             "root": "nodejs"
@@ -10175,6 +10542,11 @@
             "root": "ogmrip"
         }
     },
+    "oil-rush": {
+        "linux": {
+            "root": "steam_icon_200390"
+        }
+    },
     "okular": {
         "linux": {
             "root": "okular"
@@ -10210,7 +10582,7 @@
     },
     "onedrive": {
         "android": [
-            "om.microsoft.skydrive"  
+            "om.microsoft.skydrive"
         ],
         "linux": {
             "root": "onedrive",
@@ -10563,6 +10935,11 @@
             "root": "otter-browser"
         }
     },
+    "outlast": {
+        "linux": {
+            "root": "steam_icon_238320"
+        }
+    },
     "owlboy": {
         "linux": {
             "root": "steam_icon_115800"
@@ -10638,6 +11015,11 @@
             "root": "paper_green"
         }
     },
+    "papers-please": {
+        "linux": {
+            "root": "steam_icon_239030"
+        }
+    },
     "paperwork": {
         "linux": {
             "root": "paperwork",
@@ -10686,6 +11068,11 @@
     "parole": {
         "linux": {
             "root": "parole"
+        }
+    },
+    "particle-mace": {
+        "linux": {
+            "root": "steam_icon_295690"
         }
     },
     "pasaffe": {
@@ -10810,6 +11197,21 @@
     "pentobi": {
         "linux": {
             "root": "pentobi"
+        }
+    },
+    "penumbra-black-plague-gold-edition": {
+        "linux": {
+            "root": "steam_icon_22120"
+        }
+    },
+    "penumbra-overture": {
+        "linux": {
+            "root": "steam_icon_22180"
+        }
+    },
+    "penumbra-requiem": {
+        "linux": {
+            "root": "steam_icon_22140"
         }
     },
     "performous": {
@@ -11005,6 +11407,11 @@
             ]
         }
     },
+    "pixeljunk-monsters-ultimate": {
+        "linux": {
+            "root": "steam_icon_243780"
+        }
+    },
     "plague": {
         "linux": {
             "root": "plague",
@@ -11172,6 +11579,22 @@
                 "butter",
                 "popcorn-time",
                 "popcorntime-ce"
+            ]
+        }
+    },
+    "portal": {
+        "linux": {
+            "root": "steam_icon_400",
+            "symlinks": [
+                "portal"
+            ]
+        }
+    },
+    "portal-2": {
+        "linux": {
+            "root": "steam_icon_620",
+            "symlinks": [
+                "steam_icon_841"
             ]
         }
     },
@@ -11501,6 +11924,11 @@
             ]
         }
     },
+    "prison-architect": {
+        "linux": {
+            "root": "steam_icon_233450"
+        }
+    },
     "prjm16-transparent": {
         "linux": {
             "root": "prjm16-transparent"
@@ -11518,6 +11946,11 @@
     "projectlibre": {
         "linux": {
             "root": "projectlibre"
+        }
+    },
+    "proteus": {
+        "linux": {
+            "root": "steam_icon_219680"
         }
     },
     "psensor": {
@@ -12452,6 +12885,11 @@
             ]
         }
     },
+    "risk-of-rain": {
+        "linux": {
+            "root": "steam_icon_248820"
+        }
+    },
     "ristretto": {
         "linux": {
             "root": "ristretto"
@@ -12476,6 +12914,11 @@
             "root": "robocode"
         }
     },
+    "robocraft": {
+        "linux": {
+            "root": "steam_icon_301520"
+        }
+    },
     "robomongo": {
         "linux": {
             "root": "robomongo"
@@ -12484,6 +12927,11 @@
     "roccat": {
         "linux": {
             "root": "roccat"
+        }
+    },
+    "rochard": {
+        "linux": {
+            "root": "steam_icon_107800"
         }
     },
     "rocketchat": {
@@ -12504,6 +12952,11 @@
     "roger": {
         "linux": {
             "root": "roger"
+        }
+    },
+    "rogue-legacy": {
+        "linux": {
+            "root": "steam_icon_241600"
         }
     },
     "rosamp": {
@@ -12580,6 +13033,11 @@
     "sage-notebook": {
         "linux": {
             "root": "sage-notebook"
+        }
+    },
+    "sakura-spirit": {
+        "linux": {
+            "root": "steam_icon_313740"
         }
     },
     "samplv1": {
@@ -12820,6 +13278,11 @@
             "root": "serialplot"
         }
     },
+    "serious-sam-3-bfe": {
+        "linux": {
+            "root": "steam_icon_41070"
+        }
+    },
     "session-properties": {
         "linux": {
             "root": "session-properties",
@@ -12853,9 +13316,29 @@
             "root": "sflphone"
         }
     },
+    "shadowrun-dragonfall-directors-cut": {
+        "linux": {
+            "root": "steam_icon_300550"
+        }
+    },
+    "shadowrun-returns": {
+        "linux": {
+            "root": "steam_icon_234650"
+        }
+    },
     "shadowsocks-qt5": {
         "linux": {
             "root": "shadowsocks-qt5"
+        }
+    },
+    "shank": {
+        "linux": {
+            "root": "steam_icon_6120",
+            "symlinks": [
+                "steam_icon_102840",
+                "steam_icon_204680",
+                "steam_icon_6130"
+            ]
         }
     },
     "shares": {
@@ -12889,6 +13372,16 @@
     "shutter": {
         "linux": {
             "root": "shutter"
+        }
+    },
+    "sid-meiers-civilization-beyond-earth": {
+        "linux": {
+            "root": "steam_icon_65980"
+        }
+    },
+    "sid-meiers-civilization-v": {
+        "linux": {
+            "root": "steam_icon_8930"
         }
     },
     "sigil": {
@@ -12959,7 +13452,7 @@
     },
     "skype": {
         "android": [
-            "com.skype.raider"  
+            "com.skype.raider"
         ],
         "linux": {
             "root": "skype",
@@ -13073,6 +13566,11 @@
             "root": "snappy"
         }
     },
+    "snapshot": {
+        "linux": {
+            "root": "steam_icon_204220"
+        }
+    },
     "snes9x": {
         "linux": {
             "root": "snes9x",
@@ -13128,6 +13626,11 @@
     "solaar": {
         "linux": {
             "root": "solaar"
+        }
+    },
+    "solar-2": {
+        "linux": {
+            "root": "steam_icon_97000"
         }
     },
     "solarus": {
@@ -13231,9 +13734,22 @@
             "root": "spe"
         }
     },
+    "spec-ops-the-line": {
+        "linux": {
+            "root": "steam_icon_50300"
+        }
+    },
     "spek": {
         "linux": {
             "root": "spek"
+        }
+    },
+    "spelunky": {
+        "linux": {
+            "root": "steam_icon_239350",
+            "symlinks": [
+                "chrome-mhagnkphcmpkmabhocgimoncfaihkpof-Default"
+            ]
         }
     },
     "spice": {
@@ -13260,6 +13776,11 @@
     "SplashtopStreamer": {
         "linux": {
             "root": "SplashtopStreamer"
+        }
+    },
+    "splice": {
+        "linux": {
+            "root": "steam_icon_209790"
         }
     },
     "sportstracker": {
@@ -13351,9 +13872,27 @@
             "root": "stacer"
         }
     },
+    "stackedit": {
+        "linux": {
+            "root": "chrome-https___stackedit.io_editor",
+            "symlinks": [
+                "chrome-iiooodelglhkcpgbajoejffhijaclcdg-Default"
+            ]
+        }
+    },
+    "star-conflict": {
+        "linux": {
+            "root": "steam_icon_212070"
+        }
+    },
     "star-uml": {
         "linux": {
             "root": "staruml"
+        }
+    },
+    "starbound": {
+        "linux": {
+            "root": "steam_icon_211820"
         }
     },
     "starcraft-2": {
@@ -13393,6 +13932,11 @@
             "root": "steadyflow"
         }
     },
+    "stealth-bastard-deluxe": {
+        "linux": {
+            "root": "steam_icon_209190"
+        }
+    },
     "steam": {
         "android": [
             "com.valvesoftware.android.steam.community"
@@ -13408,304 +13952,9 @@
             ]
         }
     },
-    "steam_icon_10500": {
-        "linux": {
-            "root": "steam_icon_10500"
-        }
-    },
-    "steam_icon_105600": {
-        "linux": {
-            "root": "steam_icon_105600"
-        }
-    },
-    "steam_icon_107100": {
-        "linux": {
-            "root": "steam_icon_107100"
-        }
-    },
-    "steam_icon_107800": {
-        "linux": {
-            "root": "steam_icon_107800"
-        }
-    },
-    "steam_icon_112100": {
-        "linux": {
-            "root": "steam_icon_112100"
-        }
-    },
-    "steam_icon_113020": {
-        "linux": {
-            "root": "steam_icon_113020"
-        }
-    },
-    "steam_icon_115100": {
-        "linux": {
-            "root": "steam_icon_115100"
-        }
-    },
-    "steam_icon_130": {
-        "linux": {
-            "root": "steam_icon_130"
-        }
-    },
-    "steam_icon_1500": {
-        "linux": {
-            "root": "steam_icon_1500"
-        }
-    },
-    "steam_icon_1510": {
-        "linux": {
-            "root": "steam_icon_1510"
-        }
-    },
-    "steam_icon_20": {
-        "linux": {
-            "root": "steam_icon_20"
-        }
-    },
-    "steam_icon_200390": {
-        "linux": {
-            "root": "steam_icon_200390"
-        }
-    },
-    "steam_icon_200510": {
-        "linux": {
-            "root": "steam_icon_200510"
-        }
-    },
-    "steam_icon_200900": {
-        "linux": {
-            "root": "steam_icon_200900"
-        }
-    },
-    "steam_icon_202730": {
-        "linux": {
-            "root": "steam_icon_202730"
-        }
-    },
-    "steam_icon_204060": {
-        "linux": {
-            "root": "steam_icon_204060"
-        }
-    },
-    "steam_icon_204180": {
-        "linux": {
-            "root": "steam_icon_204180"
-        }
-    },
-    "steam_icon_204220": {
-        "linux": {
-            "root": "steam_icon_204220"
-        }
-    },
-    "steam_icon_207250": {
-        "linux": {
-            "root": "steam_icon_207250"
-        }
-    },
-    "steam_icon_209190": {
-        "linux": {
-            "root": "steam_icon_209190"
-        }
-    },
-    "steam_icon_209790": {
-        "linux": {
-            "root": "steam_icon_209790"
-        }
-    },
-    "steam_icon_211820": {
-        "linux": {
-            "root": "steam_icon_211820"
-        }
-    },
-    "steam_icon_212070": {
-        "linux": {
-            "root": "steam_icon_212070"
-        }
-    },
-    "steam_icon_214560": {
-        "linux": {
-            "root": "steam_icon_214560"
-        }
-    },
-    "steam_icon_214770": {
-        "linux": {
-            "root": "steam_icon_214770"
-        }
-    },
-    "steam_icon_215080": {
-        "linux": {
-            "root": "steam_icon_215080"
-        }
-    },
-    "steam_icon_215160": {
-        "linux": {
-            "root": "steam_icon_215160"
-        }
-    },
-    "steam_icon_217690": {
-        "linux": {
-            "root": "steam_icon_217690"
-        }
-    },
-    "steam_icon_219150": {
-        "linux": {
-            "root": "steam_icon_219150"
-        }
-    },
-    "steam_icon_219680": {
-        "linux": {
-            "root": "steam_icon_219680"
-        }
-    },
-    "steam_icon_219740": {
-        "linux": {
-            "root": "steam_icon_219740"
-        }
-    },
-    "steam_icon_219830": {
-        "linux": {
-            "root": "steam_icon_219830"
-        }
-    },
-    "steam_icon_219890": {
-        "linux": {
-            "root": "steam_icon_219890"
-        }
-    },
-    "steam_icon_220": {
-        "linux": {
-            "root": "steam_icon_220",
-            "symlinks": [
-                "steam_icon_320",
-                "steam_icon_340",
-                "steam_icon_380",
-                "steam_icon_420"
-            ]
-        }
-    },
-    "steam_icon_22000": {
-        "linux": {
-            "root": "steam_icon_22000",
-            "symlinks": [
-                "steam_icon_22010",
-                "world-of-goo",
-                "worldofgoo",
-                "WorldOfGoo"
-            ]
-        }
-    },
-    "steam_icon_220200": {
-        "linux": {
-            "root": "steam_icon_220200"
-        }
-    },
-    "steam_icon_220780": {
-        "linux": {
-            "root": "steam_icon_220780"
-        }
-    },
-    "steam_icon_221180": {
-        "linux": {
-            "root": "steam_icon_221180"
-        }
-    },
-    "steam_icon_22120": {
-        "linux": {
-            "root": "steam_icon_22120"
-        }
-    },
-    "steam_icon_221260": {
-        "linux": {
-            "root": "steam_icon_221260"
-        }
-    },
-    "steam_icon_22140": {
-        "linux": {
-            "root": "steam_icon_22140"
-        }
-    },
-    "steam_icon_221640": {
-        "linux": {
-            "root": "steam_icon_221640",
-            "symlinks": [
-                "super-hexagon"
-            ]
-        }
-    },
-    "steam_icon_22180": {
-        "linux": {
-            "root": "steam_icon_22180"
-        }
-    },
     "steam_icon_221830": {
         "linux": {
             "root": "steam_icon_221830"
-        }
-    },
-    "steam_icon_222750": {
-        "linux": {
-            "root": "steam_icon_222750"
-        }
-    },
-    "steam_icon_222880": {
-        "linux": {
-            "root": "steam_icon_222880"
-        }
-    },
-    "steam_icon_224260": {
-        "linux": {
-            "root": "steam_icon_224260"
-        }
-    },
-    "steam_icon_224760": {
-        "linux": {
-            "root": "steam_icon_224760"
-        }
-    },
-    "steam_icon_225140": {
-        "linux": {
-            "root": "steam_icon_225140"
-        }
-    },
-    "steam_icon_225420": {
-        "linux": {
-            "root": "steam_icon_225420"
-        }
-    },
-    "steam_icon_227200": {
-        "linux": {
-            "root": "steam_icon_227200"
-        }
-    },
-    "steam_icon_227300": {
-        "linux": {
-            "root": "steam_icon_227300"
-        }
-    },
-    "steam_icon_231160": {
-        "linux": {
-            "root": "steam_icon_231160"
-        }
-    },
-    "steam_icon_231200": {
-        "linux": {
-            "root": "steam_icon_231200"
-        }
-    },
-    "steam_icon_231430": {
-        "linux": {
-            "root": "steam_icon_231430"
-        }
-    },
-    "steam_icon_231670": {
-        "linux": {
-            "root": "steam_icon_231670"
-        }
-    },
-    "steam_icon_232430": {
-        "linux": {
-            "root": "steam_icon_232430"
         }
     },
     "steam_icon_232790": {
@@ -13713,158 +13962,9 @@
             "root": "steam_icon_232790"
         }
     },
-    "steam_icon_233230": {
-        "linux": {
-            "root": "steam_icon_233230"
-        }
-    },
-    "steam_icon_233450": {
-        "linux": {
-            "root": "steam_icon_233450"
-        }
-    },
-    "steam_icon_234650": {
-        "linux": {
-            "root": "steam_icon_234650"
-        }
-    },
-    "steam_icon_236090": {
-        "linux": {
-            "root": "steam_icon_236090"
-        }
-    },
-    "steam_icon_236390": {
-        "linux": {
-            "root": "steam_icon_236390"
-        }
-    },
-    "steam_icon_236850": {
-        "linux": {
-            "root": "steam_icon_236850"
-        }
-    },
-    "steam_icon_238210": {
-        "linux": {
-            "root": "steam_icon_238210",
-            "symlinks": [
-                "steam_icon_336390"
-            ]
-        }
-    },
-    "steam_icon_238320": {
-        "linux": {
-            "root": "steam_icon_238320"
-        }
-    },
-    "steam_icon_238460": {
-        "linux": {
-            "root": "steam_icon_238460"
-        }
-    },
-    "steam_icon_239030": {
-        "linux": {
-            "root": "steam_icon_239030"
-        }
-    },
-    "steam_icon_239070": {
-        "linux": {
-            "root": "steam_icon_239070"
-        }
-    },
-    "steam_icon_239200": {
-        "linux": {
-            "root": "steam_icon_239200"
-        }
-    },
-    "steam_icon_239350": {
-        "linux": {
-            "root": "steam_icon_239350",
-            "symlinks": [
-                "chrome-mhagnkphcmpkmabhocgimoncfaihkpof-Default"
-            ]
-        }
-    },
-    "steam_icon_239820": {
-        "linux": {
-            "root": "steam_icon_239820"
-        }
-    },
-    "steam_icon_240": {
-        "linux": {
-            "root": "steam_icon_240",
-            "symlinks": [
-                "steam_icon_10"
-            ]
-        }
-    },
-    "steam_icon_241600": {
-        "linux": {
-            "root": "steam_icon_241600"
-        }
-    },
-    "steam_icon_241930": {
-        "linux": {
-            "root": "steam_icon_241930"
-        }
-    },
-    "steam_icon_243780": {
-        "linux": {
-            "root": "steam_icon_243780"
-        }
-    },
-    "steam_icon_248570": {
-        "linux": {
-            "root": "steam_icon_248570"
-        }
-    },
-    "steam_icon_248820": {
-        "linux": {
-            "root": "steam_icon_248820"
-        }
-    },
-    "steam_icon_249990": {
-        "linux": {
-            "root": "steam_icon_249990"
-        }
-    },
-    "steam_icon_250420": {
-        "linux": {
-            "root": "steam_icon_250420"
-        }
-    },
-    "steam_icon_250900": {
-        "linux": {
-            "root": "steam_icon_250900"
-        }
-    },
     "steam_icon_252950": {
         "linux": {
             "root": "steam_icon_252950"
-        }
-    },
-    "steam_icon_261640": {
-        "linux": {
-            "root": "steam_icon_261640"
-        }
-    },
-    "steam_icon_26500": {
-        "linux": {
-            "root": "steam_icon_26500"
-        }
-    },
-    "steam_icon_265630": {
-        "linux": {
-            "root": "steam_icon_265630"
-        }
-    },
-    "steam_icon_265930": {
-        "linux": {
-            "root": "steam_icon_265930"
-        }
-    },
-    "steam_icon_274170": {
-        "linux": {
-            "root": "steam_icon_274170"
         }
     },
     "steam_icon_275390": {
@@ -13872,72 +13972,9 @@
             "root": "steam_icon_275390"
         }
     },
-    "steam_icon_280": {
-        "linux": {
-            "root": "steam_icon_280"
-        }
-    },
-    "steam_icon_281990": {
-        "linux": {
-            "root": "steam_icon_281990"
-        }
-    },
-    "steam_icon_287980": {
-        "linux": {
-            "root": "steam_icon_287980"
-        }
-    },
-    "steam_icon_290930": {
-        "linux": {
-            "root": "steam_icon_290930"
-        }
-    },
-    "steam_icon_292600": {
-        "linux": {
-            "root": "steam_icon_292600"
-        }
-    },
-    "steam_icon_292910": {
-        "linux": {
-            "root": "steam_icon_292910"
-        }
-    },
     "steam_icon_293780": {
         "linux": {
             "root": "steam_icon_293780"
-        }
-    },
-    "steam_icon_295690": {
-        "linux": {
-            "root": "steam_icon_295690"
-        }
-    },
-    "steam_icon_297120": {
-        "linux": {
-            "root": "steam_icon_297120"
-        }
-    },
-    "steam_icon_30": {
-        "linux": {
-            "root": "steam_icon_30",
-            "symlinks": [
-                "steam_icon_300"
-            ]
-        }
-    },
-    "steam_icon_300550": {
-        "linux": {
-            "root": "steam_icon_300550"
-        }
-    },
-    "steam_icon_301520": {
-        "linux": {
-            "root": "steam_icon_301520"
-        }
-    },
-    "steam_icon_302380": {
-        "linux": {
-            "root": "steam_icon_302380"
         }
     },
     "steam_icon_302610": {
@@ -13945,203 +13982,19 @@
             "root": "steam_icon_302610"
         }
     },
-    "steam_icon_313740": {
-        "linux": {
-            "root": "steam_icon_313740"
-        }
-    },
-    "steam_icon_317360": {
-        "linux": {
-            "root": "steam_icon_317360"
-        }
-    },
-    "steam_icon_322170": {
-        "linux": {
-            "root": "steam_icon_322170"
-        }
-    },
-    "steam_icon_322330": {
-        "linux": {
-            "root": "steam_icon_322330"
-        }
-    },
-    "steam_icon_332970": {
-        "linux": {
-            "root": "steam_icon_332970"
-        }
-    },
-    "steam_icon_35480": {
-        "linux": {
-            "root": "steam_icon_35480",
-            "symlinks": [
-                "steam_icon_213650"
-            ]
-        }
-    },
-    "steam_icon_400": {
-        "linux": {
-            "root": "steam_icon_400",
-            "symlinks": [
-                "portal"
-            ]
-        }
-    },
-    "steam_icon_4000": {
-        "linux": {
-            "root": "steam_icon_4000"
-        }
-    },
-    "steam_icon_40800": {
-        "linux": {
-            "root": "steam_icon_40800"
-        }
-    },
-    "steam_icon_41070": {
-        "linux": {
-            "root": "steam_icon_41070"
-        }
-    },
-    "steam_icon_43110": {
-        "linux": {
-            "root": "steam_icon_43110",
-            "symlinks": [
-                "steam_icon_286690"
-            ]
-        }
-    },
-    "steam_icon_43160": {
-        "linux": {
-            "root": "steam_icon_43160",
-            "symlinks": [
-                "steam_icon_287390"
-            ]
-        }
-    },
-    "steam_icon_440": {
-        "linux": {
-            "root": "steam_icon_440"
-        }
-    },
-    "steam_icon_4920": {
-        "linux": {
-            "root": "steam_icon_4920"
-        }
-    },
-    "steam_icon_49520": {
-        "linux": {
-            "root": "steam_icon_49520"
-        }
-    },
-    "steam_icon_49600": {
-        "linux": {
-            "root": "steam_icon_49600",
-            "symlinks": [
-                "steam_icon_49610"
-            ]
-        }
-    },
-    "steam_icon_50": {
-        "linux": {
-            "root": "steam_icon_50"
-        }
-    },
-    "steam_icon_50300": {
-        "linux": {
-            "root": "steam_icon_50300"
-        }
-    },
-    "steam_icon_550": {
-        "linux": {
-            "root": "steam_icon_550",
-            "symlinks": [
-                "steam_icon_223530"
-            ]
-        }
-    },
-    "steam_icon_58610": {
-        "linux": {
-            "root": "steam_icon_58610"
-        }
-    },
     "steam_icon_60": {
         "linux": {
             "root": "steam_icon_60"
         }
     },
-    "steam_icon_6120": {
-        "linux": {
-            "root": "steam_icon_6120",
-            "symlinks": [
-                "steam_icon_102840",
-                "steam_icon_204680",
-                "steam_icon_6130"
-            ]
-        }
-    },
-    "steam_icon_61600": {
-        "linux": {
-            "root": "steam_icon_61600"
-        }
-    },
-    "steam_icon_620": {
-        "linux": {
-            "root": "steam_icon_620",
-            "symlinks": [
-                "steam_icon_841"
-            ]
-        }
-    },
-    "steam_icon_65980": {
-        "linux": {
-            "root": "steam_icon_65980"
-        }
-    },
-    "steam_icon_70": {
-        "linux": {
-            "root": "steam_icon_70"
-        }
-    },
-    "steam_icon_70300": {
-        "linux": {
-            "root": "steam_icon_70300"
-        }
-    },
-    "steam_icon_72000": {
-        "linux": {
-            "root": "steam_icon_72000"
-        }
-    },
-    "steam_icon_730": {
-        "linux": {
-            "root": "steam_icon_730"
-        }
-    },
-    "steam_icon_80": {
-        "linux": {
-            "root": "steam_icon_80",
-            "symlinks": [
-                "steam_icon_100"
-            ]
-        }
-    },
-    "steam_icon_8930": {
-        "linux": {
-            "root": "steam_icon_8930"
-        }
-    },
-    "steam_icon_97000": {
-        "linux": {
-            "root": "steam_icon_97000"
-        }
-    },
-    "steam_icon_98800": {
-        "linux": {
-            "root": "steam_icon_98800"
-        }
-    },
     "steamskinmanager": {
         "linux": {
             "root": "steamskinmanager"
+        }
+    },
+    "stellaris": {
+        "linux": {
+            "root": "steam_icon_281990"
         }
     },
     "stellarium": {
@@ -14192,6 +14045,11 @@
                 "ptask",
                 "xfce4-clipman-plugin"
             ]
+        }
+    },
+    "storm-united": {
+        "linux": {
+            "root": "steam_icon_332970"
         }
     },
     "stormcloud": {
@@ -14260,6 +14118,24 @@
     "sunvox": {
         "linux": {
             "root": "sunvox"
+        }
+    },
+    "super-hexagon": {
+        "linux": {
+            "root": "steam_icon_221640",
+            "symlinks": [
+                "super-hexagon"
+            ]
+        }
+    },
+    "super-meat-boy": {
+        "linux": {
+            "root": "steam_icon_40800"
+        }
+    },
+    "superbrothers-sword-sworcery-ep": {
+        "linux": {
+            "root": "steam_icon_204060"
         }
     },
     "supertux": {
@@ -14430,6 +14306,14 @@
             ]
         }
     },
+    "system-shock-2": {
+        "linux": {
+            "root": "steam_icon_238210",
+            "symlinks": [
+                "steam_icon_336390"
+            ]
+        }
+    },
     "system-software-install": {
         "linux": {
             "root": "system-software-install",
@@ -14550,6 +14434,16 @@
             ]
         }
     },
+    "team-fortress-2": {
+        "linux": {
+            "root": "steam_icon_440"
+        }
+    },
+    "team-fortress-classic": {
+        "linux": {
+            "root": "steam_icon_20"
+        }
+    },
     "teamviewer": {
         "android": [
             "com.teamviewer.teamviewer.market.mobile"
@@ -14662,6 +14556,11 @@
             "root": "terra"
         }
     },
+    "terraria": {
+        "linux": {
+            "root": "steam_icon_105600"
+        }
+    },
     "tesseract": {
         "linux": {
             "root": "tesseract"
@@ -14742,6 +14641,16 @@
             "root": "TeXworks"
         }
     },
+    "the-binding-of-isaac-rebirth": {
+        "linux": {
+            "root": "steam_icon_250900"
+        }
+    },
+    "the-book-of-unwritten-tales": {
+        "linux": {
+            "root": "steam_icon_215160"
+        }
+    },
     "the-escapist": {
         "linux": {
             "root": "steam_icon_298630"
@@ -14755,6 +14664,11 @@
     "the-stanley-parable": {
         "linux": {
             "root": "steam_icon_221910"
+        }
+    },
+    "the-swapper": {
+        "linux": {
+            "root": "steam_icon_231160"
         }
     },
     "theme-config": {
@@ -14781,6 +14695,11 @@
     "thg_logo": {
         "linux": {
             "root": "thg_logo"
+        }
+    },
+    "thomas-was-alone": {
+        "linux": {
+            "root": "steam_icon_220780"
         }
     },
     "thunar": {
@@ -14918,6 +14837,11 @@
     "tooth-and-tail": {
         "linux": {
             "root": "steam_icon_286000"
+        }
+    },
+    "toribash": {
+        "linux": {
+            "root": "steam_icon_248570"
         }
     },
     "torrent-file-editor": {
@@ -15279,6 +15203,11 @@
             "root": "unvanquished"
         }
     },
+    "uplink": {
+        "linux": {
+            "root": "steam_icon_1510"
+        }
+    },
     "upnp-router-control": {
         "linux": {
             "root": "upnp-router-control"
@@ -15589,7 +15518,7 @@
     },
     "vlc": {
         "android": [
-            "org.videolan.vlc"  
+            "org.videolan.vlc"
         ],
         "linux": {
             "root": "vlc",
@@ -15692,6 +15621,31 @@
             "root": "vstudio"
         }
     },
+    "vvvvvv": {
+        "linux": {
+            "root": "steam_icon_70300"
+        }
+    },
+    "wakfu": {
+        "linux": {
+            "root": "steam_icon_215080"
+        }
+    },
+    "waking-mars": {
+        "linux": {
+            "root": "steam_icon_227200"
+        }
+    },
+    "war-thunder": {
+        "linux": {
+            "root": "steam_icon_236390"
+        }
+    },
+    "wargame-airland-battle": {
+        "linux": {
+            "root": "steam_icon_222750"
+        }
+    },
     "warmux": {
         "linux": {
             "root": "warmux",
@@ -15724,6 +15678,11 @@
             "root": "waterfox"
         }
     },
+    "waveform": {
+        "linux": {
+            "root": "steam_icon_204180"
+        }
+    },
     "wayland": {
         "linux": {
             "root": "wayland"
@@ -15747,6 +15706,11 @@
             "symlinks": [
                 "nuvolaplayer3_bandcamp"
             ]
+        }
+    },
+    "web-bitbucket": {
+        "linux": {
+            "root": "chrome-jbdlaalbpgnopkpnmoppmccbgkjhfmgh-Default"
         }
     },
     "web-browser": {
@@ -15818,6 +15782,11 @@
             "symlinks": [
                 "chrome-aiahmijlpehemcpleichkcokhegllfjl-Default"
             ]
+        }
+    },
+    "web-ebay": {
+        "linux": {
+            "root": "chrome-bnadbgmffcofipfljniafanjcafjlbom-Default"
         }
     },
     "web-facebook": {
@@ -15986,6 +15955,11 @@
             "root": "web-pocketcaster"
         }
     },
+    "web-prezi": {
+        "linux": {
+            "root": "chrome-https___prezi.com"
+        }
+    },
     "web-pushbullet": {
         "android": [
             "com.pushbullet.android"
@@ -16044,6 +16018,11 @@
                 "twitux",
                 "unity-webapps-twitter"
             ]
+        }
+    },
+    "web-vimeo": {
+        "linux": {
+            "root": "chrome-bfimiibpomebbdeomajcknhccgpkjmlh-Default"
         }
     },
     "web-vk": {
@@ -16354,6 +16333,17 @@
             "root": "workspace-switcher-top-left"
         }
     },
+    "world-of-goo": {
+        "linux": {
+            "root": "steam_icon_22000",
+            "symlinks": [
+                "steam_icon_22010",
+                "world-of-goo",
+                "worldofgoo",
+                "WorldOfGoo"
+            ]
+        }
+    },
     "WorldOfTanks": {
         "linux": {
             "root": "WorldOfTanks"
@@ -16489,6 +16479,11 @@
             "symlinks": [
                 "ktechlab"
             ]
+        }
+    },
+    "xcom-enemy-unknown": {
+        "linux": {
+            "root": "steam_icon_200510"
         }
     },
     "xcos": {
@@ -16804,6 +16799,11 @@
             "symlinks": [
                 "zegrapher"
             ]
+        }
+    },
+    "zen-bound-2": {
+        "linux": {
+            "root": "steam_icon_61600"
         }
     },
     "zenmap": {
