@@ -3977,10 +3977,11 @@
             ]
         }
     },
-    "distributor-logo-lfs": {
+    "distributor-logo-linux": {
         "linux": {
-            "root": "distributor-logo-lfs",
+            "root": "distributor-logo-linux",
             "symlinks": [
+                "distributor-logo-lfs",
                 "ukuu"
             ]
         }
