@@ -735,6 +735,7 @@
         "linux": {
             "root": "applications-php",
             "symlinks": [
+                "com.github.bartzaalberg.php-tester",
                 "php",
                 "phpmyadmin"
             ]
