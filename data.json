@@ -7980,7 +7980,8 @@
             "root": "keepassx",
             "symlinks": [
                 "keepassx2",
-                "keepassxc"
+                "keepassxc",
+                "org.keepassxc.KeePassXC"
             ]
         }
     },
@@ -15387,7 +15388,11 @@
     },
     "vala": {
         "linux": {
-            "root": "vala"
+            "root": "vala",
+            "symlinks": [
+                "com.github.basjam.valacompiler",
+                "vala-compiler"
+            ]
         }
     },
     "valama": {
