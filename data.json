@@ -735,6 +735,7 @@
         "linux": {
             "root": "applications-php",
             "symlinks": [
+                "com.github.bartzaalberg.php-tester",
                 "php",
                 "phpmyadmin"
             ]
@@ -14580,7 +14581,8 @@
         "linux": {
             "root": "teamviewer",
             "symlinks": [
-                "chrome-oooiobdokpcfdlahlmcddobejikcmkfo-Default"
+                "chrome-oooiobdokpcfdlahlmcddobejikcmkfo-Default",
+                "TeamViewer"
             ]
         }
     },
