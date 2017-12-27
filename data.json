@@ -3273,6 +3273,14 @@
             ]
         }
     },
+    "cozy": {
+        "linux": {
+            "root": "cozy",
+            "symlinks": [
+                "com.github.geigi.cozy"
+            ]
+        }
+    },
     "cpuinfo": {
         "linux": {
             "root": "cpuinfo",
