@@ -3424,6 +3424,7 @@
         "linux": {
             "root": "currency",
             "symlinks": [
+                "com.github.brandonlujan.exchange",
                 "envelope",
                 "keurocalc",
                 "mmex"
@@ -3844,7 +3845,8 @@
         "linux": {
             "root": "distributor-logo-archlinux",
             "symlinks": [
-                "archlinux"
+                "archlinux",
+                "start-here-archlinux"
             ]
         }
     },
@@ -5173,7 +5175,8 @@
         "linux": {
             "root": "flareget",
             "symlinks": [
-                "deepin-installer"
+                "deepin-installer",
+                "deepin-installer-oem"
             ]
         }
     },
@@ -13211,7 +13214,13 @@
     },
     "softwarecenter-debian": {
         "linux": {
-            "root": "softwarecenter-debian"
+            "root": "softwarecenter-debian",
+            "symlinks": [
+                "com.github.donadigo.eddy",
+                "deepin-deb-installer",
+                "eddy",
+                "ubuntusoftware"
+            ]
         }
     },
     "solaar": {
@@ -14392,7 +14401,10 @@
     },
     "swatchbooker": {
         "linux": {
-            "root": "swatchbooker"
+            "root": "swatchbooker",
+            "symlinks": [
+                "com.github.keyilan.swatches"
+            ]
         }
     },
     "sweethome3d": {
@@ -15046,7 +15058,10 @@
     },
     "tranqil": {
         "linux": {
-            "root": "tranqil"
+            "root": "tranqil",
+            "symlinks": [
+                "com.github.nick92.tranqil"
+            ]
         }
     },
     "transcoder": {
@@ -15602,6 +15617,7 @@
             "root": "viking",
             "symlinks": [
                 "gpx-viewer",
+                "gpxviewer",
                 "gpxsee",
                 "qlandkartegt",
                 "QMapShack"
