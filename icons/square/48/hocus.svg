@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 48 48">
+	<defs>
+		<linearGradient id="bg" gradientUnits="userSpaceOnUse" x1="0" x2="0" y1="1" y2="47">
+			<stop offset="0" stop-color="#444"/>
+			<stop offset="1" stop-color="#3a3a3a"/>
+		</linearGradient>
+	</defs>
+	<path opacity=".02" d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4zm0 0.5v0.5c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.5c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z"/>
+	<path opacity=".05" d="m1 43.25v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z"/>
+	<path opacity=".1" d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z"/>
+	<rect fill="url(#bg)" rx="4" height="46" width="46" y="1" x="1"/>
+	<path opacity=".1" d="m1 39v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z"/>
+	<path d="M14 14 18 12 22 14 26 12 30 14 30 18 38 22 38 26 18 36 14 34z M22 22 22 26 26 24z" opacity=".1"/>
+	<g transform="translate(0 -1)">
+		<path d="M 17 20 22 20 22 26 38 22 38 26 18 36z" fill="#777"/>
+		<path d="M 14 14 14 34 18 36 18 20 30 26 30 21z" fill="#aaa"/>
+		<path d="M 14 14 18 12 38 22 22 30 22 26 30 22z" fill="#ccc"/>
+		<path d="M 25 14 h 5 v 4 l -4 2 z" fill="#a00"/>
+		<path d="M 22 18 v -4 h 4 v 6 z" fill="#c00"/>
+		<path d="M 26 16 l -4 -2 4 -2 4 2 z" fill="#e00"/>
+	</g>
+</svg>
