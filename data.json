@@ -6438,6 +6438,7 @@
         "linux": {
             "root": "go-for-it",
             "symlinks": [
+                "com.github.jmoerman.go-for-it",
                 "de.manuel_kehl.go-for-it"
             ]
         }
@@ -7098,7 +7099,10 @@
     },
     "haguichi": {
         "linux": {
-            "root": "haguichi"
+            "root": "haguichi",
+            "symlinks": [
+                "com.github.ztefn.haguichi"
+            ]
         }
     },
     "half-life-deathmatch-source": {
