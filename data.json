@@ -15904,6 +15904,9 @@
         }
     },
     "web-duckduckgo": {
+        "android": [
+            "com.duckduckgo.mobile.android/com.duckduckgo.mobile.android.activity.DuckDuckGo"
+        ],
         "linux": {
             "root": "web-duckduckgo"
         }
