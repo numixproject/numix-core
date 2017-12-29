@@ -12588,7 +12588,10 @@
     },
     "robomongo": {
         "linux": {
-            "root": "robomongo"
+            "root": "robomongo",
+            "symlinks": [
+                "robo3t"
+            ]
         }
     },
     "roccat": {
