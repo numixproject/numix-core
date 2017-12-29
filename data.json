@@ -12904,6 +12904,14 @@
             "root": "sencha-animator"
         }
     },
+    "sequeler": {
+        "linux": {
+            "root": "sequeler",
+            "symlinks": [
+                "com.github.alecaddd.sequeler"
+            ]
+        }
+    },
     "serialplot": {
         "linux": {
             "root": "serialplot"
