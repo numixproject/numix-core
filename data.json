@@ -3050,6 +3050,17 @@
             ]
         }
     },
+    "cinelerra": {
+        "linux": {
+            "root": "cinelerra",
+            "symlinks": [
+                "cin",
+                "cinelerra-cv",
+                "cinelerra-gg",
+                "cinelerra-hv"
+            ]
+        }
+    },
     "cinema4d": {
         "linux": {
             "root": "cinema4d"
