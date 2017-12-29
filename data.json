@@ -6438,6 +6438,7 @@
         "linux": {
             "root": "go-for-it",
             "symlinks": [
+                "com.github.jmoerman.go-for-it",
                 "de.manuel_kehl.go-for-it"
             ]
         }
@@ -7098,7 +7099,10 @@
     },
     "haguichi": {
         "linux": {
-            "root": "haguichi"
+            "root": "haguichi",
+            "symlinks": [
+                "com.github.ztefn.haguichi"
+            ]
         }
     },
     "half-life-deathmatch-source": {
@@ -8658,6 +8662,7 @@
                 "libreoffice34-base",
                 "libreoffice4.2-base",
                 "libreoffice5.3-base",
+                "libreofficedev6.1-base",
                 "org.libreoffice.LibreOffice-base"
             ]
         }
@@ -8670,6 +8675,7 @@
                 "libreoffice34-calc",
                 "libreoffice4.2-calc",
                 "libreoffice5.3-calc",
+                "libreofficedev6.1-calc",
                 "org.libreoffice.LibreOffice-calc"
             ]
         }
@@ -8682,6 +8688,7 @@
                 "libreoffice34-draw",
                 "libreoffice4.2-draw",
                 "libreoffice5.3-draw",
+                "libreofficedev6.1-draw",
                 "org.libreoffice.LibreOffice-draw"
             ]
         }
@@ -8694,6 +8701,7 @@
                 "libreoffice34-impress",
                 "libreoffice4.2-impress",
                 "libreoffice5.3-impress",
+                "libreofficedev6.1-impress",
                 "org.libreoffice.LibreOffice-impress"
             ]
         }
@@ -8713,6 +8721,7 @@
                 "libreoffice34-startcenter",
                 "libreoffice4",
                 "libreoffice5.3-startcenter",
+                "libreofficedev6.1-startcenter",
                 "org.libreoffice.LibreOffice-startcenter"
             ]
         }
@@ -8725,6 +8734,7 @@
                 "libreoffice34-math",
                 "libreoffice4.2-math",
                 "libreoffice5.3-math",
+                "libreofficedev6.1-math",
                 "org.libreoffice.LibreOffice-math"
             ]
         }
@@ -8746,6 +8756,7 @@
                 "libreoffice34-writer",
                 "libreoffice4.2-writer",
                 "libreoffice5.3-writer",
+                "libreofficedev6.1-writer",
                 "org.libreoffice.LibreOffice-writer"
             ]
         }
@@ -11960,6 +11971,7 @@
         "linux": {
             "root": "qreator",
             "symlinks": [
+                "com.github.mubitosh.qrshare",
                 "qtqr"
             ]
         }
