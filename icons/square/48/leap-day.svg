@@ -1,0 +1,29 @@
+<svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+	<defs>
+		<linearGradient id="bg" gradientUnits="userSpaceOnUse" x1="0" x2="0" y1="1" y2="47">
+			<stop offset="0" stop-color="#eee"/>
+			<stop offset="1" stop-color="#e4e4e4"/>
+		</linearGradient>
+	</defs>
+	<path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4zm0 0.5v0.5c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.5c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" opacity=".02"/>
+	<path d="m1 43.25v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" opacity=".05"/>
+	<path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" opacity=".1"/>
+	<path d="m1 15a22 2 0 0 1 46 0v28a4 4 0 0 1-4 4h-38a4 4 0 0 1-4-4z" fill="url(#bg)"/>
+	<path d="m1 16v-1a22 2 0 0 1 46 0v1" opacity=".1"/>
+	<path d="m1 15v-10a4 4 0 0 1 4-4h38a4 4 0 0 1 4 4v10z" fill="#d64936"/>
+	<path d="m1 39v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" opacity=".1"/>
+	<circle cx="14" cy="8" r="2" fill="#7f2c20"/>
+	<circle cx="19" cy="8" r="2" fill="#7f2c20"/>
+	<rect x="13" y="7" width="7" height="2" rx="1" fill="#dcdcdc"/>
+	<circle cx="29" cy="8" r="2" fill="#7f2c20"/>
+	<circle cx="34" cy="8" r="2" fill="#7f2c20"/>
+	<rect x="28" y="7" width="7" height="2" rx="1" fill="#dcdcdc"/>
+	<path d="m18 20h12a2 2 0 0 1 2 2h1a2 2 0 0 1 2 2v2a2 2 0 0 1-2 2h-1a4 4 0 0 1-4 4h-1a1 1 0 0 0-1 1v2a1 1 0 0 0 1 1h1a1 1 0 0 1 1 1v1h-10v-1a1 1 0 0 1 1-1h1a1 1 0 0 0 1-1v-2a1 1 0 0 0-1-1h-1a4 4 0 0 1-4-4h-1a2 2 0 0 1-2-2v-2a2 2 0 0 1 2-2h1a2 2 0 0 1 2-2z m-2 3h-1a1 1 0 0 0-1 1v2a1 1 0 0 0 1 1h1z m16 0v4h1a1 1 0 0 0 1-1v-2a1 1 0 0 0-1-1z" opacity=".1"/>
+	<path d="m18 19h12a2 2 0 0 1 2 2h1a2 2 0 0 1 2 2v2a2 2 0 0 1-2 2h-1a4 4 0 0 1-4 4h-1a1 1 0 0 0-1 1v2a1 1 0 0 0 1 1h1a1 1 0 0 1 1 1v1h-10v-1a1 1 0 0 1 1-1h1a1 1 0 0 0 1-1v-2a1 1 0 0 0-1-1h-1a4 4 0 0 1-4-4h-1a2 2 0 0 1-2-2v-2a2 2 0 0 1 2-2h1a2 2 0 0 1 2-2z m-2 3h-1a1 1 0 0 0-1 1v2a1 1 0 0 0 1 1h1z m16 0v4h1a1 1 0 0 0 1-1v-2a1 1 0 0 0-1-1z" fill="#e6c619"/>
+	<g fill="#e08f24">
+		<circle cx="19" cy="24" r="2"/>
+		<rect x="22" y="21" width="4" height="6" rx="2"/>
+		<circle cx="29" cy="24" r="2"/>
+		<rect x="19" y="28" width="10" height="1" rx=".5"/>
+	</g>
+</svg>
