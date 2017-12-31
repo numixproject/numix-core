@@ -4480,6 +4480,14 @@
             "root": "ds9"
         }
     },
+    "duckduckgo": {
+        "android": [
+            "com.duckduckgo.mobile.android/com.duckduckgo.mobile.android.activity.DuckDuckGo"
+        ],
+        "linux": {
+            "root": "web-duckduckgo"
+        }
+    },
     "dukto": {
         "linux": {
             "root": "dukto"
@@ -15901,14 +15909,6 @@
     "web-dillinger": {
         "linux": {
             "root": "web-dillinger"
-        }
-    },
-    "web-duckduckgo": {
-        "android": [
-            "com.duckduckgo.mobile.android/com.duckduckgo.mobile.android.activity.DuckDuckGo"
-        ],
-        "linux": {
-            "root": "web-duckduckgo"
         }
     },
     "web-duolingo": {
