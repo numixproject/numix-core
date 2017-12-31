@@ -8415,6 +8415,10 @@
         }
     },
     "keepassx": {
+        "android": [
+            "keepass2android.keepass2android/keepass2android.KeePass",
+            "keepass2android.keepass2android/md5f0702f468598c68ce18586502249fb40.KeePass"
+        ],
         "linux": {
             "root": "keepassx",
             "symlinks": [
