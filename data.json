@@ -310,6 +310,9 @@
         }
     },
     "addressbook": {
+        "android": [
+            "com.samsung.android.contacts/com.android.contacts.activities.PeopleActivity"
+        ],
         "linux": {
             "root": "addressbook",
             "symlinks": [
