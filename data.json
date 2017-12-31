@@ -5213,7 +5213,8 @@
     },
     "file-manager": {
         "android": [
-            "com.amaze.filemanager"
+            "com.amaze.filemanager",
+            "com.sec.android.app.myfiles/com.sec.android.app.myfiles.common.MainActivity"
         ],
         "linux": {
             "root": "file-manager",
