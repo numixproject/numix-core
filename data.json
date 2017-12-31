@@ -182,6 +182,9 @@
         }
     },
     "accessories-image-viewer": {
+        "android": [
+            "com.sec.android.gallery3d/com.sec.android.gallery3d.app.GalleryOpaqueActivity"
+        ],
         "linux": {
             "root": "accessories-image-viewer",
             "symlinks": [
