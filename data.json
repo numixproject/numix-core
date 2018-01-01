@@ -14984,6 +14984,14 @@
             "root": "timeshift"
         }
     },
+    "timer": {
+        "linux": {
+            "root": "timer",
+            "symlinks": [
+                "com.github.parnold-x.timer"
+            ]
+        }
+    },
     "tint2conf": {
         "linux": {
             "root": "tint2conf"
