@@ -14667,7 +14667,11 @@
     },
     "tasque": {
         "linux": {
-            "root": "tasque"
+            "root": "tasque",
+            "symlinks": [
+                "com.github.lainsce.yishu",
+                "yishu"
+            ]
         }
     },
     "taxi": {
