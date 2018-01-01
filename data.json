@@ -3203,6 +3203,14 @@
             ]
         }
     },
+    "coin": {
+        "linux": {
+            "root": "coin",
+            "symlinks": [
+                "com.github.lainsce.coin"
+            ]
+        }
+    },
     "colobot": {
         "linux": {
             "root": "colobot"
