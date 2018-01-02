@@ -13489,7 +13489,10 @@
     },
     "starcraft-2": {
         "linux": {
-            "root": "starcraft-2"
+            "root": "starcraft-2",
+            "symlinks": [
+                "924C_StarCraft II.0"
+            ]
         }
     },
     "stardew_valley": {
