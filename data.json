@@ -3289,6 +3289,14 @@
             "root": "steam_icon_26500"
         }
     },
+    "coin": {
+        "linux": {
+            "root": "coin",
+            "symlinks": [
+                "com.github.lainsce.coin"
+            ]
+        }
+    },
     "colobot": {
         "linux": {
             "root": "colobot"
