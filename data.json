@@ -4779,6 +4779,7 @@
         "linux": {
             "root": "eidete",
             "symlinks": [
+                "artemanufrij.screencast",
                 "com.github.artemanufrij.screencast"
             ]
         }
@@ -6876,6 +6877,7 @@
                 "chrome-icppfcnhkcmnfdhfhphakoifcfokfdhg-Default",
                 "google-play-music-desktop-player",
                 "googlemusicframe",
+                "gpmdp",
                 "nuvolaplayer3_google_play_music",
                 "web-google-play-music"
             ]
@@ -10288,6 +10290,7 @@
                 "nvim",
                 "nvim-gtk",
                 "nvim-qt",
+                "org.daa.NeovimGtk",
                 "pynvim"
             ]
         }
@@ -14596,7 +14599,11 @@
     },
     "tasque": {
         "linux": {
-            "root": "tasque"
+            "root": "tasque",
+            "symlinks": [
+                "com.github.lainsce.yishu",
+                "yishu"
+            ]
         }
     },
     "taxi": {
