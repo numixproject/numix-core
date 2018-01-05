@@ -4670,6 +4670,9 @@
         }
     },
     "duet": {
+        "android": [
+            "com.kumobius.android.duet/com.kumobius.android.KumoAppActivity"
+        ],
         "linux": {
             "root": "steam_icon_292600"
         }
