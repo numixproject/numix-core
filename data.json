@@ -715,7 +715,10 @@
     "app-launcher": {
         "linux": {
             "root": "app-launcher",
-            "bfb": "launcher_bfb"
+            "bfb": "launcher_bfb",
+            "symlinks": [
+                "chrome-app-list"
+            ]
         }
     },
     "appgrid": {
@@ -2789,19 +2792,6 @@
             "root": "choqok"
         }
     },
-    "chrome-aeellliejpiclijnghognjagifplmmij-Default": {
-        "linux": {
-            "root": "chrome-aeellliejpiclijnghognjagifplmmij-Default",
-            "symlinks": [
-                "chrome-igpknfbadalohcopbkaepbgblomnbdma-Default"
-            ]
-        }
-    },
-    "chrome-app-list": {
-        "linux": {
-            "root": "chrome-app-list"
-        }
-    },
     "chrome-bfimiibpomebbdeomajcknhccgpkjmlh-Default": {
         "linux": {
             "root": "chrome-bfimiibpomebbdeomajcknhccgpkjmlh-Default"
@@ -2812,30 +2802,9 @@
             "root": "chrome-bhmicilclplefnflapjmnngmkkkkpfad-Default"
         }
     },
-    "chrome-bikioccmkafdpakkkcpdbppfkghcmihk-Default": {
-        "android": [
-            "org_thoughtcrime_securesms"
-        ],
-        "linux": {
-            "root": "chrome-bikioccmkafdpakkkcpdbppfkghcmihk-Default",
-            "symlinks": [
-                "signal-desktop"
-            ]
-        }
-    },
-    "chrome-bnadbgmffcofipfljniafanjcafjlbom-Default": {
-        "linux": {
-            "root": "chrome-bnadbgmffcofipfljniafanjcafjlbom-Default"
-        }
-    },
     "chrome-cijncchffkmlnfdbnkkfclcbnjcoegjc-Default": {
         "linux": {
             "root": "chrome-cijncchffkmlnfdbnkkfclcbnjcoegjc-Default"
-        }
-    },
-    "chrome-clhhggbfdinjmjhajaheehoeibfljjno-Default": {
-        "linux": {
-            "root": "chrome-clhhggbfdinjmjhajaheehoeibfljjno-Default"
         }
     },
     "chrome-cmnpffgfpcohhpoddjankjanolcekbni-Default": {
@@ -2895,23 +2864,9 @@
             "root": "chrome-eknidjojcplfcgkoffboklcbfhmcdhip-Default"
         }
     },
-    "chrome-epionbmgciknkbdibokmpmcfllkdfeeo-Default": {
-        "linux": {
-            "root": "chrome-epionbmgciknkbdibokmpmcfllkdfeeo-Default"
-        }
-    },
     "chrome-fgbjpbdfegnodokpoejnbhnblcojccal-Default": {
         "linux": {
             "root": "chrome-fgbjpbdfegnodokpoejnbhnblcojccal-Default"
-        }
-    },
-    "chrome-fhbjgbiflinjbdggehcddcbncdddomop-Default": {
-        "linux": {
-            "root": "chrome-fhbjgbiflinjbdggehcddcbncdddomop-Default",
-            "symlinks": [
-                "chrome-fdmmgilgnpjigdojojpjoooidkmcomcm-Default",
-                "postman"
-            ]
         }
     },
     "chrome-fljalecfjciodhpcledpamjachpmelml-Default": {
@@ -2932,19 +2887,9 @@
             "root": "chrome-gbchcmhmhahfdphkhkmpfmihenigjmpp-Default"
         }
     },
-    "chrome-gcjbnclfkeffmdfdhflnadahgmajfgcm-Default": {
-        "linux": {
-            "root": "chrome-gcjbnclfkeffmdfdhflnadahgmajfgcm-Default"
-        }
-    },
     "chrome-gebjgjhbjedcomcajgpodjgfjgkepgpl-Default": {
         "linux": {
             "root": "chrome-gebjgjhbjedcomcajgpodjgfjgkepgpl-Default"
-        }
-    },
-    "chrome-gighmmpiobklfepjocnamgkkbiglidom-Default": {
-        "linux": {
-            "root": "chrome-gighmmpiobklfepjocnamgkkbiglidom-Default"
         }
     },
     "chrome-hjbljnpdahefgnopeohlaeohgkiidnoe-Default": {
@@ -2955,11 +2900,6 @@
     "chrome-hjkdhkejcnlmkfdodbkdkelefnkobfif-Default": {
         "linux": {
             "root": "chrome-hjkdhkejcnlmkfdodbkdkelefnkobfif-Default"
-        }
-    },
-    "chrome-hkgndiocipalkpejnpafdbdlfdjihomd-Default": {
-        "linux": {
-            "root": "chrome-hkgndiocipalkpejnpafdbdlfdjihomd-Default"
         }
     },
     "chrome-https___prezi.com": {
@@ -2988,16 +2928,6 @@
     "chrome-ijfecbiladpinddbjfodaaiahggomhaf-Default": {
         "linux": {
             "root": "chrome-ijfecbiladpinddbjfodaaiahggomhaf-Default"
-        }
-    },
-    "chrome-jbdlaalbpgnopkpnmoppmccbgkjhfmgh-Default": {
-        "linux": {
-            "root": "chrome-jbdlaalbpgnopkpnmoppmccbgkjhfmgh-Default"
-        }
-    },
-    "chrome-jeogkiiogjbmhklcnbgkdcjoioegiknm-Default": {
-        "linux": {
-            "root": "chrome-jeogkiiogjbmhklcnbgkdcjoioegiknm-Default"
         }
     },
     "chrome-jfbadlndcminbkfojhlimnkgaackjmdo-Default": {
@@ -3030,11 +2960,6 @@
             "root": "chrome-koegeopamaoljbmhnfjbclbocehhgmkm-Default"
         }
     },
-    "chrome-menkifleemblimdogmoihpfopnplikde-Default": {
-        "linux": {
-            "root": "chrome-menkifleemblimdogmoihpfopnplikde-Default"
-        }
-    },
     "chrome-mknafpnfcafklkflhenhaldedggpciao-Default": {
         "linux": {
             "root": "chrome-mknafpnfcafklkflhenhaldedggpciao-Default"
@@ -3045,24 +2970,9 @@
             "root": "chrome-mlijpphckdfkmcjclnimmbknefojcaol-Default"
         }
     },
-    "chrome-mojepfklcankkmikonjlnidiooanmpbb-Default": {
-        "linux": {
-            "root": "chrome-mojepfklcankkmikonjlnidiooanmpbb-Default"
-        }
-    },
     "chrome-njkkjobcechefaoknodniidfjapgfoco-Default": {
         "linux": {
             "root": "chrome-njkkjobcechefaoknodniidfjapgfoco-Default"
-        }
-    },
-    "chrome-ocgddccilgpeepgglnlpchkpgamkgmld-Default": {
-        "linux": {
-            "root": "chrome-ocgddccilgpeepgglnlpchkpgamkgmld-Default"
-        }
-    },
-    "chrome-ofbpedjdfkboehhknoohhenbpmgcjoik-Default": {
-        "linux": {
-            "root": "chrome-ofbpedjdfkboehhknoohhenbpmgcjoik-Default"
         }
     },
     "chrome-ohmmkhmmmpcnpikjeljgnaoabkaalbgc-Default": {
@@ -13673,6 +13583,7 @@
             "root": "slack",
             "symlinks": [
                 "chrome-eifdbcbnlahelniokpkpdlhaocgjdcje-Default",
+                "chrome-jeogkiiogjbmhklcnbgkdcjoioegiknm-Default",
                 "com.slack.Slack"
             ]
         }
@@ -14669,6 +14580,7 @@
         "linux": {
             "root": "telegram",
             "symlinks": [
+                "chrome-clhhggbfdinjmjhajaheehoeibfljjno-Default",
                 "org.telegram.desktop",
                 "sigram",
                 "telegram-desktop"
@@ -16244,6 +16156,7 @@
             "root": "web-whatsapp",
             "symlinks": [
                 "chrome-bgkodfmeijboinjdegggmkbkjfiagaan-Default",
+                "chrome-gcjbnclfkeffmdfdhflnadahgmajfgcm-Default",
                 "whatsapp",
                 "whatsapp-desktop",
                 "whatsappfordesktop"
@@ -17057,6 +16970,79 @@
     "zynaddsubfx": {
         "linux": {
             "root": "zynaddsubfx"
+        }
+    },
+    "web-bitbucket": {
+        "linux": {
+            "root": "chrome-jbdlaalbpgnopkpnmoppmccbgkjhfmgh-Default"
+        }
+    },
+    "postman": {
+        "linux": {
+            "root": "chrome-fhbjgbiflinjbdggehcddcbncdddomop-Default",
+            "symlinks": [
+                "chrome-fdmmgilgnpjigdojojpjoooidkmcomcm-Default",
+                "postman"
+            ]
+        }
+    },
+    "web-google-fit": {
+        "linux": {
+            "root": "chrome-ofbpedjdfkboehhknoohhenbpmgcjoik-Default"
+        }
+    },
+    "airdroid": {
+        "linux": {
+            "root": "chrome-hkgndiocipalkpejnpafdbdlfdjihomd-Default"
+        }
+    },
+    "adblock": {
+        "linux": {
+            "root": "chrome-gighmmpiobklfepjocnamgkkbiglidom-Default"
+        }
+    },
+    "web-ebay": {
+        "linux": {
+            "root": "chrome-bnadbgmffcofipfljniafanjcafjlbom-Default"
+        }
+    },
+    "web-omg-chrome": {
+        "linux": {
+            "root": "chrome-aeellliejpiclijnghognjagifplmmij-Default",
+            "symlinks": [
+                "chrome-igpknfbadalohcopbkaepbgblomnbdma-Default"
+            ]
+        }
+    },
+    "web-google-flights": {
+        "linux": {
+            "root": "chrome-epionbmgciknkbdibokmpmcfllkdfeeo-Default"
+        }
+    },
+    "any-do": {
+        "linux": {
+            "root": "chrome-ocgddccilgpeepgglnlpchkpgamkgmld-Default"
+        }
+    },
+    "web-line": {
+        "linux": {
+            "root": "chrome-menkifleemblimdogmoihpfopnplikde-Default"
+        }
+    },
+    "wen-signal": {
+        "android": [
+            "org_thoughtcrime_securesms"
+        ],
+        "linux": {
+            "root": "chrome-bikioccmkafdpakkkcpdbppfkghcmihk-Default",
+            "symlinks": [
+                "signal-desktop"
+            ]
+        }
+    },
+    "sunrise-calendar": {
+        "linux": {
+            "root": "chrome-mojepfklcankkmikonjlnidiooanmpbb-Default"
         }
     }
 }
