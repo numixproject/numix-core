@@ -14932,6 +14932,14 @@
             "root": "timeline"
         }
     },
+    "timer": {
+        "linux": {
+            "root": "timer",
+            "symlinks": [
+                "com.github.parnold-x.timer"
+            ]
+        }
+    },
     "timeshift": {
         "linux": {
             "root": "timeshift"
