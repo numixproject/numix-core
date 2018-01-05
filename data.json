@@ -306,6 +306,11 @@
             "root": "steam_icon_346900"
         }
     },
+    "adblock": {
+        "linux": {
+            "root": "chrome-gighmmpiobklfepjocnamgkkbiglidom-Default"
+        }
+    },
     "addressbook": {
         "linux": {
             "root": "addressbook",
@@ -448,6 +453,11 @@
     "ailurus": {
         "linux": {
             "root": "ailurus"
+        }
+    },
+    "airdroid": {
+        "linux": {
+            "root": "chrome-hkgndiocipalkpejnpafdbdlfdjihomd-Default"
         }
     },
     "AirPortUtility": {
@@ -701,6 +711,11 @@
     "antimicro": {
         "linux": {
             "root": "antimicro"
+        }
+    },
+    "any-do": {
+        "linux": {
+            "root": "chrome-ocgddccilgpeepgglnlpchkpgamkgmld-Default"
         }
     },
     "anydo": {
@@ -11693,6 +11708,15 @@
             "root": "portecle"
         }
     },
+    "postman": {
+        "linux": {
+            "root": "chrome-fhbjgbiflinjbdggehcddcbncdddomop-Default",
+            "symlinks": [
+                "chrome-fdmmgilgnpjigdojojpjoooidkmcomcm-Default",
+                "postman"
+            ]
+        }
+    },
     "postman-image-uploader": {
         "linux": {
             "root": "postman-image-uploader"
@@ -14217,6 +14241,11 @@
             "root": "sunflower"
         }
     },
+    "sunrise-calendar": {
+        "linux": {
+            "root": "chrome-mojepfklcankkmikonjlnidiooanmpbb-Default"
+        }
+    },
     "sunvox": {
         "linux": {
             "root": "sunvox"
@@ -15845,6 +15874,11 @@
             ]
         }
     },
+    "web-bitbucket": {
+        "linux": {
+            "root": "chrome-jbdlaalbpgnopkpnmoppmccbgkjhfmgh-Default"
+        }
+    },
     "web-browser": {
         "linux": {
             "root": "web-browser",
@@ -15911,6 +15945,11 @@
             ]
         }
     },
+    "web-ebay": {
+        "linux": {
+            "root": "chrome-bnadbgmffcofipfljniafanjcafjlbom-Default"
+        }
+    },
     "web-facebook": {
         "linux": {
             "root": "web-facebook",
@@ -15946,6 +15985,16 @@
             "symlinks": [
                 "chrome-mkaakpdehdafacodkgkpghoibnmamcme-Default"
             ]
+        }
+    },
+    "web-google-fit": {
+        "linux": {
+            "root": "chrome-ofbpedjdfkboehhknoohhenbpmgcjoik-Default"
+        }
+    },
+    "web-google-flights": {
+        "linux": {
+            "root": "chrome-epionbmgciknkbdibokmpmcfllkdfeeo-Default"
         }
     },
     "web-google-forms": {
@@ -16003,6 +16052,11 @@
             ]
         }
     },
+    "web-line": {
+        "linux": {
+            "root": "chrome-menkifleemblimdogmoihpfopnplikde-Default"
+        }
+    },
     "web-mailru": {
         "linux": {
             "root": "web-mailru",
@@ -16032,6 +16086,14 @@
                 "chrome-gchdledhagjbhhodjjhiclbnaioljomj-Default",
                 "Newsblur-newsblur.com",
                 "unity-webapps-newsblur"
+            ]
+        }
+    },
+    "web-omg-chrome": {
+        "linux": {
+            "root": "chrome-aeellliejpiclijnghognjagifplmmij-Default",
+            "symlinks": [
+                "chrome-igpknfbadalohcopbkaepbgblomnbdma-Default"
             ]
         }
     },
@@ -16207,6 +16269,17 @@
             "root": "webtorrent-desktop",
             "symlinks": [
                 "io.webtorrent.WebTorrent"
+            ]
+        }
+    },
+    "wen-signal": {
+        "android": [
+            "org_thoughtcrime_securesms"
+        ],
+        "linux": {
+            "root": "chrome-bikioccmkafdpakkkcpdbppfkghcmihk-Default",
+            "symlinks": [
+                "signal-desktop"
             ]
         }
     },
@@ -16970,79 +17043,6 @@
     "zynaddsubfx": {
         "linux": {
             "root": "zynaddsubfx"
-        }
-    },
-    "web-bitbucket": {
-        "linux": {
-            "root": "chrome-jbdlaalbpgnopkpnmoppmccbgkjhfmgh-Default"
-        }
-    },
-    "postman": {
-        "linux": {
-            "root": "chrome-fhbjgbiflinjbdggehcddcbncdddomop-Default",
-            "symlinks": [
-                "chrome-fdmmgilgnpjigdojojpjoooidkmcomcm-Default",
-                "postman"
-            ]
-        }
-    },
-    "web-google-fit": {
-        "linux": {
-            "root": "chrome-ofbpedjdfkboehhknoohhenbpmgcjoik-Default"
-        }
-    },
-    "airdroid": {
-        "linux": {
-            "root": "chrome-hkgndiocipalkpejnpafdbdlfdjihomd-Default"
-        }
-    },
-    "adblock": {
-        "linux": {
-            "root": "chrome-gighmmpiobklfepjocnamgkkbiglidom-Default"
-        }
-    },
-    "web-ebay": {
-        "linux": {
-            "root": "chrome-bnadbgmffcofipfljniafanjcafjlbom-Default"
-        }
-    },
-    "web-omg-chrome": {
-        "linux": {
-            "root": "chrome-aeellliejpiclijnghognjagifplmmij-Default",
-            "symlinks": [
-                "chrome-igpknfbadalohcopbkaepbgblomnbdma-Default"
-            ]
-        }
-    },
-    "web-google-flights": {
-        "linux": {
-            "root": "chrome-epionbmgciknkbdibokmpmcfllkdfeeo-Default"
-        }
-    },
-    "any-do": {
-        "linux": {
-            "root": "chrome-ocgddccilgpeepgglnlpchkpgamkgmld-Default"
-        }
-    },
-    "web-line": {
-        "linux": {
-            "root": "chrome-menkifleemblimdogmoihpfopnplikde-Default"
-        }
-    },
-    "wen-signal": {
-        "android": [
-            "org_thoughtcrime_securesms"
-        ],
-        "linux": {
-            "root": "chrome-bikioccmkafdpakkkcpdbppfkghcmihk-Default",
-            "symlinks": [
-                "signal-desktop"
-            ]
-        }
-    },
-    "sunrise-calendar": {
-        "linux": {
-            "root": "chrome-mojepfklcankkmikonjlnidiooanmpbb-Default"
         }
     }
 }
