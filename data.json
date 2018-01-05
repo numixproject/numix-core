@@ -4661,6 +4661,14 @@
             "root": "ds9"
         }
     },
+    "duckduckgo": {
+        "android": [
+            "com.duckduckgo.mobile.android/com.duckduckgo.mobile.android.activity.DuckDuckGo"
+        ],
+        "linux": {
+            "root": "web-duckduckgo"
+        }
+    },
     "duet": {
         "linux": {
             "root": "steam_icon_292600"
@@ -15981,11 +15989,6 @@
     "web-dillinger": {
         "linux": {
             "root": "web-dillinger"
-        }
-    },
-    "web-duckduckgo": {
-        "linux": {
-            "root": "web-duckduckgo"
         }
     },
     "web-duolingo": {
