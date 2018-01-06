@@ -62,7 +62,14 @@ The file's structure:
 
 Theme building and validation scripts are written in Python.
 
-## Optimisation options
+## Code Style
+
+ * 4 spaces for `json` and `python`
+ * 1 space for `svg`
+
+> If you want to diverge, do it locally (eg. use [git filters](https://stackoverflow.com/questions/2316677/can-git-automatically-switch-between-spaces-and-tabs#2318063)).
+
+### Optimisation options
 
 These are the Inkscape optimised SVG settings which we use as standard when adding icons to the repo:
 
