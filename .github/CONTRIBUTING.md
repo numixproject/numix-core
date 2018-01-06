@@ -1,6 +1,6 @@
 # Contributing to Numix Core
 
-## Cotribution process
+## Contribution process
 If you want to contribute to this project by making new icons you must follow our [guidelines](https://github.com/numixproject/numix-core/wiki/Guidelines). You can use these instructions as reference:
 
 1. Fork our GitHub repository.
