@@ -1,7 +1,6 @@
 # Contributing to Numix Core
 
 ## Contribution process
-If you want to contribute to this project by making new icons you must follow our [guidelines](https://github.com/numixproject/numix-core/wiki/Guidelines). You can use these instructions as reference:
 
 1. Fork our GitHub repository.
 
@@ -19,7 +18,52 @@ If you want to contribute to this project by making new icons you must follow ou
 
 5. When the pull request is accepted you can delete your fork or [sync it](https://help.github.com/articles/syncing-a-fork/). Now, you are ready to create new one!
 
+## New Icons
+
+New icons you must follow our [style guidelines](https://github.com/numixproject/numix-core/wiki/Guidelines). Furthermore:
+
+ * All new icons must have a **circle** and a **square** version - other shapes (_shine_, _utouch_) are optional
+ * All new icons must have an entry in the `data.json` file (more on this in the _Data File_ section)
+
+
+## Data File
+
+The `data.json`  file contains all the information needed for linking the icons to the names needed by different platforms.
+
+The file's structure:
+
+```json
+{
+    "icon-entry": {
+        "android": [
+            "com.example.app/com.example.app.Activity"
+        ],
+        "linux": {
+            "root": "PrimaryName",
+            "symlinks": [
+                "alternative-entry",
+                "org.other.Entry"
+            ]
+        }
+    }
+}
+```
+
+* the **icon-entry** is the name of the `SVG`
+  * it should be in dash-case
+  * it should be a meaningful name
+* the **android**  part is the list of components the should use the icon
+  * this information can be gathered from the **ComponentInfo** on http://activities.tundem.com/
+* the **linux** part holds the names that a linux desktop files _Icon_ line says
+  * the **root** holds the primary entry
+  * the **symlinks** holds alternative names
+
+## Python
+
+Theme building and validation scripts are written in Python.
+
 ## Optimisation options
+
 These are the Inkscape optimised SVG settings which we use as standard when adding icons to the repo:
 
 ![inkscape](https://user-images.githubusercontent.com/7050624/27377172-81b5eec6-5674-11e7-94cd-44b9e001b4bc.png)
