@@ -8368,7 +8368,10 @@
     },
     "kdenlive": {
         "linux": {
-            "root": "kdenlive"
+            "root": "kdenlive",
+            "symlinks": [
+                "org.kde.kdenlive"
+            ]
         }
     },
     "kdesnake": {
