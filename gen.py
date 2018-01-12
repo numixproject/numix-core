@@ -141,8 +141,8 @@ elif platform == "linux":
             if path.exists(source):
                 if icon["linux"].get("bfb") and (size == "48"):
                     output_bfb = "{0}.png".format(icon["linux"].get("bfb"))
-                    convert_svg2png(source, output+output_bfb, 144, 144)
-                copy2(source, output+root)
+                    convert_svg2png(source, output + output_bfb, 144, 144)
+                copy2(source, output + root)
                 for link in icon["linux"].get("symlinks", []):
                     output_symlink = "{0}{1}.svg".format(output, link)
                     try:
