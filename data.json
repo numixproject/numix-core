@@ -641,7 +641,8 @@
         "linux": {
             "root": "androidstudio",
             "symlinks": [
-                "android-studio"
+                "android-studio",
+                "com.google.AndroidStudio"
             ]
         }
     },
@@ -6095,7 +6096,10 @@
     },
     "ghex": {
         "linux": {
-            "root": "ghex"
+            "root": "ghex",
+            "symlinks": [
+                "org.gnome.ghex"
+            ]
         }
     },
     "ghostwriter": {
