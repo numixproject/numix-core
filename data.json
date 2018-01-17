@@ -9702,7 +9702,10 @@
     },
     "meld": {
         "linux": {
-            "root": "meld"
+            "root": "meld",
+            "symlinks": [
+                "org.gnome.meld"
+            ]
         }
     },
     "mellowplayer": {
