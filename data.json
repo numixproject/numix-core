@@ -5488,7 +5488,10 @@
     },
     "flowblade": {
         "linux": {
-            "root": "flowblade"
+            "root": "flowblade",
+            "symlinks": [
+                "io.github.jliljebl.Flowblade"
+            ]
         }
     },
     "fluendo-dvd-player": {
@@ -10669,7 +10672,10 @@
     },
     "obs": {
         "linux": {
-            "root": "obs"
+            "root": "obs",
+            "symlinks": [
+                "com.obsproject.Studio"
+            ]
         }
     },
     "ocenaudio": {
@@ -17052,7 +17058,10 @@
     },
     "zotero": {
         "linux": {
-            "root": "zotero"
+            "root": "zotero",
+            "symlinks": [
+                "org.zotero.Zotero"
+            ]
         }
     },
     "zsnes": {
