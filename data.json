@@ -9923,6 +9923,11 @@
             ]
         }
     },
+    "mobile-pass": {
+        "android": [
+            "securecomputing.devices.android.controller/securecomputing.devices.android.controller.AndroidToken"
+        ]
+    },
     "modelio": {
         "linux": {
             "root": "modelio"
