@@ -641,7 +641,8 @@
         "linux": {
             "root": "androidstudio",
             "symlinks": [
-                "android-studio"
+                "android-studio",
+                "com.google.AndroidStudio"
             ]
         }
     },
@@ -2612,7 +2613,8 @@
             "symlinks": [
                 "calligrakrita2",
                 "calligrakrita3",
-                "krita"
+                "krita",
+                "org.kde.krita"
             ]
         }
     },
@@ -5486,7 +5488,10 @@
     },
     "flowblade": {
         "linux": {
-            "root": "flowblade"
+            "root": "flowblade",
+            "symlinks": [
+                "io.github.jliljebl.Flowblade"
+            ]
         }
     },
     "fluendo-dvd-player": {
@@ -6094,7 +6099,10 @@
     },
     "ghex": {
         "linux": {
-            "root": "ghex"
+            "root": "ghex",
+            "symlinks": [
+                "org.gnome.ghex"
+            ]
         }
     },
     "ghostwriter": {
@@ -8368,7 +8376,10 @@
     },
     "kdenlive": {
         "linux": {
-            "root": "kdenlive"
+            "root": "kdenlive",
+            "symlinks": [
+                "org.kde.kdenlive"
+            ]
         }
     },
     "kdesnake": {
@@ -9699,7 +9710,10 @@
     },
     "meld": {
         "linux": {
-            "root": "meld"
+            "root": "meld",
+            "symlinks": [
+                "org.gnome.meld"
+            ]
         }
     },
     "mellowplayer": {
@@ -10663,7 +10677,10 @@
     },
     "obs": {
         "linux": {
-            "root": "obs"
+            "root": "obs",
+            "symlinks": [
+                "com.obsproject.Studio"
+            ]
         }
     },
     "ocenaudio": {
@@ -17043,7 +17060,10 @@
     },
     "zotero": {
         "linux": {
-            "root": "zotero"
+            "root": "zotero",
+            "symlinks": [
+                "org.zotero.Zotero"
+            ]
         }
     },
     "zsnes": {
