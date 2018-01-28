@@ -3107,12 +3107,22 @@
             "root": "chromium-app-list"
         }
     },
+    "chromium-beta": {
+        "linux": {
+            "root": "chromium-beta"
+        }
+    },
     "chromium-bsu": {
         "linux": {
             "root": "chromium-bsu",
             "symlinks": [
                 "net.sourceforge.chromium-bsu"
             ]
+        }
+    },
+    "chromium-dev": {
+        "linux": {
+            "root": "chromium-dev"
         }
     },
     "ciano": {
