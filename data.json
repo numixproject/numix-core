@@ -5352,7 +5352,10 @@
     },
     "firefox-developer-icon": {
         "linux": {
-            "root": "firefox-developer-icon"
+            "root": "firefox-developer-icon",
+            "symlinks": [
+                "firefox-developer-edition"
+            ]
         }
     },
     "firefox-icon-unbranded": {
