@@ -182,6 +182,9 @@
         }
     },
     "accessories-image-viewer": {
+        "android": [
+            "com.sec.android.gallery3d/com.sec.android.gallery3d.app.GalleryOpaqueActivity"
+        ],
         "linux": {
             "root": "accessories-image-viewer",
             "symlinks": [
@@ -307,6 +310,9 @@
         }
     },
     "addressbook": {
+        "android": [
+            "com.samsung.android.contacts/com.android.contacts.activities.PeopleActivity"
+        ],
         "linux": {
             "root": "addressbook",
             "symlinks": [
@@ -5225,7 +5231,8 @@
     },
     "file-manager": {
         "android": [
-            "com.amaze.filemanager"
+            "com.amaze.filemanager",
+            "com.sec.android.app.myfiles/com.sec.android.app.myfiles.common.MainActivity"
         ],
         "linux": {
             "root": "file-manager",
@@ -8432,6 +8439,10 @@
         }
     },
     "keepassx": {
+        "android": [
+            "keepass2android.keepass2android/keepass2android.KeePass",
+            "keepass2android.keepass2android/md5f0702f468598c68ce18586502249fb40.KeePass"
+        ],
         "linux": {
             "root": "keepassx",
             "symlinks": [
