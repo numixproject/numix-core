@@ -4234,7 +4234,10 @@
     },
     "distributor-logo-manjaro": {
         "linux": {
-            "root": "distributor-logo-manjaro"
+            "root": "distributor-logo-manjaro",
+            "symlinks": [
+                "manjaro"
+            ]
         }
     },
     "distributor-logo-maui": {
