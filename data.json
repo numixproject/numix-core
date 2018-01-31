@@ -4234,7 +4234,10 @@
     },
     "distributor-logo-manjaro": {
         "linux": {
-            "root": "distributor-logo-manjaro"
+            "root": "distributor-logo-manjaro",
+            "symlinks": [
+                "manjaro"
+            ]
         }
     },
     "distributor-logo-maui": {
@@ -6640,7 +6643,11 @@
     },
     "gnome-tweak-tool": {
         "linux": {
-            "root": "gnome-tweak-tool"
+            "root": "gnome-tweak-tool",
+            "symlinks": [
+                "gnome-tweaks",
+                "org.gnome.tweaks"
+            ]
         }
     },
     "gnome-twitch": {
@@ -7509,7 +7516,10 @@
     },
     "hardinfo": {
         "linux": {
-            "root": "hardinfo"
+            "root": "hardinfo",
+            "symlinks": [
+                "harddrake2"
+            ]
         }
     },
     "harmony": {
