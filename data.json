@@ -5043,6 +5043,16 @@
             "root": "etherape"
         }
     },
+    "ethereumwallet": {
+        "linux": {
+            "root": "ethereumwallet",
+            "symlinks": [
+                "mist",
+                "org.ethereum.Mist",
+                "org.ethereum.Wallet"
+            ]
+        }
+    },
     "etr": {
         "linux": {
             "root": "etr",
