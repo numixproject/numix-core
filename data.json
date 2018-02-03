@@ -903,6 +903,14 @@
             "root": "arista"
         }
     },
+    "arkclient": {
+        "linux": {
+            "root": "arkclient",
+            "symlinks": [
+                "io.ark.Desktop"
+            ]
+        }
+    },
     "armagetronad": {
         "linux": {
             "root": "armagetronad",
