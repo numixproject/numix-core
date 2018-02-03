@@ -3268,6 +3268,14 @@
             "root": "cnc-qt"
         }
     },
+    "cockatrice": {
+        "linux": {
+            "root": "cockatrice",
+            "symlinks": [
+                "io.github.Cockatrice.cockatrice"
+            ]
+        }
+    },
     "codeblocks": {
         "linux": {
             "root": "codeblocks"
