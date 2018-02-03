@@ -15666,6 +15666,14 @@
             ]
         }
     },
+    "vcash": {
+        "linux": {
+            "root": "vcash",
+            "symlinks": [
+                "vcash-electron"
+            ]
+        }
+    },
     "vcmiclient": {
         "linux": {
             "root": "vcmiclient"
