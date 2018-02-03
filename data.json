@@ -14,7 +14,8 @@
                 "2048-qt",
                 "chrome-clgddkicplcbgjfobecebadodeggpghp-Default",
                 "chrome-jcjbnkncddbeomhaacaeokhfnefibpde-Default",
-                "gnome-2048"
+                "gnome-2048",
+                "org.gnome.gnome-2048"
             ]
         }
     },
@@ -3718,7 +3719,9 @@
         "linux": {
             "root": "dconf-editor",
             "symlinks": [
-                "configurator"
+                "ca.desrt.dconf-editor",
+                "configurator",
+                "org.gnome.dconf-editor"
             ]
         }
     },
@@ -4780,7 +4783,8 @@
             "symlinks": [
                 "easy-tag",
                 "EasyTAG_icon",
-                "easytags"
+                "easytags",
+                "org.gnome.EasyTAG"
             ]
         }
     },
@@ -6340,7 +6344,8 @@
             "root": "gnome-aisleriot",
             "symlinks": [
                 "gnome-freecell",
-                "lskat"
+                "lskat",
+                "org.gnome.Aisleriot"
             ]
         }
     },
@@ -6497,7 +6502,10 @@
     },
     "gnome-news": {
         "linux": {
-            "root": "gnome-news"
+            "root": "gnome-news",
+            "symlinks": [
+                "org.gnome.News"
+            ]
         }
     },
     "gnome-nibbles": {
@@ -6506,7 +6514,8 @@
             "symlinks": [
                 "gnibbles",
                 "gnome-gnibbles",
-                "gnome-gnibbless"
+                "gnome-gnibbless",
+                "org.gnome.Nibbles"
             ]
         }
     },
@@ -6606,7 +6615,8 @@
             "root": "gnome-sound-recorder",
             "symlinks": [
                 "audio-recorder",
-                "deepin-voice-recorder"
+                "deepin-voice-recorder",
+                "org.gnome.SoundRecorder"
             ]
         }
     },
@@ -6823,7 +6833,8 @@
         "linux": {
             "root": "goobox",
             "symlinks": [
-                "kscd"
+                "kscd",
+                "org.gnome.Goobox"
             ]
         }
     },
@@ -7259,6 +7270,7 @@
         "linux": {
             "root": "gthumb",
             "symlinks": [
+                "org.gnome.gThumb"
                 "pix"
             ]
         }
@@ -9022,7 +9034,11 @@
     },
     "latexila": {
         "linux": {
-            "root": "latexila"
+            "root": "latexila",
+            "symlinks": [
+                "gnome-latex",
+                "org.gnome.gnome-latex"
+            ]
         }
     },
     "launchpad": {
@@ -10389,7 +10405,10 @@
     },
     "nestopia": {
         "linux": {
-            "root": "nestopia"
+            "root": "nestopia",
+            "symlinks": [
+                "ca._0ldsk00l.Nestopia"
+            ]
         }
     },
     "netactview": {
@@ -13626,7 +13645,8 @@
             "root": "shotwell",
             "symlinks": [
                 "multimedia-photo-manager",
-                "multimedia-photo-viewer"
+                "multimedia-photo-viewer",
+                "org.gnome.Shotwell"
             ]
         }
     },
@@ -13939,7 +13959,10 @@
     },
     "sound-juicer": {
         "linux": {
-            "root": "sound-juicer"
+            "root": "sound-juicer",
+            "symlinks": [
+                "org.gnome.SoundJuicer"
+            ]
         }
     },
     "soundcloud": {
