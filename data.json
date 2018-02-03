@@ -11172,6 +11172,14 @@
             ]
         }
     },
+    "otpclient": {
+        "linux": {
+            "root": "otpclient",
+            "symlinks": [
+                "com.github.paolostivanin.OTPClient"
+            ]
+        }
+    },
     "otter-browser": {
         "linux": {
             "root": "otter-browser"
