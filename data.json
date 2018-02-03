@@ -5647,6 +5647,14 @@
             ]
         }
     },
+    "fractal": {
+        "linux": {
+            "root": "fractal",
+            "symlinks": [
+                "org.gnome.Fractal"
+            ]
+        }
+    },
     "frama-c": {
         "linux": {
             "root": "frama-c"
