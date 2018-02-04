@@ -6831,7 +6831,12 @@
     },
     "gonvert": {
         "linux": {
-            "root": "gonvert"
+            "root": "gonvert",
+            "symlinks": [
+                "net.bartkessels.simpleconvert",
+                "simpleconvert"
+            ]
+        }
         }
     },
     "goobox": {
