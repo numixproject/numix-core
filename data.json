@@ -3579,7 +3579,10 @@
     },
     "cura": {
         "linux": {
-            "root": "cura"
+            "root": "cura",
+            "symlinks": [
+                "cura-icon"
+            ]
         }
     },
     "curlew": {
