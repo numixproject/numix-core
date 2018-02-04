@@ -6850,7 +6850,10 @@
     },
     "goodvibes": {
         "linux": {
-            "root": "goodvibes"
+            "root": "goodvibes",
+            "symlinks": [
+                "com.elboulangero.Goodvibes"
+            ]
         }
     },
     "google-authenticator": {
