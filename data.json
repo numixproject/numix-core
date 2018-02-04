@@ -9283,7 +9283,10 @@
     },
     "lime": {
         "linux": {
-            "root": "lime"
+            "root": "lime",
+            "symlinks": [
+                "org.limetext.qml.LimeText"
+            ]
         }
     },
     "lingot-icon": {
