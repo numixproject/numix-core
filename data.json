@@ -1705,7 +1705,8 @@
         "linux": {
             "root": "bygfoot",
             "symlinks": [
-                "com.github.mirkobrombin.football"
+                "com.github.mirkobrombin.football",
+                "kickoff-player"
             ]
         }
     },
@@ -3954,7 +3955,10 @@
     },
     "dino": {
         "linux": {
-            "root": "dino"
+            "root": "dino",
+            "symlinks": [
+                "im.dino.Dino"
+            ]
         }
     },
     "diodon": {
