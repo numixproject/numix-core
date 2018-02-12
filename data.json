@@ -5857,7 +5857,10 @@
     },
     "gajim": {
         "linux": {
-            "root": "gajim"
+            "root": "gajim",
+            "symlinks": [
+                "org.gajim.Gajim"
+            ]
         }
     },
     "galois": {
@@ -6955,6 +6958,7 @@
             "symlinks": [
                 "chrome-fahmaaghhglfmonjliepjlchgpgfmobi-Default",
                 "chrome-icppfcnhkcmnfdhfhphakoifcfokfdhg-Default",
+                "com.googleplaymusicdesktopplayer.GPMDP",
                 "google-play-music-desktop-player",
                 "googlemusicframe",
                 "gpmdp",
