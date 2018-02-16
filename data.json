@@ -9125,6 +9125,14 @@
             "root": "lazarus"
         }
     },
+    "lbry": {
+        "linux": {
+            "root": "lbry",
+            "symlinks": [
+                "io.lbry.lbry-app"
+            ]
+        }
+    },
     "ldlite": {
         "linux": {
             "root": "ldlite"
