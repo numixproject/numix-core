@@ -12386,6 +12386,14 @@
             "root": "puzzlemoppet"
         }
     },
+    "pwcalculator": {
+        "linux": {
+            "root": "pwcalculator",
+            "symlinks": [
+                "com.bixense.PasswordCalculator"
+            ]
+        }
+    },
     "pwsafe": {
         "linux": {
             "root": "pwsafe"
