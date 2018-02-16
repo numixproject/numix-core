@@ -6141,6 +6141,14 @@
             "root": "gespeaker"
         }
     },
+    "getit": {
+        "linux": {
+            "root": "getit",
+            "symlinks": [
+                "net.bartkessels.getit"
+            ]
+        }
+    },
     "gFTP": {
         "linux": {
             "root": "gFTP",
