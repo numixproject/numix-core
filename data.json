@@ -14,7 +14,8 @@
                 "2048-qt",
                 "chrome-clgddkicplcbgjfobecebadodeggpghp-Default",
                 "chrome-jcjbnkncddbeomhaacaeokhfnefibpde-Default",
-                "gnome-2048"
+                "gnome-2048",
+                "org.gnome.gnome-2048"
             ]
         }
     },
@@ -1704,7 +1705,8 @@
         "linux": {
             "root": "bygfoot",
             "symlinks": [
-                "com.github.mirkobrombin.football"
+                "com.github.mirkobrombin.football",
+                "kickoff-player"
             ]
         }
     },
@@ -1743,6 +1745,7 @@
                 "galculator",
                 "gcalculator",
                 "gnome-calculator",
+                "io.liri.Calculator",
                 "kcalc",
                 "org.gnome.Calculator",
                 "speedcrunch"
@@ -3465,7 +3468,8 @@
         "linux": {
             "root": "crawl",
             "symlinks": [
-                "crawl-sdl_icon"
+                "crawl-sdl_icon",
+                "org.develz.Crawl"
             ]
         }
     },
@@ -3576,7 +3580,10 @@
     },
     "cura": {
         "linux": {
-            "root": "cura"
+            "root": "cura",
+            "symlinks": [
+                "cura-icon"
+            ]
         }
     },
     "curlew": {
@@ -3718,7 +3725,9 @@
         "linux": {
             "root": "dconf-editor",
             "symlinks": [
-                "configurator"
+                "ca.desrt.dconf-editor",
+                "configurator",
+                "org.gnome.dconf-editor"
             ]
         }
     },
@@ -3950,7 +3959,10 @@
     },
     "dino": {
         "linux": {
-            "root": "dino"
+            "root": "dino",
+            "symlinks": [
+                "im.dino.Dino"
+            ]
         }
     },
     "diodon": {
@@ -4780,7 +4792,8 @@
             "symlinks": [
                 "easy-tag",
                 "EasyTAG_icon",
-                "easytags"
+                "easytags",
+                "org.gnome.EasyTAG"
             ]
         }
     },
@@ -5849,7 +5862,10 @@
     },
     "gajim": {
         "linux": {
-            "root": "gajim"
+            "root": "gajim",
+            "symlinks": [
+                "org.gajim.Gajim"
+            ]
         }
     },
     "galois": {
@@ -6345,7 +6361,8 @@
             "root": "gnome-aisleriot",
             "symlinks": [
                 "gnome-freecell",
-                "lskat"
+                "lskat",
+                "org.gnome.Aisleriot"
             ]
         }
     },
@@ -6502,7 +6519,10 @@
     },
     "gnome-news": {
         "linux": {
-            "root": "gnome-news"
+            "root": "gnome-news",
+            "symlinks": [
+                "org.gnome.News"
+            ]
         }
     },
     "gnome-nibbles": {
@@ -6511,7 +6531,8 @@
             "symlinks": [
                 "gnibbles",
                 "gnome-gnibbles",
-                "gnome-gnibbless"
+                "gnome-gnibbless",
+                "org.gnome.Nibbles"
             ]
         }
     },
@@ -6611,7 +6632,8 @@
             "root": "gnome-sound-recorder",
             "symlinks": [
                 "audio-recorder",
-                "deepin-voice-recorder"
+                "deepin-voice-recorder",
+                "org.gnome.SoundRecorder"
             ]
         }
     },
@@ -6821,20 +6843,28 @@
     },
     "gonvert": {
         "linux": {
-            "root": "gonvert"
+            "root": "gonvert",
+            "symlinks": [
+                "net.bartkessels.simpleconvert",
+                "simpleconvert"
+            ]
         }
     },
     "goobox": {
         "linux": {
             "root": "goobox",
             "symlinks": [
-                "kscd"
+                "kscd",
+                "org.gnome.Goobox"
             ]
         }
     },
     "goodvibes": {
         "linux": {
-            "root": "goodvibes"
+            "root": "goodvibes",
+            "symlinks": [
+                "com.elboulangero.Goodvibes"
+            ]
         }
     },
     "google-authenticator": {
@@ -6933,6 +6963,7 @@
             "symlinks": [
                 "chrome-fahmaaghhglfmonjliepjlchgpgfmobi-Default",
                 "chrome-icppfcnhkcmnfdhfhphakoifcfokfdhg-Default",
+                "com.googleplaymusicdesktopplayer.GPMDP",
                 "google-play-music-desktop-player",
                 "googlemusicframe",
                 "gpmdp",
@@ -7264,6 +7295,7 @@
         "linux": {
             "root": "gthumb",
             "symlinks": [
+                "org.gnome.gThumb",
                 "pix"
             ]
         }
@@ -7515,7 +7547,8 @@
             "symlinks": [
                 "hamster-applet",
                 "hamster-indicator",
-                "hamster-time-tracker"
+                "hamster-time-tracker",
+                "org.projecthamster.hamster-gtk"
             ]
         }
     },
@@ -9027,7 +9060,11 @@
     },
     "latexila": {
         "linux": {
-            "root": "latexila"
+            "root": "latexila",
+            "symlinks": [
+                "gnome-latex",
+                "org.gnome.gnome-latex"
+            ]
         }
     },
     "launchpad": {
@@ -9256,7 +9293,10 @@
     },
     "lime": {
         "linux": {
-            "root": "lime"
+            "root": "lime",
+            "symlinks": [
+                "org.limetext.qml.LimeText"
+            ]
         }
     },
     "lingot-icon": {
@@ -9765,6 +9805,7 @@
         "linux": {
             "root": "mendeleydesktop",
             "symlinks": [
+                "com.elsevier.MendeleyDesktop",
                 "mendeley"
             ]
         }
@@ -10394,7 +10435,10 @@
     },
     "nestopia": {
         "linux": {
-            "root": "nestopia"
+            "root": "nestopia",
+            "symlinks": [
+                "ca._0ldsk00l.Nestopia"
+            ]
         }
     },
     "netactview": {
@@ -13631,7 +13675,8 @@
             "root": "shotwell",
             "symlinks": [
                 "multimedia-photo-manager",
-                "multimedia-photo-viewer"
+                "multimedia-photo-viewer",
+                "org.gnome.Shotwell"
             ]
         }
     },
@@ -13944,7 +13989,10 @@
     },
     "sound-juicer": {
         "linux": {
-            "root": "sound-juicer"
+            "root": "sound-juicer",
+            "symlinks": [
+                "org.gnome.SoundJuicer"
+            ]
         }
     },
     "soundcloud": {
@@ -14888,6 +14936,7 @@
                 "gedit2",
                 "gnome-word",
                 "io.elementary.code",
+                "io.liri.Text",
                 "journal",
                 "kate",
                 "kedit",
@@ -16522,6 +16571,8 @@
         "linux": {
             "root": "wire",
             "symlinks": [
+                "coax",
+                "com.wire.Coax",
                 "wire-desktop"
             ]
         }
