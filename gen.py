@@ -1,11 +1,12 @@
 #!/usr/bin/env python3
+
 """
-# Copyright (C) 2016
-# This program is free software: you can redistribute it and/or modify
-# it under the terms of the GNU General Public License (version 3+) as
-# published by the Free Software Foundation. You should have received
-# a copy of the GNU General Public License along with this program.
-# If not, see <http://www.gnu.org/licenses/>.
+Copyright (C) 2018
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License (version 3+) as
+published by the Free Software Foundation. You should have received
+a copy of the GNU General Public License along with this program.
+If not, see <http://www.gnu.org/licenses/>.
 """
 
 # Sorting out modules
@@ -75,9 +76,9 @@ def mkdir(directory):
 
 def convert_svg2png(infile, outfile, w, h):
     """
-        Converts svg files to png using Cairosvg or Inkscape
-        @file_path : String; the svg file absolute path
-        @dest_path : String; the png file absolute path
+    Converts svg files to png using Cairosvg or Inkscape
+    @file_path : String; the svg file absolute path
+    @dest_path : String; the png file absolute path
     """
     if use_inkscape:
         cmd = Popen(["inkscape", "-z", "-f", infile, "-e", outfile,
@@ -136,19 +137,14 @@ elif platform == "linux":
         for size in sizes:
             root = "{0}.svg".format(icon["linux"]["root"])
             source = "icons/{0}/{1}/{2}.svg".format(theme, size, icon_name)
-            output = "{0}/{1}/apps/{2}".format(linux_dir, size, root)
+            output = "{0}/{1}/apps/".format(linux_dir, size)
             if path.exists(source):
-                bfb_icon = icon["linux"].get("bfb")
-                if bfb_icon:
-                    output_bfb = "{0}/{1}/apps/{2}.png".format(linux_dir,
-                                                               size,
-                                                               bfb_icon)
-                    if int(size) == 48:
-                        convert_svg2png(source, output_bfb, 144, 144)
-                copy2(source, output)
+                if icon["linux"].get("bfb") and (size == "48"):
+                    output_bfb = "{0}.png".format(icon["linux"].get("bfb"))
+                    convert_svg2png(source, output + output_bfb, 144, 144)
+                copy2(source, output + root)
                 for link in icon["linux"].get("symlinks", []):
-                    output_symlink = "{0}/{1}/apps/{2}.svg".format(linux_dir,
-                                                                   size, link)
+                    output_symlink = "{0}{1}.svg".format(output, link)
                     try:
                         symlink(root, output_symlink)
                     except FileExistsError:
