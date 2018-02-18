@@ -1,36 +1,36 @@
 # Contributing to Numix Core
+So you want to contribute to the Numix app themes? Great! Make sure that you're doing the following so that we can get your contributions merged in as soon as possible.
 
-## Contribution process
+## General Process
+All contributions, regardless of which bit of the project they're part of, must follow these steps:
 
-1. Fork our GitHub repository.
+1. [Fork](https://help.github.com/articles/fork-a-repo/) our GitHub repository
+2. Make your changes and [push them](https://help.github.com/articles/pushing-to-a-remote/) to your fork
+   1. Remember to write a proper [commit message](https://chris.beams.io/posts/git-commit/)
+   2. If you're fixing an issue, [close it using keywords](https://help.github.com/articles/closing-issues-via-commit-messages/)
+3. Create a new [pull request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
+4. Make any changes requested and push again
+4. When the pull request is accepted you can delete your fork or [sync it](https://help.github.com/articles/syncing-a-fork/)
 
-2. Create the new icon using [Inkscape](https://inkscape.org/) (free and open source)
+Now you are ready to start again!
 
-3. Push it to your forked repository.
 
-   > Remember to write a proper commit message ([example guide](https://chris.beams.io/posts/git-commit/)).
+## Icons
+This section covers what to do when creating a new icon or changing the design for an existing icon. If you're wanting to add a symlink see the section on the data file.
 
-   > If you are working on an open issue you can automatically close it using some keywords and the issue number ([more info here](https://help.github.com/articles/closing-issues-via-commit-messages/)).
-
-4. Create a new pull request. It helps if you include a sample of your icon here in PNG format ([example](https://github.com/numixproject/numix-core/pull/1422)).
-
-   > Remember to create a different pull request for each icon you want to submit.
-
-5. When the pull request is accepted you can delete your fork or [sync it](https://help.github.com/articles/syncing-a-fork/). Now, you are ready to create new one!
-
-## New Icons
-
-New icons you must follow our [style guidelines](https://github.com/numixproject/numix-core/wiki/Guidelines). Furthermore:
-
- * All new icons must have a **circle** and a **square** version - other shapes (_shine_, _utouch_) are optional
- * All new icons must have an entry in the `data.json` file (more on this in the _Data File_ section)
+1. Make your icon using [Inkscape](https://inkscape.org/) (free and open source)
+   1. You must follow our [style guidelines](https://github.com/numixproject/numix-core/wiki/Guidelines)
+   2. Icons must be saved as an optimised SVG with [these settings](https://github.com/numixproject/numix-core/wiki/Optimise-Options)
+   3. New icon need an entry in the [data file](https://github.com/numixproject/numix-core/blob/master/.github/CONTRIBUTING.md#data-file)
+2. Create a different pull request for each (unrelated) change you're submitting
+   1. Pull requests must contain icons for Circle and Square at minimum
+   2. Adding icons for other themes such as Shine and uTouch is optional
+3. Include a sample of your icon ([example](https://github.com/numixproject/numix-core/pull/1422)) to make review easier
 
 
 ## Data File
 
-The `data.json`  file contains all the information needed for linking the icons to the names needed by different platforms.
-
-The file's structure:
+The `data.json` file contains all the information needed for linking the icons to the names needed by different platforms. It has the following structure:
 
 ```json
 {
@@ -49,32 +49,18 @@ The file's structure:
 }
 ```
 
-* the **icon-entry** is the name of the `SVG`
-  * it should be in dash-case
-  * it should be a meaningful name
-* the **android**  part is the list of components the should use the icon
-  * this information can be gathered from the **ComponentInfo** on http://activities.tundem.com/
-* the **linux** part holds the names that a linux desktop files _Icon_ line says
-  * the **root** holds the primary entry
-  * the **symlinks** holds alternative names
+* The `icon-entry` is the name of the SVG file and should be [meaningfully named](https://github.com/numixproject/numix-core/blob/master/data.json#L7529-L7533) using [dash-case](https://en.wikipedia.org/wiki/Naming_convention_(programming)#Delimiter-separated_words).
+* The `android`  part is the list of components the icon should use, which can be gathered from the "ComponentInfo" [here](http://activities.tundem.com/).
+* The `linux` part holds the names from the `Icon=*` line of `*.desktop` files
+  * the `root` holds the primary entry
+  * the `symlinks` holds alternative names
+  
+If you're making changes to this file in a pull request Travis will run a validation check to make sure you haven't made any errors, but please try and check before pushing to make review as easy as possible.
 
-## Python
 
-Theme building and validation scripts are written in Python.
+## Code
+The scripts used for theme building and validation are written in Python. Similarly to the data file, Travis will run a validation check using [pycodestyle](https://github.com/pycqa/pycodestyle) to make sure the coding style you've used is consistent with that used in the project. If you are working on this part of the project it's recommended that you check your changes using a pycodestyle linter before creating a pull request.
 
-## Code Style
 
- * 4 spaces for `json` and `python`
- * 1 space for `svg`
-
-> If you want to diverge, do it locally (eg. use [git filters](https://stackoverflow.com/questions/2316677/can-git-automatically-switch-between-spaces-and-tabs#2318063)).
-
-### Optimisation options
-
-These are the Inkscape optimised SVG settings which we use as standard when adding icons to the repo:
-
-![inkscape](https://user-images.githubusercontent.com/7050624/27377172-81b5eec6-5674-11e7-94cd-44b9e001b4bc.png)
-
-![inkscape2](https://user-images.githubusercontent.com/7050624/27377849-7795b6cc-5676-11e7-93c7-8b7fceabd0d3.png)
-
-![inkscape3](https://user-images.githubusercontent.com/7050624/27377856-7afa5020-5676-11e7-93ae-d857b38988ec.png)
+### Indentation
+Throughout this project we use 4 spaces for JSON and Python files, and generally use 1 space for SVG. If you want to diverge, do it locally (e.g. using [git filters](https://stackoverflow.com/questions/2316677/can-git-automatically-switch-between-spaces-and-tabs#2318063)).
