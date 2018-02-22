@@ -1029,7 +1029,10 @@
     },
     "atelier": {
         "linux": {
-            "root": "atelier"
+            "root": "atelier",
+            "symlinks": [
+                "atcore-gui"
+            ]
         }
     },
     "athena": {
