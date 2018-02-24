@@ -8352,6 +8352,16 @@
             "root": "jupiter"
         }
     },
+    "jupyter": {
+        "linux": {
+            "root": "jupyter",
+            "symlinks": [
+                "jupyter-console",
+                "jupyter-notebook",
+                "JupyterConsole"
+            ]
+        }
+    },
     "jvgs": {
         "linux": {
             "root": "jvgs"
