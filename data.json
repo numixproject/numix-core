@@ -7202,6 +7202,14 @@
             "root": "granatier"
         }
     },
+    "graphui": {
+        "linux": {
+            "root": "graphui",
+            "symlinks": [
+                "com.github.artemanufrij.graphui"
+            ]
+        }
+    },
     "grass": {
         "linux": {
             "root": "grass",
