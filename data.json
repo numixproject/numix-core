@@ -13138,6 +13138,14 @@
             "root": "referencer"
         }
     },
+    "regextester": {
+        "linux": {
+            "root": "regextester",
+            "symlinks": [
+                "com.github.artemanufrij.regextester"
+            ]
+        }
+    },
     "regina": {
         "linux": {
             "root": "regina"
