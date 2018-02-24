@@ -13767,6 +13767,14 @@
             "root": "shuriken"
         }
     },
+    "shutdownscheduler": {
+        "linux": {
+            "root": "shutdownscheduler",
+            "symlinks": [
+                "com.github.bcedu.shutdownscheduler"
+            ]
+        }
+    },
     "shutter": {
         "linux": {
             "root": "shutter"
