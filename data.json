@@ -14395,6 +14395,14 @@
             "root": "srain"
         }
     },
+    "srtnr": {
+        "linux": {
+            "root": "srtnr",
+            "symlinks": [
+                "com.github.arshubham.srtnr"
+            ]
+        }
+    },
     "stacer": {
         "linux": {
             "root": "stacer"
