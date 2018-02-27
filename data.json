@@ -3620,6 +3620,7 @@
             "root": "currency",
             "symlinks": [
                 "com.github.brandonlujan.exchange",
+                "com.github.cjfloss.envelope",
                 "envelope",
                 "keurocalc",
                 "mmex"
@@ -7010,6 +7011,7 @@
             "root": "google-earth",
             "symlinks": [
                 "earth",
+                "google-earth-pro",
                 "googleearth",
                 "googleearth-icon",
                 "marble"
@@ -10025,7 +10027,10 @@
     },
     "minecraft": {
         "linux": {
-            "root": "minecraft"
+            "root": "minecraft",
+            "symlinks": [
+                "com.mojang.Minecraft"
+            ]
         }
     },
     "minetest": {
@@ -11972,7 +11977,10 @@
     },
     "poedit": {
         "linux": {
-            "root": "poedit"
+            "root": "poedit",
+            "symlinks": [
+                "net.poedit.Poedit"
+            ]
         }
     },
     "pogo": {
@@ -12591,7 +12599,10 @@
     },
     "qbittorrent": {
         "linux": {
-            "root": "qbittorrent"
+            "root": "qbittorrent",
+            "symlinks": [
+                "org.qbittorrent.qBittorrent"
+            ]
         }
     },
     "qcad": {
@@ -13828,7 +13839,10 @@
     },
     "shotcut": {
         "linux": {
-            "root": "shotcut"
+            "root": "shotcut",
+            "symlinks": [
+                "org.shotcut.Shotcut"
+            ]
         }
     },
     "shotwell": {
@@ -15204,7 +15218,7 @@
             "root": "thunderbird",
             "symlinks": [
                 "mozilla-thunderbird",
-                "thunderbird-beta-bin",
+                "org.mozilla.Thunderbird",
                 "thunderbird-icon"
             ]
         }
@@ -15219,6 +15233,7 @@
             "root": "thunderbird-trunk",
             "symlinks": [
                 "thunderbird-beta",
+                "thunderbird-beta-bin",
                 "thunderbird-early-bird"
             ]
         }
@@ -16020,6 +16035,7 @@
             "root": "visualstudiocode",
             "symlinks": [
                 "com.visualstudio.code",
+                "com.visualstudio.code-oss",
                 "visual-studio-code",
                 "vsc",
                 "vscode",
