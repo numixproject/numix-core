@@ -5621,7 +5621,7 @@
     },
     "fluxgui": {
         "android": [
-            "com.justgetflux.flux"
+            "com.justgetflux.flux/com.justgetflux.flux.FluxActivity"
         ],
         "linux": {
             "root": "fluxgui"
@@ -6377,7 +6377,9 @@
     },
     "gmail": {
         "android": [
-            "com.google.android.gm"
+            "com.google.android.gm/com.google.android.gm.ConversationListActivityGmail",
+            "com.google.android.gm/com.google.android.gm.ConversationListActivityGoogleMail"
+        
         ],
         "linux": {
             "root": "gmail",
@@ -6960,7 +6962,7 @@
     },
     "google-chrome": {
         "android": [
-            "com.android.chrome"
+            "com.android.chrome/com.google.android.apps.chrome.Main"
         ],
         "linux": {
             "root": "google-chrome",
@@ -6973,7 +6975,7 @@
     },
     "google-chrome-beta": {
         "android": [
-            "com.chrome.beta"
+            "com.chrome.beta/com.google.android.apps.chrome.Main"
         ],
         "linux": {
             "root": "google-chrome-beta"
@@ -7021,7 +7023,7 @@
     },
     "google-hangouts": {
         "android": [
-            "com.google.android.talk"
+            "com.google.android.talk/com.google.android.talk.SigningInActivity"
         ],
         "linux": {
             "root": "google-hangouts",
@@ -7034,7 +7036,7 @@
     },
     "google-keep": {
         "android": [
-            "com.google.android.keep"
+            "com.google.android.keep/com.google.android.keep.activities.BrowseActivity"
         ],
         "linux": {
             "root": "google-keep",
@@ -7088,7 +7090,7 @@
     },
     "google-sheets": {
         "android": [
-            "com.google.android.apps.docs.editors.sheets"
+            "com.google.android.apps.docs.editors.sheets/com.google.android.apps.docs.app.NewMainProxyActivity"
         ],
         "linux": {
             "root": "google-sheets",
@@ -7115,7 +7117,9 @@
     },
     "googleplus": {
         "android": [
-            "com.google.android.apps.plus"
+            "com.google.android.apps.plus/com.google.android.apps.plus.phone.HomeActivity",
+            "com.google.android.apps.plus/com.google.android.apps.plus.phone.ConversationListActivity",
+            "com.google.android.apps.plus/com.google.android.apps.plus.phone.PhotosLegacyLauncherActivity"
         ],
         "linux": {
             "root": "googleplus",
@@ -8021,7 +8025,8 @@
     },
     "imdb": {
         "android": [
-            "com.imdb.mobile"
+            "com.imdb.mobile/com.imdb.mobile.HomeActivity",
+            "com.imdb.mobile/com.imdb.mobile.Home"
         ],
         "linux": {
             "root": "chrome-ciioilnaleldclnoaglmkejfikodhdai-Default"
@@ -10620,7 +10625,8 @@
     },
     "netflix-desktop": {
         "android": [
-            "com.netflix.mediaclient"
+            "com.netflix.mediaclient/com.netflix.mediaclient.UIWebViewActivity",
+            "com.netflix.mediaclient/com.netflix.mediaclient.ui.launch.UIWebViewActivity"
         ],
         "linux": {
             "root": "netflix-desktop",
@@ -11032,7 +11038,7 @@
     },
     "onedrive": {
         "android": [
-            "om.microsoft.skydrive"
+            "com.microsoft.skydrive/com.microsoft.skydrive.MainActivity"
         ],
         "linux": {
             "root": "onedrive",
@@ -13968,7 +13974,9 @@
     },
     "skype": {
         "android": [
-            "com.skype.raider"
+            "com.skype.raider/com.skype.raider.Main",
+            "com.skype.raider/com.skype.raider.ui.SplashScreenActivity",
+            "com.skype.raider/com.skype4life.MainActivity"
         ],
         "linux": {
             "root": "skype",
@@ -14198,7 +14206,9 @@
     },
     "soundcloud": {
         "android": [
-            "com.soundcloud.android"
+            "com.soundcloud.android/com.soundcloud.android.activity.Launch",
+            "com.soundcloud.android/com.soundcloud.android.main.LauncherActivity",
+            "com.soundcloud.android/com.soundcloud.android.activity.Dashboard"
         ],
         "linux": {
             "root": "soundcloud",
@@ -14315,7 +14325,7 @@
     },
     "spotify-client": {
         "android": [
-            "com.spotify.music"
+            "com.spotify.music/com.spotify.music.MainActivity"
         ],
         "linux": {
             "root": "spotify-client",
@@ -14983,7 +14993,7 @@
     },
     "teamviewer": {
         "android": [
-            "com.teamviewer.teamviewer.market.mobile"
+            "com.teamviewer.teamviewer.market.mobile/com.teamviewer.remotecontrollib.activity.MainActivity"
         ],
         "linux": {
             "root": "teamviewer",
@@ -16296,7 +16306,8 @@
     },
     "web-9gag": {
         "android": [
-            "com.ninegag.android.app"
+            "com.ninegag.android.app/com.ninegag.android.app.ui.SplashScreenActivity",
+            "com.ninegag.android.app/com.ninegag.android.app.MainActivity"
         ],
         "linux": {
             "root": "web-9gag",
@@ -16507,7 +16518,7 @@
     },
     "web-outlook": {
         "android": [
-            "com.microsoft.office.outlook"
+            "com.microsoft.office.outlook/com.microsoft.office.outlook.MainActivity"
         ],
         "linux": {
             "root": "web-outlook",
@@ -16532,7 +16543,7 @@
     },
     "web-pocket": {
         "android": [
-            "com.ideashower.readitlater.pro"
+            "com.ideashower.readitlater.pro/com.ideashower.readitlater.activity.AppCacheCheckActivity"
         ],
         "linux": {
             "root": "web-pocket",
@@ -16549,7 +16560,7 @@
     },
     "web-pushbullet": {
         "android": [
-            "com.pushbullet.android"
+            "com.pushbullet.android/com.pushbullet.android.ui.LaunchActivity"
         ],
         "linux": {
             "root": "web-pushbullet",
@@ -16594,7 +16605,9 @@
     },
     "web-twitter": {
         "android": [
-            "com.twitter.android"
+            "com.twitter.android/com.twitter.android.StartActivity",
+            "com.twitter.android/com.twitter.applib.StartActivity",
+            "com.twitter.android/com.example.nm.TwitterLauncherMainActivity"
         ],
         "linux": {
             "root": "web-twitter",
