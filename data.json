@@ -5317,7 +5317,7 @@
     },
     "file-manager": {
         "android": [
-            "com.amaze.filemanager",
+            "com.amaze.filemanager/com.amaze.filemanager.activities.MainActivity",
             "com.sec.android.app.myfiles/com.sec.android.app.myfiles.common.MainActivity"
         ],
         "linux": {
@@ -5726,7 +5726,9 @@
     },
     "foxit-reader": {
         "android": [
-            "com.foxit.mobile.pdf.lite"
+            "com.foxit.mobile.pdf.lite/com.foxit.filemanager.FM_MainActivity",
+            "com.foxit.mobile.pdf.lite/com.fuxin.filemanager.FM_MainActivity",
+            "com.foxit.mobile.pdf.lite/com.fuxin.home.imp.MainActivity"
         ],
         "linux": {
             "root": "foxit-reader",
@@ -6050,9 +6052,6 @@
         }
     },
     "gcolor2": {
-        "android": [
-            "ch.ihdg.calendarcolor"
-        ],
         "linux": {
             "root": "gcolor2",
             "symlinks": [
@@ -6957,7 +6956,7 @@
     },
     "google-authenticator": {
         "android": [
-            "com_google_android_apps_authenticator2"
+            "com.google.android.apps.authenticator2/com.google.android.apps.authenticator.AuthenticatorActivity"
         ]
     },
     "google-chrome": {
@@ -6988,7 +6987,7 @@
     },
     "google-docs": {
         "android": [
-            "com.google.android.apps.docs.editors.docs"
+            "com.google.android.apps.docs.editors.docs/com.google.android.apps.docs.app.NewMainProxyActivity"
         ],
         "linux": {
             "root": "google-docs",
@@ -7078,7 +7077,7 @@
     },
     "google-play-books": {
         "android": [
-            "com.google.android.apps.books"
+            "com.google.android.apps.books/com.google.android.apps.books.app.BooksActivity"
         ],
         "linux": {
             "root": "google-play-books",
@@ -10256,7 +10255,8 @@
     },
     "ms-excel": {
         "android": [
-            "com.microsoft.office.excel"
+            "com.microsoft.office.excel/com.microsoft.office.apphost.LaunchActivity",
+            "com.microsoft.office.excel/com.microsoft.office.excel.excelMainActivity"
         ],
         "linux": {
             "root": "ms-excel"
@@ -10264,7 +10264,8 @@
     },
     "ms-onenote": {
         "android": [
-            "com.microsoft.office.onenote"
+            "com.microsoft.office.onenote/com.microsoft.office.onenote.ui.ONMSplashActivity",
+            "com.microsoft.office.onenote/com.microsoft.office.onenote.ui.ONMLauncherActivity"
         ],
         "linux": {
             "root": "ms-onenote",
@@ -10286,7 +10287,8 @@
     },
     "ms-powerpoint": {
         "android": [
-            "com.microsoft.office.powerpoint"
+            "com.microsoft.office.powerpoint/com.microsoft.office.apphost.LaunchActivity",
+            "com.microsoft.office.powerpoint/com.microsoft.office.powerpoint.PPTActivity"
         ],
         "linux": {
             "root": "ms-powerpoint"
@@ -10294,7 +10296,8 @@
     },
     "ms-word": {
         "android": [
-            "com.microsoft.office.word"
+            "com.microsoft.office.word/com.microsoft.office.apphost.LaunchActivity",
+            "com.microsoft.office.word/com.microsoft.office.word.WordActivity"
         ],
         "linux": {
             "root": "ms-word"
@@ -16455,7 +16458,8 @@
     },
     "web-inbox": {
         "android": [
-            "com.google.android.apps.inbox"
+            "com.google.android.apps.inbox/com.google.android.apps.bigtop.activities.InitActivity",
+            "com.google.android.apps.inbox/com.google.android.apps.bigtop.activities.MainActivity"
         ],
         "linux": {
             "root": "web-inbox",
