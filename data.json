@@ -13012,6 +13012,14 @@
             "root": "qucs"
         }
     },
+    "quickdocs": {
+        "linux": {
+            "root": "quickdocs",
+            "symlinks": [
+                "com.github.mdh34.quickdocs"
+            ]
+        }
+    },
     "quickhash": {
         "linux": {
             "root": "quickhash",
