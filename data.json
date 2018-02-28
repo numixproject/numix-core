@@ -9996,6 +9996,11 @@
             ]
         }
     },
+    "merkaartor": {
+        "linux": {
+            "root": "merkaartor"
+        }
+    },
     "meshlab": {
         "linux": {
             "root": "meshlab"
@@ -12690,7 +12695,6 @@
         "linux": {
             "root": "qgis",
             "symlinks": [
-                "merkaartor",
                 "qbrowser",
                 "qgis-icon"
             ]
