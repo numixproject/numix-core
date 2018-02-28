@@ -277,7 +277,7 @@
     },
     "acroread": {
         "android": [
-            "com.adobe.reader"
+            "com.adobe.reader/com.adobe.reader.AdobeReader"
         ],
         "linux": {
             "root": "acroread",
@@ -546,7 +546,7 @@
     },
     "amazon-store": {
         "android": [
-            "com.amazon.mShop.android.shopping"
+            "com.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity"
         ],
         "linux": {
             "root": "amazon-store",
@@ -1678,7 +1678,7 @@
     },
     "budapest-public-transit": {
         "android": [
-            "hu.donmade.menetrend.budapest"
+            "hu.donmade.menetrend.budapest/hu.donmade.menetrend.gui.BootstrapActivity"
         ]
     },
     "buddi": {
@@ -2849,7 +2849,7 @@
     },
     "chrome-bikioccmkafdpakkkcpdbppfkghcmihk-Default": {
         "android": [
-            "org_thoughtcrime_securesms"
+            "org.thoughtcrime.securesms/org.thoughtcrime.securesms.RoutingActivity"
         ],
         "linux": {
             "root": "chrome-bikioccmkafdpakkkcpdbppfkghcmihk-Default",
@@ -4713,7 +4713,7 @@
     },
     "dropbox": {
         "android": [
-            "com.dropbox.android"
+            "com.dropbox.android/com.dropbox.android.activity.DropboxBrowser"
         ],
         "linux": {
             "root": "dropbox",
@@ -5017,7 +5017,7 @@
     },
     "enpass": {
         "android": [
-            "io.enpass.app"
+            "io.enpass.app/in.sinew.enpass.MainActivity"
         ],
         "linux": {
             "root": "enpass"
@@ -5228,7 +5228,7 @@
     },
     "fbmessenger": {
         "android": [
-            "com.facebook.orca"
+            "com.facebook.orca/com.facebook.orca.auth.StartScreenActivity"
         ],
         "linux": {
             "root": "fbmessenger",
@@ -5317,7 +5317,7 @@
     },
     "file-manager": {
         "android": [
-            "com.amaze.filemanager",
+            "com.amaze.filemanager/com.amaze.filemanager.activities.MainActivity",
             "com.sec.android.app.myfiles/com.sec.android.app.myfiles.common.MainActivity"
         ],
         "linux": {
@@ -5415,7 +5415,7 @@
     },
     "firefox": {
         "android": [
-            "org.mozilla.firefox"
+            "org.mozilla.firefox/org.mozilla.firefox.App"
         ],
         "linux": {
             "root": "firefox",
@@ -5444,7 +5444,8 @@
     },
     "firefox-beta": {
         "android": [
-            "org.mozilla.firefox_beta"
+            "org.mozilla.firefox_beta/org.mozilla.firefox_beta.App",
+            "org.mozilla.firefox_beta/org.mozilla.gecko.BrowserApp"
         ],
         "linux": {
             "root": "firefox-beta",
@@ -5620,7 +5621,7 @@
     },
     "fluxgui": {
         "android": [
-            "com.justgetflux.flux"
+            "com.justgetflux.flux/com.justgetflux.flux.FluxActivity"
         ],
         "linux": {
             "root": "fluxgui"
@@ -5725,7 +5726,9 @@
     },
     "foxit-reader": {
         "android": [
-            "com.foxit.mobile.pdf.lite"
+            "com.foxit.mobile.pdf.lite/com.foxit.filemanager.FM_MainActivity",
+            "com.foxit.mobile.pdf.lite/com.fuxin.filemanager.FM_MainActivity",
+            "com.foxit.mobile.pdf.lite/com.fuxin.home.imp.MainActivity"
         ],
         "linux": {
             "root": "foxit-reader",
@@ -6049,9 +6052,6 @@
         }
     },
     "gcolor2": {
-        "android": [
-            "ch.ihdg.calendarcolor"
-        ],
         "linux": {
             "root": "gcolor2",
             "symlinks": [
@@ -6304,7 +6304,7 @@
     },
     "Gitter": {
         "android": [
-            "im.gitter.gitter"
+            "im.gitter.gitter/im.gitter.gitter.activities.StartActivity"
         ],
         "linux": {
             "root": "Gitter",
@@ -6376,7 +6376,8 @@
     },
     "gmail": {
         "android": [
-            "com.google.android.gm"
+            "com.google.android.gm/com.google.android.gm.ConversationListActivityGmail",
+            "com.google.android.gm/com.google.android.gm.ConversationListActivityGoogleMail"
         ],
         "linux": {
             "root": "gmail",
@@ -6954,12 +6955,12 @@
     },
     "google-authenticator": {
         "android": [
-            "com_google_android_apps_authenticator2"
+            "com.google.android.apps.authenticator2/com.google.android.apps.authenticator.AuthenticatorActivity"
         ]
     },
     "google-chrome": {
         "android": [
-            "com.android.chrome"
+            "com.android.chrome/com.google.android.apps.chrome.Main"
         ],
         "linux": {
             "root": "google-chrome",
@@ -6972,7 +6973,7 @@
     },
     "google-chrome-beta": {
         "android": [
-            "com.chrome.beta"
+            "com.chrome.beta/com.google.android.apps.chrome.Main"
         ],
         "linux": {
             "root": "google-chrome-beta"
@@ -6985,7 +6986,7 @@
     },
     "google-docs": {
         "android": [
-            "com.google.android.apps.docs.editors.docs"
+            "com.google.android.apps.docs.editors.docs/com.google.android.apps.docs.app.NewMainProxyActivity"
         ],
         "linux": {
             "root": "google-docs",
@@ -7020,7 +7021,7 @@
     },
     "google-hangouts": {
         "android": [
-            "com.google.android.talk"
+            "com.google.android.talk/com.google.android.talk.SigningInActivity"
         ],
         "linux": {
             "root": "google-hangouts",
@@ -7033,7 +7034,7 @@
     },
     "google-keep": {
         "android": [
-            "com.google.android.keep"
+            "com.google.android.keep/com.google.android.keep.activities.BrowseActivity"
         ],
         "linux": {
             "root": "google-keep",
@@ -7075,7 +7076,7 @@
     },
     "google-play-books": {
         "android": [
-            "com.google.android.apps.books"
+            "com.google.android.apps.books/com.google.android.apps.books.app.BooksActivity"
         ],
         "linux": {
             "root": "google-play-books",
@@ -7087,7 +7088,7 @@
     },
     "google-sheets": {
         "android": [
-            "com.google.android.apps.docs.editors.sheets"
+            "com.google.android.apps.docs.editors.sheets/com.google.android.apps.docs.app.NewMainProxyActivity"
         ],
         "linux": {
             "root": "google-sheets",
@@ -7114,7 +7115,9 @@
     },
     "googleplus": {
         "android": [
-            "com.google.android.apps.plus"
+            "com.google.android.apps.plus/com.google.android.apps.plus.phone.ConversationListActivity",
+            "com.google.android.apps.plus/com.google.android.apps.plus.phone.HomeActivity",
+            "com.google.android.apps.plus/com.google.android.apps.plus.phone.PhotosLegacyLauncherActivity"
         ],
         "linux": {
             "root": "googleplus",
@@ -8020,7 +8023,8 @@
     },
     "imdb": {
         "android": [
-            "com.imdb.mobile"
+            "com.imdb.mobile/com.imdb.mobile.Home",
+            "com.imdb.mobile/com.imdb.mobile.HomeActivity"
         ],
         "linux": {
             "root": "chrome-ciioilnaleldclnoaglmkejfikodhdai-Default"
@@ -8891,7 +8895,7 @@
     },
     "kodi": {
         "android": [
-            "org.xbmc.kodi"
+            "org.xbmc.kodi/org.xbmc.kodi.Splash"
         ],
         "linux": {
             "root": "kodi"
@@ -10250,7 +10254,8 @@
     },
     "ms-excel": {
         "android": [
-            "com.microsoft.office.excel"
+            "com.microsoft.office.excel/com.microsoft.office.apphost.LaunchActivity",
+            "com.microsoft.office.excel/com.microsoft.office.excel.excelMainActivity"
         ],
         "linux": {
             "root": "ms-excel"
@@ -10258,7 +10263,8 @@
     },
     "ms-onenote": {
         "android": [
-            "com.microsoft.office.onenote"
+            "com.microsoft.office.onenote/com.microsoft.office.onenote.ui.ONMLauncherActivity",
+            "com.microsoft.office.onenote/com.microsoft.office.onenote.ui.ONMSplashActivity"
         ],
         "linux": {
             "root": "ms-onenote",
@@ -10280,7 +10286,8 @@
     },
     "ms-powerpoint": {
         "android": [
-            "com.microsoft.office.powerpoint"
+            "com.microsoft.office.powerpoint/com.microsoft.office.apphost.LaunchActivity",
+            "com.microsoft.office.powerpoint/com.microsoft.office.powerpoint.PPTActivity"
         ],
         "linux": {
             "root": "ms-powerpoint"
@@ -10288,7 +10295,8 @@
     },
     "ms-word": {
         "android": [
-            "com.microsoft.office.word"
+            "com.microsoft.office.word/com.microsoft.office.apphost.LaunchActivity",
+            "com.microsoft.office.word/com.microsoft.office.word.WordActivity"
         ],
         "linux": {
             "root": "ms-word"
@@ -10619,7 +10627,8 @@
     },
     "netflix-desktop": {
         "android": [
-            "com.netflix.mediaclient"
+            "com.netflix.mediaclient/com.netflix.mediaclient.ui.launch.UIWebViewActivity",
+            "com.netflix.mediaclient/com.netflix.mediaclient.UIWebViewActivity"
         ],
         "linux": {
             "root": "netflix-desktop",
@@ -11031,7 +11040,7 @@
     },
     "onedrive": {
         "android": [
-            "om.microsoft.skydrive"
+            "com.microsoft.skydrive/com.microsoft.skydrive.MainActivity"
         ],
         "linux": {
             "root": "onedrive",
@@ -13967,7 +13976,9 @@
     },
     "skype": {
         "android": [
-            "com.skype.raider"
+            "com.skype.raider/com.skype.raider.Main",
+            "com.skype.raider/com.skype.raider.ui.SplashScreenActivity",
+            "com.skype.raider/com.skype4life.MainActivity"
         ],
         "linux": {
             "root": "skype",
@@ -13985,7 +13996,8 @@
     },
     "slack": {
         "android": [
-            "com.Slack"
+            "com.Slack/com.Slack.app.login.FSlackTryLogin",
+            "com.Slack/com.Slack.ui.HomeActivity"
         ],
         "linux": {
             "root": "slack",
@@ -14196,7 +14208,9 @@
     },
     "soundcloud": {
         "android": [
-            "com.soundcloud.android"
+            "com.soundcloud.android/com.soundcloud.android.activity.Dashboard",
+            "com.soundcloud.android/com.soundcloud.android.activity.Launch",
+            "com.soundcloud.android/com.soundcloud.android.main.LauncherActivity"
         ],
         "linux": {
             "root": "soundcloud",
@@ -14313,7 +14327,7 @@
     },
     "spotify-client": {
         "android": [
-            "com.spotify.music"
+            "com.spotify.music/com.spotify.music.MainActivity"
         ],
         "linux": {
             "root": "spotify-client",
@@ -14464,7 +14478,10 @@
     },
     "steam": {
         "android": [
-            "com.valvesoftware.android.steam.community"
+            "com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.activity.CommunityActivity",
+            "com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.activity.LauncherActivity",
+            "com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.activity.MainActivity",
+            "com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.activity.SteamGuardActivity"
         ],
         "linux": {
             "root": "steam",
@@ -14978,7 +14995,7 @@
     },
     "teamviewer": {
         "android": [
-            "com.teamviewer.teamviewer.market.mobile"
+            "com.teamviewer.teamviewer.market.mobile/com.teamviewer.remotecontrollib.activity.MainActivity"
         ],
         "linux": {
             "root": "teamviewer",
@@ -14998,7 +15015,7 @@
     },
     "telegram": {
         "android": [
-            "org.telegram.messenger"
+            "org.telegram.messenger/org.telegram.ui.LaunchActivity"
         ],
         "linux": {
             "root": "telegram",
@@ -15732,7 +15749,7 @@
     },
     "unity-webapps-instagram": {
         "android": [
-            "com.instagram.android"
+            "com.instagram.android/com.instagram.android.activity.MainTabActivity"
         ],
         "linux": {
             "root": "unity-webapps-instagram",
@@ -15982,7 +15999,9 @@
     },
     "viber": {
         "android": [
-            "com.viber.voip"
+            "com.viber.voip/com.viber.voip.IdleActivity",
+            "com.viber.voip/com.viber.voip.LaunchActivity",
+            "com.viber.voip/com.viber.voip.WelcomeActivity"
         ],
         "linux": {
             "root": "viber"
@@ -16099,7 +16118,10 @@
     },
     "vlc": {
         "android": [
-            "org.videolan.vlc"
+            "org.videolan.vlc.betav7neon/org.videolan.vlc.betav7neon.gui.MainActivity",
+            "org.videolan.vlc.debug/org.videolan.vlc.StartActivity",
+            "org.videolan.vlc/org.videolan.vlc.gui.MainActivity",
+            "org.videolan.vlc/org.videolan.vlc.StartActivity"
         ],
         "linux": {
             "root": "vlc",
@@ -16286,7 +16308,8 @@
     },
     "web-9gag": {
         "android": [
-            "com.ninegag.android.app"
+            "com.ninegag.android.app/com.ninegag.android.app.MainActivity",
+            "com.ninegag.android.app/com.ninegag.android.app.ui.SplashScreenActivity"
         ],
         "linux": {
             "root": "web-9gag",
@@ -16434,7 +16457,8 @@
     },
     "web-inbox": {
         "android": [
-            "com.google.android.apps.inbox"
+            "com.google.android.apps.inbox/com.google.android.apps.bigtop.activities.InitActivity",
+            "com.google.android.apps.inbox/com.google.android.apps.bigtop.activities.MainActivity"
         ],
         "linux": {
             "root": "web-inbox",
@@ -16497,7 +16521,7 @@
     },
     "web-outlook": {
         "android": [
-            "com.microsoft.office.outlook"
+            "com.microsoft.office.outlook/com.microsoft.office.outlook.MainActivity"
         ],
         "linux": {
             "root": "web-outlook",
@@ -16522,7 +16546,7 @@
     },
     "web-pocket": {
         "android": [
-            "com.ideashower.readitlater.pro"
+            "com.ideashower.readitlater.pro/com.ideashower.readitlater.activity.AppCacheCheckActivity"
         ],
         "linux": {
             "root": "web-pocket",
@@ -16539,7 +16563,7 @@
     },
     "web-pushbullet": {
         "android": [
-            "com.pushbullet.android"
+            "com.pushbullet.android/com.pushbullet.android.ui.LaunchActivity"
         ],
         "linux": {
             "root": "web-pushbullet",
@@ -16584,7 +16608,9 @@
     },
     "web-twitter": {
         "android": [
-            "com.twitter.android"
+            "com.twitter.android/com.example.nm.TwitterLauncherMainActivity",
+            "com.twitter.android/com.twitter.android.StartActivity",
+            "com.twitter.android/com.twitter.applib.StartActivity"
         ],
         "linux": {
             "root": "web-twitter",
@@ -16610,7 +16636,30 @@
     },
     "web-whatsapp": {
         "android": [
-            "com.whatsapp"
+            "com.whatsapp/com.whatsapp.0",
+            "com.whatsapp/com.whatsapp.64",
+            "com.whatsapp/com.whatsapp.HomeActivity",
+            "com.whatsapp/com.whatsapp.iconone",
+            "com.whatsapp/com.whatsapp.icontwo",
+            "com.whatsapp/com.whatsapp.Main",
+            "com.whatsapp/com.whatsapp.Main-01",
+            "com.whatsapp/com.whatsapp.Main-02",
+            "com.whatsapp/com.whatsapp.Main-03",
+            "com.whatsapp/com.whatsapp.Main-04",
+            "com.whatsapp/com.whatsapp.Main-06",
+            "com.whatsapp/com.whatsapp.Main-13",
+            "com.whatsapp/com.whatsapp.Main-14",
+            "com.whatsapp/com.whatsapp.Main-Plus",
+            "com.whatsapp/com.whatsapp.Main-Reborn",
+            "com.whatsapp/com.whatsapp.Main0",
+            "com.whatsapp/com.whatsapp.Main2",
+            "com.whatsapp/com.whatsapp.Main21",
+            "com.whatsapp/com.whatsapp.Main25",
+            "com.whatsapp/com.whatsapp.Main26",
+            "com.whatsapp/com.whatsapp.Main3",
+            "com.whatsapp/com.whatsapp.Main4",
+            "com.whatsapp/com.whatsapp.Main8",
+            "com.whatsapp/fapp.Mulbhut-04"
         ],
         "linux": {
             "root": "web-whatsapp",
@@ -16731,7 +16780,10 @@
     },
     "wikipedia": {
         "android": [
-            "org.wikipedia"
+            "org.wikipedia/org.wikipedia.main.MainActivity",
+            "org.wikipedia/org.wikipedia.MainActivity",
+            "org.wikipedia/org.wikipedia.page.PageActivity",
+            "org.wikipedia/org.wikipedia.WikipediaActivity"
         ],
         "linux": {
             "root": "wikipedia",
@@ -16860,7 +16912,8 @@
     },
     "wordpress": {
         "android": [
-            "org.wordpress.android"
+            "org.wordpress.android/org.wordpress.android.ui.posts.PostsActivity",
+            "org.wordpress.android/org.wordpress.android.ui.WPLaunchActivity"
         ],
         "linux": {
             "root": "wordpress",
@@ -16961,7 +17014,9 @@
     },
     "wunderlist": {
         "android": [
-            "com.wunderkinder.wunderlistandroid"
+            "com.wunderkinder.wunderlistandroid/com.wunderkinder.wunderlistandroid.activity.WLMainFragmentActivity",
+            "com.wunderkinder.wunderlistandroid/com.wunderkinder.wunderlistandroid.activity.WLSlideShowActivity",
+            "com.wunderkinder.wunderlistandroidedu/com.wunderkinder.wunderlistandroid.activity.WLMainFragmentActivity"
         ],
         "linux": {
             "root": "wunderlist",
@@ -17312,7 +17367,13 @@
     },
     "youtube": {
         "android": [
-            "com.google.android.youtube"
+            "com.google.android.youtube.googletv/com.google.android.youtube.googletv.MainActivity",
+            "com.google.android.youtube.googletv/com.google.android.youtube.tv.fork.honeycomb.Shell$HomeActivity",
+            "com.google.android.youtube/com.ghareeb.YouTube.OGDownloadManager",
+            "com.google.android.youtube/com.google.android.youtube.app.froyo.phone.HomeActivity",
+            "com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity",
+            "com.google.android.youtube/com.google.android.youtube.HomeActivity",
+            "com.google.android.youtube/net.ogmods.youtube.OGDownloadManager1"
         ],
         "linux": {
             "root": "youtube",
