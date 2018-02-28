@@ -116,16 +116,32 @@ except FileNotFoundError:
 if platform == "android":
     print("\nGenerating Android theme...")
     theme_name = "com.numix.icons_{0}".format(theme)
-    android_dir = "/MainActivity22/app/src/main/res/drawable-xxhdpi"
-    theme_dir = theme_name + android_dir
-    mkdir(android_dir)
+    android_dir = theme_name + "/MainActivity22/app/src/main/res/"
+    app_filter = android_dir + "xml/appfilter.xml"
+    theme_dir = android_dir + "drawable-xxhdpi/"
+
+    app_filter_content = '<?xml version="1.0" encoding="utf-8"?>\n'
+    app_filter_content += '<resources>\n'
+
+    mkdir(theme_dir)
+    mkdir(path.dirname(app_filter))
+
     for icon_name, icon in icons.items():
-        for output_name in icon.get("android", []):
+        for component_info in icon.get("android", []):
             source = "icons/{0}/48/{1}.svg".format(theme, format(icon_name))
-            output = "{0}/{1}.png".format(android_dir,
-                                          output_name.replace("_", "."))
+            drawable_name = icon_name.replace(".", "_").replace("-", "_")
+            output = "{0}/{1}.png".format(theme_dir,
+                                          drawable_name)
             if path.exists(source):
                 convert_svg2png(source, output, 192, 192)
+            app_filter_content += '\t<item component="ComponentInfo{' + \
+                component_info + '}" drawable="' + drawable_name + '"/>\n'
+
+    app_filter_content += '</resources>'
+    with open(app_filter, 'w') as app_filter_obj:
+        app_filter_obj.write(app_filter_content)
+
+
 elif platform == "linux":
     print("\nGenerating Linux theme...")
     linux_dir = "numix-icon-theme-{0}/Numix-{1}".format(theme, theme.title())
