@@ -1707,6 +1707,14 @@
             ]
         }
     },
+    "bustle": {
+        "linux": {
+            "root": "bustle",
+            "symlinks": [
+                "org.freedesktop.Bustle"
+            ]
+        }
+    },
     "buttercup": {
         "linux": {
             "root": "buttercup",
