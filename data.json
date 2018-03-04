@@ -15848,7 +15848,11 @@
     },
     "usb-creator-kde": {
         "linux": {
-            "root": "usb-creator-kde"
+            "root": "usb-creator-kde",
+            "symlinks": [
+                "com.github.artemanufrij.imageburner",
+                "imageburner"
+            ]
         }
     },
     "userinfo": {
