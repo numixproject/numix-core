@@ -5788,7 +5788,10 @@
     },
     "freeciv-client": {
         "linux": {
-            "root": "freeciv-client"
+            "root": "freeciv-client",
+            "symlinks": [
+                "org.freeciv.Freeciv"
+            ]
         }
     },
     "freeciv-server": {
