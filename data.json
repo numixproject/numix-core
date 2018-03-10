@@ -9159,7 +9159,10 @@
     },
     "labyrinth": {
         "linux": {
-            "root": "labyrinth"
+            "root": "labyrinth",
+            "symlinks": [
+                "semantik-d"
+            ]
         }
     },
     "lantern": {
