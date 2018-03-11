@@ -5320,7 +5320,7 @@
     },
     "fiji": {
         "linux": {
-            "root": "ImageJ"
+            "root": "fiji"
         }
     },
     "file-manager": {
@@ -17154,6 +17154,8 @@
         "linux": {
             "root": "xdiagnose",
             "symlinks": [
+                "imagej",
+                "ImageJ",
                 "microscope"
             ]
         }
