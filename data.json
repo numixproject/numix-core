@@ -1060,7 +1060,10 @@
     },
     "AtomicGameEngine": {
         "linux": {
-            "root": "AtomicGameEngine"
+            "root": "AtomicGameEngine",
+            "symlinks": [
+                "atomic_menu"
+            ]
         }
     },
     "auale": {
