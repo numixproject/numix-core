@@ -7405,7 +7405,9 @@
         "linux": {
             "root": "gstreamer",
             "symlinks": [
-                "gstreamer-properties"
+                "gst-debug-viewer",
+                "gstreamer-properties",
+                "org.freedesktop.GstDebugViewer"
             ]
         }
     },
