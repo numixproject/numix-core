@@ -7828,7 +7828,10 @@
     },
     "hopper-debugger-v3": {
         "linux": {
-            "root": "hopper-debugger-v3"
+            "root": "hopper-debugger-v3",
+            "symlinks": [
+                "edb"
+            ]
         }
     },
     "hopper-disassembler-v3": {
