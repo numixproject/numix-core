@@ -14767,7 +14767,10 @@
     },
     "stm32workbench": {
         "linux": {
-            "root": "stm32workbench"
+            "root": "stm32workbench",
+            "symlinks": [
+                "sw4stm32"
+            ]
         }
     },
     "stock_keyring": {
