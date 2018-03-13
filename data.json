@@ -10291,6 +10291,15 @@
             "root": "steam_icon_113020"
         }
     },
+    "monero": {
+        "linux": {
+            "root": "monero",
+            "symlinks": [
+                "monero-wallet-gui",
+                "org.getmonero.Wallet"
+            ]
+        }
+    },
     "mongodb": {
         "linux": {
             "root": "mongodb"
