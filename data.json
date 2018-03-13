@@ -5646,7 +5646,8 @@
                 "fgfs",
                 "fgo",
                 "fgrun",
-                "fgx"
+                "fgx",
+                "org.flightgear.FlightGear"
             ]
         }
     },
@@ -7280,7 +7281,10 @@
     },
     "gpodder": {
         "linux": {
-            "root": "gpodder"
+            "root": "gpodder",
+            "symlinks": [
+                "io.gpodder.gPodder"
+            ]
         }
     },
     "gprename": {
@@ -15531,7 +15535,10 @@
     },
     "tiled": {
         "linux": {
-            "root": "tiled"
+            "root": "tiled",
+            "symlinks": [
+                "org.mapeditor.Tiled"
+            ]
         }
     },
     "timeline": {
