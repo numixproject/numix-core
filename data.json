@@ -13487,7 +13487,10 @@
     },
     "ristretto": {
         "linux": {
-            "root": "ristretto"
+            "root": "ristretto",
+            "symlinks": [
+                "glViewImage"
+            ]
         }
     },
     "rkward": {
