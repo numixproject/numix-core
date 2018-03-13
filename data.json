@@ -4444,7 +4444,10 @@
     },
     "distributor-logo-rosa": {
         "linux": {
-            "root": "distributor-logo-rosa"
+            "root": "distributor-logo-rosa",
+            "symlinks": [
+                "rosa-imagewriter"
+            ]
         }
     },
     "distributor-logo-sabayon": {
@@ -13778,13 +13781,16 @@
         "linux": {
             "root": "securecrt",
             "symlinks": [
-                "securecrt_64"
+                "draksec-mdk"
             ]
         }
     },
     "securefx": {
         "linux": {
-            "root": "securefx"
+            "root": "securefx",
+            "symlinks": [
+                "securecrt_64"
+            ]
         }
     },
     "security-medium": {
@@ -15922,6 +15928,7 @@
                 "kuser",
                 "system-config-users",
                 "system-switch-user",
+                "userdrake",
                 "xfsm-switch"
             ]
         }
