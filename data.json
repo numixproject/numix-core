@@ -8339,6 +8339,14 @@
             ]
         }
     },
+    "jamovi": {
+        "linux": {
+            "root": "jamovi",
+            "symlinks": [
+                "org.jamovi.jamovi"
+            ]
+        }
+    },
     "jamulus": {
         "linux": {
             "root": "jamulus"
