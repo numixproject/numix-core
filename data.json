@@ -6323,7 +6323,10 @@
     },
     "girl": {
         "linux": {
-            "root": "girl"
+            "root": "girl",
+            "symlinks": [
+                "gqrx"
+            ]
         }
     },
     "git-cola": {
