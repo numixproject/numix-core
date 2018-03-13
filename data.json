@@ -15649,6 +15649,14 @@
             "root": "truecrypt"
         }
     },
+    "tryton": {
+        "linux": {
+            "root": "tryton",
+            "symlinks": [
+                "tryton-icon"
+            ]
+        }
+    },
     "ts3client_linux_amd64": {
         "linux": {
             "root": "ts3client_linux_amd64",
