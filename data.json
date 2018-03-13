@@ -15224,6 +15224,14 @@
             ]
         }
     },
+    "teleport": {
+        "linux": {
+            "root": "teleport",
+            "symlinks": [
+                "com.frac_tion.teleport"
+            ]
+        }
+    },
     "temps": {
         "linux": {
             "root": "temps",
