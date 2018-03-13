@@ -13401,6 +13401,14 @@
             "root": "retroshare"
         }
     },
+    "revolt": {
+        "linux": {
+            "root": "revolt",
+            "symlinks": [
+                "org.perezdecastro.Revolt"
+            ]
+        }
+    },
     "rhythmbox": {
         "linux": {
             "root": "rhythmbox",
