@@ -696,7 +696,10 @@
     },
     "anki": {
         "linux": {
-            "root": "anki"
+            "root": "anki",
+            "symlinks": [
+                "net.ankiweb.Anki"
+            ]
         }
     },
     "anna-extended-edition": {
@@ -1279,6 +1282,7 @@
                 "notes",
                 "org.gnome.bijiben",
                 "org.gnome.Bijiben",
+                "org.zimwiki.Zim",
                 "semn",
                 "sticky-notes",
                 "xfce4-notes-plugin",
@@ -3450,7 +3454,10 @@
     },
     "copyq": {
         "linux": {
-            "root": "copyq"
+            "root": "copyq",
+            "symlinks": [
+                "com.github.hluk.copyq"
+            ]
         }
     },
     "corebird": {
@@ -5813,7 +5820,10 @@
     },
     "freeciv-client": {
         "linux": {
-            "root": "freeciv-client"
+            "root": "freeciv-client",
+            "symlinks": [
+                "org.freeciv.Freeciv"
+            ]
         }
     },
     "freeciv-server": {
@@ -5955,7 +5965,10 @@
     },
     "fs-uae": {
         "linux": {
-            "root": "fs-uae"
+            "root": "fs-uae",
+            "symlinks": [
+                "net.fsuae.FS-UAE"
+            ]
         }
     },
     "FTL": {
@@ -7439,7 +7452,9 @@
         "linux": {
             "root": "gstreamer",
             "symlinks": [
-                "gstreamer-properties"
+                "gst-debug-viewer",
+                "gstreamer-properties",
+                "org.freedesktop.GstDebugViewer"
             ]
         }
     },
@@ -10899,7 +10914,10 @@
     },
     "nootka": {
         "linux": {
-            "root": "nootka"
+            "root": "nootka",
+            "symlinks": [
+                "net.sf.nootka"
+            ]
         }
     },
     "notepadqq": {
@@ -11358,7 +11376,8 @@
         "linux": {
             "root": "openshot",
             "symlinks": [
-                "openshot-qt"
+                "openshot-qt",
+                "org.openshot.OpenShot"
             ]
         }
     },
@@ -11482,7 +11501,10 @@
     },
     "otter-browser": {
         "linux": {
-            "root": "otter-browser"
+            "root": "otter-browser",
+            "symlinks": [
+                "org.otter_browser.OtterBrowser"
+            ]
         }
     },
     "outlast": {
@@ -11859,7 +11881,10 @@
     },
     "photoqt": {
         "linux": {
-            "root": "photoqt"
+            "root": "photoqt",
+            "symlinks": [
+                "org.photoqt.PhotoQt"
+            ]
         }
     },
     "phototonic": {
@@ -14524,7 +14549,10 @@
     },
     "srain": {
         "linux": {
-            "root": "srain"
+            "root": "srain",
+            "symlinks": [
+                "im.srain.Srain"
+            ]
         }
     },
     "srtnr": {
@@ -15863,7 +15891,10 @@
     },
     "unity-editor-icon": {
         "linux": {
-            "root": "unity-editor-icon"
+            "root": "unity-editor-icon",
+            "symlinks": [
+                "com.unity.UnityEditor"
+            ]
         }
     },
     "unity-launcherswitcher": {
