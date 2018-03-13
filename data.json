@@ -429,6 +429,14 @@
             "root": "AdobeWidgetBrowser"
         }
     },
+    "adventure-editor": {
+        "linux": {
+            "root": "adventure-editor",
+            "symlinks": [
+                "com.bladecoder.adventure-editor"
+            ]
+        }
+    },
     "aegisub": {
         "linux": {
             "root": "aegisub"
