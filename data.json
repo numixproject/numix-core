@@ -5601,7 +5601,10 @@
     },
     "flare": {
         "linux": {
-            "root": "flare"
+            "root": "flare",
+            "symlinks": [
+                "org.flarerpg.Flare"
+            ]
         }
     },
     "flareget": {
@@ -6416,7 +6419,8 @@
         "linux": {
             "root": "glabels-3.0",
             "symlinks": [
-                "glabels"
+                "glabels",
+                "org.gnome.glabels-3"
             ]
         }
     },
