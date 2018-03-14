@@ -3283,7 +3283,10 @@
     },
     "clion": {
         "linux": {
-            "root": "clion"
+            "root": "clion",
+            "symlinks": [
+                "jetbrains-clion"
+            ]
         }
     },
     "clipgrab": {
@@ -3771,7 +3774,10 @@
     },
     "datagrip": {
         "linux": {
-            "root": "datagrip"
+            "root": "datagrip",
+            "symlinks": [
+                "jetbrains-datagrip"
+            ]
         }
     },
     "day-of-defeat": {
@@ -8094,7 +8100,9 @@
                 "intellij-idea-community",
                 "intellij-idea-ue-bundled-jre",
                 "intellij-idea-ultimate-edition",
-                "intellij_idea"
+                "intellij_idea",
+                "jetbrains-intellij",
+                "jetbrains-intellij-idea"
             ]
         }
     },
@@ -11955,6 +11963,7 @@
         "linux": {
             "root": "phpstorm",
             "symlinks": [
+                "jetbrains-phpstorm",
                 "webide"
             ]
         }
@@ -12709,7 +12718,9 @@
         "linux": {
             "root": "pycharm",
             "symlinks": [
-                "com.jetbrains.PyCharm-Community"
+                "com.jetbrains.PyCharm-Community",
+                "jetbrains-pycharm",
+                "jetbrains-pycharm-edu"
             ]
         }
     },
@@ -13543,7 +13554,10 @@
     },
     "rider": {
         "linux": {
-            "root": "rider"
+            "root": "rider",
+            "symlinks": [
+                "jetbrains-rider"
+            ]
         }
     },
     "rimworld": {
@@ -13681,7 +13695,10 @@
     },
     "rubymine": {
         "linux": {
-            "root": "rubymine"
+            "root": "rubymine",
+            "symlinks": [
+                "jetbrains-rubymine"
+            ]
         }
     },
     "rubyripper": {
@@ -16957,7 +16974,10 @@
     },
     "webstorm": {
         "linux": {
-            "root": "webstorm"
+            "root": "webstorm",
+            "symlinks": [
+                "jetbrains-webstorm"
+            ]
         }
     },
     "webtorrent-desktop": {
