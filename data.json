@@ -1284,6 +1284,7 @@
                 "notes",
                 "org.gnome.bijiben",
                 "org.gnome.Bijiben",
+                "org.zim_wiki.Zim",
                 "org.zimwiki.Zim",
                 "semn",
                 "sticky-notes",
@@ -5611,7 +5612,10 @@
     },
     "flare": {
         "linux": {
-            "root": "flare"
+            "root": "flare",
+            "symlinks": [
+                "org.flarerpg.Flare"
+            ]
         }
     },
     "flareget": {
@@ -5657,7 +5661,8 @@
                 "fgfs",
                 "fgo",
                 "fgrun",
-                "fgx"
+                "fgx",
+                "org.flightgear.FlightGear"
             ]
         }
     },
@@ -6425,7 +6430,8 @@
         "linux": {
             "root": "glabels-3.0",
             "symlinks": [
-                "glabels"
+                "glabels",
+                "org.gnome.glabels-3"
             ]
         }
     },
@@ -7291,7 +7297,10 @@
     },
     "gpodder": {
         "linux": {
-            "root": "gpodder"
+            "root": "gpodder",
+            "symlinks": [
+                "io.gpodder.gPodder"
+            ]
         }
     },
     "gprename": {
@@ -15572,7 +15581,10 @@
     },
     "tiled": {
         "linux": {
-            "root": "tiled"
+            "root": "tiled",
+            "symlinks": [
+                "org.mapeditor.Tiled"
+            ]
         }
     },
     "timeline": {
