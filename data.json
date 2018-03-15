@@ -11513,6 +11513,14 @@
             "root": "opsu"
         }
     },
+    "oracle": {
+        "linux": {
+            "root": "oracle",
+            "symlinks": [
+                "io.github.Cockatrice.oracle"
+            ]
+        }
+    },
     "oracle-sqldeveloper": {
         "linux": {
             "root": "oracle-sqldeveloper"
@@ -13992,6 +14000,14 @@
     "serious-sam-3-bfe": {
         "linux": {
             "root": "steam_icon_41070"
+        }
+    },
+    "servatrice": {
+        "linux": {
+            "root": "servatrice",
+            "symlinks": [
+                "io.github.Cockatrice.servatrice"
+            ]
         }
     },
     "session-properties": {
