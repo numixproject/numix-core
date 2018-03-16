@@ -6878,6 +6878,7 @@
         "linux": {
             "root": "gnome-twofactorauth",
             "symlinks": [
+                "com.github.bilelmoussaoui.Authenticator",
                 "org.gnome.Authenticator"
             ]
         }
@@ -8709,7 +8710,10 @@
     },
     "kdeconnect": {
         "linux": {
-            "root": "kdeconnect"
+            "root": "kdeconnect",
+            "symlinks": [
+                "org.kde.kdeconnect"
+            ]
         }
     },
     "kdenlive": {
