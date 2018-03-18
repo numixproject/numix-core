@@ -11399,7 +11399,10 @@
     },
     "openclonk": {
         "linux": {
-            "root": "openclonk"
+            "root": "openclonk",
+            "symlinks": [
+                "org.openclonk.OpenClonk"
+            ]
         }
     },
     "opencpn": {
