@@ -11486,7 +11486,10 @@
     },
     "openttd": {
         "linux": {
-            "root": "openttd"
+            "root": "openttd",
+            "symlinks": [
+                "org.openttd.openttd"
+            ]
         }
     },
     "opentyrian": {
