@@ -2935,7 +2935,8 @@
         "linux": {
             "root": "chrome-efdcneeepllhjlbejkfnaolelbpdacai-Default",
             "symlinks": [
-                "fmit"
+                "fmit",
+                "io.github.gillesdegottex.FMIT"
             ]
         }
     },
@@ -3997,6 +3998,7 @@
         "linux": {
             "root": "devhelp",
             "symlinks": [
+                "io.github.jkozera.ZevDocs"
                 "org.gnome.Devhelp"
             ]
         }
