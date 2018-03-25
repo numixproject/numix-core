@@ -16322,7 +16322,10 @@
     },
     "vidcutter": {
         "linux": {
-            "root": "vidcutter"
+            "root": "vidcutter",
+            "symlinks": [
+                "com.ozmartians.VidCutter"
+            ]
         }
     },
     "view3dscene": {
