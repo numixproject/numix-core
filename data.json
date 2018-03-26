@@ -2935,7 +2935,8 @@
         "linux": {
             "root": "chrome-efdcneeepllhjlbejkfnaolelbpdacai-Default",
             "symlinks": [
-                "fmit"
+                "fmit",
+                "io.github.gillesdegottex.FMIT"
             ]
         }
     },
@@ -3997,6 +3998,7 @@
         "linux": {
             "root": "devhelp",
             "symlinks": [
+                "io.github.jkozera.ZevDocs",
                 "org.gnome.Devhelp"
             ]
         }
@@ -6878,6 +6880,7 @@
         "linux": {
             "root": "gnome-twofactorauth",
             "symlinks": [
+                "com.github.bilelmoussaoui.Authenticator",
                 "org.gnome.Authenticator"
             ]
         }
@@ -8710,7 +8713,10 @@
     },
     "kdeconnect": {
         "linux": {
-            "root": "kdeconnect"
+            "root": "kdeconnect",
+            "symlinks": [
+                "org.kde.kdeconnect"
+            ]
         }
     },
     "kdenlive": {
@@ -11396,7 +11402,10 @@
     },
     "openclonk": {
         "linux": {
-            "root": "openclonk"
+            "root": "openclonk",
+            "symlinks": [
+                "org.openclonk.OpenClonk"
+            ]
         }
     },
     "opencpn": {
@@ -11480,7 +11489,10 @@
     },
     "openttd": {
         "linux": {
-            "root": "openttd"
+            "root": "openttd",
+            "symlinks": [
+                "org.openttd.openttd"
+            ]
         }
     },
     "opentyrian": {
@@ -13504,6 +13516,7 @@
                 "gnome-remote-desktop",
                 "krdc",
                 "krfb",
+                "org.remmina.Remmina",
                 "preferences-desktop-remote-desktop",
                 "preferences-remote-desktop",
                 "remmina",
@@ -16310,7 +16323,10 @@
     },
     "vidcutter": {
         "linux": {
-            "root": "vidcutter"
+            "root": "vidcutter",
+            "symlinks": [
+                "com.ozmartians.VidCutter"
+            ]
         }
     },
     "view3dscene": {
