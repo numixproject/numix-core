@@ -3521,6 +3521,7 @@
         "linux": {
             "root": "cpuinfo",
             "symlinks": [
+                "cpu-x",
                 "pcb"
             ]
         }
