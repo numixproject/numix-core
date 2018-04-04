@@ -6711,7 +6711,10 @@
     },
     "gnome-music": {
         "linux": {
-            "root": "gnome-music"
+            "root": "gnome-music",
+            "symlinks": [
+                "org.gnome.Music"
+            ]
         }
     },
     "gnome-news": {
