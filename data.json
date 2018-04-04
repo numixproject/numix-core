@@ -5740,10 +5740,8 @@
                 "font-manager",
                 "font-viewer",
                 "gnome-character-map",
-                "gnome-characters",
                 "gnome-settings-font",
                 "kfontview",
-                "org.gnome.Characters",
                 "preferences-desktop-font"
             ]
         }
@@ -6586,6 +6584,14 @@
             "root": "gnome-boxes",
             "symlinks": [
                 "boxes"
+            ]
+        }
+    },
+    "gnome-characters": {
+        "linux": {
+            "root": "gnome-characters",
+            "symlinks": [
+                "org.gnome.Characters"
             ]
         }
     },
