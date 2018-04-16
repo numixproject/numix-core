@@ -4996,7 +4996,10 @@
     },
     "elisa": {
         "linux": {
-            "root": "elisa"
+            "root": "elisa",
+            "symlinks": [
+                "org.kde.elisa"
+            ]
         }
     },
     "elki-icon": {
@@ -9236,7 +9239,10 @@
     },
     "ktuberling": {
         "linux": {
-            "root": "ktuberling"
+            "root": "ktuberling",
+            "symlinks": [
+                "org.kde.ktuberling"
+            ]
         }
     },
     "kturtle": {
@@ -13298,7 +13304,10 @@
     },
     "qutebrowser": {
         "linux": {
-            "root": "qutebrowser"
+            "root": "qutebrowser",
+            "symlinks": [
+                "org.qutebrowser.qutebrowser"
+            ]
         }
     },
     "qutim": {
@@ -15965,7 +15974,10 @@
     },
     "typecatcher": {
         "linux": {
-            "root": "typecatcher"
+            "root": "typecatcher",
+            "symlinks": [
+                "io.github.mmstick.FontFinder"
+            ]
         }
     },
     "typora": {
