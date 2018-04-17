@@ -7950,7 +7950,10 @@
     },
     "hmtimer": {
         "linux": {
-            "root": "hmtimer"
+            "root": "hmtimer",
+            "symlinks": [
+                "io.github.cges30901.hmtimer"
+            ]
         }
     },
     "hocus": {
