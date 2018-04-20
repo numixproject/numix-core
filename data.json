@@ -13531,11 +13531,17 @@
         }
     },
     "reigns": {
+        "android": [
+            "com.devolver.reigns/com.unity3d.player.UnityPlayerActivity"
+        ],
         "linux": {
             "root": "steam_icon_474750"
         }
     },
     "reigns-her-majesty": {
+        "android": [
+            "com.devolver.reigns2"
+        ],
         "linux": {
             "root": "steam_icon_717640"
         }
