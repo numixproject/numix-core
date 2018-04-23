@@ -17660,6 +17660,9 @@
         }
     },
     "web-browser": {
+        "android": [
+            "com.sec.android.app.sbrowser/com.sec.android.app.sbrowser.SBrowserMainActivity"
+        ],
         "linux": {
             "root": "web-browser",
             "symlinks": [
