@@ -15958,6 +15958,9 @@
         }
     },
     "syncthing-gtk": {
+        "android": [
+            "com.nutomic.syncthingandroid/com.nutomic.syncthingandroid.activities.FirstStartActivity"
+        ],
         "linux": {
             "root": "syncthing-gtk"
         }
