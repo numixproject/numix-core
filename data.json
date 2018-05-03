@@ -6161,7 +6161,10 @@
     },
     "gcompris": {
         "linux": {
-            "root": "gcompris"
+            "root": "gcompris",
+            "symlinks": [
+                "org.kde.gcompris"
+            ]
         }
     },
     "gconf-editor": {
@@ -11243,7 +11246,10 @@
     },
     "okular": {
         "linux": {
-            "root": "okular"
+            "root": "okular",
+            "symlinks": [
+                "org.kde.okular"
+            ]
         }
     },
     "omegat": {
@@ -12811,7 +12817,10 @@
             "symlinks": [
                 "com.jetbrains.PyCharm-Community",
                 "jetbrains-pycharm",
-                "jetbrains-pycharm-edu"
+                "jetbrains-pycharm-edu",
+                "pycharm-community",
+                "pycharm-education",
+                "pycharm-professional"
             ]
         }
     },
@@ -13968,6 +13977,7 @@
         "linux": {
             "root": "scribus",
             "symlinks": [
+                "net.scribus.Scribus",
                 "scribus-ng"
             ]
         }
@@ -14958,7 +14968,10 @@
     },
     "stuntrally": {
         "linux": {
-            "root": "stuntrally"
+            "root": "stuntrally",
+            "symlinks": [
+                "org.tuxfamily.StuntRally"
+            ]
         }
     },
     "subdownloader": {
