@@ -10755,9 +10755,12 @@
             ]
         }
     },
-    "natronIcon256_linux": {
+    "natron": {
         "linux": {
-            "root": "natronIcon256_linux"
+            "root": "natron",
+            "symlinks": [
+                "fr.natron.Natron",
+                "natronIcon256_linux"
         }
     },
     "natural-selection-2": {
