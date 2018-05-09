@@ -6161,7 +6161,10 @@
     },
     "gcompris": {
         "linux": {
-            "root": "gcompris"
+            "root": "gcompris",
+            "symlinks": [
+                "org.kde.gcompris"
+            ]
         }
     },
     "gconf-editor": {
@@ -10753,9 +10756,13 @@
             ]
         }
     },
-    "natronIcon256_linux": {
+    "natron": {
         "linux": {
-            "root": "natronIcon256_linux"
+            "root": "natron",
+            "symlinks": [
+                "fr.natron.Natron",
+                "natronIcon256_linux"
+            ]
         }
     },
     "natural-selection-2": {
@@ -11244,7 +11251,10 @@
     },
     "okular": {
         "linux": {
-            "root": "okular"
+            "root": "okular",
+            "symlinks": [
+                "org.kde.okular"
+            ]
         }
     },
     "omegat": {
@@ -12812,7 +12822,10 @@
             "symlinks": [
                 "com.jetbrains.PyCharm-Community",
                 "jetbrains-pycharm",
-                "jetbrains-pycharm-edu"
+                "jetbrains-pycharm-edu",
+                "pycharm-community",
+                "pycharm-education",
+                "pycharm-professional"
             ]
         }
     },
@@ -13969,6 +13982,7 @@
         "linux": {
             "root": "scribus",
             "symlinks": [
+                "net.scribus.Scribus",
                 "scribus-ng"
             ]
         }
@@ -14959,7 +14973,10 @@
     },
     "stuntrally": {
         "linux": {
-            "root": "stuntrally"
+            "root": "stuntrally",
+            "symlinks": [
+                "org.tuxfamily.StuntRally"
+            ]
         }
     },
     "subdownloader": {
