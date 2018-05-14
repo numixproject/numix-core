@@ -5653,6 +5653,14 @@
             ]
         }
     },
+    "flatpak": {
+        "linux": {
+            "root": "flatpak",
+            "symlinks": [
+                "org.flatpak.demo"
+            ]
+        }
+    },
     "flaw": {
         "linux": {
             "root": "flaw"
