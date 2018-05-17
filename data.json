@@ -3276,7 +3276,8 @@
             "symlinks": [
                 "claws-mail-128x128",
                 "claws-mail-32x32",
-                "claws-mail-64x64"
+                "claws-mail-64x64",
+                "org.clawsmail.Claws"
             ]
         }
     },
@@ -4980,7 +4981,8 @@
         "linux": {
             "root": "electron",
             "symlinks": [
-                "io.atom.electron.BaseApp"
+                "io.atom.electron.BaseApp",
+                "org.electronjs.Electron2.BaseApp"
             ]
         }
     },
@@ -5023,7 +5025,8 @@
                 "emacs23",
                 "emacs24",
                 "emacs25",
-                "gnome-emacs"
+                "gnome-emacs",
+                "org.gnu.emacs"
             ]
         }
     },
@@ -8521,7 +8524,8 @@
         "linux": {
             "root": "jdownloader",
             "symlinks": [
-                "jdownloader-beta"
+                "jdownloader-beta",
+                "org.jdownloader.JDownloader"
             ]
         }
     },
@@ -11906,7 +11910,11 @@
     },
     "pdfshuffler": {
         "linux": {
-            "root": "pdfshuffler"
+            "root": "pdfshuffler",
+            "symlinks": [
+                "com.github.junrrein.PDFSlicer",
+                "pdfslicer"
+            ]
         }
     },
     "peazip": {
@@ -13225,6 +13233,7 @@
         "linux": {
             "root": "qtox",
             "symlinks": [
+                "chat.tox.qTox",
                 "qTox"
             ]
         }
@@ -13635,7 +13644,10 @@
     },
     "retext": {
         "linux": {
-            "root": "retext"
+            "root": "retext",
+            "symlinks": [
+                "me.mitya57.ReText"
+            ]
         }
     },
     "retroarch": {
@@ -15007,7 +15019,11 @@
     },
     "sublime-text-3": {
         "linux": {
-            "root": "sublime-text-3"
+            "root": "sublime-text-3",
+            "symlinks": [
+                "com.sublimetext.SublimeText3",
+                "com.sublimetext.three"
+            ]
         }
     },
     "subsurface-icon": {
@@ -16058,6 +16074,7 @@
         "linux": {
             "root": "uberwriter",
             "symlinks": [
+                "de.wolfvollprecht.UberWriter",
                 "Uberwriter"
             ]
         }
@@ -16493,12 +16510,18 @@
     },
     "virt-manager": {
         "linux": {
-            "root": "virt-manager"
+            "root": "virt-manager",
+            "symlinks": [
+                "org.virt_manager.virt-manager"
+            ]
         }
     },
     "virt-viewer": {
         "linux": {
-            "root": "virt-viewer"
+            "root": "virt-viewer",
+            "symlinks": [
+                "org.virt_manager.virt-viewer"
+            ]
         }
     },
     "virtual-engineering": {
@@ -17694,7 +17717,10 @@
     },
     "xournal": {
         "linux": {
-            "root": "xournal"
+            "root": "xournal",
+            "symlinks": [
+                "net.sourceforge.xournal"
+            ]
         }
     },
     "xsensors": {
