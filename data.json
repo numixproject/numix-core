@@ -13355,7 +13355,10 @@
     },
     "quodlibet": {
         "linux": {
-            "root": "quodlibet"
+            "root": "quodlibet",
+            "symlinks": [
+                "io.github.quodlibet.QuodLibet"
+            ]
         }
     },
     "qupzilla": {
@@ -15552,7 +15555,10 @@
     },
     "texstudio": {
         "linux": {
-            "root": "texstudio"
+            "root": "texstudio",
+            "symlinks": [
+                "org.texstudio.TeXstudio"
+            ]
         }
     },
     "text-editor": {
@@ -17226,7 +17232,10 @@
     },
     "widelands": {
         "linux": {
-            "root": "widelands"
+            "root": "widelands",
+            "symlinks": [
+                "org.widelands.widelands"
+            ]
         }
     },
     "widemargin": {
