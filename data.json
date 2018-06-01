@@ -1325,6 +1325,15 @@
             "root": "bcloud"
         }
     },
+    "beaker": {
+        "linux": {
+            "root": "beaker",
+            "symlinks": [
+                "Beaker",
+		"beaker-browser"
+            ]
+        }
+    },
     "beat-hazard": {
         "linux": {
             "root": "steam_icon_49600",
