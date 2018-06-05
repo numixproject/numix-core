@@ -1653,6 +1653,7 @@
         "linux": {
             "root": "brasero",
             "symlinks": [
+                "burner",
                 "disk-burner",
                 "k3b",
                 "media-cdrom",
@@ -10498,7 +10499,8 @@
         "linux": {
             "root": "mplayer",
             "symlinks": [
-                "kmplayer"
+                "kmplayer",
+                "kylin-video"
             ]
         }
     },
