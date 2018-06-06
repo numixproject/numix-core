@@ -7467,7 +7467,10 @@
     },
     "grisbi": {
         "linux": {
-            "root": "grisbi"
+            "root": "grisbi",
+            "symlinks": [
+                "eqonomize"
+            ]
         }
     },
     "gromit": {
