@@ -16048,6 +16048,14 @@
             "root": "turpial"
         }
     },
+    "tusk": {
+        "linux": {
+            "root": "tusk",
+            "symlinks": [
+                "tusk-app"
+            ]
+        }
+    },
     "tuxguitar": {
         "linux": {
             "root": "tuxguitar"
