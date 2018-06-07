@@ -15187,7 +15187,10 @@
     },
     "sv-icon": {
         "linux": {
-            "root": "sv-icon"
+            "root": "sv-icon",
+            "symlinks": [
+                "spectrum3d"
+            ]
         }
     },
     "svgcleaner": {
