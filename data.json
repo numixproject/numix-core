@@ -1181,6 +1181,7 @@
             "symlinks": [
                 "application-vidiot",
                 "avidemux_icon",
+                "org.avidemux.Avidemux",
                 "org.pitivi.Pitivi",
                 "pitivi",
                 "vidiot"
@@ -6477,7 +6478,8 @@
         "linux": {
             "root": "Gitter",
             "symlinks": [
-                "gitter"
+                "gitter",
+                "im.gitter.Gitter"
             ]
         }
     },
@@ -9889,6 +9891,7 @@
                 "gnome-system-log",
                 "logviewer",
                 "mate-system-log",
+                "org.gnome.Logs",
                 "system-utilities-logviewer",
                 "utilities-log-viewer"
             ]
@@ -13438,7 +13441,10 @@
     },
     "quodlibet": {
         "linux": {
-            "root": "quodlibet"
+            "root": "quodlibet",
+            "symlinks": [
+                "io.github.quodlibet.QuodLibet"
+            ]
         }
     },
     "qupzilla": {
@@ -15643,7 +15649,10 @@
     },
     "texstudio": {
         "linux": {
-            "root": "texstudio"
+            "root": "texstudio",
+            "symlinks": [
+                "org.texstudio.TeXstudio"
+            ]
         }
     },
     "text-editor": {
@@ -17326,7 +17335,10 @@
     },
     "widelands": {
         "linux": {
-            "root": "widelands"
+            "root": "widelands",
+            "symlinks": [
+                "org.widelands.widelands"
+            ]
         }
     },
     "widemargin": {
