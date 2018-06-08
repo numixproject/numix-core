@@ -3732,7 +3732,10 @@
     },
     "cutter": {
         "linux": {
-            "root": "cutter"
+            "root": "cutter",
+            "symlinks": [
+                "org.radare.Cutter"
+            ]
         }
     },
     "cxmenu-cxoffice-0-crossover": {
