@@ -6084,7 +6084,10 @@
     },
     "fuse-emulator": {
         "linux": {
-            "root": "fuse-emulator"
+            "root": "fuse-emulator",
+            "symlinks": [
+                "net.sf.fuse_emulator"
+            ]
         }
     },
     "fusion-icon": {
