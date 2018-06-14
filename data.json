@@ -1635,7 +1635,10 @@
     },
     "brackets": {
         "linux": {
-            "root": "brackets"
+            "root": "brackets",
+            "symlinks": [
+                "io.brackets.Brackets"
+            ]
         }
     },
     "brackets-electron": {
@@ -6082,7 +6085,10 @@
     },
     "fuse-emulator": {
         "linux": {
-            "root": "fuse-emulator"
+            "root": "fuse-emulator",
+            "symlinks": [
+                "net.sf.fuse_emulator"
+            ]
         }
     },
     "fusion-icon": {
@@ -7403,7 +7409,8 @@
         "linux": {
             "root": "gpredict",
             "symlinks": [
-                "gpredict-icon"
+                "gpredict-icon",
+                "net.oz9aec.Gpredict"
             ]
         }
     },
@@ -13653,7 +13660,10 @@
     },
     "redeclipse": {
         "linux": {
-            "root": "redeclipse"
+            "root": "redeclipse",
+            "symlinks": [
+                "net.redeclipse.RedEclipse"
+            ]
         }
     },
     "reditr": {
@@ -14003,7 +14013,10 @@
     },
     "sauerbraten": {
         "linux": {
-            "root": "sauerbraten"
+            "root": "sauerbraten",
+            "symlinks": [
+                "org.sauerbraten.Sauerbraten"
+            ]
         }
     },
     "sayonara": {
@@ -14134,7 +14147,10 @@
     },
     "scummvm": {
         "linux": {
-            "root": "scummvm"
+            "root": "scummvm",
+            "symlinks": [
+                "org.scummvm.ScummVM"
+            ]
         }
     },
     "scuolabook": {
