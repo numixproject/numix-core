@@ -1300,7 +1300,7 @@
                 "notes",
                 "org.gnome.bijiben",
                 "org.gnome.Bijiben",
-                "org.kdeknotes",
+                "org.kde.knotes",
                 "org.zim_wiki.Zim",
                 "org.zimwiki.Zim",
                 "semn",
@@ -2744,7 +2744,7 @@
             "root": "calligraplan",
             "symlinks": [
                 "calligraplanwork",
-                "kplato"
+                "kplato",
                 "org.kde.calligraplan"
             ]
         }
@@ -6529,7 +6529,7 @@
         "linux": {
             "root": "gitkraken",
             "symlinks": [
-                "com.axosoft.GitKraken "
+                "com.axosoft.GitKraken"
             ]
         }
     },
@@ -9540,7 +9540,10 @@
     },
     "ktorrent": {
         "linux": {
-            "root": "ktorrent"
+            "root": "ktorrent",
+            "symlinks": [
+                "org.kde.ktorrent"
+            ]
         }
     },
     "ktuberling": {
@@ -10889,7 +10892,7 @@
             "root": "multimedia-audio-player",
             "symlinks": [
                 "beatbox",
-                "noise"
+                "noise",
                 "org.pantheon.noise"
             ]
         }
