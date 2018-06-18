@@ -4939,6 +4939,14 @@
             "root": "easyrpg"
         }
     },
+    "easyssh": {
+        "linux": {
+            "root": "easyssh",
+            "symlinks": [
+                "com.github.muriloventuroso.easyssh"
+            ]
+        }
+    },
     "easystroke": {
         "linux": {
             "root": "easystroke"
