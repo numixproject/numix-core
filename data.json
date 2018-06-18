@@ -527,6 +527,14 @@
             "root": "almanah"
         }
     },
+    "almond": {
+        "linux": {
+            "root": "almond",
+            "symlinks": [
+                "edu.stanford.Almond"
+            ]
+        }
+    },
     "AlphaPlot": {
         "linux": {
             "root": "AlphaPlot",
