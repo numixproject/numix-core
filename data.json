@@ -11035,7 +11035,10 @@
     },
     "netron": {
         "linux": {
-            "root": "netron"
+            "root": "netron",
+            "symlinks": [
+                "ktikz"
+            ]
         }
     },
     "network-workgroup": {
