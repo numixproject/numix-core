@@ -10161,7 +10161,10 @@
     },
     "masterpassword-gui": {
         "linux": {
-            "root": "masterpassword-gui"
+            "root": "masterpassword-gui",
+            "symlinks": [
+                "qmasterpassword"
+            ]
         }
     },
     "mat": {
