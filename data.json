@@ -7654,7 +7654,11 @@
     },
     "gscan2pdf": {
         "linux": {
-            "root": "gscan2pdf"
+            "root": "gscan2pdf",
+            "symlinks": [
+                "com.github.unrud.djpdf",
+                "scans2pdf"
+            ]
         }
     },
     "gsmartcontrol": {
