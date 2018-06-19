@@ -17251,7 +17251,10 @@
     },
     "waveform": {
         "linux": {
-            "root": "steam_icon_204180"
+            "root": "steam_icon_204180",
+            "symlinks": [
+                "freedv"
+            ]
         }
     },
     "wayland": {
