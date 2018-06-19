@@ -1017,7 +1017,10 @@
     },
     "aseprite": {
         "linux": {
-            "root": "aseprite"
+            "root": "aseprite",
+            "symlinks": [
+                "libresprite"
+            ]
         }
     },
     "assaultcube": {
