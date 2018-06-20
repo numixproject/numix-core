@@ -7596,6 +7596,11 @@
             "root": "guilogon"
         }
     },
+    "guitarix": {
+        "linux": {
+            "root": "gx_head"
+        }
+    },
     "guitarpro6": {
         "linux": {
             "root": "guitarpro6"
@@ -7604,11 +7609,6 @@
     "guitarrig5": {
         "linux": {
             "root": "guitarrig5"
-        }
-    },
-    "guitarix": {
-        "linux": {
-            "root": "gx_head"
         }
     },
     "gummi": {
@@ -15969,19 +15969,19 @@
             ]
         }
     },
-    "ticket-to-ride": {
-        "linux": {
-            "root": "TicketToRide",
-            "symlinks": [
-                "steam_icon_108200"
-            ]
-        }
-    },
     "tic-tac-toe": {
         "linux": {
             "root": "tictactoe",
             "symlinks": [
                 "tictactoe-wood"
+            ]
+        }
+    },
+    "ticket-to-ride": {
+        "linux": {
+            "root": "TicketToRide",
+            "symlinks": [
+                "steam_icon_108200"
             ]
         }
     },
