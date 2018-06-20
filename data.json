@@ -16475,14 +16475,6 @@
             "root": "unity-tweak-tool"
         }
     },
-    "unity-webapps-linkedin": {
-        "linux": {
-            "root": "unity-webapps-linkedin",
-            "symlinks": [
-                "LinkedIn-linkedin.com"
-            ]
-        }
-    },
     "universalindentgui": {
         "linux": {
             "root": "universalindentgui"
@@ -17305,6 +17297,14 @@
     "web-line": {
         "linux": {
             "root": "chrome-menkifleemblimdogmoihpfopnplikde-Default"
+        }
+    },
+    "web-linkedin": {
+        "linux": {
+            "root": "unity-webapps-linkedin",
+            "symlinks": [
+                "LinkedIn-linkedin.com"
+            ]
         }
     },
     "web-mailru": {
