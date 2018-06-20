@@ -635,6 +635,15 @@
             "root": "anbox"
         }
     },
+    "and-yet-it-moves": {
+        "linux": {
+            "root": "AndYetItMoves",
+            "symlinks": [
+                "steam_icon_18700",
+                "steam_icon_18710"
+            ]
+        }
+    },
     "android-arc": {
         "linux": {
             "root": "android-arc",
@@ -659,15 +668,6 @@
             "symlinks": [
                 "androidstudio",
                 "com.google.AndroidStudio"
-            ]
-        }
-    },
-    "and-yet-it-moves": {
-        "linux": {
-            "root": "AndYetItMoves",
-            "symlinks": [
-                "steam_icon_18700",
-                "steam_icon_18710"
             ]
         }
     },
@@ -7194,11 +7194,6 @@
             "root": "gpg-crypter"
         }
     },
-    "gPicon": {
-        "linux": {
-            "root": "gPicon"
-        }
-    },
     "gpicview": {
         "linux": {
             "root": "gpicview",
@@ -7219,6 +7214,11 @@
     "gpk-prefs": {
         "linux": {
             "root": "gpk-prefs"
+        }
+    },
+    "gplanarity": {
+        "linux": {
+            "root": "gPicon"
         }
     },
     "gpodder": {
