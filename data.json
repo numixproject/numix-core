@@ -16659,21 +16659,6 @@
             "root": "vbam"
         }
     },
-    "Vbox": {
-        "linux": {
-            "root": "Vbox",
-            "symlinks": [
-                "multisystem-test-iso",
-                "multisystem-vbox",
-                "VBox",
-                "vbox",
-                "virtual-box",
-                "virtualbox",
-                "virtualbox-bin",
-                "virtualbox-ose"
-            ]
-        }
-    },
     "vcash": {
         "linux": {
             "root": "vcash",
@@ -16806,6 +16791,21 @@
     "virtual-engineering": {
         "linux": {
             "root": "virtual-engineering"
+        }
+    },
+    "virtualbox": {
+        "linux": {
+            "root": "virtualbox",
+            "symlinks": [
+                "multisystem-test-iso",
+                "multisystem-vbox",
+                "VBox",
+                "Vbox",
+                "vbox",
+                "virtual-box",
+                "virtualbox-bin",
+                "virtualbox-ose"
+            ]
         }
     },
     "virtualplanet": {
