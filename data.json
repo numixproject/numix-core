@@ -751,7 +751,7 @@
             "root": "anydo",
             "symlinks": [
                 "any_do",
-                "chrome-ocgddccilgpeepgglnlpchkpgamkgmld-Default",
+                "chrome-ocgddccilgpeepgglnlpchkpgamkgmld-Default"
                 "web-anydo"
             ]
         }
@@ -1650,6 +1650,11 @@
             "root": "steam_icon_261640"
         }
     },
+    "boson-x": {
+        "linux": {
+            "root": "steam_icon_302610"
+        }
+    },
     "boswars": {
         "linux": {
             "root": "boswars"
@@ -1732,6 +1737,11 @@
             "symlinks": [
                 "steam_icon_57640"
             ]
+        }
+    },
+    "broken-age": {
+        "linux": {
+            "root": "steam_icon_232790"
         }
     },
     "browser-tor": {
@@ -3550,11 +3560,7 @@
     },
     "crawl": {
         "linux": {
-            "root": "crawl",
-            "symlinks": [
-                "crawl-sdl_icon",
-                "org.develz.Crawl"
-            ]
+            "root": "steam_icon_293780"
         }
     },
     "crayon-physics-deluxe": {
@@ -3575,6 +3581,11 @@
                 "online-accounts",
                 "preferences-desktop-online-accounts"
             ]
+        }
+    },
+    "critter-chronicles": {
+        "linux": {
+            "root": "steam_icon_221830"
         }
     },
     "crossover": {
@@ -4860,6 +4871,15 @@
             "root": "dukto"
         }
     },
+    "dungeon-crawl": {
+        "linux": {
+            "root": "crawl",
+            "symlinks": [
+                "crawl-sdl_icon",
+                "org.develz.Crawl"
+            ]
+        }
+    },s
     "dungeons-of-dredmor": {
         "linux": {
             "root": "steam_icon_98800"
@@ -7726,6 +7746,11 @@
     "gtranslator": {
         "linux": {
             "root": "gtranslator"
+        }
+    },
+    "guacamelee": {
+        "linux": {
+            "root": "steam_icon_275390"
         }
     },
     "guacamelee-gold-edition": {
@@ -14049,7 +14074,12 @@
             "root": "ricin"
         }
     },
-    "ricochet": {
+    "ricochet-game": {
+        "linux": {
+            "root": "steam_icon_60"
+        }
+    },
+    "ricochet-im": {
         "linux": {
             "root": "ricochet"
         }
@@ -14143,6 +14173,11 @@
     "rocketchat": {
         "linux": {
             "root": "rocketchat"
+        }
+    },
+    "rocket-league": {
+        "linux": {
+            "root": "steam_icon_252950"
         }
     },
     "rocs": {
@@ -15279,41 +15314,6 @@
                 "steamos-logo-icon",
                 "steampowered"
             ]
-        }
-    },
-    "steam_icon_221830": {
-        "linux": {
-            "root": "steam_icon_221830"
-        }
-    },
-    "steam_icon_232790": {
-        "linux": {
-            "root": "steam_icon_232790"
-        }
-    },
-    "steam_icon_252950": {
-        "linux": {
-            "root": "steam_icon_252950"
-        }
-    },
-    "steam_icon_275390": {
-        "linux": {
-            "root": "steam_icon_275390"
-        }
-    },
-    "steam_icon_293780": {
-        "linux": {
-            "root": "steam_icon_293780"
-        }
-    },
-    "steam_icon_302610": {
-        "linux": {
-            "root": "steam_icon_302610"
-        }
-    },
-    "steam_icon_60": {
-        "linux": {
-            "root": "steam_icon_60"
         }
     },
     "steamskinmanager": {
