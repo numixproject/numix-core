@@ -3510,6 +3510,14 @@
             ]
         }
     },
+    "cut-the-rope": {
+        "linux": {
+            "root": "steam_icon_223280",
+            "symlinks": [
+                "chrome-jfbadlndcminbkfojhlimnkgaackjmdo-Default"
+            ]
+        }
+    },
     "cutecom": {
         "linux": {
             "root": "cutecom"
@@ -3535,14 +3543,6 @@
             "root": "cutter",
             "symlinks": [
                 "org.radare.Cutter"
-            ]
-        }
-    },
-    "cut-the-rope": {
-        "linux": {
-            "root": "steam_icon_223280",
-            "symlinks": [
-                "chrome-jfbadlndcminbkfojhlimnkgaackjmdo-Default"
             ]
         }
     },
