@@ -24,22 +24,12 @@
             "root": "2gis"
         }
     },
-    "3Depict": {
-        "linux": {
-            "root": "3Depict"
-        }
-    },
-    "4chan.org": {
-        "linux": {
-            "root": "4chan.org"
-        }
-    },
     "4kvideodownloader": {
         "linux": {
             "root": "4kvideodownloader"
         }
     },
-    "4Pane": {
+    "4pane": {
         "linux": {
             "root": "4Pane",
             "symlinks": [
@@ -342,12 +332,12 @@
             "root": "administration"
         }
     },
-    "AdobeAfterEffect": {
+    "adobe-after-effect": {
         "linux": {
             "root": "AdobeAfterEffect"
         }
     },
-    "AdobeAIR": {
+    "adobe-air": {
         "linux": {
             "root": "AdobeAIR",
             "symlinks": [
@@ -356,22 +346,22 @@
             ]
         }
     },
-    "AdobeAudition": {
+    "adobe-audition": {
         "linux": {
             "root": "AdobeAudition"
         }
     },
-    "AdobeBridge": {
+    "adobe-bridge": {
         "linux": {
             "root": "AdobeBridge"
         }
     },
-    "AdobeDreamweaver": {
+    "adobe-dreamweaver": {
         "linux": {
             "root": "AdobeDreamweaver"
         }
     },
-    "AdobeEncore": {
+    "adobe-encore": {
         "linux": {
             "root": "AdobeEncore",
             "symlinks": [
@@ -379,57 +369,57 @@
             ]
         }
     },
-    "AdobeFirework": {
+    "adobe-firework": {
         "linux": {
             "root": "AdobeFirework"
         }
     },
-    "AdobeFlashBuilder": {
+    "adobe-flash-builder": {
         "linux": {
             "root": "AdobeFlashBuilder"
         }
     },
-    "Adobeillustrator": {
+    "adobe-illustrator": {
         "linux": {
-            "root": "Adobeillustrator"
+            "root": "AdobeIllustrator"
         }
     },
-    "AdobeIndesign": {
+    "adobe-indesign": {
         "linux": {
             "root": "AdobeIndesign"
         }
     },
-    "AdobeLightroom": {
+    "adobe-lightroom": {
         "linux": {
             "root": "AdobeLightroom"
         }
     },
-    "AdobePhotoshop": {
+    "adobe-photoshop": {
         "linux": {
             "root": "AdobePhotoshop"
         }
     },
-    "AdobePrelude": {
+    "adobe-prelude": {
         "linux": {
             "root": "AdobePrelude"
         }
     },
-    "AdobePremierePro": {
+    "adobe-premiere-pro": {
         "linux": {
             "root": "AdobePremierePro"
         }
     },
-    "AdobeSpeedgrade": {
+    "adobe-speedgrade": {
         "linux": {
             "root": "AdobeSpeedgrade"
         }
     },
-    "AdobeUpdate": {
+    "adobe-update": {
         "linux": {
             "root": "AdobeUpdate"
         }
     },
-    "AdobeWidgetBrowser": {
+    "adobe-widget-browser": {
         "linux": {
             "root": "AdobeWidgetBrowser"
         }
@@ -475,7 +465,7 @@
             "root": "chrome-hkgndiocipalkpejnpafdbdlfdjihomd-Default"
         }
     },
-    "AirPortUtility": {
+    "airport-utility": {
         "linux": {
             "root": "AirPortUtility"
         }
@@ -517,14 +507,6 @@
             ]
         }
     },
-    "allen-b1.news": {
-        "linux": {
-            "root": "allen-b1.news",
-            "symlinks": [
-                "com.github.allen-b1.news"
-            ]
-        }
-    },
     "alleyoop": {
         "linux": {
             "root": "alleyoop"
@@ -543,11 +525,11 @@
             ]
         }
     },
-    "AlphaPlot": {
+    "alphaplot": {
         "linux": {
-            "root": "AlphaPlot",
+            "root": "alphaplot",
             "symlinks": [
-                "alphaplot"
+                "AlphaPlot"
             ]
         }
     },
@@ -671,16 +653,16 @@
             "root": "android-sdk"
         }
     },
-    "androidstudio": {
+    "android-studio": {
         "linux": {
-            "root": "androidstudio",
+            "root": "android-studio",
             "symlinks": [
-                "android-studio",
+                "androidstudio",
                 "com.google.AndroidStudio"
             ]
         }
     },
-    "AndYetItMoves": {
+    "and-yet-it-moves": {
         "linux": {
             "root": "AndYetItMoves",
             "symlinks": [
@@ -977,7 +959,7 @@
             "root": "arronax"
         }
     },
-    "arteFetcher": {
+    "arte-fetcher": {
         "linux": {
             "root": "arteFetcher",
             "symlinks": [
@@ -1105,7 +1087,7 @@
             "root": "atom-beta"
         }
     },
-    "AtomicGameEngine": {
+    "atomic-game-engine": {
         "linux": {
             "root": "AtomicGameEngine",
             "symlinks": [
@@ -1228,7 +1210,7 @@
             ]
         }
     },
-    "Awesomenauts": {
+    "awesomenauts": {
         "linux": {
             "root": "Awesomenauts",
             "symlinks": [
@@ -1254,7 +1236,7 @@
             "root": "awn-applet-digital-clock"
         }
     },
-    "Azureus": {
+    "azureus": {
         "linux": {
             "root": "Azureus"
         }
@@ -1339,11 +1321,6 @@
     "bat": {
         "linux": {
             "root": "bat"
-        }
-    },
-    "Battle.net": {
-        "linux": {
-            "root": "Battle.net"
         }
     },
     "battleblock-theater": {
@@ -1459,7 +1436,7 @@
             "root": "blam"
         }
     },
-    "BlankUp": {
+    "blank-up": {
         "linux": {
             "root": "BlankUp"
         }
@@ -1487,6 +1464,11 @@
             "symlinks": [
                 "org.kde.blinken"
             ]
+        }
+    },
+    "blizzard-battle-net": {
+        "linux": {
+            "root": "Battle.net"
         }
     },
     "blogger": {
@@ -1731,7 +1713,7 @@
             "root": "steam_icon_232790"
         }
     },
-    "BrokenSword": {
+    "broken-sword": {
         "linux": {
             "root": "BrokenSword",
             "symlinks": [
@@ -2874,7 +2856,7 @@
             "root": "cerebro"
         }
     },
-    "Charm": {
+    "charm": {
         "linux": {
             "root": "Charm"
         }
@@ -3059,7 +3041,7 @@
             ]
         }
     },
-    "Civ-V": {
+    "civ-v": {
         "linux": {
             "root": "Civ-V"
         }
@@ -3606,19 +3588,13 @@
             ]
         }
     },
-    "Darwinia": {
-        "linux": {
-            "root": "Darwinia"
-        }
-    },
     "darwinia": {
         "linux": {
-            "root": "steam_icon_1500"
-        }
-    },
-    "dassault-systemes.draftsight": {
-        "linux": {
-            "root": "dassault-systemes.draftsight"
+            "root": "darwinia",
+            "symlinks": [
+                "Darwinia",
+                "steam_icon_1500"
+            ]
         }
     },
     "datagrip": {
@@ -3642,14 +3618,6 @@
             "root": "dbeaver"
         }
     },
-    "DC++": {
-        "linux": {
-            "root": "DC++",
-            "symlinks": [
-                "dc++"
-            ]
-        }
-    },
     "dconf-editor": {
         "linux": {
             "root": "dconf-editor",
@@ -3657,6 +3625,15 @@
                 "ca.desrt.dconf-editor",
                 "configurator",
                 "org.gnome.dconf-editor"
+            ]
+        }
+    },
+    "dcplusplus": {
+        "linux": {
+            "root": "dcplusplus",
+            "symlinks": [
+                "dc++",
+                "DC++"
             ]
         }
     },
@@ -3815,11 +3792,6 @@
                 "xfce4-panel-menu",
                 "xfce4_xicon"
             ]
-        }
-    },
-    "DeSmuME": {
-        "linux": {
-            "root": "DeSmuME"
         }
     },
     "desura": {
@@ -4485,7 +4457,7 @@
             "root": "djvulibre-djview4"
         }
     },
-    "DNSCryptClient": {
+    "dns-crypt-client": {
         "linux": {
             "root": "DNSCryptClient"
         }
@@ -4590,6 +4562,11 @@
     "doublecmd": {
         "linux": {
             "root": "doublecmd"
+        }
+    },
+    "draftsight": {
+        "linux": {
+            "root": "dassault-systemes.draftsight"
         }
     },
     "dragonplayer": {
@@ -4935,7 +4912,7 @@
             "root": "steam_icon_10500"
         }
     },
-    "Encryptr": {
+    "encryptr": {
         "linux": {
             "root": "Encryptr"
         }
@@ -5022,7 +4999,7 @@
             "root": "eric"
         }
     },
-    "ericWeb": {
+    "eric-web": {
         "linux": {
             "root": "ericWeb"
         }
@@ -5033,11 +5010,6 @@
             "symlinks": [
                 "kmouth"
             ]
-        }
-    },
-    "ET": {
-        "linux": {
-            "root": "ET"
         }
     },
     "etcher": {
@@ -5246,15 +5218,6 @@
             ]
         }
     },
-    "feedreader": {
-        "linux": {
-            "root": "feedreader",
-            "symlinks": [
-                "org.gnome.feedreader",
-                "org.gnome.FeedReader"
-            ]
-        }
-    },
     "feh": {
         "linux": {
             "root": "feh"
@@ -5375,7 +5338,7 @@
             "root": "final-term"
         }
     },
-    "Finder_w": {
+    "finder": {
         "linux": {
             "root": "Finder_w"
         }
@@ -5679,16 +5642,16 @@
             "root": "steam_icon_249990"
         }
     },
-    "ForgedAllianceForever": {
+    "forged-alliance-forever": {
         "linux": {
             "root": "ForgedAllianceForever"
         }
     },
-    "Foto": {
+    "foto": {
         "linux": {
-            "root": "Foto",
+            "root": "foto",
             "symlinks": [
-                "foto",
+                "Foto",
                 "fotoxx"
             ]
         }
@@ -5921,7 +5884,7 @@
             ]
         }
     },
-    "FTL": {
+    "ftl": {
         "linux": {
             "root": "FTL",
             "symlinks": [
@@ -5973,7 +5936,7 @@
             "root": "steam_icon_239820"
         }
     },
-    "GammaRay": {
+    "gamma-ray": {
         "linux": {
             "root": "GammaRay"
         }
@@ -6096,7 +6059,7 @@
             "root": "gcstar"
         }
     },
-    "gda-browser-5.0": {
+    "gda-browser": {
         "linux": {
             "root": "gda-browser-5.0"
         }
@@ -6119,7 +6082,7 @@
             ]
         }
     },
-    "GDevelop": {
+    "gdevelop": {
         "linux": {
             "root": "GDevelop"
         }
@@ -6234,11 +6197,11 @@
             ]
         }
     },
-    "gFTP": {
+    "gftp": {
         "linux": {
-            "root": "gFTP",
+            "root": "gftp",
             "symlinks": [
-                "gftp"
+                "gFTP"
             ]
         }
     },
@@ -6336,14 +6299,14 @@
             "root": "gitlab"
         }
     },
-    "Gitter": {
+    "gitter": {
         "android": [
             "im.gitter.gitter/im.gitter.gitter.activities.StartActivity"
         ],
         "linux": {
-            "root": "Gitter",
+            "root": "gitter",
             "symlinks": [
-                "gitter",
+                "Gitter",
                 "im.gitter.Gitter"
             ]
         }
@@ -6364,11 +6327,11 @@
             ]
         }
     },
-    "glabels-3.0": {
+    "glabels": {
         "linux": {
-            "root": "glabels-3.0",
+            "root": "glabels",
             "symlinks": [
-                "glabels",
+                "glabels-3.0",
                 "org.gnome.glabels-3"
             ]
         }
@@ -8291,28 +8254,6 @@
     "internet-chat": {
         "linux": {
             "root": "internet-chat"
-        }
-    },
-    "internet-news-reader": {
-        "linux": {
-            "root": "internet-news-reader",
-            "symlinks": [
-                "akregator",
-                "com.github.rssguard",
-                "google-reader",
-                "greader",
-                "internet-feed-reader",
-                "knewsticker",
-                "lightread",
-                "news-feed",
-                "org.kde.akregator",
-                "package_internet_news-feed-reader",
-                "package_internet_newsreader",
-                "rss",
-                "rssguard",
-                "rssowl",
-                "stock_news"
-            ]
         }
     },
     "internet-telephony": {
@@ -10954,6 +10895,11 @@
             "root": "ndm"
         }
     },
+    "nds": {
+        "linux": {
+            "root": "DeSmuME"
+        }
+    },
     "nemiver": {
         "linux": {
             "root": "nemiver",
@@ -12616,11 +12562,6 @@
             ]
         }
     },
-    "pr0gramm.com": {
-        "linux": {
-            "root": "pr0gramm.com"
-        }
-    },
     "pragha": {
         "linux": {
             "root": "pragha"
@@ -13575,11 +13516,6 @@
             ]
         }
     },
-    "quiterss": {
-        "linux": {
-            "root": "quiterss"
-        }
-    },
     "quodlibet": {
         "linux": {
             "root": "quodlibet",
@@ -14071,6 +14007,44 @@
     "rsibreak": {
         "linux": {
             "root": "rsibreak"
+        }
+    },
+    "rss": {
+        "linux": {
+            "root": "internet-news-reader",
+            "symlinks": [
+                "akregator",
+                "com.github.rssguard",
+                "feedreader",
+                "google-reader",
+                "greader",
+                "internet-feed-reader",
+                "knewsticker",
+                "lightread",
+                "news-feed",
+                "org.gnome.feedreader",
+                "org.gnome.FeedReader"
+                "org.kde.akregator",
+                "package_internet_news-feed-reader",
+                "package_internet_newsreader",
+                "rss",
+                "rssguard",
+                "rssowl",
+                "stock_news"
+            ]
+        }
+    },
+    "rss-green": {
+        "linux": {
+            "root": "quiterss"
+        }
+    },
+    "rss-red": {
+        "linux": {
+            "root": "allen-b1.news",
+            "symlinks": [
+                "com.github.allen-b1.news"
+            ]
         }
     },
     "rstudio": {
@@ -15936,6 +15910,11 @@
             "root": "steam_icon_220780"
         }
     },
+    "three-depict": {
+        "linux": {
+            "root": "3Depict"
+        }
+    },
     "thunar": {
         "linux": {
             "root": "thunar",
@@ -17038,6 +17017,11 @@
             "root": "wayland"
         }
     },
+    "web-4chan": {
+        "linux": {
+            "root": "4chan.org"
+        }
+    },
     "web-9gag": {
         "android": [
             "com.ninegag.android.app/com.ninegag.android.app.MainActivity",
@@ -17420,6 +17404,11 @@
     "web-pocketcaster": {
         "linux": {
             "root": "web-pocketcaster"
+        }
+    },
+    "web-pr0gramm": {
+        "linux": {
+            "root": "pr0gramm.com"
         }
     },
     "web-prezi": {
@@ -17854,6 +17843,11 @@
     "wolfenstein": {
         "linux": {
             "root": "wolfenstein"
+        }
+    },
+    "wolfenstein-et": {
+        "linux": {
+            "root": "ET"
         }
     },
     "wolfenstein-the-new-order": {
