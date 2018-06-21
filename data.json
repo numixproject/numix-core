@@ -5032,6 +5032,14 @@
             "root": "eclipse"
         }
     },
+    "edb": {
+        "linux": {
+            "root": "edb",
+            "symlinks": [
+                "edb48-logo"
+            ]
+        }
+    },
     "edgar": {
         "linux": {
             "root": "edgar"
