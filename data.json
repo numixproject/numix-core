@@ -16304,6 +16304,14 @@
             "root": "steam_icon_286000"
         }
     },
+    "tootle": {
+        "linux": {
+            "root": "tootle",
+            "symlinks": [
+                "com.github.bleakgrey.tootle"
+            ]
+        }
+    },
     "torchlight-2": {
         "linux": {
             "root": "steam_icon_200710"
