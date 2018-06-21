@@ -18009,7 +18009,10 @@
     },
     "wxcas": {
         "linux": {
-            "root": "wxcas"
+            "root": "wxcas",
+            "symlinks": [
+                "plot2d"
+            ]
         }
     },
     "wxformbuilder": {
