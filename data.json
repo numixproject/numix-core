@@ -13337,7 +13337,10 @@
     },
     "pyzologo": {
         "linux": {
-            "root": "pyzologo"
+            "root": "pyzologo",
+            "symlinks": [
+                "iep"
+            ]
         }
     },
     "q4wine": {
