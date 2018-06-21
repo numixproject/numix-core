@@ -12900,6 +12900,7 @@
                 "kcharselect",
                 "key_bindings",
                 "ktouch",
+                "mintlocale-im",
                 "org.kde.ktouch",
                 "shortcuts"
             ]
@@ -14967,6 +14968,7 @@
                 "cs-sources",
                 "gpk-repo",
                 "mintsources",
+                "mintsources-mint",
                 "pk-package-sources",
                 "software-sources",
                 "x-system-software-sources"
@@ -15766,6 +15768,7 @@
                 "mandrivaupdate",
                 "mintUpdate",
                 "mintupdate",
+                "mintupdate-release-upgrade",
                 "pamac-updater",
                 "pup",
                 "system-upgrade",
@@ -16754,7 +16757,10 @@
     },
     "usb-creator": {
         "linux": {
-            "root": "usb-creator"
+            "root": "usb-creator",
+            "symlinks": [
+                "mintstick"
+            ]
         }
     },
     "usb-creator-gtk": {
