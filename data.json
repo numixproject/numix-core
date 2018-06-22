@@ -11413,7 +11413,10 @@
     },
     "office-runner": {
         "linux": {
-            "root": "office-runner"
+            "root": "office-runner",
+            "symlinks": [
+                "org.gnome.OfficeRunner"
+            ]
         }
     },
     "ogmrip": {
