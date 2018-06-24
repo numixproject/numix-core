@@ -17077,7 +17077,10 @@
     },
     "waterfox": {
         "linux": {
-            "root": "waterfox"
+            "root": "waterfox",
+            "symlinks": [
+                "waterfox-icon"
+            ]
         }
     },
     "wavebox": {
