@@ -1023,6 +1023,7 @@
         "linux": {
             "root": "aseprite",
             "symlinks": [
+                "com.github.libresprite.LibreSprite",
                 "libresprite"
             ]
         }
@@ -3277,7 +3278,10 @@
     },
     "connectagram": {
         "linux": {
-            "root": "connectagram"
+            "root": "connectagram",
+            "symlinks": [
+                "org.gottcode.Connectagram"
+            ]
         }
     },
     "cool-retro-term": {
@@ -6757,7 +6761,8 @@
             "root": "gnome-schedule",
             "symlinks": [
                 "FcronQ",
-                "kapow"
+                "kapow",
+                "org.gottcode.Kapow"
             ]
         }
     },
@@ -7320,7 +7325,10 @@
     },
     "grafx2": {
         "linux": {
-            "root": "grafx2"
+            "root": "grafx2",
+            "symlinks": [
+                "com.chez.GrafX2"
+            ]
         }
     },
     "gramps": {
@@ -7870,7 +7878,10 @@
     },
     "hexalate": {
         "linux": {
-            "root": "hexalate"
+            "root": "hexalate",
+            "symlinks": [
+                "org.gottcode.Hexalate"
+            ]
         }
     },
     "hexchat": {
@@ -10017,7 +10028,8 @@
         "linux": {
             "root": "ltris",
             "symlinks": [
-                "gottet"
+                "gottet",
+                "org.gottcode.Gottet"
             ]
         }
     },
@@ -12104,6 +12116,7 @@
         "linux": {
             "root": "pdfmod",
             "symlinks": [
+                "eu.scarpetta.PDFMixTool",
                 "flpsed",
                 "master-pdf-editor",
                 "pdfmixtool"
@@ -12146,6 +12159,7 @@
         "linux": {
             "root": "peg-e",
             "symlinks": [
+                "org.gottcode.Peg-E",
                 "peg",
                 "sgt-pegs"
             ]
@@ -13141,7 +13155,8 @@
         "linux": {
             "root": "pyzologo",
             "symlinks": [
-                "iep"
+                "iep",
+                "org.pyzo.pyzo"
             ]
         }
     },
@@ -14645,6 +14660,7 @@
             "root": "simsu",
             "symlinks": [
                 "com.github.parnold-x.sudoku",
+                "org.gottcode.Simsu",
                 "sudokuki",
                 "yapysudoku"
             ]
@@ -15664,7 +15680,10 @@
     },
     "tanglet": {
         "linux": {
-            "root": "tanglet"
+            "root": "tanglet",
+            "symlinks": [
+                "org.gottcode.Tanglet"
+            ]
         }
     },
     "taskcoach": {
@@ -15857,7 +15876,8 @@
         "linux": {
             "root": "tetzle",
             "symlinks": [
-                "n-puzzle"
+                "n-puzzle",
+                "org.gottcode.Tetzle"
             ]
         }
     },
