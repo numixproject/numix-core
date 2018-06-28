@@ -14632,6 +14632,14 @@
             "root": "sigil"
         }
     },
+    "sigviewer": {
+        "linux": {
+            "root": "sigviewer",
+            "symlinks": [
+                "sigviewer128"
+            ]
+        }
+    },
     "silverjuke": {
         "linux": {
             "root": "silverjuke"
