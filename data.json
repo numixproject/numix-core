@@ -6533,7 +6533,8 @@
         "linux": {
             "root": "gnome-boxes",
             "symlinks": [
-                "boxes"
+                "boxes",
+                "org.gnome.Boxes"
             ]
         }
     },
