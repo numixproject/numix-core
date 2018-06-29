@@ -1351,9 +1351,9 @@
         "linux": {
             "root": "beaker",
             "symlinks": [
-                "com.beakerbrowser.Beaker",
                 "Beaker",
-		        "beaker-browser"
+		        "beaker-browser",
+                "com.beakerbrowser.Beaker"
             ]
         }
     },
