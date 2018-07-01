@@ -16296,6 +16296,14 @@
             ]
         }
     },
+    "transporter": {
+        "linux": {
+            "root": "transporter",
+            "symlinks": [
+                "com.github.bleakgrey.transporter"
+            ]
+        }
+    },
     "treeline": {
         "linux": {
             "root": "treeline"
