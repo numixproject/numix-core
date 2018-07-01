@@ -8458,7 +8458,10 @@
     },
     "jasp-desktop": {
         "linux": {
-            "root": "jasp-desktop"
+            "root": "jasp-desktop",
+            "symlinks": [
+                "org.jasp.JASP"
+            ]
         }
     },
     "java": {
