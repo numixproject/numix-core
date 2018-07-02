@@ -8468,7 +8468,10 @@
     },
     "jasp-desktop": {
         "linux": {
-            "root": "jasp-desktop"
+            "root": "jasp-desktop",
+            "symlinks": [
+                "org.jasp.JASP"
+            ]
         }
     },
     "java": {
@@ -11015,6 +11018,7 @@
         "linux": {
             "root": "neovim",
             "symlinks": [
+                "light_neovim_gtk",
                 "nvim",
                 "nvim-gtk",
                 "nvim-qt",
@@ -11097,7 +11101,8 @@
         "linux": {
             "root": "netron",
             "symlinks": [
-                "ktikz"
+                "ktikz",
+                "qtikz"
             ]
         }
     },
