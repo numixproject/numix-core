@@ -6180,7 +6180,10 @@
     },
     "gelemental": {
         "linux": {
-            "root": "gelemental"
+            "root": "gelemental",
+            "symlinks": [
+                "com.github.eudaldgr.elements"
+            ]
         }
     },
     "gemrb": {
