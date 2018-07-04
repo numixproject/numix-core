@@ -14065,7 +14065,10 @@
     },
     "rocketchat": {
         "linux": {
-            "root": "rocketchat"
+            "root": "rocketchat",
+            "symlinks": [
+                "chat.rocket.RocketChat"
+            ]
         }
     },
     "rocs": {
