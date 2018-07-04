@@ -450,6 +450,14 @@
             "root": "aegisub"
         }
     },
+    "aesop": {
+        "linux": {
+            "root": "aesop",
+            "symlinks": [
+                "com.github.lainsce.aesop"
+            ]
+        }
+    },
     "agave": {
         "linux": {
             "root": "agave"
