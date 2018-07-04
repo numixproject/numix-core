@@ -16690,7 +16690,10 @@
     },
     "usb-creator-gtk": {
         "linux": {
-            "root": "usb-creator-gtk"
+            "root": "usb-creator-gtk",
+            "symlinks": [
+                "ddcopy"
+            ]
         }
     },
     "usb-creator-kde": {
