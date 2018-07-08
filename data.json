@@ -6107,7 +6107,9 @@
         "linux": {
             "root": "gconf-editor",
             "symlinks": [
-                "gconfeditor"
+                "gconfeditor",
+                "gkdebconf",
+                "gkdebconf-icon"
             ]
         }
     },
@@ -6373,14 +6375,6 @@
             "symlinks": [
                 "Gitter",
                 "im.gitter.Gitter"
-            ]
-        }
-    },
-    "gkdebconf": {
-        "linux": {
-            "root": "gkdebconf",
-            "symlinks": [
-                "gkdebconf-icon"
             ]
         }
     },
