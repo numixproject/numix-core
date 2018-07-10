@@ -8631,7 +8631,10 @@
     },
     "jstest-gtk": {
         "linux": {
-            "root": "jstest-gtk"
+            "root": "jstest-gtk",
+            "symlinks": [
+                "io.gitlab.jstest_gtk.jstest_gtk"
+            ]
         }
     },
     "juci": {
