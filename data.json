@@ -2828,6 +2828,14 @@
             ]
         }
     },
+    "calls": {
+        "linux": {
+            "root": "calls",
+            "symlinks": [
+                "sm.puri.Calls"
+            ]
+        }
+    },
     "caneda": {
         "linux": {
             "root": "caneda"
