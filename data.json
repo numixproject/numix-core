@@ -10036,6 +10036,14 @@
             ]
         }
     },
+    "lottery": {
+        "linux": {
+            "root": "lottery",
+            "symlinks": [
+                "com.github.bartzaalberg.lottery"
+            ]
+        }
+    },
     "lounge": {
         "linux": {
             "root": "web-lounge"
