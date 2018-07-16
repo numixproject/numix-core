@@ -10589,6 +10589,15 @@
             "root": "mkchromecast"
         }
     },
+    "mki3dgame": {
+        "linux": {
+            "root": "mki3dgame",
+            "symlinks": [
+                "io.github.mki1967.mki3dgame",
+                "mkisg_icon"
+            ]
+        }
+    },
     "mkv-extractor-gui": {
         "linux": {
             "root": "mkv-extractor-gui"
