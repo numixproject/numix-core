@@ -520,6 +520,14 @@
             "root": "alexandra"
         }
     },
+    "alias": {
+        "linux": {
+            "root": "alias",
+            "symlinks": [
+                "com.github.bartzaalberg.alias"
+            ]
+        }
+    },
     "alienarena": {
         "linux": {
             "root": "alienarena",
