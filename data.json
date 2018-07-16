@@ -5630,6 +5630,14 @@
             "root": "flipboard"
         }
     },
+    "flippy": {
+        "linux": {
+            "root": "flippy",
+            "symlinks": [
+                "com.inventwithpython.flippy"
+            ]
+        }
+    },
     "floating-point": {
         "linux": {
             "root": "steam_icon_302380"
