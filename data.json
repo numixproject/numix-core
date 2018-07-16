@@ -6338,10 +6338,7 @@
     },
     "girl": {
         "linux": {
-            "root": "girl",
-            "symlinks": [
-                "gqrx"
-            ]
+            "root": "girl"
         }
     },
     "git-cola": {
@@ -7332,6 +7329,11 @@
     "gpsprune": {
         "linux": {
             "root": "gpsprune"
+        }
+    },
+    "gqrx": {
+        "linux": {
+            "root": "gqrx"
         }
     },
     "grace": {
