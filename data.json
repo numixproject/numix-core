@@ -14280,19 +14280,19 @@
             "root": "rubyripper"
         }
     },
-    "runescape": {
-        "linux": {
-            "root": "runescape",
-            "symlinks": [
-                "com.jagex.RuneScape"
-            ]
-        }
-    },
     "runelite": {
         "linux": {
             "root": "runelite",
             "symlinks": [
                 "net.runelite.RuneLite"
+            ]
+        }
+    },
+    "runescape": {
+        "linux": {
+            "root": "runescape",
+            "symlinks": [
+                "com.jagex.RuneScape"
             ]
         }
     },
