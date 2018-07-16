@@ -12497,6 +12497,20 @@
             ]
         }
     },
+    "pixel-dungeon": {
+        "android": [
+            "com.shatteredpixel.shatteredpixeldungeon/com.shatteredpixel.shatteredpixeldungeon.ShatteredPixelDungeon",
+            "com.watabou.pixeldungeon/com.watabou.pixeldungeon.PixelDungeon"
+        ],
+        "linux": {
+            "root": "pixel-dungeon",
+            "symlinks": [
+                "com.shatteredpixel.shatteredpixeldungeon",
+                "shattered-pixel-dungeon",
+                "steam_icon_365900"
+            ]
+        }
+    },
     "pixeljunk-monsters-ultimate": {
         "linux": {
             "root": "steam_icon_243780"
