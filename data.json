@@ -7426,7 +7426,8 @@
                 "grass64",
                 "grass70",
                 "grass71",
-                "grass_64x64"
+                "grass_64x64",
+                "org.osgeo.grass"
             ]
         }
     },
@@ -17931,6 +17932,7 @@
             "root": "wesnoth",
             "symlinks": [
                 "org.wesnoth.Wesnoth",
+                "steam_icon_599390",
                 "wesnoth-1.10-icon",
                 "wesnoth-1.12-icon",
                 "wesnoth-icon"
@@ -18674,7 +18676,10 @@
     },
     "zathura": {
         "linux": {
-            "root": "zathura"
+            "root": "zathura",
+            "symlinks": [
+                "org.pwmt.zathura"
+            ]
         }
     },
     "zaz": {
