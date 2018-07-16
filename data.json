@@ -14295,6 +14295,14 @@
             "root": "rubyripper"
         }
     },
+    "runelite": {
+        "linux": {
+            "root": "runelite",
+            "symlinks": [
+                "net.runelite.RuneLite"
+            ]
+        }
+    },
     "runescape": {
         "linux": {
             "root": "runescape",
