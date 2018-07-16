@@ -5394,7 +5394,10 @@
     },
     "fillets-ng": {
         "linux": {
-            "root": "fillets-ng"
+            "root": "fillets-ng",
+            "symlinks": [
+                "net.sourceforge.Fillets"
+            ]
         }
     },
     "filmulator-gui": {
