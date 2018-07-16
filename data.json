@@ -3385,6 +3385,16 @@
             ]
         }
     },
+    "cpod": {
+        "linux": {
+            "root": "cpuinfo",
+            "symlinks": [
+                "com.github.z.Cumulonimbus",
+                "CPod",
+                "cumulonimbus"
+            ]
+        }
+    },
     "cpuinfo": {
         "linux": {
             "root": "cpuinfo",
