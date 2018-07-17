@@ -3083,6 +3083,14 @@
             "root": "citra"
         }
     },
+    "citrix-receiver": {
+        "linux": {
+            "root": "citrix-receiver",
+            "symlinks": [
+                "wfica"
+            ]
+        }
+    },
     "city": {
         "linux": {
             "root": "city",
