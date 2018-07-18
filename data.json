@@ -17907,6 +17907,14 @@
             ]
         }
     },
+    "webarchives": {
+        "linux": {
+            "root": "webarchives",
+            "symlinks": [
+                "com.github.birros.WebArchives"
+            ]
+        }
+    },
     "webby": {
         "linux": {
             "root": "webby",
