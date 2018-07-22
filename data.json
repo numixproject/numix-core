@@ -2957,6 +2957,7 @@
                 "glchess",
                 "gnome-chess",
                 "gnome-glchess",
+                "org.gnome.chess",
                 "scid",
                 "tagua"
             ]
@@ -6137,6 +6138,7 @@
         "linux": {
             "root": "gcleaner",
             "symlinks": [
+                "shredder",
                 "sweeper"
             ]
         }
@@ -6573,6 +6575,7 @@
             "root": "gnome-alsamixer-icon",
             "symlinks": [
                 "alsamixergui",
+                "echomixer",
                 "gnome-mixer"
             ]
         }
@@ -18525,7 +18528,10 @@
     },
     "xonotic": {
         "linux": {
-            "root": "xonotic"
+            "root": "xonotic",
+            "symlinks": [
+                "org.xonotic.Xonotic"
+            ]
         }
     },
     "xorg": {
