@@ -7367,6 +7367,14 @@
             "root": "gpsbabel"
         }
     },
+    "gpsd": {
+        "linux": {
+            "root": "gpsbabel",
+            "symlinks": [
+                "gpsd-logo"
+            ]
+        }
+    },
     "gpsprune": {
         "linux": {
             "root": "gpsprune"
