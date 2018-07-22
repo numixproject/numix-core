@@ -10150,7 +10150,10 @@
     },
     "luckybackup": {
         "linux": {
-            "root": "luckybackup"
+            "root": "luckybackup",
+            "symlinks": [
+                "luckyBackup"
+            ]
         }
     },
     "luminance-hdr": {
