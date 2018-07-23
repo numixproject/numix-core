@@ -8131,12 +8131,18 @@
     },
     "hourglass": {
         "linux": {
-            "root": "hourglass"
+            "root": "hourglass",
+            "symlinks": [
+                "com.github.sgpthomas.hourglass"
+            ]
         }
     },
     "howl": {
         "linux": {
-            "root": "howl"
+            "root": "howl",
+            "symlinks": [
+                "io.howl.Editor"
+            ]
         }
     },
     "hp-logo": {
