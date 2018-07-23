@@ -7004,6 +7004,14 @@
             ]
         }
     },
+    "gnunet-fs-gtk": {
+        "linux": {
+            "root": "gnunet-fs-gtk",
+            "symlinks": [
+                "gnunet-setup"
+            ]
+        }
+    },
     "gnupg": {
         "linux": {
             "root": "gnupg",
