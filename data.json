@@ -6607,7 +6607,11 @@
     },
     "gnome-arcade": {
         "linux": {
-            "root": "gnome-arcade"
+            "root": "gnome-arcade",
+            "symlinks": [
+                "com.github.tkashkin.gamehub",
+                "gamehub"
+            ]
         }
     },
     "gnome-books": {
