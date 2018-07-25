@@ -7463,7 +7463,10 @@
     },
     "graphql-playground-electron": {
         "linux": {
-            "root": "graphql-playground-electron"
+            "root": "graphql-playground-electron",
+            "symlinks": [
+                "graphiql-app"
+            ]
         }
     },
     "graphui": {
