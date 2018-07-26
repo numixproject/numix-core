@@ -8733,6 +8733,14 @@
             "root": "jotasync"
         }
     },
+    "jrommanager": {
+        "linux": {
+            "root": "jrommanager",
+            "symlinks": [
+                "JRomManager"
+            ]
+        }
+    },
     "jskat": {
         "linux": {
             "root": "jskat"
