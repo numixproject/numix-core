@@ -4211,6 +4211,14 @@
             "root": "distributor-logo-kdeneon"
         }
     },
+    "distributor-logo-korora": {
+        "linux": {
+            "root": "distributor-logo-korora",
+            "symlinks": [
+                "korora-welcome"
+            ]
+        }
+    },
     "distributor-logo-kubuntu": {
         "linux": {
             "root": "distributor-logo-kubuntu",
@@ -4772,6 +4780,14 @@
     "dungeons-of-dredmor": {
         "linux": {
             "root": "steam_icon_98800"
+        }
+    },
+    "duolingo": {
+        "linux": {
+            "root": "duolingo",
+            "symlinks": [
+                "chrome-aiahmijlpehemcpleichkcokhegllfjl-Default"
+            ]
         }
     },
     "dupeguru": {
@@ -6607,7 +6623,11 @@
     },
     "gnome-arcade": {
         "linux": {
-            "root": "gnome-arcade"
+            "root": "gnome-arcade",
+            "symlinks": [
+                "com.github.tkashkin.gamehub",
+                "gamehub"
+            ]
         }
     },
     "gnome-books": {
@@ -7463,7 +7483,10 @@
     },
     "graphql-playground-electron": {
         "linux": {
-            "root": "graphql-playground-electron"
+            "root": "graphql-playground-electron",
+            "symlinks": [
+                "graphiql-app"
+            ]
         }
     },
     "graphui": {
@@ -8131,12 +8154,18 @@
     },
     "hourglass": {
         "linux": {
-            "root": "hourglass"
+            "root": "hourglass",
+            "symlinks": [
+                "com.github.sgpthomas.hourglass"
+            ]
         }
     },
     "howl": {
         "linux": {
-            "root": "howl"
+            "root": "howl",
+            "symlinks": [
+                "io.howl.Editor"
+            ]
         }
     },
     "hp-logo": {
@@ -8739,6 +8768,16 @@
             "symlinks": [
                 "JRomManager"
             ]
+        }
+    },
+    "jsampler": {
+        "linux": {
+            "root": "jsampler"
+        }
+    },
+    "jsampler-classic": {
+        "linux": {
+            "root": "jsampler-classic"
         }
     },
     "jskat": {
@@ -9433,14 +9472,6 @@
     "korg": {
         "linux": {
             "root": "67F8_NewShortcut1_4E956BBDAB1B4156AEF14A08F107E9D7.0"
-        }
-    },
-    "korora-welcome": {
-        "linux": {
-            "root": "korora-welcome",
-            "symlinks": [
-                "distributor-logo-korora"
-            ]
         }
     },
     "kpat": {
@@ -10368,6 +10399,14 @@
     "marp": {
         "linux": {
             "root": "marp"
+        }
+    },
+    "marsshooter": {
+        "linux": {
+            "root": "marsshooter",
+            "symlinks": [
+                "mars"
+            ]
         }
     },
     "massif-visualizer": {
@@ -15966,7 +16005,10 @@
     },
     "taxi": {
         "linux": {
-            "root": "taxi"
+            "root": "taxi",
+            "symlinks": [
+                "com.github.alecaddd.taxi"
+            ]
         }
     },
     "tea": {
@@ -16173,6 +16215,7 @@
                 "1E64_notepad.0",
                 "accessories-text-editor",
                 "blogilo",
+                "bottles_notepad",
                 "code",
                 "gedit",
                 "gedit-icon",
@@ -17516,14 +17559,6 @@
             "root": "web-dillinger"
         }
     },
-    "web-duolingo": {
-        "linux": {
-            "root": "web-duolingo",
-            "symlinks": [
-                "chrome-aiahmijlpehemcpleichkcokhegllfjl-Default"
-            ]
-        }
-    },
     "web-ebay": {
         "linux": {
             "root": "chrome-bnadbgmffcofipfljniafanjcafjlbom-Default"
@@ -18159,13 +18194,17 @@
     },
     "wine": {
         "linux": {
-            "root": "wine"
+            "root": "wine",
+            "symlinks": [
+                "bottles_wine"
+            ]
         }
     },
     "wine-uninstaller": {
         "linux": {
             "root": "wine-uninstaller",
             "symlinks": [
+                "bottles_wine-uninstaller",
                 "msiexec"
             ]
         }
@@ -18174,6 +18213,7 @@
         "linux": {
             "root": "wine-winecfg",
             "symlinks": [
+                "bottles_wine-winecfg",
                 "winecfg"
             ]
         }
@@ -18182,6 +18222,7 @@
         "linux": {
             "root": "wine-winefile",
             "symlinks": [
+                "bottles_wine-winefile",
                 "winefile"
             ]
         }
@@ -18190,6 +18231,7 @@
         "linux": {
             "root": "wine-winetricks",
             "symlinks": [
+                "bottles_wine-winetricks",
                 "winetricks"
             ]
         }
