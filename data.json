@@ -8777,6 +8777,14 @@
             "root": "jotasync"
         }
     },
+    "jrommanager": {
+        "linux": {
+            "root": "jrommanager",
+            "symlinks": [
+                "JRomManager"
+            ]
+        }
+    },
     "jsampler": {
         "linux": {
             "root": "jsampler"
