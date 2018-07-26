@@ -15964,7 +15964,10 @@
     },
     "taxi": {
         "linux": {
-            "root": "taxi"
+            "root": "taxi",
+            "symlinks": [
+                "com.github.alecaddd.taxi"
+            ]
         }
     },
     "tea": {
