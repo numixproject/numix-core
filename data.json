@@ -1067,9 +1067,7 @@
         "linux": {
             "root": "astromenace",
             "symlinks": [
-                "com.viewizard.AstroMenace",
-                "endless-sky",
-                "io.github.EndlessSky.endless-sky"
+                "com.viewizard.AstroMenace"
             ]
         }
     },
@@ -5047,6 +5045,15 @@
     "encryptr": {
         "linux": {
             "root": "Encryptr"
+        }
+    },
+    "endless-sky": {
+        "linux": {
+            "root": "endless-sky",
+            "symlinks": [
+                "io.github.endless-sky.endless-sky"
+                "io.github.EndlessSky.endless-sky"
+            ]
         }
     },
     "engauge-digitizer": {
