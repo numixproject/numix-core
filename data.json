@@ -4014,6 +4014,11 @@
             "root": "disper"
         }
     },
+    "distributor-logo-absolute": {
+        "linux": {
+            "root": "distributor-logo-absolute"
+        }
+    },
     "distributor-logo-aix": {
         "linux": {
             "root": "distributor-logo-aix"
@@ -4151,6 +4156,11 @@
             "root": "distributor-logo-exherbo"
         }
     },
+    "distributor-logo-extix": {
+        "linux": {
+            "root": "distributor-logo-extix"
+        }
+    },
     "distributor-logo-fedora": {
         "linux": {
             "root": "distributor-logo-fedora"
@@ -4189,6 +4199,11 @@
     "distributor-logo-handylinux": {
         "linux": {
             "root": "distributor-logo-handylinux"
+        }
+    },
+    "distributor-logo-hardenedbsd": {
+        "linux": {
+            "root": "distributor-logo-hardenedbsd"
         }
     },
     "distributor-logo-hyperbola": {
@@ -4230,6 +4245,11 @@
             "symlinks": [
                 "kubuntu"
             ]
+        }
+    },
+    "distributor-logo-libertybsd": {
+        "linux": {
+            "root": "distributor-logo-libertybsd"
         }
     },
     "distributor-logo-linux": {
@@ -4298,6 +4318,11 @@
             ]
         }
     },
+    "distributor-logo-mirbsd": {
+        "linux": {
+            "root": "distributor-logo-mirbsd"
+        }
+    },
     "distributor-logo-msdos": {
         "linux": {
             "root": "distributor-logo-msdos"
@@ -4323,9 +4348,19 @@
             "root": "distributor-logo-netrunner"
         }
     },
+    "distributor-logo-nitrux": {
+        "linux": {
+            "root": "distributor-logo-nitrux"
+        }
+    },
     "distributor-logo-nixos": {
         "linux": {
             "root": "distributor-logo-nixos"
+        }
+    },
+    "distributor-logo-nomadbsd": {
+        "linux": {
+            "root": "distributor-logo-nomadbsd"
         }
     },
     "distributor-logo-openbsd": {
@@ -4384,6 +4419,11 @@
     "distributor-logo-popos": {
         "linux": {
             "root": "distributor-logo-popos"
+        }
+    },
+    "distributor-logo-porteus": {
+        "linux": {
+            "root": "distributor-logo-porteus"
         }
     },
     "distributor-logo-puppy": {
