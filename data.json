@@ -16172,6 +16172,7 @@
                 "1E64_notepad.0",
                 "accessories-text-editor",
                 "blogilo",
+                "bottles_notepad",
                 "code",
                 "gedit",
                 "gedit-icon",
@@ -18158,13 +18159,17 @@
     },
     "wine": {
         "linux": {
-            "root": "wine"
+            "root": "wine",
+            "symlinks": [
+                "bottles_wine"
+            ]
         }
     },
     "wine-uninstaller": {
         "linux": {
             "root": "wine-uninstaller",
             "symlinks": [
+                "bottles_wine-uninstaller",
                 "msiexec"
             ]
         }
@@ -18173,6 +18178,7 @@
         "linux": {
             "root": "wine-winecfg",
             "symlinks": [
+                "bottles_wine-winecfg",
                 "winecfg"
             ]
         }
@@ -18181,6 +18187,7 @@
         "linux": {
             "root": "wine-winefile",
             "symlinks": [
+                "bottles_wine-winefile",
                 "winefile"
             ]
         }
@@ -18189,6 +18196,7 @@
         "linux": {
             "root": "wine-winetricks",
             "symlinks": [
+                "bottles_wine-winetricks",
                 "winetricks"
             ]
         }
