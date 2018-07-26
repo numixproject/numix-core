@@ -8154,12 +8154,18 @@
     },
     "hourglass": {
         "linux": {
-            "root": "hourglass"
+            "root": "hourglass",
+            "symlinks": [
+                "com.github.sgpthomas.hourglass"
+            ]
         }
     },
     "howl": {
         "linux": {
-            "root": "howl"
+            "root": "howl",
+            "symlinks": [
+                "io.howl.Editor"
+            ]
         }
     },
     "hp-logo": {
@@ -15983,7 +15989,10 @@
     },
     "taxi": {
         "linux": {
-            "root": "taxi"
+            "root": "taxi",
+            "symlinks": [
+                "com.github.alecaddd.taxi"
+            ]
         }
     },
     "tea": {
