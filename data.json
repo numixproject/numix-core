@@ -4774,6 +4774,14 @@
             "root": "steam_icon_98800"
         }
     },
+    "duolingo": {
+        "linux": {
+            "root": "duolingo",
+            "symlinks": [
+                "chrome-aiahmijlpehemcpleichkcokhegllfjl-Default"
+            ]
+        }
+    },
     "dupeguru": {
         "linux": {
             "root": "dupeguru"
@@ -17514,14 +17522,6 @@
     "web-dillinger": {
         "linux": {
             "root": "web-dillinger"
-        }
-    },
-    "web-duolingo": {
-        "linux": {
-            "root": "web-duolingo",
-            "symlinks": [
-                "chrome-aiahmijlpehemcpleichkcokhegllfjl-Default"
-            ]
         }
     },
     "web-ebay": {
