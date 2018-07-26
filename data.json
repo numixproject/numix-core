@@ -10393,6 +10393,14 @@
             "root": "marp"
         }
     },
+    "marsshooter": {
+        "linux": {
+            "root": "marsshooter",
+            "symlinks": [
+                "mars"
+            ]
+        }
+    },
     "massif-visualizer": {
         "linux": {
             "root": "massif-visualizer"
