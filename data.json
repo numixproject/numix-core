@@ -8536,7 +8536,10 @@
     },
     "insomnia": {
         "linux": {
-            "root": "insomnia"
+            "root": "insomnia",
+            "symlinks": [
+                "rest.getinsomnia.Insomnia"
+            ]
         }
     },
     "insurgency": {
@@ -17514,7 +17517,10 @@
     },
     "warzone2100": {
         "linux": {
-            "root": "warzone2100"
+            "root": "warzone2100",
+            "symlinks": [
+                "net.wz2100.wz2100"
+            ]
         }
     },
     "waterfox": {
