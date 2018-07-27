@@ -8524,7 +8524,10 @@
     },
     "insomnia": {
         "linux": {
-            "root": "insomnia"
+            "root": "insomnia",
+            "symlinks": [
+                "rest.getinsomnia.Insomnia"
+            ]
         }
     },
     "insurgency": {
