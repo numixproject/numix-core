@@ -18720,7 +18720,10 @@
     },
     "xmlcopyeditor": {
         "linux": {
-            "root": "xmlcopyeditor"
+            "root": "xmlcopyeditor",
+            "symlinks": [
+                "morpheus"
+            ]
         }
     },
     "xmoto": {
