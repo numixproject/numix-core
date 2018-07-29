@@ -15685,7 +15685,8 @@
         "linux": {
             "root": "stellarium",
             "symlinks": [
-                "celestia"
+                "celestia",
+                "org.stellarium.Stellarium "
             ]
         }
     },
