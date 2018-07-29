@@ -12042,7 +12042,10 @@
     },
     "openscad": {
         "linux": {
-            "root": "openscad"
+            "root": "openscad",
+            "symlinks": [
+                "org.openscad.OpenSCAD"
+            ]
         }
     },
     "opensesame": {
