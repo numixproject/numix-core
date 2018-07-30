@@ -929,6 +929,7 @@
                 "arduino-arduinoide",
                 "arduino-icon-small",
                 "arduino-ide",
+                "cc.arduino.arduinoide",
                 "gnoduino"
             ]
         }
@@ -15685,7 +15686,8 @@
         "linux": {
             "root": "stellarium",
             "symlinks": [
-                "celestia"
+                "celestia",
+                "org.stellarium.Stellarium"
             ]
         }
     },
