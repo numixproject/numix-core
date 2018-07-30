@@ -228,6 +228,7 @@
                 "kscreenshot",
                 "ksnapshot",
                 "ksnip",
+                "org.gnome.Screenshot",
                 "screengrab",
                 "screenie",
                 "screenie-qt",
@@ -5515,6 +5516,7 @@
                 "ark",
                 "engrampa",
                 "gvfsd-archive-file",
+                "org.gnome.ArchiveManager",
                 "org.kde.ark",
                 "utilities-file-archiver",
                 "xarchiver"
@@ -5840,6 +5842,7 @@
                 "gnome-character-map",
                 "gnome-settings-font",
                 "kfontview",
+                "org.gnome.Fonts",
                 "preferences-desktop-font"
             ]
         }
@@ -13211,6 +13214,7 @@
                 "gnome-system",
                 "gnome-system-config",
                 "kcontrol",
+                "org.gnome.Settings",
                 "paprefs",
                 "preferences-desktop",
                 "redhat-server_settings",
@@ -14804,7 +14808,10 @@
     },
     "seahorse": {
         "linux": {
-            "root": "seahorse"
+            "root": "seahorse",
+            "symlinks": [
+                "org.gnome.Seahorse"
+            ]
         }
     },
     "seamlyme": {
@@ -16589,6 +16596,7 @@
                 "gnote",
                 "kjots",
                 "org.gnome.Gnote",
+                "org.gnome.Notes",
                 "org.kde.kjots",
                 "tomboy-note"
             ]
@@ -17117,6 +17125,7 @@
                 "gnome-monitor",
                 "gnome-system-monitor",
                 "ksysguard",
+                "org.gnome.SystemMonitor",
                 "preferences-system-performance",
                 "qps"
             ]
