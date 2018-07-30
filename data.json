@@ -4778,6 +4778,7 @@
         "linux": {
             "root": "dropbox",
             "symlinks": [
+                "com.dropbox.Client",
                 "chrome-ioekoebejdcmnlefjiknokhhafglcjdl-Default",
                 "Dropbox"
             ]
@@ -6789,7 +6790,8 @@
             "symlinks": [
                 "five-or-more",
                 "glines",
-                "kfourinline"
+                "kfourinline",
+                "org.gnome.five-or-more"
             ]
         }
     },
@@ -6989,7 +6991,10 @@
     },
     "gnome-taquin": {
         "linux": {
-            "root": "gnome-taquin"
+            "root": "gnome-taquin",
+            "symlinks": [
+                "org.gnome.taquin"
+            ]
         }
     },
     "gnome-tetravex": {
