@@ -6910,6 +6910,14 @@
             "root": "gnome-pie"
         }
     },
+    "gnome-podcasts": {
+        "linux": {
+            "root": "gnome-podcasts",
+            "symlinks": [
+                "org.gnome.Podcasts"
+            ]
+        }
+    },
     "gnome-power-manager": {
         "linux": {
             "root": "gnome-power-manager",
