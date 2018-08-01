@@ -90,7 +90,8 @@
         "linux": {
             "root": "abiword",
             "symlinks": [
-                "abiword_48"
+                "abiword_48",
+                "com.abisource.AbiWord"
             ]
         }
     },
@@ -228,6 +229,7 @@
                 "kscreenshot",
                 "ksnapshot",
                 "ksnip",
+                "org.gnome.Screenshot",
                 "screengrab",
                 "screenie",
                 "screenie-qt",
@@ -1315,6 +1317,7 @@
             "symlinks": [
                 "filelight",
                 "mate-disk-usage-analyzer",
+                "org.gnome.Baobab",
                 "org.kde.filelight",
                 "partitions",
                 "qdirstat"
@@ -4779,6 +4782,7 @@
             "root": "dropbox",
             "symlinks": [
                 "chrome-ioekoebejdcmnlefjiknokhhafglcjdl-Default",
+                "com.dropbox.Client",
                 "Dropbox"
             ]
         }
@@ -5514,6 +5518,7 @@
                 "ark",
                 "engrampa",
                 "gvfsd-archive-file",
+                "org.gnome.ArchiveManager",
                 "org.kde.ark",
                 "utilities-file-archiver",
                 "xarchiver"
@@ -5839,6 +5844,7 @@
                 "gnome-character-map",
                 "gnome-settings-font",
                 "kfontview",
+                "org.gnome.Fonts",
                 "preferences-desktop-font"
             ]
         }
@@ -6515,6 +6521,7 @@
         "linux": {
             "root": "gitg",
             "symlinks": [
+                "git-gui",
                 "gitk",
                 "org.gnome.gitg"
             ]
@@ -6789,7 +6796,8 @@
             "symlinks": [
                 "five-or-more",
                 "glines",
-                "kfourinline"
+                "kfourinline",
+                "org.gnome.five-or-more"
             ]
         }
     },
@@ -6997,7 +7005,10 @@
     },
     "gnome-taquin": {
         "linux": {
-            "root": "gnome-taquin"
+            "root": "gnome-taquin",
+            "symlinks": [
+                "org.gnome.taquin"
+            ]
         }
     },
     "gnome-tetravex": {
@@ -13224,6 +13235,7 @@
                 "gnome-system",
                 "gnome-system-config",
                 "kcontrol",
+                "org.gnome.Settings",
                 "paprefs",
                 "preferences-desktop",
                 "redhat-server_settings",
@@ -14817,7 +14829,10 @@
     },
     "seahorse": {
         "linux": {
-            "root": "seahorse"
+            "root": "seahorse",
+            "symlinks": [
+                "org.gnome.Seahorse"
+            ]
         }
     },
     "seamlyme": {
@@ -15950,6 +15965,7 @@
         "linux": {
             "root": "synfigstudio",
             "symlinks": [
+                "org.synfig.SynfigStudio",
                 "synfig_icon"
             ]
         }
@@ -16234,6 +16250,7 @@
                 "konsole",
                 "lxterminal",
                 "openterm",
+                "org.gnome.Terminal",
                 "qterminal",
                 "Terminal",
                 "tilda",
@@ -16607,6 +16624,7 @@
                 "gnote",
                 "kjots",
                 "org.gnome.Gnote",
+                "org.gnome.Notes",
                 "org.kde.kjots",
                 "tomboy-note"
             ]
@@ -17135,6 +17153,7 @@
                 "gnome-monitor",
                 "gnome-system-monitor",
                 "ksysguard",
+                "org.gnome.SystemMonitor",
                 "preferences-system-performance",
                 "qps"
             ]
