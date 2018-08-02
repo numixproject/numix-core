@@ -10770,6 +10770,9 @@
         }
     },
     "mini-metro": {
+        "android": [
+            "nz.co.codepoint.minimetro/com.unity3d.player.UnityPlayerActivity"
+        ],
         "linux": {
             "root": "steam_icon_287980"
         }
@@ -15955,6 +15958,9 @@
         }
     },
     "syncthing-gtk": {
+        "android": [
+            "com.nutomic.syncthingandroid/com.nutomic.syncthingandroid.activities.FirstStartActivity"
+        ],
         "linux": {
             "root": "syncthing-gtk"
         }
@@ -17654,6 +17660,9 @@
         }
     },
     "web-browser": {
+        "android": [
+            "com.sec.android.app.sbrowser/com.sec.android.app.sbrowser.SBrowserMainActivity"
+        ],
         "linux": {
             "root": "web-browser",
             "symlinks": [
