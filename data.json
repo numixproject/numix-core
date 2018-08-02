@@ -10828,7 +10828,10 @@
     },
     "mkchromecast": {
         "linux": {
-            "root": "mkchromecast"
+            "root": "mkchromecast",
+            "symlinks": [
+                "gnomecast"
+            ]
         }
     },
     "mki3dgame": {
@@ -13363,6 +13366,7 @@
         "linux": {
             "root": "processing-pde",
             "symlinks": [
+                "org.processing.processingide",
                 "pde-512",
                 "processing"
             ]
