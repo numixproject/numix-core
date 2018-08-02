@@ -3217,7 +3217,10 @@
     },
     "codeblocks": {
         "linux": {
-            "root": "codeblocks"
+            "root": "codeblocks",
+            "symlinks": [
+                "org.codeblocks.codeblocks"
+            ]
         }
     },
     "codelite": {
@@ -11491,7 +11494,10 @@
     },
     "nheko": {
         "linux": {
-            "root": "nheko"
+            "root": "nheko",
+            "symlinks": [
+                "io.github.mujx.Nheko"
+            ]
         }
     },
     "nicotine-plus": {
