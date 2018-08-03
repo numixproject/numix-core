@@ -14937,7 +14937,9 @@
         "linux": {
             "root": "ser-player",
             "symlinks": [
-                "com.google.sites.ser-player"
+                "com.google.sites.ser-player",
+                "fips",
+                "space.fips.Fips"
             ]
         }
     },
