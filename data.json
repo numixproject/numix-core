@@ -17834,10 +17834,12 @@
             "com.instagram.android/com.instagram.android.activity.MainTabActivity"
         ],
         "linux": {
-            "root": "unity-webapps-instagram",
+            "root": "web-instagram",
             "symlinks": [
                 "chrome-eknidjojcplfcgkoffboklcbfhmcdhip-Default",
-                "chrome-oacfdfgmgfbpgjgpgghdcjfaajdiggho-Default"
+                "chrome-oacfdfgmgfbpgjgpgghdcjfaajdiggho-Default",
+                "ramme",
+                "unity-webapps-instagram"
             ]
         }
     },
