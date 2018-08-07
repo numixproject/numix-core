@@ -6801,6 +6801,14 @@
             ]
         }
     },
+    "gnome-keysign": {
+        "linux": {
+            "root": "gnome-keysign",
+            "symlinks": [
+                "org.gnome.Keysign"
+            ]
+        }
+    },
     "gnome-klotski": {
         "linux": {
             "root": "gnome-klotski",
