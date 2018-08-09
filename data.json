@@ -10861,7 +10861,8 @@
             "symlinks": [
                 "mkv-gui",
                 "mkvmergeGUI",
-                "mkvtoolnix-gui"
+                "mkvtoolnix-gui",
+                "org.bunkus.mkvtoolnix-gui"
             ]
         }
     },
@@ -11278,7 +11279,10 @@
     },
     "naev": {
         "linux": {
-            "root": "naev"
+            "root": "naev",
+            "symlinks": [
+                "org.naev.Naev"
+            ]
         }
     },
     "nagstamon": {
@@ -13621,7 +13625,15 @@
     },
     "qemu-launcher": {
         "linux": {
-            "root": "qemu-launcher"
+            "root": "qemu-launcher",
+            "symlinks": [
+                "qemu",
+                "qemu-system-aarch64",
+                "qemu-system-arm",
+                "qemu-system-i386",
+                "qemu-system-x86_64",
+                "qemu-system-x86_64-spice"
+            ]
         }
     },
     "qesteidutil": {
