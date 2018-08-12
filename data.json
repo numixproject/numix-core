@@ -4795,7 +4795,8 @@
         "linux": {
             "root": "drracket",
             "symlinks": [
-                "plt"
+                "plt",
+                "racket-logo"
             ]
         }
     },
@@ -6467,7 +6468,10 @@
     },
     "ghostwriter": {
         "linux": {
-            "root": "ghostwriter"
+            "root": "ghostwriter",
+            "symlinks": [
+                "io.github.wereturtle.ghostwriter"
+            ]
         }
     },
     "giada": {
