@@ -3168,6 +3168,7 @@
         "linux": {
             "root": "clion",
             "symlinks": [
+                "com.jetbrains.CLion",
                 "jetbrains-clion"
             ]
         }
@@ -3703,6 +3704,7 @@
         "linux": {
             "root": "datagrip",
             "symlinks": [
+                "com.jetbrains.DataGrip",
                 "jetbrains-datagrip"
             ]
         }
@@ -4794,7 +4796,8 @@
         "linux": {
             "root": "drracket",
             "symlinks": [
-                "plt"
+                "plt",
+                "racket-logo"
             ]
         }
     },
@@ -6466,7 +6469,10 @@
     },
     "ghostwriter": {
         "linux": {
-            "root": "ghostwriter"
+            "root": "ghostwriter",
+            "symlinks": [
+                "io.github.wereturtle.ghostwriter"
+            ]
         }
     },
     "giada": {
@@ -7597,6 +7603,7 @@
             "root": "graphui",
             "symlinks": [
                 "com.github.artemanufrij.graphui",
+                "heimer",
                 "kgraphviewer"
             ]
         }
@@ -8421,6 +8428,7 @@
             "root": "idea",
             "symlinks": [
                 "com.jetbrains.Intellij-Community",
+                "com.jetbrains.IntelliJ-IDEA-Ultimate",
                 "intellij",
                 "intellij-idea",
                 "intellij-idea-ce",
@@ -9816,6 +9824,7 @@
         "linux": {
             "root": "labyrinth",
             "symlinks": [
+                "com.github.labyrinth_team.labyrinth",
                 "dementia",
                 "semantik-d"
             ]
@@ -10831,7 +10840,10 @@
     },
     "mkchromecast": {
         "linux": {
-            "root": "mkchromecast"
+            "root": "mkchromecast",
+            "symlinks": [
+                "gnomecast"
+            ]
         }
     },
     "mki3dgame": {
@@ -10859,7 +10871,8 @@
             "symlinks": [
                 "mkv-gui",
                 "mkvmergeGUI",
-                "mkvtoolnix-gui"
+                "mkvtoolnix-gui",
+                "org.bunkus.mkvtoolnix-gui"
             ]
         }
     },
@@ -11276,7 +11289,10 @@
     },
     "naev": {
         "linux": {
-            "root": "naev"
+            "root": "naev",
+            "symlinks": [
+                "org.naev.Naev"
+            ]
         }
     },
     "nagstamon": {
@@ -13366,6 +13382,7 @@
         "linux": {
             "root": "processing-pde",
             "symlinks": [
+                "org.processing.processingide",
                 "pde-512",
                 "processing"
             ]
@@ -13618,7 +13635,15 @@
     },
     "qemu-launcher": {
         "linux": {
-            "root": "qemu-launcher"
+            "root": "qemu-launcher",
+            "symlinks": [
+                "qemu",
+                "qemu-system-aarch64",
+                "qemu-system-arm",
+                "qemu-system-i386",
+                "qemu-system-x86_64",
+                "qemu-system-x86_64-spice"
+            ]
         }
     },
     "qesteidutil": {
@@ -13643,6 +13668,7 @@
         "linux": {
             "root": "qgis",
             "symlinks": [
+                "org.qgis.qgis",
                 "qbrowser",
                 "qgis-icon"
             ]
@@ -14936,7 +14962,9 @@
         "linux": {
             "root": "ser-player",
             "symlinks": [
-                "com.google.sites.ser-player"
+                "com.google.sites.ser-player",
+                "fips",
+                "space.fips.Fips"
             ]
         }
     },
