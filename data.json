@@ -6500,11 +6500,6 @@
             ]
         }
     },
-    "girl": {
-        "linux": {
-            "root": "girl"
-        }
-    },
     "git-cola": {
         "linux": {
             "root": "git-cola"
@@ -6801,6 +6796,14 @@
                 "glines",
                 "kfourinline",
                 "org.gnome.five-or-more"
+            ]
+        }
+    },
+    "gnome-internet-radio-locator": {
+        "linux": {
+            "root": "gnome-internet-radio-locator",
+            "symlinks": [
+                "girl"
             ]
         }
     },
