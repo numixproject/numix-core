@@ -1472,6 +1472,16 @@
             "root": "bittorent"
         }
     },
+    "bitwarden": {
+        "linux": {
+            "root": "bitwarden",
+            "symlinks": [
+                "com.bitwarden.Bitwarden",
+                "com.bitwarden.BitwardenDesktop",
+                "com.bitwarden.desktop"
+            ]
+        }
+    },
     "bitwig-studio": {
         "linux": {
             "root": "bitwig-studio"
