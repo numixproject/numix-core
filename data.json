@@ -7840,7 +7840,10 @@
     },
     "gtranslator": {
         "linux": {
-            "root": "gtranslator"
+            "root": "gtranslator",
+            "symlinks": [
+                "org.gnome.Gtranslator"
+            ]
         }
     },
     "guacamelee": {
@@ -12771,6 +12774,7 @@
         "linux": {
             "root": "pidgin",
             "symlinks": [
+                "im.pidgin.Pidgin",
                 "pidgin-menu"
             ]
         }
