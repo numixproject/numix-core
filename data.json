@@ -8451,6 +8451,14 @@
             "root": "ignuit"
         }
     },
+    "image-optimizer": {
+        "linux": {
+            "root": "image-optimizer",
+            "symlinks": [
+                "com.github.gijsgoudzwaard.image-optimizer"
+            ]
+        }
+    },
     "imagemagick": {
         "linux": {
             "root": "imagemagick",
