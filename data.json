@@ -1472,6 +1472,16 @@
             "root": "bittorent"
         }
     },
+    "bitwarden": {
+        "linux": {
+            "root": "bitwarden",
+            "symlinks": [
+                "com.bitwarden.Bitwarden",
+                "com.bitwarden.BitwardenDesktop",
+                "com.bitwarden.desktop"
+            ]
+        }
+    },
     "bitwig-studio": {
         "linux": {
             "root": "bitwig-studio"
@@ -3168,6 +3178,7 @@
         "linux": {
             "root": "clion",
             "symlinks": [
+                "com.jetbrains.CLion",
                 "jetbrains-clion"
             ]
         }
@@ -3217,7 +3228,10 @@
     },
     "codeblocks": {
         "linux": {
-            "root": "codeblocks"
+            "root": "codeblocks",
+            "symlinks": [
+                "org.codeblocks.codeblocks"
+            ]
         }
     },
     "codelite": {
@@ -3700,6 +3714,7 @@
         "linux": {
             "root": "datagrip",
             "symlinks": [
+                "com.jetbrains.DataGrip",
                 "jetbrains-datagrip"
             ]
         }
@@ -4791,7 +4806,8 @@
         "linux": {
             "root": "drracket",
             "symlinks": [
-                "plt"
+                "plt",
+                "racket-logo"
             ]
         }
     },
@@ -6463,7 +6479,10 @@
     },
     "ghostwriter": {
         "linux": {
-            "root": "ghostwriter"
+            "root": "ghostwriter",
+            "symlinks": [
+                "io.github.wereturtle.ghostwriter"
+            ]
         }
     },
     "giada": {
@@ -6495,11 +6514,6 @@
             "symlinks": [
                 "org.gimp.GIMP"
             ]
-        }
-    },
-    "girl": {
-        "linux": {
-            "root": "girl"
         }
     },
     "git-cola": {
@@ -6798,6 +6812,14 @@
                 "glines",
                 "kfourinline",
                 "org.gnome.five-or-more"
+            ]
+        }
+    },
+    "gnome-internet-radio-locator": {
+        "linux": {
+            "root": "gnome-internet-radio-locator",
+            "symlinks": [
+                "girl"
             ]
         }
     },
@@ -7599,6 +7621,7 @@
             "root": "graphui",
             "symlinks": [
                 "com.github.artemanufrij.graphui",
+                "heimer",
                 "kgraphviewer"
             ]
         }
@@ -7835,7 +7858,10 @@
     },
     "gtranslator": {
         "linux": {
-            "root": "gtranslator"
+            "root": "gtranslator",
+            "symlinks": [
+                "org.gnome.Gtranslator"
+            ]
         }
     },
     "guacamelee": {
@@ -8423,6 +8449,7 @@
             "root": "idea",
             "symlinks": [
                 "com.jetbrains.Intellij-Community",
+                "com.jetbrains.IntelliJ-IDEA-Ultimate",
                 "intellij",
                 "intellij-idea",
                 "intellij-idea-ce",
@@ -8443,6 +8470,14 @@
     "ignuit": {
         "linux": {
             "root": "ignuit"
+        }
+    },
+    "image-optimizer": {
+        "linux": {
+            "root": "image-optimizer",
+            "symlinks": [
+                "com.github.gijsgoudzwaard.image-optimizer"
+            ]
         }
     },
     "imagemagick": {
@@ -9818,6 +9853,7 @@
         "linux": {
             "root": "labyrinth",
             "symlinks": [
+                "com.github.labyrinth_team.labyrinth",
                 "dementia",
                 "semantik-d"
             ]
@@ -10775,6 +10811,9 @@
         }
     },
     "mini-metro": {
+        "android": [
+            "nz.co.codepoint.minimetro/com.unity3d.player.UnityPlayerActivity"
+        ],
         "linux": {
             "root": "steam_icon_287980"
         }
@@ -10830,7 +10869,10 @@
     },
     "mkchromecast": {
         "linux": {
-            "root": "mkchromecast"
+            "root": "mkchromecast",
+            "symlinks": [
+                "gnomecast"
+            ]
         }
     },
     "mki3dgame": {
@@ -10858,7 +10900,8 @@
             "symlinks": [
                 "mkv-gui",
                 "mkvmergeGUI",
-                "mkvtoolnix-gui"
+                "mkvtoolnix-gui",
+                "org.bunkus.mkvtoolnix-gui"
             ]
         }
     },
@@ -11275,7 +11318,10 @@
     },
     "naev": {
         "linux": {
-            "root": "naev"
+            "root": "naev",
+            "symlinks": [
+                "org.naev.Naev"
+            ]
         }
     },
     "nagstamon": {
@@ -11499,7 +11545,10 @@
     },
     "nheko": {
         "linux": {
-            "root": "nheko"
+            "root": "nheko",
+            "symlinks": [
+                "io.github.mujx.Nheko"
+            ]
         }
     },
     "nicotine-plus": {
@@ -12743,6 +12792,7 @@
         "linux": {
             "root": "pidgin",
             "symlinks": [
+                "im.pidgin.Pidgin",
                 "pidgin-menu"
             ]
         }
@@ -13362,6 +13412,7 @@
         "linux": {
             "root": "processing-pde",
             "symlinks": [
+                "org.processing.processingide",
                 "pde-512",
                 "processing"
             ]
@@ -13614,7 +13665,15 @@
     },
     "qemu-launcher": {
         "linux": {
-            "root": "qemu-launcher"
+            "root": "qemu-launcher",
+            "symlinks": [
+                "qemu",
+                "qemu-system-aarch64",
+                "qemu-system-arm",
+                "qemu-system-i386",
+                "qemu-system-x86_64",
+                "qemu-system-x86_64-spice"
+            ]
         }
     },
     "qesteidutil": {
@@ -13639,6 +13698,7 @@
         "linux": {
             "root": "qgis",
             "symlinks": [
+                "org.qgis.qgis",
                 "qbrowser",
                 "qgis-icon"
             ]
@@ -14932,7 +14992,9 @@
         "linux": {
             "root": "ser-player",
             "symlinks": [
-                "com.google.sites.ser-player"
+                "com.google.sites.ser-player",
+                "fips",
+                "space.fips.Fips"
             ]
         }
     },
@@ -15957,6 +16019,9 @@
         }
     },
     "syncthing-gtk": {
+        "android": [
+            "com.nutomic.syncthingandroid/com.nutomic.syncthingandroid.activities.FirstStartActivity"
+        ],
         "linux": {
             "root": "syncthing-gtk"
         }
@@ -17656,6 +17721,9 @@
         }
     },
     "web-browser": {
+        "android": [
+            "com.sec.android.app.sbrowser/com.sec.android.app.sbrowser.SBrowserMainActivity"
+        ],
         "linux": {
             "root": "web-browser",
             "symlinks": [
@@ -18052,7 +18120,8 @@
             "root": "signal-desktop",
             "symlinks": [
                 "chrome-bikioccmkafdpakkkcpdbppfkghcmihk-Default",
-                "org.signal.Signal"
+                "org.signal.Signal",
+                "signal"
             ]
         }
     },
@@ -19024,6 +19093,11 @@
             "symlinks": [
                 "MediaHuman"
             ]
+        }
+    },
+    "yuzu": {
+        "linux": {
+            "root": "yuzu"
         }
     },
     "zandronum": {
