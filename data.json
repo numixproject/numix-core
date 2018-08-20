@@ -12823,6 +12823,14 @@
             "root": "pinta"
         }
     },
+    "pioneer": {
+        "linux": {
+            "root": "pioneer",
+            "symlinks": [
+                "net.pioneerspacesim.Pioneer"
+            ]
+        }
+    },
     "pioneers": {
         "linux": {
             "root": "pioneers"
