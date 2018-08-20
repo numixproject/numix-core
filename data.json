@@ -14264,6 +14264,15 @@
             "root": "rdm"
         }
     },
+    "rdplot": {
+        "linux": {
+            "root": "rdplot",
+            "symlinks": [
+                "de.ient.RDPlot",
+                "PLOT64"
+            ]
+        }
+    },
     "reactotron": {
         "linux": {
             "root": "reactotron"
