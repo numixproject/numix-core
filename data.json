@@ -19121,6 +19121,17 @@
             ]
         }
     },
+    "yuview": {
+        "linux": {
+            "root": "yuview",
+            "symlinks": [
+                "de.ient.YUView",
+                "de.rwth_aachen.ient.YUView",
+                "IENT-YUView",
+                "IENT-YUView-64"
+            ]
+        }
+    },
     "yuzu": {
         "linux": {
             "root": "yuzu"
