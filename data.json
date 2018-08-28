@@ -211,6 +211,7 @@
                 "applications-graphics",
                 "graphics-image-editor",
                 "kolourpaint",
+                "org.kde.kolourpaint",
                 "tuxpaint"
             ]
         }
@@ -5734,6 +5735,7 @@
                 "adobe-flashplayer",
                 "AdobeFlash",
                 "adobeflashplugin",
+                "com.Adobe.Flash-Player-Projector",
                 "flash-player-properties",
                 "flashplayer",
                 "flashplayerproperties"
@@ -6293,7 +6295,8 @@
                 "deepin-picker",
                 "gcolor",
                 "gcolor3",
-                "gpick"
+                "gpick",
+                "nl.hjdskes.gcolor3"
             ]
         }
     },
@@ -9463,7 +9466,10 @@
     },
     "klines": {
         "linux": {
-            "root": "klines"
+            "root": "klines",
+            "symlinks": [
+                "org.kde.klines"
+            ]
         }
     },
     "kmag": {
@@ -15320,6 +15326,7 @@
         "linux": {
             "root": "smartgithg",
             "symlinks": [
+                "com.syntevo.SmartGit",
                 "smartgit"
             ]
         }
@@ -15331,7 +15338,10 @@
     },
     "smartsynchronize": {
         "linux": {
-            "root": "smartsynchronize"
+            "root": "smartsynchronize",
+            "symlinks": [
+                "com.syntevo.SmartSynchronize"
+            ]
         }
     },
     "smarttrafficmeter": {
