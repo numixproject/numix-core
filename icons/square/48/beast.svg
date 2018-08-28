@@ -1,0 +1,23 @@
+<svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="bg" x2="0" y1="1" y2="47" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#d6d6fc" offset="0"/>
+   <stop style="stop-color:#c3c3fb" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4zm0 0.5v0.5c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.5c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.02"/>
+ <path d="m1 43.25v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.05"/>
+ <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
+ <rect x="1" y="1" width="46" height="46" rx="4" style="fill:url(#bg)"/>
+ <path d="m1 39v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
+ <path d="m20 15v8h1.875l0.625 5 0.625-5h1.875v-8zm11.451 1-5.6777 5.6777 1.3301 1.3301-3.1035 3.9922 3.9922-3.1035 1.3301 1.3301 5.6777-5.6777zm-18.957 6.332-2.4941 5.6016 9.1348 4.0664 0.86719-1.9473 5.8887 1.5273-5.0742-3.3555 0.8125-1.8262zm15.506 3.668v1.875l-5 0.625 5 0.625v1.875h8v-5z" style="opacity:.1;paint-order:normal"/>
+ <rect x="20" y="14" width="5" height="8" style="fill:#303030;paint-order:normal"/>
+ <rect x="21" y="15" width="3" height="6" style="fill:#f9f9f9;paint-order:normal"/>
+ <rect transform="rotate(90)" x="25" y="-36" width="5" height="8" style="fill:#303030;paint-order:normal"/>
+ <rect transform="rotate(90)" x="26" y="-35" width="3" height="6" style="fill:#f9f9f9;paint-order:normal"/>
+ <rect transform="rotate(45)" x="32.846" y="-11.633" width="5.0182" height="8.0291" style="fill:#303030;paint-order:normal"/>
+ <rect transform="rotate(45)" x="33.85" y="-10.629" width="3.0109" height="6.0218" style="fill:#f9f9f9;paint-order:normal"/>
+ <path d="m12.494 21.331 9.1355 4.0674-2.4938 5.6013-9.1355-4.0674z" style="fill:#303030;paint-order:normal"/>
+ <rect transform="rotate(24)" x="21.09" y="15.405" width="8" height="4" style="fill:#f9f9f9;paint-order:normal"/>
+ <path d="m21.5 19 1 8 1-8zm7.4492 0.63672-4.9492 6.3633 6.3633-4.9492zm-10.67 5.9121-1.2207 2.7402 8.832 2.291zm12.721 0.95117-8 1 8 1z" style="fill:#303030;paint-order:normal"/>
+</svg>
