@@ -5868,6 +5868,7 @@
                 "gnome-character-map",
                 "gnome-settings-font",
                 "kfontview",
+                "org.gnome.font-viewer",
                 "org.gnome.Fonts",
                 "preferences-desktop-font"
             ]
@@ -10493,7 +10494,10 @@
     },
     "mailspring": {
         "linux": {
-            "root": "mailspring"
+            "root": "mailspring",
+            "symlinks": [
+                " com.getmailspring.Mailspring"
+            ]
         }
     },
     "makagiga": {
