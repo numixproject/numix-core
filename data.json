@@ -15340,6 +15340,7 @@
         "linux": {
             "root": "sm-ssc",
             "symlinks": [
+                "com.stepmania.StepMania",
                 "stepmania",
                 "stepmania-ssc"
             ]
@@ -16246,7 +16247,8 @@
             "symlinks": [
                 "gnome-tali",
                 "gtali",
-                "kjumpingcube"
+                "kjumpingcube",
+                "org.kde.kjumpingcube"
             ]
         }
     },
