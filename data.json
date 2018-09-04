@@ -3047,7 +3047,8 @@
             "symlinks": [
                 "chromium-browser",
                 "chromium-browser2",
-                "google-chromium"
+                "google-chromium",
+                "org.chromium.Chromium"
             ]
         }
     },
@@ -7298,6 +7299,7 @@
             "root": "google-chrome",
             "symlinks": [
                 "chrome",
+                "com.google.Chrome",
                 "google-chrome2",
                 "googlechrome"
             ]
@@ -7343,6 +7345,7 @@
         "linux": {
             "root": "google-earth",
             "symlinks": [
+                "com.google.Earth",
                 "earth",
                 "google-earth-pro",
                 "googleearth",
@@ -16878,11 +16881,13 @@
             "root": "transmission",
             "symlinks": [
                 "io.github.TransmissionRemoteGtk",
+                "org.equeim.Tremotesf",
                 "transgui",
                 "transgui-2",
                 "transmission-gtk",
                 "transmission-qt",
-                "transmission-remote-gtk"
+                "transmission-remote-gtk",
+                "tremotesf"
             ]
         }
     },
