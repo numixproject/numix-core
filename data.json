@@ -788,12 +788,14 @@
         "linux": {
             "root": "application-default-icon",
             "symlinks": [
+                "adriconf",
                 "applications-accessories",
                 "applications-other",
                 "cs-default-applications",
                 "gnome-desktop-item-edit",
                 "gnome-run",
                 "gnome-settings-defaulg-applications",
+                "org.x.adriconf",
                 "preferences-desktop-launch-feedback"
             ]
         }
