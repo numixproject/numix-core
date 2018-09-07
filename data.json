@@ -445,6 +445,15 @@
             "root": "AdobeWidgetBrowser"
         }
     },
+    "adriconf": {
+        "linux": {
+            "root": "adriconf",
+            "symlinks": [
+                "br.com.jeanhertel.adriconf",
+                "org.x.adriconf"
+            ]
+        }
+    },
     "adventure-editor": {
         "linux": {
             "root": "adventure-editor",
