@@ -2746,7 +2746,10 @@
     },
     "calibre": {
         "linux": {
-            "root": "calibre"
+            "root": "calibre",
+            "symlinks": [
+                "com.calibre_ebook.calibre"
+            ]
         }
     },
     "calibre-ebook-edit": {
@@ -16091,7 +16094,10 @@
             "com.nutomic.syncthingandroid/com.nutomic.syncthingandroid.activities.FirstStartActivity"
         ],
         "linux": {
-            "root": "syncthing-gtk"
+            "root": "syncthing-gtk",
+            "symlinks": [
+                "me.kozec.syncthingtk"
+            ]
         }
     },
     "synergy": {
