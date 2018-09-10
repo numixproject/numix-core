@@ -14429,6 +14429,14 @@
             ]
         }
     },
+    "remote-touchpad": {
+        "linux": {
+            "root": "remote-touchpad",
+            "symlinks": [
+                "com.github.unrud.RemoteTouchpad"
+            ]
+        }
+    },
     "remotebox": {
         "linux": {
             "root": "remotebox"
