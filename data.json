@@ -5323,6 +5323,7 @@
         "linux": {
             "root": "evolution",
             "symlinks": [
+                "org.gnome.Evolution",
                 "ximian-evolution-email"
             ]
         }
@@ -5979,7 +5980,10 @@
     },
     "freecad": {
         "linux": {
-            "root": "freecad"
+            "root": "freecad",
+            "symlinks": [
+                "org.freecadweb.FreeCAD"
+            ]
         }
     },
     "freechartgeany": {
@@ -6094,7 +6098,8 @@
         "linux": {
             "root": "fritzing",
             "symlinks": [
-                "fritzing_icon"
+                "fritzing_icon",
+                "org.fritzing.Fritzing"
             ]
         }
     },
