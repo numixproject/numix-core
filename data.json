@@ -11067,6 +11067,14 @@
             "root": "movie-editor"
         }
     },
+    "movie-monad": {
+        "linux": {
+            "root": "movie-monad",
+            "symlinks": [
+                "com.lettier.movie-monad"
+            ]
+        }
+    },
     "mp3splt": {
         "linux": {
             "root": "mp3splt-gtk_ico"
