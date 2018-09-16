@@ -8627,7 +8627,11 @@
     },
     "input-touchpad": {
         "linux": {
-            "root": "input-touchpad"
+            "root": "input-touchpad",
+            "symlinks": [
+                "com.github.unrud.RemoteTouchpad",
+                "remote-touchpad"
+            ]
         }
     },
     "insomnia": {
@@ -14426,14 +14430,6 @@
                 "preferences-remote-desktop",
                 "remmina",
                 "vinagre"
-            ]
-        }
-    },
-    "remote-touchpad": {
-        "linux": {
-            "root": "remote-touchpad",
-            "symlinks": [
-                "com.github.unrud.RemoteTouchpad"
             ]
         }
     },
