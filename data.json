@@ -1059,7 +1059,8 @@
             "root": "aseprite",
             "symlinks": [
                 "com.github.libresprite.LibreSprite",
-                "libresprite"
+                "libresprite",
+                "steam_icon_431730"
             ]
         }
     },
@@ -2756,7 +2757,10 @@
     },
     "calibre": {
         "linux": {
-            "root": "calibre"
+            "root": "calibre",
+            "symlinks": [
+                "com.calibre_ebook.calibre"
+            ]
         }
     },
     "calibre-ebook-edit": {
@@ -5336,6 +5340,7 @@
         "linux": {
             "root": "evolution",
             "symlinks": [
+                "org.gnome.Evolution",
                 "ximian-evolution-email"
             ]
         }
@@ -5992,7 +5997,10 @@
     },
     "freecad": {
         "linux": {
-            "root": "freecad"
+            "root": "freecad",
+            "symlinks": [
+                "org.freecadweb.FreeCAD"
+            ]
         }
     },
     "freechartgeany": {
@@ -6107,7 +6115,8 @@
         "linux": {
             "root": "fritzing",
             "symlinks": [
-                "fritzing_icon"
+                "fritzing_icon",
+                "org.fritzing.Fritzing"
             ]
         }
     },
@@ -6526,6 +6535,7 @@
         "linux": {
             "root": "gifcurry",
             "symlinks": [
+                "com.lettier.gifcurry",
                 "gifcurry-icon"
             ]
         }
@@ -16137,7 +16147,10 @@
             "com.nutomic.syncthingandroid/com.nutomic.syncthingandroid.activities.FirstStartActivity"
         ],
         "linux": {
-            "root": "syncthing-gtk"
+            "root": "syncthing-gtk",
+            "symlinks": [
+                "me.kozec.syncthingtk"
+            ]
         }
     },
     "synergy": {
