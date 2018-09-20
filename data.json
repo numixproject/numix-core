@@ -17447,6 +17447,14 @@
             "root": "vcmiclient"
         }
     },
+    "vcvrack": {
+        "linux": {
+            "root": "vcvrack",
+            "symlinks": [
+                "VCVRack"
+            ]
+        }
+    },
     "vega": {
         "linux": {
             "root": "vega"
