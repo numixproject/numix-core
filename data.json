@@ -10068,7 +10068,10 @@
     },
     "libinput-gestures": {
         "linux": {
-            "root": "libinput-gestures"
+            "root": "libinput-gestures",
+            "symlinks": [
+                "org.cunidev.gestures"
+            ]
         }
     },
     "librecad": {
