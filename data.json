@@ -5878,6 +5878,14 @@
             "root": "fogger"
         }
     },
+    "fondo": {
+        "linux": {
+            "root": "fondo",
+            "symlinks": [
+                "com.github.calo001.fondo"
+            ]
+        }
+    },
     "fontforge": {
         "linux": {
             "root": "fontforge"
