@@ -297,7 +297,8 @@
                 "AdobeReader11",
                 "AdobeReader12",
                 "AdobeReader8",
-                "AdobeReader9"
+                "AdobeReader9",
+                "com.adobe.Reader"
             ]
         }
     },
@@ -10067,7 +10068,10 @@
     },
     "libinput-gestures": {
         "linux": {
-            "root": "libinput-gestures"
+            "root": "libinput-gestures",
+            "symlinks": [
+                "org.cunidev.gestures"
+            ]
         }
     },
     "librecad": {
@@ -11495,6 +11499,7 @@
                 "nvim-gtk",
                 "nvim-qt",
                 "org.daa.NeovimGtk",
+                "org.neovim.nvim",
                 "pynvim"
             ]
         }
@@ -16127,7 +16132,8 @@
             "root": "swell-foop",
             "symlinks": [
                 "gnome-samegnome",
-                "gnome-swell-foop"
+                "gnome-swell-foop",
+                "org.gnome.SwellFoop"
             ]
         }
     },
@@ -18661,6 +18667,7 @@
             "symlinks": [
                 "coax",
                 "com.wire.Coax",
+                "com.wire.WireDesktop",
                 "wire-desktop"
             ]
         }
