@@ -3311,7 +3311,10 @@
     },
     "colobot": {
         "linux": {
-            "root": "colobot"
+            "root": "colobot",
+            "symlinks": [
+                "info.colobot.Colobot"
+            ]
         }
     },
     "colorhug": {
@@ -7867,11 +7870,13 @@
         "linux": {
             "root": "gtick",
             "symlinks": [
+                "advancedmetronome",
                 "artemanufrij.metronome",
                 "com.github.artemanufrij.metronome",
                 "gtklick",
                 "kmetronome",
-                "metronome"
+                "metronome",
+                "net.bartkessels.advancedmetronome"
             ]
         }
     },
