@@ -12574,6 +12574,14 @@
             "root": "pasaffe"
         }
     },
+    "passwordsafe": {
+        "linux": {
+            "root": "passwordsafe",
+            "symlinks": [
+                "org.gnome.PasswordSafe"
+            ]
+        }
+    },
     "patchage": {
         "linux": {
             "root": "patchage"
