@@ -3319,7 +3319,11 @@
     },
     "colorhug": {
         "linux": {
-            "root": "colorhug"
+            "root": "colorhug",
+            "symlinks": [
+                "colorhug2",
+                "com.hugski.ColorHug2"
+            ]
         }
     },
     "colorhug-backlight": {
@@ -7580,6 +7584,7 @@
             "root": "gpicview",
             "symlinks": [
                 "gwenview",
+                "org.kde.Gwenview",
                 "org.kde.gwenview"
             ]
         }
@@ -15395,6 +15400,7 @@
             "symlinks": [
                 "com.skype.Client",
                 "ghetto-skype",
+                "ms-skype",
                 "skypeforlinux"
             ]
         }
