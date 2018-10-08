@@ -841,7 +841,7 @@
     "applications-interfacedesign": {
         "linux": {
             "root": "applications-interfacedesign"
-	}
+    }
     },
     "applications-internet": {
         "linux": {
@@ -16433,6 +16433,14 @@
             "symlinks": [
                 "teamspeak3",
                 "ts3client_linux_amd64"
+            ]
+        }
+    },
+    "teamsql": {
+        "linux": {
+            "root": "teamsql",
+            "symlinks": [
+                "TeamSQL"
             ]
         }
     },
