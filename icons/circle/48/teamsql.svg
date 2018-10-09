@@ -36,67 +36,35 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1052"
+     inkscape:window-width="2560"
+     inkscape:window-height="1378"
      id="namedview53"
      showgrid="false"
      inkscape:zoom="13.906433"
      inkscape:cx="-3.1518116"
-     inkscape:cy="20.099095"
-     inkscape:window-x="2560"
-     inkscape:window-y="168"
+     inkscape:cy="20.171004"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg51" />
   <defs
      id="defs7">
     <linearGradient
        id="linearGradient3764"
-       x1="37.033218"
-       x2="8.1257334"
+       x1="46.999996"
+       x2="1.0067255"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)"
-       y1="13.734652"
-       y2="33.581581">
+       y1="24.000002"
+       y2="24.017662">
       <stop
          style="stop-color:#4c5699;stop-opacity:1"
          id="stop2" />
       <stop
          offset="1"
-         style="stop-color:#475195;stop-opacity:1"
+         style="stop-color:#555fa3;stop-opacity:1"
          id="stop4" />
     </linearGradient>
-    <filter
-       style="color-interpolation-filters:sRGB;"
-       inkscape:label="Drop Shadow"
-       id="filter5478">
-      <feFlood
-         flood-opacity="0.258824"
-         flood-color="rgb(0,0,0)"
-         result="flood"
-         id="feFlood5468" />
-      <feComposite
-         in="flood"
-         in2="SourceGraphic"
-         operator="in"
-         result="composite1"
-         id="feComposite5470" />
-      <feGaussianBlur
-         in="composite1"
-         stdDeviation="0"
-         result="blur"
-         id="feGaussianBlur5472" />
-      <feOffset
-         dx="1.5"
-         dy="1.5"
-         result="offset"
-         id="feOffset5474" />
-      <feComposite
-         in="SourceGraphic"
-         in2="offset"
-         operator="over"
-         result="composite2"
-         id="feComposite5476" />
-    </filter>
   </defs>
   <g
      id="g15">
@@ -128,10 +96,15 @@
        id="path21" />
   </g>
   <path
-     style="fill:#fecb01;stroke-width:0.1047487;filter:url(#filter5478)"
-     d="m 23.733928,30.76407 -5.991298,7.883067 -6.78604,-5.073521 5.982993,-7.897044 -9.8381052,-3.386175 2.7525369,-7.51473 9.6069083,3.190718 -0.02168,-9.9550927 8.63969,-0.01882 0.105735,9.9012037 9.597271,-3.189598 2.616926,7.874144 -9.597271,3.189606 5.857677,8.286196 -7.067647,4.996259 z"
+     style="opacity:0.1;fill:#000000;fill-opacity:1;stroke-width:0.08483491"
+     d="m 24.940387,30.623987 -4.852291,6.384416 -5.495946,-4.108993 4.845566,-6.395736 -7.967782,-2.742429 2.229252,-6.086104 7.780538,2.58413 -0.01755,-8.062529 6.997198,-0.01524 0.08563,8.018884 7.772733,-2.583223 2.119422,6.37719 -7.772733,2.583229 4.744073,6.710907 -5.724015,4.046419 z"
      id="path901"
      inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccccccccccccccc"
-     transform="matrix(0.88809226,0,0,0.88809226,3.1677496,3.2794068)" />
+     sodipodi:nodetypes="cccccccccccccccc" />
+  <path
+     style="fill:#fecb01;stroke-width:0.08483491"
+     d="m 24.028273,29.712362 -4.852291,6.384415 -5.495946,-4.108992 4.845566,-6.395737 -7.967782,-2.742429 2.229252,-6.086103 7.780538,2.584129 -0.01755,-8.062527 6.997198,-0.01524 0.08563,8.018883 7.772733,-2.583222 2.119422,6.377189 -7.772733,2.58323 4.744073,6.710906 -5.724015,4.046419 z"
+     id="path901-3"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccccccccccc" />
 </svg>

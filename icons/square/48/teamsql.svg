@@ -7,7 +7,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg4340"
@@ -26,46 +25,34 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="2560"
-     inkscape:window-height="1378"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
      id="namedview34"
      showgrid="false"
      inkscape:zoom="13.906433"
-     inkscape:cx="4.8551967"
+     inkscape:cx="12.766455"
      inkscape:cy="24.369341"
-     inkscape:window-x="0"
-     inkscape:window-y="34"
+     inkscape:window-x="2560"
+     inkscape:window-y="168"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4340" />
   <defs
      id="defs4342">
     <linearGradient
-       inkscape:collect="always"
-       id="linearGradient1139">
-      <stop
-         style="stop-color:#fecb01;stop-opacity:1;"
-         offset="0"
-         id="stop1135" />
-      <stop
-         style="stop-color:#fecb01;stop-opacity:0;"
-         offset="1"
-         id="stop1137" />
-    </linearGradient>
-    <linearGradient
        id="linearGradient4220"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(-48 .00221)"
-       x2="8.413372"
-       x1="43.576954"
-       y1="24.303087"
-       y2="23.799723">
+       x2="1.1505462"
+       x1="46.812866"
+       y1="23.871632"
+       y2="23.871632">
       <stop
          id="stop7-37"
          style="stop-color:#4c5699;stop-opacity:1"
          offset="0" />
       <stop
          id="stop9-5"
-         style="stop-color:#475195;stop-opacity:1"
+         style="stop-color:#555fa3;stop-opacity:1"
          offset="1" />
     </linearGradient>
     <filter
@@ -100,15 +87,6 @@
          result="composite2"
          id="feComposite1131" />
     </filter>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1139"
-       id="linearGradient1141"
-       x1="67.575035"
-       y1="12.905882"
-       x2="67.898918"
-       y2="13.148793"
-       gradientUnits="userSpaceOnUse" />
   </defs>
   <metadata
      id="metadata4345">
@@ -118,7 +96,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -158,10 +136,15 @@
     </g>
   </g>
   <path
-     style="fill:url(#linearGradient1141);stroke-width:0.1047487;filter:url(#filter1133);fill-opacity:1"
-     d="m 23.733928,30.76407 -5.991298,7.883067 -6.78604,-5.073521 5.982993,-7.897044 -9.8381052,-3.386175 2.7525369,-7.51473 9.6069083,3.190718 -0.02168,-9.9550927 8.63969,-0.01882 0.105735,9.9012037 9.597271,-3.189598 2.616926,7.874144 -9.597271,3.189606 5.857677,8.286196 -7.067647,4.996259 z"
+     style="opacity:0.1;fill:#000000;fill-opacity:1;stroke-width:0.08483491"
+     d="m 24.892015,29.243378 -4.852291,6.384416 -5.495946,-4.108993 4.845566,-6.395736 -7.967782,-2.742429 2.229252,-6.086104 7.780538,2.58413 -0.01755,-8.062529 6.997198,-0.01524 0.08563,8.018884 7.772733,-2.583223 2.119422,6.37719 -7.772733,2.583229 4.744073,6.710907 -5.724015,4.046419 z"
      id="path901"
      inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccccccccccccccc"
-     transform="matrix(0.88809226,0,0,0.88809226,2.9076512,2.0938963)" />
+     sodipodi:nodetypes="cccccccccccccccc" />
+  <path
+     style="fill:#fecb01;stroke-width:0.08483491"
+     d="m 23.979901,28.331753 -4.852291,6.384415 -5.495946,-4.108992 4.845566,-6.395737 -7.967782,-2.742429 2.229252,-6.086103 7.780538,2.584129 -0.01755,-8.062527 6.997198,-0.01524 0.08563,8.018883 7.772733,-2.583222 2.119422,6.377189 -7.772733,2.58323 4.744073,6.710906 -5.724015,4.046419 z"
+     id="path901-3"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccccccccccc" />
 </svg>
