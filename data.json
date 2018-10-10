@@ -3319,7 +3319,11 @@
     },
     "colorhug": {
         "linux": {
-            "root": "colorhug"
+            "root": "colorhug",
+            "symlinks": [
+                "colorhug2",
+                "com.hugski.ColorHug2"
+            ]
         }
     },
     "colorhug-backlight": {
@@ -7580,6 +7584,7 @@
             "root": "gpicview",
             "symlinks": [
                 "gwenview",
+                "org.kde.Gwenview",
                 "org.kde.gwenview"
             ]
         }
@@ -10559,7 +10564,8 @@
             "root": "m64py",
             "symlinks": [
                 "mupen64plus",
-                "mupen64plus-qt"
+                "mupen64plus-qt",
+                "org.mupen64plus.Mupen64Plus"
             ]
         }
     },
@@ -15395,6 +15401,7 @@
             "symlinks": [
                 "com.skype.Client",
                 "ghetto-skype",
+                "ms-skype",
                 "skypeforlinux"
             ]
         }
@@ -19355,7 +19362,10 @@
     },
     "zeal": {
         "linux": {
-            "root": "zeal"
+            "root": "zeal",
+            "symlinks": [
+                "org.zealdocs.Zeal"
+            ]
         }
     },
     "zegrapher": {
