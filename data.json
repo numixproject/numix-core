@@ -13732,6 +13732,15 @@
             ]
         }
     },
+    "pyhoca-gui": {
+        "linux": {
+            "root": "pyhoca-gui",
+            "symlinks": [
+                "pyhoca_x2go",
+                "pyhoca_x2go-logo-ubuntu"
+            ]
+        }
+    },
     "pymol": {
         "linux": {
             "root": "pymol"
@@ -18959,6 +18968,11 @@
             "symlinks": [
                 "xplane"
             ]
+        }
+    },
+    "x2goclient": {
+        "linux": {
+            "root": "x2goclient"
         }
     },
     "xampp": {
