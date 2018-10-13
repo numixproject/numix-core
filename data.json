@@ -34,6 +34,14 @@
             "root": "4kvideodownloader"
         }
     },
+    "4diac-ide": {
+        "linux": {
+            "root": "4diac-ide",
+            "symlinks": [
+                "org.eclipse.iot.fourdiac.Ide"
+            ]
+        }
+    },
     "4pane": {
         "linux": {
             "root": "4Pane",
