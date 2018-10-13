@@ -5754,7 +5754,10 @@
     },
     "flameshot": {
         "linux": {
-            "root": "flameshot"
+            "root": "flameshot",
+            "symlinks": [
+                "org.dharkael.Flameshot"
+            ]
         }
     },
     "flare": {
@@ -9668,7 +9671,10 @@
             "org.xbmc.kodi/org.xbmc.kodi.Splash"
         ],
         "linux": {
-            "root": "kodi"
+            "root": "kodi",
+            "symlinks": [
+                "tv.kodi.Kodi"
+            ]
         }
     },
     "kolf": {
