@@ -29,17 +29,17 @@
             "root": "2gis"
         }
     },
-    "4kvideodownloader": {
-        "linux": {
-            "root": "4kvideodownloader"
-        }
-    },
     "4diac-ide": {
         "linux": {
             "root": "4diac-ide",
             "symlinks": [
                 "org.eclipse.iot.fourdiac.Ide"
             ]
+        }
+    },
+    "4kvideodownloader": {
+        "linux": {
+            "root": "4kvideodownloader"
         }
     },
     "4pane": {
