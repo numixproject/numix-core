@@ -1,59 +1,18 @@
-<svg id="svg20989" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <defs id="defs20929">
-  <linearGradient id="linearGradient3764" x1="1" x2="47" gradientTransform="translate(-48 .0022147)" gradientUnits="userSpaceOnUse">
-   <stop id="stop20914" stop-color="#e4e4e4" offset="0"/>
-   <stop id="stop20916" stop-color="#eee" offset="1"/>
+<svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="bg" x2="0" y1="1" y2="47" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#eee" offset="0"/>
+   <stop style="stop-color:#e4e4e4" offset="1"/>
   </linearGradient>
-  <clipPath id="clipPath-891734205">
-   <g id="g20921" transform="translate(0 -1004.4)">
-    <rect id="rect20919" x="1" y="1005.4" width="46" height="46" rx="4" fill="#1890d0"/>
-   </g>
-  </clipPath>
-  <clipPath id="clipPath-906295264">
-   <g id="g20926" transform="translate(0 -1004.4)">
-    <rect id="rect20924" x="1" y="1005.4" width="46" height="46" rx="4" fill="#1890d0"/>
-   </g>
-  </clipPath>
  </defs>
- <g id="g20937">
-  <path id="path20931" d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4zm0 0.5v0.5c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.5c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" opacity=".02"/>
-  <path id="path20933" d="m1 43.25v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" opacity=".05"/>
-  <path id="path20935" d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" opacity=".1"/>
- </g>
- <g id="g20941">
-  <rect id="rect20939" transform="rotate(-90)" x="-47" y="1" width="46" height="46" rx="4" fill="url(#linearGradient3764)"/>
- </g>
- <g id="g20961">
-  <g id="g20959" clip-path="url(#clipPath-891734205)">
-   <g id="g20957" opacity=".1">
-    <g id="g20955">
-     <path id="path20943" d="m39.625 15-12.219 18h5.406l12.188-18"/>
-     <path id="path20945" d="m15.188 15-12.188 18 5.406-4e-3 12.188-18"/>
-     <path id="path20947" d="m20.602 33h-5.391l12.191-18h5.387"/>
-     <path id="path20949" d="m3 15 12.188 17.996h5.406l-12.188-18"/>
-     <path id="path20951" d="m32.793 33-12.191-18h-5.391l12.191 18"/>
-     <path id="path20953" d="m27.406 15 12.219 18h5.375l-12.188-18"/>
-    </g>
-   </g>
-  </g>
- </g>
- <g id="g20981">
-  <g id="g20979" clip-path="url(#clipPath-906295264)">
-   <g id="g20977" transform="translate(0,-1)">
-    <g id="g20975">
-     <path id="path20963" d="m39.625 15-12.219 18h5.406l12.188-18" fill="#1eab85"/>
-     <path id="path20965" d="m15.188 15-12.188 18 5.406-4e-3 12.188-18" fill="#e54c2f"/>
-     <path id="path20967" d="m20.602 33h-5.391l12.191-18h5.387" fill="#d644b2"/>
-     <path id="path20969" d="m3 15 12.188 17.996h5.406l-12.188-18" fill="#2d2d2d"/>
-     <path id="path20971" d="m32.793 33-12.191-18h-5.391l12.191 18" fill="#2d2d2d"/>
-     <path id="path20973" d="m27.406 15 12.219 18h5.375l-12.188-18" fill="#2d2d2d"/>
-    </g>
-   </g>
-  </g>
- </g>
- <g id="g20987">
-  <g id="g20985" transform="translate(0 -1004.4)">
-   <path id="path20983" d="m1 1043.4v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" opacity=".1"/>
-  </g>
- </g>
+ <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4zm0 0.5v0.5c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.5c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.02"/>
+ <path d="m1 43.25v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.05"/>
+ <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
+ <rect x="1" y="1" width="46" height="46" rx="4" style="fill:url(#bg)"/>
+ <path d="m1 39v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
+ <path d="m8.4062 14.996-5.4062 0.003906 6.0938 8.998-6.0938 9.002 5.4062-0.0039 3.3906-5.0078 3.3906 5.0078 5.4141 0.0039 3.4004-5.0215 3.4004 5.0215h5.3906l3.4219-5.0234 3.4102 5.0234h5.375l-6.0938-9 6.0938-9h-5.375l-3.4102 5.0234-3.4023-5.0234h-5.4102l-3.4004 5.0195-3.4004-5.0195h-0.0098l2e-3 -0.0039-5.3828 0.0039-3.4121 5.0059zm21.695 3.9746 3.4141 5.0293-3.4121 5.0273-3.4062-5.0293zm-12.199 2e-3 3.4043 5.0273-3.4023 5.0234-3.4043-5.0273z" style="opacity:.1"/>
+ <path d="m39.625 14-12.219 18h5.406l12.188-18" style="fill:#1eab85"/>
+ <path d="m15.188 14-12.188 18 5.406-4e-3 12.188-18" style="fill:#e54c2f"/>
+ <path d="m20.602 32h-5.391l12.191-18h5.387" style="fill:#d644b2"/>
+ <path d="m8.4062 13.996-5.4062 0.003906 12.188 17.996h5.4062zm6.8047 0.003906 12.191 18h5.3906l-12.191-18zm12.195 0 12.219 18h5.375l-12.188-18z" style="fill:#2d2d2d"/>
 </svg>

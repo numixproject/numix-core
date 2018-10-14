@@ -1,53 +1,16 @@
-<svg id="svg13306" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <defs id="defs13258">
-  <linearGradient id="linearGradient3764" x1="1" x2="47" gradientTransform="translate(-48 .0022147)" gradientUnits="userSpaceOnUse">
-   <stop id="stop13243" stop-color="#2e6c2c" offset="0"/>
-   <stop id="stop13245" stop-color="#347a32" offset="1"/>
+<svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="bg" x2="0" y1="1" y2="47" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#347a32" offset="0"/>
+   <stop style="stop-color:#2e6c2c" offset="1"/>
   </linearGradient>
-  <clipPath id="clipPath-794065252">
-   <g id="g13250" transform="translate(0 -1004.4)">
-    <rect id="rect13248" x="1" y="1005.4" width="46" height="46" rx="4" fill="#1890d0"/>
-   </g>
-  </clipPath>
-  <clipPath id="clipPath-807687984">
-   <g id="g13255" transform="translate(0 -1004.4)">
-    <rect id="rect13253" x="1" y="1005.4" width="46" height="46" rx="4" fill="#1890d0"/>
-   </g>
-  </clipPath>
  </defs>
- <g id="g13266">
-  <path id="path13260" d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4zm0 0.5v0.5c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.5c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" opacity=".02"/>
-  <path id="path13262" d="m1 43.25v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" opacity=".05"/>
-  <path id="path13264" d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" opacity=".1"/>
- </g>
- <g id="g13270">
-  <rect id="rect13268" transform="rotate(-90)" x="-47" y="1" width="46" height="46" rx="4" fill="url(#linearGradient3764)"/>
- </g>
- <g id="g13284">
-  <g id="g13282" clip-path="url(#clipPath-794065252)">
-   <g id="g13280" opacity=".1">
-    <g id="g13278">
-     <path id="path13272" d="m14 24h5v-13h9v13h5.996l-10.496 13" fill-opacity=".302"/>
-     <path id="path13274" d="m36 34v-4h-12v4"/>
-     <path id="path13276" d="m14.742 30-2.742-2.906 6.172-5.094-6.172-5.09 2.742-2.91 9.262 8"/>
-    </g>
-   </g>
-  </g>
- </g>
- <g id="g13298">
-  <g id="g13296" clip-path="url(#clipPath-807687984)">
-   <g id="g13294" transform="translate(0,-1)">
-    <g id="g13292">
-     <path id="path13286" d="m14 24h5v-13h9v13h5.996l-10.496 13" fill="#fff" fill-opacity=".302"/>
-     <path id="path13288" d="m36 34v-4h-12v4" fill="#f9f9f9"/>
-     <path id="path13290" d="m14.742 30-2.742-2.906 6.172-5.094-6.172-5.09 2.742-2.91 9.262 8" fill="#f9f9f9"/>
-    </g>
-   </g>
-  </g>
- </g>
- <g id="g13304">
-  <g id="g13302" transform="translate(0 -1004.4)">
-   <path id="path13300" d="m1 1043.4v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" opacity=".1"/>
-  </g>
- </g>
+ <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4zm0 0.5v0.5c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.5c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.02"/>
+ <path d="m1 43.25v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.05"/>
+ <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
+ <rect x="1" y="1" width="46" height="46" rx="4" style="fill:url(#bg)"/>
+ <path d="m19 11v6.6777l-4.2578-3.6777-2.7422 2.9102 6.1719 5.0898-2.4238 2h-1.748l0.6582 0.90039-2.6582 2.1934 2.7422 2.9062 2.2324-1.9297 6.5254 8.9297 2.4219-3h10.078v-4h-6.8477l4.8438-6h-5.9961v-13z" style="opacity:.1"/>
+ <path d="m1 39v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
+ <path d="m14 23h5v-13h9v13h5.996l-10.496 13" style="fill-opacity:.302;fill:#fff"/>
+ <path d="m14.742 13-2.7422 2.9102 6.1719 5.0898-6.1719 5.0938 2.7422 2.9062 9.2617-8-9.2617-8zm9.2578 16v4h12v-4h-12z" style="fill:#f9f9f9"/>
 </svg>

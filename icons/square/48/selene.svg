@@ -1,49 +1,15 @@
-<svg id="svg31423" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <defs id="defs31383">
-  <linearGradient id="linearGradient3764" x1="1" x2="47" gradientTransform="translate(-48 .0022147)" gradientUnits="userSpaceOnUse">
-   <stop id="stop31368" stop-color="#efeea1" offset="0"/>
-   <stop id="stop31370" stop-color="#f2f2b3" offset="1"/>
+<svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="bg" x2="0" y1="1" y2="47" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#f2f1b2" offset="0"/>
+   <stop style="stop-color:#efeea1" offset="1"/>
   </linearGradient>
-  <clipPath id="clipPath-600522692">
-   <g id="g31375" transform="translate(0 -1004.4)">
-    <rect id="rect31373" x="1" y="1005.4" width="46" height="46" rx="4" fill="#1890d0"/>
-   </g>
-  </clipPath>
-  <clipPath id="clipPath-613414205">
-   <g id="g31380" transform="translate(0 -1004.4)">
-    <rect id="rect31378" x="1" y="1005.4" width="46" height="46" rx="4" fill="#1890d0"/>
-   </g>
-  </clipPath>
  </defs>
- <g id="g31391">
-  <path id="path31385" d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4zm0 0.5v0.5c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.5c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" opacity=".02"/>
-  <path id="path31387" d="m1 43.25v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" opacity=".05"/>
-  <path id="path31389" d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" opacity=".1"/>
- </g>
- <g id="g31395">
-  <rect id="rect31393" transform="rotate(-90)" x="-47" y="1" width="46" height="46" rx="4" fill="url(#linearGradient3764)"/>
- </g>
- <g id="g31405">
-  <g id="g31403" clip-path="url(#clipPath-600522692)">
-   <g id="g31401" opacity=".1">
-    <g id="g31399">
-     <path id="path31397" d="m24 12c-6.629 0-12 5.371-12 12h7c0-2.762 2.238-5 5-5h10c1.109 0 2-0.891 2-2v-3c0-1.109-0.891-2-2-2m-5 12c0 2.762-2.238 5-5 5h-10c-1.109 0-2 0.891-2 2v3c0 1.109 0.891 2 2 2h10c6.629 0 12-5.371 12-12" fill-opacity=".835"/>
-    </g>
-   </g>
-  </g>
- </g>
- <g id="g31415">
-  <g id="g31413" clip-path="url(#clipPath-613414205)">
-   <g id="g31411" transform="translate(0,-1)">
-    <g id="g31409">
-     <path id="path31407" d="m24 12c-6.629 0-12 5.371-12 12h7c0-2.762 2.238-5 5-5h10c1.109 0 2-0.891 2-2v-3c0-1.109-0.891-2-2-2m-5 12c0 2.762-2.238 5-5 5h-10c-1.109 0-2 0.891-2 2v3c0 1.109 0.891 2 2 2h10c6.629 0 12-5.371 12-12" fill="#2d2d2d" fill-opacity=".835"/>
-    </g>
-   </g>
-  </g>
- </g>
- <g id="g31421">
-  <g id="g31419" transform="translate(0 -1004.4)">
-   <path id="path31417" d="m1 1043.4v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" opacity=".1"/>
-  </g>
- </g>
+ <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4zm0 0.5v0.5c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.5c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.02"/>
+ <path d="m1 43.25v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.05"/>
+ <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
+ <rect x="1" y="1" width="46" height="46" rx="4" style="fill:url(#bg)"/>
+ <path d="m1 39v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
+ <path d="m24 12c-6.629 0-12 5.371-12 12h7c0-2.762 2.238-5 5-5h10c1.109 0 2-0.891 2-2v-3c0-1.109-0.891-2-2-2zm5 12c0 2.762-2.238 5-5 5h-10c-1.109 0-2 0.891-2 2v3c0 1.109 0.891 2 2 2h10c6.629 0 12-5.371 12-12z" style="opacity:.1"/>
+ <path d="m24 11c-6.629 0-12 5.371-12 12h7c0-2.762 2.238-5 5-5h10c1.109 0 2-0.891 2-2v-3c0-1.109-0.891-2-2-2zm5 12c0 2.762-2.238 5-5 5h-10c-1.109 0-2 0.891-2 2v3c0 1.109 0.891 2 2 2h10c6.629 0 12-5.371 12-12z" style="fill:#49493f"/>
 </svg>

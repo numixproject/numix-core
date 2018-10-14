@@ -1,49 +1,15 @@
-<svg id="svg31484" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <defs id="defs31444">
-  <linearGradient id="linearGradient3764" x1="1" x2="47" gradientTransform="translate(-48 .0022147)" gradientUnits="userSpaceOnUse">
-   <stop id="stop31429" stop-color="#5e5e5e" offset="0"/>
-   <stop id="stop31431" stop-color="#686868" offset="1"/>
+<svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="bg" x2="0" y1="1" y2="47" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#686868" offset="0"/>
+   <stop style="stop-color:#5e5e5e" offset="1"/>
   </linearGradient>
-  <clipPath id="clipPath-229478565">
-   <g id="g31436" transform="translate(0 -1004.4)">
-    <rect id="rect31434" x="1" y="1005.4" width="46" height="46" rx="4" fill="#1890d0"/>
-   </g>
-  </clipPath>
-  <clipPath id="clipPath-242273873">
-   <g id="g31441" transform="translate(0 -1004.4)">
-    <rect id="rect31439" x="1" y="1005.4" width="46" height="46" rx="4" fill="#1890d0"/>
-   </g>
-  </clipPath>
  </defs>
- <g id="g31452">
-  <path id="path31446" d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4zm0 0.5v0.5c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.5c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" opacity=".02"/>
-  <path id="path31448" d="m1 43.25v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" opacity=".05"/>
-  <path id="path31450" d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" opacity=".1"/>
- </g>
- <g id="g31456">
-  <rect id="rect31454" transform="rotate(-90)" x="-47" y="1" width="46" height="46" rx="4" fill="url(#linearGradient3764)"/>
- </g>
- <g id="g31466">
-  <g id="g31464" clip-path="url(#clipPath-229478565)">
-   <g id="g31462" opacity=".1">
-    <g id="g31460">
-     <path id="path31458" d="m24 13s6.992 0.137 7 5v4s2-0.102 2 1v10.25c0 0.926-0.918 1.75-1.93 1.75h-14.14c-1.01 0-1.926-0.824-1.926-1.75v-10.25c0-1.102 2-1 2-1v-4c0.051-4.871 7-5 7-5m-4e-3 3s-4-0.152-4 3.5v2.5h8v-2.5c0-3.652-4-3.5-4-3.5"/>
-    </g>
-   </g>
-  </g>
- </g>
- <g id="g31476">
-  <g id="g31474" clip-path="url(#clipPath-242273873)">
-   <g id="g31472" transform="translate(0,-1)">
-    <g id="g31470">
-     <path id="path31468" d="m24 13s6.992 0.137 7 5v4s2-0.102 2 1v10.25c0 0.926-0.918 1.75-1.93 1.75h-14.14c-1.01 0-1.926-0.824-1.926-1.75v-10.25c0-1.102 2-1 2-1v-4c0.051-4.871 7-5 7-5m-4e-3 3s-4-0.152-4 3.5v2.5h8v-2.5c0-3.652-4-3.5-4-3.5" fill="#f4b000"/>
-    </g>
-   </g>
-  </g>
- </g>
- <g id="g31482">
-  <g id="g31480" transform="translate(0 -1004.4)">
-   <path id="path31478" d="m1 1043.4v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" opacity=".1"/>
-  </g>
- </g>
+ <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4zm0 0.5v0.5c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.5c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.02"/>
+ <path d="m1 43.25v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.05"/>
+ <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
+ <rect x="1" y="1" width="46" height="46" rx="4" style="fill:url(#bg)"/>
+ <path d="m1 39v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
+ <path d="m24 11c-3.878 0-7 2.23-7 5v5h-1c-1.108 0-2 0.892-2 2v10c0 1.108 0.892 2 2 2h16c1.108 0 2-0.892 2-2v-10c0-1.108-0.892-2-2-2h-1v-5c0-2.77-3.122-5-7-5zm0 3c2.216 0 4 1.338 4 3v4h-8v-4c0-1.662 1.784-3 4-3z" style="opacity:.1;paint-order:normal"/>
+ <path d="m24 10c-3.878 0-7 2.23-7 5v5h-1c-1.108 0-2 0.892-2 2v10c0 1.108 0.892 2 2 2h16c1.108 0 2-0.892 2-2v-10c0-1.108-0.892-2-2-2h-1v-5c0-2.77-3.122-5-7-5zm0 3c2.216 0 4 1.338 4 3v4h-8v-4c0-1.662 1.784-3 4-3z" style="fill:#f4b000;paint-order:normal"/>
 </svg>
