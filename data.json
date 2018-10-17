@@ -1439,7 +1439,10 @@
     },
     "bibletime": {
         "linux": {
-            "root": "bibletime"
+            "root": "bibletime",
+            "symlinks": [
+                "info.bibletime.BibleTime"
+            ]
         }
     },
     "big-pharma": {
@@ -5005,7 +5008,10 @@
     },
     "eclipse": {
         "linux": {
-            "root": "eclipse"
+            "root": "eclipse",
+            "symlinks": [
+                "org.eclipse.Eclipse"
+            ]
         }
     },
     "edb": {
