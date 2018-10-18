@@ -16263,11 +16263,6 @@
             "root": "system-config-samba"
         }
     },
-    "system-hibernate": {
-        "linux": {
-            "root": "system-hibernate"
-        }
-    },
     "system-lock-screen": {
         "linux": {
             "root": "system-lock-screen",
@@ -16277,15 +16272,6 @@
                 "lock-screen",
                 "xfce-system-lock",
                 "xfce4-system-lock"
-            ]
-        }
-    },
-    "system-restart": {
-        "linux": {
-            "root": "system-restart",
-            "symlinks": [
-                "un-reboot",
-                "xfsm-reboot"
             ]
         }
     },
@@ -16346,18 +16332,6 @@
                 "update-manager",
                 "update-notifier",
                 "zen-icon"
-            ]
-        }
-    },
-    "system-suspend": {
-        "linux": {
-            "root": "system-suspend",
-            "symlinks": [
-                "gnome-session-hibernate",
-                "gnome-session-suspend",
-                "system-suspend-hibernate",
-                "xfpm-suspend",
-                "xfsm-hibernate"
             ]
         }
     },
@@ -17262,6 +17236,11 @@
             "symlinks": [
                 "org.kde.umbrello"
             ]
+        }
+    },
+    "un-reboot": {
+        "linux": {
+            "root": "un-reboot"
         }
     },
     "unetbootin": {
