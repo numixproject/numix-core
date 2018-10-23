@@ -5505,6 +5505,14 @@
             "root": "steam_icon_224760"
         }
     },
+    "ffado-mixer": {
+        "linux": {
+            "root": "ffado-mixer",
+            "symlinks": [
+                "hi64-apps-ffado"
+            ]
+        }
+    },
     "ffmulticonverter": {
         "linux": {
             "root": "ffmulticonverter"
