@@ -3269,7 +3269,10 @@
     },
     "coedit": {
         "linux": {
-            "root": "coedit"
+            "root": "coedit",
+            "symlinks": [
+                "dexed"
+            ]
         }
     },
     "coffee": {
