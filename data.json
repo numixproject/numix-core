@@ -3767,7 +3767,11 @@
     },
     "dbeaver": {
         "linux": {
-            "root": "dbeaver"
+            "root": "dbeaver",
+            "symlinks": [
+                "DBeaver",
+                "io.dbeaver.DBeaverCommunity"
+            ]
         }
     },
     "dconf-editor": {
