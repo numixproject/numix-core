@@ -8481,6 +8481,14 @@
             "root": "i-score"
         }
     },
+    "i2pd": {
+        "linux": {
+            "root": "i2pd",
+            "symlinks": [
+                "website.i2pd.i2pd"
+            ]
+        }
+    },
     "i2prouter": {
         "linux": {
             "root": "i2prouter"
