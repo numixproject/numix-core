@@ -1,150 +1,17 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg4340"
-   height="48"
-   viewBox="0 0 48 48.000001"
-   width="48"
-   version="1.1"
-   sodipodi:docname="teamsql.svg"
-   inkscape:version="0.92.3 (d244b95, 2018-08-02)">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1052"
-     id="namedview34"
-     showgrid="false"
-     inkscape:zoom="13.906433"
-     inkscape:cx="12.766455"
-     inkscape:cy="24.369341"
-     inkscape:window-x="2560"
-     inkscape:window-y="168"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg4340" />
-  <defs
-     id="defs4342">
-    <linearGradient
-       id="linearGradient4220"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-48 .00221)"
-       x2="1.1505462"
-       x1="46.812866"
-       y1="23.871632"
-       y2="23.871632">
-      <stop
-         id="stop7-37"
-         style="stop-color:#4c5699;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop9-5"
-         style="stop-color:#555fa3;stop-opacity:1"
-         offset="1" />
-    </linearGradient>
-    <filter
-       style="color-interpolation-filters:sRGB;"
-       inkscape:label="Drop Shadow"
-       id="filter1133">
-      <feFlood
-         flood-opacity="0.247059"
-         flood-color="rgb(0,0,0)"
-         result="flood"
-         id="feFlood1123" />
-      <feComposite
-         in="flood"
-         in2="SourceGraphic"
-         operator="in"
-         result="composite1"
-         id="feComposite1125" />
-      <feGaussianBlur
-         in="composite1"
-         stdDeviation="0"
-         result="blur"
-         id="feGaussianBlur1127" />
-      <feOffset
-         dx="0"
-         dy="1.5"
-         result="offset"
-         id="feOffset1129" />
-      <feComposite
-         in="SourceGraphic"
-         in2="offset"
-         operator="over"
-         result="composite2"
-         id="feComposite1131" />
-    </filter>
-  </defs>
-  <metadata
-     id="metadata4345">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     id="g21">
-    <path
-       id="path23"
-       style="opacity:.02"
-       d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4zm0 0.5v0.5c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.5c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" />
-    <path
-       id="path25"
-       style="opacity:.05"
-       d="m1 43.25v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" />
-    <path
-       id="path27"
-       style="opacity:.1"
-       d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" />
-  </g>
-  <rect
-     id="rect4218"
-     style="fill:url(#linearGradient4220);fill-opacity:1"
-     rx="4"
-     transform="rotate(-90)"
-     height="46"
-     width="46"
-     y="1"
-     x="-47" />
-  <g
-     id="g57">
-    <g
-       id="g59"
-       transform="translate(0,-1004.4)">
-      <path
-         id="path61"
-         style="opacity:.1"
-         d="m1 1043.4v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" />
-    </g>
-  </g>
-  <path
-     style="opacity:0.1;fill:#000000;fill-opacity:1;stroke-width:0.08483491"
-     d="m 24.892015,29.243378 -4.852291,6.384416 -5.495946,-4.108993 4.845566,-6.395736 -7.967782,-2.742429 2.229252,-6.086104 7.780538,2.58413 -0.01755,-8.062529 6.997198,-0.01524 0.08563,8.018884 7.772733,-2.583223 2.119422,6.37719 -7.772733,2.583229 4.744073,6.710907 -5.724015,4.046419 z"
-     id="path901"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccccccccccccccc" />
-  <path
-     style="fill:#fecb01;stroke-width:0.08483491"
-     d="m 23.979901,28.331753 -4.852291,6.384415 -5.495946,-4.108992 4.845566,-6.395737 -7.967782,-2.742429 2.229252,-6.086103 7.780538,2.584129 -0.01755,-8.062527 6.997198,-0.01524 0.08563,8.018883 7.772733,-2.583222 2.119422,6.377189 -7.772733,2.58323 4.744073,6.710906 -5.724015,4.046419 z"
-     id="path901-3"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccccccccccccccc" />
+<svg width="48" height="48" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="linearGradient4219" x1="1" x2="47" gradientTransform="translate(-48 .00221)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#4c5699" offset="0"/>
+   <stop style="stop-color:#525da6" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4zm0 0.5v0.5c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.5c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.02"/>
+ <path d="m1 43.25v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.05"/>
+ <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
+ <rect transform="rotate(-90)" x="-47" y="1" width="46" height="46" rx="4" style="fill:url(#linearGradient4219)"/>
+ <g transform="translate(0,-1004.4)">
+  <path d="m1 1043.4v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
+ </g>
+ <path d="m19.999 10.16v8.4961l-8.0781-2.625-2.4727 7.6094 8.0801 2.625-4.9922 6.8711 6.4727 4.7031 4.9941-6.873 4.9922 6.8711 6.4727-4.7031-4.9941-6.873 8.0781-2.625-2.4727-7.6074-8.0801 2.625v-8.4941z" style="opacity:.1"/>
+ <path d="m19.999 9.1603v8.4961l-8.0781-2.625-2.4727 7.6094 8.0801 2.625-4.9922 6.8711 6.4727 4.7031 4.9941-6.873 4.9922 6.8711 6.4727-4.7031-4.9941-6.873 8.0781-2.625-2.4727-7.6074-8.0801 2.625v-8.4941z" style="fill:#fc0"/>
 </svg>
