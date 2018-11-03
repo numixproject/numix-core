@@ -10749,6 +10749,7 @@
         "linux": {
             "root": "mattermost-desktop",
             "symlinks": [
+                "com.mattermost.Desktop",
                 "mattermost"
             ]
         }
