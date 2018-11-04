@@ -6759,6 +6759,14 @@
             "root": "gnash"
         }
     },
+    "gneelight": {
+        "linux": {
+            "root": "gneelight",
+            "symlinks": [
+                "me.vinsce.Gneelight"
+            ]
+        }
+    },
     "gnome-activity-journal": {
         "linux": {
             "root": "gnome-activity-journal",
