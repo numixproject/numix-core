@@ -3420,6 +3420,7 @@
         "linux": {
             "root": "corebird",
             "symlinks": [
+                "de.lucaswerkmeister.corebird",
                 "org.baedert.corebird"
             ]
         }
@@ -7366,7 +7367,8 @@
         "linux": {
             "root": "goodvibes",
             "symlinks": [
-                "com.elboulangero.Goodvibes"
+                "com.elboulangero.Goodvibes",
+                "io.gitlab.Goodvibes"
             ]
         }
     },
@@ -10547,7 +10549,10 @@
     },
     "luminance-hdr": {
         "linux": {
-            "root": "luminance-hdr"
+            "root": "luminance-hdr",
+            "symlinks": [
+                "net.sourceforge.qtpfsgui.LuminanceHDR"
+            ]
         }
     },
     "luna": {
@@ -10637,7 +10642,10 @@
     },
     "makemkv": {
         "linux": {
-            "root": "makemkv"
+            "root": "makemkv",
+            "symlinks": [
+                "com.makemkv.MakeMKV"
+            ]
         }
     },
     "mame": {
