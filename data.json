@@ -5915,7 +5915,10 @@
     },
     "fontforge": {
         "linux": {
-            "root": "fontforge"
+            "root": "fontforge",
+            "symlinks": [
+                "io.github.Fontforge"
+            ]
         }
     },
     "fontmatrix": {
