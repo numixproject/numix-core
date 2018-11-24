@@ -6731,6 +6731,8 @@
                 "gmail-plasmoid",
                 "gmailwatcher",
                 "gnome-gmail",
+                "io.github.openWMail.openWMail",
+                "openwmail",
                 "unity-webapps-gmail",
                 "web-google-gmail",
                 "WMail"
@@ -9070,7 +9072,9 @@
         "linux": {
             "root": "jstest-gtk",
             "symlinks": [
-                "io.gitlab.jstest_gtk.jstest_gtk"
+                "io.gitlab.jstest_gtk.jstest_gtk",
+                "io.gitlab.sdl_jstest.sdl_jstest",
+                "io.gitlab.sdl_jstest.sdl2_jstest"
             ]
         }
     },
@@ -16158,6 +16162,8 @@
         "linux": {
             "root": "supertux",
             "symlinks": [
+                "org.supertux.SuperTux",
+                "org.supertux.SuperTux-Milestone1",
                 "org.supertuxproject.SuperTux"
             ]
         }
