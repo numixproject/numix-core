@@ -12303,6 +12303,7 @@
         "linux": {
             "root": "openra",
             "symlinks": [
+                "net.openra.openra",
                 "net.openra.OpenRA"
             ]
         }
@@ -17284,7 +17285,10 @@
     },
     "ue4editor": {
         "linux": {
-            "root": "ue4editor"
+            "root": "ue4editor",
+            "symlinks": [
+                "ubinary"
+            ]
         }
     },
     "ufraw": {
