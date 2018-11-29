@@ -11845,7 +11845,10 @@
     },
     "notepadqq": {
         "linux": {
-            "root": "notepadqq"
+            "root": "notepadqq",
+            "symlinks": [
+                "com.notepadqq.notepadqq"
+            ]
         }
     },
     "notes-up": {
