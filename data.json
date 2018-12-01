@@ -1440,7 +1440,10 @@
     },
     "bibletime": {
         "linux": {
-            "root": "bibletime"
+            "root": "bibletime",
+            "symlinks": [
+                "info.bibletime.BibleTime"
+            ]
         }
     },
     "big-pharma": {
@@ -3422,6 +3425,7 @@
         "linux": {
             "root": "corebird",
             "symlinks": [
+                "de.lucaswerkmeister.corebird",
                 "org.baedert.corebird"
             ]
         }
@@ -3769,7 +3773,11 @@
     },
     "dbeaver": {
         "linux": {
-            "root": "dbeaver"
+            "root": "dbeaver",
+            "symlinks": [
+                "DBeaver",
+                "io.dbeaver.DBeaverCommunity"
+            ]
         }
     },
     "dconf-editor": {
@@ -5010,7 +5018,10 @@
     },
     "eclipse": {
         "linux": {
-            "root": "eclipse"
+            "root": "eclipse",
+            "symlinks": [
+                "org.eclipse.Eclipse"
+            ]
         }
     },
     "edb": {
@@ -5759,7 +5770,10 @@
     },
     "flameshot": {
         "linux": {
-            "root": "flameshot"
+            "root": "flameshot",
+            "symlinks": [
+                "org.dharkael.Flameshot"
+            ]
         }
     },
     "flare": {
@@ -5906,7 +5920,10 @@
     },
     "fontforge": {
         "linux": {
-            "root": "fontforge"
+            "root": "fontforge",
+            "symlinks": [
+                "io.github.Fontforge"
+            ]
         }
     },
     "fontmatrix": {
@@ -6721,6 +6738,8 @@
                 "gmail-plasmoid",
                 "gmailwatcher",
                 "gnome-gmail",
+                "io.github.openWMail.openWMail",
+                "openwmail",
                 "unity-webapps-gmail",
                 "web-google-gmail",
                 "WMail"
@@ -6935,6 +6954,7 @@
             "symlinks": [
                 "atlas",
                 "chrome-lneaknkopdijkpnocmklfnjbeapigfbh-Default",
+                "de.openstreetmap.josm",
                 "emerillon",
                 "josm",
                 "josm-latest",
@@ -7359,7 +7379,8 @@
         "linux": {
             "root": "goodvibes",
             "symlinks": [
-                "com.elboulangero.Goodvibes"
+                "com.elboulangero.Goodvibes",
+                "io.gitlab.Goodvibes"
             ]
         }
     },
@@ -9059,7 +9080,9 @@
         "linux": {
             "root": "jstest-gtk",
             "symlinks": [
-                "io.gitlab.jstest_gtk.jstest_gtk"
+                "io.gitlab.jstest_gtk.jstest_gtk",
+                "io.gitlab.sdl_jstest.sdl2_jstest",
+                "io.gitlab.sdl_jstest.sdl_jstest"
             ]
         }
     },
@@ -9676,7 +9699,10 @@
             "org.xbmc.kodi/org.xbmc.kodi.Splash"
         ],
         "linux": {
-            "root": "kodi"
+            "root": "kodi",
+            "symlinks": [
+                "tv.kodi.Kodi"
+            ]
         }
     },
     "kolf": {
@@ -10540,7 +10566,10 @@
     },
     "luminance-hdr": {
         "linux": {
-            "root": "luminance-hdr"
+            "root": "luminance-hdr",
+            "symlinks": [
+                "net.sourceforge.qtpfsgui.LuminanceHDR"
+            ]
         }
     },
     "luna": {
@@ -10630,7 +10659,10 @@
     },
     "makemkv": {
         "linux": {
-            "root": "makemkv"
+            "root": "makemkv",
+            "symlinks": [
+                "com.makemkv.MakeMKV"
+            ]
         }
     },
     "mame": {
@@ -10742,6 +10774,7 @@
         "linux": {
             "root": "mattermost-desktop",
             "symlinks": [
+                "com.mattermost.Desktop",
                 "mattermost"
             ]
         }
@@ -11589,13 +11622,19 @@
         "linux": {
             "root": "netbeans",
             "symlinks": [
-                "netbeans-ide"
+                "apache-netbeans",
+                "netbeans-ide",
+                "org.apache.netbeans"
             ]
         }
     },
     "netbeans-beta": {
         "linux": {
-            "root": "netbeans-beta"
+            "root": "netbeans-beta",
+            "symlinks": [
+                "incubator-netbeans",
+                "org.apache.netbeans-beta"
+            ]
         }
     },
     "netease-cloud-music": {
@@ -11816,7 +11855,10 @@
     },
     "notepadqq": {
         "linux": {
-            "root": "notepadqq"
+            "root": "notepadqq",
+            "symlinks": [
+                "com.notepadqq.notepadqq"
+            ]
         }
     },
     "notes-up": {
@@ -12276,6 +12318,7 @@
         "linux": {
             "root": "openra",
             "symlinks": [
+                "net.openra.openra",
                 "net.openra.OpenRA"
             ]
         }
@@ -13219,7 +13262,8 @@
             "symlinks": [
                 "butter",
                 "popcorn-time",
-                "popcorntime-ce"
+                "popcorntime-ce",
+                "sh.popcorntime.PopcornTime"
             ]
         }
     },
@@ -14946,7 +14990,10 @@
     },
     "scantailor": {
         "linux": {
-            "root": "scantailor"
+            "root": "scantailor",
+            "symlinks": [
+                "org.scantailor.ScanTailor"
+            ]
         }
     },
     "schismtracker": {
@@ -16132,6 +16179,8 @@
         "linux": {
             "root": "supertux",
             "symlinks": [
+                "org.supertux.SuperTux",
+                "org.supertux.SuperTux-Milestone1",
                 "org.supertuxproject.SuperTux"
             ]
         }
@@ -16913,6 +16962,7 @@
                 "kjots",
                 "org.gnome.Gnote",
                 "org.gnome.Notes",
+                "org.gnome.Tomboy",
                 "org.kde.kjots",
                 "tomboy-note"
             ]
@@ -17252,7 +17302,10 @@
     },
     "ue4editor": {
         "linux": {
-            "root": "ue4editor"
+            "root": "ue4editor",
+            "symlinks": [
+                "ubinary"
+            ]
         }
     },
     "ufraw": {
