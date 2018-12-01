@@ -11039,6 +11039,14 @@
             ]
         }
     },
+    "mjml-app": {
+        "linux": {
+            "root": "mjml-app",
+            "symlinks": [
+                "io.mjml.mjml-app"
+            ]
+        }
+    },
     "mkchromecast": {
         "linux": {
             "root": "mkchromecast",
