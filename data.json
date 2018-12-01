@@ -11847,8 +11847,10 @@
             "root": "numix",
             "bfb": "launcher_bfb_numix",
             "symlinks": [
+                "gnome-icon-preview",
                 "gtk3-icon-browser",
                 "gtk4-icon-browser",
+                "org.gnome.IconPreview",
                 "preferences-desktop-icons"
             ]
         }
