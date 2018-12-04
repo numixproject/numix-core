@@ -769,7 +769,10 @@
     },
     "antimicro": {
         "linux": {
-            "root": "antimicro"
+            "root": "antimicro",
+            "symlinks": [
+                "com.github.juliagoda.antimicro"
+            ]
         }
     },
     "anydo": {
@@ -1948,6 +1951,7 @@
                 "io.liri.Calculator",
                 "kcalc",
                 "org.gnome.Calculator",
+                "org.speedcrunch.SpeedCrunch",
                 "speedcrunch"
             ]
         }
@@ -3203,7 +3207,8 @@
             "root": "clementine",
             "symlinks": [
                 "application-x-clementine",
-                "clementine-player"
+                "clementine-player",
+                "org.clementine_player.Clementine"
             ]
         }
     },
@@ -7032,6 +7037,7 @@
         "linux": {
             "root": "gnome-paint",
             "symlinks": [
+                "com.github.wjaguar.mtpaint",
                 "deepin-draw",
                 "gp",
                 "gpaint",
@@ -10292,7 +10298,10 @@
     },
     "librepcb": {
         "linux": {
-            "root": "librepcb"
+            "root": "librepcb",
+            "symlinks": [
+                "org.librepcb.LibrePCB"
+            ]
         }
     },
     "librevault": {
