@@ -475,7 +475,10 @@
     },
     "aegisub": {
         "linux": {
-            "root": "aegisub"
+            "root": "aegisub",
+            "symlinks": [
+                "org.aegisub.Aegisub"
+            ]
         }
     },
     "aesop": {
@@ -6975,7 +6978,8 @@
         "linux": {
             "root": "gnome-mahjongg",
             "symlinks": [
-                "mahjongg"
+                "mahjongg",
+                "org.gnome.gnome-mahjongg"
             ]
         }
     },
@@ -13095,7 +13099,10 @@
     },
     "pinta": {
         "linux": {
-            "root": "pinta"
+            "root": "pinta",
+            "symlinks": [
+                "com.github.PintaProject.Pinta"
+            ]
         }
     },
     "pioneer": {
