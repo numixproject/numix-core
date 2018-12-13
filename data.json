@@ -8215,7 +8215,8 @@
         "linux": {
             "root": "hardinfo",
             "symlinks": [
-                "harddrake2"
+                "harddrake2",
+                "com.github.lpereira.hardinfo"
             ]
         }
     },
@@ -14612,7 +14613,10 @@
     },
     "rednotebook": {
         "linux": {
-            "root": "rednotebook"
+            "root": "rednotebook",
+            "symlinks": [
+                "io.sourceforge.RedNotebook"
+            ]
         }
     },
     "redshift": {
@@ -18825,6 +18829,7 @@
             "root": "wikipedia",
             "symlinks": [
                 "kiwix",
+                "org.kiwix.Client",
                 "web-wikipedia",
                 "wiki"
             ]
