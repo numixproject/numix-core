@@ -475,7 +475,10 @@
     },
     "aegisub": {
         "linux": {
-            "root": "aegisub"
+            "root": "aegisub",
+            "symlinks": [
+                "org.aegisub.Aegisub"
+            ]
         }
     },
     "aesop": {
@@ -6975,7 +6978,8 @@
         "linux": {
             "root": "gnome-mahjongg",
             "symlinks": [
-                "mahjongg"
+                "mahjongg",
+                "org.gnome.gnome-mahjongg"
             ]
         }
     },
@@ -8211,6 +8215,7 @@
         "linux": {
             "root": "hardinfo",
             "symlinks": [
+                "com.github.lpereira.hardinfo",
                 "harddrake2"
             ]
         }
@@ -13095,7 +13100,10 @@
     },
     "pinta": {
         "linux": {
-            "root": "pinta"
+            "root": "pinta",
+            "symlinks": [
+                "com.github.PintaProject.Pinta"
+            ]
         }
     },
     "pioneer": {
@@ -14605,7 +14613,10 @@
     },
     "rednotebook": {
         "linux": {
-            "root": "rednotebook"
+            "root": "rednotebook",
+            "symlinks": [
+                "io.sourceforge.RedNotebook"
+            ]
         }
     },
     "redshift": {
@@ -18818,6 +18829,7 @@
             "root": "wikipedia",
             "symlinks": [
                 "kiwix",
+                "org.kiwix.Client",
                 "web-wikipedia",
                 "wiki"
             ]
