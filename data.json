@@ -5506,6 +5506,14 @@
             "root": "fcitx-sogoupinyin"
         }
     },
+    "fdroid-repomaker": {
+        "linux": {
+            "root": "fdroid-repomaker",
+            "symlinks": [
+                "org.fdroid.Repomaker"
+            ]
+        }
+    },
     "fedora-release-notes": {
         "linux": {
             "root": "fedora-release-notes",
