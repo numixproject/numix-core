@@ -11812,7 +11812,10 @@
     },
     "nfoview": {
         "linux": {
-            "root": "nfoview"
+            "root": "nfoview",
+            "symlinks": [
+                "io.otsaloma.nfoview"
+            ]
         }
     },
     "nginx": {
