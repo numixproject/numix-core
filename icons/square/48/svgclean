@@ -1,0 +1,17 @@
+#!/bin/bash
+
+# Requires svgcleaner version >= 0.9
+
+which svgcleaner > /dev/null 2>&1
+
+if [[ $? -eq 0 ]]; then
+	find . -type f -name '*.svg' -print0 | while IFS= read -r -d '' file; do
+		if [[ `grep -i "inkscape\|sodipodi\|rgb" "$file"` || "$1" = "-f" ]]
+		then
+			echo "Optimizing $file"
+			svgcleaner --apply-transform-to-paths true --apply-transform-to-shapes true --convert-shapes false --group-by-style false --indent 1 --join-arcto-flags false --join-style-attributes all --regroup-gradient-stops false --remove-default-attributes false --remove-gradient-attributes false --remove-invisible-elements false --remove-unused-coordinates false --trim-ids false --trim-paths false --ungroup-defs false --ungroup-groups true "$file" "$file"
+		fi
+	done
+else
+	echo "'svgcleaner' is not installed."
+fi

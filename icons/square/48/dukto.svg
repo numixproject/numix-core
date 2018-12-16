@@ -1,49 +1,15 @@
-<svg id="svg4962" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <defs id="defs4922">
-  <linearGradient id="linearGradient3764" x1="1" x2="47" gradientTransform="translate(-48 .0022147)" gradientUnits="userSpaceOnUse">
-   <stop id="stop4907" stop-color="#333" offset="0"/>
-   <stop id="stop4909" stop-color="#3d3d3d" offset="1"/>
+<svg style="" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs style="">
+  <linearGradient id="linearGradient3764" gradientTransform="translate(-48 .002215)" gradientUnits="userSpaceOnUse" style="" x1="1" x2="47">
+   <stop offset="0" style="stop-color:#333"/>
+   <stop offset="1" style="stop-color:#3d3d3d"/>
   </linearGradient>
-  <clipPath id="clipPath-674770476">
-   <g id="g4914" transform="translate(0 -1004.4)">
-    <rect id="rect4912" x="1" y="1005.4" width="46" height="46" rx="4" fill="#1890d0"/>
-   </g>
-  </clipPath>
-  <clipPath id="clipPath-711730875">
-   <g id="g4919" transform="translate(0 -1004.4)">
-    <rect id="rect4917" x="1" y="1005.4" width="46" height="46" rx="4" fill="#1890d0"/>
-   </g>
-  </clipPath>
  </defs>
- <g id="g4930">
-  <path id="path4924" d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4zm0 0.5v0.5c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.5c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" opacity=".02"/>
-  <path id="path4926" d="m1 43.25v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" opacity=".05"/>
-  <path id="path4928" d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" opacity=".1"/>
- </g>
- <g id="g4934">
-  <rect id="rect4932" transform="rotate(-90)" x="-47" y="1" width="46" height="46" rx="4" fill="url(#linearGradient3764)"/>
- </g>
- <g id="g4944">
-  <g id="g4942" clip-path="url(#clipPath-674770476)">
-   <g id="g4940" opacity=".1">
-    <g id="g4938">
-     <path id="path4936" d="m12 12v6h3v18h18v-18h3v-6" fill-rule="evenodd"/>
-    </g>
-   </g>
-  </g>
- </g>
- <g id="g4954">
-  <g id="g4952" clip-path="url(#clipPath-711730875)">
-   <g id="g4950" transform="translate(0,-1)">
-    <g id="g4948">
-     <path id="path4946" d="m12 12v6h3v18h18v-18h3v-6" fill="#6c3" fill-rule="evenodd"/>
-    </g>
-   </g>
-  </g>
- </g>
- <g id="g4960">
-  <g id="g4958" transform="translate(0 -1004.4)">
-   <path id="path4956" d="m1 1043.4v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" opacity=".1"/>
-  </g>
- </g>
+ <path d="m 1 43 v .25 c 0 2.216 1.784 4 4 4 h 38 c 2.216 0 4 -1.784 4 -4 v -.25 c 0 2.216 -1.784 4 -4 4 h -38 c -2.216 0 -4 -1.784 -4 -4 z m 0 .5 v .5 c 0 2.216 1.784 4 4 4 h 38 c 2.216 0 4 -1.784 4 -4 v -.5 c 0 2.216 -1.784 4 -4 4 h -38 c -2.216 0 -4 -1.784 -4 -4 z" style="opacity:.02"/>
+ <path d="m 1 43.25 v .25 c 0 2.216 1.784 4 4 4 h 38 c 2.216 0 4 -1.784 4 -4 v -.25 c 0 2.216 -1.784 4 -4 4 h -38 c -2.216 0 -4 -1.784 -4 -4 z" style="opacity:.05"/>
+ <path d="m 1 43 v .25 c 0 2.216 1.784 4 4 4 h 38 c 2.216 0 4 -1.784 4 -4 v -.25 c 0 2.216 -1.784 4 -4 4 h -38 c -2.216 0 -4 -1.784 -4 -4 z" style="opacity:.1"/>
+ <rect height="46" rx="4" style="fill:url(#linearGradient3764)" transform="rotate(-90)" width="46" x="-47" y="1"/>
+ <path d="m 12 12 v 6 h 3 v 18 h 18 v -18 h 3 v -6" style="fill-rule:evenodd;opacity:.1"/>
+ <path d="m 12 11 v 6 h 3 v 18 h 18 v -18 h 3 v -6" style="fill:#6c3;fill-rule:evenodd"/>
+ <path d="m 1 39 v 4 c 0 2.216 1.784 4 4 4 h 38 c 2.216 0 4 -1.784 4 -4 v -4 c 0 2.216 -1.784 4 -4 4 h -38 c -2.216 0 -4 -1.784 -4 -4 z" style="opacity:.1"/>
 </svg>

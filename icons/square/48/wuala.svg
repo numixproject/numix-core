@@ -1,49 +1,15 @@
-<svg id="svg42311" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <defs id="defs42271">
-  <linearGradient id="linearGradient3764" x1="1" x2="47" gradientTransform="translate(-48 .0022147)" gradientUnits="userSpaceOnUse">
-   <stop id="stop42256" stop-color="#ee3e36" offset="0"/>
-   <stop id="stop42258" stop-color="#f04f48" offset="1"/>
+<svg style="" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs style="">
+  <linearGradient id="linearGradient3764" gradientTransform="translate(-48 .002215)" gradientUnits="userSpaceOnUse" style="" x1="1" x2="47">
+   <stop offset="0" style="stop-color:#ee3e36"/>
+   <stop offset="1" style="stop-color:#f04f48"/>
   </linearGradient>
-  <clipPath id="clipPath-413721968">
-   <g id="g42263" transform="translate(0 -1004.4)">
-    <rect id="rect42261" x="1" y="1005.4" width="46" height="46" rx="4" fill="#1890d0"/>
-   </g>
-  </clipPath>
-  <clipPath id="clipPath-426754139">
-   <g id="g42268" transform="translate(0 -1004.4)">
-    <rect id="rect42266" x="1" y="1005.4" width="46" height="46" rx="4" fill="#1890d0"/>
-   </g>
-  </clipPath>
  </defs>
- <g id="g42279">
-  <path id="path42273" d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4zm0 0.5v0.5c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.5c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" opacity=".02"/>
-  <path id="path42275" d="m1 43.25v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" opacity=".05"/>
-  <path id="path42277" d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" opacity=".1"/>
- </g>
- <g id="g42283">
-  <rect id="rect42281" transform="rotate(-90)" x="-47" y="1" width="46" height="46" rx="4" fill="url(#linearGradient3764)"/>
- </g>
- <g id="g42293">
-  <g id="g42291" clip-path="url(#clipPath-413721968)">
-   <g id="g42289" opacity=".1">
-    <g id="g42287">
-     <path id="path42285" d="m11 14h2.809l4.316 16.906 4.309-16.906h3.121l4.32 16.906 4.305-16.906h2.82l-5.16 20h-3.492l-4.332-17.359-4.375 17.359h-3.496l-5.145-20"/>
-    </g>
-   </g>
-  </g>
- </g>
- <g id="g42303">
-  <g id="g42301" clip-path="url(#clipPath-426754139)">
-   <g id="g42299" transform="translate(0,-1)">
-    <g id="g42297">
-     <path id="path42295" d="m11 14h2.809l4.316 16.906 4.309-16.906h3.121l4.32 16.906 4.305-16.906h2.82l-5.16 20h-3.492l-4.332-17.359-4.375 17.359h-3.496l-5.145-20" fill="#fff"/>
-    </g>
-   </g>
-  </g>
- </g>
- <g id="g42309">
-  <g id="g42307" transform="translate(0 -1004.4)">
-   <path id="path42305" d="m1 1043.4v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" opacity=".1"/>
-  </g>
- </g>
+ <path d="m 1 43 v .25 c 0 2.216 1.784 4 4 4 h 38 c 2.216 0 4 -1.784 4 -4 v -.25 c 0 2.216 -1.784 4 -4 4 h -38 c -2.216 0 -4 -1.784 -4 -4 z m 0 .5 v .5 c 0 2.216 1.784 4 4 4 h 38 c 2.216 0 4 -1.784 4 -4 v -.5 c 0 2.216 -1.784 4 -4 4 h -38 c -2.216 0 -4 -1.784 -4 -4 z" style="opacity:.02"/>
+ <path d="m 1 43.25 v .25 c 0 2.216 1.784 4 4 4 h 38 c 2.216 0 4 -1.784 4 -4 v -.25 c 0 2.216 -1.784 4 -4 4 h -38 c -2.216 0 -4 -1.784 -4 -4 z" style="opacity:.05"/>
+ <path d="m 1 43 v .25 c 0 2.216 1.784 4 4 4 h 38 c 2.216 0 4 -1.784 4 -4 v -.25 c 0 2.216 -1.784 4 -4 4 h -38 c -2.216 0 -4 -1.784 -4 -4 z" style="opacity:.1"/>
+ <rect height="46" rx="4" style="fill:url(#linearGradient3764)" transform="rotate(-90)" width="46" x="-47" y="1"/>
+ <path d="m 11 14 h 2.809 l 4.316 16.906 4.309 -16.906 h 3.121 l 4.32 16.906 4.305 -16.906 h 2.82 l -5.16 20 h -3.492 l -4.332 -17.359 -4.375 17.359 h -3.496 z" style="opacity:.1"/>
+ <path d="m 11 13 h 2.809 l 4.316 16.906 4.309 -16.906 h 3.121 l 4.32 16.906 4.305 -16.906 h 2.82 l -5.16 20 h -3.492 l -4.332 -17.359 -4.375 17.359 h -3.496 z" style="fill:#fff"/>
+ <path d="m 1 39 v 4 c 0 2.216 1.784 4 4 4 h 38 c 2.216 0 4 -1.784 4 -4 v -4 c 0 2.216 -1.784 4 -4 4 h -38 c -2.216 0 -4 -1.784 -4 -4 z" style="opacity:.1"/>
 </svg>

@@ -1,49 +1,15 @@
-<svg id="svg21635" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <defs id="defs21595">
-  <linearGradient id="linearGradient3764" x1="1" x2="47" gradientTransform="translate(-48 .0022147)" gradientUnits="userSpaceOnUse">
-   <stop id="stop21580" stop-color="#903078" offset="0"/>
-   <stop id="stop21582" stop-color="#9e3583" offset="1"/>
+<svg style="" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs style="">
+  <linearGradient id="linearGradient3764" gradientTransform="translate(-48 .002215)" gradientUnits="userSpaceOnUse" style="" x1="1" x2="47">
+   <stop offset="0" style="stop-color:#903078"/>
+   <stop offset="1" style="stop-color:#9e3583"/>
   </linearGradient>
-  <clipPath id="clipPath-118865246">
-   <g id="g21587" transform="translate(0 -1004.4)">
-    <rect id="rect21585" x="1" y="1005.4" width="46" height="46" rx="4" fill="#1890d0"/>
-   </g>
-  </clipPath>
-  <clipPath id="clipPath-131608327">
-   <g id="g21592" transform="translate(0 -1004.4)">
-    <rect id="rect21590" x="1" y="1005.4" width="46" height="46" rx="4" fill="#1890d0"/>
-   </g>
-  </clipPath>
  </defs>
- <g id="g21603">
-  <path id="path21597" d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4zm0 0.5v0.5c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.5c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" opacity=".02"/>
-  <path id="path21599" d="m1 43.25v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" opacity=".05"/>
-  <path id="path21601" d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" opacity=".1"/>
- </g>
- <g id="g21607">
-  <rect id="rect21605" transform="rotate(-90)" x="-47" y="1" width="46" height="46" rx="4" fill="url(#linearGradient3764)"/>
- </g>
- <g id="g21617">
-  <g id="g21615" clip-path="url(#clipPath-118865246)">
-   <g id="g21613" opacity=".1">
-    <g id="g21611">
-     <path id="path21609" d="m15.03 35.969 4.969 0.031v-16l8 16h5v-24h-6v4h2v12l-8-16h-5.996"/>
-    </g>
-   </g>
-  </g>
- </g>
- <g id="g21627">
-  <g id="g21625" clip-path="url(#clipPath-131608327)">
-   <g id="g21623" transform="translate(0,-1)">
-    <g id="g21621">
-     <path id="path21619" d="m15.03 35.969 4.969 0.031v-16l8 16h5v-24h-6v4h2v12l-8-16h-5.996" fill="#f9f9f9"/>
-    </g>
-   </g>
-  </g>
- </g>
- <g id="g21633">
-  <g id="g21631" transform="translate(0 -1004.4)">
-   <path id="path21629" d="m1 1043.4v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" opacity=".1"/>
-  </g>
- </g>
+ <path d="m 1 43 v .25 c 0 2.216 1.784 4 4 4 h 38 c 2.216 0 4 -1.784 4 -4 v -.25 c 0 2.216 -1.784 4 -4 4 h -38 c -2.216 0 -4 -1.784 -4 -4 z m 0 .5 v .5 c 0 2.216 1.784 4 4 4 h 38 c 2.216 0 4 -1.784 4 -4 v -.5 c 0 2.216 -1.784 4 -4 4 h -38 c -2.216 0 -4 -1.784 -4 -4 z" style="opacity:.02"/>
+ <path d="m 1 43.25 v .25 c 0 2.216 1.784 4 4 4 h 38 c 2.216 0 4 -1.784 4 -4 v -.25 c 0 2.216 -1.784 4 -4 4 h -38 c -2.216 0 -4 -1.784 -4 -4 z" style="opacity:.05"/>
+ <path d="m 1 43 v .25 c 0 2.216 1.784 4 4 4 h 38 c 2.216 0 4 -1.784 4 -4 v -.25 c 0 2.216 -1.784 4 -4 4 h -38 c -2.216 0 -4 -1.784 -4 -4 z" style="opacity:.1"/>
+ <rect height="46" rx="4" style="fill:url(#linearGradient3764)" transform="rotate(-90)" width="46" x="-47" y="1"/>
+ <path d="m 15.03 35.969 4.969 .031 v -16 l 8 16 h 5 v -24 h -6 v 4 h 2 v 12 l -8 -16 h -5.996" style="opacity:.1"/>
+ <path d="m 15.03 34.969 4.969 .031 v -16 l 8 16 h 5 v -24 h -6 v 4 h 2 v 12 l -8 -16 h -5.996" style="fill:#f9f9f9"/>
+ <path d="m 1 39 v 4 c 0 2.216 1.784 4 4 4 h 38 c 2.216 0 4 -1.784 4 -4 v -4 c 0 2.216 -1.784 4 -4 4 h -38 c -2.216 0 -4 -1.784 -4 -4 z" style="opacity:.1"/>
 </svg>
