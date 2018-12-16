@@ -12344,6 +12344,14 @@
             "root": "openbazaar"
         }
     },
+    "openboard": {
+        "linux": {
+            "root": "openboard",
+            "symlinks": [
+                "ch.openboard.OpenBoard"
+            ]
+        }
+    },
     "openboardview": {
         "linux": {
             "root": "openboardview"
