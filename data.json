@@ -17020,6 +17020,14 @@
             "root": "timeline"
         }
     },
+    "timetable": {
+        "linux": {
+            "root": "timetable",
+            "symlinks": [
+                "com.github.lainsce.timetable"
+            ]
+        }
+    },
     "timer": {
         "linux": {
             "root": "timer",
