@@ -6406,6 +6406,7 @@
             "root": "gcolor2",
             "symlinks": [
                 "colorgrab",
+                "colorpicker",
                 "com.github.ronnydo.colorpicker",
                 "deepin-picker",
                 "gcolor",
@@ -6674,7 +6675,10 @@
     },
     "github": {
         "linux": {
-            "root": "github"
+            "root": "github",
+            "symlinks": [
+                "github-desktop"
+            ]
         }
     },
     "gitkraken": {
@@ -14876,7 +14880,8 @@
         "linux": {
             "root": "rocketchat",
             "symlinks": [
-                "chat.rocket.RocketChat"
+                "chat.rocket.RocketChat",
+                "rocketchat-desktop"
             ]
         }
     },
@@ -16395,14 +16400,15 @@
             "root": "syncplay"
         }
     },
-    "syncthing-gtk": {
+    "syncthing": {
         "android": [
             "com.nutomic.syncthingandroid/com.nutomic.syncthingandroid.activities.FirstStartActivity"
         ],
         "linux": {
-            "root": "syncthing-gtk",
+            "root": "syncthing",
             "symlinks": [
-                "me.kozec.syncthingtk"
+                "me.kozec.syncthingtk",
+                "syncthing-gtk"
             ]
         }
     },
