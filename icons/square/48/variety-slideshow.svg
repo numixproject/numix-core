@@ -1,6 +1,6 @@
-<svg width="48" height="48" version="1.1" viewBox="0 0 48 48.000001" xmlns="http://www.w3.org/2000/svg">
+<svg width="48" height="48" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <linearGradient id="linearGradient4501" x1="-47" x2="-1" y1="2.8779e-15" y2="6.1232e-17" gradientUnits="userSpaceOnUse">
+  <linearGradient id="bg" x1="-47" x2="-1" y1="2.8779e-15" y2="6.1232e-17" gradientUnits="userSpaceOnUse">
    <stop style="stop-color:#8fdb45" offset="0"/>
    <stop style="stop-color:#9ade56" offset="1"/>
   </linearGradient>
@@ -10,16 +10,15 @@
   <path d="m1 43.25v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.05"/>
   <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
  </g>
- <rect transform="rotate(-90)" x="-47" y="1" width="46" height="46" rx="4" style="fill:url(#linearGradient4501)"/>
- <path d="m12 12v18h11v4h-7v2h16v-2h-7v-4h11v-18zm2 2h19.996v8.1797l-2.9961 2.8203-2.9414-2.9414-4.6582 2.541-0.40039 0.40039-0.089844-0.13281-3.9102 2.1328v-8l-2-3-3 4.666zm6 3v8l8-4z" style="fill:#161616;opacity:.1"/>
+ <rect transform="rotate(-90)" x="-47" y="1" width="46" height="46" rx="4" style="fill:url(#bg)"/>
+ <path d="m12 12v18h11v4h-7v2h16v-2h-7v-4h11v-18zm2 2h19.996v8.1797l-2.9961 2.8203-2.9414-2.9414-9.0586 4.9414v-8l-2-3-3 4.666zm6 3v8l8-4z" style="fill:#161616;opacity:.1"/>
  <g transform="translate(0 3.949e-5)">
   <g transform="translate(0 -1004.4)">
    <path d="m1 1043.4v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
   </g>
  </g>
  <g transform="translate(0,-1)">
-  <path d="m12 12v18h11v4h-7v2h16v-2h-7v-4h11v-18zm2 2h19.996v14h-19.996z" style="fill:#161616"/>
-  <path d="m17 16-4.5 7v6.5h23.25l-0.5-8.5-4.25 4-2.941-2.941-4.659 2.541-0.4 0.4-0.09-0.133-3.91 2.133v-8z" style="fill:#161616"/>
+  <path transform="translate(0,1)" d="m12 11v18h11v4h-7v2h16v-2h-7v-4h11v-18zm2 2h19.996v8.1797l-2.9961 2.8203-2.9414-2.9414-9.0586 4.9414v-8l-2-3-3 4.666z" style="fill:#2a2a2a"/>
  </g>
  <path d="m28 20-8 4v-8z" style="fill:#ff2a2a"/>
 </svg>

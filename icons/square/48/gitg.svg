@@ -1,27 +1,19 @@
-<svg style="" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <defs style="">
-  <linearGradient id="linearGradient3764" gradientTransform="translate(-48 .002215)" gradientUnits="userSpaceOnUse" style="" x1="1" x2="47">
-   <stop offset="0" style="stop-color:#e4e4e4"/>
-   <stop offset="1" style="stop-color:#eee"/>
+<svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="bg" x2="0" y1="1" y2="47" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#eee" offset="0"/>
+   <stop style="stop-color:#e4e4e4" offset="1"/>
   </linearGradient>
  </defs>
- <path d="m 1 43 v .25 c 0 2.216 1.784 4 4 4 h 38 c 2.216 0 4 -1.784 4 -4 v -.25 c 0 2.216 -1.784 4 -4 4 h -38 c -2.216 0 -4 -1.784 -4 -4 z m 0 .5 v .5 c 0 2.216 1.784 4 4 4 h 38 c 2.216 0 4 -1.784 4 -4 v -.5 c 0 2.216 -1.784 4 -4 4 h -38 c -2.216 0 -4 -1.784 -4 -4 z" style="opacity:.02"/>
- <path d="m 1 43.25 v .25 c 0 2.216 1.784 4 4 4 h 38 c 2.216 0 4 -1.784 4 -4 v -.25 c 0 2.216 -1.784 4 -4 4 h -38 c -2.216 0 -4 -1.784 -4 -4 z" style="opacity:.05"/>
- <path d="m 1 43 v .25 c 0 2.216 1.784 4 4 4 h 38 c 2.216 0 4 -1.784 4 -4 v -.25 c 0 2.216 -1.784 4 -4 4 h -38 c -2.216 0 -4 -1.784 -4 -4 z" style="opacity:.1"/>
- <rect height="46" rx="4" style="fill:url(#linearGradient3764)" transform="rotate(-90)" width="46" x="-47" y="1"/>
- <g style="opacity:.1">
-  <path d="m 24 9 c -3.844 0 -7.664 1.469 -10.598 4.398 -5.871 5.855 -5.871 15.352 0 21.21 5.867 5.855 15.332 5.855 21.2 0 5.867 -5.859 5.867 -15.355 0 -21.21 -2.934 -2.93 -6.754 -4.398 -10.598 -4.398" style=""/>
-  <path d="m 15 19 h 17 v 1.996 h -17" style=""/>
-  <path d="m 25 20 c 0 1.656 -1.344 3 -3 3 -1.66 0 -3 -1.344 -3 -3 s 1.344 -3 3 -3 3 1.344 3 3" style=""/>
-  <path d="m 33 20 c 0 1.656 -1.344 3 -3 3 -1.66 0 -3 -1.344 -3 -3 s 1.344 -3 3 -3 3 1.344 3 3" style=""/>
-  <path d="m 33 28 c 0 1.656 -1.344 3 -3 3 -1.66 0 -3 -1.344 -3 -3 s 1.344 -3 3 -3 3 1.344 3 3" style=""/>
-  <path d="m 30.734 30 -10.734 -10.738 1.262 -1.262 10.734 10.734" style=""/>
- </g>
- <path d="m 24 8 c -3.844 0 -7.664 1.469 -10.598 4.398 -5.871 5.855 -5.871 15.352 0 21.21 5.867 5.855 15.332 5.855 21.2 0 5.867 -5.859 5.867 -15.355 0 -21.21 -2.934 -2.93 -6.754 -4.398 -10.598 -4.398" style="fill:#d4201e"/>
- <path d="m 15 18 h 17 v 1.996 h -17" style="fill:#f9f9f9"/>
- <path d="m 25 19 c 0 1.656 -1.344 3 -3 3 -1.66 0 -3 -1.344 -3 -3 s 1.344 -3 3 -3 3 1.344 3 3" style="fill:#f9f9f9"/>
- <path d="m 33 19 c 0 1.656 -1.344 3 -3 3 -1.66 0 -3 -1.344 -3 -3 s 1.344 -3 3 -3 3 1.344 3 3" style="fill:#f9f9f9"/>
- <path d="m 33 27 c 0 1.656 -1.344 3 -3 3 -1.66 0 -3 -1.344 -3 -3 s 1.344 -3 3 -3 3 1.344 3 3" style="fill:#f9f9f9"/>
- <path d="m 30.734 29 -10.734 -10.738 1.262 -1.262 10.734 10.734" style="fill:#f9f9f9"/>
- <path d="m 1 39 v 4 c 0 2.216 1.784 4 4 4 h 38 c 2.216 0 4 -1.784 4 -4 v -4 c 0 2.216 -1.784 4 -4 4 h -38 c -2.216 0 -4 -1.784 -4 -4 z" style="opacity:.1"/>
+ <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4zm0 0.5v0.5c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.5c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.02"/>
+ <path d="m1 43.25v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.05"/>
+ <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
+ <rect x="1" y="1" width="46" height="46" rx="4" style="fill:url(#bg)"/>
+ <path d="m1 39v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
+ <circle cx="24" cy="24" r="15" style="opacity:.1;paint-order:normal"/>
+ <circle cx="24" cy="23" r="15" style="fill:#d4201e;paint-order:normal"/>
+ <path d="m15 18v1.9961h6.7344l9 9.0039 1.2617-1.2656-7.7383-7.7383h7.7422v-1.9961z" style="fill:#f9f9f9"/>
+ <circle cx="23" cy="19" r="3" style="fill:#f9f9f9;paint-order:normal"/>
+ <circle cx="31" cy="19" r="3" style="fill:#f9f9f9;paint-order:normal"/>
+ <circle cx="31" cy="27" r="3" style="fill:#f9f9f9;paint-order:normal"/>
 </svg>
