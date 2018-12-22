@@ -11198,7 +11198,10 @@
     },
     "moeditor": {
         "linux": {
-            "root": "moeditor"
+            "root": "moeditor",
+            "symlinks": [
+                "com.github.Moeditor.Moeditor"
+            ]
         }
     },
     "moinmoin": {
