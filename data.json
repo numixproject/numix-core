@@ -14549,7 +14549,10 @@
     },
     "rawtherapee": {
         "linux": {
-            "root": "rawtherapee"
+            "root": "rawtherapee",
+            "symlinks": [
+                "com.rawtherapee.RawTherapee"
+            ]
         }
     },
     "razer": {
