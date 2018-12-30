@@ -16608,7 +16608,10 @@
     },
     "taskcoach": {
         "linux": {
-            "root": "taskcoach"
+            "root": "taskcoach",
+            "symlinks": [
+                "org.taskcoach.TaskCoach"
+            ]
         }
     },
     "tasque": {
@@ -17468,7 +17471,10 @@
     },
     "uget-icon": {
         "linux": {
-            "root": "uget-icon"
+            "root": "uget-icon",
+            "symlinks": [
+                "com.ugetdm.uGet"
+            ]
         }
     },
     "umbrello": {
@@ -19146,6 +19152,7 @@
         "linux": {
             "root": "wxmaxima",
             "symlinks": [
+                "io.github.wxmaxima_developers.wxMaxima",
                 "maxima",
                 "maxima-icon",
                 "maxima-new"
