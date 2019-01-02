@@ -12386,6 +12386,15 @@
             ]
         }
     },
+    "openmusicplayer": {
+        "linux": {
+            "root": "openmusicplayer",
+            "symlinks": [
+                "com.openmusicplayer.OMP",
+                "omp"
+            ]
+        }
+    },
     "openmw": {
         "linux": {
             "root": "openmw",
