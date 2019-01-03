@@ -7164,8 +7164,10 @@
             "root": "gnome-sound-recorder",
             "symlinks": [
                 "audio-recorder",
+                "com.github.ryonakano.reco",
                 "deepin-voice-recorder",
-                "org.gnome.SoundRecorder"
+                "org.gnome.SoundRecorder",
+                "reco"
             ]
         }
     },
