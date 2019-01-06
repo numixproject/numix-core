@@ -3906,6 +3906,14 @@
             ]
         }
     },
+    "deltachat": {
+        "linux": {
+            "root": "deltachat",
+            "symlinks": [
+                "chat.delta.desktop"
+            ]
+        }
+    },
     "deluge": {
         "linux": {
             "root": "deluge",
