@@ -16126,6 +16126,14 @@
             "root": "SpiderOakONE"
         }
     },
+    "spine": {
+        "linux": {
+            "root": "spine",
+            "symlinks": [
+                "com.esotericsoftware.spine.editor.launcher.Launcher"
+            ]
+        }
+    },
     "spivak": {
         "linux": {
             "root": "spivak",
