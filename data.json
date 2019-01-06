@@ -11273,6 +11273,14 @@
             "root": "monte-note"
         }
     },
+    "moonplayer": {
+        "linux": {
+            "root": "moonplayer",
+            "symlinks": [
+                "com.github.coslyk.MoonPlayer"
+            ]
+        }
+    },
     "moserial": {
         "linux": {
             "root": "moserial"
