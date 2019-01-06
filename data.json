@@ -3053,7 +3053,9 @@
                 "application-x-chemtool",
                 "chemtool",
                 "chmsee-16x16",
-                "chmsee-32x32"
+                "chmsee-32x32",
+                "com.ulduzsoft.KchmViewer",
+                "kchmviewer"
             ]
         }
     },
@@ -3315,6 +3317,7 @@
         "linux": {
             "root": "coffee",
             "symlinks": [
+                "coffee-news",
                 "com.github.nick92.coffee"
             ]
         }
@@ -6002,6 +6005,7 @@
                 "kfontview",
                 "org.gnome.font-viewer",
                 "org.gnome.Fonts",
+                "org.gnome.FontViewer",
                 "preferences-desktop-font"
             ]
         }
@@ -6429,6 +6433,7 @@
             "root": "gcolor2",
             "symlinks": [
                 "colorgrab",
+                "colorpicker",
                 "com.github.ronnydo.colorpicker",
                 "deepin-picker",
                 "gcolor",
@@ -6697,7 +6702,10 @@
     },
     "github": {
         "linux": {
-            "root": "github"
+            "root": "github",
+            "symlinks": [
+                "github-desktop"
+            ]
         }
     },
     "gitkraken": {
@@ -7026,6 +7034,7 @@
                 "josm-latest",
                 "maps",
                 "org.gnome.Maps",
+                "org.openstreetmap.josm",
                 "web-google-maps"
             ]
         }
@@ -7199,6 +7208,7 @@
         "linux": {
             "root": "gnome-subtitles",
             "symlinks": [
+                "org.kitone.subtitleeditor",
                 "subtitleeditor"
             ]
         }
@@ -8675,6 +8685,7 @@
             "root": "idea",
             "symlinks": [
                 "com.jetbrains.Intellij-Community",
+                "com.jetbrains.IntelliJ-IDEA-Community",
                 "com.jetbrains.IntelliJ-IDEA-Ultimate",
                 "intellij",
                 "intellij-idea",
@@ -11168,7 +11179,8 @@
         "linux": {
             "root": "mixxx-icon",
             "symlinks": [
-                "mixxx"
+                "mixxx",
+                "mixxx_icon"
             ]
         }
     },
@@ -11254,7 +11266,10 @@
     },
     "moeditor": {
         "linux": {
-            "root": "moeditor"
+            "root": "moeditor",
+            "symlinks": [
+                "com.github.Moeditor.Moeditor"
+            ]
         }
     },
     "moinmoin": {
@@ -11654,7 +11669,8 @@
         "linux": {
             "root": "naev",
             "symlinks": [
-                "org.naev.Naev"
+                "org.naev.Naev",
+                "steam_icon_598530"
             ]
         }
     },
@@ -11876,7 +11892,10 @@
     },
     "nfoview": {
         "linux": {
-            "root": "nfoview"
+            "root": "nfoview",
+            "symlinks": [
+                "io.otsaloma.nfoview"
+            ]
         }
     },
     "nginx": {
@@ -13330,6 +13349,7 @@
         "linux": {
             "root": "playonlinux",
             "symlinks": [
+                "org.phoenicis.playonlinux",
                 "phoenicis",
                 "PlayOnLinux",
                 "playonlinux32"
@@ -14649,7 +14669,10 @@
     },
     "rawtherapee": {
         "linux": {
-            "root": "rawtherapee"
+            "root": "rawtherapee",
+            "symlinks": [
+                "com.rawtherapee.RawTherapee"
+            ]
         }
     },
     "razer": {
@@ -14745,6 +14768,7 @@
         "linux": {
             "root": "rednotebook",
             "symlinks": [
+                "app.rednotebook.RedNotebook",
                 "io.sourceforge.RedNotebook"
             ]
         }
@@ -14993,7 +15017,8 @@
         "linux": {
             "root": "rocketchat",
             "symlinks": [
-                "chat.rocket.RocketChat"
+                "chat.rocket.RocketChat",
+                "rocketchat-desktop"
             ]
         }
     },
@@ -16520,14 +16545,15 @@
             "root": "syncplay"
         }
     },
-    "syncthing-gtk": {
+    "syncthing": {
         "android": [
             "com.nutomic.syncthingandroid/com.nutomic.syncthingandroid.activities.FirstStartActivity"
         ],
         "linux": {
-            "root": "syncthing-gtk",
+            "root": "syncthing",
             "symlinks": [
-                "me.kozec.syncthingtk"
+                "me.kozec.syncthingtk",
+                "syncthing-gtk"
             ]
         }
     },
@@ -16716,7 +16742,10 @@
     },
     "taskcoach": {
         "linux": {
-            "root": "taskcoach"
+            "root": "taskcoach",
+            "symlinks": [
+                "org.taskcoach.TaskCoach"
+            ]
         }
     },
     "tasque": {
@@ -17592,7 +17621,10 @@
     },
     "uget-icon": {
         "linux": {
-            "root": "uget-icon"
+            "root": "uget-icon",
+            "symlinks": [
+                "com.ugetdm.uGet"
+            ]
         }
     },
     "umbrello": {
@@ -19270,6 +19302,7 @@
         "linux": {
             "root": "wxmaxima",
             "symlinks": [
+                "io.github.wxmaxima_developers.wxMaxima",
                 "maxima",
                 "maxima-icon",
                 "maxima-new"
