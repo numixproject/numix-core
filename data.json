@@ -14811,6 +14811,14 @@
             ]
         }
     },
+    "remmina": {
+        "linux": {
+            "root": "remmina",
+            "symlinks": [
+                "org.remmina.Remmina"
+            ]
+        }
+    },
     "remote-desktop": {
         "linux": {
             "root": "remote-desktop",
@@ -14821,10 +14829,8 @@
                 "krdc",
                 "krfb",
                 "org.kde.krfb",
-                "org.remmina.Remmina",
                 "preferences-desktop-remote-desktop",
                 "preferences-remote-desktop",
-                "remmina",
                 "vinagre"
             ]
         }
