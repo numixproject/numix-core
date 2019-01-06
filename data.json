@@ -11116,7 +11116,8 @@
         "linux": {
             "root": "mixxx-icon",
             "symlinks": [
-                "mixxx"
+                "mixxx",
+                "mixxx_icon"
             ]
         }
     },
@@ -13251,6 +13252,7 @@
         "linux": {
             "root": "playonlinux",
             "symlinks": [
+                "org.phoenicis.playonlinux",
                 "phoenicis",
                 "PlayOnLinux",
                 "playonlinux32"
