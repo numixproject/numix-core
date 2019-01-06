@@ -6105,6 +6105,14 @@
             ]
         }
     },
+    "fragments": {
+        "linux": {
+            "root": "fragments",
+            "symlinks": [
+                "de.haeckerfelix.Fragments"
+            ]
+        }
+    },
     "frama-c": {
         "linux": {
             "root": "frama-c"
