@@ -7900,6 +7900,15 @@
             ]
         }
     },
+    "gscope": {
+        "linux": {
+            "root": "gscope",
+            "symlinks": [
+                "org.caione.GScope",
+                "org.gnome.GScope"
+            ]
+        }
+    },
     "gsmartcontrol": {
         "linux": {
             "root": "gsmartcontrol",
