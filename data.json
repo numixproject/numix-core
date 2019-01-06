@@ -17171,6 +17171,14 @@
             "root": "tkabber"
         }
     },
+    "tkcon": {
+        "linux": {
+            "root": "tkcon",
+            "symlinks": [
+                "tkcon-icon"
+            ]
+        }
+    },
     "toca-race-driver-3": {
         "linux": {
             "root": "ToCA3",
