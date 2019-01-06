@@ -13847,6 +13847,14 @@
             "root": "pumpa"
         }
     },
+    "purism-chatty": {
+        "linux": {
+            "root": "purism-chatty",
+            "symlinks": [
+                "sm.puri.Chatty"
+            ]
+        }
+    },
     "purple-egg": {
         "linux": {
             "root": "PurpleEgg",
