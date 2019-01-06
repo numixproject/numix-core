@@ -4866,6 +4866,14 @@
             "root": "drakstats"
         }
     },
+    "draw-io": {
+        "linux": {
+            "root": "draw-io",
+            "symlinks": [
+                "draw.io"
+            ]
+        }
+    },
     "drawpile": {
         "linux": {
             "root": "drawpile"
