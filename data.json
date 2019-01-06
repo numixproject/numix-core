@@ -17041,6 +17041,14 @@
             "root": "timeshift"
         }
     },
+    "timetable": {
+        "linux": {
+            "root": "timetable",
+            "symlinks": [
+                "com.github.lainsce.timetable"
+            ]
+        }
+    },
     "tint2conf": {
         "linux": {
             "root": "tint2conf"
