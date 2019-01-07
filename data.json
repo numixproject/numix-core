@@ -11026,7 +11026,8 @@
         "linux": {
             "root": "mediathekview",
             "symlinks": [
-                "MediathekView"
+                "MediathekView",
+                "QMediathekView"
             ]
         }
     },
@@ -17409,7 +17410,8 @@
                 "deepin-translator",
                 "im-chooser",
                 "mula-desktop",
-                "qtrans"
+                "qtrans",
+                "redict"
             ]
         }
     },
