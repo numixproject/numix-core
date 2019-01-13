@@ -6704,7 +6704,10 @@
     },
     "gimagereader": {
         "linux": {
-            "root": "gimagereader"
+            "root": "gimagereader",
+            "symlinks": [
+                "com.github.manisandro.gImageReader-qt5"
+            ]
         }
     },
     "gimp": {
@@ -19164,7 +19167,9 @@
         "linux": {
             "root": "wireshark",
             "symlinks": [
-                "hi48-app-wireshark"
+                "hi48-app-wireshark",
+                "org.wireshark.gtk",
+                "org.wireshark.qt"
             ]
         }
     },
