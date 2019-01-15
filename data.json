@@ -13149,7 +13149,11 @@
     },
     "photocollage": {
         "linux": {
-            "root": "photocollage"
+            "root": "photocollage",
+            "symlinks": [
+                "koko",
+                "org.kde.koko"
+            ]
         }
     },
     "photofilmstrip": {
