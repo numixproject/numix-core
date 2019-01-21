@@ -8621,7 +8621,8 @@
         "linux": {
             "root": "hydrogen",
             "symlinks": [
-                "h2-icon"
+                "h2-icon",
+                "org.hydrogenmusic.hydrogen"
             ]
         }
     },
@@ -11635,7 +11636,10 @@
     },
     "muse": {
         "linux": {
-            "root": "muse_icon"
+            "root": "muse_icon",
+            "symlinks": [
+                "org.musesequencer.Muse3"
+            ]
         }
     },
     "museeks": {
