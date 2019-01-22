@@ -10304,7 +10304,10 @@
     },
     "lftp": {
         "linux": {
-            "root": "lftp"
+            "root": "lftp",
+            "symlinks": [
+                "lftp-icon"
+            ]
         }
     },
     "libinput-gestures": {
