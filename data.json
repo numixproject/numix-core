@@ -15100,7 +15100,10 @@
     },
     "rosegarden": {
         "linux": {
-            "root": "rosegarden"
+            "root": "rosegarden",
+            "symlinks": [
+                "com.rosegardenmusic.rosegarden"
+            ]
         }
     },
     "roxterm": {
