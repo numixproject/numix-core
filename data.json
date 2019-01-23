@@ -7229,6 +7229,14 @@
             "root": "gnome-settings-default-applications"
         }
     },
+    "gnome-social": {
+        "linux": {
+            "root": "gnome-social",
+            "symlinks": [
+                "org.gnome.Social"
+            ]
+        }
+    },
     "gnome-software": {
         "linux": {
             "root": "gnome-software",
