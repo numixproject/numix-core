@@ -13995,6 +13995,14 @@
             ]
         }
     },
+    "pulseview": {
+        "linux": {
+            "root": "pulseview",
+            "symlinks": [
+                "org.sigrok.PulseView"
+            ]
+        }
+    },
     "pumpa": {
         "linux": {
             "root": "pumpa"
