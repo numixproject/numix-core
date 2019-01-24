@@ -527,6 +527,14 @@
             "root": "AirPortUtility"
         }
     },
+    "akira": {
+        "linux": {
+            "root": "akira",
+            "symlinks": [
+                "com.github.alecaddd.akira"
+            ]
+        }
+    },
     "akonadi": {
         "linux": {
             "root": "akonadi",
