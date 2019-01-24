@@ -17243,6 +17243,15 @@
             ]
         }
     },
+    "timetrack": {
+        "linux": {
+            "root": "timetrack",
+            "symlinks": [
+                "net.danigm.timetrack",
+                "org.gnome.timetrack"
+            ]
+        }
+    },
     "tint2conf": {
         "linux": {
             "root": "tint2conf"
