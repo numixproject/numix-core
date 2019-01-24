@@ -12275,7 +12275,10 @@
     },
     "ocrfeeder": {
         "linux": {
-            "root": "ocrfeeder"
+            "root": "ocrfeeder",
+            "symlinks": [
+                "org.gnome.OCRFeeder"
+            ]
         }
     },
     "ocsstore": {
