@@ -6717,7 +6717,10 @@
     },
     "gimagereader": {
         "linux": {
-            "root": "gimagereader"
+            "root": "gimagereader",
+            "symlinks": [
+                "com.github.manisandro.gImageReader-qt5"
+            ]
         }
     },
     "gimp": {
@@ -8645,7 +8648,8 @@
         "linux": {
             "root": "hydrogen",
             "symlinks": [
-                "h2-icon"
+                "h2-icon",
+                "org.hydrogenmusic.hydrogen"
             ]
         }
     },
@@ -11666,7 +11670,10 @@
     },
     "muse": {
         "linux": {
-            "root": "muse_icon"
+            "root": "muse_icon",
+            "symlinks": [
+                "org.musesequencer.Muse3"
+            ]
         }
     },
     "museeks": {
@@ -12649,6 +12656,7 @@
         "linux": {
             "root": "opentodolist",
             "symlinks": [
+                "net.rpdev.OpenTodoList",
                 "OpenTodoList"
             ]
         }
@@ -15142,7 +15150,10 @@
     },
     "rosegarden": {
         "linux": {
-            "root": "rosegarden"
+            "root": "rosegarden",
+            "symlinks": [
+                "com.rosegardenmusic.rosegarden"
+            ]
         }
     },
     "roxterm": {
@@ -16890,6 +16901,7 @@
         "linux": {
             "root": "teamspeak",
             "symlinks": [
+                "com.teamspeak.TeamSpeak",
                 "teamspeak3",
                 "ts3client_linux_amd64"
             ]
@@ -19215,7 +19227,9 @@
         "linux": {
             "root": "wireshark",
             "symlinks": [
-                "hi48-app-wireshark"
+                "hi48-app-wireshark",
+                "org.wireshark.gtk",
+                "org.wireshark.qt"
             ]
         }
     },
