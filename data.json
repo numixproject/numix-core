@@ -10645,7 +10645,10 @@
     },
     "lmms": {
         "linux": {
-            "root": "lmms"
+            "root": "lmms",
+            "symlinks": [
+                "io.lmms.Lmms"
+            ]
         }
     },
     "log-analyzer": {
