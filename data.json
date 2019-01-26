@@ -16100,6 +16100,15 @@
             "root": "sonata"
         }
     },
+    "sonic-visualier": {
+        "linux": {
+            "root": "sonic-visualier",
+            "symlinks": [
+                "spectrum3d",
+                "sv-icon"
+            ]
+        }
+    },
     "soulseek": {
         "linux": {
             "root": "soulseek",
@@ -16625,14 +16634,6 @@
     "susers": {
         "linux": {
             "root": "susers"
-        }
-    },
-    "sv-icon": {
-        "linux": {
-            "root": "sv-icon",
-            "symlinks": [
-                "spectrum3d"
-            ]
         }
     },
     "svgcleaner": {
