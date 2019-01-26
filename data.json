@@ -2926,6 +2926,7 @@
         "linux": {
             "root": "calls",
             "symlinks": [
+                "org.gnome.Calls",
                 "sm.puri.Calls"
             ]
         }
@@ -3762,6 +3763,7 @@
             "root": "d-feet-icon",
             "symlinks": [
                 "d-feet",
+                "org.gnome.DFeet",
                 "org.gnome.dfeet"
             ]
         }
@@ -6516,6 +6518,7 @@
                 "gcolor",
                 "gcolor3",
                 "gpick",
+                "nl.hjdskes.Gcolor3",
                 "nl.hjdskes.gcolor3"
             ]
         }
@@ -7008,6 +7011,7 @@
         "linux": {
             "root": "gnome-characters",
             "symlinks": [
+                "org.gnome.CharacterMap",
                 "org.gnome.Characters"
             ]
         }
@@ -14072,6 +14076,7 @@
         "linux": {
             "root": "purism-chatty",
             "symlinks": [
+                "org.gnome.Chatty",
                 "sm.puri.Chatty"
             ]
         }
