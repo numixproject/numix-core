@@ -16640,6 +16640,14 @@
             "root": "svgcleaner"
         }
     },
+    "svgi": {
+        "linux": {
+            "root": "svgi",
+            "symlinks": [
+                "mx.pwmc.Svgvi"
+            ]
+        }
+    },
     "swami": {
         "linux": {
             "root": "swami"
