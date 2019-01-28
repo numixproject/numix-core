@@ -20,6 +20,7 @@
                 "chrome-clgddkicplcbgjfobecebadodeggpghp-Default",
                 "chrome-jcjbnkncddbeomhaacaeokhfnefibpde-Default",
                 "gnome-2048",
+                "org.gnome.2048",
                 "org.gnome.gnome-2048"
             ]
         }
@@ -3068,6 +3069,7 @@
                 "glchess",
                 "gnome-chess",
                 "gnome-glchess",
+                "org.gnome.Chess",
                 "org.gnome.chess",
                 "scid",
                 "tagua"
@@ -6152,7 +6154,8 @@
             "root": "four-in-a-row",
             "symlinks": [
                 "gnect",
-                "gnome-gnect"
+                "gnome-gnect",
+                "org.gnome.four-in-a-row"
             ]
         }
     },
@@ -7122,6 +7125,7 @@
             "symlinks": [
                 "blocks",
                 "kblocks",
+                "org.gnome.Klotski",
                 "org.kde.kblocks"
             ]
         }
@@ -7131,7 +7135,8 @@
             "root": "gnome-mahjongg",
             "symlinks": [
                 "mahjongg",
-                "org.gnome.gnome-mahjongg"
+                "org.gnome.gnome-mahjongg",
+                "org.gnome.Mahjongg"
             ]
         }
     },
@@ -7278,7 +7283,8 @@
             "root": "gnome-robots",
             "symlinks": [
                 "gnobots",
-                "gnobots2"
+                "gnobots2",
+                "org.gnome.Robots"
             ]
         }
     },
@@ -7349,6 +7355,7 @@
             "symlinks": [
                 "gnome-tetraves",
                 "gnotravex",
+                "org.gnome.Tetravex",
                 "org.gnome.tetravex"
             ]
         }
@@ -9466,6 +9473,7 @@
             "symlinks": [
                 "atomix",
                 "atomix-icon",
+                "org.gnome.Atomix",
                 "org.kde.katomic"
             ]
         }
@@ -10554,7 +10562,8 @@
         "linux": {
             "root": "lightsoff",
             "symlinks": [
-                "gnome-lightsoff"
+                "gnome-lightsoff",
+                "org.gnome.LightsOff"
             ]
         }
     },
@@ -14630,6 +14639,7 @@
             "root": "quadrapassel",
             "symlinks": [
                 "gnome-quadrapassel",
+                "org.gnome.Quadrapassel",
                 "org.gnome.quadrapassel"
             ]
         }
@@ -16613,6 +16623,7 @@
             "symlinks": [
                 "gnome-sudoku",
                 "ksudoku",
+                "org.gnome.Sudoku",
                 "org.kde.ksudoku",
                 "sgt-solo"
             ]
@@ -16933,6 +16944,7 @@
                 "gnome-tali",
                 "gtali",
                 "kjumpingcube",
+                "org.gnome.Tali",
                 "org.kde.kjumpingcube"
             ]
         }
