@@ -8293,6 +8293,14 @@
             "root": "gwyddion"
         }
     },
+    "gxi": {
+        "linux": {
+            "root": "gxi",
+            "symlinks": [
+                "com.github.Cogitri.gxi"
+            ]
+        }
+    },
     "gyazo": {
         "linux": {
             "root": "gyazo"
