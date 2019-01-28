@@ -6189,7 +6189,8 @@
         "linux": {
             "root": "fragments",
             "symlinks": [
-                "de.haeckerfelix.Fragments"
+                "de.haeckerfelix.Fragments",
+                "org.gnome.Fragments"
             ]
         }
     },
@@ -7915,7 +7916,9 @@
         "linux": {
             "root": "gradio",
             "symlinks": [
-                "de.haeckerfelix.gradio"
+                "de.haeckerfelix.gradio",
+                "de.haeckerfelix.Shortwave",
+                "org.gnome.Shortwave"
             ]
         }
     },
