@@ -16689,6 +16689,14 @@
             "root": "svgcleaner"
         }
     },
+    "svgvi": {
+        "linux": {
+            "root": "svgvi",
+            "symlinks": [
+                "mx.pwmc.Svgvi"
+            ]
+        }
+    },
     "swami": {
         "linux": {
             "root": "swami"
