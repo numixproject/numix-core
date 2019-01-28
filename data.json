@@ -965,7 +965,9 @@
                 "ardour2",
                 "ardour3",
                 "ardour4",
-                "ardour5"
+                "ardour5",
+                "org.ardour.Ardour",
+                "org.ardour.Ardour5"
             ]
         }
     },
@@ -10837,7 +10839,10 @@
     },
     "lutris": {
         "linux": {
-            "root": "lutris"
+            "root": "lutris",
+            "symlinks": [
+                "net.lutris.Lutris"
+            ]
         }
     },
     "luxrender": {
