@@ -971,7 +971,9 @@
                 "ardour2",
                 "ardour3",
                 "ardour4",
-                "ardour5"
+                "ardour5",
+                "org.ardour.Ardour",
+                "org.ardour.Ardour5"
             ]
         }
     },
@@ -2947,6 +2949,7 @@
         "linux": {
             "root": "calls",
             "symlinks": [
+                "org.gnome.Calls",
                 "sm.puri.Calls"
             ]
         }
@@ -3784,6 +3787,7 @@
             "root": "d-feet-icon",
             "symlinks": [
                 "d-feet",
+                "org.gnome.DFeet",
                 "org.gnome.dfeet"
             ]
         }
@@ -6547,6 +6551,7 @@
                 "gcolor",
                 "gcolor3",
                 "gpick",
+                "nl.hjdskes.Gcolor3",
                 "nl.hjdskes.gcolor3"
             ]
         }
@@ -7039,6 +7044,7 @@
         "linux": {
             "root": "gnome-characters",
             "symlinks": [
+                "org.gnome.CharacterMap",
                 "org.gnome.Characters"
             ]
         }
@@ -10690,7 +10696,11 @@
     },
     "lmms": {
         "linux": {
-            "root": "lmms"
+            "root": "lmms",
+            "symlinks": [
+                "io.lmms.LMMS",
+                "io.lmms.Lmms"
+            ]
         }
     },
     "log-analyzer": {
@@ -10874,7 +10884,10 @@
     },
     "lutris": {
         "linux": {
-            "root": "lutris"
+            "root": "lutris",
+            "symlinks": [
+                "net.lutris.Lutris"
+            ]
         }
     },
     "luxrender": {
@@ -12326,7 +12339,10 @@
     },
     "ocrfeeder": {
         "linux": {
-            "root": "ocrfeeder"
+            "root": "ocrfeeder",
+            "symlinks": [
+                "org.gnome.OCRFeeder"
+            ]
         }
     },
     "ocsstore": {
@@ -14117,6 +14133,7 @@
         "linux": {
             "root": "purism-chatty",
             "symlinks": [
+                "org.gnome.Chatty",
                 "sm.puri.Chatty"
             ]
         }
@@ -19160,6 +19177,7 @@
         "linux": {
             "root": "webstorm",
             "symlinks": [
+                "com.jetbrains.WebStorm",
                 "jetbrains-webstorm"
             ]
         }
