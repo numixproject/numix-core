@@ -127,7 +127,7 @@ if platform == "android":
                 convert_svg2png(source, output, 192, 192)
 elif platform == "linux":
     print("\nGenerating Linux theme...")
-    linux_dir = "discreete-linux-icon-theme-{0}/Discreete-Linux-{1}".format(theme, theme.title())
+    linux_dir = "numix-icon-theme-{0}/Numix-{1}".format(theme, theme.title())
     for size in sizes:
         mkdir("{0}/{1}/apps".format(linux_dir, size))
     for icon_name, icon in icons.items():
