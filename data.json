@@ -19369,7 +19369,10 @@
     },
     "wings3d": {
         "linux": {
-            "root": "wings3d"
+            "root": "wings3d",
+            "symlinks": [
+                "com.wings3d.WINGS"
+            ]
         }
     },
     "winpdb": {
