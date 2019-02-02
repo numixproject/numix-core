@@ -5255,7 +5255,10 @@
     },
     "electrum": {
         "linux": {
-            "root": "electrum"
+            "root": "electrum",
+            "symlinks": [
+                "org.electrum.electrum"
+            ]
         }
     },
     "electrum-ltc": {
@@ -9974,6 +9977,7 @@
         "linux": {
             "root": "knights",
             "symlinks": [
+                "chessx",
                 "gambitchess",
                 "net.sourceforge.Chessx",
                 "xboard",
@@ -10107,6 +10111,7 @@
         "linux": {
             "root": "kronometer",
             "symlinks": [
+                "org.kde.kronometer",
                 "zeegaree",
                 "zeegaree-lite"
             ]
