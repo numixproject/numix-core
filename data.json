@@ -7412,6 +7412,7 @@
             "symlinks": [
                 "gnome-tweaks",
                 "org.gnome.tweak",
+                "org.gnome.Tweaks",
                 "org.gnome.tweaks"
             ]
         }
@@ -18232,7 +18233,10 @@
             "com.viber.voip/com.viber.voip.WelcomeActivity"
         ],
         "linux": {
-            "root": "viber"
+            "root": "viber",
+            "symlinks": [
+                "com.viber.Viber"
+            ]
         }
     },
     "vidalia": {
