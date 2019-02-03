@@ -10634,7 +10634,10 @@
     },
     "lingot-icon": {
         "linux": {
-            "root": "lingot-icon"
+            "root": "lingot-icon",
+            "symlinks": [
+                "org.nongnu.lingot"
+            ]
         }
     },
     "links": {
