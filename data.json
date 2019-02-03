@@ -3615,11 +3615,6 @@
             "root": "cs-desktop"
         }
     },
-    "cs-user": {
-        "linux": {
-            "root": "cs-user"
-        }
-    },
     "cs-user-accounts": {
         "linux": {
             "root": "cs-user-accounts"
@@ -11385,16 +11380,6 @@
             "root": "mudlet"
         }
     },
-    "mugshot": {
-        "linux": {
-            "root": "mugshot",
-            "symlinks": [
-                "login-photo",
-                "system-config-authentication",
-                "user_icon"
-            ]
-        }
-    },
     "multibootusb": {
         "linux": {
             "root": "multibootusb",
@@ -13561,7 +13546,12 @@
         "linux": {
             "root": "preferences-desktop-user",
             "symlinks": [
-                "system-users"
+                "cs-user",
+                "login-photo",
+                "mugshot",
+                "system-config-authentication",
+                "system-users",
+                "user_icon"
             ]
         }
     },
@@ -13907,7 +13897,11 @@
     },
     "pyrenamer": {
         "linux": {
-            "root": "pyrenamer"
+            "root": "pyrenamer",
+            "symlinks": [
+                "kfilereplace",
+                "prefixsuffix"
+            ]
         }
     },
     "pyspread": {
@@ -14721,15 +14715,6 @@
     "remotebox": {
         "linux": {
             "root": "remotebox"
-        }
-    },
-    "rename": {
-        "linux": {
-            "root": "rename",
-            "symlinks": [
-                "kfilereplace",
-                "prefixsuffix"
-            ]
         }
     },
     "renpy": {
