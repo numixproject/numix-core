@@ -3191,10 +3191,16 @@
         "linux": {
             "root": "cinelerra",
             "symlinks": [
-                "cin",
                 "cinelerra-cv",
-                "cinelerra-gg",
                 "cinelerra-hv"
+            ]
+        }
+    },
+    "cinelerra-gg": {
+        "linux": {
+            "root": "cinelerra-gg",
+            "symlinks": [
+                "cin"
             ]
         }
     },
