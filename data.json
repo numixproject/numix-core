@@ -5255,7 +5255,10 @@
     },
     "electrum": {
         "linux": {
-            "root": "electrum"
+            "root": "electrum",
+            "symlinks": [
+                "org.electrum.electrum"
+            ]
         }
     },
     "electrum-ltc": {
@@ -6493,7 +6496,10 @@
     },
     "gaupol": {
         "linux": {
-            "root": "gaupol"
+            "root": "gaupol",
+            "symlinks": [
+                "io.otsaloma.gaupol"
+            ]
         }
     },
     "gazebo": {
@@ -7406,6 +7412,7 @@
             "symlinks": [
                 "gnome-tweaks",
                 "org.gnome.tweak",
+                "org.gnome.Tweaks",
                 "org.gnome.tweaks"
             ]
         }
@@ -9980,6 +9987,7 @@
         "linux": {
             "root": "knights",
             "symlinks": [
+                "chessx",
                 "gambitchess",
                 "net.sourceforge.Chessx",
                 "xboard",
@@ -10113,6 +10121,7 @@
         "linux": {
             "root": "kronometer",
             "symlinks": [
+                "org.kde.kronometer",
                 "zeegaree",
                 "zeegaree-lite"
             ]
@@ -10632,7 +10641,10 @@
     },
     "lingot-icon": {
         "linux": {
-            "root": "lingot-icon"
+            "root": "lingot-icon",
+            "symlinks": [
+                "org.nongnu.lingot"
+            ]
         }
     },
     "links": {
@@ -18234,7 +18246,10 @@
             "com.viber.voip/com.viber.voip.WelcomeActivity"
         ],
         "linux": {
-            "root": "viber"
+            "root": "viber",
+            "symlinks": [
+                "com.viber.Viber"
+            ]
         }
     },
     "vidalia": {
