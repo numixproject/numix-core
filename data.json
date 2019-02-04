@@ -18593,7 +18593,10 @@
     },
     "web-4chan": {
         "linux": {
-            "root": "4chan.org"
+            "root": "4chan.org",
+            "symlinks": [
+                "com.github.dcharles525.pho"
+            ]
         }
     },
     "web-9gag": {
