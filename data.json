@@ -18002,6 +18002,14 @@
             "root": "universalindentgui"
         }
     },
+    "universalmediaserver": {
+        "linux": {
+            "root": "universalmediaserver",
+            "symlinks": [
+                "ums"
+            ]
+        }
+    },
     "unknown-horizons": {
         "linux": {
             "root": "unknown-horizons"
