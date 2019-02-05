@@ -233,6 +233,7 @@
             "symlinks": [
                 "applets-screenshooter",
                 "chrome-hfhhnacclhffhdffklopdkcgdhifgngh-Default",
+                "com.deepin.Screenshot",
                 "deepin-screenshot",
                 "gnome-panel-screenshoot",
                 "gnome-panel-screenshot",
@@ -241,6 +242,7 @@
                 "kscreenshot",
                 "ksnapshot",
                 "ksnip",
+                "org.deepin.flatdeb.deepin-screenshot",
                 "org.gnome.Screenshot",
                 "screengrab",
                 "screenie",
@@ -820,7 +822,8 @@
             "root": "app-launcher",
             "bfb": "launcher_bfb",
             "symlinks": [
-                "chrome-app-list"
+                "chrome-app-list",
+                "deepin-launcher"
             ]
         }
     },
@@ -921,6 +924,7 @@
                 "abrt-gui",
                 "apport-gtk",
                 "apport-gtk2",
+                "deepin-feedback",
                 "gnome-abrt",
                 "gnome-warning",
                 "kbugbuster",
@@ -2012,11 +2016,14 @@
             "root": "calc",
             "symlinks": [
                 "accessories-calculator",
+                "com.deepin.Calculator",
+                "deepin-calculator",
                 "galculator",
                 "gcalculator",
                 "gnome-calculator",
                 "io.liri.Calculator",
                 "kcalc",
+                "org.deepin.flatdeb.deepin-calculator",
                 "org.gnome.Calculator",
                 "org.speedcrunch.SpeedCrunch",
                 "speedcrunch"
@@ -2652,6 +2659,7 @@
             "root": "office-calendar",
             "symlinks": [
                 "calendar-red-31",
+                "com.deepin.Calendar",
                 "date",
                 "dates",
                 "dayfolder",
@@ -2662,6 +2670,7 @@
                 "gnome-planner",
                 "korganizer",
                 "office-date",
+                "org.deepin.flatdeb.deepin-calendar",
                 "org.gnome.Calendar",
                 "org.kde.korganizer",
                 "plan",
@@ -3611,6 +3620,7 @@
             "root": "credentials-preferences",
             "symlinks": [
                 "cs-online-accounts",
+                "deepin-cloud-configuration",
                 "online-accounts",
                 "preferences-desktop-online-accounts"
             ]
@@ -3689,7 +3699,10 @@
     },
     "cs-desktop": {
         "linux": {
-            "root": "cs-desktop"
+            "root": "cs-desktop",
+            "symlinks": [
+                "deepin-toggle-desktop"
+            ]
         }
     },
     "cs-user": {
@@ -3943,6 +3956,7 @@
         "linux": {
             "root": "deepin-media-player",
             "symlinks": [
+                "com.deepin.Movies",
                 "deepin-movie"
             ]
         }
@@ -3951,7 +3965,9 @@
         "linux": {
             "root": "deepin-music-player",
             "symlinks": [
-                "deepin-music"
+                "com.deepin.Music",
+                "deepin-music",
+                "org.deepin.flatdeb.deepin-music"
             ]
         }
     },
@@ -4018,7 +4034,7 @@
             "root": "desktop",
             "symlinks": [
                 "cs-desktop",
-                "deepin-toggle-desktop",
+                "deepin-show-desktop",
                 "dock",
                 "dockbarx",
                 "panel-applets",
@@ -6137,6 +6153,7 @@
                 "accessories-character-map",
                 "applications-fonts",
                 "cs-fonts",
+                "deepin-font-installer",
                 "font-manager",
                 "font-viewer",
                 "gnome-character-map",
@@ -6594,6 +6611,7 @@
             "symlinks": [
                 "colorgrab",
                 "colorpicker",
+                "com.deepin.Picker",
                 "com.github.ronnydo.colorpicker",
                 "deepin-picker",
                 "gcolor",
@@ -7379,8 +7397,10 @@
             "root": "gnome-sound-recorder",
             "symlinks": [
                 "audio-recorder",
+                "com.deepin.VoiceRecorder",
                 "com.github.ryonakano.reco",
                 "deepin-voice-recorder",
+                "org.deepin.flatdeb.deepin-voice-recorder",
                 "org.gnome.SoundRecorder",
                 "reco"
             ]
@@ -8039,10 +8059,7 @@
     },
     "green-recorder": {
         "linux": {
-            "root": "green-recorder",
-            "symlinks": [
-                "deepin-screen-recorder"
-            ]
+            "root": "green-recorder"
         }
     },
     "greenfoot": {
@@ -8558,6 +8575,7 @@
             "symlinks": [
                 "4137_winhlp32.0",
                 "browser-help",
+                "deepin-manual",
                 "gnochm",
                 "gnome-help",
                 "gnome-unknown",
@@ -9350,6 +9368,8 @@
                 "applications-development",
                 "cs-cat-hardware",
                 "cs-drivers",
+                "deepin-repair",
+                "deepin-repair-tools",
                 "device-notifier",
                 "driver-manager",
                 "jockey-gtk",
@@ -10272,8 +10292,10 @@
             "root": "kuickshow",
             "symlinks": [
                 "AdvancedPhoto",
+                "com.deepin.ImageViewer",
                 "com.github.artemanufrij.showmypictures",
                 "deepin-image-viewer",
+                "org.deepin.flatdeb.deepin-image-viewer",
                 "showimage",
                 "xviewer"
             ]
@@ -13853,6 +13875,7 @@
             "symlinks": [
                 "cs-display",
                 "cs-screen",
+                "deepin-graphics-driver-manager",
                 "display",
                 "display-capplet",
                 "gddccontrol",
@@ -15616,7 +15639,11 @@
         "linux": {
             "root": "screenrecorder",
             "symlinks": [
-                "ccom.github.mohelm97.screenrecorder"
+                "com.deepin.ScreenRecorder",
+                "com.github.mohelm97.screenrecorder",
+                "deepin-screen-recorder",
+                "deepin-screenrecorder",
+                "org.deepin.flatdeb.deepin-screen-recorder"
             ]
         }
     },
@@ -16852,6 +16879,7 @@
         "linux": {
             "root": "synaptic",
             "symlinks": [
+                "deepin-deb-installer",
                 "dnfdragora",
                 "kynaptic",
                 "yumex",
@@ -16905,7 +16933,10 @@
     },
     "system-config-printer": {
         "linux": {
-            "root": "system-config-printer"
+            "root": "system-config-printer",
+            "symlinks": [
+                "deepin-cloud-print-configurator",
+            ]
         }
     },
     "system-config-samba": {
@@ -17306,6 +17337,7 @@
                 "blogilo",
                 "bottles_notepad",
                 "code",
+                "deepin-editor",
                 "gedit",
                 "gedit-icon",
                 "gedit-logo",
