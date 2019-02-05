@@ -4342,7 +4342,10 @@
     },
     "distributor-logo-deepin": {
         "linux": {
-            "root": "distributor-logo-deepin"
+            "root": "distributor-logo-deepin",
+            "symlinks": [
+                "dde-introduction"
+            ]
         }
     },
     "distributor-logo-devuan": {
@@ -15553,6 +15556,7 @@
         "linux": {
             "root": "scanner",
             "symlinks": [
+                "deepin-cloud-scan-config-helper",
                 "package_graphics_scanning",
                 "simple-scan",
                 "xsane"
