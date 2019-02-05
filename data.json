@@ -13421,6 +13421,7 @@
         "linux": {
             "root": "phpstorm",
             "symlinks": [
+                "com.jetbrains.PhpStorm",
                 "jetbrains-phpstorm",
                 "webide"
             ]
@@ -14277,7 +14278,9 @@
         "linux": {
             "root": "pycharm",
             "symlinks": [
+                "com.jetbrains.PyCharm",
                 "com.jetbrains.PyCharm-Community",
+                "com.jetbrains.PyCharm-Professional",
                 "jetbrains-pycharm",
                 "jetbrains-pycharm-edu",
                 "pycharm-community",
@@ -15221,6 +15224,7 @@
         "linux": {
             "root": "rider",
             "symlinks": [
+                "com.jetbrains.Rider",
                 "jetbrains-rider"
             ]
         }
@@ -15432,6 +15436,7 @@
         "linux": {
             "root": "rubymine",
             "symlinks": [
+                "com.jetbrains.RubyMine",
                 "jetbrains-rubymine"
             ]
         }
