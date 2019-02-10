@@ -5440,6 +5440,14 @@
             ]
         }
     },
+    "ephemeral": {
+        "linux": {
+            "root": "ephemeral",
+            "symlinks": [
+                "com.github.cassidyjames.ephemeral"
+            ]
+        }
+    },
     "epoptes": {
         "linux": {
             "root": "epoptes"
