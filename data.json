@@ -14917,7 +14917,10 @@
     },
     "qxmledit": {
         "linux": {
-            "root": "qxmledit"
+            "root": "qxmledit",
+            "symlinks": [
+                "com.github.fleury08.prettifier"
+            ]
         }
     },
     "raccoon": {
