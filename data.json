@@ -6616,6 +6616,8 @@
                 "colorpicker",
                 "com.deepin.Picker",
                 "com.github.ronnydo.colorpicker",
+                "com.github.thezbyg.Gpick",
+                "com.github.thezbyg.gpick",
                 "deepin-picker",
                 "gcolor",
                 "gcolor3",
@@ -7299,6 +7301,7 @@
         "linux": {
             "root": "gnome-paint",
             "symlinks": [
+                "com.github.wjaguar.mtPaint",
                 "com.github.wjaguar.mtpaint",
                 "deepin-draw",
                 "gp",
@@ -8500,6 +8503,7 @@
         "linux": {
             "root": "hardinfo",
             "symlinks": [
+                "com.github.lpereira.HardInfo",
                 "com.github.lpereira.hardinfo",
                 "harddrake2"
             ]
@@ -13869,6 +13873,7 @@
                 "kcolorchooser",
                 "mate-color-manager",
                 "org.gnome.ColorProfileViewer",
+                "org.gnome.ColorViewer",
                 "preferences-desktop-color",
                 "unity-color-panel"
             ]
@@ -18493,7 +18498,8 @@
             "symlinks": [
                 "44F2_SynthesiaConfig.0",
                 "5B46_Synthesia.0",
-                "linthesia"
+                "linthesia",
+                "net.sourceforge.VMPK"
             ]
         }
     },
