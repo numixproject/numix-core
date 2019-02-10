@@ -16208,6 +16208,14 @@
             "root": "steam_icon_204220"
         }
     },
+    "snaptastic": {
+        "linux": {
+            "root": "snaptastic",
+            "symlinks": [
+                "com.github.bartzaalberg.snaptastic"
+            ]
+        }
+    },
     "snes9x": {
         "linux": {
             "root": "snes9x",
