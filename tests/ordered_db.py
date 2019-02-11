@@ -13,7 +13,7 @@ from collections import OrderedDict
 from json import load
 from os import path
 
-from utils import error, sort, sort_check
+from utils import error, sort_check
 
 
 ABS_PATH = path.dirname(path.abspath(__file__))
