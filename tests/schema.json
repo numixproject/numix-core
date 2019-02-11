@@ -4,6 +4,14 @@
         "[a-zA-Z0-9]*$": {
             "type": "object",
             "properties": {
+                "android": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    },
+                    "minItems": 1,
+                    "uniqueItems": true
+                },
                 "linux": {
                     "type": "object",
                     "properties": {
@@ -26,7 +34,7 @@
                         "root"
                     ]
                 },
-                "android": {
+                "osx": {
                     "type": "array",
                     "items": {
                         "type": "string"
