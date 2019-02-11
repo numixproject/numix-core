@@ -32,18 +32,13 @@ def space_check(string):
         return False
 
 
-def sort(list):
-    """Sort list, case insensitive."""
-    return sorted(list, key=lambda item: item.lower())
-
-
 def sort_check(list, stype, root=""):
     """
     Checks if a list of 'stype' strings is sorted, case insensitive. Takes as
     optional string 'root' as a root value for use with sublists.
     """
     has_errors = False
-    reference = sort(list)
+    reference = sorted(list, key=lambda item: item.lower())
 
     for i in range(len(list)):
         if list[i] == reference[i]:
