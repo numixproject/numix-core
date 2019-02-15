@@ -1,6 +1,6 @@
-<svg width="48" height="48" version="1.1" viewBox="0 0 48 48.000001" xmlns="http://www.w3.org/2000/svg">
+<svg width="48" height="48" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <linearGradient id="linearGradient4501" x1="-47" x2="-1" y1="2.8779e-15" y2="6.1232e-17" gradientUnits="userSpaceOnUse">
+  <linearGradient id="bg" x1="-47" x2="-1" y1="2.8779e-15" y2="6.1232e-17" gradientUnits="userSpaceOnUse">
    <stop style="stop-color:#e4e4e4" offset="0"/>
    <stop style="stop-color:#eee" offset="1"/>
   </linearGradient>
@@ -10,16 +10,16 @@
   <path d="m1 43.25v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.05"/>
   <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
  </g>
- <rect transform="rotate(-90)" x="-47" y="1" width="46" height="46" rx="4" style="fill:url(#linearGradient4501)"/>
+ <rect transform="rotate(-90)" x="-47" y="1" width="46" height="46" rx="4" style="fill:url(#bg)"/>
  <g transform="translate(0 3.949e-5)">
   <g transform="translate(0 -1004.4)">
    <path d="m1 1043.4v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
   </g>
  </g>
- <path d="m23 11c-0.554 0-1 0.446-1 1v17h-3c-0.554 0-1-0.446-1-1v-10c0-0.554-0.446-1-1-1h-4c-0.554 0-1 0.446-1 1v2c0 0.554 0.446 1 1 1h1v8c0 2.216 1.784 4 4 4h4v3c0 0.554 0.446 1 1 1h2c0.554 0 1-0.446 1-1v-3h4c2.216 0 4-1.784 4-4v-8h-4v7c0 0.554-0.446 1-1 1h-3v-17c0-0.554-0.446-1-1-1zm7 2v2a4 4 0 0 1 4 4h2a6 6 0 0 0 -6 -6zm0 4v2h2a2 2 0 0 0 -2 -2z" style="opacity:.1"/>
+ <path d="m19 29c-0.554 0-1-0.446-1-1v-10h-6v2c0 0.554 0.446 1 1 1h1v8c0 2.216 1.784 4 4 4h4v3c0 0.554 0.446 1 1 1h2c0.554 0 1-0.446 1-1v-3h4c2.216 0 4-1.784 4-4v-8h-4v7c0 0.554-0.446 1-1 1zm11-16v2c2.2091 0 4 1.7909 4 4h2c0-3.3137-2.6863-6-6-6zm0 4v2h2c0-1.1046-0.89543-2-2-2z" style="opacity:.1"/>
  <path d="m13 16c-0.554 0-1 0.446-1 1v2c0 0.554 0.446 1 1 1h1v8c0 2.216 1.784 4 4 4h12c2.216 0 4-1.784 4-4v-8h-4v7c0 0.554-0.446 1-1 1h-10c-0.554 0-1-0.446-1-1v-10c0-0.554-0.446-1-1-1z" style="fill:#7696c9"/>
  <rect x="22" y="10" width="4" height="20" rx="1" ry="1" style="fill:#7696c9"/>
  <rect x="22" y="24" width="4" height="12" rx="1" ry="1" style="fill:#dd4343"/>
  <rect transform="rotate(90)" x="28" y="-30" width="4" height="12" rx="1" ry="1" style="fill:#dd4343"/>
- <path d="m30 12v2a4 4 0 0 1 4 4h2a6 6 0 0 0 -6 -6zm0 4v2h2a2 2 0 0 0 -2 -2z" style="fill:#7696c9"/>
+ <path d="m30 12v2a4 4 0 0 1 4 4h2a6 6 0 0 0-6-6zm0 4v2h2a2 2 0 0 0-2-2z" style="fill:#7696c9"/>
 </svg>

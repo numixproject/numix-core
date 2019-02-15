@@ -1,0 +1,18 @@
+<svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="bg" x2="0" y1="1" y2="47" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#417fcb" offset="0"/>
+   <stop style="stop-color:#3575c3" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4zm0 0.5v0.5c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.5c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.02"/>
+ <path d="m1 43.25v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.05"/>
+ <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
+ <rect x="1" y="1" width="46" height="46" rx="4" style="fill:url(#bg)"/>
+ <path d="m1 39v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
+ <path d="m24 12c-5.922 0-10.86 4.344-11.82 10h-3.18v4h3.18c0.96 5.658 5.899 10 11.82 10 5.922 0 10.86-4.344 11.82-10h3.18v-4h-3.18c-0.96-5.658-5.899-10-11.82-10zm0 4.16c3.663 0 6.701 2.467 7.578 5.842h-15.16c0.877-3.374 3.914-5.842 7.578-5.842zm-7.578 9.842h15.16c-0.877 3.374-3.914 5.842-7.578 5.842-3.663 0-6.701-2.467-7.578-5.842z" style="color-rendering:auto;color:#000000;image-rendering:auto;isolation:auto;mix-blend-mode:normal;opacity:.1;shape-rendering:auto;solid-color:#000000;white-space:normal" isolation="auto" mix-blend-mode="normal"/>
+ <g transform="translate(0 -.998)">
+  <path d="m24 11.999c-6.604 0-12 5.398-12 12 0 6.604 5.398 12 12 12 6.604 0 12-5.398 12-12 0-6.604-5.398-12-12-12zm0 4.158c4.357 0 7.843 3.485 7.843 7.843 0 4.357-3.485 7.843-7.843 7.843-4.357 0-7.843-3.485-7.843-7.843 0-4.357 3.485-7.843 7.843-7.843z" style="color-rendering:auto;color:#000000;fill:#f9f9f9;image-rendering:auto;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;white-space:normal" isolation="auto" mix-blend-mode="normal"/>
+  <path d="m9 22h30v4h-30m0-4" style="fill:#f9f9f9"/>
+ </g>
+</svg>

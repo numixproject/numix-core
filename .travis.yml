@@ -12,3 +12,4 @@ script:
     - docker exec tests python3 ./tests/db_entry.py
     - docker exec tests python3 ./tests/icons_entry.py
     - docker exec tests python3 ./tests/ordered_db.py
+    - docker exec tests python3 ./tests/icon_cache.py
