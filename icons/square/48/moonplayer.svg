@@ -1,0 +1,38 @@
+<svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="bg" x2="0" y1="1" y2="47" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#3d3d3d" style="stop-color:#434565" offset="0"/>
+   <stop stop-color="#303030" style="stop-color:#3b3d59" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4zm0 0.5v0.5c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.5c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" opacity=".02"/>
+ <path d="m1 43.25v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" opacity=".05"/>
+ <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" opacity=".1"/>
+ <rect x="1" y="1" width="46" height="46" rx="4" fill="url(#bg)"/>
+ <path d="m1 39v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" opacity=".1"/>
+ <g fill="#eee">
+  <circle cx="38.5" cy="40.5" r=".5"/>
+  <circle cx="43.5" cy="8.5" r=".5"/>
+  <circle cx="36.5" cy="5.5" r=".5"/>
+  <circle cx="14.5" cy="42.5" r=".5"/>
+  <circle cx="44.5" cy="35.5" r=".5"/>
+  <circle cx="29.5" cy="40.5" r=".5"/>
+  <circle cx="3.5" cy="27.5" r=".5"/>
+  <circle cx="43.5" cy="26.5" r=".5"/>
+  <circle cx="5.5" cy="38.5" r=".5"/>
+  <circle cx="12.5" cy="33.5" r=".5"/>
+  <circle cx="5.5" cy="13.5" r=".5"/>
+  <circle cx="23.5" cy="43.5" r=".5"/>
+  <circle cx="39.5" cy="19.5" r=".5"/>
+  <circle cx="27.5" cy="5.5" r=".5"/>
+  <circle cx="13.5" cy="9.5" r=".5"/>
+  <circle cx="35.5" cy="13.5" r=".5"/>
+  <circle cx="7.5" cy="4.5" r=".5"/>
+  <circle cx="20.5" cy="37.5" r=".5"/>
+  <circle cx="20.5" cy="6.5" r=".5"/>
+  <circle cx="8.5" cy="21.5" r=".5"/>
+  <circle cx="34.5" cy="33.5" r=".5"/>
+ </g>
+ <circle cx="24" cy="24" r="12" opacity=".1"/>
+ <circle cx="24" cy="23" r="12" fill="#eee" style="fill:#dad3d1"/>
+</svg>

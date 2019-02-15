@@ -1,12 +1,12 @@
-#!/usr/bin/python3
-# pylint: disable=C0103
+#!/usr/bin/env python3
+
 """
-# Copyright (C) 2016
-# This program is free software: you can redistribute it and/or modify
-# it under the terms of the GNU General Public License (version 3+) as
-# published by the Free Software Foundation. You should have received
-# a copy of the GNU General Public License along with this program.
-# If not, see <http://www.gnu.org/licenses/>.
+Copyright (C) 2018
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License (version 3+) as
+published by the Free Software Foundation. You should have received
+a copy of the GNU General Public License along with this program.
+If not, see <http://www.gnu.org/licenses/>.
 """
 
 # Sorting out modules
@@ -76,9 +76,9 @@ def mkdir(directory):
 
 def convert_svg2png(infile, outfile, w, h):
     """
-        Converts svg files to png using Cairosvg or Inkscape
-        @file_path : String; the svg file absolute path
-        @dest_path : String; the png file absolute path
+    Converts svg files to png using Cairosvg or Inkscape
+    @file_path : String; the svg file absolute path
+    @dest_path : String; the png file absolute path
     """
     if use_inkscape:
         cmd = Popen(["inkscape", "-z", "-f", infile, "-e", outfile,
@@ -116,15 +116,32 @@ except FileNotFoundError:
 if platform == "android":
     print("\nGenerating Android theme...")
     theme_name = "com.numix.icons_{0}".format(theme)
-    android_dir = path.join(theme_name,
-                            "MainActivity22/app/src/main/res/drawable-xxhdpi")
-    mkdir(android_dir)
+    android_dir = theme_name + "/MainActivity22/app/src/main/res/"
+    app_filter = android_dir + "xml/appfilter.xml"
+    theme_dir = android_dir + "drawable-xxhdpi/"
+
+    app_filter_content = '<?xml version="1.0" encoding="utf-8"?>\n'
+    app_filter_content += '<resources>\n'
+
+    mkdir(theme_dir)
+    mkdir(path.dirname(app_filter))
+
     for icon_name, icon in icons.items():
-        for output_name in icon.get("android", []):
+        for component_info in icon.get("android", []):
             source = "icons/{0}/48/{1}.svg".format(theme, format(icon_name))
-            output = "{0}/{1}.png".format(android_dir, output_name.replace("_", "."))
+            drawable_name = icon_name.replace(".", "_").replace("-", "_")
+            output = "{0}/{1}.png".format(theme_dir,
+                                          drawable_name)
             if path.exists(source):
                 convert_svg2png(source, output, 192, 192)
+            app_filter_content += '\t<item component="ComponentInfo{' + \
+                component_info + '}" drawable="' + drawable_name + '"/>\n'
+
+    app_filter_content += '</resources>'
+    with open(app_filter, 'w') as app_filter_obj:
+        app_filter_obj.write(app_filter_content)
+
+
 elif platform == "linux":
     print("\nGenerating Linux theme...")
     linux_dir = "numix-icon-theme-{0}/Numix-{1}".format(theme, theme.title())
@@ -136,18 +153,14 @@ elif platform == "linux":
         for size in sizes:
             root = "{0}.svg".format(icon["linux"]["root"])
             source = "icons/{0}/{1}/{2}.svg".format(theme, size, icon_name)
-            output = "{0}/{1}/apps/{2}".format(linux_dir, size, root)
+            output = "{0}/{1}/apps/".format(linux_dir, size)
             if path.exists(source):
-                bfb_icon = icon["linux"].get("bfb")
-                if bfb_icon:
-                    output_bfb = "{0}/{1}/apps/{2}.png".format(linux_dir,
-                                                               size,
-                                                               bfb_icon)
-                    if int(size) == 48:
-                        convert_svg2png(source, output_bfb, 144, 144)
-                copy2(source, output)
+                if icon["linux"].get("bfb") and (size == "48"):
+                    output_bfb = "{0}.png".format(icon["linux"].get("bfb"))
+                    convert_svg2png(source, output + output_bfb, 144, 144)
+                copy2(source, output + root)
                 for link in icon["linux"].get("symlinks", []):
-                    output_symlink = "{0}/{1}/apps/{2}.svg".format(linux_dir, size, link)
+                    output_symlink = "{0}{1}.svg".format(output, link)
                     try:
                         symlink(root, output_symlink)
                     except FileExistsError:
@@ -170,6 +183,7 @@ elif platform == "osx":
             if path.exists(source):
                 copy2(source, output_svg)
                 convert_svg2png(source, output_png, 1024, 1024)
-                call(["png2icns", output_icn, output_png], stdout=PIPE, stderr=PIPE)
+                call(["png2icns", output_icn, output_png],
+                     stdout=PIPE, stderr=PIPE)
 # Clean Up
 print("Done!\n")

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 48 48">
+	<defs>
+		<linearGradient id="bg" gradientUnits="userSpaceOnUse" x1="0" x2="0" y1="1" y2="47">
+			<stop offset="0" stop-color="#76aee6"/>
+			<stop offset="1" stop-color="#65a4e3"/>
+		</linearGradient>
+	</defs>
+	<path opacity=".02" d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4zm0 0.5v0.5c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.5c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z"/>
+	<path opacity=".05" d="m1 43.25v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z"/>
+	<path opacity=".1" d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z"/>
+	<rect fill="url(#bg)" rx="4" height="46" width="46" y="1" x="1"/>
+	<path opacity=".1" d="m1 39v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z"/>
+	<path d="M 13,13 H35 V17 H17 V35 H13 Z M 19,19 H23 V29 H19 Z M 25,19 H29 V35 H19 V31 H25 Z M 31,19 H35 V29 H31 Z" opacity=".1"/>
+	<path d="M 13,13 H35 V17 H17 V35 H13 Z M 19,19 H23 V29 H19 Z M 25,19 H29 V35 H19 V31 H25 Z M 31,19 H35 V29 H31 Z" fill="#163f7a" transform="translate(0 -1)"/>
+</svg>

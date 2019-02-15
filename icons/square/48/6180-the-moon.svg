@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 48 48">
+	<defs>
+		<linearGradient id="bg" gradientUnits="userSpaceOnUse" x1="0" x2="0" y1="1" y2="47">
+			<stop offset="0" stop-color="#3d3d3d"/>
+			<stop offset="1" stop-color="#303030"/>
+		</linearGradient>
+	</defs>
+	<g>
+		<path opacity=".02" d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4zm0 0.5v0.5c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.5c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z"/>
+		<path opacity=".05" d="m1 43.25v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z"/>
+		<path opacity=".1" d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z"/>
+		<rect fill="url(#bg)" rx="4" height="46" width="46" y="1" x="1"/>
+		<path opacity=".1" d="m1 39v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z"/>
+		<circle cx="38.5" cy="40.5" r=".5" fill="#eee"/>
+		<circle cx="43.5" cy="08.5" r=".5" fill="#eee"/>
+		<circle cx="36.5" cy="05.5" r=".5" fill="#eee"/>
+		<circle cx="14.5" cy="42.5" r=".5" fill="#eee"/>
+		<circle cx="44.5" cy="35.5" r=".5" fill="#eee"/>
+		<circle cx="29.5" cy="40.5" r=".5" fill="#eee"/>
+		<circle cx="03.5" cy="27.5" r=".5" fill="#eee"/>
+		<circle cx="43.5" cy="26.5" r=".5" fill="#eee"/>
+		<circle cx="05.5" cy="38.5" r=".5" fill="#eee"/>
+		<circle cx="12.5" cy="33.5" r=".5" fill="#eee"/>
+		<circle cx="05.5" cy="13.5" r=".5" fill="#eee"/>
+		<circle cx="23.5" cy="43.5" r=".5" fill="#eee"/>
+		<circle cx="39.5" cy="19.5" r=".5" fill="#eee"/>
+		<circle cx="27.5" cy="05.5" r=".5" fill="#eee"/>
+		<circle cx="13.5" cy="09.5" r=".5" fill="#eee"/>
+		<circle cx="35.5" cy="13.5" r=".5" fill="#eee"/>
+		<circle cx="07.5" cy="04.5" r=".5" fill="#eee"/>
+		<circle cx="20.5" cy="37.5" r=".5" fill="#eee"/>
+		<circle cx="20.5" cy="06.5" r=".5" fill="#eee"/>
+		<circle cx="08.5" cy="21.5" r=".5" fill="#eee"/>
+		<circle cx="34.5" cy="33.5" r=".5" fill="#eee"/>
+	</g>
+	<circle opacity=".1" cx="24" cy="24" r="12"/>
+	<circle fill="#eee" cx="24" cy="23" r="12"/>
+</svg>
