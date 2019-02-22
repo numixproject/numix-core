@@ -6284,7 +6284,10 @@
     },
     "franz": {
         "linux": {
-            "root": "franz"
+            "root": "franz",
+            "symlinks": [
+                "com.meetfranz.Franz"
+            ]
         }
     },
     "fraqtive": {
@@ -9334,6 +9337,7 @@
                 "oracle_java7",
                 "oracle_java8",
                 "oracle_java9",
+                "org.freedesktop.Sdk.Extension.openjdk",
                 "org.freedesktop.Sdk.Extension.openjdk10",
                 "org.freedesktop.Sdk.Extension.openjdk11",
                 "org.freedesktop.Sdk.Extension.openjdk8",
@@ -14465,7 +14469,10 @@
     },
     "qalculate": {
         "linux": {
-            "root": "qalculate"
+            "root": "qalculate",
+            "symlinks": [
+                "io.github.qalculate.Qalculate"
+            ]
         }
     },
     "qbittorrent": {
