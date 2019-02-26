@@ -18681,6 +18681,14 @@
             "root": "vsedit"
         }
     },
+    "vserver": {
+        "linux": {
+            "root": "vserver",
+            "symlinks": [
+                "com.github.bcedu.valasimplehttpserver"
+            ]
+        }
+    },
     "vstudio": {
         "linux": {
             "root": "vstudio"
