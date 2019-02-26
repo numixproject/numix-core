@@ -10,18 +10,10 @@
  <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
  <rect x="1" y="1" width="46" height="46" rx="4" style="fill:url(#bg)"/>
  <path d="m1 39v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
- <g transform="translate(-1,-1)">
-  <g transform="translate(1,1)">
-   <g style="opacity:.1">
-    <path transform="translate(-1,-1)" d="m15 13c-0.379 0-1 0.586-1 1v22c0 0.414 0.621 1 1 1h19.898c0.379 0 1.102-0.586 1.102-1v-22c0-0.414-0.723-1-1.102-1z"/>
-   </g>
-  </g>
- </g>
- <g transform="translate(0,-1)">
-  <path d="m14 12c-0.379 0-1 0.586-1 1v22c0 0.414 0.621 1 1 1h19.898c0.379 0 1.102-0.586 1.102-1v-22c0-0.414-0.723-1-1.102-1z" style="fill:#ecedf1"/>
-  <path d="m15 14h18v20h-18" style="fill:#5acffb"/>
-  <path d="m28.5 16c-1.383 0-2.5 1.121-2.5 2.5s1.117 2.5 2.5 2.5c1.379 0 2.5-1.121 2.5-2.5s-1.121-2.5-2.5-2.5z" style="fill:#ffec95"/>
-  <path d="m29 25-7 9h11v-2z" style="fill:#439c62"/>
-  <path d="m21 23-6 9v2h13z" style="fill:#45b969"/>
- </g>
+ <rect x="13" y="12" width="22" height="24" ry="1" style="opacity:.1;paint-order:normal"/>
+ <rect x="13" y="11" width="22" height="24" ry="1" style="fill:#ecedf1;paint-order:normal"/>
+ <path d="m15 13h18v20h-18" style="fill:#5acffb"/>
+ <path d="m28.5 15c-1.383 0-2.5 1.121-2.5 2.5s1.117 2.5 2.5 2.5c1.379 0 2.5-1.121 2.5-2.5s-1.121-2.5-2.5-2.5z" style="fill:#ffec95"/>
+ <path d="m29 24-7 9h11v-2z" style="fill:#439c62"/>
+ <path d="m21 22-6 9v2h13z" style="fill:#45b969"/>
 </svg>

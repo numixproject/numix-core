@@ -1,6 +1,6 @@
-<svg width="48" height="48" version="1.1" viewBox="0 0 48 48.000001" xmlns="http://www.w3.org/2000/svg">
+<svg width="48" height="48" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <linearGradient id="linearGradient4501" x1="-47" x2="-1" y1="2.8779e-15" y2="6.1232e-17" gradientUnits="userSpaceOnUse">
+  <linearGradient id="bg" x1="-47" x2="-1" y1="2.8779e-15" y2="6.1232e-17" gradientUnits="userSpaceOnUse">
    <stop style="stop-color:#d1bdaf" offset="0"/>
    <stop style="stop-color:#d8c8bc" offset="1"/>
   </linearGradient>
@@ -10,36 +10,24 @@
   <path d="m1 43.25v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.05"/>
   <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
  </g>
- <rect transform="rotate(-90)" x="-47" y="1" width="46" height="46" rx="4" style="fill:url(#linearGradient4501)"/>
+ <rect transform="rotate(-90)" x="-47" y="1" width="46" height="46" rx="4" style="fill:url(#bg)"/>
  <g transform="translate(0 3.949e-5)">
   <g transform="translate(0 -1004.4)">
    <path d="m1 1043.4v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
   </g>
  </g>
  <g transform="translate(-1,-1)">
-  <rect x="13" y="12" width="24" height="20" rx="1" ry="1" style="fill-opacity:.098;fill-rule:evenodd"/>
-  <path d="m34.437 37.997s0.563-0.243 0.563-1.496c0-1.209-0.633-1.499-0.633-1.499h-15.363l-4 1.496 4 1.501" style="fill-opacity:.118"/>
+  <path transform="translate(1,1)" d="m12 12v18c0 0.554 0.446 1 1 1h22c0.554 0 1-0.446 1-1v-18zm6.0039 22.002-4 1.4961 4 1.5 15.434-2e-3s0.5625-0.24114 0.5625-1.4941c0-1.209-0.63281-1.5-0.63281-1.5z" style="fill-opacity:.098;fill-rule:evenodd"/>
  </g>
- <g transform="translate(0,-1)">
-  <g transform="translate(0,-1)">
-   <rect x="12" y="12" width="24" height="20" rx="1" ry="1" style="fill-rule:evenodd;fill:#f9f9f9"/>
-   <g transform="translate(0,-2)">
-    <path d="m14 16v16h20v-16zm1 1h18v14h-18z" style="fill-rule:evenodd;fill:#8c8c8c"/>
-    <path d="m19 20h9v2h-9z" style="fill:#87deaa"/>
-    <path d="m24 16.8v14.4h-1v-14.4z" style="fill-rule:evenodd;fill:#8c8c8c"/>
-    <path d="m29 16.8v14.4h-1v-14.4" style="fill-rule:evenodd;fill:#8c8c8c"/>
-    <path d="m24 23h4v2h-4z" style="fill:#87deaa"/>
-    <path d="m29 26h4v2h-4z" style="fill:#87deaa"/>
-    <path d="m19 16.8v14.4h-1v-14.4z" style="fill-rule:evenodd;fill:#8c8c8c"/>
-    <path d="m15 17h3v11h-3z" style="fill:#87deaa"/>
-    <path d="m14.8 19h18.4v1h-18.4z" style="fill-rule:evenodd;fill:#8c8c8c"/>
-    <path d="m14.8 22h18.4v1h-18.4z" style="fill-rule:evenodd;fill:#8c8c8c"/>
-    <path d="m14.8 25h18.4v1h-18.4z" style="fill-rule:evenodd;fill:#8c8c8c"/>
-    <path d="m14.8 28h18.4v1h-18.4z" style="fill-rule:evenodd;fill:#8c8c8c"/>
-   </g>
-  </g>
-  <path d="m33.437 36.997s0.563-0.243 0.563-1.496c0-1.209-0.633-1.499-0.633-1.499h-15.363l-4 1.496 4 1.501" style="fill:#356193"/>
-  <path d="m18 34-4 1.499 4 1.499" style="fill:#e1cb91"/>
-  <path d="m16 34.752-2 0.745 2 0.754" style="fill:#373737"/>
- </g>
+ <rect x="12" y="10" width="24" height="20" rx="1" ry="1" style="fill-rule:evenodd;fill:#f9f9f9"/>
+ <path d="m19 16h9v2h-9z" style="fill:#87deaa"/>
+ <path d="m15 13h3v11h-3z" style="fill:#87deaa"/>
+ <path d="m14 12v16h20v-16h-20zm1 1h3v8h-3v-8zm4 0h4v8h-4v-8zm5 0h4v8h-4v-8zm5 0h4v8h-4v-8zm-14 9h3v2h-3v-2zm4 0h4v2h-4v-2zm5 0h4v2h-4v-2zm5 0h4v2h-4v-2zm-14 3h3v2h-3v-2zm4 0h4v2h-4v-2zm5 0h4v2h-4v-2zm5 0h4v2h-4v-2z" style="fill-rule:evenodd;fill:#8c8c8c"/>
+ <path d="m24 19h4v2h-4z" style="fill:#87deaa"/>
+ <path d="m29 22h4v2h-4z" style="fill:#87deaa"/>
+ <path d="m14.8 15h18.4v1h-18.4z" style="fill-rule:evenodd;fill:#8c8c8c"/>
+ <path d="m14.8 18h18.4v1h-18.4z" style="fill-rule:evenodd;fill:#8c8c8c"/>
+ <path d="m33.437 35.997s0.563-0.243 0.563-1.496c0-1.209-0.633-1.499-0.633-1.499h-15.363l-3.004 1.496 3.004 1.501" style="fill:#356193"/>
+ <path d="m18 33-4 1.499 4 1.499" style="fill:#e1cb91"/>
+ <path d="m16 33.752-2 0.745 2 0.754" style="fill:#373737"/>
 </svg>
