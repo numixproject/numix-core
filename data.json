@@ -1636,7 +1636,10 @@
     },
     "bluej": {
         "linux": {
-            "root": "bluej"
+            "root": "bluej",
+            "symlinks": [
+                "org.bluej.BlueJ"
+            ]
         }
     },
     "blueman-device": {
