@@ -17537,6 +17537,14 @@
             "root": "steam_icon_231160"
         }
     },
+    "thedarkmod": {
+        "linux": {
+            "root": "thedarkmod",
+            "symlinks": [
+                "darkmod"
+            ]
+        }
+    },
     "theme-config": {
         "linux": {
             "root": "theme-config",
