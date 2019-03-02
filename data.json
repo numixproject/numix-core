@@ -12631,6 +12631,14 @@
             "root": "oni"
         }
     },
+    "onionshare": {
+        "linux": {
+            "root": "onionshare",
+            "symlinks": [
+                "onionshare80"
+            ]
+        }
+    },
     "oomox": {
         "linux": {
             "root": "oomox",
