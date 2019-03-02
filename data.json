@@ -12793,7 +12793,11 @@
     },
     "openbazaar": {
         "linux": {
-            "root": "openbazaar"
+            "root": "openbazaar",
+            "symlinks": [
+                "openbazaar2",
+                "openbazaar2client"
+]
         }
     },
     "openboard": {
@@ -15775,7 +15779,8 @@
             "root": "scribus",
             "symlinks": [
                 "net.scribus.Scribus",
-                "scribus-ng"
+                "scribus-ng",
+                "scribus-trunk"
             ]
         }
     },
