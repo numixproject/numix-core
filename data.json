@@ -20009,7 +20009,10 @@
     },
     "xnconvert": {
         "linux": {
-            "root": "xnconvert"
+            "root": "xnconvert",
+            "symlinks": [
+                "com.xnview.XnConvert"
+            ]
         }
     },
     "xneur": {
@@ -20029,7 +20032,11 @@
     },
     "xnview": {
         "linux": {
-            "root": "xnview"
+            "root": "xnview",
+            "symlinks": [
+                "com.xnview.XnViewMP",
+                "xnviewmp"
+            ]
         }
     },
     "xonotic": {
