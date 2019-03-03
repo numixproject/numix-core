@@ -6548,6 +6548,14 @@
             "root": "ganttproject"
         }
     },
+    "gaphor": {
+        "linux": {
+            "root": "gaphor",
+            "symlinks": [
+                "org.gaphor.Gaphor"
+            ]
+        }
+    },
     "garrys-mod": {
         "linux": {
             "root": "steam_icon_4000"
