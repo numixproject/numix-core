@@ -1855,7 +1855,10 @@
     },
     "brave": {
         "linux": {
-            "root": "brave"
+            "root": "brave",
+            "symlinks": [
+                "brave-browser"
+            ]
         }
     },
     "brlcad": {
