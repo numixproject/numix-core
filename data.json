@@ -1855,7 +1855,10 @@
     },
     "brave": {
         "linux": {
-            "root": "brave"
+            "root": "brave",
+            "symlinks": [
+                "brave-browser"
+            ]
         }
     },
     "brlcad": {
@@ -12793,7 +12796,11 @@
     },
     "openbazaar": {
         "linux": {
-            "root": "openbazaar"
+            "root": "openbazaar",
+            "symlinks": [
+                "openbazaar2",
+                "openbazaar2client"
+]
         }
     },
     "openboard": {
@@ -15775,7 +15782,8 @@
             "root": "scribus",
             "symlinks": [
                 "net.scribus.Scribus",
-                "scribus-ng"
+                "scribus-ng",
+                "scribus-trunk"
             ]
         }
     },
@@ -20012,7 +20020,10 @@
     },
     "xnconvert": {
         "linux": {
-            "root": "xnconvert"
+            "root": "xnconvert",
+            "symlinks": [
+                "com.xnview.XnConvert"
+            ]
         }
     },
     "xneur": {
@@ -20032,7 +20043,11 @@
     },
     "xnview": {
         "linux": {
-            "root": "xnview"
+            "root": "xnview",
+            "symlinks": [
+                "com.xnview.XnViewMP",
+                "xnviewmp"
+            ]
         }
     },
     "xonotic": {
