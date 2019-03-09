@@ -20389,6 +20389,15 @@
             "root": "zsnes"
         }
     },
+    "zulip": {
+        "linux": {
+            "root": "zulip",
+            "symlinks": [
+                "com.zulipchat.Zulip",
+                "org.zulip.Zulip"
+            ]
+        }
+    },
     "zulu-crypt": {
         "linux": {
             "root": "zuluCrypt"
