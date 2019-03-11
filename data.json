@@ -11553,6 +11553,7 @@
         "linux": {
             "root": "mkchromecast",
             "symlinks": [
+                "cast-to-tv",
                 "gnomecast"
             ]
         }
