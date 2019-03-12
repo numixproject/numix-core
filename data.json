@@ -5016,7 +5016,10 @@
     },
     "drawpile": {
         "linux": {
-            "root": "drawpile"
+            "root": "drawpile",
+            "symlinks": [
+                "net.drawpile.drawpile"
+            ]
         }
     },
     "drgeo": {
