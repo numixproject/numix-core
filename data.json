@@ -16708,7 +16708,10 @@
     },
     "stacer": {
         "linux": {
-            "root": "stacer"
+            "root": "stacer",
+            "symlinks": [
+                "com.github.hannesschulze.optimizer"
+            ]
         }
     },
     "standardnotes": {
