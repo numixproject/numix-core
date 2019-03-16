@@ -1388,6 +1388,7 @@
                 "filelight",
                 "mate-disk-usage-analyzer",
                 "org.gnome.Baobab",
+                "org.gnome.baobab",
                 "org.kde.filelight",
                 "partitions",
                 "qdirstat"
@@ -5857,6 +5858,7 @@
                 "engrampa",
                 "gvfsd-archive-file",
                 "org.gnome.ArchiveManager",
+                "org.gnome.FileRoller",
                 "org.kde.ark",
                 "utilities-file-archiver",
                 "xarchiver"
@@ -6264,6 +6266,7 @@
             "symlinks": [
                 "gnect",
                 "gnome-gnect",
+                "org.gnome.Four-in-a-row",
                 "org.gnome.four-in-a-row"
             ]
         }
@@ -7239,6 +7242,7 @@
                 "five-or-more",
                 "glines",
                 "kfourinline",
+                "org.gnome.Five-or-more",
                 "org.gnome.five-or-more"
             ]
         }
@@ -7488,6 +7492,7 @@
         "linux": {
             "root": "gnome-taquin",
             "symlinks": [
+                "org.gnome.Taquin",
                 "org.gnome.taquin"
             ]
         }
@@ -9473,6 +9478,7 @@
                 "jockey-kde",
                 "mintdrivers",
                 "nxclient-wizard",
+                "org.gnome.Sysprof",
                 "org.gnome.Sysprof2",
                 "sysprof",
                 "sysprof-icon",
@@ -10248,6 +10254,7 @@
         "linux": {
             "root": "kreversi",
             "symlinks": [
+                "org.gnome.Reversi",
                 "org.kde.kreversi"
             ]
         }
