@@ -12186,7 +12186,10 @@
     },
     "netease-cloud-music": {
         "linux": {
-            "root": "netease-cloud-music"
+            "root": "netease-cloud-music",
+            "symlinks": [
+                "com.netease.CloudMusic"
+            ]
         }
     },
     "netflix-desktop": {
