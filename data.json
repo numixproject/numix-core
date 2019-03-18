@@ -5307,8 +5307,13 @@
         "linux": {
             "root": "electron",
             "symlinks": [
+                "electron2",
+                "electron3",
+                "electron4",
                 "io.atom.electron.BaseApp",
-                "org.electronjs.Electron2.BaseApp"
+                "org.electronjs.Electron2.BaseApp",
+                "org.electronjs.Electron3.BaseApp",
+                "org.electronjs.Electron4.BaseApp"
             ]
         }
     },
