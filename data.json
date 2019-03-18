@@ -1003,7 +1003,8 @@
         "linux": {
             "root": "areca",
             "symlinks": [
-                "areca_72x72"
+                "areca_72x72",
+                "backintime"
             ]
         }
     },
@@ -20225,6 +20226,7 @@
         "linux": {
             "root": "yast",
             "symlinks": [
+                "yast-control-center",
                 "yast2"
             ]
         }
