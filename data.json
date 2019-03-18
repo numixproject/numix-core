@@ -16050,7 +16050,10 @@
     },
     "shadowsocks-qt5": {
         "linux": {
-            "root": "shadowsocks-qt5"
+            "root": "shadowsocks-qt5",
+            "symlinks": [
+                "org.shadowsocks.qt5client"
+            ]
         }
     },
     "shank": {
