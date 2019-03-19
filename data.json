@@ -12186,7 +12186,10 @@
     },
     "netease-cloud-music": {
         "linux": {
-            "root": "netease-cloud-music"
+            "root": "netease-cloud-music",
+            "symlinks": [
+                "com.netease.CloudMusic"
+            ]
         }
     },
     "netflix-desktop": {
@@ -15890,7 +15893,8 @@
         "linux": {
             "root": "seahorse",
             "symlinks": [
-                "org.gnome.Seahorse"
+                "org.gnome.Seahorse",
+                "org.gnome.seahorse.Application"
             ]
         }
     },
@@ -16047,7 +16051,10 @@
     },
     "shadowsocks-qt5": {
         "linux": {
-            "root": "shadowsocks-qt5"
+            "root": "shadowsocks-qt5",
+            "symlinks": [
+                "org.shadowsocks.qt5client"
+            ]
         }
     },
     "shank": {
