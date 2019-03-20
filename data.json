@@ -6420,7 +6420,10 @@
     },
     "freeorion": {
         "linux": {
-            "root": "freeorion"
+            "root": "freeorion",
+            "symlinks": [
+                "org.freeorion.FreeOrion"
+            ]
         }
     },
     "freeplane": {
