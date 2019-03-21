@@ -6189,7 +6189,8 @@
         "linux": {
             "root": "fontforge",
             "symlinks": [
-                "io.github.Fontforge"
+                "io.github.Fontforge",
+                "org.fontforge.FontForge"
             ]
         }
     },
@@ -18957,6 +18958,7 @@
                 "internet-web-browser",
                 "MultiBrowser",
                 "org.gnome.Epiphany",
+                "org.gnome.Epiphany.Devel",
                 "redhat-web-browser",
                 "rekonq",
                 "web-browser-app",
