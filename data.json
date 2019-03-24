@@ -178,6 +178,7 @@
                 "gnome-pdf",
                 "graphics-viewer-document",
                 "org.gnome.Evince",
+                "org.gnome.Evince-previewer",
                 "x-pdf",
                 "xpdf",
                 "xpdf9"
@@ -7471,6 +7472,7 @@
             "root": "gnome-software",
             "symlinks": [
                 "org.gnome.Software",
+                "org.gnome.Software.Editor",
                 "software"
             ]
         }
