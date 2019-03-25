@@ -862,6 +862,7 @@
             "symlinks": [
                 "freetube",
                 "FreeTube",
+                "io.freetubeapp.FreeTube",
                 "yarock"
             ]
         }
@@ -8259,7 +8260,8 @@
             "root": "gsmartcontrol",
             "symlinks": [
                 "ddrescue-gui",
-                "diskmonitor"
+                "diskmonitor",
+                "org.gnome.GSmartControl"
             ]
         }
     },
