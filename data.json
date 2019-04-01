@@ -280,6 +280,7 @@
             "root": "aceofspades",
             "symlinks": [
                 "openspades",
+                "jp.yvt.OpenSpades",
                 "steam_icon_224540",
                 "steam_icon_226300"
             ]
@@ -6368,7 +6369,10 @@
     },
     "freecol": {
         "linux": {
-            "root": "freecol"
+            "root": "freecol",
+            "symlinks": [
+                "org.freecol.FreeCol"
+            ]
         }
     },
     "freedoom": {
