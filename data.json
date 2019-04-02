@@ -8348,7 +8348,9 @@
         "linux": {
             "root": "gtk3-demo",
             "symlinks": [
-                "gtk4-demo"
+                "gtk4-demo",
+                "org.gtk.Demo3",
+                "org.gtk.Demo4"
             ]
         }
     },
@@ -8356,7 +8358,9 @@
         "linux": {
             "root": "gtk3-widget-factory",
             "symlinks": [
-                "gtk4-widget-factory"
+                "gtk4-widget-factory",
+                "org.gtk.WidgetFactory3",
+                "org.gtk.WidgetFactory4"
             ]
         }
     },
@@ -12480,6 +12484,8 @@
                 "gtk3-icon-browser",
                 "gtk4-icon-browser",
                 "org.gnome.IconPreview",
+                "org.gtk.IconBrowser3",
+                "org.gtk.IconBrowser4",
                 "preferences-desktop-icons"
             ]
         }
