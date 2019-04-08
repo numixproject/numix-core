@@ -11958,7 +11958,10 @@
     },
     "mumble": {
         "linux": {
-            "root": "mumble"
+            "root": "mumble",
+            "symlinks": [
+                "info.mumble.Mumble"
+            ]
         }
     },
     "mundus": {
@@ -16602,7 +16605,8 @@
         "linux": {
             "root": "spectral",
             "symlinks": [
-                "org.eu.encom.spectral"
+                "org.eu.encom.spectral",
+                "org.vranki.spectral"
             ]
         }
     },
