@@ -16583,6 +16583,14 @@
             "root": "steam_icon_50300"
         }
     },
+    "spectator": {
+        "linux": {
+            "root": "spectator",
+            "symlinks": [
+                "com.github.treagod.spectator"
+            ]
+        }
+    },
     "spectral": {
         "linux": {
             "root": "spectral",
