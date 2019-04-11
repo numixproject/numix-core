@@ -8673,7 +8673,10 @@
     },
     "hedgewars": {
         "linux": {
-            "root": "hedgewars"
+            "root": "hedgewars",
+            "symlinks": [
+                "org.hedgewars.Hedgewars"
+            ]
         }
     },
     "heimdall-frontend": {
