@@ -3916,6 +3916,8 @@
             "root": "dbeaver",
             "symlinks": [
                 "DBeaver",
+                "dbeaver-ce",
+                "dbeaver-ee",
                 "io.dbeaver.DBeaverCommunity"
             ]
         }
@@ -13640,7 +13642,10 @@
     },
     "pia-manager": {
         "linux": {
-            "root": "pia-manager"
+            "root": "pia-manager",
+            "symlinks": [
+                "pia"
+            ]
         }
     },
     "picard": {
