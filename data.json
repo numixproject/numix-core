@@ -16998,6 +16998,15 @@
             "root": "subdownloader"
         }
     },
+    "sublime-merge": {
+        "linux": {
+            "root": "sublime-merge",
+            "symlinks": [
+                "sublime_merge",
+                "sublimemerge"
+            ]
+        }
+    },
     "sublime-text-2": {
         "linux": {
             "root": "sublime-text-2"
