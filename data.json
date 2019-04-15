@@ -178,6 +178,7 @@
                 "gnome-pdf",
                 "graphics-viewer-document",
                 "org.gnome.Evince",
+                "org.gnome.Evince-previewer",
                 "x-pdf",
                 "xpdf",
                 "xpdf9"
@@ -278,6 +279,7 @@
         "linux": {
             "root": "aceofspades",
             "symlinks": [
+                "jp.yvt.OpenSpades",
                 "openspades",
                 "steam_icon_224540",
                 "steam_icon_226300"
@@ -861,6 +863,7 @@
             "symlinks": [
                 "freetube",
                 "FreeTube",
+                "io.freetubeapp.FreeTube",
                 "yarock"
             ]
         }
@@ -3913,6 +3916,8 @@
             "root": "dbeaver",
             "symlinks": [
                 "DBeaver",
+                "dbeaver-ce",
+                "dbeaver-ee",
                 "io.dbeaver.DBeaverCommunity"
             ]
         }
@@ -6189,7 +6194,8 @@
         "linux": {
             "root": "fontforge",
             "symlinks": [
-                "io.github.Fontforge"
+                "io.github.Fontforge",
+                "org.fontforge.FontForge"
             ]
         }
     },
@@ -6365,7 +6371,10 @@
     },
     "freecol": {
         "linux": {
-            "root": "freecol"
+            "root": "freecol",
+            "symlinks": [
+                "org.freecol.FreeCol"
+            ]
         }
     },
     "freedoom": {
@@ -6762,7 +6771,8 @@
         "linux": {
             "root": "geary",
             "symlinks": [
-                "org.gnome.Geary"
+                "org.gnome.Geary",
+                "org.yorba.geary"
             ]
         }
     },
@@ -7470,6 +7480,7 @@
             "root": "gnome-software",
             "symlinks": [
                 "org.gnome.Software",
+                "org.gnome.Software.Editor",
                 "software"
             ]
         }
@@ -8261,7 +8272,8 @@
             "root": "gsmartcontrol",
             "symlinks": [
                 "ddrescue-gui",
-                "diskmonitor"
+                "diskmonitor",
+                "org.gnome.GSmartControl"
             ]
         }
     },
@@ -8344,7 +8356,9 @@
         "linux": {
             "root": "gtk3-demo",
             "symlinks": [
-                "gtk4-demo"
+                "gtk4-demo",
+                "org.gtk.Demo3",
+                "org.gtk.Demo4"
             ]
         }
     },
@@ -8352,7 +8366,9 @@
         "linux": {
             "root": "gtk3-widget-factory",
             "symlinks": [
-                "gtk4-widget-factory"
+                "gtk4-widget-factory",
+                "org.gtk.WidgetFactory3",
+                "org.gtk.WidgetFactory4"
             ]
         }
     },
@@ -8665,7 +8681,10 @@
     },
     "hedgewars": {
         "linux": {
-            "root": "hedgewars"
+            "root": "hedgewars",
+            "symlinks": [
+                "org.hedgewars.Hedgewars"
+            ]
         }
     },
     "heimdall-frontend": {
@@ -10660,7 +10679,8 @@
                 "libreoffice4.2-base",
                 "libreoffice5.3-base",
                 "libreofficedev6.1-base",
-                "org.libreoffice.LibreOffice-base"
+                "org.libreoffice.LibreOffice-base",
+                "org.libreoffice.LibreOffice.base"
             ]
         }
     },
@@ -10673,7 +10693,8 @@
                 "libreoffice4.2-calc",
                 "libreoffice5.3-calc",
                 "libreofficedev6.1-calc",
-                "org.libreoffice.LibreOffice-calc"
+                "org.libreoffice.LibreOffice-calc",
+                "org.libreoffice.LibreOffice.calc"
             ]
         }
     },
@@ -10686,7 +10707,8 @@
                 "libreoffice4.2-draw",
                 "libreoffice5.3-draw",
                 "libreofficedev6.1-draw",
-                "org.libreoffice.LibreOffice-draw"
+                "org.libreoffice.LibreOffice-draw",
+                "org.libreoffice.LibreOffice.draw"
             ]
         }
     },
@@ -10699,7 +10721,8 @@
                 "libreoffice4.2-impress",
                 "libreoffice5.3-impress",
                 "libreofficedev6.1-impress",
-                "org.libreoffice.LibreOffice-impress"
+                "org.libreoffice.LibreOffice-impress",
+                "org.libreoffice.LibreOffice.impress"
             ]
         }
     },
@@ -10719,7 +10742,8 @@
                 "libreoffice4",
                 "libreoffice5.3-startcenter",
                 "libreofficedev6.1-startcenter",
-                "org.libreoffice.LibreOffice-startcenter"
+                "org.libreoffice.LibreOffice-startcenter",
+                "org.libreoffice.LibreOffice.startcenter"
             ]
         }
     },
@@ -10732,7 +10756,8 @@
                 "libreoffice4.2-math",
                 "libreoffice5.3-math",
                 "libreofficedev6.1-math",
-                "org.libreoffice.LibreOffice-math"
+                "org.libreoffice.LibreOffice-math",
+                "org.libreoffice.LibreOffice.math"
             ]
         }
     },
@@ -10754,7 +10779,8 @@
                 "libreoffice4.2-writer",
                 "libreoffice5.3-writer",
                 "libreofficedev6.1-writer",
-                "org.libreoffice.LibreOffice-writer"
+                "org.libreoffice.LibreOffice-writer",
+                "org.libreoffice.LibreOffice.writer"
             ]
         }
     },
@@ -11950,7 +11976,10 @@
     },
     "mumble": {
         "linux": {
-            "root": "mumble"
+            "root": "mumble",
+            "symlinks": [
+                "info.mumble.Mumble"
+            ]
         }
     },
     "mundus": {
@@ -12476,6 +12505,8 @@
                 "gtk3-icon-browser",
                 "gtk4-icon-browser",
                 "org.gnome.IconPreview",
+                "org.gtk.IconBrowser3",
+                "org.gtk.IconBrowser4",
                 "preferences-desktop-icons"
             ]
         }
@@ -13616,7 +13647,10 @@
     },
     "pia-manager": {
         "linux": {
-            "root": "pia-manager"
+            "root": "pia-manager",
+            "symlinks": [
+                "pia"
+            ]
         }
     },
     "picard": {
@@ -15752,6 +15786,7 @@
             "root": "scanner",
             "symlinks": [
                 "deepin-cloud-scan-config-helper",
+                "org.gnome.SimpleScan",
                 "package_graphics_scanning",
                 "simple-scan",
                 "xsane"
@@ -16597,7 +16632,8 @@
         "linux": {
             "root": "spectral",
             "symlinks": [
-                "org.eu.encom.spectral"
+                "org.eu.encom.spectral",
+                "org.vranki.spectral"
             ]
         }
     },
@@ -18972,6 +19008,7 @@
                 "internet-web-browser",
                 "MultiBrowser",
                 "org.gnome.Epiphany",
+                "org.gnome.Epiphany.Devel",
                 "redhat-web-browser",
                 "rekonq",
                 "web-browser-app",
