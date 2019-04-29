@@ -1741,7 +1741,10 @@
     },
     "bookletimposer": {
         "linux": {
-            "root": "bookletimposer"
+            "root": "bookletimposer",
+            "symlinks": [
+                "org.codecoop.kjo.bookletimposer"
+            ]
         }
     },
     "bookworm": {
@@ -12120,7 +12123,10 @@
     },
     "nagstamon": {
         "linux": {
-            "root": "nagstamon"
+            "root": "nagstamon",
+            "symlinks": [
+                "de.ifw_dresden.nagstamon"
+            ]
         }
     },
     "nasc": {
@@ -15560,6 +15566,7 @@
         "linux": {
             "root": "robomongo",
             "symlinks": [
+                "org.robomongo.Robo3T",
                 "robo3t"
             ]
         }
