@@ -17888,7 +17888,10 @@
     },
     "titania": {
         "linux": {
-            "root": "titania"
+            "root": "titania",
+            "symlinks": [
+                "de.create3000.Titania"
+            ]
         }
     },
     "tixati": {
