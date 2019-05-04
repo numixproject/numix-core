@@ -18204,7 +18204,10 @@
     },
     "tuxguitar": {
         "linux": {
-            "root": "tuxguitar"
+            "root": "tuxguitar",
+            "symlinks": [
+                "ar.com.tuxguitar.TuxGuitar"
+            ]
         }
     },
     "tvbrowser": {
