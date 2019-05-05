@@ -7088,6 +7088,14 @@
             "root": "glrp"
         }
     },
+    "glyphr": {
+        "linux": {
+            "root": "glyphr",
+            "symlinks": [
+                "glyphr-studio-desktop"
+            ]
+        }
+    },
     "gmail": {
         "android": [
             "com.google.android.gm/com.google.android.gm.ConversationListActivityGmail",
