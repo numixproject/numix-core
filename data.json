@@ -21,7 +21,8 @@
                 "chrome-jcjbnkncddbeomhaacaeokhfnefibpde-Default",
                 "gnome-2048",
                 "org.gnome.2048",
-                "org.gnome.gnome-2048"
+                "org.gnome.gnome-2048",
+                "org.gnome.TwentyFortyEight"
             ]
         }
     },
@@ -1001,6 +1002,7 @@
             "root": "ardour",
             "symlinks": [
                 "Ardour-Ardour_4.0.0",
+                "Ardour-Ardour_5.12.0",
                 "Ardour-icon_256px",
                 "ardour2",
                 "ardour3",
@@ -1749,7 +1751,10 @@
     },
     "bookletimposer": {
         "linux": {
-            "root": "bookletimposer"
+            "root": "bookletimposer",
+            "symlinks": [
+                "org.codecoop.kjo.bookletimposer"
+            ]
         }
     },
     "bookworm": {
@@ -12141,7 +12146,10 @@
     },
     "nagstamon": {
         "linux": {
-            "root": "nagstamon"
+            "root": "nagstamon",
+            "symlinks": [
+                "de.ifw_dresden.nagstamon"
+            ]
         }
     },
     "nasc": {
@@ -15581,6 +15589,7 @@
         "linux": {
             "root": "robomongo",
             "symlinks": [
+                "org.robomongo.Robo3T",
                 "robo3t"
             ]
         }
@@ -16867,6 +16876,7 @@
         "linux": {
             "root": "standardnotes",
             "symlinks": [
+                "org.standardnotes.standardnotes",
                 "standard-notes"
             ]
         }
@@ -17901,7 +17911,10 @@
     },
     "titania": {
         "linux": {
-            "root": "titania"
+            "root": "titania",
+            "symlinks": [
+                "de.create3000.Titania"
+            ]
         }
     },
     "tixati": {
@@ -18213,7 +18226,10 @@
     },
     "tuxguitar": {
         "linux": {
-            "root": "tuxguitar"
+            "root": "tuxguitar",
+            "symlinks": [
+                "ar.com.tuxguitar.TuxGuitar"
+            ]
         }
     },
     "tvbrowser": {
