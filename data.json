@@ -9688,6 +9688,14 @@
             "root": "kadu"
         }
     },
+    "kaidan": {
+        "linux": {
+            "root": "kaidan",
+            "symlinks": [
+                "org.kde.kaidan"
+            ]
+        }
+    },
     "kairo": {
         "linux": {
             "root": "steam_icon_233230"
