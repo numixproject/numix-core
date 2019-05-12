@@ -5652,7 +5652,7 @@
         "linux": {
             "root": "exaile",
             "symlinks": [
-                "org.exaile.Exaile""
+                "org.exaile.Exaile"
             ]
         }
     },
@@ -6102,7 +6102,7 @@
                 "adobe-flashplayer",
                 "AdobeFlash",
                 "adobeflashplugin",
-                "com.Adobe.Flash-Player-Projector",
+                "com.adobe.Flash-Player-Projector",
                 "flash-player-properties",
                 "flashplayer",
                 "flashplayerproperties"
@@ -13491,10 +13491,12 @@
         "linux": {
             "root": "pdfmod",
             "symlinks": [
+                "com.github.muriloventuroso.pdftricks",
                 "eu.scarpetta.PDFMixTool",
                 "flpsed",
                 "master-pdf-editor",
-                "pdfmixtool"
+                "pdfmixtool",
+                "pdftricks"
             ]
         }
     },
