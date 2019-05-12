@@ -955,6 +955,7 @@
                 "gnome-warning",
                 "kbugbuster",
                 "kbugster",
+                "mintreport",
                 "org.freedesktop.problems.applet",
                 "setroubleshoot_red_icon",
                 "system-error",
@@ -11023,6 +11024,7 @@
                 "gdmflexiserver",
                 "gdmsetup",
                 "lightdm-gtk-greeter-settings",
+                "lightdm-settings",
                 "preferences-system-login",
                 "tsclient",
                 "user_auth"
@@ -17802,7 +17804,10 @@
     },
     "three-depict": {
         "linux": {
-            "root": "3Depict"
+            "root": "3Depict",
+            "symlinks": [
+                "3depict"
+            ]
         }
     },
     "thunar": {
