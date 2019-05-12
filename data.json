@@ -5650,7 +5650,10 @@
     },
     "exaile": {
         "linux": {
-            "root": "exaile"
+            "root": "exaile",
+            "symlinks": [
+                "org.exaile.Exaile""
+            ]
         }
     },
     "exfalso": {
