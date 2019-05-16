@@ -13922,7 +13922,10 @@
     },
     "plexmediamanager": {
         "linux": {
-            "root": "plexmediamanager"
+            "root": "plexmediamanager",
+            "symlinks": [
+                "plexmediaserver"
+            ]
         }
     },
     "plume-creator": {
