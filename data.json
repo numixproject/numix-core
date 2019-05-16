@@ -5444,7 +5444,10 @@
     },
     "encryptr": {
         "linux": {
-            "root": "Encryptr"
+            "root": "encryptr",
+            "symlinks": [
+                "Encryptr"
+            ]
         }
     },
     "endless-sky": {
