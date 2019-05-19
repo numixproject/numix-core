@@ -15914,7 +15914,10 @@
     },
     "scratch": {
         "linux": {
-            "root": "scratch"
+            "root": "scratch",
+            "symlinks": [
+                "edu.mit.Scratch"
+            ]
         }
     },
     "screen-recorder": {
