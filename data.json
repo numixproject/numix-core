@@ -14797,6 +14797,14 @@
             "root": "qlipper"
         }
     },
+    "qmaptool": {
+        "linux": {
+            "root": "qmaptool",
+            "symlinks": [
+                "QMapTool"
+            ]
+        }
+    },
     "qmidiarp": {
         "linux": {
             "root": "qmidiarp"
