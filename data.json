@@ -13411,6 +13411,14 @@
             "root": "pasaffe"
         }
     },
+    "passbook": {
+        "linux": {
+            "root": "passbook",
+            "symlinks": [
+                "org.gnome.Passbook"
+            ]
+        }
+    },
     "passwordsafe": {
         "linux": {
             "root": "passwordsafe",
