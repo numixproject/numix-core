@@ -15201,6 +15201,15 @@
             "root": "qview"
         }
     },
+    "qwertone": {
+        "linux": {
+            "root": "qwertone",
+            "symlinks": [
+                "com.gitlab.azymohliad.Qwertone",
+                "org.azymohliad.Qwertone"
+            ]
+        }
+    },
     "qwinff": {
         "linux": {
             "root": "qwinff"
