@@ -3385,6 +3385,14 @@
             "root": "cmplayer"
         }
     },
+    "cmst": {
+        "linux": {
+            "root": "cmst",
+            "symlinks": [
+                "org.cmst.cmst"
+            ]
+        }
+    },
     "cmyktool": {
         "linux": {
             "root": "cmyktool"
