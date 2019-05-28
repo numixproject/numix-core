@@ -955,6 +955,9 @@
                 "gnome-warning",
                 "kbugbuster",
                 "kbugster",
+                "mintreport",
+                "org.freedesktop.GnomeAbrt",
+                "org.freedesktop.problems.applet",
                 "setroubleshoot_red_icon",
                 "system-error",
                 "tools-report-bug"
@@ -5444,7 +5447,10 @@
     },
     "encryptr": {
         "linux": {
-            "root": "Encryptr"
+            "root": "encryptr",
+            "symlinks": [
+                "Encryptr"
+            ]
         }
     },
     "endless-sky": {
@@ -11025,6 +11031,7 @@
                 "gdmflexiserver",
                 "gdmsetup",
                 "lightdm-gtk-greeter-settings",
+                "lightdm-settings",
                 "preferences-system-login",
                 "tsclient",
                 "user_auth"
@@ -12671,7 +12678,10 @@
     },
     "ocsstore": {
         "linux": {
-            "root": "ocsstore"
+            "root": "ocsstore",
+            "symlinks": [
+                "opendesktop-app"
+            ]
         }
     },
     "octave": {
@@ -13929,7 +13939,10 @@
     },
     "plexmediamanager": {
         "linux": {
-            "root": "plexmediamanager"
+            "root": "plexmediamanager",
+            "symlinks": [
+                "plexmediaserver"
+            ]
         }
     },
     "plume-creator": {
@@ -15870,7 +15883,9 @@
         "linux": {
             "root": "scantailor",
             "symlinks": [
-                "org.scantailor.ScanTailor"
+                "com.github._4lex4.ScanTailor-Advanced",
+                "org.scantailor.ScanTailor",
+                "ScanTailor"
             ]
         }
     },
@@ -17812,7 +17827,10 @@
     },
     "three-depict": {
         "linux": {
-            "root": "3Depict"
+            "root": "3Depict",
+            "symlinks": [
+                "3depict"
+            ]
         }
     },
     "thunar": {
