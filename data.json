@@ -2903,13 +2903,17 @@
     },
     "calibre-ebook-edit": {
         "linux": {
-            "root": "calibre-ebook-edit"
+            "root": "calibre-ebook-edit",
+            "symlinks": [
+                "com.calibre_ebook.calibre.ebook_edit"
+            ]
         }
     },
     "calibre-gui": {
         "linux": {
             "root": "calibre-gui",
             "symlinks": [
+                "com.calibre_ebook.calibre.lrfviewer",
                 "FBReader",
                 "lrfviewer"
             ]
@@ -2917,7 +2921,10 @@
     },
     "calibre-viewer": {
         "linux": {
-            "root": "calibre-viewer"
+            "root": "calibre-viewer",
+            "symlinks": [
+                "com.calibre_ebook.calibre.ebook_viewer"
+            ]
         }
     },
     "calligraauthor": {
