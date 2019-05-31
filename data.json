@@ -5672,7 +5672,10 @@
     },
     "exaile": {
         "linux": {
-            "root": "exaile"
+            "root": "exaile",
+            "symlinks": [
+                "org.exaile.Exaile"
+            ]
         }
     },
     "exfalso": {
@@ -6121,7 +6124,7 @@
                 "adobe-flashplayer",
                 "AdobeFlash",
                 "adobeflashplugin",
-                "com.Adobe.Flash-Player-Projector",
+                "com.adobe.Flash-Player-Projector",
                 "flash-player-properties",
                 "flashplayer",
                 "flashplayerproperties"
@@ -12422,7 +12425,8 @@
         "linux": {
             "root": "nheko",
             "symlinks": [
-                "io.github.mujx.Nheko"
+                "io.github.mujx.Nheko",
+                "io.github.Nheko-Reborn.Nheko"
             ]
         }
     },
@@ -13530,10 +13534,12 @@
         "linux": {
             "root": "pdfmod",
             "symlinks": [
+                "com.github.muriloventuroso.pdftricks",
                 "eu.scarpetta.PDFMixTool",
                 "flpsed",
                 "master-pdf-editor",
-                "pdfmixtool"
+                "pdfmixtool",
+                "pdftricks"
             ]
         }
     },
@@ -15977,7 +15983,10 @@
     },
     "scratch": {
         "linux": {
-            "root": "scratch"
+            "root": "scratch",
+            "symlinks": [
+                "edu.mit.Scratch"
+            ]
         }
     },
     "screen-recorder": {
