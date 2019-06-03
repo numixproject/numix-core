@@ -8580,7 +8580,10 @@
     },
     "gwyddion": {
         "linux": {
-            "root": "gwyddion"
+            "root": "gwyddion",
+            "symlinks": [
+                "net.gwyddion.Gwyddion"
+            ]
         }
     },
     "gxi": {
