@@ -6209,6 +6209,14 @@
             "root": "fogger"
         }
     },
+    "foliate": {
+        "linux": {
+            "root": "foliate",
+            "symlinks": [
+                "com.github.johnfactotum.Foliate"
+            ]
+        }
+    },
     "fondo": {
         "linux": {
             "root": "fondo",
