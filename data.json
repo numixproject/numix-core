@@ -17765,7 +17765,10 @@
     },
     "texmacs": {
         "linux": {
-            "root": "TeXmacs"
+            "root": "texmacs",
+            "symlinks": [
+                "TeXmacs"
+            ]
         }
     },
     "texmaker": {
