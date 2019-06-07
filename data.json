@@ -15668,9 +15668,13 @@
         "linux": {
             "root": "ring",
             "symlinks": [
+                "banji",
                 "cx.ring.Ring",
+                "cx.ring.ring-kde",
                 "jami",
                 "net.jami.Jami",
+                "org.kde.ring-kde",
+                "ring-jami",
                 "ring-kde"
             ]
         }
