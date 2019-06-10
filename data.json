@@ -18403,6 +18403,14 @@
             "com.urbandroid.lux/com.urbandroid.lux.MainActivity"
         ]
     },
+    "twine": {
+        "linux": {
+            "root": "twine",
+            "symlinks": [
+                "twinejs"
+            ]
+        }
+    },
     "typecatcher": {
         "linux": {
             "root": "typecatcher",
