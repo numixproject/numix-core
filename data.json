@@ -9641,10 +9641,6 @@
                 "jockey-kde",
                 "mintdrivers",
                 "nxclient-wizard",
-                "org.gnome.Sysprof",
-                "org.gnome.Sysprof2",
-                "sysprof",
-                "sysprof-icon",
                 "system76-driver"
             ]
         }
@@ -17407,6 +17403,17 @@
     "syspeek": {
         "linux": {
             "root": "syspeek"
+        }
+    },
+    "sysprof": {
+        "linux": {
+            "root": "sysprof",
+            "symlinks": [
+                "org.gnome.Sysprof",
+                "org.gnome.Sysprof2",
+                "org.gnome.Sysprof3",
+                "sysprof-icon"
+            ]
         }
     },
     "system-config-printer": {
