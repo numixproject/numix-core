@@ -9506,7 +9506,8 @@
         "linux": {
             "root": "jasp-desktop",
             "symlinks": [
-                "org.jasp.JASP"
+                "org.jasp.JASP",
+                "org.jasp-stats.JASP"
             ]
         }
     },
