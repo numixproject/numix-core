@@ -18371,6 +18371,14 @@
             "root": "tumiki-fighters"
         }
     },
+    "tunepack": {
+        "linux": {
+            "root": "tunepack",
+            "symlinks": [
+                "tunepack-desktop"
+            ]
+        }
+    },
     "tupi": {
         "linux": {
             "root": "tupi"
