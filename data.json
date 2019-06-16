@@ -4354,7 +4354,11 @@
     },
     "distributor-logo-arco": {
         "linux": {
-            "root": "distributor-logo-arco"
+            "root": "distributor-logo-arco",
+            "symlinks": [
+                "arcolinux-hello",
+                "start-here-arcolinux"
+            ]
         }
     },
     "distributor-logo-arya": {
