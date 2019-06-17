@@ -3396,6 +3396,19 @@
             "root": "steam_icon_72000"
         }
     },
+    "cloudcompare": {
+        "linux": {
+            "root": "cloudcompare",
+            "symlinks": [
+                "cc_icon",
+                "cc_viewer_icon",
+                "net.danielgm.CloudCompare",
+                "net.danielgm.CloudCompare.Viewer",
+                "org.cloudcompare.CloudCompare",
+                "org.cloudcompare.CloudCompare.Viewer"
+            ]
+        }
+    },
     "cmake": {
         "linux": {
             "root": "cmake",
