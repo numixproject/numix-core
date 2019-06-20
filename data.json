@@ -1387,7 +1387,10 @@
         "linux": {
             "root": "babe",
             "symlinks": [
-                "Babe"
+                "Babe",
+                "org.kde.babe",
+                "org.kde.vvave",
+                "vvave"
             ]
         }
     },
