@@ -7481,6 +7481,14 @@
             ]
         }
     },
+    "gnome-network-displays": {
+        "linux": {
+            "root": "gnome-network-displays",
+            "symlinks": [
+                "org.gnome.NetworkDisplays"
+            ]
+        }
+    },
     "gnome-news": {
         "linux": {
             "root": "gnome-news",
