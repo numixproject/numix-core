@@ -13243,7 +13243,11 @@
     },
     "openyahtzee": {
         "linux": {
-            "root": "openyahtzee"
+            "root": "openyahtzee",
+            "symlinks": [
+                "codes.nora.gDiceRoller",
+                "gdiceroller"
+            ]
         }
     },
     "opera": {
