@@ -1447,6 +1447,14 @@
             "root": "bareftp"
         }
     },
+    "barrier": {
+        "linux": {
+            "root": "barrier",
+            "symlinks": [
+                "com.github.debauchee.barrier"
+            ]
+        }
+    },
     "basex": {
         "linux": {
             "root": "basex"
