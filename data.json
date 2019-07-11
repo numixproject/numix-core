@@ -7022,6 +7022,15 @@
             ]
         }
     },
+    "ghidra": {
+        "linux": {
+            "root": "ghidra",
+            "symlinks": [
+                "Ghidra",
+                "org.ghidra_sre.Desktop"
+            ]
+        }
+    },
     "ghostwriter": {
         "linux": {
             "root": "ghostwriter",
