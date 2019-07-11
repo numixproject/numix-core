@@ -11415,6 +11415,14 @@
             "root": "mandelbulber"
         }
     },
+    "mangareader": {
+        "linux": {
+            "root": "mangareader",
+            "symlinks": [
+                "com.georgefb.mangareader"
+            ]
+        }
+    },
     "mansa": {
         "linux": {
             "root": "mansa"
