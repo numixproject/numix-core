@@ -18714,6 +18714,14 @@
             "root": "usb-imagewriter-ng"
         }
     },
+    "usbguard": {
+        "linux": {
+            "root": "usbguard",
+            "symlinks": [
+                "usbguard-icon"
+            ]
+        }
+    },
     "usbview": {
         "linux": {
             "root": "usbview"
