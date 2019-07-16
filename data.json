@@ -1601,6 +1601,14 @@
             "root": "bitmask"
         }
     },
+    "bitshares-ui": {
+        "linux": {
+            "root": "bitshares-ui",
+            "symlinks": [
+                "bitshares2-light"
+            ]
+        }
+    },
     "bittorent": {
         "linux": {
             "root": "bittorent"
