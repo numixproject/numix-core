@@ -14642,6 +14642,14 @@
             "root": "pumpa"
         }
     },
+    "pure-maps": {
+        "linux": {
+            "root": "pure-maps",
+            "symlinks": [
+                "harbour-pure-maps"
+            ]
+        }
+    },
     "pureref": {
         "linux": {
             "root": "pureref"
