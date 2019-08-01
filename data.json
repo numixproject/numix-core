@@ -1960,6 +1960,7 @@
         "linux": {
             "root": "browser-tor",
             "symlinks": [
+                "org.torproject.torbrowser",
                 "tor-browser",
                 "tor-browser-en",
                 "torbrowser"
@@ -7056,6 +7057,7 @@
         "linux": {
             "root": "ghex",
             "symlinks": [
+                "org.gnome.GHex",
                 "org.gnome.ghex"
             ]
         }
@@ -9855,6 +9857,7 @@
         "linux": {
             "root": "kaidan",
             "symlinks": [
+                "im.kaidan.kaidan",
                 "org.kde.kaidan"
             ]
         }
@@ -20613,6 +20616,7 @@
         "linux": {
             "root": "xournal",
             "symlinks": [
+                "com.github.xournalpp.xournalpp",
                 "net.sourceforge.xournal",
                 "xournalpp"
             ]
