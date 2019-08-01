@@ -4183,8 +4183,10 @@
             "root": "desktop-environment-kde",
             "symlinks": [
                 "kde",
+                "kde-frameworks",
                 "kde-logo",
                 "kde-windows",
+                "kdeapp",
                 "kmenu",
                 "pattern-kde",
                 "pattern-kde4",
@@ -6872,6 +6874,7 @@
         "linux": {
             "root": "gcompris",
             "symlinks": [
+                "gcompris-qt",
                 "org.kde.gcompris"
             ]
         }
