@@ -1,0 +1,26 @@
+<svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="bg" x2="0" y1="1" y2="47" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#e46868" offset="0"/>
+   <stop style="stop-color:#e15858" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4zm0 0.5v0.5c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.5c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.02"/>
+ <path d="m1 43.25v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.05"/>
+ <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
+ <rect x="1" y="1" width="46" height="46" rx="4" style="fill:url(#bg)"/>
+ <path d="m1 39v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
+ <rect x="12" y="12" width="24" height="24" rx="2" style="opacity:.1;paint-order:normal"/>
+ <rect x="12" y="11" width="24" height="24" rx="2" style="fill:#3d3d3d;paint-order:normal"/>
+ <rect x="14" y="13" width="20" height="14" style="fill:#303030;paint-order:normal"/>
+ <path d="m17 30a2 2 0 0 0-2 2 2 2 0 0 0 2 2 2 2 0 0 0 2-2 2 2 0 0 0-2-2zm7 0a2 2 0 0 0-2 2 2 2 0 0 0 2 2 2 2 0 0 0 2-2 2 2 0 0 0-2-2zm7 0a2 2 0 0 0-2 2 2 2 0 0 0 2 2 2 2 0 0 0 2-2 2 2 0 0 0-2-2z" style="opacity:.1;paint-order:normal"/>
+ <circle cx="17" cy="31" r="2" style="fill:#b0b0b0;paint-order:normal"/>
+ <circle cx="24" cy="31" r="2" style="fill:#b0b0b0;paint-order:normal"/>
+ <circle cx="31" cy="31" r="2" style="fill:#b0b0b0;paint-order:normal"/>
+ <rect x="15" y="14" width="4" height="12" style="fill:#3af63a;paint-order:normal"/>
+ <rect x="22" y="22" width="4" height="4" style="fill:#3af63a;paint-order:normal"/>
+ <rect x="29" y="19" width="4" height="7" style="fill:#0ef1c9;paint-order:normal"/>
+ <path d="m17 29a2 2 0 0 0-1 0.27148v1.7285a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-1.7305a2 2 0 0 0-1-0.26953z" style="fill:#636363;paint-order:normal"/>
+ <path d="m26 31a2 2 0 0 0-0.27148-1h-1.7285a1 1 0 0 0-1 1 1 1 0 0 0 1 1h1.7305a2 2 0 0 0 0.26953-1z" style="fill:#636363;paint-order:normal"/>
+ <path d="m31 33a2 2 0 0 0 1-0.27148v-1.7285a1 1 0 0 0-1-1 1 1 0 0 0-1 1v1.7305a2 2 0 0 0 1 0.26953z" style="fill:#636363;paint-order:normal"/>
+</svg>
