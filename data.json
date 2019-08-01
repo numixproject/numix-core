@@ -8223,9 +8223,10 @@
     },
     "gpsd": {
         "linux": {
-            "root": "gpsbabel",
+            "root": "gpsd",
             "symlinks": [
-                "gpsd-logo"
+                "gpsd-logo",
+                "xgps"
             ]
         }
     },
