@@ -9039,6 +9039,25 @@
             "root": "hopper-disassembler-v3"
         }
     },
+    "hopsan": {
+        "linux": {
+            "root": "hopsan",
+            "symlinks": [
+                "com.github.hopsan.Hopsan",
+                "hopsan128x128",
+                "hopsangui"
+            ]
+        }
+    },
+    "hopsan-holc": {
+        "linux": {
+            "root": "hopsan-holc",
+            "symlinks": [
+                "holc",
+                "holc-icon192x192"
+            ]
+        }
+    },
     "hotline-miami": {
         "linux": {
             "root": "steam_icon_219150"
