@@ -6107,12 +6107,14 @@
             ]
         }
     },
+    "firejail-ui": {
+        "linux": {
+            "root": "firejail-ui"
+        }
+    },
     "firetools": {
         "linux": {
-            "root": "firetools",
-            "symlinks": [
-                "firejail-ui"
-            ]
+            "root": "firetools"
         }
     },
     "firewall": {
