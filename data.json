@@ -15895,6 +15895,14 @@
             "root": "quiterss"
         }
     },
+    "rss-inverted": {
+        "linux": {
+            "root": "gnome-feeds",
+            "symlinks": [
+                "org.gabmus.gnome-feeds"
+            ]
+        }
+    },
     "rss-red": {
         "linux": {
             "root": "allen-b1.news",
