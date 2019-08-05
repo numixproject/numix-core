@@ -14581,6 +14581,14 @@
             "root": "steam_icon_219680"
         }
     },
+    "proton": {
+        "linux": {
+            "root": "proton",
+            "symlinks": [
+                "com.raggesilver.Proton"
+            ]
+        }
+    },
     "psensor": {
         "linux": {
             "root": "psensor"
