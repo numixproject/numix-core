@@ -16442,6 +16442,14 @@
             "root": "steam_icon_8930"
         }
     },
+    "sideload": {
+        "linux": {
+            "root": "sideload",
+            "symlinks": [
+                "io.elementary.sideload"
+            ]
+        }
+    },
     "sigil": {
         "linux": {
             "root": "sigil"
