@@ -3805,7 +3805,10 @@
     },
     "cryptomator": {
         "linux": {
-            "root": "cryptomator"
+            "root": "cryptomator",
+            "symlinks": [
+                "org.cryptomator.Cryptomator"
+            ]
         }
     },
     "cryptote": {
@@ -11505,7 +11508,10 @@
     },
     "mandelbulber": {
         "linux": {
-            "root": "mandelbulber"
+            "root": "mandelbulber",
+            "symlinks": [
+                "mandelbulber2"
+            ]
         }
     },
     "mangareader": {
