@@ -1941,6 +1941,14 @@
             ]
         }
     },
+    "brave-dev": {
+        "linux": {
+            "root": "brave-dev",
+            "symlinks": [
+                "brave-browser-dev"
+            ]
+        }
+    },
     "brlcad": {
         "linux": {
             "root": "brlcad"
