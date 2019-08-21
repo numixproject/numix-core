@@ -10910,7 +10910,10 @@
     },
     "leocad": {
         "linux": {
-            "root": "leocad"
+            "root": "leocad",
+            "symlinks": [
+                "org.leocad.LeoCAD"
+            ]
         }
     },
     "lepton-snippet-manager": {
@@ -15798,7 +15801,10 @@
     },
     "retroshare": {
         "linux": {
-            "root": "retroshare"
+            "root": "retroshare",
+            "symlinks": [
+                "cc.retroshare.retroshare-gui"
+            ]
         }
     },
     "revolt": {
