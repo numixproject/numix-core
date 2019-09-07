@@ -15899,6 +15899,8 @@
         "linux": {
             "root": "gnome-feeds",
             "symlinks": [
+                "gfeeds",
+                "org.gabmus.gfeeds",
                 "org.gabmus.gnome-feeds"
             ]
         }
