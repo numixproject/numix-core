@@ -8754,7 +8754,10 @@
     },
     "gzdoom": {
         "linux": {
-            "root": "gzdoom"
+            "root": "gzdoom",
+            "symlinks": [
+                "org.zdoom.GZDoom"
+            ]
         }
     },
     "hacknet": {
@@ -11074,7 +11077,10 @@
     },
     "lifeograph": {
         "linux": {
-            "root": "lifeograph"
+            "root": "lifeograph",
+            "symlinks": [
+                "net.sourceforge.Lifeograph"
+            ]
         }
     },
     "lightsoff": {
@@ -11505,7 +11511,8 @@
         "linux": {
             "root": "manaplus",
             "symlinks": [
-                "chrome-fgdcjlfkdeadkbplfhkbjjccagjepodj-Default"
+                "chrome-fgdcjlfkdeadkbplfhkbjjccagjepodj-Default",
+                "org.manaplus.ManaPlus"
             ]
         }
     },
@@ -14350,7 +14357,10 @@
     },
     "powder-toy": {
         "linux": {
-            "root": "powder-toy"
+            "root": "powder-toy",
+            "symlinks": [
+                "com.github.ThePowderToy.ThePowderToy"
+            ]
         }
     },
     "power-installer": {
@@ -16394,7 +16404,8 @@
             "symlinks": [
                 "clamav",
                 "clamav-gui",
-                "clamtk"
+                "clamtk",
+                "com.gitlab.davem.ClamTk"
             ]
         }
     },
@@ -20889,7 +20900,10 @@
     },
     "zandronum": {
         "linux": {
-            "root": "zandronum"
+            "root": "zandronum",
+            "symlinks": [
+                "com.zandronum.Zandronum"
+            ]
         }
     },
     "zanshin": {
