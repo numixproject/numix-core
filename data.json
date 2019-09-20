@@ -1070,6 +1070,7 @@
         "linux": {
             "root": "arkclient",
             "symlinks": [
+                "ark-desktop-wallet",
                 "io.ark.Desktop"
             ]
         }
@@ -1603,7 +1604,8 @@
                 "digital-assets",
                 "fr.fgrabenstaetter.DigitalAssets",
                 "multibit",
-                "multibit-hd"
+                "multibit-hd",
+                "org.bitcoincore.bitcoin-qt"
             ]
         }
     },
@@ -1984,6 +1986,7 @@
         "linux": {
             "root": "browser-tor",
             "symlinks": [
+                "com.github.micahflee.torbrowser-launcher",
                 "org.torproject.torbrowser",
                 "tor-browser",
                 "tor-browser-en",
@@ -3412,6 +3415,7 @@
                 "claws-mail-32x32",
                 "claws-mail-64x64",
                 "clawsker",
+                "org.claws_mail.Claws-Mail",
                 "org.clawsmail.Claws"
             ]
         }
@@ -3818,7 +3822,10 @@
     },
     "cryptomator": {
         "linux": {
-            "root": "cryptomator"
+            "root": "cryptomator",
+            "symlinks": [
+                "org.cryptomator.Cryptomator"
+            ]
         }
     },
     "cryptote": {
@@ -8763,7 +8770,10 @@
     },
     "gzdoom": {
         "linux": {
-            "root": "gzdoom"
+            "root": "gzdoom",
+            "symlinks": [
+                "org.zdoom.GZDoom"
+            ]
         }
     },
     "hacknet": {
@@ -8990,6 +9000,7 @@
             "symlinks": [
                 "bless-48x48",
                 "okteta",
+                "org.wxhexeditor.wxHexEditor",
                 "wxHexEditor"
             ]
         }
@@ -10929,7 +10940,10 @@
     },
     "leocad": {
         "linux": {
-            "root": "leocad"
+            "root": "leocad",
+            "symlinks": [
+                "org.leocad.LeoCAD"
+            ]
         }
     },
     "lepton-snippet-manager": {
@@ -11087,7 +11101,10 @@
     },
     "lifeograph": {
         "linux": {
-            "root": "lifeograph"
+            "root": "lifeograph",
+            "symlinks": [
+                "net.sourceforge.Lifeograph"
+            ]
         }
     },
     "lightsoff": {
@@ -11518,7 +11535,8 @@
         "linux": {
             "root": "manaplus",
             "symlinks": [
-                "chrome-fgdcjlfkdeadkbplfhkbjjccagjepodj-Default"
+                "chrome-fgdcjlfkdeadkbplfhkbjjccagjepodj-Default",
+                "org.manaplus.ManaPlus"
             ]
         }
     },
@@ -11529,7 +11547,10 @@
     },
     "mandelbulber": {
         "linux": {
-            "root": "mandelbulber"
+            "root": "mandelbulber",
+            "symlinks": [
+                "mandelbulber2"
+            ]
         }
     },
     "mangareader": {
@@ -14369,7 +14390,10 @@
     },
     "powder-toy": {
         "linux": {
-            "root": "powder-toy"
+            "root": "powder-toy",
+            "symlinks": [
+                "com.github.ThePowderToy.ThePowderToy"
+            ]
         }
     },
     "power-installer": {
@@ -15848,7 +15872,10 @@
     },
     "retroshare": {
         "linux": {
-            "root": "retroshare"
+            "root": "retroshare",
+            "symlinks": [
+                "cc.retroshare.retroshare-gui"
+            ]
         }
     },
     "revolt": {
@@ -16445,7 +16472,8 @@
             "symlinks": [
                 "clamav",
                 "clamav-gui",
-                "clamtk"
+                "clamtk",
+                "com.gitlab.davem.ClamTk"
             ]
         }
     },
@@ -20966,7 +20994,10 @@
     },
     "zandronum": {
         "linux": {
-            "root": "zandronum"
+            "root": "zandronum",
+            "symlinks": [
+                "com.zandronum.Zandronum"
+            ]
         }
     },
     "zanshin": {
