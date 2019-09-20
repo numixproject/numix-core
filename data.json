@@ -14709,6 +14709,17 @@
             "root": "steam_icon_219680"
         }
     },
+    "protonmail": {
+        "linux": {
+            "root": "protonmail",
+            "symlinks": [
+                "ch.protonmail.protonmail-bridge",
+                "protonmail-desktop",
+                "protonmail-desktop-unofficial",
+                "ProtonMail_Bridge"
+            ]
+        }
+    },
     "psensor": {
         "linux": {
             "root": "psensor"
