@@ -150,6 +150,7 @@
                 "camera-photo",
                 "camorama",
                 "gtkam",
+                "io.elementary.camera",
                 "kamoso",
                 "qvidcap"
             ]
@@ -243,6 +244,7 @@
                 "gnome-panel-screenshot",
                 "gnome-screenshot",
                 "gscreenshot",
+                "io.elementary.screenshot-tool",
                 "kscreenshot",
                 "ksnapshot",
                 "ksnip",
@@ -956,6 +958,7 @@
                 "abrt-gui",
                 "apport-gtk",
                 "apport-gtk2",
+                "bug",
                 "deepin-feedback",
                 "gnome-abrt",
                 "gnome-warning",
@@ -2114,6 +2117,7 @@
                 "galculator",
                 "gcalculator",
                 "gnome-calculator",
+                "io.elementary.calculator",
                 "io.liri.Calculator",
                 "kcalc",
                 "org.deepin.flatdeb.deepin-calculator",
@@ -2761,6 +2765,7 @@
                 "gnome-calendar",
                 "gnome-mime-text-x-vcalendar",
                 "gnome-planner",
+                "io.elementary.calendar",
                 "korganizer",
                 "office-date",
                 "org.deepin.flatdeb.deepin-calendar",
@@ -5982,6 +5987,7 @@
                 "filerunner",
                 "fma-config-tool",
                 "Insight-FileManager",
+                "io.elementary.files",
                 "kfm",
                 "nautilus",
                 "nautilus-actions",
@@ -6959,6 +6965,7 @@
         "linux": {
             "root": "geary",
             "symlinks": [
+                "io.elementary.mail",
                 "org.gnome.Geary",
                 "org.yorba.geary"
             ]
@@ -12195,6 +12202,7 @@
             "root": "multimedia-audio-player",
             "symlinks": [
                 "beatbox",
+                "io.elementary.music",
                 "noise",
                 "org.pantheon.noise"
             ]
@@ -12202,7 +12210,10 @@
     },
     "multimedia-video-player": {
         "linux": {
-            "root": "multimedia-video-player"
+            "root": "multimedia-video-player",
+            "symlinks": [
+                "io.elementary.videos"
+            ]
         }
     },
     "multimedia-volume-control": {
@@ -14560,6 +14571,7 @@
                 "gnome-settings",
                 "gnome-system",
                 "gnome-system-config",
+                "io.elementary.switchboard",
                 "kcontrol",
                 "org.gnome.Settings",
                 "paprefs",
@@ -16531,6 +16543,8 @@
         "linux": {
             "root": "shotwell",
             "symlinks": [
+                "io.elementary.photos",
+                "io.elementary.photos-viewer",
                 "multimedia-photo-manager",
                 "multimedia-photo-viewer",
                 "org.gnome.Shotwell"
@@ -17653,6 +17667,7 @@
                 "gnome-app-install",
                 "gnome-apt",
                 "gnome-package",
+                "io.elementary.appcenter",
                 "kentoo",
                 "kpackage",
                 "muon",
@@ -17761,6 +17776,7 @@
             "root": "tasque",
             "symlinks": [
                 "com.github.lainsce.yishu",
+                "io.elementary.reminders",
                 "yishu"
             ]
         }
@@ -17886,6 +17902,7 @@
                 "gnome-xterm",
                 "gtkterm",
                 "hotwire",
+                "io.elementary.terminal",
                 "konsole",
                 "lxterminal",
                 "openterm",
