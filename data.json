@@ -5633,7 +5633,10 @@
     },
     "entangle": {
         "linux": {
-            "root": "entangle"
+            "root": "entangle",
+            "symlinks": [
+                "org.entangle_photo.Manager"
+            ]
         }
     },
     "enter-the-gungeon": {
@@ -14392,7 +14395,8 @@
         "linux": {
             "root": "powder-toy",
             "symlinks": [
-                "com.github.ThePowderToy.ThePowderToy"
+                "com.github.ThePowderToy.ThePowderToy",
+                "uk.co.powdertoy.tpt"
             ]
         }
     },
@@ -16024,7 +16028,10 @@
     },
     "roger": {
         "linux": {
-            "root": "roger"
+            "root": "roger",
+            "symlinks": [
+                "org.tabos.roger"
+            ]
         }
     },
     "rogue-legacy": {
