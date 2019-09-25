@@ -3724,11 +3724,18 @@
             ]
         }
     },
+    "cpu-x": {
+        "linux": {
+            "root": "cpu-x",
+            "symlinks": [
+                "CPU-X"
+            ]
+        }
+    },
     "cpuinfo": {
         "linux": {
             "root": "cpuinfo",
             "symlinks": [
-                "cpu-x",
                 "pcb"
             ]
         }
