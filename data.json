@@ -7470,6 +7470,14 @@
             ]
         }
     },
+    "gnome-design-contrast": {
+        "linux": {
+            "root": "gnome-design-contrast",
+            "symlinks": [
+                "org.gnome.design.Contrast",
+            ]
+        }
+    },
     "gnome-desktop-config": {
         "linux": {
             "root": "gnome-desktop-config"
