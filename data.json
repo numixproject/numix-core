@@ -3691,6 +3691,14 @@
             ]
         }
     },
+    "corectl": {
+        "linux": {
+            "root": "corectl",
+            "symlinks": [
+                "org.corectrl.corectrl"
+            ]
+        }
+    },
     "costume-quest": {
         "linux": {
             "root": "steam_icon_115100"
