@@ -3724,11 +3724,18 @@
             ]
         }
     },
+    "cpu-x": {
+        "linux": {
+            "root": "cpu-x",
+            "symlinks": [
+                "CPU-X"
+            ]
+        }
+    },
     "cpuinfo": {
         "linux": {
             "root": "cpuinfo",
             "symlinks": [
-                "cpu-x",
                 "pcb"
             ]
         }
@@ -7470,6 +7477,14 @@
             ]
         }
     },
+    "gnome-design-bannerviewer": {
+        "linux": {
+            "root": "gnome-design-bannerviewer",
+            "symlinks": [
+                "org.gnome.design.BannerViewer"
+            ]
+        }
+    },
     "gnome-design-iconlibrary": {
         "linux": {
             "root": "gnome-design-iconlibrary",
@@ -7496,6 +7511,14 @@
             "root": "gnome-encfs-manager",
             "symlinks": [
                 "cryfs-gui"
+            ]
+        }
+    },
+    "gnome-firmware": {
+        "linux": {
+            "root": "gnome-firmware",
+            "symlinks": [
+                "org.gnome.Firmware"
             ]
         }
     },
@@ -14292,6 +14315,11 @@
             "root": "pokerth"
         }
     },
+    "polar-bookshelf": {
+        "linux": {
+            "root": "polar-bookshelf"
+        }
+    },
     "polari": {
         "linux": {
             "root": "polari",
@@ -16113,6 +16141,11 @@
             ]
         }
     },
+    "rss-light-green": {
+        "linux": {
+            "root": "raven-reader"
+        }
+    },
     "rss-red": {
         "linux": {
             "root": "allen-b1.news",
@@ -17852,6 +17885,14 @@
             "root": "tanglet",
             "symlinks": [
                 "org.gottcode.Tanglet"
+            ]
+        }
+    },
+    "tangram": {
+        "linux": {
+            "root": "tangram",
+            "symlinks": [
+                "re.sonny.Tangram"
             ]
         }
     },
