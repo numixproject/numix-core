@@ -6220,7 +6220,11 @@
     },
     "flacon": {
         "linux": {
-            "root": "flacon"
+            "root": "flacon",
+            "symlinks": [
+                "com.github.Flacon",
+                "com.github.flacon.Flacon"
+            ]
         }
     },
     "flamerobin": {
