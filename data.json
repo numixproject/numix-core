@@ -3161,11 +3161,6 @@
             "root": "cecilia"
         }
     },
-    "cellwriter": {
-        "linux": {
-            "root": "cellwriter"
-        }
-    },
     "celluloid": {
         "linux": {
             "root": "celluloid",
@@ -3175,6 +3170,11 @@
                 "io.github.celluloid-player.Celluloid",
                 "io.github.GnomeMpv"
             ]
+        }
+    },
+    "cellwriter": {
+        "linux": {
+            "root": "cellwriter"
         }
     },
     "cerebro": {
