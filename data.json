@@ -7491,6 +7491,14 @@
             ]
         }
     },
+    "gnome-firmware": {
+        "linux": {
+            "root": "gnome-firmware",
+            "symlinks": [
+                "org.gnome.Firmware"
+            ]
+        }
+    },
     "gnome-glines": {
         "linux": {
             "root": "gnome-glines",
