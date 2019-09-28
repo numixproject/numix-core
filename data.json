@@ -15433,7 +15433,11 @@
     },
     "quake2": {
         "linux": {
-            "root": "quake2"
+            "root": "quake2",
+            "symlinks": [
+                "org.yamagi.YamagiQ2",
+                "Quake2"
+            ]
         }
     },
     "quake3": {
