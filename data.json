@@ -5664,7 +5664,10 @@
     },
     "entangle": {
         "linux": {
-            "root": "entangle"
+            "root": "entangle",
+            "symlinks": [
+                "org.entangle_photo.Manager"
+            ]
         }
     },
     "enter-the-gungeon": {
@@ -6248,7 +6251,11 @@
     },
     "flacon": {
         "linux": {
-            "root": "flacon"
+            "root": "flacon",
+            "symlinks": [
+                "com.github.Flacon",
+                "com.github.flacon.Flacon"
+            ]
         }
     },
     "flamerobin": {
@@ -14456,7 +14463,8 @@
         "linux": {
             "root": "powder-toy",
             "symlinks": [
-                "com.github.ThePowderToy.ThePowderToy"
+                "com.github.ThePowderToy.ThePowderToy",
+                "uk.co.powdertoy.tpt"
             ]
         }
     },
@@ -15489,7 +15497,11 @@
     },
     "quake2": {
         "linux": {
-            "root": "quake2"
+            "root": "quake2",
+            "symlinks": [
+                "org.yamagi.YamagiQ2",
+                "Quake2"
+            ]
         }
     },
     "quake3": {
@@ -16088,7 +16100,10 @@
     },
     "roger": {
         "linux": {
-            "root": "roger"
+            "root": "roger",
+            "symlinks": [
+                "org.tabos.roger"
+            ]
         }
     },
     "rogue-legacy": {
