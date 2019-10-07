@@ -17675,7 +17675,10 @@
     },
     "sweethome3d": {
         "linux": {
-            "root": "sweethome3d"
+            "root": "sweethome3d",
+            "symlinks": [
+                "com.sweethome3d.Desktop"
+            ]
         }
     },
     "sweethome3d-furniture-editor": {
