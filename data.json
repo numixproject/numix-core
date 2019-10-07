@@ -605,7 +605,10 @@
     },
     "almanah": {
         "linux": {
-            "root": "almanah"
+            "root": "almanah",
+            "symlinks": [
+                "org.gnome.almanah"
+            ]
         }
     },
     "almond": {
