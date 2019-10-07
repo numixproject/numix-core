@@ -5202,7 +5202,10 @@
         "linux": {
             "root": "draw-io",
             "symlinks": [
-                "draw.io"
+                "com.jgraph.drawio",
+                "com.jgraph.drawio.desktop",
+                "draw.io",
+                "drawio"
             ]
         }
     },
