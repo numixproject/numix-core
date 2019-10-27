@@ -13866,6 +13866,7 @@
         "linux": {
             "root": "pdfmod",
             "symlinks": [
+                "net.codeindustry.MasterPDFEditor",
                 "com.github.muriloventuroso.pdftricks",
                 "eu.scarpetta.PDFMixTool",
                 "flpsed",
@@ -16750,7 +16751,10 @@
     },
     "sigil": {
         "linux": {
-            "root": "sigil"
+            "root": "sigil",
+            "symlinks": [
+                "com.sigil_ebook.Sigil"
+            ]
         }
     },
     "sigviewer": {
