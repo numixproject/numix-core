@@ -1134,6 +1134,7 @@
         "linux": {
             "root": "asc-de",
             "symlinks": [
+                "com.onlyoffice.DesktopEditors",
                 "onlyoffice",
                 "org.onlyoffice.desktopeditors"
             ]
@@ -3135,7 +3136,11 @@
     },
     "cave-story": {
         "linux": {
-            "root": "steam_icon_200900"
+            "root": "cave-story",
+            "symlinks": [
+                "com.gitlab.coringao.cavestory-nx",
+                "steam_icon_200900"
+            ]
         }
     },
     "ccsm": {
@@ -3303,6 +3308,7 @@
             "root": "chromium",
             "symlinks": [
                 "chromium-browser",
+                "chromium-browser-privacy",
                 "chromium-browser2",
                 "google-chromium",
                 "org.chromium.Chromium"
@@ -6926,6 +6932,7 @@
         "linux": {
             "root": "gcleaner",
             "symlinks": [
+                "preferences-system-privacy-housekeeping",
                 "shredder",
                 "sweeper"
             ]
