@@ -9851,7 +9851,11 @@
     },
     "jitsi": {
         "linux": {
-            "root": "jitsi"
+            "root": "jitsi",
+            "symlinks": [
+                "jitsi-meet",
+                "jitsi-meet-electron"
+            ]
         }
     },
     "jmeter": {
