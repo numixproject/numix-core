@@ -16112,6 +16112,14 @@
             "root": "steam_icon_241600"
         }
     },
+    "rolisteam": {
+        "linux": {
+            "root": "rolisteam",
+            "symlinks": [
+                "org.rolisteam.rolisteam"
+            ]
+        }
+    },
     "rosamp": {
         "linux": {
             "root": "rosamp"
