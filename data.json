@@ -605,7 +605,10 @@
     },
     "almanah": {
         "linux": {
-            "root": "almanah"
+            "root": "almanah",
+            "symlinks": [
+                "org.gnome.almanah"
+            ]
         }
     },
     "almond": {
@@ -5208,7 +5211,10 @@
         "linux": {
             "root": "draw-io",
             "symlinks": [
-                "draw.io"
+                "com.jgraph.drawio",
+                "com.jgraph.drawio.desktop",
+                "draw.io",
+                "drawio"
             ]
         }
     },
@@ -17708,7 +17714,10 @@
     },
     "sweethome3d": {
         "linux": {
-            "root": "sweethome3d"
+            "root": "sweethome3d",
+            "symlinks": [
+                "com.sweethome3d.Desktop"
+            ]
         }
     },
     "sweethome3d-furniture-editor": {
