@@ -9448,6 +9448,14 @@
             "root": "imaginary-teleprompter"
         }
     },
+    "imcompressor": {
+        "linux": {
+            "root": "imcompressor",
+            "symlinks": [
+                "com.github.huluti.ImCompressor"
+            ]
+        }
+    },
     "imdb": {
         "android": [
             "com.imdb.mobile/com.imdb.mobile.Home",
@@ -9461,6 +9469,7 @@
         "linux": {
             "root": "imeditor",
             "symlinks": [
+                "com.github.huluti.ImEditor",
                 "io.github.ImEditor"
             ]
         }
