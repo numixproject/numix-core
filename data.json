@@ -11617,7 +11617,10 @@
     },
     "mame": {
         "linux": {
-            "root": "mame"
+            "root": "mame",
+            "symlinks": [
+                "qmc2"
+            ]
         }
     },
     "manager-accounting": {
