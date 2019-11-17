@@ -5440,6 +5440,7 @@
         "linux": {
             "root": "eclipse",
             "symlinks": [
+                "org.eclipse.Committers",
                 "org.eclipse.Eclipse"
             ]
         }
@@ -9789,6 +9790,7 @@
                 "oracle_java7",
                 "oracle_java8",
                 "oracle_java9",
+                "org.eclipse.Java",
                 "org.freedesktop.Sdk.Extension.openjdk",
                 "org.freedesktop.Sdk.Extension.openjdk10",
                 "org.freedesktop.Sdk.Extension.openjdk11",
@@ -13858,7 +13860,11 @@
     },
     "pd": {
         "linux": {
-            "root": "pd"
+            "root": "pd",
+            "symlinks": [
+                "net.purrdata.PurrData",
+                "pure-data"
+            ]
         }
     },
     "pd-extended": {
