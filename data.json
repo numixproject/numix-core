@@ -1352,7 +1352,10 @@
     },
     "avocode": {
         "linux": {
-            "root": "avocode"
+            "root": "avocode",
+            "symlinks": [
+                "com.avocode.Avocode"
+            ]
         }
     },
     "avogadro": {
@@ -15171,7 +15174,8 @@
                 "qemu-system-arm",
                 "qemu-system-i386",
                 "qemu-system-x86_64",
-                "qemu-system-x86_64-spice"
+                "qemu-system-x86_64-spice",
+                "qtemu"
             ]
         }
     },
