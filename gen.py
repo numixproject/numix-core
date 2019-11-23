@@ -175,15 +175,22 @@ elif platform == "osx":
     for sub_dir in osx_sub_dirs:
         mkdir("{0}/{1}".format(osx_dir, sub_dir))
     for icon_name, icon in icons.items():
-        for output_icon in icon.get("osx", []):
-            source = "icons/{0}/48/{1}.svg".format(theme, icon_name)
-            output_svg = "{0}/vectors/{1}.svg".format(osx_dir, output_icon)
-            output_png = "{0}/pngs/{1}.png".format(osx_dir, output_icon)
-            output_icn = "{0}/icns/{1}.icn".format(osx_dir, output_icon)
-            if path.exists(source):
-                copy2(source, output_svg)
-                convert_svg2png(source, output_png, 1024, 1024)
-                call(["png2icns", output_icn, output_png],
-                     stdout=PIPE, stderr=PIPE)
+            for output_icon in icon.get("osx", [icon_name]):
+                source = "icons/{0}/48/{1}.svg".format(theme, icon_name)
+                output_svg = "{0}/vectors/{1}.svg".format(osx_dir, output_icon)
+                output_png = "{0}/pngs/{1}".format(osx_dir, output_icon)
+                output_icns = "{0}/icns/{1}.icns".format(osx_dir, output_icon)
+                if path.exists(source):
+                    copy2(source, output_svg)
+                    sizes = [16, 32, 128, 256, 512, 1024]
+                    filenames = list(map(
+                        lambda x: "{}_{}.png".format(output_png, str(x)),
+                        sizes))
+
+                    for out_name, size in zip(filenames, sizes):
+                        convert_svg2png(source, out_name, size, size)
+
+                    call(["png2icns"] + [output_icns] + filenames,
+                         stdout=PIPE, stderr=PIPE)
 # Clean Up
 print("Done!\n")
