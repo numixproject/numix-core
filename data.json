@@ -6705,7 +6705,10 @@
     },
     "frescobaldi": {
         "linux": {
-            "root": "frescobaldi"
+            "root": "frescobaldi",
+            "symlinks": [
+                "org.frescobaldi.Frescobaldi"
+            ]
         }
     },
     "friends": {
