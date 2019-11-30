@@ -873,6 +873,14 @@
             "root": "appgrid"
         }
     },
+    "appimageupdater": {
+        "linux": {
+            "root": "appimageupdater",
+            "symlinks": [
+                "AppImageUpdater"
+            ]
+        }
+    },
     "application-default-icon": {
         "linux": {
             "root": "application-default-icon",
