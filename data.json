@@ -18283,7 +18283,10 @@
     },
     "texworks": {
         "linux": {
-            "root": "TeXworks"
+            "root": "TeXworks",
+            "symlinks": [
+                "org.tug.texworks"
+            ]
         }
     },
     "the-binding-of-isaac-rebirth": {
