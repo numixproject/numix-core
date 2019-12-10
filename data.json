@@ -1192,7 +1192,10 @@
     },
     "asunder": {
         "linux": {
-            "root": "asunder"
+            "root": "asunder",
+            "symlinks": [
+                "ca.littlesvr.asunder"
+            ]
         }
     },
     "atanks": {
