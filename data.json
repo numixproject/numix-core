@@ -11434,7 +11434,10 @@
     },
     "losslesscut": {
         "linux": {
-            "root": "losslesscut"
+            "root": "losslesscut",
+            "symlinks": [
+                "no.mifi.losslesscut"
+            ]
         }
     },
     "lottanzb": {
