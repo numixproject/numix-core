@@ -1150,7 +1150,9 @@
         "linux": {
             "root": "asc-de",
             "symlinks": [
-                "onlyoffice"
+                "com.onlyoffice.DesktopEditors",
+                "onlyoffice",
+                "org.onlyoffice.desktopeditors"
             ]
         }
     },
@@ -1206,7 +1208,10 @@
     },
     "asunder": {
         "linux": {
-            "root": "asunder"
+            "root": "asunder",
+            "symlinks": [
+                "ca.littlesvr.asunder"
+            ]
         }
     },
     "atanks": {
@@ -1366,7 +1371,10 @@
     },
     "avocode": {
         "linux": {
-            "root": "avocode"
+            "root": "avocode",
+            "symlinks": [
+                "com.avocode.Avocode"
+            ]
         }
     },
     "avogadro": {
@@ -3158,7 +3166,11 @@
     },
     "cave-story": {
         "linux": {
-            "root": "steam_icon_200900"
+            "root": "cave-story",
+            "symlinks": [
+                "com.gitlab.coringao.cavestory-nx",
+                "steam_icon_200900"
+            ]
         }
     },
     "ccsm": {
@@ -3326,6 +3338,7 @@
             "root": "chromium",
             "symlinks": [
                 "chromium-browser",
+                "chromium-browser-privacy",
                 "chromium-browser2",
                 "google-chromium",
                 "org.chromium.Chromium"
@@ -5238,7 +5251,8 @@
         "linux": {
             "root": "drawing",
             "symlinks": [
-                "com.github.maoschanz.Drawing"
+                "com.github.maoschanz.Drawing",
+                "com.github.maoschanz.drawing"
             ]
         }
     },
@@ -5459,6 +5473,7 @@
         "linux": {
             "root": "eclipse",
             "symlinks": [
+                "org.eclipse.Committers",
                 "org.eclipse.Eclipse"
             ]
         }
@@ -5550,10 +5565,14 @@
                 "electron2",
                 "electron3",
                 "electron4",
+                "electron5",
+                "electron6",
                 "io.atom.electron.BaseApp",
                 "org.electronjs.Electron2.BaseApp",
                 "org.electronjs.Electron3.BaseApp",
-                "org.electronjs.Electron4.BaseApp"
+                "org.electronjs.Electron4.BaseApp",
+                "org.electronjs.Electron5.BaseApp",
+                "org.electronjs.Electron6.BaseApp"
             ]
         }
     },
@@ -6721,7 +6740,10 @@
     },
     "frescobaldi": {
         "linux": {
-            "root": "frescobaldi"
+            "root": "frescobaldi",
+            "symlinks": [
+                "org.frescobaldi.Frescobaldi"
+            ]
         }
     },
     "friends": {
@@ -6956,6 +6978,7 @@
         "linux": {
             "root": "gcleaner",
             "symlinks": [
+                "preferences-system-privacy-housekeeping",
                 "shredder",
                 "sweeper"
             ]
@@ -7880,6 +7903,7 @@
         "linux": {
             "root": "gnome-todo",
             "symlinks": [
+                "io.elementary.tasks",
                 "org.gnome.Todo"
             ]
         }
@@ -9711,7 +9735,10 @@
     "irccloud":
     {
         "linux": {
-            "root": "irccloud"
+            "root": "irccloud",
+            "symlinks": [
+                "com.irccloud.desktop"
+            ]
         }
     },
     "iridium-browser": {
@@ -9759,7 +9786,8 @@
         "linux": {
             "root": "jabref",
             "symlinks": [
-                "JabRef-icon-48"
+                "JabRef-icon-48",
+                "org.jabref.jabref"
             ]
         }
     },
@@ -9828,6 +9856,7 @@
                 "oracle_java7",
                 "oracle_java8",
                 "oracle_java9",
+                "org.eclipse.Java",
                 "org.freedesktop.Sdk.Extension.openjdk",
                 "org.freedesktop.Sdk.Extension.openjdk10",
                 "org.freedesktop.Sdk.Extension.openjdk11",
@@ -9891,7 +9920,11 @@
     },
     "jitsi": {
         "linux": {
-            "root": "jitsi"
+            "root": "jitsi",
+            "symlinks": [
+                "jitsi-meet",
+                "jitsi-meet-electron"
+            ]
         }
     },
     "jmeter": {
@@ -11459,7 +11492,10 @@
     },
     "losslesscut": {
         "linux": {
-            "root": "losslesscut"
+            "root": "losslesscut",
+            "symlinks": [
+                "no.mifi.losslesscut"
+            ]
         }
     },
     "lottanzb": {
@@ -11651,7 +11687,10 @@
     },
     "mame": {
         "linux": {
-            "root": "mame"
+            "root": "mame",
+            "symlinks": [
+                "qmc2"
+            ]
         }
     },
     "manager-accounting": {
@@ -12981,6 +13020,7 @@
                 "gnome-icon-preview",
                 "gtk3-icon-browser",
                 "gtk4-icon-browser",
+                "org.gnome.design.AppIconPreview",
                 "org.gnome.IconPreview",
                 "org.gtk.IconBrowser3",
                 "org.gtk.IconBrowser4",
@@ -13939,7 +13979,11 @@
     },
     "pd": {
         "linux": {
-            "root": "pd"
+            "root": "pd",
+            "symlinks": [
+                "net.purrdata.PurrData",
+                "pure-data"
+            ]
         }
     },
     "pd-extended": {
@@ -13965,6 +14009,7 @@
                 "eu.scarpetta.PDFMixTool",
                 "flpsed",
                 "master-pdf-editor",
+                "net.codeindustry.MasterPDFEditor",
                 "pdfmixtool",
                 "pdftricks"
             ]
@@ -15240,7 +15285,8 @@
                 "qemu-system-arm",
                 "qemu-system-i386",
                 "qemu-system-x86_64",
-                "qemu-system-x86_64-spice"
+                "qemu-system-x86_64-spice",
+                "qtemu"
             ]
         }
     },
@@ -16145,7 +16191,10 @@
     },
     "robocode": {
         "linux": {
-            "root": "robocode"
+            "root": "robocode",
+            "symlinks": [
+                "org.robocode.Robocode"
+            ]
         }
     },
     "robocraft": {
@@ -16858,7 +16907,10 @@
     },
     "sigil": {
         "linux": {
-            "root": "sigil"
+            "root": "sigil",
+            "symlinks": [
+                "com.sigil_ebook.Sigil"
+            ]
         }
     },
     "sigviewer": {
@@ -17783,6 +17835,7 @@
             "symlinks": [
                 "com.github.cassidyjames.palette",
                 "com.github.keyilan.swatches",
+                "org.gnome.design.Palette",
                 "org.gnome.zbrown.Palette"
             ]
         }
@@ -18366,7 +18419,10 @@
     },
     "texworks": {
         "linux": {
-            "root": "TeXworks"
+            "root": "TeXworks",
+            "symlinks": [
+                "org.tug.texworks"
+            ]
         }
     },
     "the-binding-of-isaac-rebirth": {
@@ -20423,6 +20479,8 @@
                 "steam_icon_599390",
                 "wesnoth-1.10-icon",
                 "wesnoth-1.12-icon",
+                "wesnoth-1.14-icon",
+                "wesnoth-1.16-icon",
                 "wesnoth-icon"
             ]
         }
