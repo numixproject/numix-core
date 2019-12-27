@@ -16091,7 +16091,10 @@
     },
     "robocode": {
         "linux": {
-            "root": "robocode"
+            "root": "robocode",
+            "symlinks": [
+                "org.robocode.Robocode"
+            ]
         }
     },
     "robocraft": {
