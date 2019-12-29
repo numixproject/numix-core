@@ -16654,6 +16654,15 @@
             "root": "sdl-ball"
         }
     },
+    "sdrangel": {
+        "linux": {
+            "root": "sdrangel",
+            "symlinks": [
+                "org.sdrangel.SDRangel",
+                "sdrangel_icon"
+            ]
+        }
+    },
     "se-troubleshoot": {
         "linux": {
             "root": "setroubleshoot_icon"
