@@ -11549,7 +11549,11 @@
     },
     "lpub": {
         "linux": {
-            "root": "lpub"
+            "root": "lpub",
+            "symlinks": [
+                "lpub3d",
+                "org.trevorsandy.lpub3d"
+            ]
         }
     },
     "lshw": {
