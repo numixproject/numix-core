@@ -3815,6 +3815,36 @@
             "root": "crossover"
         }
     },
+    "crossover-doc": {
+        "linux": {
+            "root": "cxmenu-cxoffice-0-cxdoc"
+        }
+    },
+    "crossover-menu": {
+        "linux": {
+            "root": "cxmenu-cxoffice-0-crossover"
+        }
+    },
+    "crossover-register": {
+        "linux": {
+            "root": "cxmenu-cxoffice-0-cxregister"
+        }
+    },
+    "crossover-reset": {
+        "linux": {
+            "root": "cxmenu-cxoffice-0-cxreset"
+        }
+    },
+    "crossover-run": {
+        "linux": {
+            "root": "cxmenu-cxoffice-0-cxrun"
+        }
+    },
+    "crossover-uninstall": {
+        "linux": {
+            "root": "cxmenu-cxoffice-0-cxuninstall"
+        }
+    },
     "crow-translate": {
         "linux": {
             "root": "crow-translate"
@@ -3971,36 +4001,6 @@
             "symlinks": [
                 "org.radare.Cutter"
             ]
-        }
-    },
-    "cxmenu-cxoffice-0-crossover": {
-        "linux": {
-            "root": "cxmenu-cxoffice-0-crossover"
-        }
-    },
-    "cxmenu-cxoffice-0-cxdoc": {
-        "linux": {
-            "root": "cxmenu-cxoffice-0-cxdoc"
-        }
-    },
-    "cxmenu-cxoffice-0-cxregister": {
-        "linux": {
-            "root": "cxmenu-cxoffice-0-cxregister"
-        }
-    },
-    "cxmenu-cxoffice-0-cxreset": {
-        "linux": {
-            "root": "cxmenu-cxoffice-0-cxreset"
-        }
-    },
-    "cxmenu-cxoffice-0-cxrun": {
-        "linux": {
-            "root": "cxmenu-cxoffice-0-cxrun"
-        }
-    },
-    "cxmenu-cxoffice-0-cxuninstall": {
-        "linux": {
-            "root": "cxmenu-cxoffice-0-cxuninstall"
         }
     },
     "cyclograph": {
