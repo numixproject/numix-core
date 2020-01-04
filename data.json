@@ -12234,6 +12234,7 @@
         "linux": {
             "root": "monero",
             "symlinks": [
+                "monero-qt",
                 "monero-wallet-gui",
                 "org.getmonero.Wallet"
             ]
@@ -17271,7 +17272,10 @@
     },
     "solarus": {
         "linux": {
-            "root": "solarus"
+            "root": "solarus",
+            "symlinks": [
+                "solarus-launcher"
+            ]
         }
     },
     "solarus-quest-editor": {
