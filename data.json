@@ -4929,7 +4929,10 @@
     },
     "distributor-logo-raspbian": {
         "linux": {
-            "root": "distributor-logo-raspbian"
+            "root": "distributor-logo-raspbian",
+            "symlinks": [
+                "rpi"
+            ]
         }
     },
     "distributor-logo-redcore": {
@@ -12060,7 +12063,8 @@
             "root": "minecraft",
             "symlinks": [
                 "com.mojang.Minecraft",
-                "minecraft-launcher"
+                "minecraft-launcher",
+                "minecraft-pi"
             ]
         }
     },
@@ -16575,7 +16579,9 @@
         "linux": {
             "root": "scratch",
             "symlinks": [
-                "edu.mit.Scratch"
+                "edu.mit.Scratch",
+                "scratch-desktop",
+                "scratch2"
             ]
         }
     },
@@ -19693,7 +19699,10 @@
     },
     "vncviewer": {
         "linux": {
-            "root": "vncviewer"
+            "root": "vncviewer",
+            "symlinks": [
+                "vncviewer48x48"
+            ]
         }
     },
     "vnote": {
