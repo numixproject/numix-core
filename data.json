@@ -15757,6 +15757,16 @@
             "root": "qutim"
         }
     },
+    "qv2ray": {
+        "linux": {
+            "root": "qv2ray",
+            "symlinks": [
+                "com.github.Qv2ray",
+                "com.github.lhy0403.Qv2ray",
+                "Qv2ray"
+            ]
+        }
+    },
     "qv4l2": {
         "linux": {
             "root": "qv4l2"
