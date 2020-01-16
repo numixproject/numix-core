@@ -5781,6 +5781,7 @@
             "root": "equaliser",
             "symlinks": [
                 "chrome-npfkoakaabdallkcdbpkkhfilkkngakh-Default",
+                "eu.tiliado.NuvolaAppDeezer",
                 "lash",
                 "nuvolaplayer3_deezer"
             ]
@@ -8285,6 +8286,7 @@
                 "chrome-fahmaaghhglfmonjliepjlchgpgfmobi-Default",
                 "chrome-icppfcnhkcmnfdhfhphakoifcfokfdhg-Default",
                 "com.googleplaymusicdesktopplayer.GPMDP",
+                "eu.tiliado.NuvolaAppGooglePlayMusic",
                 "google-play-music-desktop-player",
                 "googlemusicframe",
                 "gpmdp",
@@ -13079,6 +13081,7 @@
         "linux": {
             "root": "nuvolaplayer",
             "symlinks": [
+                "eu.tiliado.Nuvola",
                 "nuvolaplayer3"
             ]
         }
@@ -13770,7 +13773,10 @@
     },
     "owncloud": {
         "linux": {
-            "root": "owncloud"
+            "root": "owncloud",
+            "symlinks": [
+                "eu.tiliado.NuvolaAppOwncloudMusic"
+            ]
         }
     },
     "oxygen-not-included": {
@@ -17342,6 +17348,7 @@
             "root": "soundcloud",
             "symlinks": [
                 "chrome-ipebkipbeggmmkjjljenoblnfaenambp-Default",
+                "eu.tiliado.NuvolaAppSoundcloud",
                 "nuvolaplayer3_soundcloud",
                 "web-soundcloud"
             ]
@@ -17498,6 +17505,7 @@
             "symlinks": [
                 "chrome-cnkjkdjlofllcpbemipjbcpfnglbgieh-Default",
                 "com.spotify.Client",
+                "eu.tiliado.NuvolaAppSpotify",
                 "nuvolaplayer3_spotify",
                 "Spotify",
                 "spotify",
@@ -19883,6 +19891,7 @@
         "linux": {
             "root": "web-bandcamp",
             "symlinks": [
+                "eu.tiliado.NuvolaAppBandcamp",
                 "nuvolaplayer3_bandcamp"
             ]
         }
@@ -21290,6 +21299,7 @@
             "root": "youtube",
             "symlinks": [
                 "chrome-blpcfgokakmgnkcojhhkbfbldkacnbeo-Default",
+                "eu.tiliado.NuvolaAppYoutube",
                 "gtk-youtube-viewer",
                 "nuvolaplayer3_youtube",
                 "unity-webapps-youtube",
@@ -21325,7 +21335,9 @@
             "root": "youtube-to-mp3",
             "symlinks": [
                 "alltomp3",
+                "eu.tiliado.NuvolaAppYoutubeMusic",
                 "MediaHuman",
+                "nuvolaplayer3_youtube-music",
                 "youtube-music-desktop"
             ]
         }
