@@ -1235,6 +1235,14 @@
             "root": "athena"
         }
     },
+    "athenaeum": {
+        "linux": {
+            "root": "athenaeum",
+            "symlinks": [
+                "com.gitlab.librebob.Athenaeum"
+            ]
+        }
+    },
     "atlauncher": {
         "linux": {
             "root": "atlauncher"
