@@ -6042,7 +6042,10 @@
     },
     "ferdi": {
         "linux": {
-            "root": "ferdi"
+            "root": "ferdi",
+            "symlinks": [
+                "com.getferdi.Ferdi"
+            ]
         }
     },
     "fez": {
