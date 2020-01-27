@@ -21454,7 +21454,10 @@
     },
     "zrythm": {
         "linux": {
-            "root": "zrythm"
+            "root": "zrythm",
+            "symlinks": [
+                "org.zrythm.Zrythm"
+            ]
         }
     },
     "zsnes": {
