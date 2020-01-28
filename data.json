@@ -14142,7 +14142,10 @@
     },
     "persepolis": {
         "linux": {
-            "root": "persepolis"
+            "root": "persepolis",
+            "symlinks": [
+                "com.github.persepolisdm.persepolis"
+            ]
         }
     },
     "peruse": {
@@ -14157,7 +14160,10 @@
     },
     "pext": {
         "linux": {
-            "root": "pext"
+            "root": "pext",
+            "symlinks": [
+                "io.pext.pext"
+            ]
         }
     },
     "pgadmin": {
