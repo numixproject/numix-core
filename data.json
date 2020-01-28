@@ -8728,6 +8728,14 @@
             ]
         }
     },
+    "gtk-stress-testing": {
+        "linux": {
+            "root": "gtk-stress-testing",
+            "symlinks": [
+                "com.leinardi.gst"
+            ]
+        }
+    },
     "gtk-recordmydesktop": {
         "linux": {
             "root": "gtk-recordmydesktop"
