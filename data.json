@@ -5909,7 +5909,10 @@
     },
     "exfalso": {
         "linux": {
-            "root": "exfalso"
+            "root": "exfalso",
+            "symlinks": [
+                "io.github.quodlibet.ExFalso"
+            ]
         }
     },
     "expand-game": {
