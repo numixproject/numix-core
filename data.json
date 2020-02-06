@@ -8890,6 +8890,9 @@
      "hakuneko-desktop": {
         "linux": {
             "root": "hakuneko-desktop"
+            "symlinks": [
+            	"io.github.hakuneko.HakuNeko"
+            ]
         }
     },
     "half-life-deathmatch-source": {
