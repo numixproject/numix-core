@@ -5817,8 +5817,10 @@
         "linux": {
             "root": "etcher",
             "symlinks": [
+                "balena-etcher",
                 "balena-etcher-electron",
-                "etcher-electron"
+                "etcher-electron",
+                "io.balena.etcher"
             ]
         }
     },
