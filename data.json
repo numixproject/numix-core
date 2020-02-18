@@ -8716,7 +8716,10 @@
     },
     "gtg": {
         "linux": {
-            "root": "gtg"
+            "root": "gtg",
+            "symlinks": [
+                "org.gnome.GTG"
+            ]
         }
     },
     "gthumb": {
