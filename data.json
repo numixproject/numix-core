@@ -1120,6 +1120,14 @@
             "root": "arronax"
         }
     },
+    "art": {
+        "linux": {
+            "root": "art",
+            "symlinks": [
+                "ART"
+            ]
+        }
+    },
     "arte-fetcher": {
         "linux": {
             "root": "arteFetcher",
