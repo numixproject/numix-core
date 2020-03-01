@@ -19748,6 +19748,14 @@
             ]
         }
     },
+    "warp": {
+        "linux": {
+            "root": "warp",
+            "symlinks": [
+                "org.linuxmint.warp"
+            ]
+        }
+    },
     "warsow": {
         "linux": {
             "root": "warsow",
