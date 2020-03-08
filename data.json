@@ -9031,6 +9031,7 @@
                 "hamster-applet",
                 "hamster-indicator",
                 "hamster-time-tracker",
+                "org.gnome.Hamster.GUI",
                 "org.projecthamster.hamster-gtk"
             ]
         }
@@ -10443,6 +10444,7 @@
         "linux": {
             "root": "kigo",
             "symlinks": [
+                "cgoban",
                 "gogui",
                 "org.kde.kigo",
                 "quarry"
