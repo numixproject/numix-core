@@ -1710,7 +1710,8 @@
             "root": "blender",
             "symlinks": [
                 "Blender",
-                "org.blender.Blender"
+                "org.blender.Blender",
+                "steam_icon_365670"
             ]
         }
     },
@@ -3073,7 +3074,9 @@
                 "calligrakrita2",
                 "calligrakrita3",
                 "krita",
-                "org.kde.krita"
+                "org.kde.krita",
+                "org.krita.krita",
+                "steam_icon_280680"
             ]
         }
     },
@@ -4899,7 +4902,11 @@
     },
     "distributor-logo-popos": {
         "linux": {
-            "root": "distributor-logo-popos"
+            "root": "distributor-logo-popos",
+            "symlinks": [
+                "pop-os-logo-icon",
+                "start-here-pop-os"
+            ]
         }
     },
     "distributor-logo-porteus": {
@@ -13154,6 +13161,7 @@
                 "nvidia-310-settings",
                 "nvidia-current-settings",
                 "nvidia-current-updates-settings",
+                "nvidia-ddm-mx",
                 "nvidia-drivers-settings",
                 "nvidia-settings",
                 "nvidia-x-server-setting",
@@ -15934,7 +15942,8 @@
         "linux": {
             "root": "rambox",
             "symlinks": [
-                "hamsket"
+                "hamsket",
+                "rambox-os"
             ]
         }
     },
@@ -20993,7 +21002,8 @@
                 "io.github.wxmaxima_developers.wxMaxima",
                 "maxima",
                 "maxima-icon",
-                "maxima-new"
+                "maxima-new",
+                "net.sourceforge.maxima"
             ]
         }
     },
@@ -21149,6 +21159,7 @@
             "root": "xmind",
             "symlinks": [
                 "net.xmind.XMind8",
+                "net.xmind.ZEN",
                 "XMind"
             ]
         }
@@ -21386,6 +21397,7 @@
                 "youtube-dl-gui_48x48",
                 "youtube-dl-qt-icon",
                 "youtube-dlg",
+                "YouTubeDownloader",
                 "yt-dl-gtk"
             ]
         }
