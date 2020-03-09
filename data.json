@@ -694,6 +694,7 @@
             "root": "amd",
             "symlinks": [
                 "amd-ati",
+                "amd-ddm-mx",
                 "ati"
             ]
         }
@@ -9133,6 +9134,7 @@
                 "4137_winhlp32.0",
                 "browser-help",
                 "deepin-manual",
+                "debian-reference",
                 "gnochm",
                 "gnome-help",
                 "gnome-unknown",
@@ -15914,7 +15916,10 @@
     },
     "rambox": {
         "linux": {
-            "root": "rambox"
+            "root": "rambox",
+            "symlinks": [
+                "hamsket"
+            ]
         }
     },
     "rapid-photo-downloader": {
