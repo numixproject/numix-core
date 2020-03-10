@@ -6239,7 +6239,8 @@
                 "firefox-original",
                 "firefox3",
                 "mozilla-firefox",
-                "org.mozilla.Firefox"
+                "org.mozilla.Firefox",
+                "org.mozilla.firefox"
             ]
         }
     },
@@ -8047,7 +8048,11 @@
     },
     "gnubg": {
         "linux": {
-            "root": "gnubg"
+            "root": "gnubg",
+            "symlinks": [
+                "backgammony",
+                "uk.jnthn.backgammony"
+            ]
         }
     },
     "gnucash-icon": {
