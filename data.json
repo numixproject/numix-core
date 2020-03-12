@@ -16791,6 +16791,14 @@
             ]
         }
     },
+    "session-messenger": {
+        "linux": {
+            "root": "session-messenger",
+            "symlinks": [
+                "session-messenger-desktop"
+            ]
+        }
+    },
     "session-properties": {
         "linux": {
             "root": "session-properties",
