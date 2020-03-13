@@ -1,8 +1,8 @@
 <svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
  <defs>
   <linearGradient id="bg" x2="0" y1="1" y2="47" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#eee" offset="0"/>
-   <stop style="stop-color:#e4e4e4" offset="1"/>
+   <stop style="stop-color:#e9afaf" offset="0"/>
+   <stop style="stop-color:#e59e9e" offset="1"/>
   </linearGradient>
  </defs>
  <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4zm0 0.5v0.5c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.5c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.02"/>
@@ -10,10 +10,39 @@
  <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
  <rect x="1" y="1" width="46" height="46" rx="4" style="fill:url(#bg)"/>
  <path d="m1 39v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
- <path d="m24 11a13 13 0 0 0-12.352 9h-1.6484c-0.554 0-1 0.446-1 1v6c0 0.554 0.446 1 1 1h1.6387a13 13 0 0 0 12.361 9 13 13 0 0 0 12.352-9h1.6484c0.554 0 1-0.446 1-1v-6c0-0.554-0.446-1-1-1h-1.6387a13 13 0 0 0-12.361-9zm0 5a8 8 0 0 1 6.916 4h-13.836a8 8 0 0 1 6.9199-4zm-6.916 12h13.836a8 8 0 0 1-6.9199 4 8 8 0 0 1-6.916-4z" style="enable-background:new;opacity:.1;paint-order:normal"/>
- <path d="m24 10a13 13 0 0 0-13 13 13 13 0 0 0 13 13 13 13 0 0 0 13-13 13 13 0 0 0-13-13zm0 5a8 8 0 0 1 8 8 8 8 0 0 1-8 8 8 8 0 0 1-8-8 8 8 0 0 1 8-8z" style="enable-background:new;fill:#f0534f;paint-order:normal"/>
- <path d="m11 23c6.19e-4 1.7165 0.34115 3.4158 1.002 5h5.7539c-1.1363-1.4188-1.7556-3.1823-1.7559-5zm21 0c-0.0025 1.8187-0.62453 3.5823-1.7637 5h5.752c0.66415-1.5835 1.008-3.2829 1.0117-5z" style="enable-background:new;opacity:.1;paint-order:normal"/>
- <rect x="9" y="19" width="30" height="8" ry="1" style="enable-background:new;fill:#3d3846;paint-order:normal"/>
- <path d="m16.4 19c2.3498 2.7269 5.6 6.444 7.6 8h6.5371l-8-8z" style="opacity:.1;paint-order:normal"/>
- <rect transform="rotate(45)" x="21.234" y="-3.2071" width="24" height="5" style="fill:#f0534f;paint-order:normal"/>
+ <path d="m11 17v15c0 1.108 0.892 2 2 2h12v1h2v-1h7v-3h3v-14z" style="opacity:.1;paint-order:normal"/>
+ <path d="m13 13h13v20h-13c-1.108 0-2-0.892-2-2v-16c0-1.108 0.892-2 2-2z" style="fill:#3e3d40;paint-order:normal"/>
+ <path d="m26 13v20h8v-3h3v-14h-3v-3z" style="fill:#3e3d40;paint-order:normal"/>
+ <rect x="13" y="29" width="20" height="2" style="fill:#deddda;paint-order:normal"/>
+ <rect x="25" y="12" width="2" height="22" style="fill:#f9f9f9;paint-order:normal"/>
+ <path d="m15.5 15c-1.3807 0-2.5 1.1193-2.5 2.5s1.1193 2.5 2.5 2.5c0.54204-7.03e-4 1.0692-0.17756 1.502-0.50391l-0.0039-3.9922c-0.43172-0.32555-0.95735-0.50236-1.4981-0.50391z" style="fill:#d34f07;paint-order:normal"/>
+ <path d="m13 22v3h2v2h1v-5h-1v2h-1v-2zm4 0v5h3v-5zm4 0v1h2v1h-2v3h3v-1h-2v-1h2v-3zm-3 1h1v1h-1zm0 2h1v1h-1z" style="fill:#f9f9f9;paint-order:normal"/>
+ <path d="m18.5 15c-0.54204 7.03e-4 -1.0692 0.17756-1.502 0.50391l0.0039 3.9922c0.43172 0.32555 0.95734 0.50236 1.498 0.50391 1.3807 0 2.5-1.1193 2.5-2.5s-1.1193-2.5-2.5-2.5z" style="fill:#f5c211;paint-order:normal"/>
+ <path d="m16.998 15.504a2.5 2.5 0 0 0-0.99805 1.9961 2.5 2.5 0 0 0 1.002 1.9961 2.5 2.5 0 0 0 0.99805-1.9961 2.5 2.5 0 0 0-1.002-1.9961z" style="fill:#ff7800;paint-order:normal"/>
+ <rect x="28" y="22" width="6" height="5" style="fill:#d3d1cd;paint-order:normal"/>
+ <rect x="28" y="22" width="1" height="3" style="fill:#deddda;paint-order:normal"/>
+ <rect x="28" y="25" width="2" height="2" style="fill:#9a9996;paint-order:normal"/>
+ <rect x="29" y="22" width="2" height="3" style="fill:#777883;paint-order:normal"/>
+ <rect x="30" y="25" width="1" height="2" style="fill:#5e5c64;paint-order:normal"/>
+ <rect x="31" y="24" width="1" height="3" style="fill:#deddda;paint-order:normal"/>
+ <rect x="31" y="22" width="3" height="2" style="fill:#9a9996;paint-order:normal"/>
+ <rect x="32" y="24" width="2" height="2" style="fill:#e9eeff;paint-order:normal"/>
+ <rect x="32" y="26" width="2" height="1" style="fill:#d3d1cd;paint-order:normal"/>
+ <path d="m28 18v2h2v-2zm5 0v2h2v-2z" style="fill:#bdbab5;paint-order:normal"/>
+ <rect x="28" y="18" width="1" height="1" style="fill:#5e5c64;paint-order:normal"/>
+ <rect x="29" y="19" width="1" height="1" style="fill:#deddda;paint-order:normal"/>
+ <rect x="29" y="18" width="1" height="1" style="fill:#777883;paint-order:normal"/>
+ <rect x="28" y="19" width="1" height="1" style="fill:#d3d1cd;paint-order:normal"/>
+ <rect x="31" y="18" width="1" height="2" style="fill:#bdbab5;paint-order:normal"/>
+ <rect x="33" y="18" width="1" height="2" style="fill:#e9eeff;paint-order:normal"/>
+ <rect x="34" y="19" width="1" height="1" style="fill:#d3d1cd;paint-order:normal"/>
+ <rect x="34" y="18" width="1" height="1" style="fill:#777883;paint-order:normal"/>
+ <rect x="27" y="29" width="2" height="1" style="fill:#9c9ca5;paint-order:normal"/>
+ <rect x="29" y="28" width="1" height="3" style="fill:#cfcdc9;paint-order:normal"/>
+ <rect x="30" y="29" width="1" height="2" style="fill:#e9eeff;paint-order:normal"/>
+ <rect x="31" y="29" width="1" height="1" style="fill:#9a9996;paint-order:normal"/>
+ <rect x="31" y="30" width="1" height="1" style="fill:#bdbab5;paint-order:normal"/>
+ <rect x="27" y="30" width="2" height="1" style="fill:#706d77;paint-order:normal"/>
+ <rect x="32" y="30" width="1" height="1" style="fill:#deddda;paint-order:normal"/>
+ <rect x="32" y="29" width="1" height="1" style="fill:#8b8b95;paint-order:normal"/>
 </svg>
