@@ -13742,6 +13742,17 @@
             "root": "outline-manager"
         }
     },
+    "oversteer": {
+        "linux": {
+            "root": "oversteer",
+            "symlinks": [
+                "io.itch.pyLinuxWheel",
+                "org.berarma.Oversteer",
+                "pyLinuxWheel",
+                "pylinuxwheel"
+            ]
+        }
+    },
     "owlboy": {
         "linux": {
             "root": "steam_icon_115800"
