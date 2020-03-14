@@ -4946,7 +4946,8 @@
         "linux": {
             "root": "distributor-logo-raspbian",
             "symlinks": [
-                "rpi"
+                "rpi",
+                "rpi-imager"
             ]
         }
     },
