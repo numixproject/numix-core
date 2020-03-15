@@ -12604,7 +12604,10 @@
     },
     "mupdf": {
         "linux": {
-            "root": "mupdf"
+            "root": "mupdf",
+            "symlinks": [
+                "pdftag"
+            ]
         }
     },
     "murder-files": {
