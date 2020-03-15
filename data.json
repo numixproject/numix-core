@@ -5959,7 +5959,10 @@
     },
     "f-spot": {
         "linux": {
-            "root": "f-spot"
+            "root": "f-spot",
+            "symlinks": [
+                "imaginario"
+            ]
         }
     },
     "factorio": {
