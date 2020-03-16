@@ -4625,7 +4625,10 @@
     },
     "distributor-logo-elementaryos": {
         "linux": {
-            "root": "distributor-logo-elementaryos"
+            "root": "distributor-logo-elementaryos",
+            "symlinks": [
+                "io.elementary.onboarding"
+            ]
         }
     },
     "distributor-logo-endlessos": {
