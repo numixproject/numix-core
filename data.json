@@ -11805,6 +11805,14 @@
             "root": "mate-panel-fish"
         }
     },
+    "material-maker": {
+        "linux": {
+            "root": "material-maker",
+            "symlinks": [
+                "io.github.RodZill4.Material-Maker"
+            ]
+        }
+    },
     "matlab": {
         "linux": {
             "root": "matlab",
