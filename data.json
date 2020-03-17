@@ -12143,7 +12143,9 @@
             "symlinks": [
                 "com.mojang.Minecraft",
                 "minecraft-launcher",
-                "minecraft-pi"
+                "minecraft-pi",
+                "org.tlauncher.TLauncher",
+                "tlauncher"
             ]
         }
     },
@@ -13040,7 +13042,10 @@
     },
     "nomacs": {
         "linux": {
-            "root": "nomacs"
+            "root": "nomacs",
+            "symlinks": [
+                "org.nomacs.ImageLounge"
+            ]
         }
     },
     "non-mixer": {
