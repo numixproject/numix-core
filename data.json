@@ -10202,7 +10202,10 @@
     },
     "kalzium": {
         "linux": {
-            "root": "kalzium"
+            "root": "kalzium",
+            "symlinks": [
+                "molsketch"
+            ]
         }
     },
     "kanagram": {
