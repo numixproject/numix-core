@@ -4335,6 +4335,14 @@
             "root": "desura"
         }
     },
+    "detwinner": {
+        "linux": {
+            "root": "detwinner",
+            "symlinks": [
+                "com.neatdecisions.Detwinner"
+            ]
+        }
+    },
     "devassistant": {
         "linux": {
             "root": "devassistant"
@@ -4346,14 +4354,6 @@
             "symlinks": [
                 "chrome-mnfehgbmkapmjnhcnbodoamcioleeooe-Default",
                 "devdocs-desktop"
-            ]
-        }
-    },
-    "detwinner": {
-        "linux": {
-            "root": "detwinner",
-            "symlinks": [
-                "com.neatdecisions.Detwinner"
             ]
         }
     },
