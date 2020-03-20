@@ -20091,6 +20091,15 @@
             ]
         }
     },
+    "web-jamendo": {
+        "linux": {
+            "root": "web-jamendo",
+            "symlinks": [
+                "eu.tiliado.NuvolaAppJamendo",
+                "nuvolaplayer3_jamendo"
+            ]
+        }
+    },
     "web-jolicloud": {
         "linux": {
             "root": "web-jolicloud",
