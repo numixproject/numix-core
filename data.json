@@ -6401,6 +6401,14 @@
             ]
         }
     },
+    "flatseal": {
+        "linux": {
+            "root": "flatseal",
+            "symlinks": [
+                "com.github.tchx84.Flatseal"
+            ]
+        }
+    },
     "flaw": {
         "linux": {
             "root": "flaw"
