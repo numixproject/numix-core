@@ -12135,6 +12135,7 @@
         "linux": {
             "root": "mindustry",
             "symlinks": [
+                "com.github.Anuken.Mindustry",
                 "Mindustry",
                 "steam_icon_1127400"
             ]
@@ -14662,7 +14663,10 @@
     },
     "polyphone": {
         "linux": {
-            "root": "polyphone"
+            "root": "polyphone",
+            "symlinks": [
+                "com.polyphonesoundfonts.polyphone"
+            ]
         }
     },
     "pomidor": {
