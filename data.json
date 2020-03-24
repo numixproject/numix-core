@@ -152,6 +152,7 @@
                 "gtkam",
                 "io.elementary.camera",
                 "kamoso",
+                "org.kde.kamoso",
                 "qvidcap"
             ]
         }
@@ -252,6 +253,7 @@
                 "ksnip",
                 "org.deepin.flatdeb.deepin-screenshot",
                 "org.gnome.Screenshot",
+                "org.kde.spectacle",
                 "screengrab",
                 "screenie",
                 "screenie-qt",
@@ -1230,7 +1232,9 @@
         "linux": {
             "root": "atelier",
             "symlinks": [
-                "atcore-gui"
+                "atcore-gui",
+                "org.kde.atcore",
+                "org.kde.atelier"
             ]
         }
     },
@@ -2170,6 +2174,7 @@
                 "kcalc",
                 "org.deepin.flatdeb.deepin-calculator",
                 "org.gnome.Calculator",
+                "org.kde.kcalc",
                 "org.speedcrunch.SpeedCrunch",
                 "speedcrunch"
             ]
@@ -2820,6 +2825,7 @@
                 "org.deepin.flatdeb.deepin-calendar",
                 "org.gnome.Calendar",
                 "org.kde.korganizer",
+                "org.kde.mobile.calindori",
                 "org.kde.phone.calindori",
                 "plan",
                 "preferences-calendar-and-tasks",
@@ -5162,7 +5168,10 @@
     },
     "dolphin": {
         "linux": {
-            "root": "dolphin"
+            "root": "dolphin",
+            "symlinks": [
+                "org.kde.dolphin"
+            ]
         }
     },
     "dolphin-emu": {
@@ -5255,6 +5264,7 @@
         "linux": {
             "root": "dragonplayer",
             "symlinks": [
+                "org.kde.dragon",
                 "org.kde.dragonplayer"
             ]
         }
@@ -5690,6 +5700,7 @@
                 "gfeedline",
                 "kopete",
                 "org.gnome.Empathy",
+                "org.kde.kopete",
                 "telepathy",
                 "telepathy-kde"
             ]
@@ -7683,7 +7694,8 @@
                 "glines",
                 "kfourinline",
                 "org.gnome.Five-or-more",
-                "org.gnome.five-or-more"
+                "org.gnome.five-or-more",
+                "org.kde.kfourinlines"
             ]
         }
     },
@@ -9196,6 +9208,7 @@
             "symlinks": [
                 "bless-48x48",
                 "okteta",
+                "org.kde.hexedit",
                 "org.wxhexeditor.wxHexEditor",
                 "wxHexEditor"
             ]
@@ -10197,20 +10210,27 @@
     },
     "kalgebra": {
         "linux": {
-            "root": "kalgebra"
+            "root": "kalgebra",
+            "symlinks": [
+                "org.kde.kalgebra"
+            ]
         }
     },
     "kalzium": {
         "linux": {
             "root": "kalzium",
             "symlinks": [
-                "molsketch"
+                "molsketch",
+                "org.kde.kalzium"
             ]
         }
     },
     "kanagram": {
         "linux": {
-            "root": "kanagram"
+            "root": "kanagram",
+            "symlinks": [
+                "org.kde.kanagram"
+            ]
         }
     },
     "kanatest": {
@@ -10220,7 +10240,10 @@
     },
     "kapman": {
         "linux": {
-            "root": "kapman"
+            "root": "kapman",
+            "symlinks": [
+                "org.kde.kapman"
+            ]
         }
     },
     "katomic": {
@@ -10340,7 +10363,8 @@
         "linux": {
             "root": "kdiff3",
             "symlinks": [
-                "compared"
+                "compared",
+                "org.kde.kdiff3"
             ]
         }
     },
@@ -10473,7 +10497,8 @@
         "linux": {
             "root": "kid3",
             "symlinks": [
-                "kid3-qt"
+                "kid3-qt",
+                "org.kde.kid3"
             ]
         }
     },
@@ -10621,7 +10646,10 @@
     },
     "klimbgrades": {
         "linux": {
-            "root": "klimbgrades"
+            "root": "klimbgrades",
+            "symlinks": [
+                "org.kde.klimbgrades"
+            ]
         }
     },
     "klines": {
@@ -10634,7 +10662,10 @@
     },
     "kmag": {
         "linux": {
-            "root": "kmag"
+            "root": "kmag",
+            "symlinks": [
+                "org.kde.kmag"
+            ]
         }
     },
     "kmahjongg": {
@@ -10815,7 +10846,8 @@
                 "aisleriot",
                 "gnome-hearts",
                 "kpatience",
-                "nmm_qt_client"
+                "nmm_qt_client",
+                "org.kde.kpat"
             ]
         }
     },
@@ -10996,7 +11028,10 @@
     },
     "kup": {
         "linux": {
-            "root": "kup"
+            "root": "kup",
+            "symlinks": [
+                "org.kde.kup"
+            ]
         }
     },
     "kupfer": {
@@ -11883,7 +11918,10 @@
     },
     "massif-visualizer": {
         "linux": {
-            "root": "massif-visualizer"
+            "root": "massif-visualizer",
+            "symlinks": [
+                "org.kde.massifvisualizer"
+            ]
         }
     },
     "masterpassword-gui": {
@@ -12194,7 +12232,10 @@
     },
     "minuet": {
         "linux": {
-            "root": "minuet"
+            "root": "minuet",
+            "symlinks": [
+                "org.kde.minuet"
+            ]
         }
     },
     "miro": {
@@ -14234,7 +14275,10 @@
     },
     "peruse": {
         "linux": {
-            "root": "peruse"
+            "root": "peruse",
+            "symlinks": [
+                "org.kde.peruse"
+            ]
         }
     },
     "peruse-creator": {
@@ -14791,6 +14835,7 @@
                 "mate-color-manager",
                 "org.gnome.ColorProfileViewer",
                 "org.gnome.ColorViewer",
+                "org.kde.kcolorchooser",
                 "preferences-desktop-color",
                 "unity-color-panel"
             ]
@@ -14855,6 +14900,7 @@
                 "key_bindings",
                 "ktouch",
                 "mintlocale-im",
+                "org.kde.kcharselect",
                 "org.kde.ktouch",
                 "shortcuts"
             ]
@@ -15041,6 +15087,7 @@
                 "kalarm",
                 "ktimer",
                 "org.kde.kalarm",
+                "org.kde.ktimer",
                 "stock_alarm",
                 "time",
                 "time-admin",
@@ -16199,6 +16246,7 @@
                 "gnome-remote-desktop",
                 "krdc",
                 "krfb",
+                "org.kde.krdc",
                 "org.kde.krfb",
                 "preferences-desktop-remote-desktop",
                 "preferences-remote-desktop",
@@ -16441,7 +16489,10 @@
     },
     "rsibreak": {
         "linux": {
-            "root": "rsibreak"
+            "root": "rsibreak",
+            "symlinks": [
+                "org.kde.rsibreak"
+            ]
         }
     },
     "rss": {
@@ -16631,8 +16682,10 @@
             "symlinks": [
                 "deepin-cloud-scan-config-helper",
                 "org.gnome.SimpleScan",
+                "org.kde.skanlite",
                 "package_graphics_scanning",
                 "simple-scan",
+                "skanlite",
                 "xsane"
             ]
         }
@@ -16848,6 +16901,7 @@
                 "gnome-searchtool",
                 "gsearchtool",
                 "kfind",
+                "org.kde.kdesearch",
                 "regexxer",
                 "searchmonkey",
                 "strigi"
@@ -18441,6 +18495,7 @@
                 "lxterminal",
                 "openterm",
                 "org.gnome.Terminal",
+                "org.kde.konsole",
                 "qterminal",
                 "Terminal",
                 "tilda",
@@ -19062,7 +19117,10 @@
     },
     "trojita": {
         "linux": {
-            "root": "trojita"
+            "root": "trojita",
+            "symlinks": [
+                "org.kde.trojita"
+            ]
         }
     },
     "truecrypt": {
