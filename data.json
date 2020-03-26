@@ -13811,7 +13811,10 @@
     },
     "oracle-sqldeveloper": {
         "linux": {
-            "root": "oracle-sqldeveloper"
+            "root": "oracle-sqldeveloper",
+            "symlinks": [
+                "sqldeveloper"
+            ]
         }
     },
     "orange-canvas": {
