@@ -3715,7 +3715,10 @@
     },
     "conky-manager": {
         "linux": {
-            "root": "conky-manager"
+            "root": "conky-manager",
+            "symlinks": [
+                "ConkyManager"
+            ]
         }
     },
     "connectagram": {
@@ -9782,6 +9785,7 @@
                 "pop3",
                 "preferences-mail",
                 "redhat-email",
+                "Sylpheed",
                 "sylpheed",
                 "x-office-mail",
                 "xfce-mail",
@@ -11775,6 +11779,7 @@
         "linux": {
             "root": "m64py",
             "symlinks": [
+                "com.github.efdos.mupengui",
                 "mupen64plus",
                 "mupen64plus-qt",
                 "org.mupen64plus.Mupen64Plus"
@@ -17393,7 +17398,8 @@
         "linux": {
             "root": "snes9x",
             "symlinks": [
-                "com.snes9x.Snes9x"
+                "com.snes9x.Snes9x",
+                "snes9x-gtk"
             ]
         }
     },
