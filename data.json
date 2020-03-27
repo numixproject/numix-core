@@ -3405,6 +3405,14 @@
         "linux": {
             "root": "cinema4d"
         }
+	},
+	"cisco-packet-tracer": {
+		"linux": {
+			"root": "packettracer",
+			"symlinks": [
+				"packet-tracer"
+			]
+		}
     },
     "cisco-pt": {
         "linux": {
