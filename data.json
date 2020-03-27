@@ -17727,7 +17727,10 @@
 	},
 	"stremio": {
 		"linux": {
-			"root": "stremio"
+			"root": "stremio",
+			"symlinks": [
+				"smartcode-stremio"
+			]
 		}
     },
     "strife": {
