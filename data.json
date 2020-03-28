@@ -12380,6 +12380,17 @@
         "linux": {
             "root": "ms-powerpoint"
         }
+	},
+	"ms-teams": {
+		"linux": {
+			"root": "ms-teams",
+			"symlinks": [
+				"com.github.IsmaelMartinez.teams_for_linux",
+				"com.microsoft.Teams",
+				"teams",
+				"teams-for-linux"
+			]
+		}
     },
     "ms-word": {
         "android": [
