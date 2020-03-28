@@ -21416,6 +21416,15 @@
         "linux": {
             "root": "steam_icon_308420"
         }
+	},
+	"zoom": {
+		"linux": {
+			"root": "Zoom",
+			"symlinks": [
+				"zoom-icon",
+				"zoom-desktop",
+				"us.zoom.Zoom"
+			]
     },
     "zotero": {
         "linux": {
