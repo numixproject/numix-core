@@ -17673,7 +17673,10 @@
     },
     "ssb-patchwork": {
         "linux": {
-            "root": "ssb-patchwork"
+            "root": "ssb-patchwork",
+            "symlinks": [
+                "nz.scuttlebutt.Patchwork"
+            ]
         }
     },
     "stacer": {
