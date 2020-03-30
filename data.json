@@ -273,7 +273,7 @@
     "accessories-system-cleaner": {
         "android": [
             "com.cleanmaster.mguard/com.keniu.security.main.MainActivity"
-        ]
+        ],
         "linux": {
             "root": "accessories-system-cleaner",
             "symlinks": [
@@ -699,7 +699,7 @@
     "amazonmp3": {
         "android": [
             "com.demiroot.amazonfresh/com.demiroot.amazonfresh.activities.GatewayMenuActivity"
-        ]
+        ],
         "linux": {
             "root": "amazonmp3",
             "symlinks": [
@@ -1375,7 +1375,7 @@
             "com.avast.android.mobilesecurity/com.avast.android.mobilesecurity.app.home.StartActivity",
             "com.avast.android.mobilesecurity/com.avast.android.mobilesecurity.app.home.HomeActivity",
             "installer.com.avast.android.mobilesecurity/installer.com.avast.android.mobilesecurity.MainActivity"
-        ]
+        ],
         "linux": {
             "root": "avastgui"
         }
@@ -12434,7 +12434,7 @@
         }
     },
     "ms-outlook": {
-        "android: [
+        "android" : [
             "com.outlook.Z7/com.seven.Z7.app.email.EmailFront"
         ],
         "linux": {
