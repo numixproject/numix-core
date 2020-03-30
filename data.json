@@ -13843,7 +13843,7 @@
         }
     },
     "owncloud": {
-        "android" [
+        "android": [
             "com.owncloud.android/com.owncloud.android.ui.activity.FileDisplayActivity"
         ],
         "linux": {
@@ -14051,7 +14051,7 @@
     "paypal": {
         "android": [
             "com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.activity.IntroActivity"
-        ]
+        ],
         "linux": {
             "root": "paypal",
             "symlinks": [
@@ -20162,7 +20162,7 @@
         }
     },
     "web-google-slides": {
-        "android": {
+        "android": [
             "com.google.android.apps.docs.editors.slides/com.google.android.apps.docs.app.NewMainProxyActivity"
         ],
         "linux": {
