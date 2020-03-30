@@ -3271,6 +3271,14 @@
             "root": "Charm"
         }
     },
+    "chatterino": {
+        "linux": {
+            "root": "chatterino",
+            "symlinks": [
+                "com.chatterino.chatterino"
+            ]
+        }
+    },
     "chatty": {
         "linux": {
             "root": "chatty"
