@@ -12167,6 +12167,14 @@
             "root": "minuet"
         }
     },
+    "mirage": {
+        "linux": {
+            "root": "mirage",
+            "symlinks": [
+                "io.github.mirukana.mirage"
+            ]
+        }
+    },
     "miro": {
         "linux": {
             "root": "miro",
