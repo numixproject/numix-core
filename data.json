@@ -309,7 +309,7 @@
         ],
         "linux": {
             "root": "acroread",
-            "symlinks": [
+            "symlinks": [su
                 "adobe-reader",
                 "AdobeReader",
                 "AdobeReader10",
@@ -17843,6 +17843,9 @@
         }
     },
     "supertuxkart": {
+    	"android": [
+    		"org.supertuxkart.stk/org.supertuxkart.stk.SuperTuxKartActivity"
+    	],
         "linux": {
             "root": "supertuxkart",
             "symlinks": [
