@@ -7022,6 +7022,15 @@
             "root": "steam_icon_239820"
         }
     },
+    "gamma-editor": {
+        "linux": {
+            "root": "gamma-editor",
+            "symlinks": [
+                "com.editor.gamma",
+                "io.gitlab.hamadmarri.gamma"
+            ]
+        }
+    },
     "gamma-ray": {
         "linux": {
             "root": "GammaRay"
