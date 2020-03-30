@@ -4021,6 +4021,14 @@
             "root": "cs-user-accounts"
         }
     },
+    "csoundqt": {
+        "linux": {
+            "root": "csoundqt",
+            "symlinks": [
+                "qtcs"
+            ]
+        }
+    },
     "cubemen": {
         "linux": {
             "root": "steam_icon_207250"
