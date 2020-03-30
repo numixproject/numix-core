@@ -13,6 +13,9 @@
         }
     },
     "2048": {
+    	"android": [
+    		"com.gabrielecirulli.app2048/com.gabrielecirulli.app2048.MainActivity"
+    	],
         "linux": {
             "root": "2048",
             "symlinks": [
