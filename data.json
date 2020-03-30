@@ -17547,6 +17547,14 @@
             ]
         }
     },
+    "snowflake": {
+        "linux": {
+            "root": "snowflake",
+            "symlinks": [
+                "org.snowflake_ssh.App"
+            ]
+        }
+    },
     "soapui": {
         "linux": {
             "root": "soapui",
