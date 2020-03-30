@@ -13,9 +13,9 @@
         }
     },
     "2048": {
-    	"android": [
-    		"com.gabrielecirulli.app2048/com.gabrielecirulli.app2048.MainActivity"
-    	],
+        "android": [
+            "com.gabrielecirulli.app2048/com.gabrielecirulli.app2048.MainActivity"
+        ],
         "linux": {
             "root": "2048",
             "symlinks": [
@@ -30,9 +30,9 @@
         }
     },
     "2gis": {
-    	"android": [
-    		"ru.dublgis.dgismobile/ru.dublgis.dgismobile.GrymMobileActivity"
-    	],
+        "android": [
+            "ru.dublgis.dgismobile/ru.dublgis.dgismobile.GrymMobileActivity"
+        ],
         "linux": {
             "root": "2gis"
         }
@@ -94,9 +94,9 @@
         }
     },
     "aarddict": {
-    	"android": [
-    		"aarddict.android/aarddict.android.LookupActivity"
-    	],
+        "android": [
+            "aarddict.android/aarddict.android.LookupActivity"
+        ],
         "linux": {
             "root": "aarddict"
         }
@@ -17852,9 +17852,9 @@
         }
     },
     "supertuxkart": {
-    	"android": [
-    		"org.supertuxkart.stk/org.supertuxkart.stk.SuperTuxKartActivity"
-    	],
+        "android": [
+            "org.supertuxkart.stk/org.supertuxkart.stk.SuperTuxKartActivity"
+        ],
         "linux": {
             "root": "supertuxkart",
             "symlinks": [
