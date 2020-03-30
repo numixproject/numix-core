@@ -21066,6 +21066,15 @@
             ]
         }
     },
+    "wireshare": {
+        "linux": {
+            "root": "wireshare",
+            "symlinks": [
+                "hermes-wireshare",
+                "org.team_hermes.WireShare"
+            ]
+        }
+    },
     "wireshark": {
         "linux": {
             "root": "wireshark",
