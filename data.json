@@ -17724,14 +17724,17 @@
         "linux": {
             "root": "strawberry"
         }
-	},
-	"stremio": {
-		"linux": {
-			"root": "stremio",
-			"symlinks": [
-				"smartcode-stremio"
-			]
-		}
+    },
+    "stremio": {
+        "android": [
+            "com.stremio.one/com.stremio.MainActivity"
+        ],
+        "linux": {
+            "root": "stremio",
+            "symlinks": [
+                "smartcode-stremio"
+            ]
+        }
     },
     "strife": {
         "linux": {
