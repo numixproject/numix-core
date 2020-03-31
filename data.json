@@ -6336,6 +6336,17 @@
             ]
         }
     },
+    "flappybird": {
+        "android": [
+            "com.dotgears.flappybird/com.dotgears.flappy.SplashScreen"
+        ],
+        "linux":
+            "root": "flappybird"
+            "symlinks": [
+                "web-flappybird"
+            ]
+        }
+    },
     "flare": {
         "linux": {
             "root": "flare",
