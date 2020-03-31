@@ -12507,6 +12507,14 @@
             ]
         }
     },
+    "mmapper": {
+        "linux": {
+            "root": "mmapper",
+            "symlinks": [
+                "org.mume.MMapper"
+            ]
+        }
+    },
     "mobile-pass": {
         "android": [
             "securecomputing.devices.android.controller/securecomputing.devices.android.controller.AndroidToken"
