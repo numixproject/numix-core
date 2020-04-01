@@ -13879,7 +13879,10 @@
     },
     "opensonic": {
         "linux": {
-            "root": "opensonic"
+            "root": "opensonic",
+            "symlinks": [
+                "srb2"
+            ]
         }
     },
     "openteacher": {
@@ -20066,6 +20069,7 @@
                 "com.visualstudio.code-oss",
                 "com.visualstudio.code.insiders",
                 "com.visualstudio.code.oss",
+                "com.vscodium.codium",
                 "visual-studio-code",
                 "vsc",
                 "vscode",
