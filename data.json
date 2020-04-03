@@ -7736,10 +7736,10 @@
     },
     "gnome-maps": {
         "android": [
-            "com.google.android.apps.maps/com.google.android.maps.MapsActivity",
-            "com.google.android.apps.maps/com.google.android.maps.PlacesActivity",
             "com.google.android.apps.maps/com.google.android.maps.driveabout.app.DestinationActivity",
-            "com.google.android.apps.maps/com.google.android.maps.LatitudeActivity"
+            "com.google.android.apps.maps/com.google.android.maps.LatitudeActivity",
+            "com.google.android.apps.maps/com.google.android.maps.MapsActivity",
+            "com.google.android.apps.maps/com.google.android.maps.PlacesActivity"
         ],
         "linux": {
             "root": "gnome-maps",
@@ -20727,11 +20727,11 @@
     },
     "wikipedia": {
         "android": [
+            "org.wikipedia.beta/org.wikipedia.beta.page.PageActivity",
             "org.wikipedia/org.wikipedia.main.MainActivity",
             "org.wikipedia/org.wikipedia.MainActivity",
             "org.wikipedia/org.wikipedia.page.PageActivity",
             "org.wikipedia/org.wikipedia.WikipediaActivity",
-            "org.wikipedia.beta/org.wikipedia.beta.page.PageActivity"
         ],
         "linux": {
             "root": "wikipedia",
