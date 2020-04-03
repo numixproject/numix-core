@@ -9019,7 +9019,13 @@
     "happy-wheels": {
         "android": [
             "com.fancyforce.happywheels/org.cocos2dx.cpp.AppActivity"
-         ]
+        ],
+        "linux": {
+            "root": "happy-wheels",
+            "symlinks": [
+                "web-happy-wheels"
+            ]
+        }
     },
     "hardinfo": {
         "linux": {
