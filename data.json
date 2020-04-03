@@ -6050,6 +6050,11 @@
         }
     },
     "fdroid-repomaker": {
+        "android": [
+            "org.fdroid.fdroid/org.fdroid.fdroid.FDroid",
+            "org.fdroid.fdroid/org.fdroid.fdroid.views.main.MainActivity",
+            "org.fdroid.fdroid/org.fdroid.fdroid.views.LocalRepoActivity"
+        ],
         "linux": {
             "root": "fdroid-repomaker",
             "symlinks": [
@@ -15154,6 +15159,9 @@
         }
     },
     "pulse-sms": {
+        "android": [
+            "xyz.klinker.messenger/xyz.klinker.messenger.activity.MessengerActivity"
+        ],
         "linux": {
             "root": "pulse-sms"
         }
