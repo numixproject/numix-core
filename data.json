@@ -355,6 +355,9 @@
         }
     },
     "ad-venture-capitalist": {
+        "android": [
+            "com.kongregate.mobile.adventurecapitalist.google/com.unity3d.player.UnityPlayerActivity"
+        ],
         "linux": {
             "root": "steam_icon_346900"
         }
@@ -544,6 +547,12 @@
         }
     },
     "airdroid": {
+        "android": [
+            "com.sand.airdroid/com.sand.airdroid.Splash",
+            "com.sand.airdroid/com.sand.airdroid.SplashActivity_",
+            "com.sand.airdroid/com.sand.airdroid.mobi.vserv.android.appwrapper.VservAdManager",
+            "com.sand.airdroid/com.sand.airdroid.ui.splash.SplashActivity_"
+        ],
         "linux": {
             "root": "chrome-hkgndiocipalkpejnpafdbdlfdjihomd-Default"
         }
@@ -708,6 +717,10 @@
         }
     },
     "amd": {
+        "android": [
+            "com.amd.link/com.amd.link.view.activities.MainActivity",
+            "com.amd.link/com.amd.link.view.activities.SplashActivity"
+        ],
         "linux": {
             "root": "amd",
             "symlinks": [
@@ -823,6 +836,8 @@
         }
     },
     "anki": {
+        "android": [
+            "com.ichi2.anki/com.ichi2.anki.IntentHandler"
         "linux": {
             "root": "anki",
             "symlinks": [
@@ -19967,6 +19982,13 @@
         }
     },
     "web-allcast": {
+        "android": [
+            "com.koushikdutta.allcast/com.koushikdutta.allcast.MainActivity",
+            "com.koushikdutta.cast/com.koushikdutta.cast.SearchActivity",
+            "com.koushikdutta.cast/com.koushikdutta.cast.StartActivity",
+            "com.koushikdutta.cast.license/com.koushikdutta.cast.license.InstallFree",
+            "com.koushikdutta.cast.reciever/com.koushikdutta.cast.reciever.MainActivity"
+        ],
         "linux": {
             "root": "chrome-hjbljnpdahefgnopeohlaeohgkiidnoe-Default"
         }
