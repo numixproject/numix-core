@@ -17410,7 +17410,10 @@
     },
     "sirikali": {
         "linux": {
-            "root": "sirikali"
+            "root": "sirikali",
+            "symlinks": [
+                "io.github.mhogomchungu.SiriKali"
+            ]
         }
     },
     "siril": {
