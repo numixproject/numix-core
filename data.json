@@ -18615,7 +18615,10 @@
     "tiktok": {
         "android": [
             "com.zhiliaoapp.musically/com.ss.android.ugc.aweme.splash.SplashActivity"
-        ]
+        ],
+        "linux": {
+            "root": "web-tiktok"
+        }
     },
     "tikzit": {
         "linux": {
