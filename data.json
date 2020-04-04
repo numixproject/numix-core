@@ -369,8 +369,8 @@
     },
     "addressbook": {
         "android": [
-            "com.samsung.android.contacts/com.android.contacts.activities.PeopleActivity",
-            "com.android.contacts/com.android.contacts.activities.PeopleActivity"
+            "com.android.contacts/com.android.contacts.activities.PeopleActivity",
+            "com.samsung.android.contacts/com.android.contacts.activities.PeopleActivity"
         ],
         "linux": {
             "root": "addressbook",
@@ -548,9 +548,9 @@
     },
     "airdroid": {
         "android": [
+            "com.sand.airdroid/com.sand.airdroid.mobi.vserv.android.appwrapper.VservAdManager",
             "com.sand.airdroid/com.sand.airdroid.Splash",
             "com.sand.airdroid/com.sand.airdroid.SplashActivity_",
-            "com.sand.airdroid/com.sand.airdroid.mobi.vserv.android.appwrapper.VservAdManager",
             "com.sand.airdroid/com.sand.airdroid.ui.splash.SplashActivity_"
         ],
         "linux": {
@@ -1388,8 +1388,8 @@
     },
     "avastgui": {
         "android": [
-            "com.avast.android.mobilesecurity/com.avast.android.mobilesecurity.app.home.StartActivity",
             "com.avast.android.mobilesecurity/com.avast.android.mobilesecurity.app.home.HomeActivity",
+            "com.avast.android.mobilesecurity/com.avast.android.mobilesecurity.app.home.StartActivity",
             "installer.com.avast.android.mobilesecurity/installer.com.avast.android.mobilesecurity.MainActivity"
         ],
         "linux": {
@@ -6052,8 +6052,8 @@
     "fdroid-repomaker": {
         "android": [
             "org.fdroid.fdroid/org.fdroid.fdroid.FDroid",
-            "org.fdroid.fdroid/org.fdroid.fdroid.views.main.MainActivity",
-            "org.fdroid.fdroid/org.fdroid.fdroid.views.LocalRepoActivity"
+            "org.fdroid.fdroid/org.fdroid.fdroid.views.LocalRepoActivity",
+            "org.fdroid.fdroid/org.fdroid.fdroid.views.main.MainActivity"
         ],
         "linux": {
             "root": "fdroid-repomaker",
@@ -19993,10 +19993,10 @@
     "web-allcast": {
         "android": [
             "com.koushikdutta.allcast/com.koushikdutta.allcast.MainActivity",
-            "com.koushikdutta.cast/com.koushikdutta.cast.SearchActivity",
-            "com.koushikdutta.cast/com.koushikdutta.cast.StartActivity",
             "com.koushikdutta.cast.license/com.koushikdutta.cast.license.InstallFree",
-            "com.koushikdutta.cast.reciever/com.koushikdutta.cast.reciever.MainActivity"
+            "com.koushikdutta.cast.reciever/com.koushikdutta.cast.reciever.MainActivity",
+            "com.koushikdutta.cast/com.koushikdutta.cast.SearchActivity",
+            "com.koushikdutta.cast/com.koushikdutta.cast.StartActivity"
         ],
         "linux": {
             "root": "chrome-hjbljnpdahefgnopeohlaeohgkiidnoe-Default"
