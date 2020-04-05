@@ -21416,16 +21416,19 @@
         "linux": {
             "root": "steam_icon_308420"
         }
-	},
+    },
     "zoom": {
-		"linux": {
-			"root": "Zoom",
-			"symlinks": [
-				"us.zoom.Zoom",
-				"zoom-desktop",
-				"zoom-icon"
-			]
-		}
+        "android": [
+            "us.zoom.videomeetings/com.zipow.videobox.LauncherActivity"
+        ],
+        "linux": {
+            "root": "Zoom",
+            "symlinks": [
+	            "us.zoom.Zoom",
+                "zoom-desktop",
+                "zoom-icon"
+            ]
+        }
     },
     "zotero": {
         "linux": {
