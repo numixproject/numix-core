@@ -5495,7 +5495,10 @@
     },
     "dupeguru": {
         "linux": {
-            "root": "dupeguru"
+            "root": "dupeguru",
+            "symlinks": [
+                "dgse_logo_128"
+            ]
         }
     },
     "duplicati": {
@@ -10129,7 +10132,10 @@
     },
     "jd-gui": {
         "linux": {
-            "root": "jd-gui"
+            "root": "jd-gui",
+            "symlinks": [
+                "kali-jd-gui"
+            ]
         }
     },
     "jdownloader": {
@@ -13142,7 +13148,10 @@
     },
     "nexuiz": {
         "linux": {
-            "root": "nexuiz"
+            "root": "nexuiz",
+            "symlinks": [
+                "com.alientrap.nexuiz-classic"
+            ]
         }
     },
     "nfoview": {
