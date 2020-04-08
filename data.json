@@ -10111,6 +10111,17 @@
             "root": "jedit"
         }
     },
+    "jellyfin": {
+        "linux": {
+            "root": "jellyfin",
+            "symlinks": [
+                "com.github.iwalton3.jellyfin-mpv-shim",
+                "jellyfin-mpv-shim",
+                "jellyfin-theater",
+                "jellyfin-theatre"
+            ]
+        }
+    },
     "jiten": {
         "linux": {
             "root": "jiten",
