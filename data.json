@@ -14168,6 +14168,15 @@
             "root": "parcellite"
         }
     },
+    "parental-control": {
+        "linux": {
+            "root": "parental-control",
+            "symlinks": [
+                "org.freedesktop.MalcontentControl",
+                "preferences-system-parental-controls"
+            ]
+        }
+    },
     "parlatype": {
         "linux": {
             "root": "parlatype",
