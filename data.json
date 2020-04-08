@@ -6903,7 +6903,10 @@
     },
     "freeplane": {
         "linux": {
-            "root": "freeplane"
+            "root": "freeplane",
+            "symlinks": [
+                "org.freeplane.App"
+            ]
         }
     },
     "frescobaldi": {
