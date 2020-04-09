@@ -347,6 +347,9 @@
     "adblock": {
         "linux": {
             "root": "chrome-gighmmpiobklfepjocnamgkkbiglidom-Default"
+            "symlinks": [
+                "preferences-web-browser-adblock"
+            ]
         }
     },
     "addressbook": {
@@ -14932,6 +14935,7 @@
                 "kalarm",
                 "ktimer",
                 "org.kde.kalarm",
+                "preferences-system-cron",
                 "stock_alarm",
                 "time",
                 "time-admin",
@@ -19905,6 +19909,7 @@
                 "MultiBrowser",
                 "org.gnome.Epiphany",
                 "org.gnome.Epiphany.Devel",
+                "preferences-web-browser-shortcuts",
                 "redhat-web-browser",
                 "rekonq",
                 "web-browser-app",
