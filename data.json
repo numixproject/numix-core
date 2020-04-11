@@ -17529,7 +17529,10 @@
     },
     "slic3r-prusa3d": {
         "linux": {
-            "root": "slic3r-prusa3d"
+            "root": "slic3r-prusa3d",
+            "symlinks": [
+                "com.prusa3d.PrusaSlicer"
+            ]
         }
     },
     "slidewall": {
