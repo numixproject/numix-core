@@ -10170,6 +10170,7 @@
             "root": "jitsi",
             "symlinks": [
                 "jitsi-meet",
+                "jitsi-meet-desktop",
                 "jitsi-meet-electron"
             ]
         }
@@ -21714,12 +21715,18 @@
     },
     "yacreader": {
         "linux": {
-            "root": "yacreader"
+            "root": "yacreader",
+            "symlinks": [
+                "YACReader"
+            ]
         }
     },
     "yacreader-library": {
         "linux": {
-            "root": "yacreader-library"
+            "root": "yacreader-library",
+            "symlinks": [
+                "YACReaderLibrary"
+            ]
         }
     },
     "yad": {
