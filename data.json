@@ -12220,7 +12220,10 @@
     },
     "mesen": {
         "linux": {
-            "root": "mesen"
+            "root": "mesen",
+            "symlinks": [
+                "Mesen-S"
+            ]
         }
     },
     "meshlab": {
