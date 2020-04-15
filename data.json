@@ -11314,6 +11314,15 @@
             "root": "lightzone"
         }
     },
+    "limbo": {
+        "android": [
+            "com.playdead.limbo/com.playdead.limbo.LimboActivity",
+            "com.playdead.limbo.full/com.playdead.limbo.full.LimboActivity"
+        ],
+        "linux": {
+            "root": "steam_icon_48000"
+        }
+    },
     "lime": {
         "linux": {
             "root": "lime",
