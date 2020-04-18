@@ -835,7 +835,8 @@
         "linux": {
             "root": "antimicro",
             "symlinks": [
-                "com.github.juliagoda.antimicro"
+                "com.github.juliagoda.antimicro",
+                "com.github.juliagoda.antimicroX"
             ]
         }
     },
@@ -5514,7 +5515,10 @@
     },
     "dust3d": {
         "linux": {
-            "root": "dust3d"
+            "root": "dust3d",
+            "symlinks": [
+                "org.dust3d.dust3d"
+            ]
         }
     },
     "dvdisaster": {
