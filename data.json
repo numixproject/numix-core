@@ -18888,6 +18888,16 @@
             ]
         }
     },
+    "theia": {
+        "linux": {
+            "root": "theia",
+            "symlinks": [
+                "eclipse-theia",
+                "theia-electron",
+                "theia-ide"
+            ]
+        }
+    },
     "theme-config": {
         "linux": {
             "root": "theme-config",
