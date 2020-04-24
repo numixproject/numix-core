@@ -1169,6 +1169,7 @@
             "symlinks": [
                 "com.onlyoffice.DesktopEditors",
                 "onlyoffice",
+                "onlyoffice-desktopeditors",
                 "org.onlyoffice.desktopeditors"
             ]
         }
@@ -8180,7 +8181,8 @@
         "linux": {
             "root": "gnomit",
             "symlinks": [
-                "ind.ie.Gnomit"
+                "ind.ie.Gnomit",
+                "org.small_tech.Gnomit"
             ]
         }
     },
