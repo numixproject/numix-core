@@ -7705,6 +7705,14 @@
             ]
         }
     },
+    "gnome-connections": {
+        "linux": {
+            "root": "gnome-connections",
+            "symlinks": [
+                "org.gnome.Connections"
+            ]
+        }
+    },
     "gnome-design-bannerviewer": {
         "linux": {
             "root": "gnome-design-bannerviewer",
