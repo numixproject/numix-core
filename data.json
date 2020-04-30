@@ -5866,7 +5866,10 @@
     },
     "enve": {
         "linux": {
-            "root": "enve"
+            "root": "enve",
+            "symlinks": [
+                "io.github.maurycyliebner.enve"
+            ]
         }
     },
     "envy24control": {
