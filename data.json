@@ -17299,6 +17299,17 @@
             "root": "sonata"
         }
     },
+    "sonic-cd": {
+        "android": [
+            "com.sega.soniccd.classic/com.sega.f2fdownloader.f2fDownloaderActivity",
+            "com.sega.soniccd.classic/com.sega.sonicCD.SonicCDActivity"
+        ],
+        "linux": {
+            "root": "sonic-cd",
+            "symlinks": [
+                "steam_icon_200940"
+            ]
+    },
     "sonic-visualiser": {
         "linux": {
             "root": "sonic-visualiser",
