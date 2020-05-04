@@ -3333,7 +3333,10 @@
     },
     "cherrytree": {
         "linux": {
-            "root": "cherrytree"
+            "root": "cherrytree",
+            "symlinks": [
+                "com.giuspen.cherrytree"
+            ]
         }
     },
     "chess": {
