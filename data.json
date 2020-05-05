@@ -7450,6 +7450,14 @@
             "root": "gitlab"
         }
     },
+    "gitqlient": {
+        "linux": {
+            "root": "gitqlient",
+            "symlinks": [
+                "GitQlient"
+            ]
+        }
+    },
     "gitter": {
         "android": [
             "im.gitter.gitter/im.gitter.gitter.activities.StartActivity"
