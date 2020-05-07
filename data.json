@@ -14185,6 +14185,14 @@
             ]
         }
     },
+    "parnold-x.timer": {
+        "linux": {
+            "root": "parnold-x.timer",
+            "symlinks": [
+                "com.github.parnold-x.timer"
+            ]
+        }
+    },
     "parole": {
         "linux": {
             "root": "parole",
@@ -18998,14 +19006,6 @@
     "timeline": {
         "linux": {
             "root": "timeline"
-        }
-    },
-    "timer": {
-        "linux": {
-            "root": "timer",
-            "symlinks": [
-                "com.github.parnold-x.timer"
-            ]
         }
     },
     "timeshift": {
