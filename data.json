@@ -3835,6 +3835,17 @@
             "root": "crayon-physics-deluxe"
         }
     },
+    "crazy-taxi": {
+        "android": [
+            "com.sega.CrazyTaxiplayhaven/com.sega.f2fdownloader.f2fDownloaderActivity"
+        ],
+        "linux": {
+            "root": "crazy-taxi",
+            "symlinks": [
+                "steam_icon_71230"
+            ]
+        }
+    },
     "cream": {
         "linux": {
             "root": "cream"
