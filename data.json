@@ -12114,7 +12114,10 @@
     },
     "mat": {
         "linux": {
-            "root": "mat"
+            "root": "mat",
+            "symlinks": [
+                "mat2"
+            ]
         }
     },
     "mate-panel-fish": {
