@@ -16279,6 +16279,14 @@
             "root": "realtimesync"
         }
     },
+    "recapp": {
+        "linux": {
+            "root": "recapp",
+            "symlinks": [
+                "com.github.amikha1lov.RecApp"
+            ]
+        }
+    },
     "receitanet": {
         "linux": {
             "root": "receitanet"
