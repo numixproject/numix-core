@@ -7394,6 +7394,14 @@
             ]
         }
     },
+    "girens": {
+        "linux": {
+            "root": "girens",
+            "symlinks": [
+                "nl.g4d.Girens"
+            ]
+        }
+    },
     "gisto": {
         "linux": {
             "root": "gisto"
@@ -14748,8 +14756,6 @@
         "linux": {
             "root": "plexmediamanager",
             "symlinks": [
-                "girens",
-                "nl.g4d.Girens",
                 "plexmediaserver"
             ]
         }
