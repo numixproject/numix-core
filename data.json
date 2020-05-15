@@ -19421,6 +19421,17 @@
             ]
         }
     },
+    "vectorman": {
+        "android": [
+            "com.sega.vectorman/net.gogame.games.unity.plugins.base.GoGameUnityPlayerActivity"
+        ],
+        "linux": {
+            "root": "vectorman",
+            "symlinks": [
+                "steam_icon_34280"
+            ]
+        }
+    },
     "vectr": {
         "linux": {
             "root": "vectr"
