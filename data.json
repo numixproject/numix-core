@@ -13416,6 +13416,7 @@
         "linux": {
             "root": "nvidia",
             "symlinks": [
+                "bumblebee-config-gui",
                 "com.leinardi.gwe",
                 "nvidia-310-settings",
                 "nvidia-current-settings",
