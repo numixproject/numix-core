@@ -14172,6 +14172,8 @@
         "linux": {
             "root": "parental-control",
             "symlinks": [
+                "mintNanny",
+                "mintnanny",
                 "org.freedesktop.MalcontentControl",
                 "preferences-system-parental-controls"
             ]
@@ -15198,8 +15200,6 @@
                 "activity-log-manager",
                 "cs-privacy",
                 "indicator-privacy",
-                "mintNanny",
-                "mintnanny",
                 "zeitgeist"
             ]
         }
