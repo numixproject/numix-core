@@ -13831,7 +13831,10 @@
     },
     "opencpn": {
         "linux": {
-            "root": "opencpn"
+            "root": "opencpn",
+            "symlinks": [
+                "org.opencpn.OpenCPN"
+            ]
         }
     },
     "opendict": {
