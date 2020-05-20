@@ -18735,7 +18735,10 @@
         "linux": {
             "root": "teeworlds",
             "symlinks": [
-                "com.teeworlds.Teeworlds"
+                "com.teeworlds.Teeworlds",
+                "DDNet",
+                "ddnet",
+                "tw.ddnet.ddnet"
             ]
         }
     },
