@@ -12078,6 +12078,14 @@
             ]
         }
     },
+    "maui-station": {
+        "linux": {
+            "root": "maui-station",
+            "symlinks": [
+                "org.kde.station"
+            ]
+        }
+    },
     "maxthon-browser": {
         "linux": {
             "root": "maxthon-browser",
