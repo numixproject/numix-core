@@ -21027,6 +21027,15 @@
             "root": "xfdashboard"
         }
     },
+    "xhydra": {
+        "linux": {
+            "root": "xhydra",
+            "symlinks": [
+                "hydra",
+                "kali-hydra"
+            ]
+        }
+    },
     "xilinx-ise": {
         "linux": {
             "root": "xilinx-ise",
