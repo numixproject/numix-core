@@ -2079,6 +2079,14 @@
             ]
         }
     },
+    "buho": {
+        "linux": {
+            "root": "buho",
+            "symlinks": [
+                "org.kde.buho"
+            ]
+        }
+    },
     "budapest-public-transit": {
         "android": [
             "hu.donmade.menetrend.budapest/hu.donmade.menetrend.gui.BootstrapActivity"
