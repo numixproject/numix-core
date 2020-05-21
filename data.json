@@ -12069,20 +12069,20 @@
             ]
         }
     },
-    "maui-contacts": {
-        "linux": {
-            "root": "maui-contacts",
-            "symlinks": [
-                "org.maui.contacts"
-            ]
-        }
-    },
     "mattermost-desktop": {
         "linux": {
             "root": "mattermost-desktop",
             "symlinks": [
                 "com.mattermost.Desktop",
                 "mattermost"
+            ]
+        }
+    },
+    "maui-contacts": {
+        "linux": {
+            "root": "maui-contacts",
+            "symlinks": [
+                "org.maui.contacts"
             ]
         }
     },
