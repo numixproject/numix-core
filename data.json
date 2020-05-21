@@ -6746,7 +6746,9 @@
         "linux": {
             "root": "fotowall",
             "symlinks": [
+                "kirigami2gallery",
                 "kphotoalbum",
+                "org.kde.kirigami2.gallery",
                 "org.kde.kphotoalbum"
             ]
         }
