@@ -10796,7 +10796,10 @@
     },
     "klayout": {
         "linux": {
-            "root": "klayout"
+            "root": "klayout",
+            "symlinks": [
+                "de.klayout.KLayout"
+            ]
         }
     },
     "klettres": {
