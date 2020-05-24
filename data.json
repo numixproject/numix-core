@@ -13084,14 +13084,6 @@
             "root": "neverball"
         }
     },
-    "newsflash": {
-        "linux": {
-            "root": "newsflash",
-            "symlinks": [
-                "com.gitlab.newsflash"
-            ]
-        }
-    },
     "neverputt": {
         "linux": {
             "root": "neverputt"
@@ -13102,6 +13094,14 @@
             "org.schabi.newpipe/org.schabi.newpipe.MainActivity",
             "org.schabi.newpipe/org.schabi.newpipe.VideoItemListActivity"
         ]
+    },
+    "newsflash": {
+        "linux": {
+            "root": "newsflash",
+            "symlinks": [
+                "com.gitlab.newsflash"
+            ]
+        }
     },
     "nextcloud": {
         "linux": {
