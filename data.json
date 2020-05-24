@@ -13275,6 +13275,14 @@
             "root": "notifyosdconf"
         }
     },
+    "notorious": {
+        "linux": {
+            "root": "notorious",
+            "symlinks": [
+                "org.gabmus.notorious"
+            ]
+        }
+    },
     "nsight": {
         "linux": {
             "root": "nsight"
