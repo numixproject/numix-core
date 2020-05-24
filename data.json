@@ -13084,6 +13084,14 @@
             "root": "neverball"
         }
     },
+    "newsflash": {
+        "linux": {
+            "root": "newsflash",
+            "symlinks": [
+                "com.gitlab.newsflash"
+            ]
+        }
+    },
     "neverputt": {
         "linux": {
             "root": "neverputt"
