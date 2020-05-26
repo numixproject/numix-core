@@ -16777,7 +16777,10 @@
     },
     "rss-blue": {
         "linux": {
-            "root": "liferea"
+            "root": "liferea",
+            "symlinks": [
+                "net.sourceforge.liferea"
+            ]
         }
     },
     "rss-green": {
