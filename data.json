@@ -11873,7 +11873,10 @@
     },
     "lsp-plugins": {
         "linux": {
-            "root": "lsp-plugins"
+            "root": "lsp-plugins",
+            "symlinks": [
+                "org.freedesktop.LinuxAudio.Lv2Plugins.LSP"
+            ]
         }
     },
     "ltris": {
@@ -13220,7 +13223,9 @@
             "root": "nimbus",
             "symlinks": [
                 "com.github.bitseater.weather",
-                "com.github.danrabbit.nimbus"
+                "com.gitlab.bitseater.meteo",
+                "com.github.danrabbit.nimbus",
+                "io.elementary.meteo"
             ]
         }
     },
