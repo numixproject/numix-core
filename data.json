@@ -13064,6 +13064,14 @@
             ]
         }
     },
+    "netsurf": {
+        "linux": {
+            "root": "netsurf",
+            "symlinks": [
+                "org.netsurf_browser.NetSurf"
+            ]
+        }
+    },
     "network-workgroup": {
         "linux": {
             "root": "network-workgroup",
