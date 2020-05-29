@@ -7289,7 +7289,10 @@
     },
     "geonkick": {
         "linux": {
-            "root": "geonkick"
+            "root": "geonkick",
+            "symlinks": [
+                "org.freedesktop.LinuxAudio.Lv2Plugins.Geonkick"
+            ]
         }
     },
     "geppetto": {
