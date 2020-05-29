@@ -9324,7 +9324,10 @@
     },
     "helm": {
         "linux": {
-            "root": "helm"
+            "root": "helm",
+            "symlinks": [
+                "org.freedesktop.LinuxAudio.Lv2Plugins.Helm"
+            ]
         }
     },
     "help-browser": {
@@ -17281,6 +17284,7 @@
         "linux": {
             "root": "setbfree",
             "symlinks": [
+                "org.freedesktop.LinuxAudio.Lv2Plugins.setBfree",
                 "setBfree"
             ]
         }
