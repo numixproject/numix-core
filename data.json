@@ -879,6 +879,14 @@
             "root": "appgrid"
         }
     },
+    "appimagelauncher": {
+        "linux": {
+            "root": "appimagelauncher",
+            "symlinks": [
+                "AppImageLauncher"
+            ]
+        }
+    },
     "appimageupdater": {
         "linux": {
             "root": "appimageupdater",
