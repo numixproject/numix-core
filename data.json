@@ -18882,6 +18882,14 @@
             ]
         }
     },
+    "trinity-desktop": {
+        "linux": {
+            "root": "trinity-desktop",
+            "symlinks": [
+                "trinity-wallet"
+            ]
+        }
+    },
     "triplea": {
         "linux": {
             "root": "triplea"
