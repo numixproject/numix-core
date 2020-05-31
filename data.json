@@ -7893,6 +7893,15 @@
             ]
         }
     },
+    "gnome-genius": {
+        "linux": {
+            "root": "gnome-genius",
+            "symlinks": [
+                "com.github.subhadeepjasu.pebbles",
+                "org.gnome.Genius"
+            ]
+        }
+    },
     "gnome-glines": {
         "linux": {
             "root": "gnome-glines",
@@ -13105,10 +13114,7 @@
         "linux": {
             "root": "nasc",
             "symlinks": [
-                "com.github.parnold-x.nasc",
-                "com.github.subhadeepjasu.pebbles",
-                "gnome-genius",
-                "org.gnome.Genius"
+                "com.github.parnold-x.nasc"
             ]
         }
     },
