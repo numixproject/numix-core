@@ -7900,13 +7900,9 @@
             "symlinks": [
                 "atlas",
                 "chrome-lneaknkopdijkpnocmklfnjbeapigfbh-Default",
-                "de.openstreetmap.josm",
                 "emerillon",
-                "josm",
-                "josm-latest",
                 "maps",
                 "org.gnome.Maps",
-                "org.openstreetmap.josm",
                 "web-google-maps"
             ]
         }
@@ -10252,6 +10248,16 @@
     "joplin": {
         "linux": {
             "root": "joplin"
+        }
+    },
+    "josm": {
+        "linux": {
+            "root": "josm",
+            "symlinks": [
+                "de.openstreetmap.josm",
+                "josm-latest",
+                "org.openstreetmap.josm"
+            ]
         }
     },
     "jotasync": {
