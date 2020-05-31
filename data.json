@@ -1168,17 +1168,6 @@
             "root": "asbru-cm"
         }
     },
-    "asc-de": {
-        "linux": {
-            "root": "asc-de",
-            "symlinks": [
-                "com.onlyoffice.DesktopEditors",
-                "onlyoffice",
-                "onlyoffice-desktopeditors",
-                "org.onlyoffice.desktopeditors"
-            ]
-        }
-    },
     "ascii-design": {
         "linux": {
             "root": "ascii-design"
@@ -13798,6 +13787,17 @@
             "root": "onionshare",
             "symlinks": [
                 "onionshare80"
+            ]
+        }
+    },
+    "onlyoffice": {
+        "linux": {
+            "root": "onlyoffice",
+            "symlinks": [
+                "asc-de",
+                "com.onlyoffice.DesktopEditors"
+                "onlyoffice-desktopeditors",
+                "org.onlyoffice.desktopeditors"
             ]
         }
     },
