@@ -4322,6 +4322,16 @@
             ]
         }
     },
+    "desktop-environment-tde": {
+        "linux": {
+            "root": "desktop-environment-tde",
+            "symlinks": [
+                "go",
+                "kicker",
+                "tde"
+            ]
+        }
+    },
     "desktop-environment-unity": {
         "linux": {
             "root": "desktop-environment-unity"
