@@ -17462,6 +17462,7 @@
         "linux": {
             "root": "session-messenger",
             "symlinks": [
+                "network.loki.Session",
                 "session-messenger-desktop"
             ]
         }
