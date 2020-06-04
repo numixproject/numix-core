@@ -7348,13 +7348,17 @@
     },
     "geda-gattrib": {
         "linux": {
-            "root": "geda-gattrib"
+            "root": "geda-gattrib",
+            "symlinks": [
+                "lepton-attrib"
+            ]
         }
     },
     "geda-gschem": {
         "linux": {
             "root": "geda-gschem",
             "symlinks": [
+                "lepton-schematic",
                 "tkgate"
             ]
         }
