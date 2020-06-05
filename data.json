@@ -14953,7 +14953,10 @@
     },
     "preferences-web-browser-identification": {
         "linux": {
-            "root": "preferences-web-browser-identification"
+            "root": "preferences-web-browser-identification",
+            "symlinks": [
+                "agent"
+            ]
         }
     },
     "printer": {
