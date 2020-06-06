@@ -20429,6 +20429,16 @@
             "root": "veracrypt"
         }
     },
+    "verge": {
+        "linux": {
+            "root": "verge",
+            "symlinks": [
+                "org.vergecurrency.verge-qt",
+                "verge-qt",
+                "verge128"
+            ]
+        }
+    },
     "veromix": {
         "linux": {
             "root": "Veromix"
