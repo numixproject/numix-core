@@ -15047,9 +15047,9 @@
         }
     },
     "pico-8": {
-    	"linux": {
-    		"root": "pico-8"
-    	}
+        "linux": {
+            "root": "pico-8"
+        }
     },
     "picsaw": {
         "linux": {
@@ -22540,6 +22540,19 @@
     "ziggurat": {
         "linux": {
             "root": "steam_icon_308420"
+        }
+    },
+    "zoom": {
+        "android": [
+            "us.zoom.videomeetings/com.zipow.videobox.LauncherActivity"
+        ],
+        "linux": {
+            "root": "Zoom",
+            "symlinks": [
+                "us.zoom.Zoom",
+                "zoom-desktop",
+                "zoom-icon"
+            ]
         }
     },
     "zotero": {
