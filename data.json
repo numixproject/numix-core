@@ -5629,6 +5629,14 @@
             ]
         }
     },
+    "driftnet": {
+        "linux": {
+            "root": "driftnet",
+            "symlinks": [
+                "kali-driftnet"
+            ]
+        }
+    },
     "drill-search-gtk": {
         "linux": {
             "root": "drill-search-gtk"
