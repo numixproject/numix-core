@@ -171,6 +171,15 @@
             "root": "steam_icon_250420"
         }
     },
+    "911-operator": {
+        "android": [
+            "com.jutsugames.operator/com.unity3d.player.UnityPlayerActivity",
+            "com.jutsugames.operator911/com.unity3d.player.UnityPlayerActivity"
+        ],
+        "linux": {
+            "root": "steam_icon_503560"
+        }
+    },
     "a-story-about-my-uncle": {
         "linux": {
             "root": "steam_icon_278360"
