@@ -1064,6 +1064,7 @@
             "symlinks": [
                 "Ardour-Ardour_4.0.0",
                 "Ardour-Ardour_5.12.0",
+                "Ardour-Ardour_6.0.0",
                 "Ardour-icon_256px",
                 "ardour2",
                 "ardour3",
@@ -7362,13 +7363,17 @@
     },
     "geda-gattrib": {
         "linux": {
-            "root": "geda-gattrib"
+            "root": "geda-gattrib",
+            "symlinks": [
+                "lepton-attrib"
+            ]
         }
     },
     "geda-gschem": {
         "linux": {
             "root": "geda-gschem",
             "symlinks": [
+                "lepton-schematic",
                 "tkgate"
             ]
         }
@@ -17492,6 +17497,7 @@
         "linux": {
             "root": "session-messenger",
             "symlinks": [
+                "network.loki.Session",
                 "session-messenger-desktop"
             ]
         }
