@@ -18653,6 +18653,17 @@
             "root": "strawberry"
         }
     },
+    "stremio": {
+        "android": [
+            "com.stremio.one/com.stremio.MainActivity"
+        ],
+        "linux": {
+            "root": "stremio",
+            "symlinks": [
+                "smartcode-stremio"
+            ]
+        }
+    },
     "strife": {
         "linux": {
             "root": "strife",
