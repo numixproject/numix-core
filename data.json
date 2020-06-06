@@ -15725,6 +15725,11 @@
             ]
         }
     },
+    "preferences-plugin-script": {
+        "linux": {
+            "root": "preferences-plugin-script"
+        }
+    },
     "preferences-system": {
         "android": [
             "com.android.settings/com.android.settings.Settings"
