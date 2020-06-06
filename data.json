@@ -20,6 +20,11 @@
             "root": "steam_icon_242820"
         }
     },
+    "17track": {
+        "android": [
+            "yqtrack.app/yqtrack.app.ui.splash.SplashActivity"
+        ]
+    },
     "1weather": {
         "android": [
             "com.handmark.expressweather/com.handmark.expressweather.ui.activities.MainActivity"
@@ -630,17 +635,17 @@
                 "com.github.dahenson.agenda"
             ]
         }
-	},
-	"ai-dungeon":{
-		"android": [
-			"com.aidungeon/com.aidungeon.MainActivity"
-		],
-		"linux": {
-			"root": "ai-dungeon",
-			"symlinks": [
-				"web-ai-dungeon"
-			]
-		}
+    },
+    "ai-dungeon":{
+        "android": [
+            "com.aidungeon/com.aidungeon.MainActivity"
+        ],
+        "linux": {
+            "root": "ai-dungeon",
+            "symlinks": [
+                "web-ai-dungeon"
+            ]
+        }
     },
     "ailurus": {
         "linux": {
@@ -1853,11 +1858,11 @@
         "linux": {
             "root": "bitwig-studio"
         }
-	},
-	"black-mesa": {
-		"linux": {
-			"root": "steam_icon_362890"
-		}
+    },
+    "black-mesa": {
+        "linux": {
+            "root": "steam_icon_362890"
+        }
     },
     "blam": {
         "linux": {
@@ -4463,11 +4468,11 @@
         "linux": {
             "root": "decibel"
         }
-	},
-	"deemo": {
-		"android": [
-			"com.rayark.pluto/com.google.firebase.MessagingUnityPlayerActivity"
-		]
+    },
+    "deemo": {
+        "android": [
+            "com.rayark.pluto/com.google.firebase.MessagingUnityPlayerActivity"
+        ]
     },
     "deepin-clone": {
         "linux": {
@@ -4761,11 +4766,11 @@
         "linux": {
             "root": "disper"
         }
-	},
-	"distance-game": {
-		"linux": {
-			"root": "steam_icon_233610"
-		}
+    },
+    "distance-game": {
+        "linux": {
+          "root": "steam_icon_233610"
+        }
     },
     "distributor-logo-absolute": {
         "linux": {
@@ -6258,11 +6263,11 @@
                 "web-evernote"
             ]
         }
-	},
-	"eversion": {
-		"linux": {
-			"root": "steam_icon_33680"
-		}
+    },
+    "eversion": {
+        "linux": {
+            "root": "steam_icon_33680"
+        }
     },
     "evolution": {
         "linux": {
@@ -9449,12 +9454,12 @@
         }
     },
     "hakuneko-desktop": {
-    	"linux": {
-    		"root": "hakuneko-desktop",
-    		"symlinks": [
-    			"io.github.hakuneko.HakuNeko"
-    		]
-    	}
+        "linux": {
+            "root": "hakuneko-desktop",
+            "symlinks": [
+                "io.github.hakuneko.HakuNeko"
+            ]
+        }
     },
     "half-life-deathmatch-source": {
         "linux": {
@@ -12964,11 +12969,11 @@
         "linux": {
             "root": "monogame"
         }
-	},
-	"monster-prom": {
-		"linux": {
-			"root": "steam_icon_743450"
-		}
+    },
+    "monster-prom": {
+        "linux": {
+            "root": "steam_icon_743450"
+        }
     },
     "monster-rpg-2": {
         "linux": {
@@ -13656,11 +13661,11 @@
         "linux": {
             "root": "NoMachine-icon"
         }
-	},
-	"no-mans-sky": {
-		"linux": {
-			"root": "steam_icon_275850"
-		}
+    },
+    "no-mans-sky": {
+        "linux": {
+            "root": "steam_icon_275850"
+        }
     },
     "no-more-room-in-hell": {
         "linux": {
@@ -18584,11 +18589,11 @@
         "linux": {
             "root": "staruml"
         }
-	},
-	"star-wars-kotor2": {
-		"linux": {
-			"root": "steam_icon_208580"
-		}
+    },
+    "star-wars-kotor2": {
+        "linux": {
+            "root": "steam_icon_208580"
+        }
     },
     "starbound": {
         "linux": {
@@ -19103,11 +19108,11 @@
         "linux": {
             "root": "systemback"
         }
-	},
-	"tachiyomi": {
-		"android": [
-			"eu.kanade.tachiyomi/eu.kanade.tachiyomi.ui.main.MainActivity"
-		]
+    },
+    "tachiyomi": {
+        "android": [
+            "eu.kanade.tachiyomi/eu.kanade.tachiyomi.ui.main.MainActivity"
+        ]
     },
     "tagainijisho": {
         "linux": {
@@ -19384,11 +19389,11 @@
         "linux": {
             "root": "steam_icon_105600"
         }
-	},
-	"terratech": {
-		"linux": {
-			"root": "steam_icon_285920"
-		}
+    },
+    "terratech": {
+        "linux": {
+            "root": "steam_icon_285920"
+        }
     },
     "tesseract": {
         "linux": {
@@ -20277,11 +20282,11 @@
         "linux": {
             "root": "unsettings"
         }
-	},
-	"unturned": {
-		"linux": {
-			"root": "steam_icon_304930"
-		}
+    },
+    "unturned": {
+        "linux": {
+            "root": "steam_icon_304930"
+        }
     },
     "unvanquished": {
         "linux": {
