@@ -12017,6 +12017,16 @@
             "root": "lightzone"
         }
     },
+    "limbo": {
+        "android": [
+            "com.playdead.limbo.full/com.duapps.ad.DuAd",
+            "com.playdead.limbo.full/com.playdead.limbo.LimboActivity",
+            "com.playdead.limbo/com.playdead.limbo.LimboActivity"
+        ],
+        "linux": {
+            "root": "steam_icon_48000"
+        }
+    },
     "lime": {
         "linux": {
             "root": "lime",
