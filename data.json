@@ -620,6 +620,17 @@
                 "com.github.dahenson.agenda"
             ]
         }
+	},
+	"ai-dungeon":{
+		"android": [
+			"com.aidungeon/com.aidungeon.MainActivity"
+		],
+		"linux": {
+			"root": "ai-dungeon",
+			"symlinks": [
+				"web-ai-dungeon"
+			]
+		}
     },
     "ailurus": {
         "linux": {
