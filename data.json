@@ -3415,6 +3415,14 @@
             "root": "carla-control"
         }
     },
+    "castle-crashers": {
+        "linux": {
+            "root": "steam_icon_204360",
+            "symlinks": [
+                "steam_icon_207100"
+            ]
+        }
+    },
     "catarina": {
         "linux": {
             "root": "catarina"
@@ -3423,14 +3431,6 @@
     "catia": {
         "linux": {
             "root": "catia"
-        }
-    },
-    "castle-crashers": {
-        "linux": {
-            "root": "steam_icon_204360",
-            "symlinks": [
-                "steam_icon_207100"
-            ]
         }
     },
     "cave-story": {
