@@ -711,6 +711,15 @@
             "root": "albert"
         }
     },
+    "albion-online": {
+        "linux": {
+            "root": "albion-online",
+            "symlinks": [
+                "com.albiononline.AlbionOnline",
+                "steam_icon_761890"
+            ]
+        }
+    },
     "alchemy": {
         "linux": {
             "root": "alchemy"
