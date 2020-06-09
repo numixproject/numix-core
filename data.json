@@ -12379,6 +12379,7 @@
         "linux": {
             "root": "lsp-plugins",
             "symlinks": [
+                "org.freedesktop.LinuxAudio.LadspaPlugins.LSP",
                 "org.freedesktop.LinuxAudio.Lv2Plugins.LSP"
             ]
         }
@@ -16563,6 +16564,7 @@
                 "qrca",
                 "qtqr",
                 "quearcode",
+                "vn.hoabinh.quan.CoBang",
                 "vn.hoabinh.quan.cobang"
             ]
         }
