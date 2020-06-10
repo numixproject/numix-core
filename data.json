@@ -12589,7 +12589,10 @@
     },
     "marktext": {
         "linux": {
-            "root": "marktext"
+            "root": "marktext",
+            "symlinks": [
+                "com.github.marktext.marktext"
+            ]
         }
     },
     "marlin": {
