@@ -13784,7 +13784,11 @@
     },
     "nicotine-plus": {
         "linux": {
-            "root": "nicotine-plus"
+            "root": "nicotine-plus",
+            "symlinks": [
+                "nicotine_plus",
+                "org.nicotine_plus.Nicotine"
+            ]
         }
     },
     "nightingale": {
