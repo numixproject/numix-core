@@ -8881,6 +8881,7 @@
             "symlinks": [
                 "chrome-knipolnnllmklapflnccelgolnpehhpl-Default",
                 "chrome-nckgahadagoaajjgafhacjanaoiihapd-Default",
+                "google-hangouts-chat"
                 "web-google-hangouts"
             ]
         }
@@ -13243,7 +13244,10 @@
             "com.outlook.Z7/com.seven.Z7.app.email.EmailFront"
         ],
         "linux": {
-            "root": "ms-outlook"
+            "root": "ms-outlook",
+            "symlinks": [
+                "electron-outlook"
+            ]
         }
     },
     "ms-people": {
