@@ -20104,7 +20104,10 @@
     },
     "touchpad-indicator": {
         "linux": {
-            "root": "touchpad-indicator"
+            "root": "touchpad-indicator",
+            "symlinks": [
+                "preferences-desktop-touchpad"
+            ]
         }
     },
     "towerfall-ascension": {
