@@ -14658,6 +14658,14 @@
             "root": "orion"
         }
     },
+    "osmscout-server": {
+        "linux": {
+            "root": "osmscout-server",
+            "symlinks": [
+                "harbour-osmscout-server"
+            ]
+        }
+    },
     "ossia-score": {
         "linux": {
             "root": "ossia-score"
