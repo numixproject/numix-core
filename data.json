@@ -8850,8 +8850,6 @@
                 "google-earth-pro",
                 "googleearth",
                 "googleearth-icon",
-                "marble",
-                "org.kde.marble"
             ]
         }
     },
@@ -12554,6 +12552,14 @@
     "manta": {
         "linux": {
             "root": "manta"
+        }
+    },
+    "marble": {
+        "linux": {
+            "root": "marble",
+            "symlinks": [
+                "org.kde.marble"
+            ]
         }
     },
     "mark-of-the-ninja": {
