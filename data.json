@@ -834,6 +834,7 @@
                 "Amazon-www.amazon.es",
                 "Amazon-www.amazon.fr",
                 "Amazon-www.amazon.it",
+                "com.amazon.Workspaces",
                 "web-amazon"
             ]
         }
@@ -12910,6 +12911,8 @@
             "root": "minecraft",
             "symlinks": [
                 "com.mojang.Minecraft",
+                "io.mrarm.mcpelauncher-ui",
+                "mcpelauncher-ui",
                 "mcpelauncher-ui-qt",
                 "minecraft-launcher",
                 "minecraft-pi",
