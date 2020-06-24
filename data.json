@@ -3604,6 +3604,7 @@
         "linux": {
             "root": "cog",
             "symlinks": [
+                "2402_msiexec.0",
                 "aptanastudio",
                 "do",
                 "edit-urpm-sources",
@@ -14908,7 +14909,10 @@
     },
     "preferences-system-search": {
         "linux": {
-            "root": "preferences-system-search"
+            "root": "preferences-system-search",
+            "symlinks": [
+                "5961_Defunct_x86.0"
+            ]
         }
     },
     "preferences-system-sharing": {
@@ -19895,6 +19899,7 @@
         "linux": {
             "root": "web-browser",
             "symlinks": [
+                "7596_iexplore.0",
                 "browser",
                 "dillo",
                 "epiphany",
@@ -20622,6 +20627,7 @@
             "root": "wine",
             "symlinks": [
                 "1CD8_rundll32.0",
+                "7765_winebrowser.0",
                 "bottles_wine"
             ]
         }
