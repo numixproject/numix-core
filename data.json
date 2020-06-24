@@ -19850,6 +19850,15 @@
             ]
         }
     },
+    "web-8tracks": {
+        "linux: {
+            "root": "web-8tracks",
+            "symlinks": [
+                "8tracks",
+                "eu.tiliado.NuvolaApp8tracks",
+                "nuvolaplayer3_8tracks"
+            ]
+    },
     "web-9gag": {
         "android": [
             "com.ninegag.android.app/com.ninegag.android.app.MainActivity",
