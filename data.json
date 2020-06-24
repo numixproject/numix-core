@@ -5113,7 +5113,10 @@
         "linux": {
             "root": "docear",
             "symlinks": [
-                "applications-office"
+                "2EF4_wordpad.0",
+                "97C1_wordpad.0",
+                "applications-office",
+                "wordpad"
             ]
         }
     },
@@ -7712,7 +7715,8 @@
                 "kmines",
                 "org.gnome.Mines",
                 "org.kde.kmines",
-                "sgt-mines"
+                "sgt-mines",
+                "winemine"
             ]
         }
     },
@@ -9121,6 +9125,8 @@
                 "stock_help-agent",
                 "susehelpcenter",
                 "system-help",
+                "wine-help",
+                "winhelp",
                 "xchm",
                 "xfce-man",
                 "xfce_unknown"
@@ -18445,6 +18451,7 @@
                 "logjam",
                 "mousepad",
                 "notecase",
+                "notepad",
                 "notepad-48",
                 "org.gnome.gedit",
                 "org.kde.blogilo",
@@ -20614,6 +20621,7 @@
         "linux": {
             "root": "wine",
             "symlinks": [
+                "1CD8_rundll32.0",
                 "bottles_wine"
             ]
         }
