@@ -92,6 +92,14 @@
             "root": "aarddict"
         }
     },
+    "abbaye": {
+        "linux": {
+            "root": "abbaye",
+            "symlinks": [
+                "com.locomalito.abbayedesmorts"
+            ]
+        }
+    },
     "abgx360gui": {
         "linux": {
             "root": "abgx360gui"
