@@ -1,0 +1,17 @@
+<svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="bg" x2="0" y1="1" y2="47" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#1a2560" offset="0"/>
+   <stop style="stop-color:#161f50" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4zm0 0.5v0.5c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.5c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.02"/>
+ <path d="m1 43.25v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.05"/>
+ <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
+ <rect x="1" y="1" width="46" height="46" rx="4" style="fill:url(#bg)"/>
+ <path d="m1 39v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
+ <path d="m24 12-6.1855 14.846-5.8145-4.8457 2 14 10-4 10 4 2-14-5.8145 4.8457z" style="opacity:.1;paint-order:stroke fill markers"/>
+ <path d="m14 35 10-24 10 24-10-4z" style="fill:#3aee00;paint-order:stroke fill markers"/>
+ <path d="m12 21 2 14 10-4zm12 10 10 4 2-14z" style="fill:#008bee;paint-order:stroke fill markers"/>
+ <path d="m17.814 25.846-3.8145 9.1543 10-4zm6.1855 5.1543 10 4-3.8145-9.1543z" style="fill:#00cf8c;paint-order:stroke fill markers"/>
+</svg>
