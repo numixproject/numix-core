@@ -653,7 +653,7 @@
             ]
         }
     },
-    "ai-dungeon":{
+    "ai-dungeon": {
         "android": [
             "com.aidungeon/com.aidungeon.MainActivity"
         ],
@@ -4896,7 +4896,7 @@
     },
     "distance-game": {
         "linux": {
-          "root": "steam_icon_233610"
+            "root": "steam_icon_233610"
         }
     },
     "distributor-logo-absolute": {
@@ -10483,8 +10483,7 @@
             "root": "iqpuzzle"
         }
     },
-    "irccloud":
-    {
+    "irccloud": {
         "linux": {
             "root": "irccloud",
             "symlinks": [
@@ -13291,7 +13290,7 @@
         }
     },
     "ms-outlook": {
-        "android" : [
+        "android": [
             "com.outlook.Z7/com.seven.Z7.app.email.EmailFront"
         ],
         "linux": {
@@ -13960,7 +13959,7 @@
             ]
         }
     },
-        "nostalgia": {
+    "nostalgia": {
         "linux": {
             "root": "nostalgia",
             "symlinks": [
@@ -14466,7 +14465,7 @@
             "symlinks": [
                 "openbazaar2",
                 "openbazaar2client"
-]
+            ]
         }
     },
     "openboard": {
@@ -18116,6 +18115,11 @@
             ]
         }
     },
+    "shapez-io": {
+        "linux": {
+            "root": "steam_icon_1318690"
+        }
+    },
     "shares": {
         "linux": {
             "root": "shares",
@@ -19649,7 +19653,7 @@
     "terminal": {
         "android": [
             "com.bluepremium.privilege.terminal/com.bluepremium.privilege.terminal.Term"
-         ],
+        ],
         "linux": {
             "root": "terminal",
             "symlinks": [
