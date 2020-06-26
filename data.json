@@ -295,7 +295,10 @@
     },
     "acestreamplayer": {
         "linux": {
-            "root": "acestreamplayer"
+            "root": "acestreamplayer",
+            "symlinks": [
+                "acestream"
+            ]
         }
     },
     "acetoneiso": {
