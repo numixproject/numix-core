@@ -18762,7 +18762,10 @@
     },
     "springlobby": {
         "linux": {
-            "root": "springlobby"
+            "root": "springlobby",
+            "symlinks": [
+                "com.springrts.SpringLobby"
+            ]
         }
     },
     "springseed": {
