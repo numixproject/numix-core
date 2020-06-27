@@ -907,9 +907,6 @@
         "linux": {
             "root": "application-x-yarock",
             "symlinks": [
-                "freetube",
-                "FreeTube",
-                "io.freetubeapp.FreeTube",
                 "yarock"
             ]
         }
@@ -6749,6 +6746,16 @@
     "freeplane": {
         "linux": {
             "root": "freeplane"
+        }
+    },
+    "freetube": {
+        "linux": {
+            "root": "freetube",
+            "symlinks": [
+                "FreeTube",
+                "freetube-bin",
+                "io.freetubeapp.FreeTube"
+            ]
         }
     },
     "frescobaldi": {
