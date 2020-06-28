@@ -14882,6 +14882,14 @@
             ]
         }
     },
+    "opensnitch": {
+        "linux": {
+            "root": "opensnitch",
+            "symlinks": [
+                "opensnitch-ui"
+            ]
+        }
+    },
     "opensong": {
         "linux": {
             "root": "opensong"
