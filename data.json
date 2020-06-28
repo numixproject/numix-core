@@ -14790,6 +14790,8 @@
         "linux": {
             "root": "preferences-desktop-notification",
             "symlinks": [
+                "linconnect",
+                "linconnect-server",
                 "preferences-desktop-notification-bell",
                 "preferences-desktop-notifications"
             ]
