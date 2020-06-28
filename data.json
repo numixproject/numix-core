@@ -10874,6 +10874,14 @@
             "root": "jotasync"
         }
     },
+    "journable": {
+        "linux": {
+            "root": "journable",
+            "symlinks": [
+                "net.daase.journable"
+            ]
+        }
+    },
     "jrommanager": {
         "linux": {
             "root": "jrommanager",
