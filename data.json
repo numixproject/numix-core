@@ -10576,7 +10576,17 @@
         "linux": {
             "root": "insomnia",
             "symlinks": [
-                "rest.getinsomnia.Insomnia"
+                "rest.getinsomnia.Insomnia",
+                "rest.insomnia.Insomnia"
+            ]
+        }
+    },
+    "insomnia-designer": {
+        "linux": {
+            "root": "insomnia-designer",
+            "symlinks": [
+                "rest.getinsomnia.Designer",
+                "rest.insomnia.Designer"
             ]
         }
     },
