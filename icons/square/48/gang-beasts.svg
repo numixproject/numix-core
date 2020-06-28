@@ -1,0 +1,19 @@
+<svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="bg" x2="0" y1="1" y2="47" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#ffca06" offset="0"/>
+   <stop style="stop-color:#f0bd00" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4zm0 0.5v0.5c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.5c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.02"/>
+ <path d="m1 43.25v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.05"/>
+ <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
+ <rect x="1" y="1" width="46" height="46" rx="4" style="fill:url(#bg)"/>
+ <path d="m1 39v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
+ <path d="m24 12a5 5 0 0 0-5 5 5 5 0 0 0 0.20703 1.4141c-1.3077 0.33287-1.9165 0.85958-2.207 1.5859-2 5-2 5-2 8 0 0.74536 0 1 2 1 0-1 2-5 2-5s-1 3-1 5c0 3 1 3 1 4 0 1.0541 1 3 1 3h2s1 0 2-3c1 3 2 3 2 3h2s1-1.9459 1-3c0-1 1-1 1-4 0-1.6997-1-5-1-5s2 4 2 5c2 0 2-0.25464 2-1 0-3 0-3-2-8-0.29054-0.72636-0.89934-1.2531-2.207-1.5859a5 5 0 0 0 0.20703-1.4141 5 5 0 0 0-5-5z" style="opacity:.1"/>
+ <path d="m24 17c-5 0-6.4748 0.68694-7 2-2 5-2 5-2 8 0 0.74536 0 1 2 1 0-1 2-5 2-5s-1 3-1 5c0 3 1 3 1 4 0 1.0541 1 3 1 3h2s1 0 2-3c1 3 2 3 2 3h2s1-1.9459 1-3c0-1 1-1 1-4 0-1.6997-1-5-1-5s2 4 2 5c2 0 2-0.25464 2-1 0-3 0-3-2-8-0.52523-1.3131-2-2-7-2z" style="fill:#e52626"/>
+ <path d="m24 17c-2.3597 0-3.9145 0.15937-4.9746 0.45898a5 5 0 0 0 4.9746 4.541 5 5 0 0 0 4.9766-4.541c-1.0601-0.29993-2.6156-0.45898-4.9766-0.45898z" style="opacity:.1;paint-order:stroke fill markers"/>
+ <circle cx="24" cy="16" r="5" style="fill:#ea5050;paint-order:stroke fill markers"/>
+ <circle cx="21.5" cy="16.5" r="1.5" style="fill:#f9f9f9;paint-order:stroke fill markers"/>
+ <circle cx="26.5" cy="16.5" r="1.5" style="fill:#f9f9f9;paint-order:stroke fill markers"/>
+</svg>
