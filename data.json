@@ -6234,6 +6234,14 @@
             ]
         }
     },
+    "electrum-dash": {
+        "linux": {
+            "root": "electrum-dash",
+            "symlinks": [
+                "org.dash.electrum.electrum_dash"
+            ]
+        }
+    },
     "electrum-ltc": {
         "linux": {
             "root": "electrum-ltc"
