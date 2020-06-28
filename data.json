@@ -10793,6 +10793,17 @@
             "root": "jedit"
         }
     },
+    "jellyfin": {
+        "linux": {
+            "root": "jellyfin",
+            "symlinks": [
+                "com.github.iwalton3.jellyfin-mpv-shim",
+                "jellyfin-mpv-shim",
+                "jellyfin-theater",
+                "jellyfin-theatre"
+            ]
+        }
+    },
     "jenny-leclue-detectivu": {
         "linux": {
             "root": "steam_icon_319870"
