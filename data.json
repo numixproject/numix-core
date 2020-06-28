@@ -16217,6 +16217,14 @@
             "root": "preferences-web-browser-cookies"
         }
     },
+    "preferences-web-browser-identification": {
+        "linux": {
+            "root": "preferences-web-browser-identification",
+            "symlinks": [
+                "agent"
+            ]
+        }
+    },
     "printer": {
         "linux": {
             "root": "printer",
