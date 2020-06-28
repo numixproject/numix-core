@@ -20379,6 +20379,14 @@
             ]
         }
     },
+    "web-vivino": {
+        "android": [
+            "vivino.web.app/com.sphinx_solution.Launcher"
+        ],
+        "linux": {
+            "web-vivino"
+        }
+    },
     "web-vk": {
         "linux": {
             "root": "web-vk",
