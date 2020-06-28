@@ -2089,6 +2089,13 @@
             ]
         }
     },
+    "busybox": {
+        "android": [
+            "stericson.busybox/stericson.busybox.Activity.MainActivity",
+            "stericson.busybox.donate/stericson.busybox.donate.activities.MainActivity",
+            "stericson.busybox.donate/stericson.busybox.donate.Activity.MainActivity"
+        ]
+    },
     "butt": {
         "linux": {
             "root": "butt"
