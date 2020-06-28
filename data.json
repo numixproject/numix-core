@@ -232,7 +232,10 @@
     },
     "abricotine": {
         "linux": {
-            "root": "abricotine"
+            "root": "abricotine",
+            "symlinks": [
+                "Abricotine"
+            ]
         }
     },
     "abrowser": {
@@ -431,7 +434,10 @@
     },
     "acestreamplayer": {
         "linux": {
-            "root": "acestreamplayer"
+            "root": "acestreamplayer",
+            "symlinks": [
+                "acestream"
+            ]
         }
     },
     "acetoneiso": {
@@ -1781,6 +1787,7 @@
         "linux": {
             "root": "basket",
             "symlinks": [
+                "accessories-notes",
                 "bijiben",
                 "chrome-mijlebbfndhelmdpmllgcfadlkankhok-Default",
                 "gnome-note",
@@ -3135,6 +3142,7 @@
                 "calendar-red-31",
                 "calindori",
                 "com.deepin.Calendar",
+                "coypu",
                 "date",
                 "dates",
                 "dayfolder",
@@ -3999,6 +4007,7 @@
         "linux": {
             "root": "cog",
             "symlinks": [
+                "2402_msiexec.0",
                 "aptanastudio",
                 "do",
                 "edit-urpm-sources",
@@ -4741,6 +4750,7 @@
         "linux": {
             "root": "desktop-environment-kde",
             "symlinks": [
+                "about_kde",
                 "kde",
                 "kde-frameworks",
                 "kde-logo",
@@ -5618,7 +5628,10 @@
         "linux": {
             "root": "docear",
             "symlinks": [
-                "applications-office"
+                "2EF4_wordpad.0",
+                "97C1_wordpad.0",
+                "applications-office",
+                "wordpad"
             ]
         }
     },
@@ -8389,7 +8402,8 @@
                 "kmines",
                 "org.gnome.Mines",
                 "org.kde.kmines",
-                "sgt-mines"
+                "sgt-mines",
+                "winemine"
             ]
         }
     },
@@ -9874,6 +9888,7 @@
             "root": "help-browser",
             "symlinks": [
                 "4137_winhlp32.0",
+                "A35F_hh.0",
                 "browser-help",
                 "debian-reference",
                 "deepin-manual",
@@ -9885,6 +9900,8 @@
                 "stock_help-agent",
                 "susehelpcenter",
                 "system-help",
+                "wine-help",
+                "winhelp",
                 "xchm",
                 "xfce-man",
                 "xfce_unknown"
@@ -9947,7 +9964,10 @@
     },
     "hipchat": {
         "linux": {
-            "root": "hipchat"
+            "root": "hipchat",
+            "symlinks": [
+                "hipchat4"
+            ]
         }
     },
     "hipchat-attention": {
@@ -11593,6 +11613,7 @@
         "linux": {
             "root": "kpat",
             "symlinks": [
+                "ace",
                 "aisleriot",
                 "gnome-hearts",
                 "kpatience",
@@ -15919,6 +15940,8 @@
         "linux": {
             "root": "preferences-desktop-notification",
             "symlinks": [
+                "linconnect",
+                "linconnect-server",
                 "preferences-desktop-notification-bell",
                 "preferences-desktop-notifications"
             ]
@@ -16060,7 +16083,10 @@
     },
     "preferences-system-search": {
         "linux": {
-            "root": "preferences-system-search"
+            "root": "preferences-system-search",
+            "symlinks": [
+                "5961_Defunct_x86.0"
+            ]
         }
     },
     "preferences-system-sharing": {
@@ -16077,6 +16103,7 @@
         "linux": {
             "root": "preferences-system-time",
             "symlinks": [
+                "accessories-clock",
                 "blueclock",
                 "blueclock32",
                 "clock",
@@ -19857,6 +19884,7 @@
                 "logjam",
                 "mousepad",
                 "notecase",
+                "notepad",
                 "notepad-48",
                 "org.gnome.gedit",
                 "org.gnome.TextEditor",
@@ -21441,6 +21469,7 @@
         "linux": {
             "root": "web-browser",
             "symlinks": [
+                "7596_iexplore.0",
                 "browser",
                 "dillo",
                 "epiphany",
@@ -22220,6 +22249,8 @@
         "linux": {
             "root": "wine",
             "symlinks": [
+                "1CD8_rundll32.0",
+                "7765_winebrowser.0",
                 "bottles_wine"
             ]
         }
