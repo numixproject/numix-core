@@ -12921,19 +12921,19 @@
             ]
         }
     },
-    "maui-station": {
-        "linux": {
-            "root": "maui-station",
-            "symlinks": [
-                "org.kde.station"
-            ]
-        }
-    },
     "maui-nota": {
         "linux": {
             "root": "maui-nota",
             "symlinks": [
                 "org.kde.nota"
+            ]
+        }
+    },
+    "maui-station": {
+        "linux": {
+            "root": "maui-station",
+            "symlinks": [
+                "org.kde.station"
             ]
         }
     },
