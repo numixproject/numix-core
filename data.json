@@ -7,12 +7,84 @@
             ]
         }
     },
+    "100-orange-juice": {
+        "linux": {
+            "root": "steam_icon_282800",
+            "symlinks": [
+                "steam_icon_304440"
+            ]
+        }
+    },
     "140-game": {
         "linux": {
             "root": "steam_icon_242820"
         }
     },
+    "17track": {
+        "android": [
+            "yqtrack.app/yqtrack.app.ui.splash.SplashActivity"
+        ]
+    },
+    "1weather": {
+        "android": [
+            "com.handmark.expressweather/com.handmark.expressweather.ui.activities.MainActivity"
+        ]
+    },
     "2048": {
+        "android": [
+            "apps.r.twothousandfortyeight/apps.r.twothousandfortyeight.SplashScreen",
+            "apps.r.twothousandfortyeight/com.unity3d.player.UnityPlayerActivity",
+            "by.game.binumbers/by.game.binumbers.activities.SplashScreenActivity",
+            "com.actiplay.asn.g2048/com.actiplay.asn.g2048.MainActivity",
+            "com.alexblackapps.game2048/com.alexblackapps.game2048.Game",
+            "com.alexblackapps.game2048/com.alexblackapps.game2048.MainActivity",
+            "com.alexjlockwood.twentyfortyeight/com.alexjlockwood.twentyfortyeight.MainActivity",
+            "com.androbaby.game2048/com.androbaby.game2048.MainActivity",
+            "com.androbaby.original2048/com.androbaby.original2048.MainActivity",
+            "com.androbros.puzzle2048eng/com.androbros.puzzle2048eng.MainActivity",
+            "com.androbros.puzzle2048ultimate/com.androbros.puzzle2048ultimate.MainActivity",
+            "com.anom.puzzle2048/com.anom.puzzle2048.SplashActivity",
+            "com.ansangha.dr2048/com.ansangha.dr2048.GameActivity",
+            "com.bolong.super2048/com.bolong.super2048.JavaMainActivity",
+            "com.digiplex.game/com.digiplex.game.MainActivity",
+            "com.digiplex.game2048/com.digiplex.game2048.MainActivity",
+            "com.dt.game2048/com.dt.game2048.MainActivity",
+            "com.dupuz.game2048.yellow/com.dupuz.game2048.yellow.StartAct",
+            "com.e2048.fungame/com.d2048.mobidev.MainActivity",
+            "com.e3games.plus2048/com.e3games.plus2048.MainActivity",
+            "com.entwicklerx.m2048/com.entwicklerx.m2048.Dots2048",
+            "com.estoty.game2048/com.estoty.game2048.AppActivity",
+            "com.estoty.game2048/com.estoty.game2048.game2048",
+            "com.estoty.game2048/com.estoty.game2048.HelloWorld",
+            "com.fastsoft.game2048w/com.fastsoft.game2048w.Game2048",
+            "com.freegames.twozerofoureight2048.classic/com.tpcstld.twozerogame.MainActivity",
+            "com.funlab.puzzle2048/com.funlab.puzzle2048.MainActivity",
+            "com.funlab.super2048/com.funlab.super2048.MainActivity",
+            "com.gabrielecirulli.app2048/com.gabrielecirulli.app2048.app2048",
+            "com.gabrielecirulli.app2048/com.gabrielecirulli.app2048.MainActivity",
+            "com.game.ivza/com.game.ivza.MainActivity",
+            "com.hyperdimsoft.extreme2048/com.hyperdimsoft.extreme2048.MainActivity",
+            "com.ketchapp.play2048/com.unity3d.player.UnityPlayerActivity",
+            "com.killingtimemachine.game2048Fibonacci/com.killingtimemachine.game2048Fibonacci.Game2048",
+            "com.meltingrocks.kivy2048/org.renpy.android.PythonActivity",
+            "com.mihir.fib/com.mihir.fib.MainActivity",
+            "com.mijori.game2048/com.mijori.game2048.MainActivity",
+            "com.s2apps.game2048/com.s2apps.game2048.MainActivity",
+            "com.s2apps.game2048/com.s2apps.game2048.SplashScreen",
+            "com.scn.twok48/com.scn.twok48.MenuActivity",
+            "com.spring.bird.game2048plus/com.spring.bird.game2048plus.MainActivity",
+            "com.tpcstld.twozerogame/com.tpcstld.twozerogame.MainActivity",
+            "com.uberspot.a2048/com.uberspot.a2048.MainActivity",
+            "com.v5d2048.mobidev/com.d2048.mobidev.MainActivity",
+            "com.yotadevices.yotaphone2.game2048/com.yotadevices.yotaphone2.game2048.MainActivity",
+            "fun2048.fungame.win/com.d2048.mobidev.MainActivity",
+            "game2048.b2048game.twozerofoureight2048.game/game2048.b2048game.twozerofoureight2048.game.MainActivity",
+            "game2048.b2048game.twozerofoureight2048.game/game2048.b2048game.twozerofoureight2048.game.SplashActivity",
+            "game2048.c2048game.twentyfortyeight.twozerofoureight2048.game/game2048.c2048game.twentyfortyeight.twozerofoureight2048.game.C2048Game",
+            "in.net.shreyas.game2048/in.net.shreyas.game2048.Start",
+            "it.zerocool.game2048/it.zerocool.game2048.MainActivity",
+            "org.mania2048/org.mania2048.NumberPuzzle"
+        ],
         "linux": {
             "root": "2048",
             "symlinks": [
@@ -26,9 +98,31 @@
             ]
         }
     },
+    "2064-read-only-memories": {
+        "linux": {
+            "root": "steam_icon_330820"
+        }
+    },
+    "23andme": {
+        "android": [
+            "com.twentythreeandme.app/com.twentythreeandme.app.start.StartActivity"
+        ]
+    },
     "2gis": {
+        "android": [
+            "ru.dublgis.dgismobile/ru.dublgis.dgismobile.GrymMobileActivity"
+        ],
         "linux": {
             "root": "2gis"
+        }
+    },
+    "3d-coat": {
+        "linux": {
+            "root": "3D-Coat",
+            "symlinks": [
+                "steam_icon_100980",
+                "steam_icon_221450"
+            ]
         }
     },
     "4diac-ide": {
@@ -82,14 +176,44 @@
             "root": "steam_icon_250420"
         }
     },
+    "911-operator": {
+        "android": [
+            "com.jutsugames.operator/com.unity3d.player.UnityPlayerActivity",
+            "com.jutsugames.operator911/com.unity3d.player.UnityPlayerActivity"
+        ],
+        "linux": {
+            "root": "steam_icon_503560"
+        }
+    },
+    "a-boy-and-his-blob": {
+        "linux": {
+            "root": "steam_icon_281200"
+        }
+    },
+    "a-gummys-life": {
+        "linux": {
+            "root": "steam_icon_585190"
+        }
+    },
     "a-story-about-my-uncle": {
         "linux": {
             "root": "steam_icon_278360"
         }
     },
     "aarddict": {
+        "android": [
+            "aarddict.android/aarddict.android.LookupActivity"
+        ],
         "linux": {
             "root": "aarddict"
+        }
+    },
+    "abbaye": {
+        "linux": {
+            "root": "abbaye",
+            "symlinks": [
+                "com.locomalito.abbayedesmorts"
+            ]
         }
     },
     "abgx360gui": {
@@ -108,7 +232,10 @@
     },
     "abricotine": {
         "linux": {
-            "root": "abricotine"
+            "root": "abricotine",
+            "symlinks": [
+                "Abricotine"
+            ]
         }
     },
     "abrowser": {
@@ -141,6 +268,9 @@
         }
     },
     "accessories-camera": {
+        "android": [
+            "com.motorola.camera/com.motorola.camera.Camera"
+        ],
         "linux": {
             "root": "accessories-camera",
             "symlinks": [
@@ -150,7 +280,9 @@
                 "camera-photo",
                 "camorama",
                 "gtkam",
+                "io.elementary.camera",
                 "kamoso",
+                "org.kde.kamoso",
                 "qvidcap"
             ]
         }
@@ -187,6 +319,11 @@
             ]
         }
     },
+    "accessories-ebook-reader": {
+        "linux": {
+            "root": "accessories-ebook-reader"
+        }
+    },
     "accessories-image-viewer": {
         "android": [
             "com.sec.android.gallery3d/com.sec.android.gallery3d.app.GalleryOpaqueActivity"
@@ -201,6 +338,7 @@
                 "imagination",
                 "lximage",
                 "lximage-qt",
+                "org.geeqie.Geeqie",
                 "org.kde.showfoto",
                 "showfoto"
             ]
@@ -212,6 +350,7 @@
             "symlinks": [
                 "converseen",
                 "convertall",
+                "convertall-icon",
                 "fjt",
                 "mirovideoconverter",
                 "soundconverter-logo"
@@ -243,11 +382,13 @@
                 "gnome-panel-screenshot",
                 "gnome-screenshot",
                 "gscreenshot",
+                "io.elementary.screenshot-tool",
                 "kscreenshot",
                 "ksnapshot",
                 "ksnip",
                 "org.deepin.flatdeb.deepin-screenshot",
                 "org.gnome.Screenshot",
+                "org.kde.spectacle",
                 "screengrab",
                 "screenie",
                 "screenie-qt",
@@ -257,6 +398,9 @@
         }
     },
     "accessories-system-cleaner": {
+        "android": [
+            "com.cleanmaster.mguard/com.keniu.security.main.MainActivity"
+        ],
         "linux": {
             "root": "accessories-system-cleaner",
             "symlinks": [
@@ -290,7 +434,10 @@
     },
     "acestreamplayer": {
         "linux": {
-            "root": "acestreamplayer"
+            "root": "acestreamplayer",
+            "symlinks": [
+                "acestream"
+            ]
         }
     },
     "acetoneiso": {
@@ -338,17 +485,24 @@
         }
     },
     "ad-venture-capitalist": {
+        "android": [
+            "com.kongregate.mobile.adventurecapitalist.google/com.unity3d.player.UnityPlayerActivity"
+        ],
         "linux": {
             "root": "steam_icon_346900"
         }
     },
     "adblock": {
         "linux": {
-            "root": "chrome-gighmmpiobklfepjocnamgkkbiglidom-Default"
+            "root": "chrome-gighmmpiobklfepjocnamgkkbiglidom-Default",
+            "symlinks": [
+                "preferences-web-browser-adblock"
+            ]
         }
     },
     "addressbook": {
         "android": [
+            "com.android.contacts/com.android.contacts.activities.PeopleActivity",
             "com.samsung.android.contacts/com.android.contacts.activities.PeopleActivity"
         ],
         "linux": {
@@ -391,6 +545,11 @@
             ]
         }
     },
+    "adobe-animate": {
+        "linux": {
+            "root": "AdobeAnimate"
+        }
+    },
     "adobe-audition": {
         "linux": {
             "root": "AdobeAudition"
@@ -401,9 +560,19 @@
             "root": "AdobeBridge"
         }
     },
+    "adobe-character-animator": {
+        "linux": {
+            "root": "AdobeCharacterAnimator"
+        }
+    },
     "adobe-dreamweaver": {
         "linux": {
             "root": "AdobeDreamweaver"
+        }
+    },
+    "adobe-edge-animate": {
+        "linux": {
+            "root": "AdobeEdgeAnimate"
         }
     },
     "adobe-encore": {
@@ -486,6 +655,14 @@
             ]
         }
     },
+    "adventures-of-shuggy": {
+        "linux": {
+            "root": "steam_icon_211400",
+            "symlinks": [
+                "steam_icon_214810"
+            ]
+        }
+    },
     "aegisub": {
         "linux": {
             "root": "aegisub",
@@ -520,12 +697,29 @@
             ]
         }
     },
+    "ai-dungeon": {
+        "android": [
+            "com.aidungeon/com.aidungeon.MainActivity"
+        ],
+        "linux": {
+            "root": "ai-dungeon",
+            "symlinks": [
+                "web-ai-dungeon"
+            ]
+        }
+    },
     "ailurus": {
         "linux": {
             "root": "ailurus"
         }
     },
     "airdroid": {
+        "android": [
+            "com.sand.airdroid/com.sand.airdroid.mobi.vserv.android.appwrapper.VservAdManager",
+            "com.sand.airdroid/com.sand.airdroid.Splash",
+            "com.sand.airdroid/com.sand.airdroid.SplashActivity_",
+            "com.sand.airdroid/com.sand.airdroid.ui.splash.SplashActivity_"
+        ],
         "linux": {
             "root": "chrome-hkgndiocipalkpejnpafdbdlfdjihomd-Default"
         }
@@ -556,13 +750,23 @@
         "linux": {
             "root": "alacritty",
             "symlinks": [
-                "Alacritty"
+                "Alacritty",
+                "com.alacritty.Alacritty"
             ]
         }
     },
     "albert": {
         "linux": {
             "root": "albert"
+        }
+    },
+    "albion-online": {
+        "linux": {
+            "root": "albion-online",
+            "symlinks": [
+                "com.albiononline.AlbionOnline",
+                "steam_icon_761890"
+            ]
         }
     },
     "alchemy": {
@@ -588,6 +792,11 @@
             ]
         }
     },
+    "alien-isolation": {
+        "linux": {
+            "root": "steam_icon_214490"
+        }
+    },
     "alienarena": {
         "linux": {
             "root": "alienarena",
@@ -603,7 +812,10 @@
     },
     "almanah": {
         "linux": {
-            "root": "almanah"
+            "root": "almanah",
+            "symlinks": [
+                "org.gnome.almanah"
+            ]
         }
     },
     "almond": {
@@ -619,6 +831,19 @@
             "root": "alphaplot",
             "symlinks": [
                 "AlphaPlot"
+            ]
+        }
+    },
+    "altair": {
+        "linux": {
+            "root": "altair"
+        }
+    },
+    "altitude": {
+        "linux": {
+            "root": "Altitude",
+            "symlinks": [
+                "steam_icon_41300"
             ]
         }
     },
@@ -652,7 +877,8 @@
     },
     "amazon-store": {
         "android": [
-            "com.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity"
+            "com.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity",
+            "com.amazon.windowshop/com.amazon.windowshop.home.HomeLauncherActivity"
         ],
         "linux": {
             "root": "amazon-store",
@@ -670,6 +896,9 @@
         }
     },
     "amazonmp3": {
+        "android": [
+            "com.demiroot.amazonfresh/com.demiroot.amazonfresh.activities.GatewayMenuActivity"
+        ],
         "linux": {
             "root": "amazonmp3",
             "symlinks": [
@@ -678,11 +907,24 @@
         }
     },
     "amd": {
+        "android": [
+            "com.amd.link/com.amd.link.view.activities.MainActivity",
+            "com.amd.link/com.amd.link.view.activities.SplashActivity"
+        ],
         "linux": {
             "root": "amd",
             "symlinks": [
                 "amd-ati",
+                "amd-ddm-mx",
                 "ati"
+            ]
+        }
+    },
+    "american-truck-simulator": {
+        "linux": {
+            "root": "steam_icon_270880",
+            "symlinks": [
+                "steam_icon_441960"
             ]
         }
     },
@@ -697,6 +939,14 @@
             "symlinks": [
                 "steam_icon_57300",
                 "steam_icon_57310"
+            ]
+        }
+    },
+    "among-the-sleep": {
+        "linux": {
+            "root": "steam_icon_250620",
+            "symlinks": [
+                "steam_icon_285540"
             ]
         }
     },
@@ -717,6 +967,11 @@
                 "amulegui",
                 "kamule"
             ]
+        }
+    },
+    "analogue-a-hate-story": {
+        "linux": {
+            "root": "steam_icon_209370"
         }
     },
     "anatine": {
@@ -793,6 +1048,9 @@
         }
     },
     "anki": {
+        "android": [
+            "com.ichi2.anki/com.ichi2.anki.IntentHandler"
+        ],
         "linux": {
             "root": "anki",
             "symlinks": [
@@ -819,7 +1077,8 @@
         "linux": {
             "root": "antimicro",
             "symlinks": [
-                "com.github.juliagoda.antimicro"
+                "com.github.juliagoda.antimicro",
+                "com.github.juliagoda.antimicroX"
             ]
         }
     },
@@ -853,9 +1112,22 @@
             ]
         }
     },
+    "app-outlet": {
+        "linux": {
+            "root": "app-outlet"
+        }
+    },
     "appgrid": {
         "linux": {
             "root": "appgrid"
+        }
+    },
+    "appimageupdater": {
+        "linux": {
+            "root": "appimageupdater",
+            "symlinks": [
+                "AppImageUpdater"
+            ]
         }
     },
     "application-default-icon": {
@@ -951,6 +1223,7 @@
                 "abrt-gui",
                 "apport-gtk",
                 "apport-gtk2",
+                "bug",
                 "deepin-feedback",
                 "gnome-abrt",
                 "gnome-warning",
@@ -1001,19 +1274,27 @@
             "root": "archer"
         }
     },
+    "archipelago": {
+        "linux": {
+            "root": "archipelago"
+        }
+    },
     "ardour": {
         "linux": {
             "root": "ardour",
             "symlinks": [
                 "Ardour-Ardour_4.0.0",
                 "Ardour-Ardour_5.12.0",
+                "Ardour-Ardour_6.0.0",
                 "Ardour-icon_256px",
                 "ardour2",
                 "ardour3",
                 "ardour4",
                 "ardour5",
+                "ardour6",
                 "org.ardour.Ardour",
-                "org.ardour.Ardour5"
+                "org.ardour.Ardour5",
+                "org.ardour.Ardour6"
             ]
         }
     },
@@ -1057,6 +1338,7 @@
         "linux": {
             "root": "arkclient",
             "symlinks": [
+                "ark-desktop-wallet",
                 "io.ark.Desktop"
             ]
         }
@@ -1090,6 +1372,14 @@
             "root": "arronax"
         }
     },
+    "art": {
+        "linux": {
+            "root": "art",
+            "symlinks": [
+                "ART"
+            ]
+        }
+    },
     "arte-fetcher": {
         "linux": {
             "root": "arteFetcher",
@@ -1114,14 +1404,6 @@
     "asbru-cm": {
         "linux": {
             "root": "asbru-cm"
-        }
-    },
-    "asc-de": {
-        "linux": {
-            "root": "asc-de",
-            "symlinks": [
-                "onlyoffice"
-            ]
         }
     },
     "ascii-design": {
@@ -1152,6 +1434,11 @@
             "root": "assaultcube"
         }
     },
+    "assaultcube-reloaded": {
+        "linux": {
+            "root": "acreloaded"
+        }
+    },
     "astah-pro": {
         "linux": {
             "root": "astah-pro"
@@ -1176,7 +1463,10 @@
     },
     "asunder": {
         "linux": {
-            "root": "asunder"
+            "root": "asunder",
+            "symlinks": [
+                "ca.littlesvr.asunder"
+            ]
         }
     },
     "atanks": {
@@ -1187,17 +1477,32 @@
             ]
         }
     },
+    "atari-vault": {
+        "linux": {
+            "root": "steam_icon_400020"
+        }
+    },
     "atelier": {
         "linux": {
             "root": "atelier",
             "symlinks": [
-                "atcore-gui"
+                "atcore-gui",
+                "org.kde.atcore",
+                "org.kde.atelier"
             ]
         }
     },
     "athena": {
         "linux": {
             "root": "athena"
+        }
+    },
+    "athenaeum": {
+        "linux": {
+            "root": "athenaeum",
+            "symlinks": [
+                "com.gitlab.librebob.Athenaeum"
+            ]
         }
     },
     "atlauncher": {
@@ -1218,6 +1523,14 @@
             "root": "atom-beta"
         }
     },
+    "atom-zombie-smasher": {
+        "linux": {
+            "root": "steam_icon_55040",
+            "symlinks": [
+                "steam_icon_55050"
+            ]
+        }
+    },
     "atomic-game-engine": {
         "linux": {
             "root": "AtomicGameEngine",
@@ -1236,7 +1549,8 @@
             "root": "audacious",
             "symlinks": [
                 "audacious-16",
-                "audacious-32"
+                "audacious-32",
+                "org.audacious_media_player.Audacious"
             ]
         }
     },
@@ -1272,6 +1586,14 @@
     "audiobook": {
         "linux": {
             "root": "audiobook"
+        }
+    },
+    "audiosurf-2": {
+        "linux": {
+            "root": "steam_icon_235800",
+            "symlinks": [
+                "steam_icon_373960"
+            ]
         }
     },
     "auralquiz": {
@@ -1316,6 +1638,11 @@
         }
     },
     "avastgui": {
+        "android": [
+            "com.avast.android.mobilesecurity/com.avast.android.mobilesecurity.app.home.HomeActivity",
+            "com.avast.android.mobilesecurity/com.avast.android.mobilesecurity.app.home.StartActivity",
+            "installer.com.avast.android.mobilesecurity/installer.com.avast.android.mobilesecurity.MainActivity"
+        ],
         "linux": {
             "root": "avastgui"
         }
@@ -1336,7 +1663,10 @@
     },
     "avocode": {
         "linux": {
-            "root": "avocode"
+            "root": "avocode",
+            "symlinks": [
+                "com.avocode.Avocode"
+            ]
         }
     },
     "avogadro": {
@@ -1373,6 +1703,11 @@
             "root": "awn-applet-digital-clock"
         }
     },
+    "axiom-verge": {
+        "linux": {
+            "root": "steam_icon_332200"
+        }
+    },
     "azpainter": {
         "linux": {
             "root": "azpainter"
@@ -1383,11 +1718,22 @@
             "root": "Azureus"
         }
     },
+    "baba-is-you": {
+        "linux": {
+            "root": "baba-is-you",
+            "symlinks": [
+                "steam_icon_736260"
+            ]
+        }
+    },
     "babe": {
         "linux": {
             "root": "babe",
             "symlinks": [
-                "Babe"
+                "Babe",
+                "org.kde.babe",
+                "org.kde.vvave",
+                "vvave"
             ]
         }
     },
@@ -1444,6 +1790,14 @@
             "root": "bareftp"
         }
     },
+    "barrier": {
+        "linux": {
+            "root": "barrier",
+            "symlinks": [
+                "com.github.debauchee.barrier"
+            ]
+        }
+    },
     "basex": {
         "linux": {
             "root": "basex"
@@ -1453,6 +1807,7 @@
         "linux": {
             "root": "basket",
             "symlinks": [
+                "accessories-notes",
                 "bijiben",
                 "chrome-mijlebbfndhelmdpmllgcfadlkankhok-Default",
                 "gnome-note",
@@ -1516,6 +1871,19 @@
             ]
         }
     },
+    "beholder": {
+        "linux": {
+            "root": "steam_icon_475550",
+            "symlinks": [
+                "steam_icon_535610"
+            ]
+        }
+    },
+    "beholder-2": {
+        "linux": {
+            "root": "steam_icon_761620"
+        }
+    },
     "beryl": {
         "linux": {
             "root": "beryl",
@@ -1523,6 +1891,11 @@
                 "beryl-manager",
                 "beryl-settings"
             ]
+        }
+    },
+    "besiege": {
+        "linux": {
+            "root": "steam_icon_346010"
         }
     },
     "bibfilex": {
@@ -1550,7 +1923,8 @@
         "linux": {
             "root": "billard-gl",
             "symlinks": [
-                "billiards"
+                "billiards",
+                "de.billardgl.Billardgl"
             ]
         }
     },
@@ -1578,7 +1952,8 @@
                 "digital-assets",
                 "fr.fgrabenstaetter.DigitalAssets",
                 "multibit",
-                "multibit-hd"
+                "multibit-hd",
+                "org.bitcoincore.bitcoin-qt"
             ]
         }
     },
@@ -1597,7 +1972,18 @@
             "root": "bitmask"
         }
     },
+    "bitshares-ui": {
+        "linux": {
+            "root": "bitshares-ui",
+            "symlinks": [
+                "bitshares2-light"
+            ]
+        }
+    },
     "bittorent": {
+        "android": [
+            "com.bittorrent.client/com.bittorrent.client.Main"
+        ],
         "linux": {
             "root": "bittorent"
         }
@@ -1615,6 +2001,16 @@
     "bitwig-studio": {
         "linux": {
             "root": "bitwig-studio"
+        }
+    },
+    "black-game": {
+        "android": [
+            "air.com.bartbonte.black/air.com.bartbonte.black.AppEntry"
+        ]
+    },
+    "black-mesa": {
+        "linux": {
+            "root": "steam_icon_362890"
         }
     },
     "blam": {
@@ -1640,7 +2036,8 @@
             "root": "blender",
             "symlinks": [
                 "Blender",
-                "org.blender.Blender"
+                "org.blender.Blender",
+                "steam_icon_365670"
             ]
         }
     },
@@ -1657,6 +2054,16 @@
             "root": "Battle.net"
         }
     },
+    "blockbench": {
+        "linux": {
+            "root": "blockbench"
+        }
+    },
+    "blockstorm": {
+        "linux": {
+            "root": "steam_icon_263060"
+        }
+    },
     "blogger": {
         "linux": {
             "root": "blogger",
@@ -1666,6 +2073,11 @@
                 "web-blogger"
             ]
         }
+    },
+    "blue-game": {
+        "android": [
+            "air.com.bartbonte.blue/air.com.bartbonte.blue.AppEntry"
+        ]
     },
     "bluefish": {
         "linux": {
@@ -1745,6 +2157,11 @@
                 "blueman-disabled",
                 "preferences-system-bluetooth-inactive"
             ]
+        }
+    },
+    "boda-lite": {
+        "linux": {
+            "root": "boda-lite"
         }
     },
     "boinc": {
@@ -1911,6 +2328,19 @@
             ]
         }
     },
+    "brave-dev": {
+        "linux": {
+            "root": "brave-dev",
+            "symlinks": [
+                "brave-browser-dev"
+            ]
+        }
+    },
+    "breaktimer": {
+        "linux": {
+            "root": "breaktimer"
+        }
+    },
     "brlcad": {
         "linux": {
             "root": "brlcad"
@@ -1943,6 +2373,8 @@
         "linux": {
             "root": "browser-tor",
             "symlinks": [
+                "com.github.micahflee.torbrowser-launcher",
+                "org.torproject.torbrowser",
                 "tor-browser",
                 "tor-browser-en",
                 "torbrowser"
@@ -2054,6 +2486,11 @@
             "root": "cadabra"
         }
     },
+    "cadence": {
+        "linux": {
+            "root": "cadence"
+        }
+    },
     "caffeine": {
         "linux": {
             "root": "caffeine",
@@ -2083,10 +2520,12 @@
                 "galculator",
                 "gcalculator",
                 "gnome-calculator",
+                "io.elementary.calculator",
                 "io.liri.Calculator",
                 "kcalc",
                 "org.deepin.flatdeb.deepin-calculator",
                 "org.gnome.Calculator",
+                "org.kde.kcalc",
                 "org.speedcrunch.SpeedCrunch",
                 "speedcrunch"
             ]
@@ -2721,7 +3160,9 @@
             "root": "office-calendar",
             "symlinks": [
                 "calendar-red-31",
+                "calindori",
                 "com.deepin.Calendar",
+                "coypu",
                 "date",
                 "dates",
                 "dayfolder",
@@ -2730,11 +3171,14 @@
                 "gnome-calendar",
                 "gnome-mime-text-x-vcalendar",
                 "gnome-planner",
+                "io.elementary.calendar",
                 "korganizer",
                 "office-date",
                 "org.deepin.flatdeb.deepin-calendar",
                 "org.gnome.Calendar",
                 "org.kde.korganizer",
+                "org.kde.mobile.calindori",
+                "org.kde.phone.calindori",
                 "plan",
                 "preferences-calendar-and-tasks",
                 "starcal2",
@@ -2991,7 +3435,9 @@
                 "calligrakrita2",
                 "calligrakrita3",
                 "krita",
-                "org.kde.krita"
+                "org.kde.krita",
+                "org.krita.krita",
+                "steam_icon_280680"
             ]
         }
     },
@@ -3066,6 +3512,7 @@
         "linux": {
             "root": "cantor",
             "symlinks": [
+                "com.github.alcadica.develop",
                 "org.kde.cantor"
             ]
         }
@@ -3075,9 +3522,49 @@
             "root": "caption"
         }
     },
+    "carla": {
+        "linux": {
+            "root": "carla"
+        }
+    },
+    "carla-control": {
+        "linux": {
+            "root": "carla-control"
+        }
+    },
+    "castle-crashers": {
+        "linux": {
+            "root": "steam_icon_204360",
+            "symlinks": [
+                "steam_icon_207100"
+            ]
+        }
+    },
+    "catarina": {
+        "linux": {
+            "root": "catarina"
+        }
+    },
+    "catia": {
+        "linux": {
+            "root": "catia"
+        }
+    },
     "cave-story": {
         "linux": {
-            "root": "steam_icon_200900"
+            "root": "cave-story",
+            "symlinks": [
+                "com.gitlab.coringao.cavestory-nx",
+                "steam_icon_200900"
+            ]
+        }
+    },
+    "cawbird": {
+        "linux": {
+            "root": "cawbird",
+            "symlinks": [
+                "uk.co.ibboard.cawbird"
+            ]
         }
     },
     "ccsm": {
@@ -3104,6 +3591,18 @@
             "root": "cecilia"
         }
     },
+    "celluloid": {
+        "linux": {
+            "root": "celluloid",
+            "symlinks": [
+                "gnome-mpv",
+                "io.github.Celluloid",
+                "io.github.celluloid-player.Celluloid",
+                "io.github.celluloid_player.Celluloid",
+                "io.github.GnomeMpv"
+            ]
+        }
+    },
     "cellwriter": {
         "linux": {
             "root": "cellwriter"
@@ -3117,6 +3616,14 @@
     "charm": {
         "linux": {
             "root": "Charm"
+        }
+    },
+    "chatterino": {
+        "linux": {
+            "root": "chatterino",
+            "symlinks": [
+                "com.chatterino.chatterino"
+            ]
         }
     },
     "chatty": {
@@ -3150,7 +3657,10 @@
     },
     "cherrytree": {
         "linux": {
-            "root": "cherrytree"
+            "root": "cherrytree",
+            "symlinks": [
+                "com.giuspen.cherrytree"
+            ]
         }
     },
     "chess": {
@@ -3165,6 +3675,11 @@
                 "scid",
                 "tagua"
             ]
+        }
+    },
+    "chiaki": {
+        "linux": {
+            "root": "chiaki"
         }
     },
     "chmsee-icon": {
@@ -3228,6 +3743,7 @@
             "root": "chromium",
             "symlinks": [
                 "chromium-browser",
+                "chromium-browser-privacy",
                 "chromium-browser2",
                 "google-chromium",
                 "org.chromium.Chromium"
@@ -3255,6 +3771,11 @@
     "chromium-dev": {
         "linux": {
             "root": "chromium-dev"
+        }
+    },
+    "chuchel": {
+        "linux": {
+            "root": "steam_icon_711660"
         }
     },
     "ciano": {
@@ -3285,6 +3806,14 @@
     "cinema4d": {
         "linux": {
             "root": "cinema4d"
+        }
+    },
+    "cisco-packet-tracer": {
+        "linux": {
+            "root": "packettracer",
+            "symlinks": [
+                "packet-tracer"
+            ]
         }
     },
     "cisco-pt": {
@@ -3350,6 +3879,16 @@
             ]
         }
     },
+    "claudia": {
+        "linux": {
+            "root": "claudia"
+        }
+    },
+    "claudia-launcher": {
+        "linux": {
+            "root": "claudia-launcher"
+        }
+    },
     "claws-mail": {
         "linux": {
             "root": "claws-mail",
@@ -3358,11 +3897,15 @@
                 "claws-mail-32x32",
                 "claws-mail-64x64",
                 "clawsker",
+                "org.claws_mail.Claws-Mail",
                 "org.clawsmail.Claws"
             ]
         }
     },
     "clementine": {
+        "android": [
+            "de.qspool.clementineremote/de.qspool.clementineremote.ui.ConnectDialog"
+        ],
         "linux": {
             "root": "clementine",
             "symlinks": [
@@ -3394,6 +3937,19 @@
     "closure": {
         "linux": {
             "root": "steam_icon_72000"
+        }
+    },
+    "cloudcompare": {
+        "linux": {
+            "root": "cloudcompare",
+            "symlinks": [
+                "cc_icon",
+                "cc_viewer_icon",
+                "net.danielgm.CloudCompare",
+                "net.danielgm.CloudCompare.Viewer",
+                "org.cloudcompare.CloudCompare",
+                "org.cloudcompare.CloudCompare.Viewer"
+            ]
         }
     },
     "cmake": {
@@ -3471,6 +4027,7 @@
         "linux": {
             "root": "cog",
             "symlinks": [
+                "2402_msiexec.0",
                 "aptanastudio",
                 "do",
                 "edit-urpm-sources",
@@ -3537,7 +4094,8 @@
         "linux": {
             "root": "comix",
             "symlinks": [
-                "mcomix"
+                "mcomix",
+                "mcomix3"
             ]
         }
     },
@@ -3563,7 +4121,10 @@
     },
     "conky-manager": {
         "linux": {
-            "root": "conky-manager"
+            "root": "conky-manager",
+            "symlinks": [
+                "ConkyManager"
+            ]
         }
     },
     "connectagram": {
@@ -3609,9 +4170,25 @@
             ]
         }
     },
+    "corectl": {
+        "linux": {
+            "root": "corectl",
+            "symlinks": [
+                "org.corectrl.corectrl"
+            ]
+        }
+    },
     "costume-quest": {
         "linux": {
             "root": "steam_icon_115100"
+        }
+    },
+    "coulr": {
+        "linux": {
+            "root": "coulr",
+            "symlinks": [
+                "com.github.huluti.Coulr"
+            ]
         }
     },
     "counterstrike-condition-zero": {
@@ -3645,7 +4222,7 @@
     },
     "cpod": {
         "linux": {
-            "root": "cpuinfo",
+            "root": "cpod",
             "symlinks": [
                 "com.github.z.Cumulonimbus",
                 "CPod",
@@ -3653,11 +4230,18 @@
             ]
         }
     },
+    "cpu-x": {
+        "linux": {
+            "root": "cpu-x",
+            "symlinks": [
+                "CPU-X"
+            ]
+        }
+    },
     "cpuinfo": {
         "linux": {
             "root": "cpuinfo",
             "symlinks": [
-                "cpu-x",
                 "pcb"
             ]
         }
@@ -3708,9 +4292,44 @@
             "root": "steam_icon_221830"
         }
     },
+    "crossniqplus": {
+        "linux": {
+            "root": "steam_icon_1128180"
+        }
+    },
     "crossover": {
         "linux": {
             "root": "crossover"
+        }
+    },
+    "crossover-doc": {
+        "linux": {
+            "root": "cxmenu-cxoffice-0-cxdoc"
+        }
+    },
+    "crossover-menu": {
+        "linux": {
+            "root": "cxmenu-cxoffice-0-crossover"
+        }
+    },
+    "crossover-register": {
+        "linux": {
+            "root": "cxmenu-cxoffice-0-cxregister"
+        }
+    },
+    "crossover-reset": {
+        "linux": {
+            "root": "cxmenu-cxoffice-0-cxreset"
+        }
+    },
+    "crossover-run": {
+        "linux": {
+            "root": "cxmenu-cxoffice-0-cxrun"
+        }
+    },
+    "crossover-uninstall": {
+        "linux": {
+            "root": "cxmenu-cxoffice-0-cxuninstall"
         }
     },
     "crow-translate": {
@@ -3729,6 +4348,11 @@
                 "steam_icon_210910",
                 "steam_icon_73080"
             ]
+        }
+    },
+    "crypt-of-the-necrodancer": {
+        "linux": {
+            "root": "steam_icon_247080"
         }
     },
     "cryptobox-search": {
@@ -3751,7 +4375,10 @@
     },
     "cryptomator": {
         "linux": {
-            "root": "cryptomator"
+            "root": "cryptomator",
+            "symlinks": [
+                "org.cryptomator.Cryptomator"
+            ]
         }
     },
     "cryptote": {
@@ -3797,6 +4424,14 @@
             "root": "cs-user-accounts"
         }
     },
+    "csoundqt": {
+        "linux": {
+            "root": "csoundqt",
+            "symlinks": [
+                "qtcs"
+            ]
+        }
+    },
     "cubemen": {
         "linux": {
             "root": "steam_icon_207250"
@@ -3826,9 +4461,11 @@
             "symlinks": [
                 "com.github.brandonlujan.exchange",
                 "com.github.cjfloss.envelope",
+                "com.github.matfantinel.moneta",
                 "envelope",
                 "keurocalc",
-                "mmex"
+                "mmex",
+                "money-manager-ex"
             ]
         }
     },
@@ -3868,40 +4505,16 @@
             ]
         }
     },
-    "cxmenu-cxoffice-0-crossover": {
-        "linux": {
-            "root": "cxmenu-cxoffice-0-crossover"
-        }
-    },
-    "cxmenu-cxoffice-0-cxdoc": {
-        "linux": {
-            "root": "cxmenu-cxoffice-0-cxdoc"
-        }
-    },
-    "cxmenu-cxoffice-0-cxregister": {
-        "linux": {
-            "root": "cxmenu-cxoffice-0-cxregister"
-        }
-    },
-    "cxmenu-cxoffice-0-cxreset": {
-        "linux": {
-            "root": "cxmenu-cxoffice-0-cxreset"
-        }
-    },
-    "cxmenu-cxoffice-0-cxrun": {
-        "linux": {
-            "root": "cxmenu-cxoffice-0-cxrun"
-        }
-    },
-    "cxmenu-cxoffice-0-cxuninstall": {
-        "linux": {
-            "root": "cxmenu-cxoffice-0-cxuninstall"
-        }
-    },
     "cyclograph": {
         "linux": {
             "root": "cyclograph"
         }
+    },
+    "cytus-2": {
+        "android": [
+            "com.rayark.cytus2/com.google.firebase.MessagingUnityPlayerActivity",
+            "com.rayark.cytus2/com.inca.security.DexProtect.LauncherActivity"
+        ]
     },
     "d-feet-icon": {
         "linux": {
@@ -3968,6 +4581,11 @@
             ]
         }
     },
+    "davmail": {
+        "linux": {
+            "root": "davmail"
+        }
+    },
     "day-of-defeat": {
         "linux": {
             "root": "steam_icon_30",
@@ -3975,6 +4593,11 @@
                 "steam_icon_300"
             ]
         }
+    },
+    "daylio": {
+        "android": [
+            "net.daylio/net.daylio.activities.OverviewActivity"
+        ]
     },
     "dbeaver": {
         "linux": {
@@ -4030,6 +4653,11 @@
         "linux": {
             "root": "decibel"
         }
+    },
+    "deemo": {
+        "android": [
+            "com.rayark.pluto/com.google.firebase.MessagingUnityPlayerActivity"
+        ]
     },
     "deepin-clone": {
         "linux": {
@@ -4133,7 +4761,8 @@
             "root": "desktop-environment-gnome",
             "symlinks": [
                 "gnome-logo-icon",
-                "org.gnome.ChromeGnomeShell"
+                "org.gnome.ChromeGnomeShell",
+                "org.gnome.Tour"
             ]
         }
     },
@@ -4141,9 +4770,12 @@
         "linux": {
             "root": "desktop-environment-kde",
             "symlinks": [
+                "about_kde",
                 "kde",
+                "kde-frameworks",
                 "kde-logo",
                 "kde-windows",
+                "kdeapp",
                 "kmenu",
                 "pattern-kde",
                 "pattern-kde4",
@@ -4154,6 +4786,11 @@
     "desktop-environment-lxde": {
         "linux": {
             "root": "desktop-environment-lxde"
+        }
+    },
+    "desktop-environment-lxqt": {
+        "linux": {
+            "root": "desktop-environment-lxqt"
         }
     },
     "desktop-environment-mate": {
@@ -4183,6 +4820,14 @@
     "desura": {
         "linux": {
             "root": "desura"
+        }
+    },
+    "detwinner": {
+        "linux": {
+            "root": "detwinner",
+            "symlinks": [
+                "com.neatdecisions.Detwinner"
+            ]
         }
     },
     "devassistant": {
@@ -4308,6 +4953,11 @@
             "root": "disper"
         }
     },
+    "distance-game": {
+        "linux": {
+            "root": "steam_icon_233610"
+        }
+    },
     "distributor-logo-absolute": {
         "linux": {
             "root": "distributor-logo-absolute"
@@ -4344,6 +4994,9 @@
         }
     },
     "distributor-logo-archlinux": {
+        "android": [
+            "com.jtmcn.archwiki.viewer/com.jtmcn.archwiki.viewer.WikiActivity"
+        ],
         "linux": {
             "root": "distributor-logo-archlinux",
             "symlinks": [
@@ -4354,7 +5007,11 @@
     },
     "distributor-logo-arco": {
         "linux": {
-            "root": "distributor-logo-arco"
+            "root": "distributor-logo-arco",
+            "symlinks": [
+                "arcolinux-hello",
+                "start-here-arcolinux"
+            ]
         }
     },
     "distributor-logo-arya": {
@@ -4450,7 +5107,15 @@
     },
     "distributor-logo-elementaryos": {
         "linux": {
-            "root": "distributor-logo-elementaryos"
+            "root": "distributor-logo-elementaryos",
+            "symlinks": [
+                "io.elementary.onboarding"
+            ]
+        }
+    },
+    "distributor-logo-endeavouros": {
+        "linux": {
+            "root": "distributor-logo-endeavouros"
         }
     },
     "distributor-logo-endlessos": {
@@ -4486,6 +5151,11 @@
     "distributor-logo-funtoo": {
         "linux": {
             "root": "distributor-logo-funtoo"
+        }
+    },
+    "distributor-logo-furybsd": {
+        "linux": {
+            "root": "distributor-logo-furybsd"
         }
     },
     "distributor-logo-gentoo": {
@@ -4731,7 +5401,11 @@
     },
     "distributor-logo-popos": {
         "linux": {
-            "root": "distributor-logo-popos"
+            "root": "distributor-logo-popos",
+            "symlinks": [
+                "pop-os-logo-icon",
+                "start-here-pop-os"
+            ]
         }
     },
     "distributor-logo-porteus": {
@@ -4766,7 +5440,12 @@
     },
     "distributor-logo-raspbian": {
         "linux": {
-            "root": "distributor-logo-raspbian"
+            "root": "distributor-logo-raspbian",
+            "symlinks": [
+                "org.raspberrypi.rpi-imager",
+                "rpi",
+                "rpi-imager"
+            ]
         }
     },
     "distributor-logo-redcore": {
@@ -4882,12 +5561,22 @@
             "root": "distributor-logo-ubuntu-gnome"
         }
     },
+    "distributor-logo-ubuntu-kylin": {
+        "linux": {
+            "root": "distributor-logo-ubuntu-kylin"
+        }
+    },
     "distributor-logo-ubuntu-mate": {
         "linux": {
             "root": "distributor-logo-ubuntu-mate",
             "symlinks": [
                 "ubuntu-mate"
             ]
+        }
+    },
+    "distributor-logo-ubuntu-studio": {
+        "linux": {
+            "root": "distributor-logo-ubuntu-studio"
         }
     },
     "distributor-logo-ultimate": {
@@ -4942,6 +5631,14 @@
             "root": "djvulibre-djview4"
         }
     },
+    "dmitry": {
+        "linux": {
+            "root": "dmitry",
+            "symlinks": [
+                "kali-dmitry"
+            ]
+        }
+    },
     "dns-crypt-client": {
         "linux": {
             "root": "DNSCryptClient"
@@ -4951,7 +5648,10 @@
         "linux": {
             "root": "docear",
             "symlinks": [
-                "applications-office"
+                "2EF4_wordpad.0",
+                "97C1_wordpad.0",
+                "applications-office",
+                "wordpad"
             ]
         }
     },
@@ -4973,9 +5673,20 @@
             ]
         }
     },
+    "doki-doki-literature-club": {
+        "linux": {
+            "root": "doki-doki-literature-club",
+            "symlinks": [
+                "steam_icon_698780"
+            ]
+        }
+    },
     "dolphin": {
         "linux": {
-            "root": "dolphin"
+            "root": "dolphin",
+            "symlinks": [
+                "org.kde.dolphin"
+            ]
         }
     },
     "dolphin-emu": {
@@ -5000,6 +5711,11 @@
         "linux": {
             "root": "donut"
         }
+    },
+    "doodle-jump": {
+        "android": [
+            "com.lima.doodlejump/com.limasky.doodlejumpandroid.MainActivity"
+        ]
     },
     "doom3": {
         "linux": {
@@ -5068,6 +5784,7 @@
         "linux": {
             "root": "dragonplayer",
             "symlinks": [
+                "org.kde.dragon",
                 "org.kde.dragonplayer"
             ]
         }
@@ -5086,7 +5803,10 @@
         "linux": {
             "root": "draw-io",
             "symlinks": [
-                "draw.io"
+                "com.jgraph.drawio",
+                "com.jgraph.drawio.desktop",
+                "draw.io",
+                "drawio"
             ]
         }
     },
@@ -5094,7 +5814,8 @@
         "linux": {
             "root": "drawing",
             "symlinks": [
-                "com.github.maoschanz.Drawing"
+                "com.github.maoschanz.Drawing",
+                "com.github.maoschanz.drawing"
             ]
         }
     },
@@ -5115,9 +5836,22 @@
             ]
         }
     },
+    "driftnet": {
+        "linux": {
+            "root": "driftnet",
+            "symlinks": [
+                "kali-driftnet"
+            ]
+        }
+    },
     "drill-search-gtk": {
         "linux": {
             "root": "drill-search-gtk"
+        }
+    },
+    "droid-assault": {
+        "linux": {
+            "root": "steam_icon_219200"
         }
     },
     "dropbox": {
@@ -5203,6 +5937,9 @@
         }
     },
     "duolingo": {
+        "android": [
+            "com.duolingo/com.duolingo.app.LoginActivity"
+        ],
         "linux": {
             "root": "duolingo",
             "symlinks": [
@@ -5212,7 +5949,10 @@
     },
     "dupeguru": {
         "linux": {
-            "root": "dupeguru"
+            "root": "dupeguru",
+            "symlinks": [
+                "dgse_logo_128"
+            ]
         }
     },
     "duplicati": {
@@ -5227,7 +5967,10 @@
     },
     "dust3d": {
         "linux": {
-            "root": "dust3d"
+            "root": "dust3d",
+            "symlinks": [
+                "org.dust3d.dust3d"
+            ]
         }
     },
     "dvdisaster": {
@@ -5256,6 +5999,14 @@
             "root": "steam_icon_35480",
             "symlinks": [
                 "steam_icon_213650"
+            ]
+        }
+    },
+    "dynamic-wallpaper-editor": {
+        "linux": {
+            "root": "dynamic-wallpaper-editor",
+            "symlinks": [
+                "com.github.maoschanz.DynamicWallpaperEditor"
             ]
         }
     },
@@ -5307,6 +6058,7 @@
         "linux": {
             "root": "eclipse",
             "symlinks": [
+                "org.eclipse.Committers",
                 "org.eclipse.Eclipse"
             ]
         }
@@ -5320,6 +6072,7 @@
         "linux": {
             "root": "edb",
             "symlinks": [
+                "edb-debugger",
                 "edb48-logo"
             ]
         }
@@ -5398,16 +6151,30 @@
                 "electron2",
                 "electron3",
                 "electron4",
+                "electron5",
+                "electron6",
                 "io.atom.electron.BaseApp",
                 "org.electronjs.Electron2.BaseApp",
                 "org.electronjs.Electron3.BaseApp",
-                "org.electronjs.Electron4.BaseApp"
+                "org.electronjs.Electron4.BaseApp",
+                "org.electronjs.Electron5.BaseApp",
+                "org.electronjs.Electron6.BaseApp"
             ]
         }
     },
     "electron-cash": {
         "linux": {
             "root": "electron-cash"
+        }
+    },
+    "electron-mail": {
+        "linux": {
+            "root": "electron-mail"
+        }
+    },
+    "electronic-super-joy": {
+        "linux": {
+            "root": "steam_icon_244870"
         }
     },
     "electrum": {
@@ -5485,6 +6252,7 @@
                 "gfeedline",
                 "kopete",
                 "org.gnome.Empathy",
+                "org.kde.kopete",
                 "telepathy",
                 "telepathy-kde"
             ]
@@ -5540,12 +6308,23 @@
     },
     "entangle": {
         "linux": {
-            "root": "entangle"
+            "root": "entangle",
+            "symlinks": [
+                "org.entangle_photo.Manager"
+            ]
         }
     },
     "enter-the-gungeon": {
         "linux": {
             "root": "steam_icon_311690"
+        }
+    },
+    "enve": {
+        "linux": {
+            "root": "enve",
+            "symlinks": [
+                "io.github.maurycyliebner.enve"
+            ]
         }
     },
     "envy24control": {
@@ -5593,6 +6372,7 @@
             "root": "equaliser",
             "symlinks": [
                 "chrome-npfkoakaabdallkcdbpkkhfilkkngakh-Default",
+                "eu.tiliado.NuvolaAppDeezer",
                 "lash",
                 "nuvolaplayer3_deezer"
             ]
@@ -5617,6 +6397,7 @@
         "linux": {
             "root": "espeak-gui",
             "symlinks": [
+                "espeak-qtgui",
                 "kmouth"
             ]
         }
@@ -5625,8 +6406,10 @@
         "linux": {
             "root": "etcher",
             "symlinks": [
+                "balena-etcher",
                 "balena-etcher-electron",
-                "etcher-electron"
+                "etcher-electron",
+                "io.balena.etcher"
             ]
         }
     },
@@ -5680,6 +6463,9 @@
         }
     },
     "evernote": {
+        "android": [
+            "com.evernote/com.evernote.ui.HomeActivity"
+        ],
         "linux": {
             "root": "evernote",
             "symlinks": [
@@ -5691,6 +6477,11 @@
                 "nixnote",
                 "web-evernote"
             ]
+        }
+    },
+    "eversion": {
+        "linux": {
+            "root": "steam_icon_33680"
         }
     },
     "evolution": {
@@ -5717,7 +6508,15 @@
     },
     "exfalso": {
         "linux": {
-            "root": "exfalso"
+            "root": "exfalso",
+            "symlinks": [
+                "io.github.quodlibet.ExFalso"
+            ]
+        }
+    },
+    "exifcleaner": {
+        "linux": {
+            "root": "exifcleaner"
         }
     },
     "expand-game": {
@@ -5736,7 +6535,8 @@
             "symlinks": [
                 "67EF_addoninstaller.0",
                 "cs-extensions",
-                "gnome-shell-extension-prefs"
+                "gnome-shell-extension-prefs",
+                "org.gnome.Extensions"
             ]
         }
     },
@@ -5747,7 +6547,10 @@
     },
     "f-spot": {
         "linux": {
-            "root": "f-spot"
+            "root": "f-spot",
+            "symlinks": [
+                "imaginario"
+            ]
         }
     },
     "factorio": {
@@ -5807,11 +6610,21 @@
         }
     },
     "fdroid-repomaker": {
+        "android": [
+            "org.fdroid.fdroid/org.fdroid.fdroid.FDroid",
+            "org.fdroid.fdroid/org.fdroid.fdroid.views.LocalRepoActivity",
+            "org.fdroid.fdroid/org.fdroid.fdroid.views.main.MainActivity"
+        ],
         "linux": {
             "root": "fdroid-repomaker",
             "symlinks": [
                 "org.fdroid.Repomaker"
             ]
+        }
+    },
+    "feathernotes": {
+        "linux": {
+            "root": "feathernotes"
         }
     },
     "fedora-release-notes": {
@@ -5836,6 +6649,9 @@
         }
     },
     "feedly": {
+        "android": [
+            "com.devhd.feedly/com.devhd.feedly.Main"
+        ],
         "linux": {
             "root": "feedly",
             "symlinks": [
@@ -5848,6 +6664,14 @@
     "feh": {
         "linux": {
             "root": "feh"
+        }
+    },
+    "ferdi": {
+        "linux": {
+            "root": "ferdi",
+            "symlinks": [
+                "com.getferdi.Ferdi"
+            ]
         }
     },
     "fez": {
@@ -5899,7 +6723,8 @@
     "file-manager": {
         "android": [
             "com.amaze.filemanager/com.amaze.filemanager.activities.MainActivity",
-            "com.sec.android.app.myfiles/com.sec.android.app.myfiles.common.MainActivity"
+            "com.sec.android.app.myfiles/com.sec.android.app.myfiles.common.MainActivity",
+            "fm.clean/fm.clean.MainActivity"
         ],
         "linux": {
             "root": "file-manager",
@@ -5909,6 +6734,7 @@
                 "filerunner",
                 "fma-config-tool",
                 "Insight-FileManager",
+                "io.elementary.files",
                 "kfm",
                 "nautilus",
                 "nautilus-actions",
@@ -6023,7 +6849,8 @@
                 "firefox-original",
                 "firefox3",
                 "mozilla-firefox",
-                "org.mozilla.Firefox"
+                "org.mozilla.Firefox",
+                "org.mozilla.firefox"
             ]
         }
     },
@@ -6076,12 +6903,14 @@
             ]
         }
     },
+    "firejail-ui": {
+        "linux": {
+            "root": "firejail-ui"
+        }
+    },
     "firetools": {
         "linux": {
-            "root": "firetools",
-            "symlinks": [
-                "firejail-ui"
-            ]
+            "root": "firetools"
         }
     },
     "firewall": {
@@ -6121,7 +6950,11 @@
     },
     "flacon": {
         "linux": {
-            "root": "flacon"
+            "root": "flacon",
+            "symlinks": [
+                "com.github.Flacon",
+                "com.github.flacon.Flacon"
+            ]
         }
     },
     "flamerobin": {
@@ -6176,6 +7009,14 @@
             ]
         }
     },
+    "flatseal": {
+        "linux": {
+            "root": "flatseal",
+            "symlinks": [
+                "com.github.tchx84.Flatseal"
+            ]
+        }
+    },
     "flaw": {
         "linux": {
             "root": "flaw"
@@ -6226,6 +7067,11 @@
             "symlinks": [
                 "io.github.jliljebl.Flowblade"
             ]
+        }
+    },
+    "fluajho": {
+        "linux": {
+            "root": "fluajho"
         }
     },
     "fluendo-dvd-player": {
@@ -6374,7 +7220,9 @@
         "linux": {
             "root": "fotowall",
             "symlinks": [
+                "kirigami2gallery",
                 "kphotoalbum",
+                "org.kde.kirigami2.gallery",
                 "org.kde.kphotoalbum"
             ]
         }
@@ -6544,12 +7392,18 @@
     },
     "freeplane": {
         "linux": {
-            "root": "freeplane"
+            "root": "freeplane",
+            "symlinks": [
+                "org.freeplane.App"
+            ]
         }
     },
     "frescobaldi": {
         "linux": {
-            "root": "frescobaldi"
+            "root": "frescobaldi",
+            "symlinks": [
+                "org.frescobaldi.Frescobaldi"
+            ]
         }
     },
     "friends": {
@@ -6598,6 +7452,9 @@
         }
     },
     "frostwire": {
+        "android": [
+            "com.frostwire.android/com.frostwire.android.activities.FrostWireActivity"
+        ],
         "linux": {
             "root": "frostwire"
         }
@@ -6688,9 +7545,34 @@
             "root": "steam_icon_239820"
         }
     },
+    "gamemaker-studio-2": {
+        "linux": {
+            "root": "gamemaker-studio-2",
+            "symlinks": [
+                "steam_icon_585410",
+                "steam_icon_585600",
+                "steam_icon_585610",
+                "steam_icon_585620"
+            ]
+        }
+    },
+    "gamma-editor": {
+        "linux": {
+            "root": "gamma-editor",
+            "symlinks": [
+                "com.editor.gamma",
+                "io.gitlab.hamadmarri.gamma"
+            ]
+        }
+    },
     "gamma-ray": {
         "linux": {
             "root": "GammaRay"
+        }
+    },
+    "gang-beasts": {
+        "linux": {
+            "root": "steam_icon_285900"
         }
     },
     "ganttproject": {
@@ -6784,6 +7666,7 @@
         "linux": {
             "root": "gcleaner",
             "symlinks": [
+                "preferences-system-privacy-housekeeping",
                 "shredder",
                 "sweeper"
             ]
@@ -6793,6 +7676,7 @@
         "linux": {
             "root": "gcolor2",
             "symlinks": [
+                "color-picker",
                 "colorgrab",
                 "colorpicker",
                 "com.deepin.Picker",
@@ -6812,6 +7696,7 @@
         "linux": {
             "root": "gcompris",
             "symlinks": [
+                "gcompris-qt",
                 "org.kde.gcompris"
             ]
         }
@@ -6878,6 +7763,7 @@
         "linux": {
             "root": "geary",
             "symlinks": [
+                "io.elementary.mail",
                 "org.gnome.Geary",
                 "org.yorba.geary"
             ]
@@ -6885,13 +7771,17 @@
     },
     "geda-gattrib": {
         "linux": {
-            "root": "geda-gattrib"
+            "root": "geda-gattrib",
+            "symlinks": [
+                "lepton-attrib"
+            ]
         }
     },
     "geda-gschem": {
         "linux": {
             "root": "geda-gschem",
             "symlinks": [
+                "lepton-schematic",
                 "tkgate"
             ]
         }
@@ -6997,7 +7887,17 @@
         "linux": {
             "root": "ghex",
             "symlinks": [
+                "org.gnome.GHex",
                 "org.gnome.ghex"
+            ]
+        }
+    },
+    "ghidra": {
+        "linux": {
+            "root": "ghidra",
+            "symlinks": [
+                "Ghidra",
+                "org.ghidra_sre.Desktop"
             ]
         }
     },
@@ -7043,6 +7943,16 @@
             "root": "gimp",
             "symlinks": [
                 "org.gimp.GIMP"
+            ]
+        }
+    },
+    "gish": {
+        "linux": {
+            "root": "Gish",
+            "symlinks":  [
+                "freegish",
+                "steam_icon_9500",
+                "steam_icon_9510"
             ]
         }
     },
@@ -7143,13 +8053,9 @@
         "linux": {
             "root": "glade",
             "symlinks": [
+                "glade-3",
                 "org.gnome.Glade"
             ]
-        }
-    },
-    "glade-3": {
-        "linux": {
-            "root": "glade-3"
         }
     },
     "glc-player": {
@@ -7361,6 +8267,46 @@
             ]
         }
     },
+    "gnome-design-bannerviewer": {
+        "linux": {
+            "root": "gnome-design-bannerviewer",
+            "symlinks": [
+                "org.gnome.design.BannerViewer"
+            ]
+        }
+    },
+    "gnome-design-contrast": {
+        "linux": {
+            "root": "gnome-design-contrast",
+            "symlinks": [
+                "org.gnome.design.Contrast"
+            ]
+        }
+    },
+    "gnome-design-iconlibrary": {
+        "linux": {
+            "root": "gnome-design-iconlibrary",
+            "symlinks": [
+                "org.gnome.design.IconLibrary"
+            ]
+        }
+    },
+    "gnome-design-symbolicpreview": {
+        "linux": {
+            "root": "gnome-design-symbolicpreview",
+            "symlinks": [
+                "org.gnome.design.SymbolicPreview"
+            ]
+        }
+    },
+    "gnome-design-vectorslicer": {
+        "linux": {
+            "root": "gnome-design-vectorslicer",
+            "symlinks": [
+                "org.gnome.design.VectorSlicer"
+            ]
+        }
+    },
     "gnome-desktop-config": {
         "linux": {
             "root": "gnome-desktop-config"
@@ -7382,6 +8328,23 @@
             ]
         }
     },
+    "gnome-firmware": {
+        "linux": {
+            "root": "gnome-firmware",
+            "symlinks": [
+                "org.gnome.Firmware"
+            ]
+        }
+    },
+    "gnome-genius": {
+        "linux": {
+            "root": "gnome-genius",
+            "symlinks": [
+                "com.github.subhadeepjasu.pebbles",
+                "org.gnome.Genius"
+            ]
+        }
+    },
     "gnome-glines": {
         "linux": {
             "root": "gnome-glines",
@@ -7390,7 +8353,8 @@
                 "glines",
                 "kfourinline",
                 "org.gnome.Five-or-more",
-                "org.gnome.five-or-more"
+                "org.gnome.five-or-more",
+                "org.kde.kfourinlines"
             ]
         }
     },
@@ -7432,18 +8396,20 @@
         }
     },
     "gnome-maps": {
+        "android": [
+            "com.google.android.apps.maps/com.google.android.maps.driveabout.app.DestinationActivity",
+            "com.google.android.apps.maps/com.google.android.maps.LatitudeActivity",
+            "com.google.android.apps.maps/com.google.android.maps.MapsActivity",
+            "com.google.android.apps.maps/com.google.android.maps.PlacesActivity"
+        ],
         "linux": {
             "root": "gnome-maps",
             "symlinks": [
                 "atlas",
                 "chrome-lneaknkopdijkpnocmklfnjbeapigfbh-Default",
-                "de.openstreetmap.josm",
                 "emerillon",
-                "josm",
-                "josm-latest",
                 "maps",
                 "org.gnome.Maps",
-                "org.openstreetmap.josm",
                 "web-google-maps"
             ]
         }
@@ -7456,7 +8422,8 @@
                 "kmines",
                 "org.gnome.Mines",
                 "org.kde.kmines",
-                "sgt-mines"
+                "sgt-mines",
+                "winemine"
             ]
         }
     },
@@ -7479,6 +8446,14 @@
             "root": "gnome-music",
             "symlinks": [
                 "org.gnome.Music"
+            ]
+        }
+    },
+    "gnome-network-displays": {
+        "linux": {
+            "root": "gnome-network-displays",
+            "symlinks": [
+                "org.gnome.NetworkDisplays"
             ]
         }
     },
@@ -7552,6 +8527,7 @@
                 "cinnamon-power-manager",
                 "cs-power",
                 "mate-power-manager",
+                "org.gnome.BatteryBench",
                 "preferences-system-power",
                 "unity-power-panel",
                 "xfce4-power-manager-settings",
@@ -7631,6 +8607,7 @@
         "linux": {
             "root": "gnome-subtitles",
             "symlinks": [
+                "org.gnome.GnomeSubtitles",
                 "org.kitone.subtitleeditor",
                 "subtitleeditor"
             ]
@@ -7660,6 +8637,7 @@
         "linux": {
             "root": "gnome-todo",
             "symlinks": [
+                "io.elementary.tasks",
                 "org.gnome.Todo"
             ]
         }
@@ -7732,7 +8710,8 @@
         "linux": {
             "root": "gnomit",
             "symlinks": [
-                "ind.ie.Gnomit"
+                "ind.ie.Gnomit",
+                "org.small_tech.Gnomit"
             ]
         }
     },
@@ -7758,7 +8737,11 @@
     },
     "gnubg": {
         "linux": {
-            "root": "gnubg"
+            "root": "gnubg",
+            "symlinks": [
+                "backgammony",
+                "uk.jnthn.backgammony"
+            ]
         }
     },
     "gnucash-icon": {
@@ -7964,6 +8947,9 @@
         }
     },
     "google-drive": {
+        "android": [
+            "com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity"
+        ],
         "linux": {
             "root": "google-drive",
             "symlinks": [
@@ -7974,6 +8960,9 @@
         }
     },
     "google-earth": {
+        "android": [
+            "com.google.earth/com.google.earth.EarthActivity"
+        ],
         "linux": {
             "root": "google-earth",
             "symlinks": [
@@ -8019,6 +9008,7 @@
                 "chrome-fahmaaghhglfmonjliepjlchgpgfmobi-Default",
                 "chrome-icppfcnhkcmnfdhfhphakoifcfokfdhg-Default",
                 "com.googleplaymusicdesktopplayer.GPMDP",
+                "eu.tiliado.NuvolaAppGooglePlayMusic",
                 "google-play-music-desktop-player",
                 "googlemusicframe",
                 "gpmdp",
@@ -8113,6 +9103,11 @@
             "root": "gourmet"
         }
     },
+    "goverlay": {
+        "linux": {
+            "root": "goverlay"
+        }
+    },
     "goxel": {
         "linux": {
             "root": "goxel"
@@ -8155,7 +9150,8 @@
         "linux": {
             "root": "gpk-log",
             "symlinks": [
-                "glogg"
+                "glogg",
+                "klogg"
             ]
         }
     },
@@ -8198,9 +9194,10 @@
     },
     "gpsd": {
         "linux": {
-            "root": "gpsbabel",
+            "root": "gpsd",
             "symlinks": [
-                "gpsd-logo"
+                "gpsd-logo",
+                "xgps"
             ]
         }
     },
@@ -8299,6 +9296,11 @@
             ]
         }
     },
+    "green-game": {
+        "android": [
+            "air.com.bartbonte.green/air.com.bartbonte.green.AppEntry"
+        ]
+    },
     "green-recorder": {
         "linux": {
             "root": "green-recorder"
@@ -8349,6 +9351,9 @@
         }
     },
     "grooveshark": {
+        "android": [
+            "com.mysticdeath.md_gs_app/com.mysticdeath.md_gs_app.MainGSActivity"
+        ],
         "linux": {
             "root": "grooveshark",
             "symlinks": [
@@ -8435,7 +9440,10 @@
     },
     "gtg": {
         "linux": {
-            "root": "gtg"
+            "root": "gtg",
+            "symlinks": [
+                "org.gnome.GTG"
+            ]
         }
     },
     "gthumb": {
@@ -8454,6 +9462,7 @@
                 "advancedmetronome",
                 "artemanufrij.metronome",
                 "com.github.artemanufrij.metronome",
+                "com.jvieira.tpt.Metronome",
                 "gtklick",
                 "kmetronome",
                 "metronome",
@@ -8480,11 +9489,20 @@
             "root": "gtk-recordmydesktop"
         }
     },
+    "gtk-stress-testing": {
+        "linux": {
+            "root": "gtk-stress-testing",
+            "symlinks": [
+                "com.leinardi.gst"
+            ]
+        }
+    },
     "gtk3-demo": {
         "linux": {
             "root": "gtk3-demo",
             "symlinks": [
                 "gtk4-demo",
+                "kde-gtk-config",
                 "org.gtk.Demo3",
                 "org.gtk.Demo4"
             ]
@@ -8578,6 +9596,20 @@
             "root": "guilogon"
         }
     },
+    "guiscrcpy": {
+        "linux": {
+            "root": "guiscrcpy",
+            "symlinks": [
+                "guiscrcpy_logo",
+                "io.srevinsaju.guiscrcpy"
+            ]
+        }
+    },
+    "guitar": {
+        "linux": {
+            "root": "guitar"
+        }
+    },
     "guitarix": {
         "linux": {
             "root": "gx_head"
@@ -8596,6 +9628,11 @@
     "gummi": {
         "linux": {
             "root": "gummi"
+        }
+    },
+    "guns-of-icarus-online": {
+        "linux": {
+            "root": "steam_icon_209080"
         }
     },
     "gv": {
@@ -8629,11 +9666,21 @@
             ]
         }
     },
+    "gx52": {
+        "linux": {
+            "root": "gx52",
+            "symlinks": [
+                "com.leinardi.gx52"
+            ]
+        }
+    },
     "gxi": {
         "linux": {
             "root": "gxi",
             "symlinks": [
-                "com.github.Cogitri.gxi"
+                "com.github.Cogitri.gxi",
+                "org.gnome.Tau",
+                "tau"
             ]
         }
     },
@@ -8644,7 +9691,10 @@
     },
     "gzdoom": {
         "linux": {
-            "root": "gzdoom"
+            "root": "gzdoom",
+            "symlinks": [
+                "org.zdoom.GZDoom"
+            ]
         }
     },
     "hacknet": {
@@ -8665,6 +9715,14 @@
             "root": "haguichi",
             "symlinks": [
                 "com.github.ztefn.haguichi"
+            ]
+        }
+    },
+    "hakuneko-desktop": {
+        "linux": {
+            "root": "hakuneko-desktop",
+            "symlinks": [
+                "io.github.hakuneko.HakuNeko"
             ]
         }
     },
@@ -8734,6 +9792,7 @@
                 "hamster-applet",
                 "hamster-indicator",
                 "hamster-time-tracker",
+                "org.gnome.Hamster.GUI",
                 "org.projecthamster.hamster-gtk"
             ]
         }
@@ -8756,6 +9815,14 @@
     "haroopad": {
         "linux": {
             "root": "haroopad"
+        }
+    },
+    "haruna": {
+        "linux": {
+            "root": "haruna",
+            "symlinks": [
+                "com.georgefb.haruna"
+            ]
         }
     },
     "harvey": {
@@ -8823,9 +9890,17 @@
             "root": "heimdall-frontend"
         }
     },
+    "helia": {
+        "linux": {
+            "root": "helia"
+        }
+    },
     "helm": {
         "linux": {
-            "root": "helm"
+            "root": "helm",
+            "symlinks": [
+                "org.freedesktop.LinuxAudio.Lv2Plugins.Helm"
+            ]
         }
     },
     "help-browser": {
@@ -8833,7 +9908,9 @@
             "root": "help-browser",
             "symlinks": [
                 "4137_winhlp32.0",
+                "A35F_hh.0",
                 "browser-help",
+                "debian-reference",
                 "deepin-manual",
                 "gnochm",
                 "gnome-help",
@@ -8843,6 +9920,8 @@
                 "stock_help-agent",
                 "susehelpcenter",
                 "system-help",
+                "wine-help",
+                "winhelp",
                 "xchm",
                 "xfce-man",
                 "xfce_unknown"
@@ -8870,7 +9949,10 @@
             "root": "hexedit",
             "symlinks": [
                 "bless-48x48",
+                "com.github.afrantzis.Bless",
                 "okteta",
+                "org.kde.hexedit",
+                "org.wxhexeditor.wxHexEditor",
                 "wxHexEditor"
             ]
         }
@@ -8902,7 +9984,10 @@
     },
     "hipchat": {
         "linux": {
-            "root": "hipchat"
+            "root": "hipchat",
+            "symlinks": [
+                "hipchat4"
+            ]
         }
     },
     "hipchat-attention": {
@@ -8938,15 +10023,39 @@
     },
     "hopper-debugger-v3": {
         "linux": {
-            "root": "hopper-debugger-v3",
-            "symlinks": [
-                "edb"
-            ]
+            "root": "hopper-debugger-v3"
         }
     },
     "hopper-disassembler-v3": {
         "linux": {
             "root": "hopper-disassembler-v3"
+        }
+    },
+    "hopsan": {
+        "linux": {
+            "root": "hopsan",
+            "symlinks": [
+                "com.github.hopsan.Hopsan",
+                "hopsan128x128",
+                "hopsangui"
+            ]
+        }
+    },
+    "hopsan-holc": {
+        "linux": {
+            "root": "hopsan-holc",
+            "symlinks": [
+                "holc",
+                "holc-icon192x192"
+            ]
+        }
+    },
+    "horizon-eda": {
+        "linux": {
+            "root": "horizon-eda",
+            "symlinks": [
+                "org.horizon_eda.HorizonEDA"
+            ]
         }
     },
     "hotline-miami": {
@@ -9034,6 +10143,11 @@
     "hugin": {
         "linux": {
             "root": "hugin"
+        }
+    },
+    "human-resource-machine": {
+        "linux": {
+            "root": "steam_icon_375820"
         }
     },
     "humble-bundle": {
@@ -9226,6 +10340,14 @@
             "root": "imaginary-teleprompter"
         }
     },
+    "imcompressor": {
+        "linux": {
+            "root": "imcompressor",
+            "symlinks": [
+                "com.github.huluti.ImCompressor"
+            ]
+        }
+    },
     "imdb": {
         "android": [
             "com.imdb.mobile/com.imdb.mobile.Home",
@@ -9233,6 +10355,15 @@
         ],
         "linux": {
             "root": "chrome-ciioilnaleldclnoaglmkejfikodhdai-Default"
+        }
+    },
+    "imeditor": {
+        "linux": {
+            "root": "imeditor",
+            "symlinks": [
+                "com.github.huluti.ImEditor",
+                "io.github.ImEditor"
+            ]
         }
     },
     "imessage": {
@@ -9258,7 +10389,8 @@
             "root": "indicator-remindor",
             "symlinks": [
                 "gtimelog",
-                "ktimetracker"
+                "ktimetracker",
+                "org.gtimelog.GTimeLog"
             ]
         }
     },
@@ -9399,6 +10531,7 @@
                 "pop3",
                 "preferences-mail",
                 "redhat-email",
+                "Sylpheed",
                 "sylpheed",
                 "x-office-mail",
                 "xfce-mail",
@@ -9434,10 +10567,12 @@
             "root": "iqpuzzle"
         }
     },
-    "irccloud":
-    {
+    "irccloud": {
         "linux": {
-            "root": "irccloud"
+            "root": "irccloud",
+            "symlinks": [
+                "com.irccloud.desktop"
+            ]
         }
     },
     "iridium-browser": {
@@ -9485,7 +10620,9 @@
         "linux": {
             "root": "jabref",
             "symlinks": [
-                "JabRef-icon-48"
+                "JabRef",
+                "JabRef-icon-48",
+                "org.jabref.jabref"
             ]
         }
     },
@@ -9540,23 +10677,38 @@
                 "java-1.9.0",
                 "java10-openjdk",
                 "java11-openjdk",
+                "java12-openjdk",
+                "java13-openjdk",
+                "java14-openjdk",
                 "java8-openjdk",
                 "java9-openjdk",
                 "javaws",
                 "openjdk-10",
                 "openjdk-11",
+                "openjdk-12",
+                "openjdk-13",
+                "openjdk-14",
                 "openjdk-6",
                 "openjdk-7",
                 "openjdk-8",
                 "openjdk-9",
                 "oracle-javaws",
+                "oracle_java10",
+                "oracle_java11",
+                "oracle_java12",
+                "oracle_java13",
+                "oracle_java14",
                 "oracle_java6",
                 "oracle_java7",
                 "oracle_java8",
                 "oracle_java9",
+                "org.eclipse.Java",
                 "org.freedesktop.Sdk.Extension.openjdk",
                 "org.freedesktop.Sdk.Extension.openjdk10",
                 "org.freedesktop.Sdk.Extension.openjdk11",
+                "org.freedesktop.Sdk.Extension.openjdk12",
+                "org.freedesktop.Sdk.Extension.openjdk13",
+                "org.freedesktop.Sdk.Extension.openjdk14",
                 "org.freedesktop.Sdk.Extension.openjdk8",
                 "org.freedesktop.Sdk.Extension.openjdk9",
                 "sun-java",
@@ -9589,7 +10741,10 @@
     },
     "jd-gui": {
         "linux": {
-            "root": "jd-gui"
+            "root": "jd-gui",
+            "symlinks": [
+                "kali-jd-gui"
+            ]
         }
     },
     "jdownloader": {
@@ -9606,6 +10761,11 @@
             "root": "jedit"
         }
     },
+    "jenny-leclue-detectivu": {
+        "linux": {
+            "root": "steam_icon_319870"
+        }
+    },
     "jiten": {
         "linux": {
             "root": "jiten",
@@ -9617,7 +10777,12 @@
     },
     "jitsi": {
         "linux": {
-            "root": "jitsi"
+            "root": "jitsi",
+            "symlinks": [
+                "jitsi-meet",
+                "jitsi-meet-desktop",
+                "jitsi-meet-electron"
+            ]
         }
     },
     "jmeter": {
@@ -9660,6 +10825,16 @@
     "joplin": {
         "linux": {
             "root": "joplin"
+        }
+    },
+    "josm": {
+        "linux": {
+            "root": "josm",
+            "symlinks": [
+                "de.openstreetmap.josm",
+                "josm-latest",
+                "org.openstreetmap.josm"
+            ]
         }
     },
     "jotasync": {
@@ -9775,6 +10950,7 @@
         "linux": {
             "root": "kaidan",
             "symlinks": [
+                "im.kaidan.kaidan",
                 "org.kde.kaidan"
             ]
         }
@@ -9805,17 +10981,27 @@
     },
     "kalgebra": {
         "linux": {
-            "root": "kalgebra"
+            "root": "kalgebra",
+            "symlinks": [
+                "org.kde.kalgebra"
+            ]
         }
     },
     "kalzium": {
         "linux": {
-            "root": "kalzium"
+            "root": "kalzium",
+            "symlinks": [
+                "molsketch",
+                "org.kde.kalzium"
+            ]
         }
     },
     "kanagram": {
         "linux": {
-            "root": "kanagram"
+            "root": "kanagram",
+            "symlinks": [
+                "org.kde.kanagram"
+            ]
         }
     },
     "kanatest": {
@@ -9825,7 +11011,10 @@
     },
     "kapman": {
         "linux": {
-            "root": "kapman"
+            "root": "kapman",
+            "symlinks": [
+                "org.kde.kapman"
+            ]
         }
     },
     "katomic": {
@@ -9945,8 +11134,14 @@
         "linux": {
             "root": "kdiff3",
             "symlinks": [
-                "compared"
+                "compared",
+                "org.kde.kdiff3"
             ]
+        }
+    },
+    "keep-talking-and-nobody-explodes": {
+        "linux": {
+            "root": "steam_icon_341800"
         }
     },
     "keepass": {
@@ -9997,6 +11192,9 @@
         }
     },
     "keyring-manager": {
+        "android": [
+            "com.agilebits.onepassword/com.agilebits.onepassword.activity.LoginActivity"
+        ],
         "linux": {
             "root": "keyring-manager",
             "symlinks": [
@@ -10078,7 +11276,8 @@
         "linux": {
             "root": "kid3",
             "symlinks": [
-                "kid3-qt"
+                "kid3-qt",
+                "org.kde.kid3"
             ]
         }
     },
@@ -10094,6 +11293,7 @@
         "linux": {
             "root": "kigo",
             "symlinks": [
+                "cgoban",
                 "gogui",
                 "org.kde.kigo",
                 "quarry"
@@ -10127,6 +11327,14 @@
     "king-arthurs-gold": {
         "linux": {
             "root": "steam_icon_219830"
+        }
+    },
+    "kingscross": {
+        "linux": {
+            "root": "kingscross",
+            "symlinks": [
+                "org.gnome.zbrown.KingsCross"
+            ]
         }
     },
     "kingsoft-presentation": {
@@ -10199,7 +11407,10 @@
     },
     "klayout": {
         "linux": {
-            "root": "klayout"
+            "root": "klayout",
+            "symlinks": [
+                "de.klayout.KLayout"
+            ]
         }
     },
     "klettres": {
@@ -10217,7 +11428,10 @@
     },
     "klimbgrades": {
         "linux": {
-            "root": "klimbgrades"
+            "root": "klimbgrades",
+            "symlinks": [
+                "org.kde.klimbgrades"
+            ]
         }
     },
     "klines": {
@@ -10230,7 +11444,10 @@
     },
     "kmag": {
         "linux": {
-            "root": "kmag"
+            "root": "kmag",
+            "symlinks": [
+                "org.kde.kmag"
+            ]
         }
     },
     "kmahjongg": {
@@ -10256,6 +11473,7 @@
             "root": "kmplot",
             "symlinks": [
                 "LabPlot2",
+                "labplot2",
                 "org.kde.kmplot",
                 "org.kde.labplot2"
             ]
@@ -10346,6 +11564,14 @@
             ]
         }
     },
+    "komikku": {
+        "linux": {
+            "root": "komikku",
+            "symlinks": [
+                "info.febvre.Komikku"
+            ]
+        }
+    },
     "komodo": {
         "linux": {
             "root": "komodo"
@@ -10407,10 +11633,12 @@
         "linux": {
             "root": "kpat",
             "symlinks": [
+                "ace",
                 "aisleriot",
                 "gnome-hearts",
                 "kpatience",
-                "nmm_qt_client"
+                "nmm_qt_client",
+                "org.kde.kpat"
             ]
         }
     },
@@ -10421,6 +11649,14 @@
                 "com.github.bartzaalberg.recipes",
                 "gnome-recipes",
                 "org.gnome.Recipes"
+            ]
+        }
+    },
+    "krename": {
+        "linux": {
+            "root": "krename",
+            "symlinks": [
+                "org.kde.krename"
             ]
         }
     },
@@ -10583,7 +11819,10 @@
     },
     "kup": {
         "linux": {
-            "root": "kup"
+            "root": "kup",
+            "symlinks": [
+                "org.kde.kup"
+            ]
         }
     },
     "kupfer": {
@@ -10642,6 +11881,14 @@
             ]
         }
     },
+    "laigter": {
+        "linux": {
+            "root": "laigter",
+            "symlinks": [
+                "io.itch.azagaya.Laigter"
+            ]
+        }
+    },
     "lantern": {
         "linux": {
             "root": "lantern"
@@ -10653,6 +11900,9 @@
         }
     },
     "lastfm": {
+        "android": [
+            "fm.last.android/fm.last.android.LastFm"
+        ],
         "linux": {
             "root": "lastfm",
             "symlinks": [
@@ -10777,7 +12027,10 @@
     },
     "leocad": {
         "linux": {
-            "root": "leocad"
+            "root": "leocad",
+            "symlinks": [
+                "org.leocad.LeoCAD"
+            ]
         }
     },
     "lepton-snippet-manager": {
@@ -10814,6 +12067,8 @@
                 "libreoffice34-base",
                 "libreoffice4.2-base",
                 "libreoffice5.3-base",
+                "libreoffice6.3-base",
+                "libreoffice6.4-base",
                 "libreofficedev6.1-base",
                 "org.libreoffice.LibreOffice-base",
                 "org.libreoffice.LibreOffice.base"
@@ -10828,6 +12083,8 @@
                 "libreoffice34-calc",
                 "libreoffice4.2-calc",
                 "libreoffice5.3-calc",
+                "libreoffice6.3-calc",
+                "libreoffice6.4-calc",
                 "libreofficedev6.1-calc",
                 "org.libreoffice.LibreOffice-calc",
                 "org.libreoffice.LibreOffice.calc"
@@ -10842,6 +12099,8 @@
                 "libreoffice34-draw",
                 "libreoffice4.2-draw",
                 "libreoffice5.3-draw",
+                "libreoffice6.3-draw",
+                "libreoffice6.4-draw",
                 "libreofficedev6.1-draw",
                 "org.libreoffice.LibreOffice-draw",
                 "org.libreoffice.LibreOffice.draw"
@@ -10856,6 +12115,8 @@
                 "libreoffice34-impress",
                 "libreoffice4.2-impress",
                 "libreoffice5.3-impress",
+                "libreoffice6.3-impress",
+                "libreoffice6.4-impress",
                 "libreofficedev6.1-impress",
                 "org.libreoffice.LibreOffice-impress",
                 "org.libreoffice.LibreOffice.impress"
@@ -10877,6 +12138,8 @@
                 "libreoffice34-startcenter",
                 "libreoffice4",
                 "libreoffice5.3-startcenter",
+                "libreoffice6.3-startcenter",
+                "libreoffice6.4-startcenter",
                 "libreofficedev6.1-startcenter",
                 "org.libreoffice.LibreOffice-startcenter",
                 "org.libreoffice.LibreOffice.startcenter"
@@ -10891,6 +12154,8 @@
                 "libreoffice34-math",
                 "libreoffice4.2-math",
                 "libreoffice5.3-math",
+                "libreoffice6.3-math",
+                "libreoffice6.4-math",
                 "libreofficedev6.1-math",
                 "org.libreoffice.LibreOffice-math",
                 "org.libreoffice.LibreOffice.math"
@@ -10914,6 +12179,8 @@
                 "libreoffice34-writer",
                 "libreoffice4.2-writer",
                 "libreoffice5.3-writer",
+                "libreoffice6.3-writer",
+                "libreoffice6.4-writer",
                 "libreofficedev6.1-writer",
                 "org.libreoffice.LibreOffice-writer",
                 "org.libreoffice.LibreOffice.writer"
@@ -10935,7 +12202,10 @@
     },
     "lifeograph": {
         "linux": {
-            "root": "lifeograph"
+            "root": "lifeograph",
+            "symlinks": [
+                "net.sourceforge.Lifeograph"
+            ]
         }
     },
     "lightsoff": {
@@ -10960,6 +12230,16 @@
     "lightzone": {
         "linux": {
             "root": "lightzone"
+        }
+    },
+    "limbo": {
+        "android": [
+            "com.playdead.limbo.full/com.duapps.ad.DuAd",
+            "com.playdead.limbo.full/com.playdead.limbo.LimboActivity",
+            "com.playdead.limbo/com.playdead.limbo.LimboActivity"
+        ],
+        "linux": {
+            "root": "steam_icon_48000"
         }
     },
     "lime": {
@@ -11162,7 +12442,10 @@
     },
     "losslesscut": {
         "linux": {
-            "root": "losslesscut"
+            "root": "losslesscut",
+            "symlinks": [
+                "no.mifi.losslesscut"
+            ]
         }
     },
     "lottanzb": {
@@ -11208,12 +12491,24 @@
     },
     "lpub": {
         "linux": {
-            "root": "lpub"
+            "root": "lpub",
+            "symlinks": [
+                "lpub3d",
+                "org.trevorsandy.lpub3d"
+            ]
         }
     },
     "lshw": {
         "linux": {
             "root": "lshw-gtk"
+        }
+    },
+    "lsp-plugins": {
+        "linux": {
+            "root": "lsp-plugins",
+            "symlinks": [
+                "org.freedesktop.LinuxAudio.Lv2Plugins.LSP"
+            ]
         }
     },
     "ltris": {
@@ -11298,6 +12593,7 @@
         "linux": {
             "root": "m64py",
             "symlinks": [
+                "com.github.efdos.mupengui",
                 "mupen64plus",
                 "mupen64plus-qt",
                 "org.mupen64plus.Mupen64Plus"
@@ -11354,7 +12650,10 @@
     },
     "mame": {
         "linux": {
-            "root": "mame"
+            "root": "mame",
+            "symlinks": [
+                "qmc2"
+            ]
         }
     },
     "manager-accounting": {
@@ -11366,7 +12665,8 @@
         "linux": {
             "root": "manaplus",
             "symlinks": [
-                "chrome-fgdcjlfkdeadkbplfhkbjjccagjepodj-Default"
+                "chrome-fgdcjlfkdeadkbplfhkbjjccagjepodj-Default",
+                "org.manaplus.ManaPlus"
             ]
         }
     },
@@ -11377,7 +12677,18 @@
     },
     "mandelbulber": {
         "linux": {
-            "root": "mandelbulber"
+            "root": "mandelbulber",
+            "symlinks": [
+                "mandelbulber2"
+            ]
+        }
+    },
+    "mangareader": {
+        "linux": {
+            "root": "mangareader",
+            "symlinks": [
+                "com.georgefb.mangareader"
+            ]
         }
     },
     "mansa": {
@@ -11428,7 +12739,10 @@
     },
     "massif-visualizer": {
         "linux": {
-            "root": "massif-visualizer"
+            "root": "massif-visualizer",
+            "symlinks": [
+                "org.kde.massifvisualizer"
+            ]
         }
     },
     "masterpassword-gui": {
@@ -11441,12 +12755,23 @@
     },
     "mat": {
         "linux": {
-            "root": "mat"
+            "root": "mat",
+            "symlinks": [
+                "mat2"
+            ]
         }
     },
     "mate-panel-fish": {
         "linux": {
             "root": "mate-panel-fish"
+        }
+    },
+    "material-maker": {
+        "linux": {
+            "root": "material-maker",
+            "symlinks": [
+                "io.github.RodZill4.Material-Maker"
+            ]
         }
     },
     "matlab": {
@@ -11485,6 +12810,11 @@
             ]
         }
     },
+    "mcosu": {
+        "linux": {
+            "root": "steam_icon_607260"
+        }
+    },
     "mdmflexiserver": {
         "linux": {
             "root": "mdmflexiserver"
@@ -11498,6 +12828,11 @@
     "meandmyshadow": {
         "linux": {
             "root": "meandmyshadow"
+        }
+    },
+    "media-dupes": {
+        "linux": {
+            "root": "media-dupes"
         }
     },
     "media-player-banshee": {
@@ -11548,6 +12883,9 @@
         }
     },
     "mega": {
+        "android": [
+            "com.flyingottersoftware.mega/com.flyingottersoftware.mega.ManagerActivity"
+        ],
         "linux": {
             "root": "mega"
         }
@@ -11666,9 +13004,29 @@
             "root": "milkytracker"
         }
     },
+    "milton": {
+        "linux": {
+            "root": "milton"
+        }
+    },
+    "miminote": {
+        "android": [
+            "com.moquji.miminote/com.moquji.miminote.activity.MainActivity"
+        ]
+    },
     "min": {
         "linux": {
             "root": "min"
+        }
+    },
+    "mindustry": {
+        "linux": {
+            "root": "mindustry",
+            "symlinks": [
+                "com.github.Anuken.Mindustry",
+                "Mindustry",
+                "steam_icon_1127400"
+            ]
         }
     },
     "minecraft": {
@@ -11676,7 +13034,11 @@
             "root": "minecraft",
             "symlinks": [
                 "com.mojang.Minecraft",
-                "minecraft-launcher"
+                "mcpelauncher-ui-qt",
+                "minecraft-launcher",
+                "minecraft-pi",
+                "org.tlauncher.TLauncher",
+                "tlauncher"
             ]
         }
     },
@@ -11695,6 +13057,14 @@
         ],
         "linux": {
             "root": "steam_icon_287980"
+        }
+    },
+    "minigalaxy": {
+        "linux": {
+            "root": "minigalaxy",
+            "symlinks": [
+                "com.github.sharkwouter.minigalaxy"
+            ]
         }
     },
     "minitube": {
@@ -11721,7 +13091,18 @@
     },
     "minuet": {
         "linux": {
-            "root": "minuet"
+            "root": "minuet",
+            "symlinks": [
+                "org.kde.minuet"
+            ]
+        }
+    },
+    "mirage": {
+        "linux": {
+            "root": "mirage",
+            "symlinks": [
+                "io.github.mirukana.mirage"
+            ]
         }
     },
     "miro": {
@@ -11743,7 +13124,8 @@
             "root": "mixxx-icon",
             "symlinks": [
                 "mixxx",
-                "mixxx_icon"
+                "mixxx_icon",
+                "org.mixxx.Mixxx"
             ]
         }
     },
@@ -11818,6 +13200,14 @@
             ]
         }
     },
+    "mmapper": {
+        "linux": {
+            "root": "mmapper",
+            "symlinks": [
+                "org.mume.MMapper"
+            ]
+        }
+    },
     "mobile-pass": {
         "android": [
             "securecomputing.devices.android.controller/securecomputing.devices.android.controller.AndroidToken"
@@ -11826,6 +13216,11 @@
     "modelio": {
         "linux": {
             "root": "modelio"
+        }
+    },
+    "moe-era": {
+        "linux": {
+            "root": "steam_icon_1159660"
         }
     },
     "moeditor": {
@@ -11850,6 +13245,7 @@
         "linux": {
             "root": "monero",
             "symlinks": [
+                "monero-qt",
                 "monero-wallet-gui",
                 "org.getmonero.Wallet"
             ]
@@ -11881,6 +13277,11 @@
     "monogame": {
         "linux": {
             "root": "monogame"
+        }
+    },
+    "monster-prom": {
+        "linux": {
+            "root": "steam_icon_743450"
         }
     },
     "monster-rpg-2": {
@@ -11945,9 +13346,7 @@
         "linux": {
             "root": "mpv",
             "symlinks": [
-                "gnome-mpv",
-                "io.github.Celluloid",
-                "io.github.GnomeMpv",
+                "io.mpv.Mpv",
                 "kplayer",
                 "mpv-icon-8bit-64x64"
             ]
@@ -11976,6 +13375,9 @@
         }
     },
     "ms-outlook": {
+        "android": [
+            "com.outlook.Z7/com.seven.Z7.app.email.EmailFront"
+        ],
         "linux": {
             "root": "ms-outlook"
         }
@@ -12034,6 +13436,11 @@
             "root": "mudlet"
         }
     },
+    "mullvad-vpn": {
+        "linux": {
+            "root": "mullvad-vpn"
+        }
+    },
     "multibootusb": {
         "linux": {
             "root": "multibootusb",
@@ -12043,11 +13450,17 @@
             ]
         }
     },
+    "multimc": {
+        "linux": {
+            "root": "multimc"
+        }
+    },
     "multimedia-audio-player": {
         "linux": {
             "root": "multimedia-audio-player",
             "symlinks": [
                 "beatbox",
+                "io.elementary.music",
                 "noise",
                 "org.pantheon.noise"
             ]
@@ -12055,7 +13468,10 @@
     },
     "multimedia-video-player": {
         "linux": {
-            "root": "multimedia-video-player"
+            "root": "multimedia-video-player",
+            "symlinks": [
+                "io.elementary.videos"
+            ]
         }
     },
     "multimedia-volume-control": {
@@ -12111,6 +13527,15 @@
             ]
         }
     },
+    "multiwinia": {
+        "linux": {
+            "root": "multiwinia",
+            "symlinks": [
+                "Multiwinia",
+                "steam_icon_1530"
+            ]
+        }
+    },
     "mumble": {
         "linux": {
             "root": "mumble",
@@ -12137,7 +13562,10 @@
     },
     "mupdf": {
         "linux": {
-            "root": "mupdf"
+            "root": "mupdf",
+            "symlinks": [
+                "pdftag"
+            ]
         }
     },
     "murder-files": {
@@ -12160,6 +13588,11 @@
     "museeks": {
         "linux": {
             "root": "museeks"
+        }
+    },
+    "museeq": {
+        "linux": {
+            "root": "museeq"
         }
     },
     "musescore": {
@@ -12217,6 +13650,11 @@
             "root": "mysql-workbench"
         }
     },
+    "mystiq": {
+        "linux": {
+            "root": "mystiq"
+        }
+    },
     "mytourbook": {
         "linux": {
             "root": "mytourbook"
@@ -12248,9 +13686,7 @@
         "linux": {
             "root": "nasc",
             "symlinks": [
-                "com.github.parnold-x.nasc",
-                "gnome-genius",
-                "org.gnome.Genius"
+                "com.github.parnold-x.nasc"
             ]
         }
     },
@@ -12455,7 +13891,10 @@
     },
     "nexuiz": {
         "linux": {
-            "root": "nexuiz"
+            "root": "nexuiz",
+            "symlinks": [
+                "com.alientrap.nexuiz-classic"
+            ]
         }
     },
     "nfoview": {
@@ -12495,7 +13934,9 @@
             "root": "nimbus",
             "symlinks": [
                 "com.github.bitseater.weather",
-                "com.github.danrabbit.nimbus"
+                "com.github.danrabbit.nimbus",
+                "com.gitlab.bitseater.meteo",
+                "io.elementary.meteo"
             ]
         }
     },
@@ -12544,6 +13985,11 @@
             "root": "NoMachine-icon"
         }
     },
+    "no-mans-sky": {
+        "linux": {
+            "root": "steam_icon_275850"
+        }
+    },
     "no-more-room-in-hell": {
         "linux": {
             "root": "steam_icon_224260"
@@ -12556,7 +14002,10 @@
     },
     "nomacs": {
         "linux": {
-            "root": "nomacs"
+            "root": "nomacs",
+            "symlinks": [
+                "org.nomacs.ImageLounge"
+            ]
         }
     },
     "non-mixer": {
@@ -12592,6 +14041,15 @@
             "root": "noson",
             "symlinks": [
                 "io.github.janbar.noson"
+            ]
+        }
+    },
+    "nostalgia": {
+        "linux": {
+            "root": "nostalgia",
+            "symlinks": [
+                "im.bernard.Nostalgia",
+                "org.gnome.Nostalgia"
             ]
         }
     },
@@ -12645,6 +14103,7 @@
                 "gnome-icon-preview",
                 "gtk3-icon-browser",
                 "gtk4-icon-browser",
+                "org.gnome.design.AppIconPreview",
                 "org.gnome.IconPreview",
                 "org.gtk.IconBrowser3",
                 "org.gtk.IconBrowser4",
@@ -12674,6 +14133,7 @@
         "linux": {
             "root": "nuvolaplayer",
             "symlinks": [
+                "eu.tiliado.Nuvola",
                 "nuvolaplayer3"
             ]
         }
@@ -12692,10 +14152,12 @@
         "linux": {
             "root": "nvidia",
             "symlinks": [
+                "bumblebee-config-gui",
                 "com.leinardi.gwe",
                 "nvidia-310-settings",
                 "nvidia-current-settings",
                 "nvidia-current-updates-settings",
+                "nvidia-ddm-mx",
                 "nvidia-drivers-settings",
                 "nvidia-settings",
                 "nvidia-x-server-setting",
@@ -12722,6 +14184,14 @@
             "root": "nylas",
             "symlinks": [
                 "nylas-mail"
+            ]
+        }
+    },
+    "obfuscate": {
+        "linux": {
+            "root": "obfuscate",
+            "symlinks": [
+                "com.belmoussaoui.Obfuscate"
             ]
         }
     },
@@ -12766,8 +14236,14 @@
                 "octave-icon",
                 "octave-logo",
                 "org.octave.Octave",
+                "org.octave.Octave_64_64",
                 "qtoctave"
             ]
+        }
+    },
+    "octodad-dadliest-catch": {
+        "linux": {
+            "root": "steam_icon_224480"
         }
     },
     "octopi": {
@@ -12818,6 +14294,15 @@
             "root": "okular",
             "symlinks": [
                 "org.kde.okular"
+            ]
+        }
+    },
+    "okuna": {
+        "linux": {
+            "root": "okuna",
+            "symlinks": [
+                "moe._999eagle.OkunaDesktop",
+                "okuna-desktop"
             ]
         }
     },
@@ -12880,6 +14365,17 @@
             "root": "onionshare",
             "symlinks": [
                 "onionshare80"
+            ]
+        }
+    },
+    "onlyoffice": {
+        "linux": {
+            "root": "onlyoffice",
+            "symlinks": [
+                "asc-de",
+                "com.onlyoffice.DesktopEditors",
+                "onlyoffice-desktopeditors",
+                "org.onlyoffice.desktopeditors"
             ]
         }
     },
@@ -13021,6 +14517,14 @@
             ]
         }
     },
+    "open-orienteering-mapper": {
+        "linux": {
+            "root": "open-orienteering-mapper",
+            "symlinks": [
+                "Mapper"
+            ]
+        }
+    },
     "open-stage-control": {
         "linux": {
             "root": "open-stage-control"
@@ -13046,7 +14550,7 @@
             "symlinks": [
                 "openbazaar2",
                 "openbazaar2client"
-]
+            ]
         }
     },
     "openboard": {
@@ -13080,9 +14584,17 @@
             ]
         }
     },
+    "opencomic": {
+        "linux": {
+            "root": "opencomic"
+        }
+    },
     "opencpn": {
         "linux": {
-            "root": "opencpn"
+            "root": "opencpn",
+            "symlinks": [
+                "org.opencpn.OpenCPN"
+            ]
         }
     },
     "opendict": {
@@ -13164,7 +14676,11 @@
     },
     "opensonic": {
         "linux": {
-            "root": "opensonic"
+            "root": "opensonic",
+            "symlinks": [
+                "org.srb2.SRB2",
+                "srb2"
+            ]
         }
     },
     "openteacher": {
@@ -13209,7 +14725,11 @@
     },
     "openyahtzee": {
         "linux": {
-            "root": "openyahtzee"
+            "root": "openyahtzee",
+            "symlinks": [
+                "codes.nora.gDiceRoller",
+                "gdiceroller"
+            ]
         }
     },
     "opera": {
@@ -13225,6 +14745,9 @@
         }
     },
     "opera-next-browser": {
+        "android": [
+            "com.opera.browser.beta/com.opera.android.OperaStartActivity"
+        ],
         "linux": {
             "root": "opera-next-browser",
             "symlinks": [
@@ -13255,7 +14778,10 @@
     },
     "oracle-sqldeveloper": {
         "linux": {
-            "root": "oracle-sqldeveloper"
+            "root": "oracle-sqldeveloper",
+            "symlinks": [
+                "sqldeveloper"
+            ]
         }
     },
     "orange-canvas": {
@@ -13340,14 +14866,31 @@
             "root": "outline-manager"
         }
     },
+    "oversteer": {
+        "linux": {
+            "root": "oversteer",
+            "symlinks": [
+                "io.itch.pyLinuxWheel",
+                "org.berarma.Oversteer",
+                "pyLinuxWheel",
+                "pylinuxwheel"
+            ]
+        }
+    },
     "owlboy": {
         "linux": {
             "root": "steam_icon_115800"
         }
     },
     "owncloud": {
+        "android": [
+            "com.owncloud.android/com.owncloud.android.ui.activity.FileDisplayActivity"
+        ],
         "linux": {
-            "root": "owncloud"
+            "root": "owncloud",
+            "symlinks": [
+                "eu.tiliado.NuvolaAppOwncloudMusic"
+            ]
         }
     },
     "oxygen-not-included": {
@@ -13482,7 +15025,8 @@
         "linux": {
             "root": "parlatype",
             "symlinks": [
-                "com.github.gkarsay.parlatype"
+                "com.github.gkarsay.parlatype",
+                "org.parlatype.Parlatype"
             ]
         }
     },
@@ -13500,6 +15044,11 @@
             "symlinks": [
                 "org.xfce.Parole"
             ]
+        }
+    },
+    "particl-desktop": {
+        "linux": {
+            "root": "particl-desktop"
         }
     },
     "particle-mace": {
@@ -13538,7 +15087,15 @@
             "root": "patchmatrix"
         }
     },
+    "patroneo": {
+        "linux": {
+            "root": "patroneo"
+        }
+    },
     "paypal": {
+        "android": [
+            "com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.activity.IntroActivity"
+        ],
         "linux": {
             "root": "paypal",
             "symlinks": [
@@ -13575,7 +15132,11 @@
     },
     "pd": {
         "linux": {
-            "root": "pd"
+            "root": "pd",
+            "symlinks": [
+                "net.purrdata.PurrData",
+                "pure-data"
+            ]
         }
     },
     "pd-extended": {
@@ -13601,6 +15162,7 @@
                 "eu.scarpetta.PDFMixTool",
                 "flpsed",
                 "master-pdf-editor",
+                "net.codeindustry.MasterPDFEditor",
                 "pdfmixtool",
                 "pdftricks"
             ]
@@ -13615,6 +15177,7 @@
         "linux": {
             "root": "pdfshuffler",
             "symlinks": [
+                "com.github.jeromerobert.pdfarranger",
                 "com.github.junrrein.PDFSlicer",
                 "pdfarranger",
                 "pdfslicer"
@@ -13692,12 +15255,18 @@
     },
     "persepolis": {
         "linux": {
-            "root": "persepolis"
+            "root": "persepolis",
+            "symlinks": [
+                "com.github.persepolisdm.persepolis"
+            ]
         }
     },
     "peruse": {
         "linux": {
-            "root": "peruse"
+            "root": "peruse",
+            "symlinks": [
+                "org.kde.peruse"
+            ]
         }
     },
     "peruse-creator": {
@@ -13707,7 +15276,10 @@
     },
     "pext": {
         "linux": {
-            "root": "pext"
+            "root": "pext",
+            "symlinks": [
+                "io.pext.pext"
+            ]
         }
     },
     "pgadmin": {
@@ -13852,9 +15424,9 @@
         }
     },
     "pico-8": {
-    	"linux": {
-    		"root": "pico-8"
-    	}
+        "linux": {
+            "root": "pico-8"
+        }
     },
     "picsaw": {
         "linux": {
@@ -13866,8 +15438,14 @@
             "root": "pidgin",
             "symlinks": [
                 "im.pidgin.Pidgin",
+                "im.pidgin.Pidgin3",
                 "pidgin-menu"
             ]
+        }
+    },
+    "pinball": {
+        "linux": {
+            "root": "pinball"
         }
     },
     "pingus-icon": {
@@ -13941,9 +15519,22 @@
             ]
         }
     },
+    "pixel-vision-8": {
+        "linux": {
+            "root": "pixel-vision-8"
+        }
+    },
     "pixeljunk-monsters-ultimate": {
         "linux": {
             "root": "steam_icon_243780"
+        }
+    },
+    "pixelorama": {
+        "linux": {
+            "root": "pixelorama",
+            "symlinks": [
+                "com.orama_interactive.Pixelorama"
+            ]
         }
     },
     "plague": {
@@ -13957,6 +15548,11 @@
     "planeshift": {
         "linux": {
             "root": "planeshift"
+        }
+    },
+    "planetary-anihilation-titans": {
+        "linux": {
+            "root": "steam_icon_386070"
         }
     },
     "plank": {
@@ -14014,6 +15610,9 @@
         }
     },
     "plexhometheater": {
+        "android": [
+            "com.plexapp.android/com.plexapp.android.activity.MainActivity"
+        ],
         "linux": {
             "root": "plexhometheater",
             "symlinks": [
@@ -14035,6 +15634,11 @@
                 "nl.g4d.Girens",
                 "plexmediaserver"
             ]
+        }
+    },
+    "pling-store": {
+        "linux": {
+            "root": "pling-store"
         }
     },
     "plume-creator": {
@@ -14082,6 +15686,11 @@
             "root": "pokerth"
         }
     },
+    "polar-bookshelf": {
+        "linux": {
+            "root": "polar-bookshelf"
+        }
+    },
     "polari": {
         "linux": {
             "root": "polari",
@@ -14112,7 +15721,10 @@
     },
     "polyphone": {
         "linux": {
-            "root": "polyphone"
+            "root": "polyphone",
+            "symlinks": [
+                "com.polyphonesoundfonts.polyphone"
+            ]
         }
     },
     "pomidor": {
@@ -14129,7 +15741,16 @@
             "root": "chrome-omimkinlomnncbmnceacpkmlbfaapojj-Default"
         }
     },
+    "pony-island": {
+        "linux": {
+            "root": "steam_icon_405640"
+        }
+    },
     "popcorntime": {
+        "android": [
+            "dp.ws.popcorntime/dp.ws.popcorntime.ui.HostActivity",
+            "dp.ws.popcorntime/dp.ws.time4popcorn.ui.HostActivity"
+        ],
         "linux": {
             "root": "popcorntime",
             "symlinks": [
@@ -14156,9 +15777,22 @@
             ]
         }
     },
+    "portal-stories-mel": {
+        "linux": {
+            "root": "steam_icon_317400"
+        }
+    },
     "portecle": {
         "linux": {
             "root": "portecle"
+        }
+    },
+    "porto": {
+        "linux": {
+            "root": "porto",
+            "symlinks": [
+                "org.cvfosammmm.Porto"
+            ]
         }
     },
     "postman": {
@@ -14188,7 +15822,11 @@
     },
     "powder-toy": {
         "linux": {
-            "root": "powder-toy"
+            "root": "powder-toy",
+            "symlinks": [
+                "com.github.ThePowderToy.ThePowderToy",
+                "uk.co.powdertoy.tpt"
+            ]
         }
     },
     "power-installer": {
@@ -14233,6 +15871,7 @@
                 "mate-color-manager",
                 "org.gnome.ColorProfileViewer",
                 "org.gnome.ColorViewer",
+                "org.kde.kcolorchooser",
                 "preferences-desktop-color",
                 "unity-color-panel"
             ]
@@ -14297,6 +15936,7 @@
                 "key_bindings",
                 "ktouch",
                 "mintlocale-im",
+                "org.kde.kcharselect",
                 "org.kde.ktouch",
                 "shortcuts"
             ]
@@ -14320,6 +15960,8 @@
         "linux": {
             "root": "preferences-desktop-notification",
             "symlinks": [
+                "linconnect",
+                "linconnect-server",
                 "preferences-desktop-notification-bell",
                 "preferences-desktop-notifications"
             ]
@@ -14392,7 +16034,15 @@
             ]
         }
     },
+    "preferences-plugin-script": {
+        "linux": {
+            "root": "preferences-plugin-script"
+        }
+    },
     "preferences-system": {
+        "android": [
+            "com.android.settings/com.android.settings.Settings"
+        ],
         "linux": {
             "root": "preferences-system",
             "symlinks": [
@@ -14404,6 +16054,7 @@
                 "gnome-settings",
                 "gnome-system",
                 "gnome-system-config",
+                "io.elementary.switchboard",
                 "kcontrol",
                 "org.gnome.Settings",
                 "paprefs",
@@ -14452,7 +16103,10 @@
     },
     "preferences-system-search": {
         "linux": {
-            "root": "preferences-system-search"
+            "root": "preferences-system-search",
+            "symlinks": [
+                "5961_Defunct_x86.0"
+            ]
         }
     },
     "preferences-system-sharing": {
@@ -14469,6 +16123,7 @@
         "linux": {
             "root": "preferences-system-time",
             "symlinks": [
+                "accessories-clock",
                 "blueclock",
                 "blueclock32",
                 "clock",
@@ -14482,6 +16137,8 @@
                 "kalarm",
                 "ktimer",
                 "org.kde.kalarm",
+                "org.kde.ktimer",
+                "preferences-system-cron",
                 "stock_alarm",
                 "time",
                 "time-admin",
@@ -14494,6 +16151,11 @@
     "preferences-system-windows-move": {
         "linux": {
             "root": "preferences-system-windows-move"
+        }
+    },
+    "preferences-web-browser-cache": {
+        "linux": {
+            "root": "preferences-web-browser-cache"
         }
     },
     "preferences-web-browser-cookies": {
@@ -14530,6 +16192,11 @@
             ]
         }
     },
+    "progressbar95": {
+        "android": [
+            "com.spookyhousestudios.progressbar95/com.ansca.corona.CoronaActivity"
+        ]
+    },
     "projectlibre": {
         "linux": {
             "root": "projectlibre"
@@ -14538,6 +16205,25 @@
     "proteus": {
         "linux": {
             "root": "steam_icon_219680"
+        }
+    },
+    "proton": {
+        "linux": {
+            "root": "proton",
+            "symlinks": [
+                "com.raggesilver.Proton"
+            ]
+        }
+    },
+    "protonmail": {
+        "linux": {
+            "root": "protonmail",
+            "symlinks": [
+                "ch.protonmail.protonmail-bridge",
+                "protonmail-desktop",
+                "protonmail-desktop-unofficial",
+                "ProtonMail_Bridge"
+            ]
         }
     },
     "psensor": {
@@ -14576,6 +16262,9 @@
         }
     },
     "pulse-sms": {
+        "android": [
+            "xyz.klinker.messenger/xyz.klinker.messenger.activity.MessengerActivity"
+        ],
         "linux": {
             "root": "pulse-sms"
         }
@@ -14599,6 +16288,14 @@
     "pumpa": {
         "linux": {
             "root": "pumpa"
+        }
+    },
+    "pure-maps": {
+        "linux": {
+            "root": "pure-maps",
+            "symlinks": [
+                "harbour-pure-maps"
+            ]
         }
     },
     "pureref": {
@@ -14699,6 +16396,7 @@
         "linux": {
             "root": "pychess",
             "symlinks": [
+                "3dchess",
                 "dreamchess"
             ]
         }
@@ -14717,6 +16415,11 @@
             "root": "pymol"
         }
     },
+    "pynocchio": {
+        "linux": {
+            "root": "pynocchio"
+        }
+    },
     "pypar": {
         "linux": {
             "root": "pypar"
@@ -14729,6 +16432,11 @@
                 "kfilereplace",
                 "prefixsuffix"
             ]
+        }
+    },
+    "pysol": {
+        "linux": {
+            "root": "pysol"
         }
     },
     "pyspread": {
@@ -14829,7 +16537,8 @@
                 "qemu-system-arm",
                 "qemu-system-i386",
                 "qemu-system-x86_64",
-                "qemu-system-x86_64-spice"
+                "qemu-system-x86_64-spice",
+                "qtemu"
             ]
         }
     },
@@ -14951,6 +16660,11 @@
             "root": "QMPlay2"
         }
     },
+    "qnetstatview": {
+        "linux": {
+            "root": "qnetstatview"
+        }
+    },
     "qomp": {
         "linux": {
             "root": "qomp"
@@ -15002,8 +16716,11 @@
             "root": "qreator",
             "symlinks": [
                 "com.github.mubitosh.qrshare",
+                "org.kde.qrca",
+                "qrca",
                 "qtqr",
-                "quearcode"
+                "quearcode",
+                "vn.hoabinh.quan.cobang"
             ]
         }
     },
@@ -15187,7 +16904,11 @@
     },
     "quake2": {
         "linux": {
-            "root": "quake2"
+            "root": "quake2",
+            "symlinks": [
+                "org.yamagi.YamagiQ2",
+                "Quake2"
+            ]
         }
     },
     "quake3": {
@@ -15288,6 +17009,15 @@
             "root": "qutim"
         }
     },
+    "qv2ray": {
+        "linux": {
+            "root": "qv2ray",
+            "symlinks": [
+                "com.github.Qv2ray",
+                "Qv2ray"
+            ]
+        }
+    },
     "qv4l2": {
         "linux": {
             "root": "qv4l2"
@@ -15373,7 +17103,11 @@
     },
     "rambox": {
         "linux": {
-            "root": "rambox"
+            "root": "rambox",
+            "symlinks": [
+                "hamsket",
+                "rambox-os"
+            ]
         }
     },
     "rapid-photo-downloader": {
@@ -15432,6 +17166,11 @@
             "root": "rbutil"
         }
     },
+    "rclone-browser": {
+        "linux": {
+            "root": "rclone-browser"
+        }
+    },
     "rcmdr": {
         "linux": {
             "root": "rcmdr",
@@ -15470,9 +17209,22 @@
             "root": "reactotron"
         }
     },
+    "readitlater": {
+        "linux": {
+            "root": "readitlater",
+            "symlinks": [
+                "com.belmoussaoui.ReadItLater"
+            ]
+        }
+    },
     "realtimesync": {
         "linux": {
             "root": "realtimesync"
+        }
+    },
+    "reassembly": {
+        "linux": {
+            "root": "steam_icon_329130"
         }
     },
     "receitanet": {
@@ -15489,6 +17241,11 @@
         "linux": {
             "root": "recoll"
         }
+    },
+    "red-game": {
+        "android": [
+            "air.com.bartbonte.red/air.com.bartbonte.red.AppEntry"
+        ]
     },
     "redeclipse": {
         "linux": {
@@ -15538,6 +17295,11 @@
     "regina": {
         "linux": {
             "root": "regina"
+        }
+    },
+    "reicast": {
+        "linux": {
+            "root": "reicast"
         }
     },
     "reigns": {
@@ -15591,6 +17353,7 @@
                 "gnome-remote-desktop",
                 "krdc",
                 "krfb",
+                "org.kde.krdc",
                 "org.kde.krfb",
                 "preferences-desktop-remote-desktop",
                 "preferences-remote-desktop",
@@ -15634,7 +17397,15 @@
     },
     "retroshare": {
         "linux": {
-            "root": "retroshare"
+            "root": "retroshare",
+            "symlinks": [
+                "cc.retroshare.retroshare-gui"
+            ]
+        }
+    },
+    "revenge-of-the-titans": {
+        "linux": {
+            "root": "steam_icon_93200"
         }
     },
     "revolt": {
@@ -15727,7 +17498,10 @@
     },
     "robocode": {
         "linux": {
-            "root": "robocode"
+            "root": "robocode",
+            "symlinks": [
+                "org.robocode.Robocode"
+            ]
         }
     },
     "robocraft": {
@@ -15783,12 +17557,23 @@
     },
     "roger": {
         "linux": {
-            "root": "roger"
+            "root": "roger",
+            "symlinks": [
+                "org.tabos.roger"
+            ]
         }
     },
     "rogue-legacy": {
         "linux": {
             "root": "steam_icon_241600"
+        }
+    },
+    "rolisteam": {
+        "linux": {
+            "root": "rolisteam",
+            "symlinks": [
+                "org.rolisteam.rolisteam"
+            ]
         }
     },
     "rosamp": {
@@ -15816,7 +17601,10 @@
     },
     "rsibreak": {
         "linux": {
-            "root": "rsibreak"
+            "root": "rsibreak",
+            "symlinks": [
+                "org.kde.rsibreak"
+            ]
         }
     },
     "rss": {
@@ -15846,12 +17634,30 @@
     },
     "rss-blue": {
         "linux": {
-            "root": "liferea"
+            "root": "liferea",
+            "symlinks": [
+                "net.sourceforge.liferea"
+            ]
         }
     },
     "rss-green": {
         "linux": {
             "root": "quiterss"
+        }
+    },
+    "rss-inverted": {
+        "linux": {
+            "root": "gnome-feeds",
+            "symlinks": [
+                "gfeeds",
+                "org.gabmus.gfeeds",
+                "org.gabmus.gnome-feeds"
+            ]
+        }
+    },
+    "rss-light-green": {
+        "linux": {
+            "root": "raven-reader"
         }
     },
     "rss-red": {
@@ -15924,6 +17730,11 @@
             ]
         }
     },
+    "rust-game": {
+        "linux": {
+            "root": "steam_icon_252490"
+        }
+    },
     "rygel": {
         "linux": {
             "root": "rygel"
@@ -15952,6 +17763,11 @@
     "samplv1": {
         "linux": {
             "root": "samplv1"
+        }
+    },
+    "samrewritten": {
+        "linux": {
+            "root": "samrewritten"
         }
     },
     "sauerbraten": {
@@ -15991,8 +17807,10 @@
             "symlinks": [
                 "deepin-cloud-scan-config-helper",
                 "org.gnome.SimpleScan",
+                "org.kde.skanlite",
                 "package_graphics_scanning",
                 "simple-scan",
+                "skanlite",
                 "xsane"
             ]
         }
@@ -16054,7 +17872,9 @@
         "linux": {
             "root": "scratch",
             "symlinks": [
-                "edu.mit.Scratch"
+                "edu.mit.Scratch",
+                "scratch-desktop",
+                "scratch2"
             ]
         }
     },
@@ -16153,6 +17973,15 @@
             "root": "sdl-ball"
         }
     },
+    "sdrangel": {
+        "linux": {
+            "root": "sdrangel",
+            "symlinks": [
+                "org.sdrangel.SDRangel",
+                "sdrangel_icon"
+            ]
+        }
+    },
     "se-troubleshoot": {
         "linux": {
             "root": "setroubleshoot_icon"
@@ -16178,7 +18007,11 @@
     },
     "seamlyme": {
         "linux": {
-            "root": "seamlyme"
+            "root": "seamlyme",
+            "symlinks": [
+                "seamly2d",
+                "tape"
+            ]
         }
     },
     "search": {
@@ -16193,6 +18026,7 @@
                 "gnome-searchtool",
                 "gsearchtool",
                 "kfind",
+                "org.kde.kdesearch",
                 "regexxer",
                 "searchmonkey",
                 "strigi"
@@ -16221,7 +18055,8 @@
             "symlinks": [
                 "clamav",
                 "clamav-gui",
-                "clamtk"
+                "clamtk",
+                "com.gitlab.davem.ClamTk"
             ]
         }
     },
@@ -16289,6 +18124,15 @@
             ]
         }
     },
+    "session-messenger": {
+        "linux": {
+            "root": "session-messenger",
+            "symlinks": [
+                "network.loki.Session",
+                "session-messenger-desktop"
+            ]
+        }
+    },
     "session-properties": {
         "linux": {
             "root": "session-properties",
@@ -16308,13 +18152,30 @@
         "linux": {
             "root": "setbfree",
             "symlinks": [
+                "org.freedesktop.LinuxAudio.Lv2Plugins.setBfree",
                 "setBfree"
+            ]
+        }
+    },
+    "setzer": {
+        "linux": {
+            "root": "setzer",
+            "symlinks": [
+                "org.cvfosammmm.Setzer"
             ]
         }
     },
     "sflphone": {
         "linux": {
             "root": "sflphone"
+        }
+    },
+    "shadered": {
+        "linux": {
+            "root": "shadered",
+            "symlinks": [
+                "org.shadered.SHADERed"
+            ]
         }
     },
     "shadowrun-dragonfall-directors-cut": {
@@ -16345,6 +18206,11 @@
             ]
         }
     },
+    "shapez-io": {
+        "linux": {
+            "root": "steam_icon_1318690"
+        }
+    },
     "shares": {
         "linux": {
             "root": "shares",
@@ -16367,6 +18233,8 @@
         "linux": {
             "root": "shotwell",
             "symlinks": [
+                "io.elementary.photos",
+                "io.elementary.photos-viewer",
                 "multimedia-photo-manager",
                 "multimedia-photo-viewer",
                 "org.gnome.Shotwell"
@@ -16401,9 +18269,20 @@
             "root": "steam_icon_8930"
         }
     },
+    "sideload": {
+        "linux": {
+            "root": "sideload",
+            "symlinks": [
+                "io.elementary.sideload"
+            ]
+        }
+    },
     "sigil": {
         "linux": {
-            "root": "sigil"
+            "root": "sigil",
+            "symlinks": [
+                "com.sigil_ebook.Sigil"
+            ]
         }
     },
     "sigviewer": {
@@ -16428,7 +18307,8 @@
         "linux": {
             "root": "simplescreenrecorder",
             "symlinks": [
-                "vokoscreen"
+                "vokoscreen",
+                "vokoscreenNG"
             ]
         }
     },
@@ -16452,13 +18332,17 @@
         "linux": {
             "root": "simutrans",
             "symlinks": [
+                "steam_icon_434520",
                 "TruckSim"
             ]
         }
     },
     "sirikali": {
         "linux": {
-            "root": "sirikali"
+            "root": "sirikali",
+            "symlinks": [
+                "io.github.mhogomchungu.SiriKali"
+            ]
         }
     },
     "siril": {
@@ -16472,6 +18356,11 @@
     "sk1": {
         "linux": {
             "root": "sk1"
+        }
+    },
+    "sk1-color-picker": {
+        "linux": {
+            "root": "sk1-color-picker"
         }
     },
     "skifra": {
@@ -16493,6 +18382,16 @@
     "skychart": {
         "linux": {
             "root": "skychart"
+        }
+    },
+    "skydmin": {
+        "linux": {
+            "root": "skydmin"
+        }
+    },
+    "skylendar": {
+        "linux": {
+            "root": "skylendar"
         }
     },
     "skype": {
@@ -16545,12 +18444,23 @@
     },
     "slic3r-prusa3d": {
         "linux": {
-            "root": "slic3r-prusa3d"
+            "root": "slic3r-prusa3d",
+            "symlinks": [
+                "com.prusa3d.PrusaSlicer"
+            ]
         }
     },
     "slidewall": {
         "linux": {
             "root": "slidewall"
+        }
+    },
+    "slime-rancher": {
+        "linux": {
+            "root": "steam_icon_433340",
+            "symlinks": [
+                "steam_icon_622050"
+            ]
         }
     },
     "slimevolley": {
@@ -16599,6 +18509,11 @@
         "linux": {
             "root": "smarttrafficmeter"
         }
+    },
+    "smash-hit": {
+        "android": [
+            "com.mediocre.smashhit/com.mediocre.smashhit.Main"
+        ]
     },
     "smc": {
         "linux": {
@@ -16653,7 +18568,16 @@
         "linux": {
             "root": "snes9x",
             "symlinks": [
-                "com.snes9x.Snes9x"
+                "com.snes9x.Snes9x",
+                "snes9x-gtk"
+            ]
+        }
+    },
+    "snowflake": {
+        "linux": {
+            "root": "snowflake",
+            "symlinks": [
+                "org.snowflake_ssh.App"
             ]
         }
     },
@@ -16719,7 +18643,10 @@
     },
     "solarus": {
         "linux": {
-            "root": "solarus"
+            "root": "solarus",
+            "symlinks": [
+                "solarus-launcher"
+            ]
         }
     },
     "solarus-quest-editor": {
@@ -16740,6 +18667,27 @@
     "sonata": {
         "linux": {
             "root": "sonata"
+        }
+    },
+    "sonic-pi": {
+        "linux": {
+            "root": "sonic-pi"
+        }
+    },
+    "sonic-the-hedgehog": {
+        "android": [
+            "com.sega.sonic1px/com.sega.sonic2px.MainActivity"
+        ],
+        "linux": {
+            "root": "sonic-the-hedgehog"
+        }
+    },
+    "sonic-the-hedgehog-2": {
+        "android": [
+            "com.sega.sonic2.runner/com.sega.sonic2px.MainActivity"
+        ],
+        "linux": {
+            "root": "sonic-the-hedgehog-2"
         }
     },
     "sonic-visualiser": {
@@ -16777,6 +18725,7 @@
             "root": "soundcloud",
             "symlinks": [
                 "chrome-ipebkipbeggmmkjjljenoblnfaenambp-Default",
+                "eu.tiliado.NuvolaAppSoundcloud",
                 "nuvolaplayer3_soundcloud",
                 "web-soundcloud"
             ]
@@ -16795,6 +18744,21 @@
     "soundnode": {
         "linux": {
             "root": "soundnode"
+        }
+    },
+    "sourcetrail": {
+        "linux": {
+            "root": "sourcetrail"
+        }
+    },
+    "space-invaders": {
+        "linux": {
+            "root": "space-invaders",
+            "symlinks": [
+                "open-invaders",
+                "steam_icon_744050",
+                "steam_icon_838400"
+            ]
         }
     },
     "spacefm-find": {
@@ -16914,6 +18878,14 @@
             "root": "steam_icon_209790"
         }
     },
+    "spookys-jumpscare-mansion": {
+        "linux": {
+            "root": "steam_icon_577690",
+            "symlinks": [
+                "steam_icon_356670"
+            ]
+        }
+    },
     "sportstracker": {
         "linux": {
             "root": "sportstracker"
@@ -16928,6 +18900,7 @@
             "symlinks": [
                 "chrome-cnkjkdjlofllcpbemipjbcpfnglbgieh-Default",
                 "com.spotify.Client",
+                "eu.tiliado.NuvolaAppSpotify",
                 "nuvolaplayer3_spotify",
                 "Spotify",
                 "spotify",
@@ -16990,6 +18963,11 @@
             "root": "sqlitestudio"
         }
     },
+    "sqlrestore": {
+        "linux": {
+            "root": "sqlrestore"
+        }
+    },
     "squirrel-sql": {
         "linux": {
             "root": "squirrel-sql",
@@ -17044,6 +19022,11 @@
     "star-uml": {
         "linux": {
             "root": "staruml"
+        }
+    },
+    "star-wars-kotor2": {
+        "linux": {
+            "root": "steam_icon_208580"
         }
     },
     "starbound": {
@@ -17161,6 +19144,17 @@
     "strawberry": {
         "linux": {
             "root": "strawberry"
+        }
+    },
+    "stremio": {
+        "android": [
+            "com.stremio.one/com.stremio.MainActivity"
+        ],
+        "linux": {
+            "root": "stremio",
+            "symlinks": [
+                "smartcode-stremio"
+            ]
         }
     },
     "strife": {
@@ -17281,6 +19275,9 @@
         }
     },
     "supertuxkart": {
+        "android": [
+            "org.supertuxkart.stk/org.supertuxkart.stk.SuperTuxKartActivity"
+        ],
         "linux": {
             "root": "supertuxkart",
             "symlinks": [
@@ -17322,13 +19319,18 @@
             "root": "swatchbooker",
             "symlinks": [
                 "com.github.cassidyjames.palette",
-                "com.github.keyilan.swatches"
+                "com.github.keyilan.swatches",
+                "org.gnome.design.Palette",
+                "org.gnome.zbrown.Palette"
             ]
         }
     },
     "sweethome3d": {
         "linux": {
-            "root": "sweethome3d"
+            "root": "sweethome3d",
+            "symlinks": [
+                "com.sweethome3d.Desktop"
+            ]
         }
     },
     "sweethome3d-furniture-editor": {
@@ -17488,6 +19490,7 @@
                 "gnome-app-install",
                 "gnome-apt",
                 "gnome-package",
+                "io.elementary.appcenter",
                 "kentoo",
                 "kpackage",
                 "muon",
@@ -17540,6 +19543,11 @@
             "root": "systemback"
         }
     },
+    "tachiyomi": {
+        "android": [
+            "eu.kanade.tachiyomi/eu.kanade.tachiyomi.ui.main.MainActivity"
+        ]
+    },
     "tagainijisho": {
         "linux": {
             "root": "tagainijisho"
@@ -17548,6 +19556,14 @@
     "tagspaces": {
         "linux": {
             "root": "tagspaces"
+        }
+    },
+    "taigo": {
+        "linux": {
+            "root": "taigo",
+            "symlinks": [
+                "com.github.appadeia.Taigo"
+            ]
         }
     },
     "tales-of-majeyal": {
@@ -17583,6 +19599,19 @@
             ]
         }
     },
+    "tangram": {
+        "linux": {
+            "root": "tangram",
+            "symlinks": [
+                "re.sonny.Tangram"
+            ]
+        }
+    },
+    "tartube": {
+        "linux": {
+            "root": "tartube"
+        }
+    },
     "taskcoach": {
         "linux": {
             "root": "taskcoach",
@@ -17596,6 +19625,7 @@
             "root": "tasque",
             "symlinks": [
                 "com.github.lainsce.yishu",
+                "io.elementary.reminders",
                 "yishu"
             ]
         }
@@ -17625,7 +19655,8 @@
         "linux": {
             "root": "tea",
             "symlinks": [
-                "codeslayer"
+                "codeslayer",
+                "featherpad"
             ]
         }
     },
@@ -17673,7 +19704,10 @@
         "linux": {
             "root": "teeworlds",
             "symlinks": [
-                "com.teeworlds.Teeworlds"
+                "com.teeworlds.Teeworlds",
+                "DDNet",
+                "ddnet",
+                "tw.ddnet.ddnet"
             ]
         }
     },
@@ -17708,6 +19742,9 @@
         }
     },
     "terminal": {
+        "android": [
+            "com.bluepremium.privilege.terminal/com.bluepremium.privilege.terminal.Term"
+        ],
         "linux": {
             "root": "terminal",
             "symlinks": [
@@ -17721,10 +19758,12 @@
                 "gnome-xterm",
                 "gtkterm",
                 "hotwire",
+                "io.elementary.terminal",
                 "konsole",
                 "lxterminal",
                 "openterm",
                 "org.gnome.Terminal",
+                "org.kde.konsole",
                 "qterminal",
                 "Terminal",
                 "tilda",
@@ -17785,6 +19824,11 @@
             "root": "steam_icon_105600"
         }
     },
+    "terratech": {
+        "linux": {
+            "root": "steam_icon_285920"
+        }
+    },
     "tesseract": {
         "linux": {
             "root": "tesseract"
@@ -17819,6 +19863,7 @@
         "linux": {
             "root": "texmaker",
             "symlinks": [
+                "net.xm1math.Texmaker",
                 "texmaker128x128"
             ]
         }
@@ -17859,8 +19904,10 @@
                 "logjam",
                 "mousepad",
                 "notecase",
+                "notepad",
                 "notepad-48",
                 "org.gnome.gedit",
+                "org.gnome.TextEditor",
                 "org.kde.blogilo",
                 "org.kde.kate",
                 "org.kde.kwrite",
@@ -17883,7 +19930,10 @@
     },
     "texworks": {
         "linux": {
-            "root": "TeXworks"
+            "root": "TeXworks",
+            "symlinks": [
+                "org.tug.texworks"
+            ]
         }
     },
     "the-binding-of-isaac-rebirth": {
@@ -17948,6 +19998,11 @@
     "themonospot": {
         "linux": {
             "root": "themonospot"
+        }
+    },
+    "this-war-of-mine": {
+        "linux": {
+            "root": "steam_icon_282070"
         }
     },
     "thomas-was-alone": {
@@ -18035,6 +20090,11 @@
                 "org.mapeditor.Tiled"
             ]
         }
+    },
+    "timehop": {
+        "android": [
+            "com.timehop/com.timehop.LoginActivity"
+        ]
     },
     "timeline": {
         "linux": {
@@ -18133,6 +20193,7 @@
             "root": "tomate",
             "symlinks": [
                 "com.github.luizaugustomm.tomato",
+                "com.github.tomatoers.tomato",
                 "tomato"
             ]
         }
@@ -18224,6 +20285,11 @@
     "trackma": {
         "linux": {
             "root": "trackma"
+        }
+    },
+    "train-valley-2": {
+        "linux": {
+            "root": "steam_icon_602320"
         }
     },
     "tranqil": {
@@ -18335,6 +20401,14 @@
             ]
         }
     },
+    "trine3": {
+        "linux": {
+            "root": "Trine3",
+            "symlinks": [
+                "steam_icon_319910"
+            ]
+        }
+    },
     "triplea": {
         "linux": {
             "root": "triplea"
@@ -18342,7 +20416,15 @@
     },
     "trojita": {
         "linux": {
-            "root": "trojita"
+            "root": "trojita",
+            "symlinks": [
+                "org.kde.trojita"
+            ]
+        }
+    },
+    "tropy": {
+        "linux": {
+            "root": "tropy"
         }
     },
     "truecrypt": {
@@ -18359,6 +20441,10 @@
         }
     },
     "tumblr": {
+        "android": [
+            "com.tumblr/com.tumblr.ui.activity.JumpoffActivity",
+            "com.tumblr/com.tumblr.ui.activity.RootFragmentActivity"
+        ],
         "linux": {
             "root": "tumblr",
             "symlinks": [
@@ -18394,6 +20480,14 @@
     "turpial": {
         "linux": {
             "root": "turpial"
+        }
+    },
+    "turtlico": {
+        "linux": {
+            "root": "turtlico",
+            "symlinks": [
+                "tk.turtlico.Turtlico"
+            ]
         }
     },
     "tusk": {
@@ -18466,6 +20560,8 @@
             "root": "uberwriter",
             "symlinks": [
                 "de.wolfvollprecht.UberWriter",
+                "org.gnome.gitlab.somas.Apostrophe",
+                "org.gnome.wolf.Apostrophe",
                 "Uberwriter"
             ]
         }
@@ -18534,9 +20630,29 @@
             ]
         }
     },
+    "ulauncher": {
+        "linux": {
+            "root": "ulauncher"
+        }
+    },
     "ulcc": {
         "linux": {
             "root": "ulcc"
+        }
+    },
+    "ultimate-chicken-horse": {
+        "linux": {
+            "root": "steam_icon_386940"
+        }
+    },
+    "ultragrid": {
+        "linux": {
+            "root": "ultragrid"
+        }
+    },
+    "ultratron": {
+        "linux": {
+            "root": "steam_icon_219190"
         }
     },
     "umbrello": {
@@ -18545,6 +20661,19 @@
             "symlinks": [
                 "org.kde.umbrello"
             ]
+        }
+    },
+    "unciv": {
+        "linux": {
+            "root": "unciv",
+            "symlinks": [
+                "io.github.yairm210.unciv"
+            ]
+        }
+    },
+    "undertale": {
+        "linux": {
+            "root": "steam_icon_391540"
         }
     },
     "unetbootin": {
@@ -18602,6 +20731,11 @@
             ]
         }
     },
+    "universe-sandbox": {
+        "linux": {
+            "root": "steam_icon_230290"
+        }
+    },
     "unknown-horizons": {
         "linux": {
             "root": "unknown-horizons"
@@ -18610,6 +20744,11 @@
     "unsettings": {
         "linux": {
             "root": "unsettings"
+        }
+    },
+    "unturned": {
+        "linux": {
+            "root": "steam_icon_304930"
         }
     },
     "unvanquished": {
@@ -18672,6 +20811,14 @@
             "root": "usb-imagewriter-ng"
         }
     },
+    "usbguard": {
+        "linux": {
+            "root": "usbguard",
+            "symlinks": [
+                "usbguard-icon"
+            ]
+        }
+    },
     "usbview": {
         "linux": {
             "root": "usbview"
@@ -18724,6 +20871,7 @@
             "symlinks": [
                 "gnome-monitor",
                 "gnome-system-monitor",
+                "io.elementary.monitor",
                 "ksysguard",
                 "org.gnome.SystemMonitor",
                 "preferences-system-performance",
@@ -18747,6 +20895,11 @@
     "v4l2ucp": {
         "linux": {
             "root": "v4l2ucp"
+        }
+    },
+    "va-11-hall-a": {
+        "linux": {
+            "root": "steam_icon_447530"
         }
     },
     "vacuum": {
@@ -18839,9 +20992,24 @@
             "root": "veracrypt"
         }
     },
+    "verge": {
+        "linux": {
+            "root": "verge",
+            "symlinks": [
+                "org.vergecurrency.verge-qt",
+                "verge-qt",
+                "verge128"
+            ]
+        }
+    },
     "veromix": {
         "linux": {
             "root": "Veromix"
+        }
+    },
+    "vertris": {
+        "linux": {
+            "root": "vertris"
         }
     },
     "veusz": {
@@ -18870,6 +21038,11 @@
             "symlinks": [
                 "com.viber.Viber"
             ]
+        }
+    },
+    "vice": {
+        "linux": {
+            "root": "vice"
         }
     },
     "vidalia": {
@@ -18992,6 +21165,7 @@
                 "com.visualstudio.code-oss",
                 "com.visualstudio.code.insiders",
                 "com.visualstudio.code.oss",
+                "com.vscodium.codium",
                 "visual-studio-code",
                 "vsc",
                 "vscode",
@@ -19086,7 +21260,10 @@
     },
     "vncviewer": {
         "linux": {
-            "root": "vncviewer"
+            "root": "vncviewer",
+            "symlinks": [
+                "vncviewer48x48"
+            ]
         }
     },
     "vnote": {
@@ -19113,9 +21290,22 @@
             ]
         }
     },
+    "vorta": {
+        "linux": {
+            "root": "vorta",
+            "symlinks": [
+                "com.borgbase.Vorta"
+            ]
+        }
+    },
     "voxelands": {
         "linux": {
             "root": "voxelands"
+        }
+    },
+    "vrchat": {
+        "linux": {
+            "root": "steam_icon_438100"
         }
     },
     "vsedit": {
@@ -19175,6 +21365,14 @@
             ]
         }
     },
+    "warp": {
+        "linux": {
+            "root": "warp",
+            "symlinks": [
+                "org.linuxmint.warp"
+            ]
+        }
+    },
     "warsow": {
         "linux": {
             "root": "warsow",
@@ -19222,11 +21420,26 @@
             "root": "wayland"
         }
     },
+    "wdos": {
+        "linux": {
+            "root": "wdos"
+        }
+    },
     "web-4chan": {
         "linux": {
             "root": "4chan.org",
             "symlinks": [
                 "com.github.dcharles525.pho"
+            ]
+        }
+    },
+    "web-8tracks": {
+        "linux": {
+            "root": "web-8tracks",
+            "symlinks": [
+                "8tracks",
+                "eu.tiliado.NuvolaApp8tracks",
+                "nuvolaplayer3_8tracks"
             ]
         }
     },
@@ -19244,6 +21457,13 @@
         }
     },
     "web-allcast": {
+        "android": [
+            "com.koushikdutta.allcast/com.koushikdutta.allcast.MainActivity",
+            "com.koushikdutta.cast.license/com.koushikdutta.cast.license.InstallFree",
+            "com.koushikdutta.cast.reciever/com.koushikdutta.cast.reciever.MainActivity",
+            "com.koushikdutta.cast/com.koushikdutta.cast.SearchActivity",
+            "com.koushikdutta.cast/com.koushikdutta.cast.StartActivity"
+        ],
         "linux": {
             "root": "chrome-hjbljnpdahefgnopeohlaeohgkiidnoe-Default"
         }
@@ -19252,6 +21472,7 @@
         "linux": {
             "root": "web-bandcamp",
             "symlinks": [
+                "eu.tiliado.NuvolaAppBandcamp",
                 "nuvolaplayer3_bandcamp"
             ]
         }
@@ -19268,6 +21489,7 @@
         "linux": {
             "root": "web-browser",
             "symlinks": [
+                "7596_iexplore.0",
                 "browser",
                 "dillo",
                 "epiphany",
@@ -19285,6 +21507,7 @@
                 "MultiBrowser",
                 "org.gnome.Epiphany",
                 "org.gnome.Epiphany.Devel",
+                "preferences-web-browser-shortcuts",
                 "redhat-web-browser",
                 "rekonq",
                 "web-browser-app",
@@ -19344,6 +21567,9 @@
         }
     },
     "web-facebook": {
+        "android": [
+            "com.facebook.katana/com.facebook.katana.LoginActivity"
+        ],
         "linux": {
             "root": "web-facebook",
             "symlinks": [
@@ -19365,6 +21591,10 @@
         }
     },
     "web-google": {
+        "android": [
+            "com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity",
+            "com.google.android.launcher/com.google.android.launcher.StubApp"
+        ],
         "linux": {
             "root": "web-google",
             "symlinks": [
@@ -19391,6 +21621,9 @@
         }
     },
     "web-google-fit": {
+        "android": [
+            "com.google.android.apps.fitness/com.google.android.apps.fitness.welcome.WelcomeActivity"
+        ],
         "linux": {
             "root": "chrome-ofbpedjdfkboehhknoohhenbpmgcjoik-Default"
         }
@@ -19409,6 +21642,9 @@
         }
     },
     "web-google-movies": {
+        "android": [
+            "com.google.android.videos/com.google.android.youtube.videos.EntryPoint"
+        ],
         "linux": {
             "root": "web-google-movies",
             "symlinks": [
@@ -19426,6 +21662,9 @@
         }
     },
     "web-google-slides": {
+        "android": [
+            "com.google.android.apps.docs.editors.slides/com.google.android.apps.docs.app.NewMainProxyActivity"
+        ],
         "linux": {
             "root": "web-google-slides",
             "symlinks": [
@@ -19466,6 +21705,15 @@
             ]
         }
     },
+    "web-jamendo": {
+        "linux": {
+            "root": "web-jamendo",
+            "symlinks": [
+                "eu.tiliado.NuvolaAppJamendo",
+                "nuvolaplayer3_jamendo"
+            ]
+        }
+    },
     "web-jolicloud": {
         "linux": {
             "root": "web-jolicloud",
@@ -19475,6 +21723,9 @@
         }
     },
     "web-kindle": {
+        "android": [
+            "com.amazon.kindle/com.amazon.kindle.UpgradePage"
+        ],
         "linux": {
             "root": "web-kindle",
             "symlinks": [
@@ -19490,6 +21741,9 @@
         }
     },
     "web-line": {
+        "android": [
+            "jp.naver.line.android/jp.naver.line.android.activity.SplashActivity"
+        ],
         "linux": {
             "root": "chrome-menkifleemblimdogmoihpfopnplikde-Default"
         }
@@ -19585,6 +21839,10 @@
         }
     },
     "web-pandora": {
+        "android": [
+            "com.pandora.android/com.pandora.android.Main",
+            "com.pandora.android/com.pandora.android.Toggler"
+        ],
         "linux": {
             "root": "web-pandora",
             "symlinks": [
@@ -19752,6 +22010,9 @@
         }
     },
     "web-vimeo": {
+        "android": [
+            "com.vimeo.android.videoapp/com.vimeo.android.lib.model.VimeoActivity"
+        ],
         "linux": {
             "root": "chrome-bfimiibpomebbdeomajcknhccgpkjmlh-Default",
             "symlinks": [
@@ -19822,7 +22083,8 @@
                 "chrome-gcjbnclfkeffmdfdhflnadahgmajfgcm-Default",
                 "whatsapp",
                 "whatsapp-desktop",
-                "whatsappfordesktop"
+                "whatsappfordesktop",
+                "whatsdesk"
             ]
         }
     },
@@ -19908,6 +22170,8 @@
                 "steam_icon_599390",
                 "wesnoth-1.10-icon",
                 "wesnoth-1.12-icon",
+                "wesnoth-1.14-icon",
+                "wesnoth-1.16-icon",
                 "wesnoth-icon"
             ]
         }
@@ -19930,6 +22194,14 @@
     "whalebird": {
         "linux": {
             "root": "whalebird"
+        }
+    },
+    "what-ip": {
+        "linux": {
+            "root": "what-ip",
+            "symlinks": [
+                "org.gabmus.whatip"
+            ]
         }
     },
     "whatsie": {
@@ -19972,6 +22244,7 @@
     },
     "wikipedia": {
         "android": [
+            "org.wikipedia.beta/org.wikipedia.beta.page.PageActivity",
             "org.wikipedia/org.wikipedia.main.MainActivity",
             "org.wikipedia/org.wikipedia.MainActivity",
             "org.wikipedia/org.wikipedia.page.PageActivity",
@@ -19987,10 +22260,17 @@
             ]
         }
     },
+    "wincaml": {
+        "linux": {
+            "root": "WinCaml"
+        }
+    },
     "wine": {
         "linux": {
             "root": "wine",
             "symlinks": [
+                "1CD8_rundll32.0",
+                "7765_winebrowser.0",
                 "bottles_wine"
             ]
         }
@@ -20075,6 +22355,15 @@
             ]
         }
     },
+    "wireshare": {
+        "linux": {
+            "root": "wireshare",
+            "symlinks": [
+                "hermes-wireshare",
+                "org.team_hermes.WireShare"
+            ]
+        }
+    },
     "wireshark": {
         "linux": {
             "root": "wireshark",
@@ -20083,6 +22372,11 @@
                 "org.wireshark.gtk",
                 "org.wireshark.qt"
             ]
+        }
+    },
+    "witcher-3": {
+        "linux": {
+            "root": "steam_icon_292030"
         }
     },
     "wiznote": {
@@ -20258,11 +22552,24 @@
             ]
         }
     },
+    "wuppo-definitive-edition": {
+        "linux": {
+            "root": "steam_icon_400630"
+        }
+    },
     "wxcas": {
         "linux": {
             "root": "wxcas",
             "symlinks": [
                 "plot2d"
+            ]
+        }
+    },
+    "wxephe": {
+        "linux": {
+            "root": "wxephe",
+            "symlinks": [
+                "wxEpheIcon"
             ]
         }
     },
@@ -20280,10 +22587,12 @@
         "linux": {
             "root": "wxmaxima",
             "symlinks": [
+                "com.dhsdevelopments.Climaxima",
                 "io.github.wxmaxima_developers.wxMaxima",
                 "maxima",
                 "maxima-icon",
-                "maxima-new"
+                "maxima-new",
+                "net.sourceforge.maxima"
             ]
         }
     },
@@ -20309,6 +22618,8 @@
         "linux": {
             "root": "x-plane",
             "symlinks": [
+                "steam_icon_269950",
+                "steam_icon_292180",
                 "xplane"
             ]
         }
@@ -20350,6 +22661,7 @@
         "linux": {
             "root": "xcircuit",
             "symlinks": [
+                "circuit",
                 "ktechlab"
             ]
         }
@@ -20379,6 +22691,11 @@
             "root": "xdman"
         }
     },
+    "xenonauts": {
+        "linux": {
+            "root": "steam_icon_223830"
+        }
+    },
     "xfce4-appfinder": {
         "linux": {
             "root": "xfce4-appfinder"
@@ -20397,6 +22714,15 @@
     "xfdashboard": {
         "linux": {
             "root": "xfdashboard"
+        }
+    },
+    "xhydra": {
+        "linux": {
+            "root": "xhydra",
+            "symlinks": [
+                "hydra",
+                "kali-hydra"
+            ]
         }
     },
     "xilinx-ise": {
@@ -20436,6 +22762,7 @@
             "root": "xmind",
             "symlinks": [
                 "net.xmind.XMind8",
+                "net.xmind.ZEN",
                 "XMind"
             ]
         }
@@ -20511,6 +22838,7 @@
         "linux": {
             "root": "xournal",
             "symlinks": [
+                "com.github.xournalpp.xournalpp",
                 "net.sourceforge.xournal",
                 "xournalpp"
             ]
@@ -20552,12 +22880,18 @@
     },
     "yacreader": {
         "linux": {
-            "root": "yacreader"
+            "root": "yacreader",
+            "symlinks": [
+                "YACReader"
+            ]
         }
     },
     "yacreader-library": {
         "linux": {
-            "root": "yacreader-library"
+            "root": "yacreader-library",
+            "symlinks": [
+                "YACReaderLibrary"
+            ]
         }
     },
     "yad": {
@@ -20579,6 +22913,11 @@
             "symlinks": [
                 "org.kde.yakuake"
             ]
+        }
+    },
+    "yakyak": {
+        "linux": {
+            "root": "yakyak"
         }
     },
     "yandex-browser-beta": {
@@ -20612,7 +22951,8 @@
         "linux": {
             "root": "yate",
             "symlinks": [
-                "null_team"
+                "null_team",
+                "null_team-48"
             ]
         }
     },
@@ -20620,6 +22960,11 @@
         "linux": {
             "root": "yed"
         }
+    },
+    "yellow-game": {
+        "android": [
+            "air.com.bartbonte.yellow/air.com.bartbonte.yellow.AppEntry"
+        ]
     },
     "yokadi": {
         "linux": {
@@ -20650,6 +22995,7 @@
             "root": "youtube",
             "symlinks": [
                 "chrome-blpcfgokakmgnkcojhhkbfbldkacnbeo-Default",
+                "eu.tiliado.NuvolaAppYoutube",
                 "gtk-youtube-viewer",
                 "nuvolaplayer3_youtube",
                 "unity-webapps-youtube",
@@ -20671,6 +23017,7 @@
                 "youtube-dl-gui_48x48",
                 "youtube-dl-qt-icon",
                 "youtube-dlg",
+                "YouTubeDownloader",
                 "yt-dl-gtk"
             ]
         }
@@ -20685,7 +23032,9 @@
             "root": "youtube-to-mp3",
             "symlinks": [
                 "alltomp3",
+                "eu.tiliado.NuvolaAppYoutubeMusic",
                 "MediaHuman",
+                "nuvolaplayer3_youtube-music",
                 "youtube-music-desktop"
             ]
         }
@@ -20708,7 +23057,10 @@
     },
     "zandronum": {
         "linux": {
-            "root": "zandronum"
+            "root": "zandronum",
+            "symlinks": [
+                "com.zandronum.Zandronum"
+            ]
         }
     },
     "zanshin": {
@@ -20785,11 +23137,32 @@
             "root": "steam_icon_308420"
         }
     },
+    "zoom": {
+        "android": [
+            "us.zoom.videomeetings/com.zipow.videobox.LauncherActivity"
+        ],
+        "linux": {
+            "root": "Zoom",
+            "symlinks": [
+                "us.zoom.Zoom",
+                "zoom-desktop",
+                "zoom-icon"
+            ]
+        }
+    },
     "zotero": {
         "linux": {
             "root": "zotero",
             "symlinks": [
                 "org.zotero.Zotero"
+            ]
+        }
+    },
+    "zrythm": {
+        "linux": {
+            "root": "zrythm",
+            "symlinks": [
+                "org.zrythm.Zrythm"
             ]
         }
     },
