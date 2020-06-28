@@ -10278,6 +10278,25 @@
             "root": "icon"
         }
     },
+    "icon-preview-app": {
+        "linux": {
+            "root": "icon-preview-app",
+            "symlinks": [
+                "com.github.danrabbit.lookbook",
+                "com.github.santileortiz.iconoscope",
+                "gnome-icon-preview",
+                "gtk3-icon-browser",
+                "gtk4-icon-browser",
+                "ikona",
+                "org.gnome.design.AppIconPreview",
+                "org.gnome.IconPreview",
+                "org.gtk.IconBrowser3",
+                "org.gtk.IconBrowser4",
+                "org.kde.Ikona",
+                "org.kde.ikona"
+            ]
+        }
+    },
     "idea": {
         "linux": {
             "root": "idea",
@@ -14099,14 +14118,6 @@
             "root": "numix",
             "bfb": "launcher_bfb_numix",
             "symlinks": [
-                "com.github.danrabbit.lookbook",
-                "gnome-icon-preview",
-                "gtk3-icon-browser",
-                "gtk4-icon-browser",
-                "org.gnome.design.AppIconPreview",
-                "org.gnome.IconPreview",
-                "org.gtk.IconBrowser3",
-                "org.gtk.IconBrowser4",
                 "preferences-desktop-icons"
             ]
         }
