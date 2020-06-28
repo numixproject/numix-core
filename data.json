@@ -7992,6 +7992,14 @@
             ]
         }
     },
+    "girens": {
+        "linux": {
+            "root": "girens",
+            "symlinks": [
+                "nl.g4d.Girens"
+            ]
+        }
+    },
     "gish": {
         "linux": {
             "root": "Gish",
@@ -15762,8 +15770,6 @@
         "linux": {
             "root": "plexmediamanager",
             "symlinks": [
-                "girens",
-                "nl.g4d.Girens",
                 "plexmediaserver"
             ]
         }
