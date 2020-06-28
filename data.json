@@ -14042,6 +14042,14 @@
             "org.schabi.newpipe/org.schabi.newpipe.VideoItemListActivity"
         ]
     },
+    "newsflash": {
+        "linux": {
+            "root": "newsflash",
+            "symlinks": [
+                "com.gitlab.newsflash"
+            ]
+        }
+    },
     "nextcloud": {
         "linux": {
             "root": "nextcloud",
