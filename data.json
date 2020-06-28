@@ -19008,6 +19008,14 @@
             ]
         }
     },
+    "ssb-patchwork": {
+        "linux": {
+            "root": "ssb-patchwork",
+            "symlinks": [
+                "nz.scuttlebutt.Patchwork"
+            ]
+        }
+    },
     "stacer": {
         "linux": {
             "root": "stacer",
