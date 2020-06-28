@@ -17371,6 +17371,14 @@
             "root": "steam_icon_329130"
         }
     },
+    "recapp": {
+        "linux": {
+            "root": "recapp",
+            "symlinks": [
+                "com.github.amikha1lov.RecApp"
+            ]
+        }
+    },
     "receitanet": {
         "linux": {
             "root": "receitanet"
