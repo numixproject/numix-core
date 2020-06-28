@@ -2453,6 +2453,14 @@
             "root": "bug-buddy"
         }
     },
+    "buho": {
+        "linux": {
+            "root": "buho",
+            "symlinks": [
+                "org.kde.buho"
+            ]
+        }
+    },
     "builder": {
         "linux": {
             "root": "builder",
