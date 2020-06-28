@@ -9198,7 +9198,10 @@
     },
     "hipchat": {
         "linux": {
-            "root": "hipchat"
+            "root": "hipchat",
+            "symlinks": [
+                "hipchat4"
+            ]
         }
     },
     "hipchat-attention": {
