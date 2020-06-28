@@ -9520,8 +9520,7 @@
         "linux": {
             "root": "gthumb",
             "symlinks": [
-                "org.gnome.gThumb",
-                "pix"
+                "org.gnome.gThumb"
             ]
         }
     },
@@ -15652,6 +15651,14 @@
             "root": "pithos",
             "symlinks": [
                 "io.github.Pithos"
+            ]
+        }
+    },
+    "pix": {
+        "linux": {
+            "root": "pix",
+            "symlinks": [
+                "org.kde.pix"
             ]
         }
     },
