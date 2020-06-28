@@ -901,6 +901,7 @@
                 "Amazon-www.amazon.es",
                 "Amazon-www.amazon.fr",
                 "Amazon-www.amazon.it",
+                "com.amazon.Workspaces",
                 "web-amazon"
             ]
         }
@@ -9079,6 +9080,7 @@
             "symlinks": [
                 "chrome-knipolnnllmklapflnccelgolnpehhpl-Default",
                 "chrome-nckgahadagoaajjgafhacjanaoiihapd-Default",
+                "google-hangouts-chat",
                 "web-google-hangouts"
             ]
         }
@@ -10045,6 +10047,7 @@
                 "com.github.afrantzis.Bless",
                 "okteta",
                 "org.kde.hexedit",
+                "org.kde.okteta",
                 "org.wxhexeditor.wxHexEditor",
                 "wxHexEditor"
             ]
@@ -11837,7 +11840,8 @@
             "symlinks": [
                 "org.kde.kronometer",
                 "zeegaree",
-                "zeegaree-lite"
+                "zeegaree-lite",
+                "zegarek-icon"
             ]
         }
     },
@@ -12669,6 +12673,7 @@
         "linux": {
             "root": "lsp-plugins",
             "symlinks": [
+                "org.freedesktop.LinuxAudio.LadspaPlugins.LSP",
                 "org.freedesktop.LinuxAudio.Lv2Plugins.LSP"
             ]
         }
@@ -12878,7 +12883,10 @@
     },
     "marktext": {
         "linux": {
-            "root": "marktext"
+            "root": "marktext",
+            "symlinks": [
+                "com.github.marktext.marktext"
+            ]
         }
     },
     "marlin": {
@@ -12903,6 +12911,7 @@
         "linux": {
             "root": "massif-visualizer",
             "symlinks": [
+                "org.kde.massif-visualizer",
                 "org.kde.massifvisualizer"
             ]
         }
@@ -13042,6 +13051,7 @@
         "linux": {
             "root": "mediathekview",
             "symlinks": [
+                "de.mediathekview.MediathekView",
                 "MediathekView",
                 "QMediathekView"
             ]
@@ -13212,6 +13222,8 @@
             "root": "minecraft",
             "symlinks": [
                 "com.mojang.Minecraft",
+                "io.mrarm.mcpelauncher-ui",
+                "mcpelauncher-ui",
                 "mcpelauncher-ui-qt",
                 "minecraft-launcher",
                 "minecraft-pi",
@@ -13557,7 +13569,10 @@
             "com.outlook.Z7/com.seven.Z7.app.email.EmailFront"
         ],
         "linux": {
-            "root": "ms-outlook"
+            "root": "ms-outlook",
+            "symlinks": [
+                "electron-outlook"
+            ]
         }
     },
     "ms-people": {
@@ -14107,7 +14122,11 @@
     },
     "nicotine-plus": {
         "linux": {
-            "root": "nicotine-plus"
+            "root": "nicotine-plus",
+            "symlinks": [
+                "nicotine_plus",
+                "org.nicotine_plus.Nicotine"
+            ]
         }
     },
     "nightingale": {
@@ -16937,6 +16956,7 @@
                 "qrca",
                 "qtqr",
                 "quearcode",
+                "vn.hoabinh.quan.CoBang",
                 "vn.hoabinh.quan.cobang"
             ]
         }
@@ -19165,7 +19185,10 @@
     },
     "springlobby": {
         "linux": {
-            "root": "springlobby"
+            "root": "springlobby",
+            "symlinks": [
+                "com.springrts.SpringLobby"
+            ]
         }
     },
     "springseed": {
@@ -20532,7 +20555,10 @@
     },
     "touchpad-indicator": {
         "linux": {
-            "root": "touchpad-indicator"
+            "root": "touchpad-indicator",
+            "symlinks": [
+                "preferences-desktop-touchpad"
+            ]
         }
     },
     "towerfall-ascension": {
@@ -20706,6 +20732,7 @@
         "linux": {
             "root": "tumblr",
             "symlinks": [
+                "tumblr-downloader-client",
                 "Tumblr-tumblr.com",
                 "unity-webapps-tumblr",
                 "web-tumblr"
@@ -20744,6 +20771,7 @@
         "linux": {
             "root": "turtlico",
             "symlinks": [
+                "io.gitlab.Turtlico",
                 "tk.turtlico.Turtlico"
             ]
         }
@@ -21627,7 +21655,8 @@
         "linux": {
             "root": "warp",
             "symlinks": [
-                "org.linuxmint.warp"
+                "org.linuxmint.warp",
+                "warpinator"
             ]
         }
     },
@@ -22339,8 +22368,10 @@
             "symlinks": [
                 "chrome-bgkodfmeijboinjdegggmkbkjfiagaan-Default",
                 "chrome-gcjbnclfkeffmdfdhflnadahgmajfgcm-Default",
+                "com.gigitux.gtkwhats",
                 "whatsapp",
                 "whatsapp-desktop",
+                "whatsapp-for-linux",
                 "whatsappfordesktop",
                 "whatsdesk"
             ]
