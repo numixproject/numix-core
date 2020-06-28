@@ -8649,6 +8649,14 @@
             ]
         }
     },
+    "gnome-recipes": {
+        "linux": {
+            "root": "gnome-recipes",
+            "symlinks": [
+                "org.gnome.Recipes"
+            ]
+        }
+    },
     "gnome-robots": {
         "linux": {
             "root": "gnome-robots",
@@ -11819,9 +11827,8 @@
         "linux": {
             "root": "krecipes",
             "symlinks": [
-                "com.github.bartzaalberg.recipes",
-                "gnome-recipes",
-                "org.gnome.Recipes"
+                "anymeal",
+                "com.github.bartzaalberg.recipes"
             ]
         }
     },
