@@ -25,11 +25,6 @@
             "yqtrack.app/yqtrack.app.ui.splash.SplashActivity"
         ]
     },
-    "1weather": {
-        "android": [
-            "com.handmark.expressweather/com.handmark.expressweather.ui.activities.MainActivity"
-        ]
-    },
     "1c": {
         "linux": {
             "root": "1cestart",
@@ -43,6 +38,11 @@
         "linux": {
             "root": "1cedt"
         }
+    },
+    "1weather": {
+        "android": [
+            "com.handmark.expressweather/com.handmark.expressweather.ui.activities.MainActivity"
+        ]
     },
     "2048": {
         "android": [
