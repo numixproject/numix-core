@@ -14938,6 +14938,14 @@
             "root": "openra-editor"
         }
     },
+    "openrgb": {
+        "linux": {
+            "root": "openrgb",
+            "symlinks": [
+                "OpenRGB"
+            ]
+        }
+    },
     "openscad": {
         "linux": {
             "root": "openscad",
