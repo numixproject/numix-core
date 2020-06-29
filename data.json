@@ -8018,7 +8018,10 @@
     },
     "giada": {
         "linux": {
-            "root": "giada"
+            "root": "giada",
+            "symlinks": [
+                "com.giadamusic.Giada"
+            ]
         }
     },
     "gifcurry": {
