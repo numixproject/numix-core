@@ -20652,6 +20652,15 @@
             ]
         }
     },
+    "tla-toolbox": {
+        "linux": {
+            "root": "tla-toolbox",
+            "symlinks": [
+                "org.lamport.tla.toolbox",
+                "tla+toolbox"
+            ]
+        }
+    },
     "toca-race-driver-3": {
         "linux": {
             "root": "ToCA3",
