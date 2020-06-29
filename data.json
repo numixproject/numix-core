@@ -21480,6 +21480,14 @@
             "root": "vega"
         }
     },
+    "veloren": {
+        "linux": {
+            "root": "veloren",
+            "symlinks": [
+                "net.veloren.veloren"
+            ]
+        }
+    },
     "venom": {
         "linux": {
             "root": "venom"
