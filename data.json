@@ -5856,6 +5856,14 @@
             "root": "dpscreenocr"
         }
     },
+    "dradis": {
+        "linux": {
+            "root": "dradis",
+            "symlinks": [
+                "kali-dradis"
+            ]
+        }
+    },
     "draftsight": {
         "linux": {
             "root": "dassault-systemes.draftsight"
