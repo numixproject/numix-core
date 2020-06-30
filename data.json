@@ -4665,7 +4665,10 @@
     },
     "davmail": {
         "linux": {
-            "root": "davmail"
+            "root": "davmail",
+            "symlinks": [
+                "org.davmail.DavMail"
+            ]
         }
     },
     "day-of-defeat": {
@@ -21439,7 +21442,10 @@
     },
     "vice": {
         "linux": {
-            "root": "vice"
+            "root": "vice",
+            "symlinks": [
+                "net.sf.VICE"
+            ]
         }
     },
     "vidalia": {
