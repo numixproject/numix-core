@@ -537,6 +537,14 @@
             "root": "AirPortUtility"
         }
     },
+    "airtame": {
+        "linux": {
+            "root": "airtame-application",
+            "symlinks": [
+                "com.airtame.Client"
+            ]
+        }
+    },
     "akira": {
         "linux": {
             "root": "akira",
