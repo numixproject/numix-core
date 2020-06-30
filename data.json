@@ -742,6 +742,14 @@
             ]
         }
     },
+    "afl": {
+        "linux": {
+            "root": "afl",
+            "symlinks": [
+                "kali-afl"
+            ]
+        }
+    },
     "agave": {
         "linux": {
             "root": "agave"
