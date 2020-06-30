@@ -15,6 +15,8 @@ We accept contributions, read [this page](https://github.com/numixproject/numix-
 ### Hardcoded Icons
 To deal with hardcoded application icons Numix uses the [hardcode-fixer](https://github.com/Foggalong/hardcode-fixer) script. A list of the applications supported by the script can be found [here](https://github.com/Foggalong/hardcode-fixer/wiki/App-Support).
 
+### Steam Runtime Icons
+To fix icons of running Steam games, you can use [Steam Icons Fixer](https://github.com/BlueManCZ/SIF) script, that will connect all icons available from our icon theme with your installed games.
 
 ## Script
 
