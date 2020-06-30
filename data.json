@@ -784,6 +784,14 @@
             "root": "ailurus"
         }
     },
+    "aircrack-ng": {
+        "linux": {
+            "root": "aircrack-ng",
+            "symlinks": [
+                "kali-aircrack-ng"
+            ]
+        }
+    },
     "airdroid": {
         "android": [
             "com.sand.airdroid/com.sand.airdroid.mobi.vserv.android.appwrapper.VservAdManager",
