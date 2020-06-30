@@ -541,14 +541,16 @@
         "linux": {
             "root": "akira",
             "symlinks": [
-                "com.github.akiraux.akira",
                 "com.github.alecaddd.akira"
             ]
         }
     },
     "akira-devel": {
         "linux": {
-            "root": "com.github.akiraux.akiraDevel"
+            "root": "akira-devel",
+            "symlinks": [
+                "com.github.akiraux.akiraDevel"
+            ]
         }
     },
     "akonadi": {
