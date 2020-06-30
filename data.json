@@ -14662,7 +14662,8 @@
         "linux": {
             "root": "osmscout-server",
             "symlinks": [
-                "harbour-osmscout-server"
+                "harbour-osmscout-server",
+                "io.github.rinigus.OSMScoutServer"
             ]
         }
     },
