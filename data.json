@@ -21986,7 +21986,11 @@
     },
     "web-friendica": {
         "linux": {
-            "root": "web-friendica"
+            "root": "web-friendica",
+            "symlinks": [
+                "de.ma-nic.Friendiqa",
+                "Friendiqa"
+            ]
         }
     },
     "web-gliffy": {
