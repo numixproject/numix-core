@@ -1162,7 +1162,10 @@
     },
     "ao": {
         "linux": {
-            "root": "ao"
+            "root": "ao",
+            "symlinks": [
+                "ao-app"
+            ]
         }
     },
     "apachedirectorystudio": {
