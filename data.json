@@ -18501,6 +18501,7 @@
         "linux": {
             "root": "security-medium",
             "symlinks": [
+                "apparmor_view_profile",
                 "clamav",
                 "clamav-gui",
                 "clamtk",
