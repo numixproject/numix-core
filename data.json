@@ -853,6 +853,14 @@
             "root": "apachedirectorystudio"
         }
     },
+    "apktool": {
+        "linux": {
+            "root": "apktool",
+            "symlinks": [
+                "kali-apktool"
+            ]
+        }
+    },
     "app-launcher": {
         "linux": {
             "root": "app-launcher",
