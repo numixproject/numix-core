@@ -16359,6 +16359,16 @@
             "root": "preferences-desktop-display-color"
         }
     },
+    "preferences-desktop-emoticons": {
+        "linux": {
+            "root": "preferences-desktop-emoticons",
+            "symlinks": [
+                "amor",
+                "ksmiletris",
+                "package_toys"
+            ]
+        }
+    },
     "preferences-desktop-filetype-association": {
         "linux": {
             "root": "preferences-desktop-filetype-association"
