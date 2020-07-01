@@ -808,6 +808,14 @@
             "root": "AirPortUtility"
         }
     },
+    "airvpn": {
+        "linux": {
+            "root": "airvpn",
+            "symlinks": [
+                "AirVPN"
+            ]
+        }
+    },
     "akira": {
         "linux": {
             "root": "akira",
