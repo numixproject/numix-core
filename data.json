@@ -853,6 +853,12 @@
             "root": "apachedirectorystudio"
         }
     },
+    "appcode": {
+        "linux": {
+            "root": "appcode",
+            "symlinks": [
+                "jetbrains-appcode"
+    },
     "app-launcher": {
         "linux": {
             "root": "app-launcher",
