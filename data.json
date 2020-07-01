@@ -17774,6 +17774,49 @@
             ]
         }
     },
+    "substance-alchemist": {
+        "linux": {
+            "root": "allegorithmic-Substance_Alchemist"
+        }
+    },
+    "substance-b2m": {
+        "linux": {
+            "root": "allegorithmic-Substance_B2M",
+            "symlinks": [
+                "steam_icon_325910"
+            ]
+        }
+    },
+    "substance-designer": {
+        "linux": {
+            "root": "allegorithmic-Substance_Designer",
+            "symlinks": [
+                "steam_icon_238710",
+                "steam_icon_330160",
+                "steam_icon_449380",
+                "steam_icon_746470",
+                "steam_icon_978690",
+                "steam_icon_1194120"
+            ]
+        }
+    },
+    "substance-launcher": {
+        "linux": {
+            "root": "substance"
+        }
+    },
+    "substance-painter": {
+        "linux": {
+            "root": "allegorithmic-Substance_Painter",
+            "symlinks": [
+                "steam_icon_273390",
+                "steam_icon_454510",
+                "steam_icon_744570",
+                "steam_icon_978680",
+                "steam_icon_1194110"
+            ]
+        }
+    },
     "subsurface-icon": {
         "linux": {
             "root": "subsurface-icon",
