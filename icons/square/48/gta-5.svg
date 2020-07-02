@@ -1,10 +1,16 @@
 <svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="bg" x2="0" y1="1" y2="47" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#3d3d3d" offset="0"/>
+   <stop style="stop-color:#333" offset="1"/>
+  </linearGradient>
+ </defs>
  <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4zm0 0.5v0.5c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.5c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.02"/>
  <path d="m1 43.25v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.05"/>
  <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
- <rect x="1" y="1" width="46" height="46" rx="4" style="fill:#383838"/>
+ <rect x="1" y="1" width="46" height="46" rx="4" style="fill:url(#bg)"/>
  <path d="m1 39v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
- <path d="m10 14h15v2c-3 0-3.5157 1-2 4l3 6 3-6c1.5312-3 1-4-2-4v-2h11v2c-2.3923 0-3.3425 0.66291-4 2l-9 18h-2l-9-17c-1.3279-2.5126-2-3-4-3z" style="opacity:.1;paint-order:stroke fill markers"/>
- <path d="m10 13h15v2c-3 0-3.5157 1-2 4l3 6 3-6c1.5312-3 1-4-2-4v-2h11v2c-2.3923 0-3.3425 0.66291-4 2l-9 18h-2l-9-17c-1.3279-2.5126-2-3-4-3z" style="fill:#fff;paint-order:stroke fill markers"/>
- <path d="m12 14.3v-0.3h12v0.3c-2-0.01274-5 0.7-4 2.7l6 12 6-12c1-2-1-2.6509-3-2.7v-0.3h8v0.3c-1.469 0.05274-2.4251 0.7-3 1.7l-9 18-9-17c-1-2-2-2.7128-4-2.7z" style="fill:#519136;paint-order:stroke fill markers"/>
+ <path d="m10 14h15v2c-3 0-3.5157 1-2 4l3 6 3-6c1.5312-3 1-4-2-4v-2h11v2c-2.3923 0-3.3425 0.66291-4 2l-9 18h-2l-9-17c-1.3279-2.5126-2-3-4-3z" style="opacity:.1"/>
+ <path d="m10 13h15v2c-3 0-3.5157 1-2 4l3 6 3-6c1.5312-3 1-4-2-4v-2h11v2c-2.3923 0-3.3425 0.66291-4 2l-9 18h-2l-9-17c-1.3279-2.5126-2-3-4-3z" style="fill:#fff"/>
+ <path d="m12 14.3v-0.3h12v0.3c-2-0.01274-5 0.7-4 2.7l6 12 6-12c1-2-1-2.6509-3-2.7v-0.3h8v0.3c-1.469 0.05274-2.4251 0.7-3 1.7l-9 18-9-17c-1-2-2-2.7128-4-2.7z" style="fill:#519136"/>
 </svg>
