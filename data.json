@@ -1251,6 +1251,15 @@
             ]
         }
     },
+    "appimagetool": {
+        "linux": {
+            "root": "appimagetool",
+            "symlinks": [
+                "appimage",
+                "AppImage"
+            ]
+        }
+    },
     "appimageupdater": {
         "linux": {
             "root": "appimageupdater",
