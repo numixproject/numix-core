@@ -1,8 +1,14 @@
 <svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="bg" x2="0" y1="1" y2="47" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#006b96" offset="0"/>
+   <stop style="stop-color:#005d82" offset="1"/>
+  </linearGradient>
+ </defs>
+ <rect x="1" y="1" width="46" height="46" rx="4" style="fill:url(#bg)"/>
  <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4zm0 0.5v0.5c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.5c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.02"/>
  <path d="m1 43.25v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.05"/>
  <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
- <rect x="1" y="1" width="46" height="46" rx="4" style="fill:#005d82"/>
  <path d="m1 39v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
  <g transform="translate(0 .99996)" style="opacity:.1">
   <path d="m24 11.6c-0.07684 0.76028 0.46941 3.0713-9.6875 8.4004-0.87529 5.8336 3.168 9 3.168 9s-3.8682-3.7062-1.0625-7l7.582-4.7324 7.582 4.7324c2.8057 3.2938-1.0625 7-1.0625 7s4.0433-3.1664 3.168-9c-10.157-5.3291-9.6107-7.6401-9.6875-8.4004z" style="opacity:1;paint-order:stroke fill markers"/>
