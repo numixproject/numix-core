@@ -1238,6 +1238,14 @@
             "root": "app-outlet"
         }
     },
+    "appcode": {
+        "linux": {
+            "root": "appcode",
+            "symlinks": [
+                "jetbrains-appcode"
+            ]
+        }
+    },
     "appgrid": {
         "linux": {
             "root": "appgrid"
