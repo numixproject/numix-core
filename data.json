@@ -1932,6 +1932,17 @@
             "root": "baka-mplayer"
         }
     },
+    "baldis-basics": {
+        "android": [
+            "com.BasicallyGames.BaldisBasicsClassic/com.unity3d.player.UnityPlayerActivity"
+        ],
+        "linux": {
+            "root": "baldis-basics",
+            "symlinks": [
+                "steam_icon_1275890"
+            ]
+        }
+    },
     "ballerburg": {
         "linux": {
             "root": "ballerburg"
