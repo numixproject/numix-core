@@ -9344,6 +9344,14 @@
             "com.humblebundle.library/com.humblebundle.library.DownloadListActivity"
         ]
     },
+    "hw-probe": {
+        "linux": {
+            "root": "hw-probe",
+            "symlinks": [
+                "org.linux_hardware.hw-probe"
+            ]
+        }
+    },
     "hwbrowser": {
         "linux": {
             "root": "hwbrowser"
