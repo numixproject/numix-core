@@ -509,6 +509,7 @@
         "linux": {
             "root": "chrome-gighmmpiobklfepjocnamgkkbiglidom-Default",
             "symlinks": [
+                "advert-block",
                 "preferences-web-browser-adblock"
             ]
         }
@@ -984,6 +985,7 @@
         "linux": {
             "root": "amazon-store",
             "symlinks": [
+                "amazon",
                 "Amazon-www.amazon.ca",
                 "Amazon-www.amazon.cn",
                 "Amazon-www.amazon.co.uk",
@@ -992,6 +994,7 @@
                 "Amazon-www.amazon.es",
                 "Amazon-www.amazon.fr",
                 "Amazon-www.amazon.it",
+                "amazonclouddrive",
                 "com.amazon.Workspaces",
                 "web-amazon"
             ]
@@ -1125,6 +1128,7 @@
         "linux": {
             "root": "android-studio",
             "symlinks": [
+                "android-studio-beta",
                 "androidstudio",
                 "com.google.AndroidStudio"
             ]
@@ -1224,7 +1228,10 @@
     },
     "ao": {
         "linux": {
-            "root": "ao"
+            "root": "ao",
+            "symlinks": [
+                "ao-app"
+            ]
         }
     },
     "apachedirectorystudio": {
@@ -1291,6 +1298,7 @@
         "linux": {
             "root": "application-default-icon",
             "symlinks": [
+                "app",
                 "applications-accessories",
                 "applications-other",
                 "cs-default-applications",
@@ -5089,7 +5097,8 @@
             "root": "devhelp",
             "symlinks": [
                 "io.github.jkozera.ZevDocs",
-                "org.gnome.Devhelp"
+                "org.gnome.Devhelp",
+                "zevdocs"
             ]
         }
     },
@@ -10256,6 +10265,7 @@
                 "gnome-help",
                 "gnome-unknown",
                 "khelpcenter",
+                "kylin-user-guide",
                 "org.gnome.Yelp",
                 "stock_help-agent",
                 "susehelpcenter",
@@ -10782,6 +10792,7 @@
             "symlinks": [
                 "gis-weather",
                 "gnome-weather",
+                "indicator-china-weather",
                 "org.gnome.Weather",
                 "org.gnome.Weather.Application",
                 "typhoon"
@@ -15510,6 +15521,7 @@
         "linux": {
             "root": "panel",
             "symlinks": [
+                "alltray",
                 "cs-panel",
                 "gnome-panel",
                 "gnome-panel-drawer",
@@ -18680,6 +18692,7 @@
         "linux": {
             "root": "security-medium",
             "symlinks": [
+                "apparmor_view_profile",
                 "clamav",
                 "clamav-gui",
                 "clamtk",
@@ -20187,6 +20200,7 @@
             "root": "system-software-install",
             "symlinks": [
                 "anaconda",
+                "apper",
                 "aptdaemon-download",
                 "gnome-app-install",
                 "gnome-apt",
@@ -20449,6 +20463,7 @@
         "linux": {
             "root": "terminal",
             "symlinks": [
+                "angular-console",
                 "bash",
                 "chrome-kogcfmeennoidocadkgjhnbancebmlbf-Default",
                 "deepin-terminal",
@@ -22532,6 +22547,7 @@
         "linux": {
             "root": "web-mailru",
             "symlinks": [
+                "agentdesktop",
                 "mailru-mail.ru",
                 "unity-webapps-mail-ru"
             ]
