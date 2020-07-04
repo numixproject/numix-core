@@ -4089,11 +4089,6 @@
             ]
         }
     },
-    "civ-v": {
-        "linux": {
-            "root": "Civ-V"
-        }
-    },
     "ckb": {
         "linux": {
             "root": "ckb",
@@ -18911,7 +18906,10 @@
     },
     "sid-meiers-civilization-v": {
         "linux": {
-            "root": "steam_icon_8930"
+            "root": "steam_icon_8930",
+            "symlinks": [
+                "Civ-V"
+            ]
         }
     },
     "sideload": {
