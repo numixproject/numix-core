@@ -13865,6 +13865,19 @@
             "root": "ms-excel"
         }
     },
+    "ms-onedrive": {
+        "android": [
+            "com.microsoft.skydrive/com.microsoft.skydrive.MainActivity"
+        ],
+        "linux": {
+            "root": "onedrive",
+            "symlinks": [
+                "chrome-nffchahhjecejoiigmnhhicpoabngedk-Default",
+                "Skydrive",
+                "web-microsoft-onedrive"
+            ]
+        }
+    },
     "ms-onenote": {
         "android": [
             "com.microsoft.office.onenote/com.microsoft.office.onenote.ui.ONMLauncherActivity",
@@ -13880,13 +13893,24 @@
     },
     "ms-outlook": {
         "android": [
+            "com.microsoft.office.outlook/com.microsoft.office.outlook.MainActivity",
             "com.outlook.Z7/com.seven.Z7.app.email.EmailFront"
         ],
         "linux": {
             "root": "ms-outlook",
             "symlinks": [
-                "electron-outlook"
+                "chrome-pfpeapihoiogbcmdmnibeplnikfnhoge-Default",
+                "electron-outlook",
+                "unity-webapps-hotmail",
+                "unity-webapps-outlook",
+                "web-hotmail",
+                "web-outlook"
             ]
+        }
+    },
+    "ms-outlook-gold": {
+        "linux": {
+            "root": "ms-outlook-gold"
         }
     },
     "ms-people": {
@@ -13901,6 +13925,27 @@
         ],
         "linux": {
             "root": "ms-powerpoint"
+        }
+    },
+    "ms-skype": {
+        "android": [
+            "com.skype.raider/com.skype.raider.Main",
+            "com.skype.raider/com.skype.raider.ui.SplashScreenActivity",
+            "com.skype.raider/com.skype4life.MainActivity"
+        ],
+        "linux": {
+            "root": "ms-skype",
+            "symlinks": [
+                "com.skype.Client",
+                "ghetto-skype",
+                "skype",
+                "skypeforlinux"
+            ]
+        }
+    },
+    "ms-skype-call-recorder": {
+        "linux": {
+            "root": "skype-call-recorder"
         }
     },
     "ms-teams": {
@@ -14886,19 +14931,6 @@
     "onboard-settings": {
         "linux": {
             "root": "onboard-settings"
-        }
-    },
-    "onedrive": {
-        "android": [
-            "com.microsoft.skydrive/com.microsoft.skydrive.MainActivity"
-        ],
-        "linux": {
-            "root": "onedrive",
-            "symlinks": [
-                "chrome-nffchahhjecejoiigmnhhicpoabngedk-Default",
-                "Skydrive",
-                "web-microsoft-onedrive"
-            ]
         }
     },
     "oni": {
@@ -19050,27 +19082,6 @@
             "root": "skylendar"
         }
     },
-    "skype": {
-        "android": [
-            "com.skype.raider/com.skype.raider.Main",
-            "com.skype.raider/com.skype.raider.ui.SplashScreenActivity",
-            "com.skype.raider/com.skype4life.MainActivity"
-        ],
-        "linux": {
-            "root": "skype",
-            "symlinks": [
-                "com.skype.Client",
-                "ghetto-skype",
-                "ms-skype",
-                "skypeforlinux"
-            ]
-        }
-    },
-    "skype-call-recorder": {
-        "linux": {
-            "root": "skype-call-recorder"
-        }
-    },
     "slack": {
         "android": [
             "com.Slack/com.Slack.app.login.FSlackTryLogin",
@@ -22620,20 +22631,6 @@
             "root": "chrome-aeellliejpiclijnghognjagifplmmij-Default",
             "symlinks": [
                 "chrome-igpknfbadalohcopbkaepbgblomnbdma-Default"
-            ]
-        }
-    },
-    "web-outlook": {
-        "android": [
-            "com.microsoft.office.outlook/com.microsoft.office.outlook.MainActivity"
-        ],
-        "linux": {
-            "root": "web-outlook",
-            "symlinks": [
-                "chrome-pfpeapihoiogbcmdmnibeplnikfnhoge-Default",
-                "unity-webapps-hotmail",
-                "unity-webapps-outlook",
-                "web-hotmail"
             ]
         }
     },
