@@ -825,6 +825,7 @@
         "linux": {
             "root": "akira",
             "symlinks": [
+                "com.github.akiraux.akira",
                 "com.github.alecaddd.akira"
             ]
         }
@@ -4819,7 +4820,10 @@
     },
     "davmail": {
         "linux": {
-            "root": "davmail"
+            "root": "davmail",
+            "symlinks": [
+                "org.davmail.DavMail"
+            ]
         }
     },
     "day-of-defeat": {
@@ -8199,7 +8203,10 @@
     },
     "giada": {
         "linux": {
-            "root": "giada"
+            "root": "giada",
+            "symlinks": [
+                "com.giadamusic.Giada"
+            ]
         }
     },
     "gifcurry": {
@@ -12426,7 +12433,10 @@
     },
     "league-of-legends": {
         "linux": {
-            "root": "LeagueOfLegends"
+            "root": "LeagueOfLegends",
+            "symlinks": [
+                "com.leagueoflegends.Client"
+            ]
         }
     },
     "leap-day": {
@@ -12944,7 +12954,8 @@
             "root": "lsp-plugins",
             "symlinks": [
                 "org.freedesktop.LinuxAudio.LadspaPlugins.LSP",
-                "org.freedesktop.LinuxAudio.Lv2Plugins.LSP"
+                "org.freedesktop.LinuxAudio.Lv2Plugins.LSP",
+                "org.freedesktop.LinuxAudio.Plugins.LSP"
             ]
         }
     },
@@ -14604,7 +14615,10 @@
     },
     "nuclear": {
         "linux": {
-            "root": "nuclear"
+            "root": "nuclear",
+            "symlinks": [
+                "org.js.nuclear.Nuclear"
+            ]
         }
     },
     "numix": {
@@ -18196,7 +18210,10 @@
     },
     "rpcs3": {
         "linux": {
-            "root": "rpcs3"
+            "root": "rpcs3",
+            "symlinks": [
+                "net.rpcs3.RPCS3"
+            ]
         }
     },
     "rsibreak": {
@@ -21789,7 +21806,10 @@
     },
     "vice": {
         "linux": {
-            "root": "vice"
+            "root": "vice",
+            "symlinks": [
+                "net.sf.VICE"
+            ]
         }
     },
     "vidalia": {
@@ -22330,7 +22350,11 @@
     },
     "web-friendica": {
         "linux": {
-            "root": "web-friendica"
+            "root": "web-friendica",
+            "symlinks": [
+                "de.ma-nic.Friendiqa",
+                "Friendiqa"
+            ]
         }
     },
     "web-gliffy": {
