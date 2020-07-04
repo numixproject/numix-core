@@ -14393,7 +14393,10 @@
     },
     "nuclear": {
         "linux": {
-            "root": "nuclear"
+            "root": "nuclear",
+            "symlinks": [
+                "org.js.nuclear.Nuclear"
+            ]
         }
     },
     "numix": {
@@ -17951,7 +17954,10 @@
     },
     "rpcs3": {
         "linux": {
-            "root": "rpcs3"
+            "root": "rpcs3",
+            "symlinks": [
+                "net.rpcs3.RPCS3"
+            ]
         }
     },
     "rsibreak": {
