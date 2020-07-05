@@ -20172,6 +20172,18 @@
             "root": "chrome-mknafpnfcafklkflhenhaldedggpciao-Default"
         }
     },
+    "web-mixer": {
+        "android": [
+            "com.mcprohosting.beam/com.mcprohosting.beam.activity.StartActivity",
+            "com.mcprohosting.beam/com.mcprohosting.beam.SplashActivity",
+            "com.mcprohosting.beam.samsung/com.mcprohosting.beam.SplashActivity",
+            "com.microsoft.beambroadcast/com.microsoft.beambroadcast.xle.app.BeamBroadcastActivity",
+            "com.microsoft.beambroadcast.beta/com.microsoft.beambroadcast.xle.app.BeamBroadcastActivity"
+        ],
+        "linux": {
+            "root": "web-mixer"
+        }
+    },
     "web-newsblur": {
         "linux": {
             "root": "web-newsblur",
