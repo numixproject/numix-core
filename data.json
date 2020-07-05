@@ -9874,7 +9874,10 @@
     },
     "gtkhash": {
         "linux": {
-            "root": "gtkhash"
+            "root": "gtkhash",
+            "symlinks": [
+                "org.gtkhash.gtkhash"
+            ]
         }
     },
     "gtkpod": {
