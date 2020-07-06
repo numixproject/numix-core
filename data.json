@@ -4401,7 +4401,10 @@
     },
     "diffuse-player": {
         "linux": {
-            "root": "diffuse-player"
+            "root": "diffuse-player",
+            "symlinks": [
+                "web-diffuse"
+            ]
         }
     },
     "digikam": {
