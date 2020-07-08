@@ -20373,7 +20373,10 @@
     },
     "tc-twitch": {
         "linux": {
-            "root": "tc-twitch"
+            "root": "tc-twitch",
+            "symlinks": [
+                "tc"
+            ]
         }
     },
     "tea": {
