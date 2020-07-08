@@ -18854,6 +18854,28 @@
             ]
         }
     },
+    "shadow": {
+        "linux": {
+            "root": "shadow"
+        }
+    },
+    "shadow-beta": {
+        "linux": {
+            "root": "shadow-beta",
+            "symlinks": [
+                "shadow-preprod"
+            ]
+        }
+    },
+    "shadow-dev": {
+        "linux": {
+            "root": "shadow-dev",
+            "symlinks": [
+                "shadow-testing"
+
+            ]
+        }
+    },
     "shadowrun-dragonfall-directors-cut": {
         "linux": {
             "root": "steam_icon_300550"
