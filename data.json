@@ -5145,6 +5145,14 @@
             "root": "diffuse"
         }
     },
+    "diffuse-player": {
+        "linux": {
+            "root": "diffuse-player",
+            "symlinks": [
+                "web-diffuse"
+            ]
+        }
+    },
     "digikam": {
         "linux": {
             "root": "digikam",
