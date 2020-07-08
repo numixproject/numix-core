@@ -12933,7 +12933,10 @@
     },
     "love-app": {
         "linux": {
-            "root": "love-app"
+            "root": "love-app",
+            "symlinks": [
+                "love"
+            ]
         }
     },
     "love-wallpaper": {
