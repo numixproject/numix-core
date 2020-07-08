@@ -1411,6 +1411,19 @@
             "root": "awn-applet-digital-clock"
         }
     },
+    "axe": {
+        "linux": {
+            "root": "axe",
+            "symlinks": [
+                "axe128"
+            ]
+         }
+    },
+    "axe-electrum": {
+        "linux": {
+            "electrum-axe"
+        }
+    },
     "azpainter": {
         "linux": {
             "root": "azpainter"
