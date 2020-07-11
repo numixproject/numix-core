@@ -22552,6 +22552,14 @@
             "root": "chrome-ehjonnoogdmhhidjcldckckmfkpcfefh-Default"
         }
     },
+    "web-hootsuite": {
+        "linux": {
+            "root": "web-hootsuite",
+            "symlinks": [
+                "chrome-kneloppijbcidgidihgdjnooihjcdbij-Default"
+            ]
+        }
+    },
     "web-inbox": {
         "android": [
             "com.google.android.apps.inbox/com.google.android.apps.bigtop.activities.InitActivity",
