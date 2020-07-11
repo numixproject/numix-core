@@ -165,7 +165,8 @@
             "symlinks": [
                 "7z",
                 "J7Z",
-                "p7zip"
+                "p7zip",
+                "p7zip-gui"
             ]
         }
     },
@@ -4270,6 +4271,7 @@
             "root": "cog",
             "symlinks": [
                 "2402_msiexec.0",
+                "applets-template",
                 "aptanastudio",
                 "do",
                 "edit-urpm-sources",
@@ -4523,7 +4525,12 @@
     },
     "crayon-physics-deluxe": {
         "linux": {
-            "root": "crayon-physics-deluxe"
+            "root": "crayon-physics-deluxe",
+            "symlinks": [
+                "crayon-physics-demo",
+                "steam_icon_26900",
+                "steam_icon_26910"
+            ]
         }
     },
     "cream": {
@@ -8454,6 +8461,7 @@
             "symlinks": [
                 "checkgmail",
                 "chrome-pjkljhegncpnkpknbcohdijeoejaedia-Default",
+                "gmail-desktop",
                 "GMail-mail.google.com",
                 "Gmail-mail.google.com",
                 "gmail-notify-icon",
@@ -11015,7 +11023,8 @@
         "linux": {
             "root": "irccloud",
             "symlinks": [
-                "com.irccloud.desktop"
+                "com.irccloud.desktop",
+                "irccloud-desktop"
             ]
         }
     },
@@ -12975,7 +12984,10 @@
     },
     "love-app": {
         "linux": {
-            "root": "love-app"
+            "root": "love-app",
+            "symlinks": [
+                "love"
+            ]
         }
     },
     "love-wallpaper": {
@@ -17609,6 +17621,7 @@
         "linux": {
             "root": "quickhash",
             "symlinks": [
+                "animechecker",
                 "artemanufrij.hashit",
                 "com.github.artemanufrij.hashit"
             ]
@@ -20062,7 +20075,8 @@
             "symlinks": [
                 "org.supertux.SuperTux",
                 "org.supertux.SuperTux-Milestone1",
-                "org.supertuxproject.SuperTux"
+                "org.supertuxproject.SuperTux",
+                "supertux2"
             ]
         }
     },
@@ -20446,7 +20460,10 @@
     },
     "tc-twitch": {
         "linux": {
-            "root": "tc-twitch"
+            "root": "tc-twitch",
+            "symlinks": [
+                "tc"
+            ]
         }
     },
     "tea": {
@@ -20557,6 +20574,7 @@
                 "gnome-xterm",
                 "gtkterm",
                 "hotwire",
+                "hterm",
                 "io.elementary.terminal",
                 "konsole",
                 "lxterminal",
@@ -23965,7 +23983,8 @@
                 "eu.tiliado.NuvolaAppYoutubeMusic",
                 "MediaHuman",
                 "nuvolaplayer3_youtube-music",
-                "youtube-music-desktop"
+                "youtube-music-desktop",
+                "youtube-music-desktop-app"
             ]
         }
     },
