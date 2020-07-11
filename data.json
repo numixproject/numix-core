@@ -7478,6 +7478,7 @@
                 "gnome-settings-font",
                 "kfontview",
                 "org.gnome.font-viewer",
+                "org.gnome.FontManager",
                 "org.gnome.Fonts",
                 "org.gnome.FontViewer",
                 "preferences-desktop-font"
@@ -9907,7 +9908,10 @@
     },
     "gtkhash": {
         "linux": {
-            "root": "gtkhash"
+            "root": "gtkhash",
+            "symlinks": [
+                "org.gtkhash.gtkhash"
+            ]
         }
     },
     "gtkpod": {
@@ -18009,6 +18013,7 @@
             "symlinks": [
                 "chrome-iabmpiboiopbgfabjmgeedhcmjenhbla-Default",
                 "deepin-remote-assistance",
+                "gnome-rdp",
                 "gnome-remote-desktop",
                 "krdc",
                 "krfb",
