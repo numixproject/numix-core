@@ -4727,11 +4727,6 @@
             "root": "cutecom"
         }
     },
-    "cutegram": {
-        "linux": {
-            "root": "cutegram"
-        }
-    },
     "cutemarked": {
         "linux": {
             "root": "cutemarked",
@@ -20426,7 +20421,7 @@
             ]
         }
     },
-    "telegram": {
+    "telegram-classic": {
         "android": [
             "org.telegram.messenger/org.telegram.ui.LaunchActivity"
         ],
@@ -20436,8 +20431,19 @@
                 "chrome-clhhggbfdinjmjhajaheehoeibfljjno-Default",
                 "org.telegram.desktop",
                 "sigram",
+                "telegram-classic",
                 "telegram-desktop"
             ]
+        }
+    },
+    "telegram-red": {
+        "linux": {
+            "root": "cutegram"
+        }
+    },
+    "telegram-simple": {
+        "linux": {
+            "root": "telegram-simple"
         }
     },
     "teleport": {
