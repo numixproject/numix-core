@@ -1348,7 +1348,10 @@
     },
     "applications-internet": {
         "linux": {
-            "root": "applications-internet"
+            "root": "applications-internet",
+            "symlinks": [
+                "applications-development-translation"
+            ]
         }
     },
     "applications-php": {
@@ -21188,6 +21191,7 @@
         "linux": {
             "root": "translator",
             "symlinks": [
+                "applications-development-translation",
                 "com.github.rapidfingers.translator",
                 "cs-input-method",
                 "deepin-translator",
