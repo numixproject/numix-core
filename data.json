@@ -1255,6 +1255,7 @@
             "root": "app-launcher",
             "bfb": "launcher_bfb",
             "symlinks": [
+                "applications-all",
                 "chrome-app-list",
                 "deepin-launcher"
             ]
@@ -1347,7 +1348,10 @@
     },
     "applications-internet": {
         "linux": {
-            "root": "applications-internet"
+            "root": "applications-internet",
+            "symlinks": [
+                "applications-development-web"
+            ]
         }
     },
     "applications-php": {
@@ -21187,6 +21191,7 @@
         "linux": {
             "root": "translator",
             "symlinks": [
+                "applications-development-translation",
                 "com.github.rapidfingers.translator",
                 "cs-input-method",
                 "deepin-translator",
