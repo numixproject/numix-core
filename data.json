@@ -5620,6 +5620,15 @@
             ]
         }
     },
+    "element-desktop": {
+        "linux": {
+            "root": "element-desktop",
+            "symlinks": [
+                "element",
+                "element-nightly"
+            ]
+        }
+    },
     "elki-icon": {
         "linux": {
             "root": "elki-icon"
@@ -16194,11 +16203,20 @@
         }
     },
     "riot-web": {
+        "android": [
+            "im.vector.alpha/im.vector.activity.LauncherActivity",
+            "im.vector.alpha/im.vector.activity.LoginActivity",
+            "im.vector.alpha/im.vector.activity.SplashActivity",
+            "im.vector.alpha/im.vector.activity.VectorLauncherActivity",
+            "im.vector.riotx/im.vector.riotx.features.Alias"
+        ],
         "linux": {
             "root": "riot-web",
             "symlinks": [
                 "im.riot.Riot",
-                "riot"
+                "riot",
+                "riot-desktop",
+                "riot-nightly"
             ]
         }
     },
