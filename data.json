@@ -8974,7 +8974,10 @@
     },
     "halflife-alyx": {
         "linux": {
-            "root": "steam_icon_546560"
+            "root": "steam_icon_546560",
+            "symlinks": [
+                "steam_icon_40"
+            ]
         }
     },
     "halflife-blue-shift": {
