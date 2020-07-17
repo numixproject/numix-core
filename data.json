@@ -15434,6 +15434,14 @@
             "root": "QMPlay2"
         }
     },
+    "qnapi": {
+        "linux": {
+            "root": "qnapi",
+            "symlinks": [
+                "qnapi-48"
+            ]
+        }
+    },
     "qnetstatview": {
         "linux": {
             "root": "qnetstatview"
