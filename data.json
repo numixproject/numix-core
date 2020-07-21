@@ -6475,7 +6475,10 @@
     },
     "electron-mail": {
         "linux": {
-            "root": "electron-mail"
+            "root": "electron-mail",
+            "symlinks": [
+                "com.github.vladimiry.ElectronMail"
+            ]
         }
     },
     "electronic-super-joy": {
