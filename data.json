@@ -19133,6 +19133,33 @@
             "root": "ultragrid"
         }
     },
+    "ultrastar-creator": {
+        "linux": {
+            "root": "UltraStar-Creator",
+            "symlinks": [
+                "UltraStar-Manager"
+            ]
+        }
+    },
+    "ultrastar-deluxe": {
+        "linux": {
+            "root": "ultrastardx",
+            "symlinks": [
+                "UltraStar-Deluxe",
+                "ultrastar",
+                "ultrastardx-icon"
+            ]
+        }
+    },
+    "ultrastar-worldparty": {
+        "linux": {
+            "root": "ultrastar-worldparty",
+            "symlinks": [
+                "UltraStar-WorldParty",
+                "WorldParty"
+            ]
+        }
+    },
     "umbrello": {
         "linux": {
             "root": "umbrello",
