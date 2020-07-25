@@ -3594,7 +3594,11 @@
     },
     "calendar-turquoise-31": {
         "linux": {
-            "root": "calendar-turquoise-31"
+            "root": "calendar-turquoise-31",
+            "symlinks": [
+                "at.priv.toastfreeware.ConfClerk",
+                "confclerk"
+            ]
         }
     },
     "calf": {
