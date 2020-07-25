@@ -1435,6 +1435,8 @@
         "linux": {
             "root": "aquemu",
             "symlinks": [
+                "aqemu",
+                "aqemu-32x32",
                 "aquemu_48x48"
             ]
         }
