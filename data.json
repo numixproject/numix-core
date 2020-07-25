@@ -914,6 +914,11 @@
             ]
         }
     },
+    "applications-featured": {
+        "linux": {
+            "root": "applications-featured"
+        }
+    },
     "applications-games": {
         "linux": {
             "root": "applications-games",
@@ -923,6 +928,11 @@
                 "org.gnome.Games",
                 "preferences-desktop-gaming"
             ]
+        }
+    },
+    "applications-featured": {
+        "linux": {
+            "root": "applications-featured"
         }
     },
     "applications-interfacedesign": {
