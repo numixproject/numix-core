@@ -1494,6 +1494,9 @@
     "argouml2": {
         "linux": {
             "root": "argouml2"
+            "symlinks": [
+                "argouml"
+            ]
         }
     },
     "ariamaestosa": {
