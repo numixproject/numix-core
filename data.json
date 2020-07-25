@@ -1493,7 +1493,7 @@
     },
     "argouml2": {
         "linux": {
-            "root": "argouml2"
+            "root": "argouml2",
             "symlinks": [
                 "argouml"
             ]
@@ -7114,8 +7114,8 @@
             "root": "file-roller",
             "symlinks": [
                 "accessories-archiver",
-                "archivemanager",
                 "archive-manager",
+                "archivemanager",
                 "ark",
                 "engrampa",
                 "gvfsd-archive-file",
