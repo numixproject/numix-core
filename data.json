@@ -10265,7 +10265,10 @@
     },
     "headset": {
         "linux": {
-            "root": "headset"
+            "root": "headset",
+            "symlinks": [
+                "co.headsetapp.headset"
+            ]
         }
     },
     "heaptrack": {
