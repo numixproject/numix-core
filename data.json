@@ -1373,7 +1373,8 @@
         "linux": {
             "root": "applications-system",
             "symlinks": [
-                "hwinfo"
+                "hwinfo",
+                "mate-indicator-applet"
             ]
         }
     },
