@@ -1238,6 +1238,9 @@
     "atlantik": {
         "linux": {
             "root": "atlantik"
+            "symlinks": [
+                "gtkatlantic"
+            ]
         }
     },
     "atlantikdesigner": {
