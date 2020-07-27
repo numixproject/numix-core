@@ -13173,6 +13173,14 @@
             ]
         }
     },
+    "markets": {
+        "linux": {
+            "root": "markets",
+            "symlinks": [
+                "com.bitstower.Markets"
+            ]
+        }
+    },
     "marktext": {
         "linux": {
             "root": "marktext",
