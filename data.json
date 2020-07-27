@@ -1526,14 +1526,19 @@
                 "org.armagetronad.ArmagetronAdvanced"
             ]
         }
-	},
-	"armitage": {
-		"linux": {
-			"root": "armitage",
-			"symlinks": [
-				"kali-armitage"
-			]
-		}
+    },
+    "armello": {
+        "linux": {
+            "root": "steam_icon_290340"
+        }
+    },
+    "armitage": {
+  		  "linux": {
+            "root": "armitage",
+            "symlinks": [
+                "kali-armitage"
+            ]
+        }
     },
     "armoryicon": {
         "linux": {
