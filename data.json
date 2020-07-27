@@ -5201,6 +5201,15 @@
             ]
         }
     },
+    "dotpict": {
+        "android": [
+            "net.dotpicko.dotpict/net.dotpicko.dotpict.HandleUrlActivity",
+            "net.dotpicko.dotpict/net.dotpicko.dotpict.RoutingActivity"
+        ],
+        "linux": {
+            "root": "web-dotpict"
+        }
+    },
     "double-action-boogaloo": {
         "linux": {
             "root": "steam_icon_317360"
