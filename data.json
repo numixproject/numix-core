@@ -5549,7 +5549,10 @@
     },
     "distributor-logo-mac": {
         "linux": {
-            "root": "distributor-logo-mac"
+            "root": "distributor-logo-mac",
+            "symlinks": [
+                "macintosh.js"
+            ]
         }
     },
     "distributor-logo-mageia": {
