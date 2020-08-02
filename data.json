@@ -165,6 +165,7 @@
             "symlinks": [
                 "7z",
                 "J7Z",
+                "deepinwine-7zip",
                 "p7zip",
                 "p7zip-gui"
             ]
@@ -4571,7 +4572,10 @@
     },
     "crossover": {
         "linux": {
-            "root": "crossover"
+            "root": "crossover",
+            "symlinks": [
+                "deepin-crossover"
+            ]
         }
     },
     "crossover-doc": {
@@ -17387,7 +17391,10 @@
     },
     "qqintl": {
         "linux": {
-            "root": "qqintl"
+            "root": "qqintl",
+            "symlinks": [
+                "deepinwine-qq"
+            ]
         }
     },
     "qreator": {
