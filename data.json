@@ -11282,6 +11282,14 @@
             "root": "librevault"
         }
     },
+    "librewolf": {
+        "linux": {
+            "root": "librewolf",
+            "symlinks": [
+                "io.gitlab.LibreWolf"
+            ]
+        }
+    },
     "lifeograph": {
         "linux": {
             "root": "lifeograph",
