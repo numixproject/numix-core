@@ -17611,6 +17611,9 @@
     "quake": {
         "linux": {
             "root": "quake"
+            "symlinks": [
+                "quake-shareware"
+            ]
         }
     },
     "quake-armagon": {
