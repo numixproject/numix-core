@@ -23963,7 +23963,10 @@
     },
     "yandex-browser-beta": {
         "linux": {
-            "root": "yandex-browser-beta"
+            "root": "yandex-browser-beta",
+            "symlinks": [
+                "yandex-browser"
+            ]
         }
     },
     "yaourtgui": {
