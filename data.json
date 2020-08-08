@@ -23117,7 +23117,11 @@
     },
     "web-workflowy": {
         "linux": {
-            "root": "chrome-koegeopamaoljbmhnfjbclbocehhgmkm-Default"
+            "root": "web-workflowy"
+            "symlinks": [
+                "chrome-koegeopamaoljbmhnfjbclbocehhgmkm-Default",
+                "workflowy"
+            ]
         }
     },
     "web-yahoo": {
