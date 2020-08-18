@@ -25,6 +25,14 @@
             "yqtrack.app/yqtrack.app.ui.splash.SplashActivity"
         ]
     },
+    "1password": {
+        "android": [
+            "com.agilebits.onepassword/com.agilebits.onepassword.activity.LoginActivity"
+        ],
+        "linux": {
+            "root": "1password"
+        }
+    },
     "1weather": {
         "android": [
             "com.handmark.expressweather/com.handmark.expressweather.ui.activities.MainActivity"
@@ -11694,13 +11702,9 @@
         }
     },
     "keyring-manager": {
-        "android": [
-            "com.agilebits.onepassword/com.agilebits.onepassword.activity.LoginActivity"
-        ],
         "linux": {
             "root": "keyring-manager",
             "symlinks": [
-                "1password",
                 "badge-small",
                 "cryptkeeper",
                 "gpa",
