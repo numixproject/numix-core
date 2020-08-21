@@ -1448,6 +1448,14 @@
             ]
         }
     },
+    "backdoor-factory": {
+        "linux": {
+            "root": "backdoor-factory",
+            "symlinks": [
+                "kali-backdoor-factory"
+            ]
+        }
+    },
     "backer": {
         "linux": {
             "root": "backer",
