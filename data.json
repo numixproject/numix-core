@@ -1456,6 +1456,17 @@
             ]
         }
     },
+    "badland": {
+        "android": [
+            "com.frogmind.badland/com.frogmind.badland.Badland",
+            "com.frogmind.badland.humble/com.frogmind.badland.humble.Badland",
+            "com.frogmind.badland/com.inject.InjectActivity"
+            "com.frogmind.badland.ultimata/com.frogmind.badland.ultimata.Badland"
+        ],
+        "linux": {
+            "root": "steam_icon_269670"
+        }
+    },
     "baka-mplayer": {
         "linux": {
             "root": "baka-mplayer"
