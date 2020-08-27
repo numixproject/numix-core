@@ -14496,6 +14496,7 @@
         "linux": {
             "root": "nextcloud",
             "symlinks": [
+                "com.nextcloud.desktopclient.nextcloud",
                 "Nextcloud",
                 "org.nextcloud.Nextcloud"
             ]
@@ -22320,6 +22321,7 @@
             "root": "warp",
             "symlinks": [
                 "org.linuxmint.warp",
+                "org.x.Warpinator",
                 "warpinator"
             ]
         }
@@ -23147,7 +23149,10 @@
     },
     "welle-io": {
         "linux": {
-            "root": "welle-io"
+            "root": "welle-io",
+            "symlinks": [
+                "com.github.louis77.tuner"
+            ]
         }
     },
     "weresync": {
