@@ -6529,6 +6529,15 @@
             "root": "elektra"
         }
     },
+    "element-desktop": {
+        "linux": {
+            "root": "element-desktop",
+            "symlinks": [
+                "element",
+                "element-nightly"
+            ]
+        }
+    },
     "element4l": {
         "linux": {
             "root": "steam_icon_235820"
@@ -6539,15 +6548,6 @@
             "root": "elisa",
             "symlinks": [
                 "org.kde.elisa"
-            ]
-        }
-    },
-    "element-desktop": {
-        "linux": {
-            "root": "element-desktop",
-            "symlinks": [
-                "element",
-                "element-nightly"
             ]
         }
     },
