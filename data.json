@@ -5145,6 +5145,7 @@
             "root": "devdocs",
             "symlinks": [
                 "chrome-mnfehgbmkapmjnhcnbodoamcioleeooe-Default",
+                "deepin.com.wechat.devtools",
                 "devdocs-desktop"
             ]
         }
@@ -23174,6 +23175,19 @@
     "web-weatherbug": {
         "linux": {
             "root": "chrome-njkkjobcechefaoknodniidfjapgfoco-Default"
+        }
+    },
+    "web-wechat": {
+        "android": [
+            "com.tencent.mm/com.tencent.mm.ui.LauncherUI"
+        ],
+        "linux": {
+            "root": "web-wechat",
+            "symlinks": [
+                "deepin.com.wechat",
+                "wechat",
+                "wewechat"
+            ]
         }
     },
     "web-weebly": {
