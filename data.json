@@ -7654,6 +7654,16 @@
             "root": "frama-c"
         }
     },
+    "fran-bow": {
+        "linux": {
+            "root": "franbow",
+            "symlinks": [
+                "franbow-demo",
+                "steam_icon_362680",
+                "steam_icon_393500"
+            ]
+        }
+    },
     "franz": {
         "linux": {
             "root": "franz",
