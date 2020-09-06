@@ -1,0 +1,25 @@
+<svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="bg" x2="0" y1="1" y2="47" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#58442c" offset="0"/>
+   <stop style="stop-color:#4b3a25" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4zm0 0.5v0.5c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.5c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.02"/>
+ <path d="m1 43.25v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.05"/>
+ <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
+ <rect x="1" y="1" width="46" height="46" rx="4" style="fill:url(#bg)"/>
+ <path d="m1 39v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
+ <path d="m12 12c-1.108 0-2 0.892-2 2v20c0 1.108 0.892 2 2 2h2v1h4v-1h12v1h4v-1h2c1.108 0 2-0.892 2-2v-20c0-1.108-0.892-2-2-2z" style="opacity:.1"/>
+ <rect x="12" y="11" width="24" height="24" style="fill:#ff9c9c;opacity:.4"/>
+ <path d="m14 34v2h4v-2zm16 0v2h4v-2z" style="fill:#7d6944;paint-order:stroke fill markers"/>
+ <rect x="10" y="11" width="28" height="24" ry="2" style="fill:#977e52;paint-order:stroke fill markers"/>
+ <rect x="12" y="13" width="24" height="20" ry="2" style="fill:#2d2d2d;paint-order:stroke fill markers"/>
+ <rect x="17" y="16" width="14" height="17" style="fill:#494949;paint-order:stroke fill markers"/>
+ <rect x="17" y="31" width="14" height="2" style="fill:#575757;paint-order:stroke fill markers"/>
+ <path d="m24 17c-3 0-3 2-3 2v2s0.1567 0.4589 0.46094 1.0156l-2.4609 0.98438-2 4 4 3-1 1v2h3v-2h2v2h3v-2l-0.99996-1 4-3-2-4-2.4609-0.98438c0.30423-0.55673 0.46094-1.0156 0.46094-1.0156v-2s0-2-3-2zm-3 8v3l-1-1zm6 0 1 2-1 1z" style="fill:#2d2d2d"/>
+ <rect x="15" y="27" width="4" height="6" style="fill:#5f5f5f;paint-order:stroke fill markers"/>
+ <rect x="29" y="27" width="4" height="6" style="fill:#5f5f5f;paint-order:stroke fill markers"/>
+ <path d="m22 20 1.5 1s-0.01177 0.42957-0.5 0.41832c-1-0.02306-1-1.4183-1-1.4183z" style="fill:#f9f9f9"/>
+ <path d="m26 20-1.5 1s0.01177 0.42957 0.5 0.41832c1-0.02306 1-1.4183 1-1.4183z" style="fill:#f9f9f9"/>
+</svg>
