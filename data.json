@@ -5122,6 +5122,15 @@
             ]
         }
     },
+    "desktop-environment-tde": {
+        "linux": {
+            "root": "desktop-environment-tde",
+            "symlinks": [
+                "kicker",
+                "tde"
+            ]
+        }
+    },
     "desktop-environment-unity": {
         "linux": {
             "root": "desktop-environment-unity"
