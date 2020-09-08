@@ -2589,6 +2589,7 @@
         "linux": {
             "root": "brave",
             "symlinks": [
+                "brave-bin",
                 "brave-browser"
             ]
         }
@@ -7250,6 +7251,7 @@
                 "firefox-3.0",
                 "firefox-3.5",
                 "firefox-4.0",
+                "firefox-bin",
                 "firefox-default",
                 "firefox-esr",
                 "firefox-gtk3",
