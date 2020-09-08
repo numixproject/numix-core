@@ -164,6 +164,7 @@
             "root": "7zip",
             "symlinks": [
                 "7z",
+                "deepinwine-7zip",
                 "J7Z",
                 "p7zip",
                 "p7zip-gui"
@@ -2818,6 +2819,7 @@
                 "org.gnome.Calculator",
                 "org.kde.kcalc",
                 "org.speedcrunch.SpeedCrunch",
+                "pcbcalculator",
                 "speedcrunch"
             ]
         }
@@ -4617,7 +4619,10 @@
     },
     "crossover": {
         "linux": {
-            "root": "crossover"
+            "root": "crossover",
+            "symlinks": [
+                "deepin-crossover"
+            ]
         }
     },
     "crossover-doc": {
@@ -5606,7 +5611,10 @@
     },
     "distributor-logo-mac": {
         "linux": {
-            "root": "distributor-logo-mac"
+            "root": "distributor-logo-mac",
+            "symlinks": [
+                "macintosh.js"
+            ]
         }
     },
     "distributor-logo-mageia": {
@@ -6551,7 +6559,10 @@
     },
     "electron-mail": {
         "linux": {
-            "root": "electron-mail"
+            "root": "electron-mail",
+            "symlinks": [
+                "com.github.vladimiry.ElectronMail"
+            ]
         }
     },
     "electronic-super-joy": {
@@ -10378,7 +10389,10 @@
     },
     "headset": {
         "linux": {
-            "root": "headset"
+            "root": "headset",
+            "symlinks": [
+                "co.headsetapp.headset"
+            ]
         }
     },
     "heaptrack": {
@@ -11388,7 +11402,8 @@
             "symlinks": [
                 "jitsi-meet",
                 "jitsi-meet-desktop",
-                "jitsi-meet-electron"
+                "jitsi-meet-electron",
+                "org.jitsi.jitsi-meet"
             ]
         }
     },
@@ -12725,6 +12740,7 @@
                 "libreoffice5.3-base",
                 "libreoffice6.3-base",
                 "libreoffice6.4-base",
+                "libreoffice7.0-base",
                 "libreofficedev6.1-base",
                 "org.libreoffice.LibreOffice-base",
                 "org.libreoffice.LibreOffice.base"
@@ -12741,6 +12757,7 @@
                 "libreoffice5.3-calc",
                 "libreoffice6.3-calc",
                 "libreoffice6.4-calc",
+                "libreoffice7.0-calc",
                 "libreofficedev6.1-calc",
                 "org.libreoffice.LibreOffice-calc",
                 "org.libreoffice.LibreOffice.calc"
@@ -12757,6 +12774,7 @@
                 "libreoffice5.3-draw",
                 "libreoffice6.3-draw",
                 "libreoffice6.4-draw",
+                "libreoffice7.0-draw",
                 "libreofficedev6.1-draw",
                 "org.libreoffice.LibreOffice-draw",
                 "org.libreoffice.LibreOffice.draw"
@@ -12773,6 +12791,7 @@
                 "libreoffice5.3-impress",
                 "libreoffice6.3-impress",
                 "libreoffice6.4-impress",
+                "libreoffice7.0-impress",
                 "libreofficedev6.1-impress",
                 "org.libreoffice.LibreOffice-impress",
                 "org.libreoffice.LibreOffice.impress"
@@ -12796,6 +12815,7 @@
                 "libreoffice5.3-startcenter",
                 "libreoffice6.3-startcenter",
                 "libreoffice6.4-startcenter",
+                "libreoffice7.0-startcenter",
                 "libreofficedev6.1-startcenter",
                 "org.libreoffice.LibreOffice-startcenter",
                 "org.libreoffice.LibreOffice.startcenter"
@@ -12812,6 +12832,7 @@
                 "libreoffice5.3-math",
                 "libreoffice6.3-math",
                 "libreoffice6.4-math",
+                "libreoffice7.0-math",
                 "libreofficedev6.1-math",
                 "org.libreoffice.LibreOffice-math",
                 "org.libreoffice.LibreOffice.math"
@@ -12837,6 +12858,7 @@
                 "libreoffice5.3-writer",
                 "libreoffice6.3-writer",
                 "libreoffice6.4-writer",
+                "libreoffice7.0-writer",
                 "libreofficedev6.1-writer",
                 "org.libreoffice.LibreOffice-writer",
                 "org.libreoffice.LibreOffice.writer"
@@ -13498,7 +13520,8 @@
         "linux": {
             "root": "maui-station",
             "symlinks": [
-                "org.kde.station"
+                "org.kde.station",
+                "uk.co.mrbenshef.Boop-GTK"
             ]
         }
     },
@@ -14630,6 +14653,7 @@
         "linux": {
             "root": "nextcloud",
             "symlinks": [
+                "com.nextcloud.desktopclient.nextcloud",
                 "Nextcloud",
                 "org.nextcloud.Nextcloud"
             ]
@@ -17566,7 +17590,10 @@
     },
     "qqintl": {
         "linux": {
-            "root": "qqintl"
+            "root": "qqintl",
+            "symlinks": [
+                "deepinwine-qq"
+            ]
         }
     },
     "qreator": {
@@ -18044,6 +18071,7 @@
             "root": "rct",
             "symlinks": [
                 "freerct",
+                "io.openrct2.OpenRCT2",
                 "openrct",
                 "openrct2"
             ]
@@ -21202,7 +21230,8 @@
         "linux": {
             "root": "timetable",
             "symlinks": [
-                "com.github.lainsce.timetable"
+                "com.github.lainsce.timetable",
+                "io.github.kaschpal.timetable"
             ]
         }
     },
@@ -22533,6 +22562,7 @@
             "root": "warp",
             "symlinks": [
                 "org.linuxmint.warp",
+                "org.x.Warpinator",
                 "warpinator"
             ]
         }
@@ -23194,7 +23224,8 @@
         "linux": {
             "root": "web-unsplash",
             "symlinks": [
-                "chrome-cnlnpjpkobmmbdnpbdceplbemhibbhll-Default"
+                "chrome-cnlnpjpkobmmbdnpbdceplbemhibbhll-Default",
+                "in.bharatkalluri.splash"
             ]
         }
     },
@@ -23297,6 +23328,7 @@
                 "chrome-bgkodfmeijboinjdegggmkbkjfiagaan-Default",
                 "chrome-gcjbnclfkeffmdfdhflnadahgmajfgcm-Default",
                 "com.gigitux.gtkwhats",
+                "io.bit3.WhatsAppQT",
                 "whatsapp",
                 "whatsapp-desktop",
                 "whatsapp-for-linux",
@@ -23371,7 +23403,10 @@
     },
     "welle-io": {
         "linux": {
-            "root": "welle-io"
+            "root": "welle-io",
+            "symlinks": [
+                "com.github.louis77.tuner"
+            ]
         }
     },
     "weresync": {
@@ -23962,6 +23997,8 @@
         "linux": {
             "root": "xiphos",
             "symlinks": [
+                "net.lugsole.bible_gui",
+                "org.homelinuxserver.vance.biblereader",
                 "org.xiphos.Xiphos"
             ]
         }
