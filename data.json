@@ -15556,14 +15556,19 @@
             ]
         }
     },
-    "opera-next-browser": {
+    "opera-beta": {
         "android": [
             "com.opera.browser.beta/com.opera.android.OperaStartActivity"
         ],
         "linux": {
-            "root": "opera-next-browser",
+            "root": "opera-beta"
+        }
+    },
+    "opera-developer": {
+        "linux": {
+            "root": "opera-developer",
             "symlinks": [
-                "opera-developer"
+                "opera-next-browser"
             ]
         }
     },
