@@ -15394,6 +15394,11 @@
             "root": "opendict"
         }
     },
+    "openerp": {
+        "linux": {
+            "root": "openerp-client"
+        }
+    },
     "openlugaru": {
         "linux": {
             "root": "openlugaru",
@@ -15544,7 +15549,6 @@
         "linux": {
             "root": "opera",
             "symlinks": [
-                "openerp-client",
                 "opera-browser",
                 "opera-browser-icon",
                 "opera-browser-icons",
