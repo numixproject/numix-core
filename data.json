@@ -7612,7 +7612,10 @@
     },
     "fontmatrix": {
         "linux": {
-            "root": "fontmatrix"
+            "root": "fontmatrix",
+            "symlinks": [
+                "com.github.fontmatrix.Fontmatrix"
+            ]
         }
     },
     "fonts": {
