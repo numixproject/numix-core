@@ -2,7 +2,9 @@ dist: trusty
 sudo: required
 language: python
 python:
-    - 3.4_with_system_site_packages
+    - "3.6"
+virtualenv:
+    system_site_packages: true
 branches:
     - master
 before_install:
