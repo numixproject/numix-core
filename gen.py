@@ -112,7 +112,7 @@ except FileNotFoundError:
          "the repository and try again.".format(theme))
 
 
-# The Generation Stuff
+# The Android Generation Stuff
 if platform == "android":
     print("\nGenerating Android theme...")
     theme_name = "com.numix.icons_{0}".format(theme)
@@ -142,6 +142,7 @@ if platform == "android":
         app_filter_obj.write(app_filter_content)
 
 
+# The Linux Generation Stuff
 elif platform == "linux":
     print("\nGenerating Linux theme...")
     linux_dir = "numix-icon-theme-{0}/Numix-{1}".format(theme, theme.title())
@@ -165,6 +166,9 @@ elif platform == "linux":
                         symlink(root, output_symlink)
                     except FileExistsError:
                         continue
+
+
+# The OSX Generation Stuff
 elif platform == "osx":
     print("\nGenerating OSX theme...")
     ink_flag = call(['which', 'png2icns'], stdout=PIPE, stderr=PIPE)
@@ -183,14 +187,16 @@ elif platform == "osx":
             if path.exists(source):
                 copy2(source, output_svg)
                 sizes = [16, 32, 128, 256, 512, 1024]
-                filenames = list(map(
-                    lambda x: "{}_{}.png".format(output_png, str(x)),
-                    sizes))
+                filenames = [
+                    "{}_{}.png".format(output_png, str(x)) for x in sizes
+                ]
 
                 for out_name, size in zip(filenames, sizes):
                     convert_svg2png(source, out_name, size, size)
 
                 call(["png2icns"] + [output_icns] + filenames,
                      stdout=PIPE, stderr=PIPE)
+
+
 # Clean Up
 print("Done!\n")
