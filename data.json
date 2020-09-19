@@ -13452,6 +13452,15 @@
             ]
         }
     },
+    "markets": {
+        "linux": {
+            "root": "markets",
+            "symlinks": [
+                "com.bitstower.Markets",
+                "com.github.brendanperry.stocks"
+            ]
+        }
+    },
     "marktext": {
         "linux": {
             "root": "marktext",
