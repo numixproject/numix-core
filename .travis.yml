@@ -1,16 +1,20 @@
-dist: trusty
-sudo: required
+os: linux
+dist: bionic
 language: python
 python:
-    - 3.4_with_system_site_packages
+    - "3.6"
+virtualenv:
+    system_site_packages: true
 branches:
     - master
+
 before_install:
     - sudo apt-get -y update
-    - sudo apt-get install -y python3-pip python3-gi python3-gobject gir1.2-gtk-3.0 libgtk-3-dev libgirepository1.0-dev
+    - sudo apt-get install -y python3-pip python3-gi gir1.2-gtk-3.0 libgtk-3-dev libgirepository1.0-dev
 install:
     - pip3 install --upgrade pip
-    - pip3 install cairosvg pycodestyle jsonschema
+    - pip3 install cairosvg pycodestyle jsonschema pygobject
+
 script:
     - sh ./tests/pycodestyle.sh
     - python3 ./tests/schema.py
