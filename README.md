@@ -19,15 +19,7 @@ To deal with hardcoded application icons Numix uses the [hardcode-fixer](https:/
 ## Script
 
 ### Dependencies
-The script needs Python 3.x to run. While the script can build themes for many platforms, running it is only officialy supported on Linux. The exporting-to-PNG part of the script currently uses [Cairo](https://cairographics.org/) or [Inkscape](https://inkscape.org/). The OSX packaging needs [libicns](http://icns.sourceforge.net/) for the `png2icns` command.
-
-#### MACOS
-The dependencies for this software can be installed using brew: https://brew.sh/
-
-1. brew install librsvg
-2. brew install pkg-config
-3. pip3 install pygobject3
-4. brew install inkscape
+The script needs Python 3.x to run. While the script can build themes for many platforms, running it is only officialy supported on Linux. The exporting-to-PNG part of the script currently uses [Cairo](https://cairographics.org/) or [Inkscape](https://inkscape.org/). The macOS packaging needs [libicns](http://icns.sourceforge.net/) for the `png2icns` command. More information can be found [in our wiki](https://github.com/numixproject/numix-core/wiki/Dependencies).
 
 ### How To Use
 1. Download the repo
