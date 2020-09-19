@@ -164,6 +164,7 @@
             "root": "7zip",
             "symlinks": [
                 "7z",
+                "deepinwine-7zip",
                 "J7Z",
                 "p7zip",
                 "p7zip-gui"
@@ -703,6 +704,7 @@
             "root": "adriconf",
             "symlinks": [
                 "br.com.jeanhertel.adriconf",
+                "org.freedesktop.adriconf",
                 "org.x.adriconf"
             ]
         }
@@ -898,6 +900,16 @@
     "alien-isolation": {
         "linux": {
             "root": "steam_icon_214490"
+        }
+    },
+    "alien-swarm": {
+        "linux": {
+            "root": "steam_icon_630"
+        }
+    },
+    "alien-swarm-reactive-drop": {
+        "linux": {
+            "root": "steam_icon_563560"
         }
     },
     "alienarena": {
@@ -1204,8 +1216,10 @@
         "linux": {
             "root": "antimicro",
             "symlinks": [
+                "antimicrox",
                 "com.github.juliagoda.antimicro",
-                "com.github.juliagoda.antimicroX"
+                "com.github.juliagoda.antimicroX",
+                "io.github.antimicrox.antimicrox"
             ]
         }
     },
@@ -1526,14 +1540,19 @@
                 "org.armagetronad.ArmagetronAdvanced"
             ]
         }
-	},
-	"armitage": {
-		"linux": {
-			"root": "armitage",
-			"symlinks": [
-				"kali-armitage"
-			]
-		}
+    },
+    "armello": {
+        "linux": {
+            "root": "steam_icon_290340"
+        }
+    },
+    "armitage": {
+  		  "linux": {
+            "root": "armitage",
+            "symlinks": [
+                "kali-armitage"
+            ]
+        }
     },
     "armoryicon": {
         "linux": {
@@ -1789,9 +1808,22 @@
             "root": "auralquiz"
         }
     },
+    "aurees": {
+        "linux": {
+            "root": "aurees"
+        }
+    },
     "auryo": {
         "linux": {
             "root": "auryo"
+        }
+    },
+    "authy": {
+        "linux": {
+            "root": "authy",
+            "symlinks": [
+                "chrome-gaedmjdfmmahhbjefcbgaolhhanlaolb-Default"
+            ]
         }
     },
     "autocad": {
@@ -1849,6 +1881,14 @@
             ]
         }
     },
+    "avimetaedit": {
+        "linux": {
+            "root": "avimetaedit",
+            "symlinks": [
+                "net.mediaarea.AVIMetaEdit"
+            ]
+        }
+    },
     "avocode": {
         "linux": {
             "root": "avocode",
@@ -1864,6 +1904,11 @@
                 "avogadro-icon"
             ]
         }
+	},
+	"avorion": {
+		"linux": {
+			"root": "steam_icon_445220"
+		}
     },
     "awesomenauts": {
         "linux": {
@@ -1876,6 +1921,11 @@
     "awf": {
         "linux": {
             "root": "awf"
+        }
+    },
+    "awgg": {
+        "linux": {
+            "root": "awgg"
         }
     },
     "awn-applet": {
@@ -1894,6 +1944,11 @@
     "axiom-verge": {
         "linux": {
             "root": "steam_icon_332200"
+          }
+    },
+    "azardi": {
+        "linux": {
+            "root": "azardi"
         }
     },
     "azpainter": {
@@ -2012,6 +2067,11 @@
             "root": "basex"
         }
     },
+    "basingstoke": {
+        "linux": {
+            "root": "steam_icon_336940"
+        }
+    },
     "basket": {
         "linux": {
             "root": "basket",
@@ -2065,6 +2125,11 @@
                 "beaker-browser",
                 "com.beakerbrowser.Beaker"
             ]
+        }
+    },
+    "beamng-drive": {
+        "linux": {
+            "root": "steam_icon_284160"
         }
     },
     "beast": {
@@ -2240,6 +2305,14 @@
     "blank-up": {
         "linux": {
             "root": "BlankUp"
+        }
+    },
+    "blanket": {
+        "linux": {
+            "root": "blanket",
+            "symlinks": [
+                "com.rafaelmardojai.Blanket"
+            ]
         }
     },
     "bleachbit": {
@@ -2543,6 +2616,7 @@
         "linux": {
             "root": "brave",
             "symlinks": [
+                "brave-bin",
                 "brave-browser"
             ]
         }
@@ -4570,7 +4644,10 @@
     },
     "crossover": {
         "linux": {
-            "root": "crossover"
+            "root": "crossover",
+            "symlinks": [
+                "deepin-crossover"
+            ]
         }
     },
     "crossover-doc": {
@@ -5075,6 +5152,15 @@
             ]
         }
     },
+    "desktop-environment-tde": {
+        "linux": {
+            "root": "desktop-environment-tde",
+            "symlinks": [
+                "kicker",
+                "tde"
+            ]
+        }
+    },
     "desktop-environment-unity": {
         "linux": {
             "root": "desktop-environment-unity"
@@ -5114,6 +5200,7 @@
             "root": "devdocs",
             "symlinks": [
                 "chrome-mnfehgbmkapmjnhcnbodoamcioleeooe-Default",
+                "deepin.com.wechat.devtools",
                 "devdocs-desktop"
             ]
         }
@@ -5549,7 +5636,10 @@
     },
     "distributor-logo-mac": {
         "linux": {
-            "root": "distributor-logo-mac"
+            "root": "distributor-logo-mac",
+            "symlinks": [
+                "macintosh.js"
+            ]
         }
     },
     "distributor-logo-mageia": {
@@ -6043,6 +6133,20 @@
             ]
         }
     },
+    "dota-underlords": {
+        "linux": {
+            "root": "steam_icon_1046930"
+        }
+    },
+    "dotpict": {
+        "android": [
+            "net.dotpicko.dotpict/net.dotpicko.dotpict.HandleUrlActivity",
+            "net.dotpicko.dotpict/net.dotpicko.dotpict.RoutingActivity"
+        ],
+        "linux": {
+            "root": "web-dotpict"
+        }
+    },
     "double-action-boogaloo": {
         "linux": {
             "root": "steam_icon_317360"
@@ -6365,7 +6469,8 @@
             "root": "eclipse",
             "symlinks": [
                 "org.eclipse.Committers",
-                "org.eclipse.Eclipse"
+                "org.eclipse.Eclipse",
+                "org.eclipse.Javascript"
             ]
         }
     },
@@ -6480,7 +6585,10 @@
     },
     "electron-mail": {
         "linux": {
-            "root": "electron-mail"
+            "root": "electron-mail",
+            "symlinks": [
+                "com.github.vladimiry.ElectronMail"
+            ]
         }
     },
     "electronic-super-joy": {
@@ -6517,6 +6625,15 @@
     "elektra": {
         "linux": {
             "root": "elektra"
+        }
+    },
+    "element-desktop": {
+        "linux": {
+            "root": "element-desktop",
+            "symlinks": [
+                "element",
+                "element-nightly"
+            ]
         }
     },
     "element4l": {
@@ -6881,6 +6998,16 @@
             ]
         }
     },
+    "f1-2015": {
+        "linux": {
+            "root": "steam_icon_286570"
+        }
+    },
+    "f1-2017": {
+        "linux": {
+            "root": "steam_icon_515220"
+        }
+    },
     "factorio": {
         "linux": {
             "root": "factorio",
@@ -6901,6 +7028,11 @@
             "symlinks": [
                 "org.kde.falkon"
             ]
+        }
+    },
+    "fall-guys": {
+        "linux": {
+            "root": "steam_icon_1097150"
         }
     },
     "falling-time": {
@@ -7170,6 +7302,7 @@
                 "firefox-3.0",
                 "firefox-3.5",
                 "firefox-4.0",
+                "firefox-bin",
                 "firefox-default",
                 "firefox-esr",
                 "firefox-gtk3",
@@ -7487,7 +7620,10 @@
     },
     "fontmatrix": {
         "linux": {
-            "root": "fontmatrix"
+            "root": "fontmatrix",
+            "symlinks": [
+                "com.github.fontmatrix.Fontmatrix"
+            ]
         }
     },
     "fonts": {
@@ -7619,6 +7755,16 @@
     "frama-c": {
         "linux": {
             "root": "frama-c"
+        }
+    },
+    "fran-bow": {
+        "linux": {
+            "root": "franbow",
+            "symlinks": [
+                "franbow-demo",
+                "steam_icon_362680",
+                "steam_icon_393500"
+            ]
         }
     },
     "franz": {
@@ -7796,6 +7942,11 @@
     "fromscratch": {
         "linux": {
             "root": "fromscratch"
+        }
+    },
+    "frostpunk": {
+        "linux": {
+            "root": "steam_icon_323190"
         }
     },
     "frostwire": {
@@ -10272,7 +10423,10 @@
     },
     "headset": {
         "linux": {
-            "root": "headset"
+            "root": "headset",
+            "symlinks": [
+                "co.headsetapp.headset"
+            ]
         }
     },
     "heaptrack": {
@@ -10306,6 +10460,11 @@
     "helia": {
         "linux": {
             "root": "helia"
+        }
+    },
+    "helltaker": {
+        "linux": {
+            "root": "steam_icon_1289310"
         }
     },
     "helm": {
@@ -11109,6 +11268,16 @@
             ]
         }
     },
+    "jalbum": {
+        "linux": {
+            "root": "jalbum",
+            "symlinks": [
+                "JAlbum",
+                "JalbumApp48",
+                "kipi-jalbum"
+            ]
+        }
+    },
     "jammr": {
         "linux": {
             "root": "jammr",
@@ -11267,7 +11436,8 @@
             "symlinks": [
                 "jitsi-meet",
                 "jitsi-meet-desktop",
-                "jitsi-meet-electron"
+                "jitsi-meet-electron",
+                "org.jitsi.jitsi-meet"
             ]
         }
     },
@@ -12421,6 +12591,11 @@
             "root": "laptop-mode-tools"
         }
     },
+    "lara-croft-and-the-temple-of-osiris": {
+        "linux": {
+            "root": "steam_icon_289690"
+        }
+    },
     "lash": {
         "linux": {
             "root": "lash_panel"
@@ -12599,6 +12774,7 @@
                 "libreoffice5.3-base",
                 "libreoffice6.3-base",
                 "libreoffice6.4-base",
+                "libreoffice7.0-base",
                 "libreofficedev6.1-base",
                 "org.libreoffice.LibreOffice-base",
                 "org.libreoffice.LibreOffice.base"
@@ -12615,6 +12791,7 @@
                 "libreoffice5.3-calc",
                 "libreoffice6.3-calc",
                 "libreoffice6.4-calc",
+                "libreoffice7.0-calc",
                 "libreofficedev6.1-calc",
                 "org.libreoffice.LibreOffice-calc",
                 "org.libreoffice.LibreOffice.calc"
@@ -12631,6 +12808,7 @@
                 "libreoffice5.3-draw",
                 "libreoffice6.3-draw",
                 "libreoffice6.4-draw",
+                "libreoffice7.0-draw",
                 "libreofficedev6.1-draw",
                 "org.libreoffice.LibreOffice-draw",
                 "org.libreoffice.LibreOffice.draw"
@@ -12647,6 +12825,7 @@
                 "libreoffice5.3-impress",
                 "libreoffice6.3-impress",
                 "libreoffice6.4-impress",
+                "libreoffice7.0-impress",
                 "libreofficedev6.1-impress",
                 "org.libreoffice.LibreOffice-impress",
                 "org.libreoffice.LibreOffice.impress"
@@ -12670,6 +12849,7 @@
                 "libreoffice5.3-startcenter",
                 "libreoffice6.3-startcenter",
                 "libreoffice6.4-startcenter",
+                "libreoffice7.0-startcenter",
                 "libreofficedev6.1-startcenter",
                 "org.libreoffice.LibreOffice-startcenter",
                 "org.libreoffice.LibreOffice.startcenter"
@@ -12686,6 +12866,7 @@
                 "libreoffice5.3-math",
                 "libreoffice6.3-math",
                 "libreoffice6.4-math",
+                "libreoffice7.0-math",
                 "libreofficedev6.1-math",
                 "org.libreoffice.LibreOffice-math",
                 "org.libreoffice.LibreOffice.math"
@@ -12711,6 +12892,7 @@
                 "libreoffice5.3-writer",
                 "libreoffice6.3-writer",
                 "libreoffice6.4-writer",
+                "libreoffice7.0-writer",
                 "libreofficedev6.1-writer",
                 "org.libreoffice.LibreOffice-writer",
                 "org.libreoffice.LibreOffice.writer"
@@ -12728,6 +12910,14 @@
     "librevault": {
         "linux": {
             "root": "librevault"
+        }
+    },
+    "librewolf": {
+        "linux": {
+            "root": "librewolf",
+            "symlinks": [
+                "io.gitlab.LibreWolf"
+            ]
         }
     },
     "life-is-strange": {
@@ -13127,6 +13317,14 @@
             "root": "lxmusic"
         }
     },
+    "lyne": {
+        "android": [
+            "com.thomasbowker.lynerelease/com.unity3d.player.UnityPlayerActivity"
+        ],
+        "linux": {
+            "root": "steam_icon_266010"
+        }
+    },
     "lyricfier": {
         "linux": {
             "root": "lyricfier"
@@ -13364,7 +13562,8 @@
         "linux": {
             "root": "maui-station",
             "symlinks": [
-                "org.kde.station"
+                "org.kde.station",
+                "uk.co.mrbenshef.Boop-GTK"
             ]
         }
     },
@@ -13486,7 +13685,10 @@
     },
     "mellowplayer": {
         "linux": {
-            "root": "mellowplayer"
+            "root": "mellowplayer",
+            "symlinks": [
+                "com.gitlab.ColinDuquesnoy.MellowPlayer"
+            ]
         }
     },
     "mendeleydesktop": {
@@ -13963,6 +14165,8 @@
             "root": "ms-onenote",
             "symlinks": [
                 "chrome-ciniambnphakdoflgeamacamhfllbkmo-Default",
+                "com.corifeus.onenote",
+                "onenote",
                 "web-onenote"
             ]
         }
@@ -14496,6 +14700,7 @@
         "linux": {
             "root": "nextcloud",
             "symlinks": [
+                "com.nextcloud.desktopclient.nextcloud",
                 "Nextcloud",
                 "org.nextcloud.Nextcloud"
             ]
@@ -14669,6 +14874,11 @@
             ]
         }
     },
+    "nostlan": {
+        "linux": {
+            "root": "nostlan"
+        }
+    },
     "notable": {
         "linux": {
             "root": "notable"
@@ -14804,6 +15014,11 @@
             "symlinks": [
                 "nylas-mail"
             ]
+        }
+    },
+    "nyrna": {
+        "linux": {
+            "root": "nyrna"
         }
     },
     "obfuscate": {
@@ -15226,6 +15441,11 @@
             "root": "opendict"
         }
     },
+    "openerp": {
+        "linux": {
+            "root": "openerp-client"
+        }
+    },
     "openlugaru": {
         "linux": {
             "root": "openlugaru",
@@ -15376,7 +15596,6 @@
         "linux": {
             "root": "opera",
             "symlinks": [
-                "openerp-client",
                 "opera-browser",
                 "opera-browser-icon",
                 "opera-browser-icons",
@@ -15384,14 +15603,19 @@
             ]
         }
     },
-    "opera-next-browser": {
+    "opera-beta": {
         "android": [
             "com.opera.browser.beta/com.opera.android.OperaStartActivity"
         ],
         "linux": {
-            "root": "opera-next-browser",
+            "root": "opera-beta"
+        }
+    },
+    "opera-developer": {
+        "linux": {
+            "root": "opera-developer",
             "symlinks": [
-                "opera-developer"
+                "opera-next-browser"
             ]
         }
     },
@@ -15564,6 +15788,11 @@
     "paintown": {
         "linux": {
             "root": "paintown"
+        }
+    },
+    "pajama-sam": {
+        "linux": {
+            "root": "steam_icon_283960"
         }
     },
     "palapeli": {
@@ -16437,6 +16666,14 @@
             ]
         }
     },
+    "popsicle": {
+        "linux": {
+            "root": "popsicle",
+            "symlinks": [
+                "com.system76.Popsicle"
+            ]
+        }
+    },
     "portal": {
         "linux": {
             "root": "steam_icon_400",
@@ -16889,6 +17126,14 @@
             "com.spookyhousestudios.progressbar95/com.ansca.corona.CoronaActivity"
         ]
     },
+    "project-zomboid": {
+        "linux": {
+            "root": "steam_icon_108600",
+            "symlinks": [
+                "steam_icon_264910"
+            ]
+        }
+    },
     "projectlibre": {
         "linux": {
             "root": "projectlibre"
@@ -17257,8 +17502,10 @@
             "root": "qgis",
             "symlinks": [
                 "org.qgis.qgis",
+                "org.qgis.qgis-ltr",
                 "qbrowser",
                 "qgis-icon"
+                "qgis-ltr"
             ]
         }
     },
@@ -17409,7 +17656,10 @@
     },
     "qqintl": {
         "linux": {
-            "root": "qqintl"
+            "root": "qqintl",
+            "symlinks": [
+                "deepinwine-qq"
+            ]
         }
     },
     "qreator": {
@@ -17887,6 +18137,7 @@
             "root": "rct",
             "symlinks": [
                 "freerct",
+                "io.openrct2.OpenRCT2",
                 "openrct",
                 "openrct2"
             ]
@@ -18201,11 +18452,20 @@
         }
     },
     "riot-web": {
+        "android": [
+            "im.vector.alpha/im.vector.activity.LauncherActivity",
+            "im.vector.alpha/im.vector.activity.LoginActivity",
+            "im.vector.alpha/im.vector.activity.SplashActivity",
+            "im.vector.alpha/im.vector.activity.VectorLauncherActivity",
+            "im.vector.riotx/im.vector.riotx.features.Alias"
+        ],
         "linux": {
             "root": "riot-web",
             "symlinks": [
                 "im.riot.Riot",
-                "riot"
+                "riot",
+                "riot-desktop",
+                "riot-nightly"
             ]
         }
     },
@@ -18497,6 +18757,11 @@
     "sakura-spirit": {
         "linux": {
             "root": "steam_icon_313740"
+        }
+    },
+    "sally-face": {
+        "linux": {
+            "root": "steam_icon_541570"
         }
     },
     "samplv1": {
@@ -19421,6 +19686,14 @@
     "solaar": {
         "linux": {
             "root": "solaar"
+        }
+    },
+    "solanum": {
+        "linux": {
+            "root": "solanum",
+            "symlinks": [
+                "org.gnome.Solanum"
+            ]
         }
     },
     "solar-2": {
@@ -20563,6 +20836,7 @@
                 "com.teeworlds.Teeworlds",
                 "DDNet",
                 "ddnet",
+                "steam_icon_380840",
                 "tw.ddnet.ddnet"
             ]
         }
@@ -20858,6 +21132,21 @@
             "root": "steam_icon_552440"
         }
     },
+    "the-witcher": {
+        "linux": {
+            "root": "steam_icon_20900"
+        }
+    },
+    "the-witcher-2": {
+        "linux": {
+            "root": "steam_icon_20920"
+        }
+    },
+    "the-witcher-3": {
+        "linux": {
+            "root": "steam_icon_292030"
+        }
+    },
     "thedarkmod": {
         "linux": {
             "root": "thedarkmod",
@@ -21015,7 +21304,8 @@
         "linux": {
             "root": "timetable",
             "symlinks": [
-                "com.github.lainsce.timetable"
+                "com.github.lainsce.timetable",
+                "io.github.kaschpal.timetable"
             ]
         }
     },
@@ -21036,6 +21326,14 @@
     "tintii": {
         "linux": {
             "root": "tintii"
+        }
+    },
+    "tipp10": {
+        "linux": {
+            "root": "tipp10",
+            "symlinks": [
+                "com.gitlab.tipp10.tipp10"
+            ]
         }
     },
     "titan-attacks": {
@@ -21091,6 +21389,23 @@
             "root": "toggldesktop",
             "symlinks": [
                 "com.toggl.TogglDesktop"
+            ]
+        }
+    },
+    "toki-tori": {
+        "linux": {
+            "root": "steam_icon_38700",
+            "symlinks": [
+                "steam_icon_38710"
+            ]
+        }
+    },
+    "toki-tori-2": {
+        "linux": {
+            "root": "steam_icon_201420",
+            "symlinks": [
+                "steam_icon_201430",
+                "steam_icon_237530"
             ]
         }
     },
@@ -22059,6 +22374,11 @@
             "root": "violetumleditor"
         }
     },
+    "virdi": {
+        "linux": {
+            "root": "steam_icon_375950"
+        }
+    },
     "virt-manager": {
         "linux": {
             "root": "virt-manager",
@@ -22324,6 +22644,7 @@
             "root": "warp",
             "symlinks": [
                 "org.linuxmint.warp",
+                "org.x.Warpinator",
                 "warpinator"
             ]
         }
@@ -22985,7 +23306,8 @@
         "linux": {
             "root": "web-unsplash",
             "symlinks": [
-                "chrome-cnlnpjpkobmmbdnpbdceplbemhibbhll-Default"
+                "chrome-cnlnpjpkobmmbdnpbdceplbemhibbhll-Default",
+                "in.bharatkalluri.splash"
             ]
         }
     },
@@ -23034,6 +23356,19 @@
             "root": "chrome-njkkjobcechefaoknodniidfjapgfoco-Default"
         }
     },
+    "web-wechat": {
+        "android": [
+            "com.tencent.mm/com.tencent.mm.ui.LauncherUI"
+        ],
+        "linux": {
+            "root": "web-wechat",
+            "symlinks": [
+                "deepin.com.wechat",
+                "wechat",
+                "wewechat"
+            ]
+        }
+    },
     "web-weebly": {
         "linux": {
             "root": "chrome-cnocophcbjfiimmnhlhleaooedeheifb-Default",
@@ -23075,6 +23410,7 @@
                 "chrome-bgkodfmeijboinjdegggmkbkjfiagaan-Default",
                 "chrome-gcjbnclfkeffmdfdhflnadahgmajfgcm-Default",
                 "com.gigitux.gtkwhats",
+                "io.bit3.WhatsAppQT",
                 "whatsapp",
                 "whatsapp-desktop",
                 "whatsapp-for-linux",
@@ -23149,7 +23485,10 @@
     },
     "welle-io": {
         "linux": {
-            "root": "welle-io"
+            "root": "welle-io",
+            "symlinks": [
+                "com.github.louis77.tuner"
+            ]
         }
     },
     "weresync": {
@@ -23372,11 +23711,6 @@
                 "org.wireshark.gtk",
                 "org.wireshark.qt"
             ]
-        }
-    },
-    "witcher-3": {
-        "linux": {
-            "root": "steam_icon_292030"
         }
     },
     "wiznote": {
@@ -23745,6 +24079,8 @@
         "linux": {
             "root": "xiphos",
             "symlinks": [
+                "net.lugsole.bible_gui",
+                "org.homelinuxserver.vance.biblereader",
                 "org.xiphos.Xiphos"
             ]
         }
@@ -24155,6 +24491,14 @@
             "root": "steam_icon_308420"
         }
     },
+    "zmninja": {
+        "android": [
+            "com.pliablepixels.zmninja_pro/com.pliablepixels.zmninja_pro.MainActivity"
+        ],
+        "linux": {
+            "root": "zmninja"
+        }
+    },
     "zoom": {
         "android": [
             "us.zoom.videomeetings/com.zipow.videobox.LauncherActivity"
@@ -24175,6 +24519,11 @@
                 "org.zotero.Zotero"
             ]
         }
+    },
+    "zoysii": {
+        "android": [
+            "xyz.deepdaikon.zoysii/xyz.deepdaikon.zoysii.MainActivity"
+        ]
     },
     "zrythm": {
         "linux": {
