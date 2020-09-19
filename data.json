@@ -704,6 +704,7 @@
             "root": "adriconf",
             "symlinks": [
                 "br.com.jeanhertel.adriconf",
+                "org.freedesktop.adriconf",
                 "org.x.adriconf"
             ]
         }
@@ -1215,8 +1216,10 @@
         "linux": {
             "root": "antimicro",
             "symlinks": [
+                "antimicrox",
                 "com.github.juliagoda.antimicro",
-                "com.github.juliagoda.antimicroX"
+                "com.github.juliagoda.antimicroX",
+                "io.github.antimicrox.antimicrox"
             ]
         }
     },
@@ -6466,7 +6469,8 @@
             "root": "eclipse",
             "symlinks": [
                 "org.eclipse.Committers",
-                "org.eclipse.Eclipse"
+                "org.eclipse.Eclipse",
+                "org.eclipse.Javascript"
             ]
         }
     },
@@ -7616,7 +7620,10 @@
     },
     "fontmatrix": {
         "linux": {
-            "root": "fontmatrix"
+            "root": "fontmatrix",
+            "symlinks": [
+                "com.github.fontmatrix.Fontmatrix"
+            ]
         }
     },
     "fonts": {
@@ -13670,7 +13677,10 @@
     },
     "mellowplayer": {
         "linux": {
-            "root": "mellowplayer"
+            "root": "mellowplayer",
+            "symlinks": [
+                "com.gitlab.ColinDuquesnoy.MellowPlayer"
+            ]
         }
     },
     "mendeleydesktop": {
@@ -14147,6 +14157,8 @@
             "root": "ms-onenote",
             "symlinks": [
                 "chrome-ciniambnphakdoflgeamacamhfllbkmo-Default",
+                "com.corifeus.onenote",
+                "onenote",
                 "web-onenote"
             ]
         }
@@ -17482,8 +17494,10 @@
             "root": "qgis",
             "symlinks": [
                 "org.qgis.qgis",
+                "org.qgis.qgis-ltr",
                 "qbrowser",
                 "qgis-icon"
+                "qgis-ltr"
             ]
         }
     },
