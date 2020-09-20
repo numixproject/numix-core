@@ -5297,7 +5297,10 @@
     },
     "discord-canary": {
         "linux": {
-            "root": "discord-canary"
+            "root": "discord-canary",
+            "symlinks": [
+                "com.discordapp.DiscordCanary"
+            ]
         }
     },
     "disk-check": {
@@ -23227,6 +23230,7 @@
         "linux": {
             "root": "web-reddit",
             "symlinks": [
+                "org.gabmus.redditgtk",
                 "reddit-is-a-dead-bird",
                 "Reddit-pay.reddit.com",
                 "Reddit-reddit.com",
