@@ -4241,15 +4241,6 @@
             ]
         }
     },
-    "clion": {
-        "linux": {
-            "root": "clion",
-            "symlinks": [
-                "com.jetbrains.CLion",
-                "jetbrains-clion"
-            ]
-        }
-    },
     "clipgrab": {
         "linux": {
             "root": "clipgrab"
@@ -4909,15 +4900,6 @@
             "symlinks": [
                 "Darwinia",
                 "steam_icon_1500"
-            ]
-        }
-    },
-    "datagrip": {
-        "linux": {
-            "root": "datagrip",
-            "symlinks": [
-                "com.jetbrains.DataGrip",
-                "jetbrains-datagrip"
             ]
         }
     },
@@ -10887,25 +10869,6 @@
             ]
         }
     },
-    "idea": {
-        "linux": {
-            "root": "idea",
-            "symlinks": [
-                "com.jetbrains.Intellij-Community",
-                "com.jetbrains.IntelliJ-IDEA-Community",
-                "com.jetbrains.IntelliJ-IDEA-Ultimate",
-                "intellij",
-                "intellij-idea",
-                "intellij-idea-ce",
-                "intellij-idea-community",
-                "intellij-idea-ue-bundled-jre",
-                "intellij-idea-ultimate-edition",
-                "intellij_idea",
-                "jetbrains-intellij",
-                "jetbrains-intellij-idea"
-            ]
-        }
-    },
     "iease-music": {
         "linux": {
             "root": "iease-music"
@@ -11419,6 +11382,104 @@
     "jenny-leclue-detectivu": {
         "linux": {
             "root": "steam_icon_319870"
+        }
+    },
+    "jetbrains-appcode": {
+        "linux": {
+            "root": "jetbrains-appcode",
+            "symlinks": [
+                "appcode"
+            ]
+        }
+    },
+    "jetbrains-clion": {
+        "linux": {
+            "root": "jetbrains-clion",
+            "symlinks": [
+                "clion",
+                "com.jetbrains.CLion"
+            ]
+        }
+    },
+    "jetbrains-datagrip": {
+        "linux": {
+            "root": "jetbrains-datagrip",
+            "symlinks": [
+                "com.jetbrains.DataGrip",
+                "datagrip"
+            ]
+        }
+    },
+    "jetbrains-idea": {
+        "linux": {
+            "root": "jetbrains-idea",
+            "symlinks": [
+                "com.jetbrains.Intellij-Community",
+                "com.jetbrains.IntelliJ-IDEA-Community",
+                "com.jetbrains.IntelliJ-IDEA-Ultimate",
+                "idea",
+                "intellij",
+                "intellij-idea",
+                "intellij-idea-ce",
+                "intellij-idea-community",
+                "intellij-idea-ue-bundled-jre",
+                "intellij-idea-ultimate-edition",
+                "intellij_idea",
+                "jetbrains-intellij",
+                "jetbrains-intellij-idea"
+            ]
+        }
+    },
+    "jetbrains-phpstorm": {
+        "linux": {
+            "root": "jetbrains-phpstorm",
+            "symlinks": [
+                "com.jetbrains.PhpStorm",
+                "phpstorm",
+                "webide"
+            ]
+        }
+    },
+    "jetbrains-pycharm": {
+        "linux": {
+            "root": "jetbrains-pycharm",
+            "symlinks": [
+                "com.jetbrains.PyCharm",
+                "com.jetbrains.PyCharm-Community",
+                "com.jetbrains.PyCharm-Professional",
+                "jetbrains-pycharm-edu",
+                "pycharm",
+                "pycharm-community",
+                "pycharm-education",
+                "pycharm-professional"
+            ]
+        }
+    },
+    "jetbrains-rider": {
+        "linux": {
+            "root": "jetbrains-rider",
+            "symlinks": [
+                "com.jetbrains.Rider",
+                "rider"
+            ]
+        }
+    },
+    "jetbrains-rubymine": {
+        "linux": {
+            "root": "jetbrains-rubymine",
+            "symlinks": [
+                "com.jetbrains.RubyMine",
+                "rubymine"
+            ]
+        }
+    },
+    "jetbrains-webstorm": {
+        "linux": {
+            "root": "jetbrains-webstorm",
+            "symlinks": [
+                "com.jetbrains.WebStorm",
+                "webstorm"
+            ]
         }
     },
     "jiten": {
@@ -16264,16 +16325,6 @@
             "root": "phototonic"
         }
     },
-    "phpstorm": {
-        "linux": {
-            "root": "phpstorm",
-            "symlinks": [
-                "com.jetbrains.PhpStorm",
-                "jetbrains-phpstorm",
-                "webide"
-            ]
-        }
-    },
     "pia-manager": {
         "linux": {
             "root": "pia-manager",
@@ -17312,21 +17363,6 @@
             "root": "pycad",
             "symlinks": [
                 "gtkpycad"
-            ]
-        }
-    },
-    "pycharm": {
-        "linux": {
-            "root": "pycharm",
-            "symlinks": [
-                "com.jetbrains.PyCharm",
-                "com.jetbrains.PyCharm-Community",
-                "com.jetbrains.PyCharm-Professional",
-                "jetbrains-pycharm",
-                "jetbrains-pycharm-edu",
-                "pycharm-community",
-                "pycharm-education",
-                "pycharm-professional"
             ]
         }
     },
@@ -18423,15 +18459,6 @@
             "root": "ricochet"
         }
     },
-    "rider": {
-        "linux": {
-            "root": "rider",
-            "symlinks": [
-                "com.jetbrains.Rider",
-                "jetbrains-rider"
-            ]
-        }
-    },
     "rimworld": {
         "linux": {
             "root": "steam_icon_294100"
@@ -18690,15 +18717,6 @@
     "rtwizard": {
         "linux": {
             "root": "rtwizard"
-        }
-    },
-    "rubymine": {
-        "linux": {
-            "root": "rubymine",
-            "symlinks": [
-                "com.jetbrains.RubyMine",
-                "jetbrains-rubymine"
-            ]
         }
     },
     "rubyripper": {
@@ -23473,15 +23491,6 @@
     "webservice-office-zoho-sheet": {
         "linux": {
             "root": "webservice-office-zoho-sheet"
-        }
-    },
-    "webstorm": {
-        "linux": {
-            "root": "webstorm",
-            "symlinks": [
-                "com.jetbrains.WebStorm",
-                "jetbrains-webstorm"
-            ]
         }
     },
     "webtorrent-desktop": {
