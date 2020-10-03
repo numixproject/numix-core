@@ -7599,6 +7599,14 @@
             ]
         }
     },
+    "font-downloader": {
+        "linux": {
+            "root": "font-downloader",
+            "symlinks": [
+                "org.gustavoperedo.FontDownloader"
+            ]
+        }
+    },
     "font-editor": {
         "linux": {
             "root": "font-editor"
