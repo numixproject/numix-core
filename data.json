@@ -15879,9 +15879,11 @@
         "linux": {
             "root": "parano",
             "symlinks": [
+                "io.github.chris2511.xca",
                 "kleopatra",
                 "org.kde.kleopatra",
-                "parano-icon"
+                "parano-icon",
+                "xca"
             ]
         }
     },
