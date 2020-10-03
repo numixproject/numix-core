@@ -950,7 +950,8 @@
         "linux": {
             "root": "alphaplot",
             "symlinks": [
-                "AlphaPlot"
+                "AlphaPlot",
+                "io.github.narunlifescience.AlphaPlot"
             ]
         }
     },
@@ -2622,7 +2623,8 @@
             "root": "brave",
             "symlinks": [
                 "brave-bin",
-                "brave-browser"
+                "brave-browser",
+                "com.brave.Browser"
             ]
         }
     },
@@ -4076,8 +4078,10 @@
                 "chromium-browser",
                 "chromium-browser-privacy",
                 "chromium-browser2",
+                "com.github.Eloston.ungoogled-chromium",
                 "google-chromium",
-                "org.chromium.Chromium"
+                "org.chromium.Chromium",
+                "ungoogled-chromium"
             ]
         }
     },
@@ -6124,7 +6128,8 @@
         "linux": {
             "root": "dosbox",
             "symlinks": [
-                "com.dosbox.DOSBox"
+                "com.dosbox.DOSBox",
+                "com.dosbox_x.DOSBox-X"
             ]
         }
     },
@@ -7381,6 +7386,7 @@
         "linux": {
             "root": "firewall",
             "symlinks": [
+                "com.github.fwbuilder",
                 "cs-firewall",
                 "firestarter",
                 "firewall-config",
@@ -12517,7 +12523,10 @@
     },
     "kvantum": {
         "linux": {
-            "root": "kvantum"
+            "root": "kvantum",
+            "symlinks": [
+                "com.github.tsujan.Kvantum"
+            ]
         }
     },
     "kverbos": {
@@ -14490,6 +14499,7 @@
         "linux": {
             "root": "nasc",
             "symlinks": [
+                "com.github.carlos157oliveira.Calculus",
                 "com.github.parnold-x.nasc"
             ]
         }
@@ -23285,7 +23295,8 @@
         "linux": {
             "root": "chrome-fnibmbcdeepaahjmddiihohjanlimlmj-Default",
             "symlinks": [
-                "chrome-bgjohebimpjdhhocbknplfelpmdhifhd-Default"
+                "chrome-bgjohebimpjdhhocbknplfelpmdhifhd-Default",
+                "com.todoist.Todoist"
             ]
         }
     },
@@ -24011,7 +24022,8 @@
             "root": "xcircuit",
             "symlinks": [
                 "circuit",
-                "ktechlab"
+                "ktechlab",
+                "org.kde.ktechlab"
             ]
         }
     },
