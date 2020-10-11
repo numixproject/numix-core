@@ -7436,7 +7436,8 @@
         "linux": {
             "root": "flameshot",
             "symlinks": [
-                "org.dharkael.Flameshot"
+                "org.dharkael.Flameshot",
+                "org.flameshot.Flameshot"
             ]
         }
     },
@@ -23244,6 +23245,7 @@
         "linux": {
             "root": "web-reddit",
             "symlinks": [
+                "org.gabmus.giara",
                 "org.gabmus.redditgtk",
                 "reddit-is-a-dead-bird",
                 "Reddit-pay.reddit.com",
