@@ -16039,6 +16039,14 @@
             "root": "pdf-xchange"
         }
     },
+    "pdfarranger": {
+        "linux": {
+            "root": "pdfarranger",
+            "symlinks": [
+                "com.github.jeromerobert.pdfarranger"
+            ]
+        }
+    },
     "pdfchain": {
         "linux": {
             "root": "pdfchain"
@@ -16067,9 +16075,7 @@
         "linux": {
             "root": "pdfshuffler",
             "symlinks": [
-                "com.github.jeromerobert.pdfarranger",
                 "com.github.junrrein.PDFSlicer",
-                "pdfarranger",
                 "pdfslicer"
             ]
         }
