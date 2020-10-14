@@ -17825,6 +17825,14 @@
             "root": "qtpass"
         }
     },
+    "qtsconverter": {
+        "linux": {
+            "root": "qtsconverter",
+            "symlinks": [
+                "org.guerinoni.qTsConverter"
+            ]
+        }
+    },
     "qtsixa": {
         "linux": {
             "root": "qtsixa"
