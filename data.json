@@ -1763,6 +1763,7 @@
             "symlinks": [
                 "audacious-16",
                 "audacious-32",
+                "org.atheme.audacious",
                 "org.audacious_media_player.Audacious"
             ]
         }
@@ -5058,6 +5059,7 @@
         "linux": {
             "root": "deja-dup",
             "symlinks": [
+                "chakra-backup",
                 "kbackup",
                 "mintBackup",
                 "mintbackup",
@@ -8506,7 +8508,10 @@
     },
     "giteye": {
         "linux": {
-            "root": "giteye"
+            "root": "giteye",
+            "symlinks": [
+                "GitEye"
+            ]
         }
     },
     "gitg": {
@@ -9939,7 +9944,10 @@
     },
     "grsync": {
         "linux": {
-            "root": "grsync"
+            "root": "grsync",
+            "symlinks": [
+                "Grsync"
+            ]
         }
     },
     "grub-customizer": {
@@ -11978,6 +11986,7 @@
             "root": "kigo",
             "symlinks": [
                 "cgoban",
+                "cgoban_32x32",
                 "gogui",
                 "org.kde.kigo",
                 "quarry"
@@ -12263,7 +12272,10 @@
     },
     "komodo": {
         "linux": {
-            "root": "komodo"
+            "root": "komodo",
+            "symlinks": [
+                "komodo-ide"
+            ]
         }
     },
     "kompare": {
@@ -13843,6 +13855,7 @@
             "root": "minecraft",
             "symlinks": [
                 "com.mojang.Minecraft",
+                "io.mrarm.mcpelauncher",
                 "io.mrarm.mcpelauncher-ui",
                 "mcpelauncher-ui",
                 "mcpelauncher-ui-qt",
@@ -14416,6 +14429,7 @@
             "root": "musescore",
             "symlinks": [
                 "mscore",
+                "Musescore",
                 "org.musescore.MuseScore"
             ]
         }
@@ -20669,6 +20683,7 @@
                 "mintUpdate",
                 "mintupdate",
                 "mintupdate-release-upgrade",
+                "mx-update",
                 "nx-software-updater",
                 "pamac-updater",
                 "pup",
