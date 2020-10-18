@@ -9617,7 +9617,10 @@
     },
     "google-translate": {
         "linux": {
-            "root": "google-translate"
+            "root": "google-translate",
+            "symlinks": [
+                "com.github.gi_lom.dialect"
+            ]
         }
     },
     "google-webdesigner": {
@@ -9654,6 +9657,7 @@
             "symlinks": [
                 "com.github.jmlich.geotagging",
                 "gpscorrelate-gui",
+                "io.github.dfandrich.gpscorrelate",
                 "mapollage"
             ]
         }
@@ -24355,7 +24359,10 @@
     },
     "yoshimi": {
         "linux": {
-            "root": "yoshimi"
+            "root": "yoshimi",
+            "symlinks": [
+                "org.freedesktop.LinuxAudio.Plugins.Yoshimi"
+            ]
         }
     },
     "you-have-to-win-the-game": {
