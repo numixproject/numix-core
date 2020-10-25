@@ -19392,7 +19392,10 @@
     },
     "simplenote": {
         "linux": {
-            "root": "simplenote"
+            "root": "simplenote",
+            "symlinks": [
+                "com.simplenote.simplenote"
+            ]
         }
     },
     "simplescreenrecorder": {
@@ -22601,7 +22604,9 @@
             "symlinks": [
                 "blobby",
                 "blobby2",
-                "blubvolley"
+                "blobbyvolley",
+                "blubvolley",
+                "de.blobbyvolley.BlobbyVolley2"
             ]
         }
     },
@@ -23782,7 +23787,10 @@
     },
     "wolfenstein": {
         "linux": {
-            "root": "wolfenstein"
+            "root": "wolfenstein",
+            "symlinks": [
+                "com.github.iortcw.iortcw"
+            ]
         }
     },
     "wolfenstein-et": {
