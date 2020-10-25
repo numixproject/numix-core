@@ -11503,7 +11503,10 @@
     },
     "joplin": {
         "linux": {
-            "root": "joplin"
+            "root": "joplin",
+            "symlinks": [
+                "org.joplinapp.joplin"
+            ]
         }
     },
     "josm": {
