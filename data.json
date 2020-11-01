@@ -4013,7 +4013,10 @@
     },
     "chiaki": {
         "linux": {
-            "root": "chiaki"
+            "root": "chiaki",
+            "symlinks": [
+                "com.github.thestr4ng3r.Chiaki"
+            ]
         }
     },
     "chmsee-icon": {
