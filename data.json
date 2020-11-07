@@ -19792,7 +19792,10 @@
     },
     "sonic-pi": {
         "linux": {
-            "root": "sonic-pi"
+            "root": "sonic-pi",
+            "symlinks": [
+                "net.sonic_pi.SonicPi"
+            ]
         }
     },
     "sonic-the-hedgehog": {
