@@ -14572,7 +14572,10 @@
     },
     "nds": {
         "linux": {
-            "root": "DeSmuME"
+            "root": "DeSmuME",
+            "symlinks": [
+                "org.desmume.DeSmuME"
+            ]
         }
     },
     "nemiver": {
@@ -18021,7 +18024,10 @@
     },
     "qview": {
         "linux": {
-            "root": "qview"
+            "root": "qview",
+            "symlinks": [
+                "com.interversehq.qView"
+            ]
         }
     },
     "qwertone": {
@@ -19400,6 +19406,7 @@
         "linux": {
             "root": "simplenote",
             "symlinks": [
+                "com.simplenote.Simplenote",
                 "com.simplenote.simplenote"
             ]
         }
