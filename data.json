@@ -7205,6 +7205,7 @@
                 "nautilus-actions",
                 "nautilus-actions-config-tool",
                 "org.gnome.Nautilus",
+                "org.xfce.filemanager",
                 "redhat-filemanager",
                 "system-file-manager",
                 "user-file-manager",
@@ -8268,7 +8269,8 @@
             "symlinks": [
                 "io.elementary.mail",
                 "org.gnome.Geary",
-                "org.yorba.geary"
+                "org.yorba.geary",
+                "org.xfce.mailreader"
             ]
         }
     },
@@ -11080,6 +11082,7 @@
                 "input_device_settings",
                 "kmousetool",
                 "mouse",
+                "org.xfce.settings.mouse",
                 "preferences-desktop-mouse"
             ]
         }
@@ -16797,6 +16800,7 @@
                 "org.gnome.ColorProfileViewer",
                 "org.gnome.ColorViewer",
                 "org.kde.kcolorchooser",
+                "org.xfce.settings.color",
                 "preferences-desktop-color",
                 "unity-color-panel"
             ]
@@ -16804,12 +16808,18 @@
     },
     "preferences-desktop-accessibility": {
         "linux": {
-            "root": "preferences-desktop-accessibility"
+            "root": "preferences-desktop-accessibility",
+            "symlinks": [
+                "org.xfce.settings.accessibility"
+            ]
         }
     },
     "preferences-desktop-default-applications": {
         "linux": {
-            "root": "preferences-desktop-default-applications"
+            "root": "preferences-desktop-default-applications",
+            "symlinks": [
+                "org.xfce.settings.default-applications"
+            ]
         }
     },
     "preferences-desktop-display": {
@@ -16825,6 +16835,7 @@
                 "gnome-display-properties",
                 "gnome-dsiplay-properties",
                 "mate-preferences-desktop-display",
+                "org.xfce.settings.display",
                 "system-config-displayca",
                 "unity-display-panel"
             ]
@@ -16856,7 +16867,8 @@
             "symlinks": [
                 "cs-keyboard",
                 "eekboard",
-                "input-keyboard"
+                "input-keyboard",
+                "org.xfce.settings.keyboard"
             ]
         }
     },
@@ -16912,7 +16924,7 @@
             "root": "preferences-desktop-screensaver",
             "symlinks": [
                 "kscreensaver",
-                "org.xfce.ScreenSaver"
+                "org.xfce.ScreenSaver",
                 "screensaver",
                 "xscreensaver"
             ]
@@ -16972,7 +16984,10 @@
     },
     "preferences-plugin-script": {
         "linux": {
-            "root": "preferences-plugin-script"
+            "root": "preferences-plugin-script",
+            "symlinks": [
+                "org.xfce.settings.editor"
+            ]
         }
     },
     "preferences-system": {
@@ -20932,6 +20947,7 @@
                 "org.gnome.Terminal",
                 "org.kde.konsole",
                 "org.xfce.terminal",
+                "org.xfce.terminalemulator",
                 "qterminal",
                 "Terminal",
                 "tilda",
@@ -21199,6 +21215,7 @@
                 "cs-themes",
                 "gnome-settings-theme",
                 "gtk-theme-config",
+                "org.xfce.settings.appearance",
                 "preferences-desktop-theme",
                 "preferences-theme",
                 "style",
@@ -22813,6 +22830,7 @@
                 "MultiBrowser",
                 "org.gnome.Epiphany",
                 "org.gnome.Epiphany.Devel",
+                "org.xfce.webbrowser",
                 "preferences-web-browser-shortcuts",
                 "redhat-web-browser",
                 "rekonq",
