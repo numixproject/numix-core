@@ -318,6 +318,7 @@
                 "gnome-dictionary",
                 "kthesaurus",
                 "org.gnome.Dictionary",
+                "org.xfce.Dictionary",
                 "verbiste",
                 "xfce4-dict"
             ]
@@ -409,6 +410,7 @@
                 "org.deepin.flatdeb.deepin-screenshot",
                 "org.gnome.Screenshot",
                 "org.kde.spectacle",
+                "org.xfce.screenshooter",
                 "screengrab",
                 "screenie",
                 "screenie-qt",
@@ -2613,6 +2615,8 @@
                 "media-cdrom",
                 "nautilus-cd-burner",
                 "org.kde.k3b",
+                "org.xfce.xfburn",
+                "stock_xfburn",
                 "xfburn"
             ]
         }
@@ -5170,6 +5174,7 @@
         "linux": {
             "root": "desktop-environment-xfce",
             "symlinks": [
+                "org.xfce.xfdesktop",
                 "xfce-mouse",
                 "xfce4-logo",
                 "xfce4-panel-menu",
@@ -9063,6 +9068,7 @@
                 "cs-power",
                 "mate-power-manager",
                 "org.gnome.BatteryBench",
+                "org.xfce.powermanager",
                 "preferences-system-power",
                 "unity-power-panel",
                 "xfce4-power-manager-settings",
@@ -9219,7 +9225,8 @@
             "symlinks": [
                 "com.github.stsdc.monitor",
                 "deepin-system-monitor",
-                "org.gnome.Usage"
+                "org.gnome.Usage",
+                "org.xfce.taskmanager"
             ]
         }
     },
@@ -9242,6 +9249,7 @@
                 "metacity",
                 "obconf",
                 "obconf-qt",
+                "org.xfce.xfwm4",
                 "preferences-system-windows",
                 "preferences-system-windows-actions",
                 "window-manager",
@@ -13881,7 +13889,8 @@
         "linux": {
             "root": "mintupload",
             "symlinks": [
-                "mintUpload"
+                "mintUpload",
+                "org.xfce.Gigolo",
             ]
         }
     },
@@ -14271,7 +14280,9 @@
         "linux": {
             "root": "multimedia-video-player",
             "symlinks": [
-                "io.elementary.videos"
+                "io.elementary.videos",
+                "multimedia-player",
+                "org.xfce.xfmp"
             ]
         }
     },
@@ -16901,6 +16912,7 @@
             "root": "preferences-desktop-screensaver",
             "symlinks": [
                 "kscreensaver",
+                "org.xfce.ScreenSaver"
                 "screensaver",
                 "xscreensaver"
             ]
@@ -16981,6 +16993,7 @@
                 "io.elementary.switchboard",
                 "kcontrol",
                 "org.gnome.Settings",
+                "org.xfce.settings.manager",
                 "paprefs",
                 "preferences-desktop",
                 "redhat-server_settings",
@@ -18484,7 +18497,8 @@
         "linux": {
             "root": "ristretto",
             "symlinks": [
-                "glViewImage"
+                "glViewImage",
+                "org.xfce.ristretto"
             ]
         }
     },
@@ -20603,6 +20617,7 @@
             "root": "system-search",
             "symlinks": [
                 "catfish",
+                "org.xfce.catfish",
                 "tracker"
             ]
         }
@@ -20916,6 +20931,7 @@
                 "openterm",
                 "org.gnome.Terminal",
                 "org.kde.konsole",
+                "org.xfce.terminal",
                 "qterminal",
                 "Terminal",
                 "tilda",
@@ -21063,6 +21079,7 @@
                 "org.kde.blogilo",
                 "org.kde.kate",
                 "org.kde.kwrite",
+                "org.xfce.mousepad",
                 "oxygen",
                 "scratch-text-editor",
                 "textadept",
@@ -21222,6 +21239,7 @@
         "linux": {
             "root": "thunar",
             "symlinks": [
+                "org.xfce.thunar",
                 "Thunar",
                 "thunar-filemanager"
             ]
@@ -22075,7 +22093,10 @@
     },
     "usbview": {
         "linux": {
-            "root": "usbview"
+            "root": "usbview",
+            "symlinks": [
+                "org.xfce.volman"
+            ]
         }
     },
     "userinfo": {
@@ -23729,7 +23750,10 @@
     },
     "wmtweaks": {
         "linux": {
-            "root": "wmtweaks"
+            "root": "wmtweaks",
+            "symlinks": [
+                "org.xfce.xfwm4-tweaks"
+            ]
         }
     },
     "wolf4sdl": {
@@ -23808,6 +23832,7 @@
             "symlinks": [
                 "cs-workspaces",
                 "gnome-panel-workspace-switcher",
+                "org.xfce.workspaces",
                 "workspace-switcher",
                 "xfce4-workspaces"
             ]
@@ -24041,12 +24066,18 @@
     },
     "xfce4-appfinder": {
         "linux": {
-            "root": "xfce4-appfinder"
+            "root": "xfce4-appfinder",
+            "symlinks": [
+                "org.xfce.appfinder"
+            ]
         }
     },
     "xfce4-panel": {
         "linux": {
-            "root": "xfce4-panel"
+            "root": "xfce4-panel",
+            "symlinks": [
+                "org.xfce.panel"
+            ]
         }
     },
     "xfce4-panel-restart": {
@@ -24056,7 +24087,10 @@
     },
     "xfdashboard": {
         "linux": {
-            "root": "xfdashboard"
+            "root": "xfdashboard",
+            "symlinks": [
+                "org.xfce.xfdashboard"
+            ]
         }
     },
     "xhydra": {
