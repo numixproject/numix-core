@@ -13704,7 +13704,10 @@
             "com.flyingottersoftware.mega/com.flyingottersoftware.mega.ManagerActivity"
         ],
         "linux": {
-            "root": "mega"
+            "root": "mega",
+            "symlinks": [
+                "nz.mega.MEGAsync"
+            ]
         }
     },
     "megaglest": {
