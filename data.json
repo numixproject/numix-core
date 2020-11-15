@@ -20283,7 +20283,10 @@
     },
     "strawberry": {
         "linux": {
-            "root": "strawberry"
+            "root": "strawberry",
+            "symlinks": [
+                "org.strawberrymusicplayer.strawberry"
+            ]
         }
     },
     "stremio": {
