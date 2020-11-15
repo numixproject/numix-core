@@ -22648,13 +22648,12 @@
             ]
         }
     },
-    "warp": {
+    "warpinator": {
         "linux": {
-            "root": "warp",
+            "root": "warpinator",
             "symlinks": [
                 "org.linuxmint.warp",
-                "org.x.Warpinator",
-                "warpinator"
+                "org.x.Warpinator"
             ]
         }
     },
