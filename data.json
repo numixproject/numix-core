@@ -12795,8 +12795,8 @@
         "linux": {
             "root": "libinput-gestures",
             "symlinks": [
-                "org.cunidev.gestures",
-                "libinput-gestures-qt"
+                "libinput-gestures-qt",
+                "org.cunidev.gestures"
             ]
         }
     },
