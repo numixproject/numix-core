@@ -10906,6 +10906,14 @@
             ]
         }
     },
+    "identity": {
+        "linux": {
+            "root": "identity",
+            "symlinks": [
+                "org.gnome.gitlab.YaLTeR.Identity"
+            ]
+        }
+    },
     "iease-music": {
         "linux": {
             "root": "iease-music"
