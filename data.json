@@ -5256,7 +5256,10 @@
     },
     "diffuse": {
         "linux": {
-            "root": "diffuse"
+            "root": "diffuse",
+            "symlinks": [
+                "com.github.mightycreak.Diffuse"
+            ]
         }
     },
     "diffuse-player": {
@@ -6011,7 +6014,10 @@
     },
     "djv-view": {
         "linux": {
-            "root": "djv_view"
+            "root": "djv_view",
+            "symlinks": [
+                "djv"
+            ]
         }
     },
     "djvulibre-djview4": {
@@ -10213,7 +10219,10 @@
     },
     "guitarix": {
         "linux": {
-            "root": "gx_head"
+            "root": "gx_head",
+            "symlinks": [
+                "org.guitarix.Guitarix"
+            ]
         }
     },
     "guitarpro6": {
@@ -24457,6 +24466,7 @@
                 "com.github.robertsanseries.karim",
                 "com.github.unrud.VideoDownloader",
                 "gydl",
+                "org.gustavoperedo.VideoDownloader",
                 "youtube-dl-gui",
                 "youtube-dl-gui_48x48",
                 "youtube-dl-qt-icon",
