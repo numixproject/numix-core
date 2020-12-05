@@ -9933,7 +9933,8 @@
         "linux": {
             "root": "gromit",
             "symlinks": [
-                "gromit-mpx"
+                "gromit-mpx",
+                "net.christianbeier.Gromit-MPX"
             ]
         }
     },
@@ -11559,6 +11560,7 @@
         "linux": {
             "root": "jrommanager",
             "symlinks": [
+                "firmware-manager",
                 "com.github.optyfr.JRomManager",
                 "JRomManager"
             ]
@@ -22438,6 +22440,7 @@
                 "gpx-viewer",
                 "gpxsee",
                 "gpxviewer",
+                "org.viking.Viking",
                 "qlandkartegt",
                 "QMapShack"
             ]
