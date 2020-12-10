@@ -11560,8 +11560,8 @@
         "linux": {
             "root": "jrommanager",
             "symlinks": [
-                "firmware-manager",
                 "com.github.optyfr.JRomManager",
+                "firmware-manager",
                 "JRomManager"
             ]
         }
@@ -14319,7 +14319,10 @@
     },
     "multimc": {
         "linux": {
-            "root": "multimc"
+            "root": "multimc",
+            "symlinks": [
+                "org.multimc.MultiMC"
+            ]
         }
     },
     "multimedia-audio-player": {
