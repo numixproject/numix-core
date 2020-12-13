@@ -14548,6 +14548,14 @@
             "root": "nemo"
         }
     },
+    "neochat": {
+        "linux": {
+            "root": "neochat",
+            "symlinks": [
+                "org.kde.neochat"
+            ]
+        }
+    },
     "neovim": {
         "linux": {
             "root": "neovim",
