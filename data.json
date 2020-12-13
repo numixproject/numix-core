@@ -10763,7 +10763,10 @@
     },
     "hugin": {
         "linux": {
-            "root": "hugin"
+            "root": "hugin",
+            "symlinks": [
+                "net.sourceforge.Hugin"
+            ]
         }
     },
     "human-resource-machine": {
