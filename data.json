@@ -5174,6 +5174,8 @@
         "linux": {
             "root": "desktop-environment-xfce",
             "symlinks": [
+                "org.xfce.about",
+                "org.xfce.session",
                 "org.xfce.xfdesktop",
                 "xfce-mouse",
                 "xfce4-logo",
@@ -15859,7 +15861,8 @@
                 "gnome-panel",
                 "gnome-panel-drawer",
                 "gnome-panel-window-list",
-                "mate-panel"
+                "mate-panel",
+                "org.xfce.PanelProfiles"
             ]
         }
     },
@@ -16909,6 +16912,7 @@
             "symlinks": [
                 "linconnect",
                 "linconnect-server",
+                "org.xfce.notification",
                 "preferences-desktop-notification-bell",
                 "preferences-desktop-notifications"
             ]
