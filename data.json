@@ -9638,7 +9638,8 @@
         "linux": {
             "root": "google-translate",
             "symlinks": [
-                "com.github.gi_lom.dialect"
+                "com.github.gi_lom.dialect",
+                "gtktranslate"
             ]
         }
     },
@@ -9779,7 +9780,9 @@
         "linux": {
             "root": "gpsd",
             "symlinks": [
+                "ar.com.mbernardi.noaa-apt",
                 "gpsd-logo",
+                "noaa-apt",
                 "xgps"
             ]
         }
