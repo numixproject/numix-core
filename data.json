@@ -12288,6 +12288,14 @@
             "root": "konstruktor"
         }
     },
+    "kontena-lens": {
+        "linux": {
+            "root": "kontena-lens",
+            "symlinks": [
+                "lens"
+            ]
+        }
+    },
     "konversation": {
         "linux": {
             "root": "konversation",
@@ -12728,11 +12736,6 @@
     "lenmus": {
         "linux": {
             "root": "lenmus"
-        }
-    },
-    "lens": {
-        "linux": {
-            "root": "lens"
         }
     },
     "leocad": {
