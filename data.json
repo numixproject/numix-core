@@ -18955,7 +18955,10 @@
     },
     "scite": {
         "linux": {
-            "root": "Sci48M"
+            "root": "Sci48M",
+            "symlinks": [
+                "org.scintilla.SciTE"
+            ]
         }
     },
     "scorched3d": {
