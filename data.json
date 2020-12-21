@@ -16701,6 +16701,14 @@
             "root": "portecle"
         }
     },
+    "portfolio": {
+        "linux": {
+            "root": "portfolio",
+            "symlinks": [
+                "dev.tchx84.Portfolio"
+            ]
+        }
+    },
     "porto": {
         "linux": {
             "root": "porto",
