@@ -13917,7 +13917,10 @@
     },
     "mitmproxy": {
         "linux": {
-            "root": "mitmproxy"
+            "root": "mitmproxy",
+            "symlinks": [
+                "kali-mitmproxy"
+            ]
         }
     },
     "mixxx-icon": {
