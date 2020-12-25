@@ -2849,9 +2849,11 @@
                 "gnome-calculator",
                 "io.elementary.calculator",
                 "io.liri.Calculator",
+                "kalk",
                 "kcalc",
                 "org.deepin.flatdeb.deepin-calculator",
                 "org.gnome.Calculator",
+                "org.kde.kalk",
                 "org.kde.kcalc",
                 "org.speedcrunch.SpeedCrunch",
                 "speedcrunch"
@@ -3503,6 +3505,7 @@
                 "office-date",
                 "org.deepin.flatdeb.deepin-calendar",
                 "org.gnome.Calendar",
+                "org.kde.calindori",
                 "org.kde.korganizer",
                 "org.kde.mobile.calindori",
                 "org.kde.phone.calindori",
@@ -3810,7 +3813,9 @@
         "linux": {
             "root": "calls",
             "symlinks": [
+                "dialer",
                 "org.gnome.Calls",
+                "org.kde.phone.dialer",
                 "sm.puri.Calls"
             ]
         }
@@ -8807,12 +8812,14 @@
                 "alarm-clock",
                 "cairo-clock",
                 "cuckoo",
+                "klock",
                 "korgac",
                 "mate-panel-clock",
                 "orage",
                 "orage_globaltime",
                 "org.gnome.clocks",
                 "org.gnome.Clocks",
+                "org.kde.kclock",
                 "osmo",
                 "rclock"
             ]
@@ -9174,8 +9181,10 @@
                 "com.deepin.VoiceRecorder",
                 "com.github.ryonakano.reco",
                 "deepin-voice-recorder",
+                "krecorder",
                 "org.deepin.flatdeb.deepin-voice-recorder",
                 "org.gnome.SoundRecorder",
+                "org.kde.krecorder",
                 "reco"
             ]
         }
@@ -14840,7 +14849,9 @@
                 "com.github.bitseater.weather",
                 "com.github.danrabbit.nimbus",
                 "com.gitlab.bitseater.meteo",
-                "io.elementary.meteo"
+                "io.elementary.meteo",
+                "kweather",
+                "org.kde.kweather"
             ]
         }
     },
@@ -17288,7 +17299,11 @@
             "xyz.klinker.messenger/xyz.klinker.messenger.activity.MessengerActivity"
         ],
         "linux": {
-            "root": "pulse-sms"
+            "root": "pulse-sms",
+            "symlinks": [
+                "org.kde.spacebar",
+                "spacebar"
+            ]
         }
     },
     "pulseeffects": {
@@ -18732,7 +18747,11 @@
     },
     "rss-green": {
         "linux": {
-            "root": "quiterss"
+            "root": "quiterss",
+            "symlinks": [
+                "alligator",
+                "org.kde.alligator"
+            ]
         }
     },
     "rss-inverted": {
