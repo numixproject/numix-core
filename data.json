@@ -182,6 +182,7 @@
             "symlinks": [
                 "chrome-ddfplgpeamcbpecnihfpikllkfojgkai-Default",
                 "com.github.cassidyjames.clairvoyant",
+                "dk.sunsite.foobillard",
                 "foobillardplus"
             ]
         }
@@ -1901,6 +1902,7 @@
         "linux": {
             "root": "avocode",
             "symlinks": [
+                "avocode-app-icon",
                 "com.avocode.Avocode"
             ]
         }
@@ -7507,7 +7509,8 @@
         "linux": {
             "root": "flatpak",
             "symlinks": [
-                "org.flatpak.demo"
+                "org.flatpak.demo",
+                "org.flatpak.qtdemo"
             ]
         }
     },
@@ -11545,6 +11548,7 @@
         "linux": {
             "root": "joplin",
             "symlinks": [
+                "joplin-desktop",
                 "org.joplinapp.joplin"
             ]
         }
@@ -20582,7 +20586,8 @@
         "linux": {
             "root": "sweethome3d",
             "symlinks": [
-                "com.sweethome3d.Desktop"
+                "com.sweethome3d.Desktop",
+                "com.sweethome3d.Sweethome3d"
             ]
         }
     },
