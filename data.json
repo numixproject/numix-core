@@ -7310,7 +7310,10 @@
     },
     "filmulator-gui": {
         "linux": {
-            "root": "filmulator-gui"
+            "root": "filmulator-gui",
+            "symlinks": [
+                "org.filmulator.Filmulator"
+            ]
         }
     },
     "final-term": {
@@ -23558,6 +23561,7 @@
                 "chrome-bgkodfmeijboinjdegggmkbkjfiagaan-Default",
                 "chrome-gcjbnclfkeffmdfdhflnadahgmajfgcm-Default",
                 "com.gigitux.gtkwhats",
+                "com.gigitux.youp",
                 "io.bit3.WhatsAppQT",
                 "whatsapp",
                 "whatsapp-desktop",
