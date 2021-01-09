@@ -12267,6 +12267,14 @@
             "root": "kongdash"
         }
     },
+    "kongress": {
+        "linux": {
+            "root": "kongress",
+            "symlinks": [
+                "org.kde.kongress"
+            ]
+        }
+    },
     "konqueror": {
         "linux": {
             "root": "konqueror",
