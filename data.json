@@ -9046,6 +9046,7 @@
         "linux": {
             "root": "gnome-news",
             "symlinks": [
+                "com.github.manexim.news",
                 "org.gnome.News"
             ]
         }
@@ -9168,6 +9169,7 @@
         "linux": {
             "root": "gnome-social",
             "symlinks": [
+                "com.github.manexim.messages",
                 "org.gnome.Social"
             ]
         }
@@ -19308,6 +19310,7 @@
         "linux": {
             "root": "setzer",
             "symlinks": [
+                "com.github.manexim.typewriter",
                 "org.cvfosammmm.Setzer"
             ]
         }
