@@ -15959,6 +15959,14 @@
             ]
         }
     },
+    "passvault": {
+        "linux": {
+            "root": "passvault",
+            "symlinks": [
+                "de.finnik.PassVault"
+            ]
+        }
+    },
     "passwordsafe": {
         "linux": {
             "root": "passwordsafe",
