@@ -4024,7 +4024,8 @@
         "linux": {
             "root": "chiaki",
             "symlinks": [
-                "com.github.thestr4ng3r.Chiaki"
+                "com.github.thestr4ng3r.Chiaki",
+                "re.chiaki.Chiaki"
             ]
         }
     },
@@ -12217,6 +12218,7 @@
         "linux": {
             "root": "kmail",
             "symlinks": [
+                "com.github.alexhuntley.Plots",
                 "kmail2",
                 "org.kde.kmail",
                 "org.kde.kmail2"
@@ -13650,6 +13652,7 @@
             "root": "maui-station",
             "symlinks": [
                 "org.kde.station",
+                "fyi.zoey.Boop-GTK",
                 "uk.co.mrbenshef.Boop-GTK"
             ]
         }
@@ -14870,7 +14873,11 @@
     },
     "nip2": {
         "linux": {
-            "root": "nip2"
+            "root": "nip2",
+            "symlinks": [
+                "io.sourceforge.Pixelitor",
+                "pixelitor"
+            ]
         }
     },
     "nitrogen": {
@@ -15799,7 +15806,9 @@
         "linux": {
             "root": "othman-browser",
             "symlinks": [
+                "albasheer",
                 "com.github.ojubaorg.Othman",
+                "com.github.yucefsourani.albasheer-electronic-quran-browser",
                 "Othman",
                 "sa.edu.ksa.ayat",
                 "zekr"
