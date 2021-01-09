@@ -2561,7 +2561,8 @@
         "linux": {
             "root": "bottles",
             "symlinks": [
-                "com.github.mirkobrombin.bottles"
+                "com.github.mirkobrombin.bottles",
+                "com.usebottles.bottles"
             ]
         }
     },
@@ -17783,6 +17784,7 @@
         "linux": {
             "root": "qreator",
             "symlinks": [
+                "com.belmoussaoui.Decoder",
                 "com.github.mubitosh.qrshare",
                 "org.kde.qrca",
                 "qrca",
