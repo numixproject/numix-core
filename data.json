@@ -20112,6 +20112,7 @@
                 "chrome-cnkjkdjlofllcpbemipjbcpfnglbgieh-Default",
                 "com.spotify.Client",
                 "eu.tiliado.NuvolaAppSpotify",
+                "dev.alextren.Spot",
                 "nuvolaplayer3_spotify",
                 "Spotify",
                 "spotify",
@@ -23423,7 +23424,10 @@
     },
     "web-tetris": {
         "linux": {
-            "root": "chrome-ieicmdpibfnjbmjolkmohnelljmjomoj-Default"
+            "root": "chrome-ieicmdpibfnjbmjolkmohnelljmjomoj-Default",
+            "symlinks": [
+                "openblok"
+            ]
         }
     },
     "web-ticktick": {
