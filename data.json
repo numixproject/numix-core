@@ -6153,7 +6153,8 @@
             "root": "dosbox",
             "symlinks": [
                 "com.dosbox.DOSBox",
-                "com.dosbox_x.DOSBox-X"
+                "com.dosbox_x.DOSBox-X",
+                "dosbox-ece"
             ]
         }
     },
@@ -14780,7 +14781,10 @@
     },
     "neverball": {
         "linux": {
-            "root": "neverball"
+            "root": "neverball",
+            "symlinks": [
+                "org.neverball.Neverball"
+            ]
         }
     },
     "neverputt": {
@@ -16191,7 +16195,10 @@
     },
     "peazip": {
         "linux": {
-            "root": "peazip"
+            "root": "peazip",
+            "symlinks": [
+                "io.github.peazip.PeaZip"
+            ]
         }
     },
     "peek": {
@@ -20379,6 +20386,7 @@
         "linux": {
             "root": "stremio",
             "symlinks": [
+                "com.stremio.Stremio",
                 "smartcode-stremio"
             ]
         }
