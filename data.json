@@ -11558,6 +11558,7 @@
             "root": "joplin",
             "symlinks": [
                 "joplin-desktop",
+                "net.cozic.joplin_desktop",
                 "org.joplinapp.joplin"
             ]
         }
@@ -22150,7 +22151,10 @@
     },
     "unknown-horizons": {
         "linux": {
-            "root": "unknown-horizons"
+            "root": "unknown-horizons",
+            "symlinks": [
+                "org.unknown_horizons.UnknownHorizons"
+            ]
         }
     },
     "unsettings": {
