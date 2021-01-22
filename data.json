@@ -3974,6 +3974,14 @@
     },
     "checkbox-touch": {
         "linux": {
+            "root": "checksumo",
+            "symlinks": [
+                "com.github.dawidd6.checksumo"
+            ]
+        }
+    },
+    "checksumo": {
+        "linux": {
             "root": "checkbox-touch"
         }
     },
