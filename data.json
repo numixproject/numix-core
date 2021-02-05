@@ -23763,6 +23763,14 @@
             ]
         }
     },
+    "wordbook": {
+        "linux": {
+            "root": "wordbook",
+            "symlinks": [
+                "com.github.fushinari.Wordbook"
+            ]
+        }
+    },
     "wordpress": {
         "android": [
             "org.wordpress.android/org.wordpress.android.ui.posts.PostsActivity",
