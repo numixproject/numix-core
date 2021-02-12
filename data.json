@@ -15932,7 +15932,8 @@
         "linux": {
             "root": "parole",
             "symlinks": [
-                "org.xfce.Parole"
+                "org.xfce.Parole",
+                "org.xfce.parole"
             ]
         }
     },
@@ -20915,6 +20916,7 @@
                 "lxterminal",
                 "openterm",
                 "org.gnome.Terminal",
+                "org.xfce.terminal-settings",
                 "org.kde.konsole",
                 "qterminal",
                 "Terminal",
@@ -22128,6 +22130,7 @@
                 "io.elementary.monitor",
                 "ksysguard",
                 "org.gnome.SystemMonitor",
+                "org.xfce.genmon",
                 "preferences-system-performance",
                 "qps"
             ]
