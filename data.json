@@ -5094,6 +5094,7 @@
             "root": "deluge",
             "symlinks": [
                 "deluge-torrent",
+                "org.deluge_torrent.deluge",
                 "org.delugetorrent.Deluge"
             ]
         }
@@ -11371,7 +11372,10 @@
     },
     "jamulus": {
         "linux": {
-            "root": "jamulus"
+            "root": "jamulus",
+            "symlinks": [
+                "io.jamulus.Jamulus"
+            ]
         }
     },
     "jasp-desktop": {
@@ -17747,7 +17751,10 @@
     },
     "qopenvpn": {
         "linux": {
-            "root": "qopenvpn"
+            "root": "qopenvpn",
+            "symlinks": [
+                "com.github.jkotra.eovpn"
+            ]
         }
     },
     "qoppa": {
@@ -23898,7 +23905,10 @@
     },
     "wiznote": {
         "linux": {
-            "root": "wiznote"
+            "root": "wiznote",
+            "symlinks": [
+                "com.wiz.Note"
+            ]
         }
     },
     "wmtweaks": {
