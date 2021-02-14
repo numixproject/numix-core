@@ -16382,6 +16382,14 @@
             "root": "pioneers-server"
         }
     },
+    "pingnoo": {
+        "linux": {
+            "root": "pingnoo",
+            "symlinks": [
+                "Pingnoo"
+            ]
+        }
+    },
     "piper": {
         "linux": {
             "root": "org.freedesktop.Piper"
