@@ -16338,6 +16338,14 @@
             "root": "pinball"
         }
     },
+    "pingnoo": {
+        "linux": {
+            "root": "pingnoo",
+            "symlinks": [
+                "Pingnoo"
+            ]
+        }
+    },
     "pingus-icon": {
         "linux": {
             "root": "pingus-icon",
@@ -16380,14 +16388,6 @@
     "pioneers-server": {
         "linux": {
             "root": "pioneers-server"
-        }
-    },
-    "pingnoo": {
-        "linux": {
-            "root": "pingnoo",
-            "symlinks": [
-                "Pingnoo"
-            ]
         }
     },
     "piper": {
