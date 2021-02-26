@@ -5085,7 +5085,8 @@
         "linux": {
             "root": "deltachat",
             "symlinks": [
-                "chat.delta.desktop"
+                "chat.delta.desktop",
+                "deltachat-desktop"
             ]
         }
     },
@@ -9459,7 +9460,10 @@
     },
     "goldendict": {
         "linux": {
-            "root": "goldendict"
+            "root": "goldendict",
+            "symlinks": [
+                "org.goldendict.desktop"
+            ]
         }
     },
     "golly": {
@@ -14144,6 +14148,7 @@
             "symlinks": [
                 "monero-qt",
                 "monero-wallet-gui",
+                "org.getmonero.Monero",
                 "org.getmonero.Wallet"
             ]
         }
@@ -15323,7 +15328,8 @@
         "linux": {
             "root": "onionshare",
             "symlinks": [
-                "onionshare80"
+                "onionshare80",
+                "org.onionshare.OnionShare"
             ]
         }
     },
@@ -20201,7 +20207,8 @@
         "linux": {
             "root": "squirrel-sql",
             "symlinks": [
-                "acorn"
+                "acorn",
+                "net.sourceforge.squirrel_sql"
             ]
         }
     },
