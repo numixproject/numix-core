@@ -22192,7 +22192,10 @@
     },
     "upnp-router-control": {
         "linux": {
-            "root": "upnp-router-control"
+            "root": "upnp-router-control",
+            "symlinks": [
+                "org.upnproutercontrol.UPnPRouterControl"
+            ]
         }
     },
     "upterm": {
@@ -24615,7 +24618,10 @@
     },
     "yuzu": {
         "linux": {
-            "root": "yuzu"
+            "root": "yuzu",
+            "symlinks": [
+                "org.yuzu_emu.yuzu"
+            ]
         }
     },
     "zandronum": {
