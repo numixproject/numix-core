@@ -6180,6 +6180,14 @@
             "root": "dassault-systemes.draftsight"
         }
     },
+    "dragit": {
+        "linux": {
+            "root": "dragit",
+            "symlinks": [
+                "com.sireliah.Dragit"
+            ]
+        }
+    },
     "dragonplayer": {
         "linux": {
             "root": "dragonplayer",
