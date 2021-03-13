@@ -6768,6 +6768,8 @@
             "root": "engauge-digitizer",
             "symlinks": [
                 "engauge-digitizer-with-name",
+                "funkcio",
+                "im.bernard.Funkcio",
                 "io.github.markummitchell.Engauge_Digitizer",
                 "plotdigitizer",
                 "webplotdigitizer",
@@ -10725,7 +10727,10 @@
     },
     "hotshots": {
         "linux": {
-            "root": "hotshots"
+            "root": "hotshots",
+            "symlinks": [
+                "io.github.HotShots"
+            ]
         }
     },
     "hotspot": {
@@ -11269,7 +11274,10 @@
     },
     "iqpuzzle": {
         "linux": {
-            "root": "iqpuzzle"
+            "root": "iqpuzzle",
+            "symlinks": [
+                "com.github.elth0r0.iqpuzzle"
+            ]
         }
     },
     "irccloud": {
@@ -11667,6 +11675,7 @@
             "root": "jupyter",
             "symlinks": [
                 "jupyter-console",
+                "jupyter-lab",
                 "jupyter-notebook",
                 "JupyterConsole"
             ]
@@ -20185,7 +20194,10 @@
     },
     "sqlitebrowser": {
         "linux": {
-            "root": "sqlitebrowser"
+            "root": "sqlitebrowser",
+            "symlinks": [
+                "com.github.sqlitebrowser.sqlitebrowser"
+            ]
         }
     },
     "sqliteman": {
