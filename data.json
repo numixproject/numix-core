@@ -17608,7 +17608,10 @@
     },
     "qelectrotech": {
         "linux": {
-            "root": "qelectrotech"
+            "root": "qelectrotech",
+            "symlinks": [
+                "org.qelectrotech.QElectroTech"
+            ]
         }
     },
     "qemu-launcher": {
