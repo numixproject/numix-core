@@ -19815,6 +19815,14 @@
             "root": "soundnode"
         }
     },
+    "soundux": {
+        "linux": {
+            "root": "soundux",
+            "symlinks": [
+                "io.github.Soundux"
+            ]
+        }
+    },
     "sourcetrail": {
         "linux": {
             "root": "sourcetrail"
