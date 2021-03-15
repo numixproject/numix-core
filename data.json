@@ -12556,6 +12556,14 @@
             "root": "kylin-video"
         }
     },
+    "laborejo": {
+        "linux": {
+            "root": "laborejo",
+            "symlinks": [
+                "org.laborejo.laborejo"
+            ]
+        }
+    },
     "laby": {
         "linux": {
             "root": "laby"
