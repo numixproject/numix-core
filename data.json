@@ -779,7 +779,10 @@
     },
     "agordejo": {
         "linux": {
-            "root": "agordejo"
+            "root": "agordejo",
+            "symlinks": [
+                "org.laborejo.agordejo"
+            ]
         }
     },
     "ai-dungeon": {
