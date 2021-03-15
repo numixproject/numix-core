@@ -7587,7 +7587,10 @@
     },
     "fluajho": {
         "linux": {
-            "root": "fluajho"
+            "root": "fluajho",
+            "symlinks": [
+                "org.laborejo.fluajho"
+            ]
         }
     },
     "fluendo-dvd-player": {
@@ -16124,7 +16127,10 @@
     },
     "patroneo": {
         "linux": {
-            "root": "patroneo"
+            "root": "patroneo",
+            "symlinks": [
+                "org.laborejo.patroneo"
+            ]
         }
     },
     "paypal": {
