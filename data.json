@@ -1912,7 +1912,9 @@
         "linux": {
             "root": "avogadro",
             "symlinks": [
-                "avogadro-icon"
+                "avogadro2",
+                "avogadro-icon",
+                "org.openchemistry.avogadro2"
             ]
         }
 	},
@@ -13537,6 +13539,7 @@
         "linux": {
             "root": "mandelbulber",
             "symlinks": [
+                "com.mandelbulber.Mandelbulber",
                 "mandelbulber2"
             ]
         }
@@ -14619,7 +14622,8 @@
             "root": "nasc",
             "symlinks": [
                 "com.github.carlos157oliveira.Calculus",
-                "com.github.parnold-x.nasc"
+                "com.github.parnold-x.nasc",
+                " io.gitlab.leesonwai.Sums"
             ]
         }
     },
@@ -16033,7 +16037,10 @@
     },
     "paraview": {
         "linux": {
-            "root": "paraview"
+            "root": "paraview",
+            "symlinks": [
+                "org.paraview.ParaView"
+            ]
         }
     },
     "parcellite": {
@@ -23820,6 +23827,7 @@
         "linux": {
             "root": "wikipedia",
             "symlinks": [
+                "com.github.hugolabe.Wike",
                 "kiwix",
                 "kiwix-desktop",
                 "org.kiwix.Client",
