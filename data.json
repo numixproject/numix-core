@@ -20543,6 +20543,14 @@
             "root": "synthv1"
         }
     },
+    "sysmontask": {
+        "linux": {
+            "root": "sysmontask",
+            "symlinks": [
+                "SysMonTask"
+            ]
+        }
+    },
     "syspeek": {
         "linux": {
             "root": "syspeek"
