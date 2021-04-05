@@ -5318,6 +5318,7 @@
             "root": "discord",
             "symlinks": [
                 "com.discordapp.Discord",
+                "discord-bin",
                 "discord-ptb",
                 "web-discord"
             ]
@@ -6676,6 +6677,7 @@
             "root": "element-desktop",
             "symlinks": [
                 "element",
+                "element-desktop-bin",
                 "element-nightly",
                 "io.element.Element"
             ]
@@ -8370,7 +8372,10 @@
     },
     "genymotion": {
         "linux": {
-            "root": "genymotion"
+            "root": "genymotion",
+            "symlinks": [
+                "genymotion-bin"
+            ]
         }
     },
     "genymotion-player": {
@@ -8383,6 +8388,7 @@
             "root": "geogebra",
             "symlinks": [
                 "chrome-bnbaboaihhkjoaolfnfoablhllahjnee-Default",
+                "Geogebra",
                 "geogebra-classic",
                 "org.geogebra.GeoGebra"
             ]
@@ -11342,6 +11348,8 @@
             "root": "jabref",
             "symlinks": [
                 "JabRef",
+                "JabRef-bin-icon",
+                "JabRef-icon",
                 "JabRef-icon-48",
                 "org.jabref.jabref"
             ]
@@ -13663,7 +13671,8 @@
             "root": "mattermost-desktop",
             "symlinks": [
                 "com.mattermost.Desktop",
-                "mattermost"
+                "mattermost",
+                "mattermost-desktop-bin"
             ]
         }
     },
@@ -21070,7 +21079,8 @@
                 "org.telegram.desktop",
                 "sigram",
                 "telegram-classic",
-                "telegram-desktop"
+                "telegram-desktop",
+                "telegram-desktop-bin"
             ]
         }
     },
@@ -21442,6 +21452,7 @@
             "symlinks": [
                 "mozilla-thunderbird",
                 "org.mozilla.Thunderbird",
+                "thunderbird-bin",
                 "thunderbird-icon"
             ]
         }
