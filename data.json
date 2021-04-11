@@ -6682,6 +6682,7 @@
                 "element",
                 "element-desktop-bin",
                 "element-nightly",
+                "im.riot.Riot",
                 "io.element.Element"
             ]
         }
@@ -18657,7 +18658,6 @@
         "linux": {
             "root": "riot-web",
             "symlinks": [
-                "im.riot.Riot",
                 "riot",
                 "riot-desktop",
                 "riot-nightly"
