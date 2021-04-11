@@ -19770,7 +19770,10 @@
     },
     "sonobus": {
         "linux": {
-            "root": "sonobus"
+            "root": "sonobus",
+            "symlinks": [
+                "net.sonobus.SonoBus"
+            ]
         }
     },
     "soulseek": {
