@@ -2292,7 +2292,10 @@
     },
     "bitwig-studio": {
         "linux": {
-            "root": "bitwig-studio"
+            "root": "bitwig-studio",
+            "symlinks": [
+                "com.bitwig.BitwigStudio"
+            ]
         }
     },
     "black-chocobo": {
