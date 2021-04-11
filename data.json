@@ -7545,6 +7545,14 @@
             "root": "fluendo-dvd-player"
         }
     },
+    "fluffychat": {
+        "linux": {
+            "root": "fluffychat",
+            "symlinks": [
+                "im.fluffychat.Fluffychat"
+            ]
+        }
+    },
     "fluid": {
         "linux": {
             "root": "fluid",
