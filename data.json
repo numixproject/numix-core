@@ -1150,7 +1150,8 @@
             "symlinks": [
                 "android-studio-beta",
                 "androidstudio",
-                "com.google.AndroidStudio"
+                "com.google.AndroidStudio",
+                "com.google.AndroidStudio.desktop!
             ]
         }
     },
@@ -4873,7 +4874,9 @@
         "linux": {
             "root": "cutter",
             "symlinks": [
-                "org.radare.Cutter"
+                "com.github.rizinorg.Cutter",
+                "org.radare.Cutter",
+                "re.rizin.cutter"
             ]
         }
     },
@@ -17980,6 +17983,7 @@
         "linux": {
             "root": "qtiplot",
             "symlinks": [
+                "net.sourceforge.scidavis.Scidavis"
                 "scidavis"
             ]
         }
@@ -22510,7 +22514,10 @@
     },
     "veusz": {
         "linux": {
-            "root": "veusz"
+            "root": "veusz",
+            "symlinks": [
+                "io.github.veusz.Veusz"
+            ]
         }
     },
     "veyon-configurator": {
