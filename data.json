@@ -16623,9 +16623,15 @@
             "root": "pdfshuffler",
             "symlinks": [
                 "com.github.jeromerobert.pdfarranger",
-                "com.github.junrrein.PDFSlicer",
-                "pdfarranger",
-                "pdfslicer"
+                "pdfarranger"
+            ]
+        }
+    },
+    "pdfslicer": {
+        "linux": {
+            "root": "pdfslicer",
+            "symlinks": [
+                "com.github.junrrein.PDFSlicer"
             ]
         }
     },
