@@ -780,6 +780,14 @@
             ]
         }
     },
+    "agordejo": {
+        "linux": {
+            "root": "agordejo",
+            "symlinks": [
+                "org.laborejo.agordejo"
+            ]
+        }
+    },
     "ai-dungeon": {
         "android": [
             "com.aidungeon/com.aidungeon.MainActivity"
