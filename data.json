@@ -14269,6 +14269,14 @@
             "root": "miro-browse"
         }
     },
+    "mitmproxy": {
+        "linux": {
+            "root": "mitmproxy",
+            "symlinks": [
+                "kali-mitmproxy"
+            ]
+        }
+    },
     "mixxx-icon": {
         "linux": {
             "root": "mixxx-icon",
