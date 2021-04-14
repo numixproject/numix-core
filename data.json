@@ -11038,6 +11038,14 @@
             "root": "hwmixvolume"
         }
     },
+    "hydrapaper": {
+        "linux": {
+            "root": "hydrapaper",
+            "symlinks": [
+                "org.gabmus.hydrapaper"
+            ]
+        }
+    },
     "hydrogen": {
         "linux": {
             "root": "hydrogen",
