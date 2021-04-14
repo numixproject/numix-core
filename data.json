@@ -16926,6 +16926,14 @@
             ]
         }
     },
+    "pika-backup": {
+        "linux": {
+            "root": "pika-backup",
+            "symlinks": [
+                "org.gnome.World.PikaBackup"
+            ]
+        }
+    },
     "pinball": {
         "linux": {
             "root": "pinball"
