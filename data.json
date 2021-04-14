@@ -11449,6 +11449,14 @@
             "root": "itch"
         }
     },
+    "itinerary": {
+        "linux": {
+            "root": "itinerary",
+            "symlinks": [
+                "org.kde.itinerary"
+            ]
+        }
+    },
     "itunes": {
         "linux": {
             "root": "itunes",
