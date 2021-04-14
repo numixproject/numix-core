@@ -9073,6 +9073,14 @@
             ]
         }
     },
+    "gnome-health": {
+        "linux": {
+            "root": "gnome-health",
+            "symlinks": [
+                "dev.Cogitri.Health"
+            ]
+        }
+    },
     "gnome-internet-radio-locator": {
         "linux": {
             "root": "gnome-internet-radio-locator",
