@@ -23669,6 +23669,15 @@
             ]
         }
     },
+    "web-bbc": {
+        "linux": {
+            "root": "web-bbc",
+            "symlinks": [
+                "bbc",
+                "eu.tiliado.NuvolaAppBbcIplayer"
+            ]
+        }
+    },
     "web-bitbucket": {
         "linux": {
             "root": "chrome-jbdlaalbpgnopkpnmoppmccbgkjhfmgh-Default"
