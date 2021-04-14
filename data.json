@@ -16608,13 +16608,11 @@
         "linux": {
             "root": "pdfmod",
             "symlinks": [
-                "com.github.muriloventuroso.pdftricks",
                 "eu.scarpetta.PDFMixTool",
                 "flpsed",
                 "master-pdf-editor",
                 "net.codeindustry.MasterPDFEditor",
-                "pdfmixtool",
-                "pdftricks"
+                "pdfmixtool"
             ]
         }
     },
@@ -16637,6 +16635,14 @@
             "root": "pdfslicer",
             "symlinks": [
                 "com.github.junrrein.PDFSlicer"
+            ]
+        }
+    },
+    "pdftricks": {
+        "linux": {
+            "root": "pdftricks",
+            "symlinks": [
+                "com.github.muriloventuroso.pdftricks"
             ]
         }
     },
