@@ -13959,6 +13959,14 @@
             ]
         }
     },
+    "maui-shelf": {
+        "linux": {
+            "root": "maui-shelf",
+            "symlinks": [
+                "org.maui.shelf"
+            ]
+        }
+    },
     "maui-station": {
         "linux": {
             "root": "maui-station",
