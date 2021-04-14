@@ -8937,6 +8937,14 @@
             ]
         }
     },
+    "gnome-break-timer": {
+        "linux": {
+            "root": "gnome-break-timer",
+            "symlinks": [
+                "org.gnome.BreakTimer"
+            ]
+        }
+    },
     "gnome-characters": {
         "linux": {
             "root": "gnome-characters",
