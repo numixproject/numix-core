@@ -7243,6 +7243,14 @@
             "root": "fiddler"
         }
     },
+    "figma-linux": {
+        "linux": {
+            "root": "figma-linux",
+            "symlinks": [
+                "io.github.Figma_Linux.figma_linux"
+            ]
+        }
+    },
     "fiji": {
         "linux": {
             "root": "fiji"
