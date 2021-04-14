@@ -81,7 +81,7 @@ def convert_svg2png(infile, outfile, w, h):
     @dest_path : String; the png file absolute path
     """
     if use_inkscape:
-        cmd = Popen(["inkscape", "-z", "-f", infile, "-e", outfile,
+        cmd = Popen(["inkscape", "-z", infile, "-o", outfile,
                      "-w", str(w), "-h", str(h)],
                     stdout=PIPE, stderr=PIPE)
         cmd.communicate()
