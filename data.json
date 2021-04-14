@@ -17675,6 +17675,14 @@
             "root": "steam_icon_233450"
         }
     },
+    "pritunl-client": {
+        "linux": {
+            "root": "pritunl-client",
+            "symlinks": [
+                "pritunl_client_electron"
+            ]
+        }
+    },
     "prjm16-transparent": {
         "linux": {
             "root": "prjm16-transparent"
