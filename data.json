@@ -17015,6 +17015,15 @@
             "root": "portecle"
         }
     },
+    "portfolio-performance": {
+        "linux": {
+            "root": "portfolio-performance",
+            "symlinks": [
+                "info.portfolio_performance.PortfolioPerformance",
+                "PortfolioPerformance"
+            ]
+        }
+    },
     "porto": {
         "linux": {
             "root": "porto",
