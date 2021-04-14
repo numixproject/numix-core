@@ -1411,7 +1411,9 @@
         "linux": {
             "root": "applications-system",
             "symlinks": [
-                "hwinfo"
+                "hwinfo",
+                "mate-indicator-applet",
+                "yast-hwinfo"
             ]
         }
     },
@@ -1421,6 +1423,11 @@
             "symlinks": [
                 "gnome-status"
             ]
+        }
+    },
+    "applixware": {
+        "linux": {
+            "root": "applixware"
         }
     },
     "apport": {
@@ -1473,6 +1480,8 @@
         "linux": {
             "root": "aquemu",
             "symlinks": [
+                "aqemu",
+                "aqemu-32x32",
                 "aquemu_48x48"
             ]
         }
@@ -1530,7 +1539,10 @@
     },
     "argouml2": {
         "linux": {
-            "root": "argouml2"
+            "root": "argouml2",
+            "symlinks": [
+                "argouml"
+            ]
         }
     },
     "ariamaestosa": {
@@ -1692,6 +1704,7 @@
         "linux": {
             "root": "asunder",
             "symlinks": [
+                "asounder",
                 "ca.littlesvr.asunder"
             ]
         }
@@ -2789,6 +2802,7 @@
         "linux": {
             "root": "builder",
             "symlinks": [
+                "applications-engineering",
                 "org.gnome.Builder"
             ]
         }
@@ -3723,7 +3737,11 @@
     },
     "calendar-turquoise-31": {
         "linux": {
-            "root": "calendar-turquoise-31"
+            "root": "calendar-turquoise-31",
+            "symlinks": [
+                "at.priv.toastfreeware.ConfClerk",
+                "confclerk"
+            ]
         }
     },
     "calf": {
@@ -4441,6 +4459,7 @@
             "symlinks": [
                 "2402_msiexec.0",
                 "applets-template",
+                "aptana",
                 "aptanastudio",
                 "do",
                 "edit-urpm-sources",
@@ -5154,7 +5173,8 @@
                 "kbackup",
                 "mintBackup",
                 "mintbackup",
-                "org.gnome.DejaDup"
+                "org.gnome.DejaDup",
+                "yast-snapper"
             ]
         }
     },
@@ -5258,7 +5278,8 @@
         "linux": {
             "root": "desktop-environment-mate",
             "symlinks": [
-                "mate"
+                "mate",
+                "mate-desktop"
             ]
         }
     },
@@ -6153,7 +6174,8 @@
                 "2EF4_wordpad.0",
                 "97C1_wordpad.0",
                 "applications-office",
-                "wordpad"
+                "wordpad",
+                "wordview"
             ]
         }
     },
@@ -6408,6 +6430,7 @@
         "linux": {
             "root": "dropbox",
             "symlinks": [
+                "caja-dropbox",
                 "chrome-ioekoebejdcmnlefjiknokhhafglcjdl-Default",
                 "com.dropbox.Client",
                 "Dropbox"
@@ -7418,6 +7441,7 @@
             "symlinks": [
                 "accessories-archiver",
                 "archive-manager",
+                "archivemanager",
                 "ark",
                 "engrampa",
                 "gvfsd-archive-file",
@@ -8935,6 +8959,7 @@
             "root": "gnome-alsamixer-icon",
             "symlinks": [
                 "alsamixergui",
+                "artsbuilder",
                 "echomixer",
                 "gnome-mixer"
             ]
@@ -9270,6 +9295,7 @@
         "linux": {
             "root": "gnome-panel-launcher",
             "symlinks": [
+                "mate-panel-launcher",
                 "mate-panel-window-list"
             ]
         }
@@ -11642,6 +11668,7 @@
         "linux": {
             "root": "java",
             "symlinks": [
+                "applications-java",
                 "cacao-oj6",
                 "cacao-oj7",
                 "cacao-oj8",
@@ -12508,6 +12535,7 @@
         "linux": {
             "root": "kmplot",
             "symlinks": [
+                "applications-education-mathematics",
                 "LabPlot2",
                 "labplot2",
                 "org.kde.kmplot",
@@ -14789,6 +14817,7 @@
         "linux": {
             "root": "multimedia-audio-player",
             "symlinks": [
+                "audio-player",
                 "beatbox",
                 "io.elementary.music",
                 "noise",
@@ -14812,6 +14841,7 @@
             "symlinks": [
                 "applications-multimedia",
                 "arts",
+                "artscontrol",
                 "cs-sound",
                 "esd",
                 "gnome-audio",
@@ -14830,6 +14860,7 @@
                 "multimedia",
                 "org.kde.kmix",
                 "org.pulseaudio.pavucontrol",
+                "phonon-gstreamer",
                 "pnmixer",
                 "preferences-desktop-multimedia",
                 "preferences-desktop-sound",
@@ -17567,6 +17598,7 @@
         "linux": {
             "root": "preferences-desktop-locale",
             "symlinks": [
+                "applications-education-language",
                 "config-language",
                 "cs-language",
                 "cs-region",
@@ -17730,7 +17762,8 @@
         "linux": {
             "root": "preferences-system-search",
             "symlinks": [
-                "5961_Defunct_x86.0"
+                "5961_Defunct_x86.0",
+                "baloo"
             ]
         }
     },
@@ -18460,7 +18493,8 @@
             "symlinks": [
                 "assistant",
                 "assistant-qt4",
-                "assistant-qt5"
+                "assistant-qt5",
+                "assistant5"
             ]
         }
     },
@@ -18590,7 +18624,10 @@
     },
     "quake": {
         "linux": {
-            "root": "quake"
+            "root": "quake",
+            "symlinks": [
+                "quake-shareware"
+            ]
         }
     },
     "quake-armagon": {
@@ -19365,6 +19402,7 @@
             "root": "internet-news-reader",
             "symlinks": [
                 "akregator",
+                "akregator_empty",
                 "com.github.rssguard",
                 "feedreader",
                 "google-reader",
@@ -19808,6 +19846,7 @@
                 "gnome-search-tool",
                 "gnome-searchtool",
                 "gsearchtool",
+                "kerry",
                 "kfind",
                 "org.kde.kdesearch",
                 "regexxer",
@@ -20646,6 +20685,11 @@
             "root": "spacemacs"
         }
     },
+    "spaghetti-armageddon": {
+        "linux": {
+            "root": "spaghetti-armageddon"
+        }
+    },
     "spark": {
         "linux": {
             "root": "spark"
@@ -20977,6 +21021,7 @@
                 "10B4_steam.0",
                 "com.valvesoftware.Steam",
                 "steam-launcher",
+                "steam-native",
                 "steamos-logo-icon",
                 "steampowered"
             ]
@@ -21453,6 +21498,7 @@
                 "anaconda",
                 "apper",
                 "aptdaemon-download",
+                "aptdaemon-working",
                 "gnome-app-install",
                 "gnome-apt",
                 "gnome-package",
@@ -23011,6 +23057,7 @@
         "linux": {
             "root": "utilities-system-monitor",
             "symlinks": [
+                "applications-utilities",
                 "gnome-monitor",
                 "gnome-system-monitor",
                 "io.elementary.monitor",
@@ -23664,6 +23711,7 @@
         "linux": {
             "root": "web-bandcamp",
             "symlinks": [
+                "bandcamp",
                 "eu.tiliado.NuvolaAppBandcamp",
                 "nuvolaplayer3_bandcamp"
             ]
@@ -23692,6 +23740,7 @@
             "symlinks": [
                 "7596_iexplore.0",
                 "angelfish",
+                "applications-webbrowsers",
                 "browser",
                 "dillo",
                 "epiphany",
@@ -24354,11 +24403,6 @@
             ]
         }
     },
-    "web-workflowy": {
-        "linux": {
-            "root": "chrome-koegeopamaoljbmhnfjbclbocehhgmkm-Default"
-        }
-    },
     "web-yahoo": {
         "linux": {
             "root": "web-yahoo",
@@ -24726,6 +24770,15 @@
                 "web-wordpress",
                 "Wordpress-wordpress.com",
                 "wpcom"
+            ]
+        }
+    },
+    "workflowy": {
+        "linux": {
+            "root": "workflowy",
+            "symlinks": [
+                "chrome-koegeopamaoljbmhnfjbclbocehhgmkm-Default",
+                "web-workflowy"
             ]
         }
     },
@@ -25133,9 +25186,11 @@
         "linux": {
             "root": "xorg",
             "symlinks": [
+                "kcmx",
                 "pattern-x11",
                 "x",
                 "x11",
+                "xapp",
                 "xinput_calibrator"
             ]
         }
@@ -25226,9 +25281,12 @@
             "root": "yakyak"
         }
     },
-    "yandex-browser-beta": {
+    "yandex-browser": {
         "linux": {
-            "root": "yandex-browser-beta"
+            "root": "yandex-browser",
+            "symlinks": [
+                "yandex-browser-beta"
+            ]
         }
     },
     "yaourtgui": {
