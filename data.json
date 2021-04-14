@@ -14476,6 +14476,14 @@
             "root": "mpc-qt"
         }
     },
+    "mpdevil": {
+        "linux": {
+            "root": "mpdevil",
+            "symlinks": [
+                "org.mpdevil.mpdevil"
+            ]
+        }
+    },
     "mplayer": {
         "linux": {
             "root": "mplayer",
