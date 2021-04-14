@@ -24381,15 +24381,6 @@
             ]
         }
     },
-    "web-workflowy": {
-        "linux": {
-            "root": "web-workflowy",
-            "symlinks": [
-                "chrome-koegeopamaoljbmhnfjbclbocehhgmkm-Default",
-                "workflowy"
-            ]
-        }
-    },
     "web-yahoo": {
         "linux": {
             "root": "web-yahoo",
@@ -24757,6 +24748,15 @@
                 "web-wordpress",
                 "Wordpress-wordpress.com",
                 "wpcom"
+            ]
+        }
+    },
+    "workflowy": {
+        "linux": {
+            "root": "workflowy",
+            "symlinks": [
+                "chrome-koegeopamaoljbmhnfjbclbocehhgmkm-Default",
+                "web-workflowy"
             ]
         }
     },
@@ -25259,11 +25259,11 @@
             "root": "yakyak"
         }
     },
-    "yandex-browser-beta": {
+    "yandex-browser": {
         "linux": {
-            "root": "yandex-browser-beta",
+            "root": "yandex-browser",
             "symlinks": [
-                "yandex-browser"
+                "yandex-browser-beta"
             ]
         }
     },
