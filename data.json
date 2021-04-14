@@ -7776,6 +7776,16 @@
             "root": "font-editor"
         }
     },
+    "font-manager": {
+        "linux": {
+            "root": "font-manager",
+            "symlinks": [
+                "font-viewer",
+                "org.gnome.FontManager",
+                "org.gnome.FontViewer"
+            ]
+        }
+    },
     "fontforge": {
         "linux": {
             "root": "fontforge",
@@ -7802,19 +7812,13 @@
         "linux": {
             "root": "fonts",
             "symlinks": [
-                "accessories-character-map",
                 "applications-fonts",
                 "cs-fonts",
                 "deepin-font-installer",
-                "font-manager",
-                "font-viewer",
-                "gnome-character-map",
                 "gnome-settings-font",
                 "kfontview",
                 "org.gnome.font-viewer",
-                "org.gnome.FontManager",
                 "org.gnome.Fonts",
-                "org.gnome.FontViewer",
                 "preferences-desktop-font"
             ]
         }
@@ -8949,7 +8953,6 @@
         "linux": {
             "root": "gnome-characters",
             "symlinks": [
-                "org.gnome.CharacterMap",
                 "org.gnome.Characters"
             ]
         }
@@ -10377,7 +10380,12 @@
     },
     "gucharmap": {
         "linux": {
-            "root": "gucharmap"
+            "root": "gucharmap",
+            "symlinks": [
+                "accessories-character-map",
+                "gnome-character-map",
+                "org.gnome.CharacterMap"
+            ]
         }
     },
     "gufw": {
