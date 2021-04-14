@@ -14298,6 +14298,14 @@
             "root": "moserial"
         }
     },
+    "mousai": {
+        "linux": {
+            "root": "mousai",
+            "symlinks": [
+                "io.github.seadve.Mousai"
+            ]
+        }
+    },
     "movie-editor": {
         "linux": {
             "root": "movie-editor"
