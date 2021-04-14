@@ -20049,6 +20049,14 @@
             ]
         }
     },
+    "sonobus": {
+        "linux": {
+            "root": "sonobus",
+            "symlinks": [
+                "net.sonobus.SonoBus"
+            ]
+        }
+    },
     "soulseek": {
         "linux": {
             "root": "soulseek",
