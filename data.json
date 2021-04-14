@@ -13764,6 +13764,14 @@
             ]
         }
     },
+    "master-key": {
+        "linux": {
+            "root": "master-key",
+            "symlinks": [
+                "com.gitlab.guillermop.MasterKey"
+            ]
+        }
+    },
     "masterpassword-gui": {
         "linux": {
             "root": "masterpassword-gui",
