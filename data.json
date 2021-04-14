@@ -16620,15 +16620,23 @@
             "root": "pdfchain"
         }
     },
+    "pdfmixtool": {
+        "linux": {
+            "root": "pdfmixtool",
+            "symlinks": [
+                "eu.scarpetta.PDFMixTool"
+            ]
+        }
+    },
     "pdfmod": {
         "linux": {
             "root": "pdfmod",
             "symlinks": [
-                "eu.scarpetta.PDFMixTool",
+                "com.github.muriloventuroso.pdftricks",
                 "flpsed",
                 "master-pdf-editor",
                 "net.codeindustry.MasterPDFEditor",
-                "pdfmixtool"
+                "pdftricks"
             ]
         }
     },
