@@ -6223,6 +6223,14 @@
             ]
         }
     },
+    "dosbox-staging": {
+        "linux": {
+            "root": "dosbox-staging",
+            "symlinks": [
+                "io.github.dosbox-staging"
+            ]
+        }
+    },
     "dota": {
         "linux": {
             "root": "dota",
