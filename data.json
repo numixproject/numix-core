@@ -4496,6 +4496,14 @@
             "root": "compton"
         }
     },
+    "confy": {
+        "linux": {
+            "root": "confy",
+            "symlinks": [
+                "net.kirgroup.confy"
+            ]
+        }
+    },
     "conky": {
         "linux": {
             "root": "conky"
