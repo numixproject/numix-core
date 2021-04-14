@@ -14410,6 +14410,11 @@
             ]
         }
     },
+    "mntray": {
+        "linux": {
+            "root": "mntray"
+        }
+    },
     "mobile-pass": {
         "android": [
             "securecomputing.devices.android.controller/securecomputing.devices.android.controller.AndroidToken"
