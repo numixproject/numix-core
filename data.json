@@ -4229,6 +4229,14 @@
             ]
         }
     },
+    "clapper": {
+        "linux": {
+            "root": "clapper",
+            "symlinks": [
+                "com.github.rafostar.Clapper"
+            ]
+        }
+    },
     "clash-royale": {
         "android": [
             "com.supercell.clashroyale/com.supercell.clashroyale.GameApp"
