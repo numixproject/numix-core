@@ -1727,6 +1727,19 @@
             ]
         }
     },
+    "atlantik": {
+        "linux": {
+            "root": "atlantik",
+            "symlinks": [
+                "gtkatlantic"
+            ]
+        }
+    },
+    "atlantikdesigner": {
+        "linux": {
+            "root": "atlantikdesigner"
+        }
+    },
     "atlauncher": {
         "linux": {
             "root": "atlauncher"
