@@ -14181,6 +14181,14 @@
             ]
         }
     },
+    "medibang-paint": {
+        "android": [
+            "com.medibang.android.paint.tablet/com.medibang.android.paint.tablet.ui.activity.LauncherActivity"
+        ],
+        "linux": {
+            "root": "medibang-paint"
+        }
+    },
     "medit": {
         "linux": {
             "root": "medit"
