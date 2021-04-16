@@ -14307,6 +14307,14 @@
             "root": "mged"
         }
     },
+    "micro": {
+        "linux": {
+            "root": "micro",
+            "symlinks": [
+                "com.github.zyedidia.micro"
+            ]
+        }
+    },
     "micropad": {
         "linux": {
             "root": "micropad"
