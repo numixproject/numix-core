@@ -7207,7 +7207,10 @@
     },
     "f3d": {
         "linux": {
-            "root": "f3d"
+            "root": "f3d",
+            "symlinks": [
+                "io.github.kitware.F3D"
+            ]
         }
     },
     "factorio": {
@@ -9153,6 +9156,7 @@
         "linux": {
             "root": "gnome-genius",
             "symlinks": [
+                "com.github.SubhadeepJasu.pebbles",
                 "com.github.subhadeepjasu.pebbles",
                 "org.gnome.Genius"
             ]
@@ -10737,7 +10741,10 @@
     },
     "hatari": {
         "linux": {
-            "root": "hatari"
+            "root": "hatari",
+            "symlinks": [
+                "org.tuxfamily.hatari"
+            ]
         }
     },
     "hb-icon": {
@@ -15840,7 +15847,10 @@
     },
     "omegat": {
         "linux": {
-            "root": "omegat"
+            "root": "omegat",
+            "symlinks": [
+                "org.omegat.OmegaT"
+            ]
         }
     },
     "omgubuntu": {
@@ -19131,7 +19141,11 @@
     },
     "reicast": {
         "linux": {
-            "root": "reicast"
+            "root": "reicast",
+            "symlinks": [
+                "flycast",
+                "org.flycast.Flycast"
+            ]
         }
     },
     "reigns": {
@@ -20043,6 +20057,8 @@
         "linux": {
             "root": "setbfree",
             "symlinks": [
+                "grandorgue",
+                "net.sourceforge.GrandOrgue",
                 "org.freedesktop.LinuxAudio.Lv2Plugins.setBfree",
                 "setBfree"
             ]
