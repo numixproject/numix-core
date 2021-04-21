@@ -8751,7 +8751,10 @@
     },
     "gitahead": {
         "linux": {
-            "root": "gitahead"
+            "root": "gitahead",
+            "symlinks": [
+                "io.github.gitahed.Gitahead"
+            ]
         }
     },
     "giteye": {
