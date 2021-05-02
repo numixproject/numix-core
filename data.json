@@ -8356,7 +8356,10 @@
     },
     "gazebo": {
         "linux": {
-            "root": "gazebo"
+            "root": "gazebo",
+            "symlinks": [
+                "org.gazebosim.Gazebo"
+            ]
         }
     },
     "gazpacho": {
@@ -10501,6 +10504,7 @@
         "linux": {
             "root": "gx_head",
             "symlinks": [
+                "org.freedesktop.LinuxAudio.Plugins.Guitarix",
                 "org.guitarix.Guitarix"
             ]
         }
@@ -15013,7 +15017,10 @@
         "linux": {
             "root": "muse_icon",
             "symlinks": [
-                "org.musesequencer.Muse3"
+                "muse4",
+                "musesequencer",
+                "org.musesequencer.Muse3",
+                "org.musesequencer.Muse4"
             ]
         }
     },
@@ -21415,6 +21422,7 @@
             "symlinks": [
                 "com.github.cassidyjames.palette",
                 "com.github.keyilan.swatches",
+                "io.github.lainsce.Emulsion",
                 "org.gnome.design.Palette",
                 "org.gnome.zbrown.Palette"
             ]
@@ -23276,6 +23284,7 @@
         "linux": {
             "root": "veloren",
             "symlinks": [
+                "net.veloren.airshipper",
                 "net.veloren.veloren"
             ]
         }
