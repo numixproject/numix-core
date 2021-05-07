@@ -10773,6 +10773,14 @@
             "root": "hdspmixer"
         }
     },
+    "headlamp": {
+        "linux": {
+            "root": "headlamp",
+            "symlinks": [
+                "io.kinvolk.headlamp"
+            ]
+        }
+    },
     "headset": {
         "linux": {
             "root": "headset",
