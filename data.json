@@ -5973,6 +5973,7 @@
             "root": "distributor-logo-raspbian",
             "symlinks": [
                 "org.raspberrypi.rpi-imager",
+                "remote-raspberry",
                 "rpi",
                 "rpi-imager"
             ]
@@ -9558,7 +9559,8 @@
             "root": "gnomit",
             "symlinks": [
                 "ind.ie.Gnomit",
-                "org.small_tech.Gnomit"
+                "org.small_tech.Gnomit",
+                "re.sonny.Commit"
             ]
         }
     },
@@ -13742,6 +13744,7 @@
             "root": "lpub",
             "symlinks": [
                 "lpub3d",
+                "io.github.trevorsandy.LPub3D",
                 "org.trevorsandy.lpub3d"
             ]
         }
@@ -25529,11 +25532,13 @@
                 "com.github.robertsanseries.karim",
                 "com.github.unrud.VideoDownloader",
                 "gydl",
+                "io.github.JaGoLi.ytdl_gui",
                 "org.gustavoperedo.VideoDownloader",
                 "youtube-dl-gui",
                 "youtube-dl-gui_48x48",
                 "youtube-dl-qt-icon",
                 "youtube-dlg",
+                "youtubedl-gui",
                 "YouTubeDownloader",
                 "yt-dl-gtk"
             ]
