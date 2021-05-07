@@ -23244,6 +23244,14 @@
             "root": "variety-slideshow"
         }
     },
+    "vaults": {
+        "linux": {
+            "root": "vaults",
+            "symlinks": [
+                "io.github.mpobaschnig.Vaults"
+            ]
+        }
+    },
     "vbam": {
         "linux": {
             "root": "vbam"
