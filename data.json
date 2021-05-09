@@ -18247,7 +18247,10 @@
     },
     "pymol": {
         "linux": {
-            "root": "pymol"
+            "root": "pymol",
+            "symlinks": [
+                "org.pymol.PyMOL"
+            ]
         }
     },
     "pynocchio": {
@@ -25706,6 +25709,15 @@
     "zettlr": {
         "linux": {
             "root": "zettlr"
+        }
+    },
+    "zint": {
+        "linux": {
+            "root": "zint",
+            "symlinks": [
+                "uk.org.zint.zint-qt",
+                "zint-qt"
+            ]
         }
     },
     "ziggurat": {
