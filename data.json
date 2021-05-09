@@ -1292,6 +1292,15 @@
             "root": "apk-icon-editor"
         }
     },
+    "apostrophe": {
+        "linux": {
+            "root": "apostrophe",
+            "symlinks": [
+                "org.gnome.gitlab.somas.Apostrophe",
+                "org.gnome.wolf.Apostrophe"
+            ]
+        }
+    },
     "app-launcher": {
         "linux": {
             "root": "app-launcher",
@@ -22901,8 +22910,6 @@
             "root": "uberwriter",
             "symlinks": [
                 "de.wolfvollprecht.UberWriter",
-                "org.gnome.gitlab.somas.Apostrophe",
-                "org.gnome.wolf.Apostrophe",
                 "Uberwriter"
             ]
         }
