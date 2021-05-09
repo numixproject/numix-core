@@ -4692,6 +4692,7 @@
         "linux": {
             "root": "cpod",
             "symlinks": [
+                "com.github.z.CPod",
                 "com.github.z.Cumulonimbus",
                 "CPod",
                 "cumulonimbus"
@@ -7576,7 +7577,7 @@
             "root": "firefox-beta",
             "symlinks": [
                 "firefox-beta-bin",
-                "org.mozilla.FirefoxBeta",
+                "org.mozilla.FirefoxBeta"
             ]
         }
     },
@@ -7586,7 +7587,7 @@
             "symlinks": [
                 "firefox-dev",
                 "firefox-developer-edition",
-                "org.mozilla.FirefoxDeveloperEdition",
+                "org.mozilla.FirefoxDeveloperEdition"
             ]
         }
     },
@@ -24327,7 +24328,11 @@
     },
     "web-pocketcaster": {
         "linux": {
-            "root": "web-pocketcaster"
+            "root": "web-pocketcaster",
+            "symlinks": [
+                "pocketcasts",
+                "tech.feliciano.pocket-casts"
+            ]
         }
     },
     "web-pr0gramm": {
