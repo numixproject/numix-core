@@ -7575,7 +7575,8 @@
         "linux": {
             "root": "firefox-beta",
             "symlinks": [
-                "firefox-beta-bin"
+                "firefox-beta-bin",
+                "org.mozilla.FirefoxBeta",
             ]
         }
     },
@@ -7583,7 +7584,9 @@
         "linux": {
             "root": "firefox-developer-icon",
             "symlinks": [
-                "firefox-developer-edition"
+                "firefox-dev",
+                "firefox-developer-edition",
+                "org.mozilla.FirefoxDeveloperEdition",
             ]
         }
     },
@@ -7597,12 +7600,12 @@
             "root": "firefox-icon-unbranded"
         }
     },
-    "firefox-trunk": {
+    "firefox-nightly": {
         "linux": {
-            "root": "firefox-trunk",
+            "root": "firefox-nightly",
             "symlinks": [
-                "firefox-nightly",
                 "firefox-nightly-icon",
+                "firefox-trunk",
                 "org.mozilla.FirefoxNightly",
                 "org.mozilla.FirefoxNightlyWayland"
             ]
@@ -22310,7 +22313,8 @@
             "symlinks": [
                 "thunderbird-beta",
                 "thunderbird-beta-bin",
-                "thunderbird-early-bird"
+                "thunderbird-early-bird",
+                "thunderbird-nightly"
             ]
         }
     },
