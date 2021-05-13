@@ -14714,6 +14714,7 @@
         "linux": {
             "root": "monero",
             "symlinks": [
+                "monero-gui",
                 "monero-qt",
                 "monero-wallet-gui",
                 "org.getmonero.Monero",
