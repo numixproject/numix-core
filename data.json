@@ -23074,7 +23074,10 @@
     },
     "unity-tweak-tool": {
         "linux": {
-            "root": "unity-tweak-tool"
+            "root": "unity-tweak-tool",
+            "symlinks": [
+                "ubuntu-first-steps"
+            ]
         }
     },
     "universalindentgui": {
