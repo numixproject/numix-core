@@ -6508,7 +6508,11 @@
     },
     "drumstick": {
         "linux": {
-            "root": "drumstick"
+            "root": "drumstick",
+            "symlinks": [
+                "dmidiplayer",
+                "net.sourceforge.dmidiplayer"
+            ]
         }
     },
     "ds9": {
@@ -11785,6 +11789,7 @@
                 "java12-openjdk",
                 "java13-openjdk",
                 "java14-openjdk",
+                "java15-openjdk",
                 "java8-openjdk",
                 "java9-openjdk",
                 "javaws",
@@ -11793,6 +11798,7 @@
                 "openjdk-12",
                 "openjdk-13",
                 "openjdk-14",
+                "openjdk-15",
                 "openjdk-6",
                 "openjdk-7",
                 "openjdk-8",
@@ -11803,6 +11809,7 @@
                 "oracle_java12",
                 "oracle_java13",
                 "oracle_java14",
+                "oracle_java15",
                 "oracle_java6",
                 "oracle_java7",
                 "oracle_java8",
@@ -11814,6 +11821,7 @@
                 "org.freedesktop.Sdk.Extension.openjdk12",
                 "org.freedesktop.Sdk.Extension.openjdk13",
                 "org.freedesktop.Sdk.Extension.openjdk14",
+                "org.freedesktop.Sdk.Extension.openjdk15",
                 "org.freedesktop.Sdk.Extension.openjdk8",
                 "org.freedesktop.Sdk.Extension.openjdk9",
                 "sun-java",
@@ -19748,7 +19756,10 @@
     },
     "sayonara": {
         "linux": {
-            "root": "sayonara"
+            "root": "sayonara",
+            "symlinks": [
+                "com.sayonaraplayer.sayonara"
+            ]
         }
     },
     "sc-controller": {
