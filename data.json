@@ -5473,6 +5473,7 @@
                 "com.discordapp.Discord",
                 "discord-bin",
                 "discord-ptb",
+                "gtkcord",
                 "web-discord"
             ]
         }
@@ -15273,8 +15274,9 @@
     },
     "nds": {
         "linux": {
-            "root": "DeSmuME",
+            "root": "desmume",
             "symlinks": [
+                "DeSmuME",
                 "org.desmume.DeSmuME"
             ]
         }
@@ -18136,7 +18138,9 @@
         "linux": {
             "root": "pulseeffects",
             "symlinks": [
-                "com.github.wwmm.pulseeffects"
+                "com.github.wwmm.easyeffects",
+                "com.github.wwmm.pulseeffects",
+                "easyeffects"
             ]
         }
     },
@@ -22550,6 +22554,7 @@
                 "org.gnome.Notes",
                 "org.gnome.Tomboy",
                 "org.kde.kjots",
+                "tomboy-ng",
                 "tomboy-note"
             ]
         }
