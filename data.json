@@ -14811,6 +14811,14 @@
             "root": "moserial"
         }
     },
+    "motrix": {
+        "linux": {
+            "root": "motrix",
+            "symlinks": [
+                "net.agalwood.Motrix"
+            ]
+        }
+    },
     "mousai": {
         "linux": {
             "root": "mousai",
