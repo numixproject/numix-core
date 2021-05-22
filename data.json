@@ -19770,7 +19770,10 @@
     },
     "rubyripper": {
         "linux": {
-            "root": "rubyripper"
+            "root": "rubyripper",
+            "symlinks": [
+                "rrip_gui"
+            ]
         }
     },
     "runelite": {
