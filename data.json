@@ -14311,6 +14311,14 @@
             "root": "medit"
         }
     },
+    "mednaffe": {
+        "linux": {
+            "root": "mednaffe",
+            "symlinks": [
+                "com.github.AmatCoder.mednaffe"
+            ]
+        }
+    },
     "mega": {
         "android": [
             "com.flyingottersoftware.mega/com.flyingottersoftware.mega.ManagerActivity"
