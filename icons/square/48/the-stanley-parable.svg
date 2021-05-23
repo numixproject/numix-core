@@ -4,12 +4,15 @@
    <stop stop-color="#2b1d1e" style="stop-color:#493133" offset="0"/>
    <stop stop-color="#1f1516" style="stop-color:#3d292b" offset="1"/>
   </linearGradient>
-  <linearGradient id="linearGradient1509" x2="0" y1="1" y2="47" gradientUnits="userSpaceOnUse" xlink:href="#bg"/>
+  <linearGradient id="linearGradient861" x2="0" y1="1" y2="47" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#2b1d1e" style="stop-color:#55393b" offset="0"/>
+   <stop stop-color="#1f1516" style="stop-color:#493133" offset="1"/>
+  </linearGradient>
  </defs>
  <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4zm0 0.5v0.5c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.5c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" opacity=".02"/>
  <path d="m1 43.25v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" opacity=".05"/>
  <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" opacity=".1"/>
- <rect x="1" y="1" width="46" height="46" rx="4" fill="url(#bg)" style="fill:url(#linearGradient1509)"/>
+ <rect x="1" y="1" width="46" height="46" rx="4" fill="url(#bg)" style="fill:url(#linearGradient861)"/>
  <path d="m1 39v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" opacity=".1"/>
  <path d="m16 10h16l1 3-5 4-1-1-1 1 1 7v13l-3 2-3-2v-13l1-7-1-1-1 1-5-4z" opacity=".1"/>
  <g transform="translate(0 -1)">
