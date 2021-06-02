@@ -13607,7 +13607,10 @@
     },
     "linuxdcpp": {
         "linux": {
-            "root": "linuxdcpp"
+            "root": "linuxdcpp",
+            "symlinks": [
+                "com.pypyrev.linuxdcpp"
+            ]
         }
     },
     "linuxdeployqt": {
@@ -16950,7 +16953,10 @@
     },
     "pdfchain": {
         "linux": {
-            "root": "pdfchain"
+            "root": "pdfchain",
+            "symlinks": [
+                "net.sourceforge.pdfchain"
+            ]
         }
     },
     "pdfmixtool": {
