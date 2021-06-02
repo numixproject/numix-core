@@ -2847,6 +2847,14 @@
             ]
         }
     },
+    "bulky": {
+        "linux": {
+            "root": "bulky",
+            "symlinks": [
+                "com.linuxmint.bulky"
+            ]
+        }
+    },
     "bustle": {
         "linux": {
             "root": "bustle",
@@ -23917,6 +23925,7 @@
         "linux": {
             "root": "warpinator",
             "symlinks": [
+                "com.linuxmint.warpinator",
                 "org.linuxmint.warp",
                 "org.x.Warpinator"
             ]
