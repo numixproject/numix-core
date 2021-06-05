@@ -15942,7 +15942,10 @@
     },
     "obsidian": {
         "linux": {
-            "root": "obsidian"
+            "root": "obsidian",
+            "symlinks": [
+                "md.obsidian.Obsidian"
+            ]
         }
     },
     "ocenaudio": {
