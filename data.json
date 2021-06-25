@@ -6776,7 +6776,11 @@
     },
     "efax-gtk": {
         "linux": {
-            "root": "efax-gtk"
+            "root": "efax-gtk",
+            "symlinks": [
+                "net.efaxgtk.efaxgtk",
+                "net.sourceforge.efaxgtk"
+            ]
         }
     },
     "eiciel": {
@@ -10816,7 +10820,8 @@
         "linux": {
             "root": "haruna",
             "symlinks": [
-                "com.georgefb.haruna"
+                "com.georgefb.haruna",
+                "org.kde.haruna"
             ]
         }
     },
@@ -20850,7 +20855,10 @@
     },
     "solvespace": {
         "linux": {
-            "root": "solvespace"
+            "root": "solvespace",
+            "symlinks": [
+                "com.solvespace.Solvespace"
+            ]
         }
     },
     "sonata": {
@@ -23247,7 +23255,10 @@
     },
     "unvanquished": {
         "linux": {
-            "root": "unvanquished"
+            "root": "unvanquished",
+            "symlinks": [
+                "net.unvanquished.Unvanquished"
+            ]
         }
     },
     "uplink": {
@@ -23833,7 +23844,9 @@
             "root": "vocal",
             "symlinks": [
                 "com.github.needle-and-thread.vocal",
-                "com.github.needleandthread.vocal"
+                "com.github.needleandthread.vocal",
+                "kasts",
+                "org.kde.kasts"
             ]
         }
     },
