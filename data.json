@@ -24920,6 +24920,17 @@
             "root": "WinCaml"
         }
     },
+    "winbox": {
+        "linux": {
+            "root": "winbox",
+            "symlinks": [
+                "Winbox",
+                "winbox.exe",
+                "winbox64",
+                "winbox64.exe"
+            ]
+        }
+    },
     "wine": {
         "linux": {
             "root": "wine",
