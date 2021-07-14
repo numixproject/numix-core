@@ -8875,7 +8875,8 @@
         "linux": {
             "root": "github",
             "symlinks": [
-                "github-desktop"
+                "github-desktop",
+                "io.github.shiftey.Desktop"
             ]
         }
     },
@@ -13961,6 +13962,7 @@
             "root": "m64py",
             "symlinks": [
                 "com.github.efdos.mupengui",
+                "io.github.m64p.m64p",
                 "mupen64plus",
                 "mupen64plus-qt",
                 "org.mupen64plus.Mupen64Plus"
