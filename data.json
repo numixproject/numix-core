@@ -10092,6 +10092,14 @@
             "root": "gpg-crypter"
         }
     },
+    "gpgfrontend": {
+        "linux": {
+            "root": "gpgfrontend",
+            "symlinks": [
+                "gpgfrontend-appimage-icon"
+            ]
+        }
+    },
     "gpicview": {
         "linux": {
             "root": "gpicview",
