@@ -6785,7 +6785,10 @@
     },
     "eiciel": {
         "linux": {
-            "root": "eiciel"
+            "root": "eiciel",
+            "symlinks": [
+                "mate-eiciel"
+            ]
         }
     },
     "eid-viewer": {
@@ -11833,6 +11836,7 @@
                 "java13-openjdk",
                 "java14-openjdk",
                 "java15-openjdk",
+                "java16-openjdk",
                 "java8-openjdk",
                 "java9-openjdk",
                 "javaws",
@@ -11842,6 +11846,7 @@
                 "openjdk-13",
                 "openjdk-14",
                 "openjdk-15",
+                "openjdk-16",
                 "openjdk-6",
                 "openjdk-7",
                 "openjdk-8",
@@ -11853,6 +11858,7 @@
                 "oracle_java13",
                 "oracle_java14",
                 "oracle_java15",
+                "oracle_java16",
                 "oracle_java6",
                 "oracle_java7",
                 "oracle_java8",
@@ -11865,6 +11871,7 @@
                 "org.freedesktop.Sdk.Extension.openjdk13",
                 "org.freedesktop.Sdk.Extension.openjdk14",
                 "org.freedesktop.Sdk.Extension.openjdk15",
+                "org.freedesktop.Sdk.Extension.openjdk16",
                 "org.freedesktop.Sdk.Extension.openjdk8",
                 "org.freedesktop.Sdk.Extension.openjdk9",
                 "sun-java",
