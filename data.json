@@ -12952,7 +12952,9 @@
         "linux": {
             "root": "krename",
             "symlinks": [
-                "org.kde.krename"
+                "com.github.qarmin.szyszka",
+                "org.kde.krename",
+                "szyszka"
             ]
         }
     },
@@ -14877,7 +14879,10 @@
     },
     "moserial": {
         "linux": {
-            "root": "moserial"
+            "root": "moserial",
+            "symlinks": [
+                "org.gnome.moserial"
+            ]
         }
     },
     "motrix": {
@@ -20015,7 +20020,10 @@
     },
     "scilab": {
         "linux": {
-            "root": "scilab"
+            "root": "scilab",
+            "symlinks": [
+                "org.scilab.Scilab"
+            ]
         }
     },
     "scinotes": {
@@ -22473,7 +22481,10 @@
     },
     "thonny": {
         "linux": {
-            "root": "thonny"
+            "root": "thonny",
+            "symlinks": [
+                "org.thonny.Thonny"
+            ]
         }
     },
     "three-depict": {
@@ -23538,7 +23549,10 @@
     },
     "vcmiclient": {
         "linux": {
-            "root": "vcmiclient"
+            "root": "vcmiclient",
+            "symlinks": [
+                "eu.vcmi.VCMI"
+            ]
         }
     },
     "vcvrack": {
