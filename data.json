@@ -2568,7 +2568,8 @@
         "linux": {
             "root": "boinc",
             "symlinks": [
-                "boincmgr"
+                "boincmgr",
+                "edu.berkeley.BOINC"
             ]
         }
     },
@@ -4759,7 +4760,10 @@
     },
     "cpupower-gui": {
         "linux": {
-            "root": "cpupower-gui"
+            "root": "cpupower-gui",
+            "symlinks": [
+                "org.rnd2.cpupower_gui"
+            ]
         }
     },
     "cqrlog": {
@@ -19954,6 +19958,7 @@
         "linux": {
             "root": "sayonara",
             "symlinks": [
+                "com.sayonara_player.Sayonara",
                 "com.sayonaraplayer.sayonara"
             ]
         }
