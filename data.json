@@ -16402,6 +16402,14 @@
             "root": "openerp-client"
         }
     },
+     "openkj": {
+        "linux": {
+            "root": "openkj",
+            "symlinks": [
+                "org.openkj.OpenKJ"
+            ]
+        }
+    },
     "openlugaru": {
         "linux": {
             "root": "openlugaru",
