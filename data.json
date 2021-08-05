@@ -1396,6 +1396,7 @@
                 "deepin-game-center",
                 "gnome-games",
                 "org.gnome.Games",
+                "org.gnome.World.Highscore",
                 "preferences-desktop-gaming"
             ]
         }
@@ -10466,6 +10467,7 @@
             "symlinks": [
                 "advancedmetronome",
                 "artemanufrij.metronome",
+                "com.adrienplazas.Metronome",
                 "com.github.artemanufrij.metronome",
                 "com.jvieira.tpt.Metronome",
                 "gtklick",
@@ -19204,7 +19206,8 @@
             "root": "rambox",
             "symlinks": [
                 "hamsket",
-                "rambox-os"
+                "rambox-os",
+                "ramboxpro"
             ]
         }
     },
@@ -25354,6 +25357,8 @@
             "symlinks": [
                 "cudatext",
                 "cudatext-256",
+                "io.github.cudatext.Cudatext",
+                "io.github.cudatext.Cudatext-Qt5",
                 "textadept"
             ]
         }
