@@ -23570,6 +23570,7 @@
             "root": "vacuum"
         }
     },
+    
     "vala": {
         "linux": {
             "root": "vala",
@@ -23582,6 +23583,14 @@
     "valama": {
         "linux": {
             "root": "valama"
+        }
+    },
+    "valdo-gtk": {
+        "linux": {
+            "root": "valdo-gtk",
+            "symlinks": [
+                "cz.pervoj.valdo-gtk"
+            ]
         }
     },
     "valentina": {
