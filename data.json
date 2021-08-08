@@ -10317,6 +10317,14 @@
             ]
         }
     },
+    "gresistor": {
+        "linux": {
+            "root": "gresistor",
+            "symlinks": [
+                "resistor_decoder"
+            ]
+        }
+    },
     "gretl": {
         "linux": {
             "root": "gretl"
