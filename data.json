@@ -23070,6 +23070,14 @@
             "root": "tsMuxerGUI"
         }
     },
+    "tubefeeder": {
+        "linux": {
+            "root": "tubefeeder",
+            "symlinks": [
+                "de.schmidhuberj.tubefeeder"
+            ]
+        }
+    },
     "tumblr": {
         "android": [
             "com.tumblr/com.tumblr.ui.activity.JumpoffActivity",
