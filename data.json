@@ -2904,7 +2904,8 @@
             "root": "bygfoot",
             "symlinks": [
                 "com.github.mirkobrombin.football",
-                "kickoff-player"
+                "kickoff-player",
+                "ysoccer"
             ]
         }
     },
@@ -11251,7 +11252,10 @@
     },
     "hwmixvolume": {
         "linux": {
-            "root": "hwmixvolume"
+            "root": "hwmixvolume",
+            "symlinks": [
+                "com.github.childishgiant.mixer"
+            ]
         }
     },
     "hydrapaper": {
@@ -14099,6 +14103,7 @@
         "linux": {
             "root": "mandelbulber",
             "symlinks": [
+                "com.github.buddhi1980.mandelbulber2",
                 "com.mandelbulber.Mandelbulber",
                 "mandelbulber2"
             ]
@@ -24830,6 +24835,7 @@
                 "chrome-gcjbnclfkeffmdfdhflnadahgmajfgcm-Default",
                 "com.gigitux.gtkwhats",
                 "com.gigitux.youp",
+                "eu.scarpetta.QtWAW",
                 "io.bit3.WhatsAppQT",
                 "whatsapp",
                 "whatsapp-desktop",
@@ -25016,6 +25022,7 @@
                 "kiwix",
                 "kiwix-desktop",
                 "org.kiwix.Client",
+                "org.kiwix.desktop",
                 "web-wikipedia",
                 "wiki"
             ]
