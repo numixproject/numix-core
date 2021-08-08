@@ -11467,6 +11467,14 @@
             ]
         }
     },
+    "image-roll": {
+        "linux": {
+            "root": "image-roll",
+            "symlinks": [
+                "com.github.weclaw1.ImageRoll"
+            ]
+        }
+    },
     "imagemagick": {
         "linux": {
             "root": "imagemagick",
