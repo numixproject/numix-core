@@ -20016,6 +20016,14 @@
             "root": "samrewritten"
         }
     },
+    "sasm": {
+        "linux": {
+            "root": "sasm",
+            "symlinks": [
+                "io.github.dman95.SASM"
+            ]
+        }
+    },
     "sauerbraten": {
         "linux": {
             "root": "sauerbraten",
