@@ -11834,6 +11834,15 @@
             ]
         }
     },
+    "jadx": {
+        "linux": {
+            "root": "jadx",
+            "symlinks": [
+                "jadx-bin",
+                "jadx-gui"
+            ]
+        }
+    },
     "jajuk": {
         "linux": {
             "root": "jajuk",
