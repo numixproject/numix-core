@@ -1476,6 +1476,7 @@
                 "deepin-feedback",
                 "gnome-abrt",
                 "gnome-warning",
+                "io.elementary.feedback",
                 "kbugbuster",
                 "kbugster",
                 "mintreport",
@@ -25186,7 +25187,10 @@
     },
     "wingpanel": {
         "linux": {
-            "root": "wingpanel"
+            "root": "wingpanel",
+            "symlinks": [
+                "io.elementary.wingpanel"
+            ]
         }
     },
     "wings3d": {
