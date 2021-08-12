@@ -23615,6 +23615,16 @@
             ]
         }
     },
+    "utorrent": {
+        "android": [
+            "com.utorrent.client/com.utorrent.client.Main",
+            "com.utorrent.web/com.bittorrent.android.remote.web.Login",
+            "com.utorrent.web/com.utorrent.web.Login"
+        ],
+        "linux": {
+            "root": "utorrent"
+        }
+    },
     "utox": {
         "linux": {
             "root": "utox",
