@@ -81,7 +81,7 @@ def convert_svg2png(infile, outfile, w, h):
     @dest_path : String; the png file absolute path
     """
     if use_inkscape:
-        cmd = Popen(["inkscape", "-z", "-f", infile, "-e", outfile,
+        cmd = Popen(["inkscape", "-z", infile, "-o", outfile,
                      "-w", str(w), "-h", str(h)],
                     stdout=PIPE, stderr=PIPE)
         cmd.communicate()
@@ -112,7 +112,7 @@ except FileNotFoundError:
          "the repository and try again.".format(theme))
 
 
-# The Generation Stuff
+# The Android Generation Stuff
 if platform == "android":
     print("\nGenerating Android theme...")
     theme_name = "com.numix.icons_{0}".format(theme)
@@ -142,6 +142,7 @@ if platform == "android":
         app_filter_obj.write(app_filter_content)
 
 
+# The Linux Generation Stuff
 elif platform == "linux":
     print("\nGenerating Linux theme...")
     linux_dir = "numix-icon-theme-{0}/Numix-{1}".format(theme, theme.title())
@@ -165,6 +166,9 @@ elif platform == "linux":
                         symlink(root, output_symlink)
                     except FileExistsError:
                         continue
+
+
+# The OSX Generation Stuff
 elif platform == "osx":
     print("\nGenerating OSX theme...")
     ink_flag = call(['which', 'png2icns'], stdout=PIPE, stderr=PIPE)
@@ -175,15 +179,24 @@ elif platform == "osx":
     for sub_dir in osx_sub_dirs:
         mkdir("{0}/{1}".format(osx_dir, sub_dir))
     for icon_name, icon in icons.items():
-        for output_icon in icon.get("osx", []):
+        for output_icon in icon.get("osx", [icon_name]):
             source = "icons/{0}/48/{1}.svg".format(theme, icon_name)
             output_svg = "{0}/vectors/{1}.svg".format(osx_dir, output_icon)
-            output_png = "{0}/pngs/{1}.png".format(osx_dir, output_icon)
-            output_icn = "{0}/icns/{1}.icn".format(osx_dir, output_icon)
+            output_png = "{0}/pngs/{1}".format(osx_dir, output_icon)
+            output_icns = "{0}/icns/{1}.icns".format(osx_dir, output_icon)
             if path.exists(source):
                 copy2(source, output_svg)
-                convert_svg2png(source, output_png, 1024, 1024)
-                call(["png2icns", output_icn, output_png],
+                sizes = [16, 32, 128, 256, 512, 1024]
+                filenames = [
+                    "{}_{}.png".format(output_png, str(x)) for x in sizes
+                ]
+
+                for out_name, size in zip(filenames, sizes):
+                    convert_svg2png(source, out_name, size, size)
+
+                call(["png2icns"] + [output_icns] + filenames,
                      stdout=PIPE, stderr=PIPE)
+
+
 # Clean Up
 print("Done!\n")
