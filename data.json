@@ -2105,6 +2105,14 @@
             "root": "azpainter"
         }
     },
+    "azuredatastudio": {
+        "linux": {
+            "root": "azuredatastudio",
+            "symlinks": [
+                "com.azuredatastudio.oss"
+            ]
+        }
+    },
     "azureus": {
         "linux": {
             "root": "Azureus"
