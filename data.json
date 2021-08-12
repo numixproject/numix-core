@@ -20828,6 +20828,35 @@
             "root": "skylendar"
         }
     },
+    "skype": {
+        "android": [
+            "com.skype.raider/com.skype.raider.Main",
+            "com.skype.raider/com.skype.raider.ui.SplashScreenActivity",
+            "com.skype.raider/com.skype4life.MainActivity"
+        ],
+        "linux": {
+            "root": "skype",
+            "symlinks": [
+                "com.skype.Client",
+                "ghetto-skype",
+                "ms-skype",
+                "skypeforlinux"
+            ]
+        }
+    },
+    "skype-call-recorder": {
+        "linux": {
+            "root": "skype-call-recorder"
+        }
+    },
+    "skyrim-script-extender": {
+        "linux": {
+            "root": "skse-launcher",
+            "symlinks": [
+                "steam_icon_365720"
+            ]
+        }
+    },
     "slack": {
         "android": [
             "com.Slack/com.Slack.app.login.FSlackTryLogin",
@@ -22444,6 +22473,33 @@
     "terratech": {
         "linux": {
             "root": "steam_icon_285920"
+        }
+    },
+    "tes-iii-morrowind": {
+        "linux": {
+            "root": "steam_icon_22320"
+        }
+    },
+    "tes-iv-oblivion": {
+        "linux": {
+            "root": "steam_icon_22330",
+            "symlinks": [
+                "steam_icon_900883"
+            ]
+        }
+    },
+    "tes-online": {
+        "linux": {
+            "root": "steam_icon_306130"
+        }
+    },
+    "tes-v-skyrim": {
+        "linux": {
+            "root": "steam_icon_72850",
+            "symlinks": [
+                "steam_icon_489830",
+                "steam_icon_611670"
+            ]
         }
     },
     "tesseract": {
