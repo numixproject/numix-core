@@ -1306,6 +1306,14 @@
             "root": "apk-icon-editor"
         }
     },
+    "apktool": {
+        "linux": {
+            "root": "apktool",
+            "symlinks": [
+                "kali-apktool"
+             ]
+        }
+    },
     "apostrophe": {
         "linux": {
             "root": "apostrophe",
