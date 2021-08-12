@@ -1,7 +1,7 @@
 # Numix Core
 [![By The Numix Project](https://img.shields.io/badge/By-The%20Numix%20Project-f0544c.svg?style=flat-round)](https://numixproject.org/) &nbsp;[![Build Status](https://travis-ci.org/numixproject/numix-core.svg?branch=master)](https://travis-ci.org/numixproject/numix-core)
 
-This repository powers the generation of the all the Numix app icon themes across all platforms. This new method is designed to make keeping themes on different platforms on feature parity easier as well as making it as simple as possible to add support for new platforms. Licensed under the GPL-3.0+
+This repository powers the generation of the all the Numix app icon themes across all platforms. This new method is designed to make keeping themes on different platforms on feature parity easier as well as making it as simple as possible to add support for new platforms. Licensed under the GPL-3.0+ and maintained by [@foggalong](https://github.com/Foggalong) and [@palob](https://github.com/palob).
 
 
 ## Artwork
@@ -19,7 +19,7 @@ To deal with hardcoded application icons Numix uses the [hardcode-fixer](https:/
 ## Script
 
 ### Dependencies
-The script needs Python 3.x to run. While the script can build themes for many platforms, running it is only officialy supported on Linux. The exporting-to-PNG part of the script currently uses [Cairo](https://cairographics.org/) or [Inkscape](https://inkscape.org/). The OSX packaging needs [libicns](http://icns.sourceforge.net/) for the `png2icns` command.
+The script needs Python 3.x to run. While the script can build themes for many platforms, running it is only officially supported on Linux. The exporting-to-PNG part of the script currently uses [Cairo](https://cairographics.org/) or [Inkscape](https://inkscape.org/). The macOS packaging needs [libicns](http://icns.sourceforge.net/) for the `png2icns` command. More information can be found [in our wiki](https://github.com/numixproject/numix-core/wiki/Dependencies).
 
 ### How To Use
 1. Download the repo
