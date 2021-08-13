@@ -8325,13 +8325,19 @@
             ]
         }
     },
-    "freedoom": {
+    "freedoom-phase-1": {
         "linux": {
-            "root": "freedoom",
+            "root": "freedoom1",
             "symlinks": [
-                "freedoom2",
-                "io.github.Freedoom-Phase-1",
-                "io.github.Freedoom-Phase-2"
+                "io.github.freedoom.Phase1"
+            ]
+        }
+    },
+    "freedoom-phase-2": {
+        "linux": {
+            "root": "freedoom2",
+            "symlinks": [
+                "io.github.freedoom.Phase2"
             ]
         }
     },
