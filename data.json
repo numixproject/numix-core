@@ -20899,27 +20899,6 @@
             "root": "skylendar"
         }
     },
-    "skype": {
-        "android": [
-            "com.skype.raider/com.skype.raider.Main",
-            "com.skype.raider/com.skype.raider.ui.SplashScreenActivity",
-            "com.skype.raider/com.skype4life.MainActivity"
-        ],
-        "linux": {
-            "root": "skype",
-            "symlinks": [
-                "com.skype.Client",
-                "ghetto-skype",
-                "ms-skype",
-                "skypeforlinux"
-            ]
-        }
-    },
-    "skype-call-recorder": {
-        "linux": {
-            "root": "skype-call-recorder"
-        }
-    },
     "skyrim-script-extender": {
         "linux": {
             "root": "skse-launcher",
