@@ -3691,17 +3691,20 @@
     },
     "conky": {
         "linux": {
-            "root": "conky"
-        }
-    },
-    "conky-logomark-violet": {
-        "linux": {
-            "root": "conky-logomark-violet"
+            "root": "conky",
+            "symlinks": [
+                "conky-logomark-violet"
+            ]
         }
     },
     "conky-manager": {
         "linux": {
             "root": "conky-manager"
+        }
+    },
+    "conky-manager-alt": {
+        "linux": {
+            "root": "conky-manager-alt"
         }
     },
     "connectagram": {
