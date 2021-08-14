@@ -4462,7 +4462,10 @@
     },
     "citra": {
         "linux": {
-            "root": "citra"
+            "root": "citra",
+            "symlinks": [
+                "org.citra_emu.citra"
+            ]
         }
     },
     "citrix-receiver": {
@@ -7421,6 +7424,7 @@
             "root": "evernote",
             "symlinks": [
                 "chrome-lbfehkoinhhcknnbdgnnmjhiladcgbol-Default",
+                "evernote-client",
                 "Evernote",
                 "Evernote-evernote.com",
                 "Evernote-www.evernote.com",
@@ -7580,7 +7584,10 @@
     },
     "fcitx": {
         "linux": {
-            "root": "fcitx"
+            "root": "fcitx",
+            "symlinks": [
+                "org.fcitx.Fcitx5"
+            ]
         }
     },
     "fcitx-sogoupinyin": {
@@ -7772,6 +7779,7 @@
                 "ark",
                 "engrampa",
                 "gvfsd-archive-file",
+                "lxqt-archiver",
                 "org.gnome.ArchiveManager",
                 "org.gnome.FileRoller",
                 "org.kde.ark",
@@ -9000,7 +9008,8 @@
             "root": "ghidra",
             "symlinks": [
                 "Ghidra",
-                "org.ghidra_sre.Desktop"
+                "org.ghidra_sre.Desktop",
+                "org.ghidra_sre.Ghidra"
             ]
         }
     },
@@ -16241,6 +16250,7 @@
             "symlinks": [
                 "bumblebee-config-gui",
                 "com.leinardi.gwe",
+                "io.github.hmlendea.geforcenow-electron",
                 "nvidia-310-settings",
                 "nvidia-current-settings",
                 "nvidia-current-updates-settings",
@@ -26434,7 +26444,10 @@
     },
     "zenmap": {
         "linux": {
-            "root": "zenmap"
+            "root": "zenmap",
+            "symlinks": [
+                "org.nmap.Zenmap"
+            ]
         }
     },
     "zeroinstall": {
