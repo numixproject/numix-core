@@ -9439,6 +9439,15 @@
             ]
         }
     },
+    "gnome-design-lorem": {
+        "linux": {
+            "root": "gnome-design-lorem",
+            "symlinks": [
+                "org.gnome.design.Lorem",
+                "lorem"
+            ]
+        }
+    },
     "gnome-design-symbolicpreview": {
         "linux": {
             "root": "gnome-design-symbolicpreview",
