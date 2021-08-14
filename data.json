@@ -4762,7 +4762,10 @@
     },
     "conky": {
         "linux": {
-            "root": "conky"
+            "root": "conky",
+            "symlinks": [
+                "conky-logomark-violet"
+            ]
         }
     },
     "conky-manager": {
@@ -4771,6 +4774,11 @@
             "symlinks": [
                 "ConkyManager"
             ]
+        }
+    },
+    "conky-manager-alt": {
+        "linux": {
+            "root": "conky-manager-alt"
         }
     },
     "connectagram": {
