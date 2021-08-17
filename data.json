@@ -1690,7 +1690,7 @@
         }
     },
     "armitage": {
-  		  "linux": {
+        "linux": {
             "root": "armitage",
             "symlinks": [
                 "kali-armitage"
@@ -2130,6 +2130,19 @@
     "awn-applet-digital-clock": {
         "linux": {
             "root": "awn-applet-digital-clock"
+        }
+    },
+    "axe": {
+        "linux": {
+            "root": "axe",
+            "symlinks": [
+                "axe128"
+            ]
+        }
+    },
+    "axe-electrum": {
+        "linux": {
+            "root": "electrum-axe"
         }
     },
     "axiom-verge": {
