@@ -5556,6 +5556,14 @@
             ]
         }
     },
+    "desktop-environment-sugar": {
+        "linux": {
+            "root": "desktop-environment-sugar",
+            "symlinks": [
+                "sugarizer"
+            ]
+        }
+    },
     "desktop-environment-tde": {
         "linux": {
             "root": "desktop-environment-tde",
