@@ -22638,6 +22638,14 @@
             ]
         }
     },
+    "tenacity": {
+        "linux": {
+            "root": "tenacity",
+            "symlinks": [
+                "org.tenacityaudio.Tenacity"
+            ]
+        }
+    },
     "terminal": {
         "android": [
             "com.bluepremium.privilege.terminal/com.bluepremium.privilege.terminal.Term"
