@@ -2723,7 +2723,10 @@
     },
     "bomi": {
         "linux": {
-            "root": "bomi"
+            "root": "bomi",
+            "symlinks": [
+                "mpvz"
+            ]
         }
     },
     "bookletimposer": {
