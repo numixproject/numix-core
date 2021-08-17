@@ -22269,6 +22269,14 @@
             ]
         }
     },
+    "switchhosts": {
+        "linux": {
+            "root": "switchhosts",
+            "symlinks": [
+                "switchhosts-bin",
+            ]
+        }
+    },
     "symphonium": {
         "linux": {
             "root": "symphonium"
