@@ -1,37 +1,36 @@
-<svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+<svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
-  <linearGradient id="background" x2="0" y1="1" y2="47" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#2A2A2A" style="stop-color:#3d3d3d" offset="0"/>
-   <stop stop-color="#202020" style="stop-color:#333" offset="1"/>
+  <linearGradient id="bg" x2="0" y1="1" y2="47" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#424242" offset="0"/>
+   <stop style="stop-color:#383838" offset="1"/>
   </linearGradient>
-  <linearGradient id="blue-shadow" x1="50%" x2="50%" y1="15%" y2="75%">
+  <linearGradient id="blue" x1="44.548" x2="44.548" y1="9.5459" y2="22.274" gradientTransform="matrix(.70711 0 0 1.4142 2.2017e-7 -1)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#0AF" stop-opacity="0" offset="0"/>
    <stop stop-color="#0AF" stop-opacity=".5" offset="1"/>
   </linearGradient>
-  <linearGradient id="blue-shadow-shadow" x1="50%" x2="50%" y1="15%" y2="75%">
+  <linearGradient id="blue-shadow" x1="37.069" x2="37.069" y1="10.744" y2="25.068" gradientTransform="scale(.79582 1.2566)" gradientUnits="userSpaceOnUse">
    <stop stop-opacity="0" offset="0"/>
    <stop stop-opacity=".1" offset="1"/>
   </linearGradient>
-  <linearGradient id="red-shadow" x1="50%" x2="50%" y1="25%" y2="85%">
-   <stop stop-color="#E21" stop-opacity=".5" style="stop-color:#ee2b1b;stop-opacity:.50196" offset="0"/>
-   <stop stop-color="#E21" stop-opacity="0" style="stop-color:#ee2b1b;stop-opacity:0" offset="1"/>
-  </linearGradient>
-  <linearGradient id="red-shadow-shadow" x1="50%" x2="50%" y1="25%" y2="85%">
+  <linearGradient id="red-shadow" x1="23.246" x2="23.246" y1="13.131" y2="27.456" gradientTransform="scale(.79582 1.2566)" gradientUnits="userSpaceOnUse">
    <stop stop-opacity=".1" offset="0"/>
    <stop stop-opacity="0" offset="1"/>
   </linearGradient>
+  <linearGradient id="linearGradient882" x1="23.335" x2="23.335" y1="11.667" y2="24.395" gradientTransform="matrix(.70711 0 0 1.4142 2.2017e-7 -1)" gradientUnits="userSpaceOnUse" xlink:href="#red"/>
+  <linearGradient id="red" x1=".5" x2=".5" y1=".25" y2=".85">
+   <stop style="stop-color:#ee2b1b;stop-opacity:.5" offset="0"/>
+   <stop style="stop-color:#ee2b1b;stop-opacity:0" offset="1"/>
+  </linearGradient>
  </defs>
- <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4zm0 0.5v0.5c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.5c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" opacity=".02"/>
- <path d="m1 43.25v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" opacity=".05"/>
- <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" opacity=".1"/>
- <rect x="1" y="1" width="46" height="46" rx="4" fill="url(#background)" style="fill:url(#background)"/>
- <path d="m1 39v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" opacity=".1"/>
- <path d="m24 9a15 15 0 0 0 0 30 11 11 0 1 1 0-22 4 4 0 0 0 0-8" fill="url(#red-shadow-shadow)"/>
- <path d="m24 39a15 15 0 0 0 0-30 11 11 0 1 1 0 22 4 4 0 0 0 0 8" fill="url(#blue-shadow-shadow)"/>
- <g transform="translate(0-1)">
-  <path d="m24 9a15 15 0 0 0 0 30 11 11 0 1 1 0-22" fill="url(#red-shadow)"/>
-  <path d="m24 39a15 15 0 0 0 0-30 11 11 0 1 1 0 22" fill="url(#blue-shadow)"/>
-  <circle cx="24" cy="13" r="4" fill="#E21" style="fill:#ee3525"/>
-  <circle cx="24" cy="35" r="4" fill="#0AF"/>
- </g>
+ <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4zm0 0.5v0.5c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.5c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.02"/>
+ <path d="m1 43.25v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.05"/>
+ <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
+ <rect x="1" y="1" width="46" height="46" rx="4" style="fill:url(#bg)"/>
+ <path d="m1 39v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
+ <path d="m24 9a15 15 0 0 0 0 30 11 11 0 1 1 0-22 4 4 0 0 0 0-8" fill="url(#red-shadow)" style="fill:url(#red-shadow)"/>
+ <path d="m24 39a15 15 0 0 0 0-30 11 11 0 1 1 0 22 4 4 0 0 0 0 8" fill="url(#blue-shadow)" style="fill:url(#blue-shadow)"/>
+ <path d="m24 8a15 15 0 0 0 0 30 11 11 0 1 1 0-22" fill="url(#red)" style="fill:url(#linearGradient882)"/>
+ <path d="m24 38a15 15 0 0 0 0-30 11 11 0 1 1 0 22" fill="url(#blue)" style="fill:url(#blue)"/>
+ <circle cx="24" cy="12" r="4" fill="#E21" style="fill:#ee3525"/>
+ <circle cx="24" cy="34" r="4" fill="#0af"/>
 </svg>
