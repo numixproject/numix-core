@@ -1459,9 +1459,6 @@
         "linux": {
             "root": "application-x-yarock",
             "symlinks": [
-                "freetube",
-                "FreeTube",
-                "io.freetubeapp.FreeTube",
                 "yarock"
             ]
         }
@@ -8515,6 +8512,16 @@
             "root": "freeplane",
             "symlinks": [
                 "org.freeplane.App"
+            ]
+        }
+    },
+    "freetube": {
+        "linux": {
+            "root": "freetube",
+            "symlinks": [
+                "FreeTube",
+                "freetube-bin",
+                "io.freetubeapp.FreeTube"
             ]
         }
     },
