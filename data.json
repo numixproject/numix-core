@@ -21418,6 +21418,18 @@
             "root": "sonata"
         }
     },
+    "sonic-cd": {
+        "android": [
+            "com.sega.soniccd.classic/com.sega.f2fdownloader.f2fDownloaderActivity",
+            "com.sega.soniccd.classic/com.sega.sonicCD.SonicCDActivity"
+        ],
+        "linux": {
+            "root": "sonic-cd",
+            "symlinks": [
+                "steam_icon_200940"
+            ]
+        }
+    },
     "sonic-pi": {
         "linux": {
             "root": "sonic-pi",
@@ -21441,6 +21453,7 @@
         "linux": {
             "root": "sonic-the-hedgehog-2"
         }
+>>>>>>> b58093561aa2afac2bb8db83a224905bfc094db6
     },
     "sonic-visualiser": {
         "linux": {
