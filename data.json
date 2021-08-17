@@ -330,6 +330,7 @@
                 "io.elementary.camera",
                 "kamoso",
                 "org.kde.kamoso",
+                "org.maui.booth",
                 "org.postmarketos.Megapixels",
                 "qvidcap"
             ]
@@ -7742,6 +7743,7 @@
                 "nautilus-actions",
                 "nautilus-actions-config-tool",
                 "org.gnome.Nautilus",
+                "org.kde.index",
                 "org.xfce.filemanager",
                 "redhat-filemanager",
                 "system-file-manager",
@@ -14557,7 +14559,8 @@
         "linux": {
             "root": "maui-cinema",
             "symlinks": [
-                "org.maui.cinema"
+                "org.maui.cinema",
+                "org.maui.clip"
             ]
         }
     },
@@ -14565,6 +14568,8 @@
         "linux": {
             "root": "maui-contacts",
             "symlinks": [
+                "communicator",
+                "org.kde.communicator",
                 "org.kde.phonebook",
                 "org.maui.contacts"
             ]
@@ -14574,6 +14579,7 @@
         "linux": {
             "root": "maui-nota",
             "symlinks": [
+                "nota",
                 "org.kde.nota"
             ]
         }
@@ -14582,7 +14588,8 @@
         "linux": {
             "root": "maui-shelf",
             "symlinks": [
-                "org.maui.shelf"
+                "org.maui.shelf",
+                "shelf"
             ]
         }
     },
@@ -14590,7 +14597,8 @@
         "linux": {
             "root": "maui-sol",
             "symlinks": [
-                "org.kde.sol"
+                "org.kde.sol",
+                "sol"
             ]
         }
     },
@@ -14600,6 +14608,7 @@
             "symlinks": [
                 "fyi.zoey.Boop-GTK",
                 "org.kde.station",
+                "station",
                 "uk.co.mrbenshef.Boop-GTK"
             ]
         }
