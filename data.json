@@ -12031,6 +12031,14 @@
             "root": "iridium-browser"
         }
     },
+    "iridium-irc": {
+        "linux": {
+            "root": "iridium-irc",
+            "symlinks": [
+                "com.github.avojak.iridium"
+            ]
+        }
+    },
     "irssi": {
         "linux": {
             "root": "irssi"
