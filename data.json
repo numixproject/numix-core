@@ -7607,6 +7607,7 @@
             "symlinks": [
                 "Caprine",
                 "caprine",
+                "com.sindresorhus.Caprine",
                 "FacebookMessenger-facebook.com",
                 "messengerfordesktop"
             ]
@@ -11593,6 +11594,7 @@
         "linux": {
             "root": "hyperrogue",
             "symlinks": [
+                "com.roguetemple.HyperRogue",
                 "steam_icon_342610"
             ]
         }
@@ -21268,7 +21270,10 @@
     },
     "smplayer": {
         "linux": {
-            "root": "smplayer"
+            "root": "smplayer",
+            "symlinks": [
+                "info.smplayer.SMPlayer"
+            ]
         }
     },
     "smtube": {
