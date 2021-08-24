@@ -2509,12 +2509,12 @@
             ]
         }
     },
-    "bittorent": {
+    "bittorrent": {
         "android": [
             "com.bittorrent.client/com.bittorrent.client.Main"
         ],
         "linux": {
-            "root": "bittorent"
+            "root": "bittorrent"
         }
     },
     "bitwarden": {
