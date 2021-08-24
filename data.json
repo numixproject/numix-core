@@ -12222,6 +12222,7 @@
                 "java14-openjdk",
                 "java15-openjdk",
                 "java16-openjdk",
+                "java17-openjdk",
                 "java8-openjdk",
                 "java9-openjdk",
                 "javaws",
@@ -12232,6 +12233,7 @@
                 "openjdk-14",
                 "openjdk-15",
                 "openjdk-16",
+                "openjdk-17",
                 "openjdk-6",
                 "openjdk-7",
                 "openjdk-8",
@@ -12244,6 +12246,7 @@
                 "oracle_java14",
                 "oracle_java15",
                 "oracle_java16",
+                "oracle_java17",
                 "oracle_java6",
                 "oracle_java7",
                 "oracle_java8",
@@ -12257,6 +12260,7 @@
                 "org.freedesktop.Sdk.Extension.openjdk14",
                 "org.freedesktop.Sdk.Extension.openjdk15",
                 "org.freedesktop.Sdk.Extension.openjdk16",
+                "org.freedesktop.Sdk.Extension.openjdk17",
                 "org.freedesktop.Sdk.Extension.openjdk8",
                 "org.freedesktop.Sdk.Extension.openjdk9",
                 "sun-java",
@@ -13775,6 +13779,7 @@
                 "libreoffice6.4-base",
                 "libreoffice7.0-base",
                 "libreoffice7.1-base",
+                "libreoffice7.2-base",
                 "libreofficedev6.1-base",
                 "org.libreoffice.LibreOffice-base",
                 "org.libreoffice.LibreOffice.base"
@@ -13793,6 +13798,7 @@
                 "libreoffice6.4-calc",
                 "libreoffice7.0-calc",
                 "libreoffice7.1-calc",
+                "libreoffice7.2-calc",
                 "libreofficedev6.1-calc",
                 "org.libreoffice.LibreOffice-calc",
                 "org.libreoffice.LibreOffice.calc"
@@ -13811,6 +13817,7 @@
                 "libreoffice6.4-draw",
                 "libreoffice7.0-draw",
                 "libreoffice7.1-draw",
+                "libreoffice7.2-draw",
                 "libreofficedev6.1-draw",
                 "org.libreoffice.LibreOffice-draw",
                 "org.libreoffice.LibreOffice.draw"
@@ -13829,6 +13836,7 @@
                 "libreoffice6.4-impress",
                 "libreoffice7.0-impress",
                 "libreoffice7.1-impress",
+                "libreoffice7.2-impress",
                 "libreofficedev6.1-impress",
                 "org.libreoffice.LibreOffice-impress",
                 "org.libreoffice.LibreOffice.impress"
@@ -13854,6 +13862,7 @@
                 "libreoffice6.4-startcenter",
                 "libreoffice7.0-startcenter",
                 "libreoffice7.1-startcenter",
+                "libreoffice7.2-startcenter",
                 "libreofficedev6.1-startcenter",
                 "org.libreoffice.LibreOffice-startcenter",
                 "org.libreoffice.LibreOffice.startcenter"
@@ -13872,6 +13881,7 @@
                 "libreoffice6.4-math",
                 "libreoffice7.0-math",
                 "libreoffice7.1-math",
+                "libreoffice7.2-math",
                 "libreofficedev6.1-math",
                 "org.libreoffice.LibreOffice-math",
                 "org.libreoffice.LibreOffice.math"
@@ -13883,7 +13893,8 @@
             "root": "libreoffice-template",
             "symlinks": [
                 "libreoffice3-template",
-                "libreoffice34-template"
+                "libreoffice34-template",
+                "libreoffice7.2-template"
             ]
         }
     },
@@ -13899,6 +13910,7 @@
                 "libreoffice6.4-writer",
                 "libreoffice7.0-writer",
                 "libreoffice7.1-writer",
+                "libreoffice7.2-writer",
                 "libreofficedev6.1-writer",
                 "org.libreoffice.LibreOffice-writer",
                 "org.libreoffice.LibreOffice.writer"
