@@ -11705,7 +11705,8 @@
         "linux": {
             "root": "icedove",
             "symlinks": [
-                "icedove-icon"
+                "icedove-icon",
+                "icedove-uxp"
             ]
         }
     },
@@ -11719,6 +11720,7 @@
             "root": "iceweasel",
             "symlinks": [
                 "iceweasel-icon"
+                "iceweasel-uxp"
             ]
         }
     },
