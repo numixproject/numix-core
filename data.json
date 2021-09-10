@@ -2896,6 +2896,7 @@
             "symlinks": [
                 "brave-bin",
                 "brave-browser",
+                "brave-desktop",
                 "com.brave.Browser"
             ]
         }
@@ -2904,7 +2905,8 @@
         "linux": {
             "root": "brave-dev",
             "symlinks": [
-                "brave-browser-dev"
+                "brave-browser-dev",
+                "brave-desktop-dev"
             ]
         }
     },
