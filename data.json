@@ -3982,7 +3982,9 @@
         "linux": {
             "root": "calibre",
             "symlinks": [
-                "com.calibre_ebook.calibre"
+                "calibre-gui"
+                "com.calibre_ebook.calibre",
+                "com.calibre_ebook.calibre_gui",
             ]
         }
     },
@@ -3990,17 +3992,8 @@
         "linux": {
             "root": "calibre-ebook-edit",
             "symlinks": [
-                "com.calibre_ebook.calibre.ebook_edit"
-            ]
-        }
-    },
-    "calibre-gui": {
-        "linux": {
-            "root": "calibre-gui",
-            "symlinks": [
-                "com.calibre_ebook.calibre.lrfviewer",
-                "FBReader",
-                "lrfviewer"
+                "com.calibre_ebook.calibre.ebook_edit",
+                "ebook-edit"
             ]
         }
     },
@@ -4008,7 +4001,10 @@
         "linux": {
             "root": "calibre-viewer",
             "symlinks": [
-                "com.calibre_ebook.calibre.ebook_viewer"
+                "com.calibre_ebook.calibre.ebook_viewer",
+                "com.calibre_ebook.calibre.lrfviewer",
+                "FBReader",
+                "lrfviewer"
             ]
         }
     },
