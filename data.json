@@ -1412,7 +1412,10 @@
     },
     "appimagepool": {
         "linux": {
-            "root": "appimagepool"
+            "root": "appimagepool",
+            "symlinks": [
+                "io.github.prateekmedia.appimagepool"
+            ]
         }
     },
     "appimagetool": {
@@ -15961,7 +15964,9 @@
         "linux": {
             "root": "netease-cloud-music",
             "symlinks": [
-                "com.netease.CloudMusic"
+                "com.github.gmg137.netease-cloud-music-gtk",
+                "com.netease.CloudMusic",
+                "netease-cloud-music-gtk"
             ]
         }
     },
@@ -24407,6 +24412,7 @@
                 "gpx-viewer",
                 "gpxsee",
                 "gpxviewer",
+                "nl.sarine.gpx-viewer",
                 "org.viking.Viking",
                 "qlandkartegt",
                 "QMapShack"
