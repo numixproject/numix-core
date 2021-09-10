@@ -6031,7 +6031,10 @@
     },
     "distributor-logo-hyperbola": {
         "linux": {
-            "root": "distributor-logo-hyperbola"
+            "root": "distributor-logo-hyperbola",
+            "symlinks": [
+                "start-here-hyperbola"
+            ]
         }
     },
     "distributor-logo-illumos": {
