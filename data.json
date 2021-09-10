@@ -6650,6 +6650,14 @@
             ]
         }
     },
+    "dot-matrix": {
+        "linux": {
+            "root": "dot-matrix",
+            "symlinks": [
+                "io.github.lainsce.DotMatrix"
+            ]
+        }
+    },
     "dota": {
         "linux": {
             "root": "dota",
@@ -11906,7 +11914,8 @@
             "root": "indicator-stickynotes",
             "symlinks": [
                 "com.github.lainsce.notejot",
-                "gjots2"
+                "gjots2",
+                "io.github.lainsce.Notejot"
             ]
         }
     },
@@ -17251,7 +17260,8 @@
         "linux": {
             "root": "palaura",
             "symlinks": [
-                "com.github.lainsce.palaura"
+                "com.github.lainsce.palaura",
+                "io.github.lainsce.Palaura"
             ]
         }
     },
@@ -19594,7 +19604,8 @@
         "linux": {
             "root": "quilter",
             "symlinks": [
-                "com.github.lainsce.quilter"
+                "com.github.lainsce.quilter",
+                "io.github.lainsce.Quilter"
             ]
         }
     },
