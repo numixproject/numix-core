@@ -8783,9 +8783,12 @@
         "linux": {
             "root": "gba",
             "symlinks": [
+                "bsnes",
+                "dev.bsnes.bsnes",
                 "gvbam",
                 "io.mgba.mGBA",
                 "mgba",
+                "sameboy",
                 "vbaexpress",
                 "VisualBoyAdvance-gtk-32x32"
             ]
