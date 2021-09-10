@@ -23123,6 +23123,14 @@
             ]
         }
     },
+    "thorium-reader": {
+        "linux": {
+            "root": "thorium-reader",
+            "symlinks": [
+                "thorium"
+            ]
+        }
+    },
     "three-depict": {
         "linux": {
             "root": "3Depict",
