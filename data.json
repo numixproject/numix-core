@@ -1643,6 +1643,14 @@
             ]
         }
     },
+    "ares": {
+        "linux": {
+            "root": "ares",
+            "symlinks": [
+                "dev.ares.ares"
+            ]
+        }
+    },
     "argouml2": {
         "linux": {
             "root": "argouml2",
