@@ -20491,6 +20491,14 @@
             "root": "samrewritten"
         }
     },
+    "sandbox": {
+        "linux": {
+            "root": "sandbox",
+            "symlinks": [
+                "com.github.jms55.Sandbox"
+            ]
+        }
+    },
     "sasm": {
         "linux": {
             "root": "sasm",
