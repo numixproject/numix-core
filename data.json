@@ -10455,7 +10455,8 @@
         "linux": {
             "root": "gpgfrontend",
             "symlinks": [
-                "gpgfrontend-appimage-icon"
+                "gpgfrontend-appimage-icon",
+                "pub.gpgfrontend.gpgfrontend"
             ]
         }
     },
