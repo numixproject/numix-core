@@ -5383,8 +5383,10 @@
         "linux": {
             "root": "dcplusplus",
             "symlinks": [
+                "com.pypyrev.linuxdcpp"
                 "dc++",
-                "DC++"
+                "DC++",
+                "linuxdcpp"
             ]
         }
     },
@@ -14084,14 +14086,6 @@
             "root": "linssid",
             "symlinks": [
                 "LinSSID"
-            ]
-        }
-    },
-    "linuxdcpp": {
-        "linux": {
-            "root": "linuxdcpp",
-            "symlinks": [
-                "com.pypyrev.linuxdcpp"
             ]
         }
     },
