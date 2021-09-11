@@ -10551,9 +10551,7 @@
         "linux": {
             "root": "gradio",
             "symlinks": [
-                "de.haeckerfelix.gradio",
-                "de.haeckerfelix.Shortwave",
-                "org.gnome.Shortwave"
+                "de.haeckerfelix.gradio"
             ]
         }
     },
@@ -21015,6 +21013,15 @@
     "sheepshaver": {
         "linux": {
             "root": "SheepShaver"
+        }
+    },
+    "shortwave": {
+        "linux": {
+            "root": "shortwave",
+            "symlinks": [
+                "de.haeckerfelix.Shortwave",
+                "org.gnome.Shortwave"
+            ]
         }
     },
     "shotcut": {
