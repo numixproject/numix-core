@@ -20117,6 +20117,14 @@
             ]
         }
     },
+    "revolt-chat": {
+        "linux": {
+            "root": "revolt-chat",
+            "symlinks": [
+                "revolt-desktop"
+            ]
+        }
+    },
     "rezonator": {
         "linux": {
             "root": "rezonator",
