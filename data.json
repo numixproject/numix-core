@@ -10573,7 +10573,7 @@
         "linux": {
             "root": "gradio",
             "symlinks": [
-                "com.github.alexkdeveloper.radio"
+                "com.github.alexkdeveloper.radio",
                 "de.haeckerfelix.gradio"
             ]
         }
@@ -12248,6 +12248,11 @@
                 "JalbumApp48",
                 "kipi-jalbum"
             ]
+        }
+    },
+    "jamesdsp": {
+        "linux": {
+            "root": "jamesdsp"
         }
     },
     "jammr": {
