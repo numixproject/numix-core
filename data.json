@@ -358,11 +358,10 @@
             "root": "accessories-document-viewer",
             "symlinks": [
                 "atril",
-                "evince",
-                "gnome-pdf",
                 "graphics-viewer-document",
-                "org.gnome.Evince",
-                "org.gnome.Evince-previewer",
+                "maui-shelf",
+                "org.maui.shelf",
+                "shelf"
                 "x-pdf",
                 "xpdf",
                 "xpdf9"
@@ -7531,6 +7530,16 @@
     "eversion": {
         "linux": {
             "root": "steam_icon_33680"
+        }
+    },
+    "evince": {
+        "linux": {
+            "root": "evince",
+            "symlinks": [
+                "gnome-pdf",
+                "org.gnome.Evince",
+                "org.gnome.Evince-previewer",
+            ]
         }
     },
     "evolution": {
@@ -14744,15 +14753,6 @@
             "symlinks": [
                 "nota",
                 "org.kde.nota"
-            ]
-        }
-    },
-    "maui-shelf": {
-        "linux": {
-            "root": "maui-shelf",
-            "symlinks": [
-                "org.maui.shelf",
-                "shelf"
             ]
         }
     },
