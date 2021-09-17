@@ -9155,7 +9155,10 @@
     },
     "giggle": {
         "linux": {
-            "root": "giggle"
+            "root": "giggle",
+            "symlinks": [
+                "org.gnome.Giggle"
+            ]
         }
     },
     "gimagereader": {
