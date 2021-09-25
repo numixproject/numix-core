@@ -29,10 +29,8 @@ jobs:
       - name: Check mdl compliance
         uses: articulate/actions-markdownlint@v1.1.0
         with:
-          # Includes some specific rules to ignore
           config: .github/workflows/markdownlint-config.json
-          # Try to fix basic errors
-          fix: true
+          ignore: LICENSE
 
       - name: Check .editorconfig compliance
         uses: editorconfig-checker/action-editorconfig-checker@v1
