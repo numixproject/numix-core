@@ -66,3 +66,4 @@ jobs:
           python3 ./tests/icons_entry.py
           python3 ./tests/ordered_db.py
           python3 ./tests/icon_cache.py
+          python3 ./tests/duplicates.py
