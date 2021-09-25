@@ -26,7 +26,7 @@ except (ImportError, AttributeError, ValueError):
     # Assigns true if Inkscape found, false otherwise
     use_inkscape = not call(["which", "inkscape"], stdout=PIPE, stderr=PIPE)
     if not use_inkscape:
-        exit("Can't load cariosvg nor inkscape")
+        exit("Can't load CairoSVG nor Inkscape")
 
 
 # Loading the JSON data file
@@ -80,14 +80,15 @@ def mkdir(directory):
 
 def convert_svg2png(infile, outfile, w, h):
     """
-    Converts svg files to png using Cairosvg or Inkscape
+    Converts svg files to png using CairoSVG or Inkscape
     @file_path : String; the svg file absolute path
     @dest_path : String; the png file absolute path
     """
     if use_inkscape:
-        cmd = Popen(["inkscape", "-z", infile, "-o", outfile,
-                     "-w", str(w), "-h", str(h)],
-                    stdout=PIPE, stderr=PIPE)
+        cmd = Popen([
+            "inkscape", "-z", infile, "-o", outfile,
+            "-w", str(w), "-h", str(h)
+        ], stdout=PIPE, stderr=PIPE)
         cmd.communicate()
     else:
         handle = Rsvg.Handle()
