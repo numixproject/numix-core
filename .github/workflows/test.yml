@@ -26,6 +26,14 @@ jobs:
       - name: Check PEP8 compliance
         run: find . -name "*.py" | xargs pycodestyle $1
 
+      - name: Check mdl compliance
+        uses: articulate/actions-markdownlint@v1.1.0
+        with:
+          # Includes some specific rules to ignore
+          config: .github/workflows/markdownlint-config.json
+          # Try to fix basic errors
+          fix: true
+
   # Checks relating to the database
   build:
     runs-on: ubuntu-latest
@@ -46,7 +54,7 @@ jobs:
           key: ${{ hashFiles('./.github/workflow-assets/test-requirements.txt') }}
 
       - name: Install dependencies
-        run: |
+        run: |  # Note python3-pip and python3-gi should already be installed on Ubuntu
           sudo apt-get install -y python3-pip python3-gi gir1.2-gtk-3.0 libgtk-3-dev libgirepository1.0-dev
           pip3 install -r ./.github/workflow-assets/test-requirements.txt
 
