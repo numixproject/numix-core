@@ -7,17 +7,40 @@ on:
     branches: [master]
 
 jobs:
-  build:
+  # Checks relating to the linting of files
+  lint:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
-      - name: Set up Python 3.6
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
         uses: actions/setup-python@v2
         with:
           python-version: 3.6
 
-      - uses: actions/cache@v2
+      - name: Install dependencies
+        run: pip3 install pycodestyle
+
+      - name: Check PEP8 compliance
+        run: find . -name "*.py" | xargs pycodestyle $1
+
+  # Checks relating to the database
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.6
+
+      - name: Cache dependencies
+        uses: actions/cache@v2
         with:
           path: ~/.cache/pip
           key: ${{ hashFiles('./.github/workflow-assets/test-requirements.txt') }}
@@ -28,9 +51,8 @@ jobs:
           sudo apt-get install -y python3-pip python3-gi gir1.2-gtk-3.0 libgtk-3-dev libgirepository1.0-dev
           pip3 install --upgrade --upgrade-strategy eager -r ./.github/workflow-assets/test-requirements.txt
 
-      - name: Test
+      - name: Check database
         run: |
-          sh ./tests/pycodestyle.sh
           python3 ./tests/schema.py
           python3 ./tests/db_entry.py
           python3 ./tests/icons_entry.py
