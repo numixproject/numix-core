@@ -34,6 +34,9 @@ jobs:
           # Try to fix basic errors
           fix: true
 
+      - name: Check .editorconfig compliance
+        uses: editorconfig-checker/action-editorconfig-checker@v1
+
   # Checks relating to the database
   build:
     runs-on: ubuntu-latest
