@@ -411,7 +411,6 @@
             "root": "accessories-painting",
             "symlinks": [
                 "applications-graphics",
-                "azpainter",
                 "graphics-image-editor",
                 "kolourpaint",
                 "org.kde.kolourpaint",
@@ -463,7 +462,6 @@
         "linux": {
             "root": "accessories-thesaurus",
             "symlinks": [
-                "accessories-thesaurus",
                 "clipit-trayicon",
                 "glippy",
                 "ptask",
@@ -1442,10 +1440,8 @@
                 "app",
                 "applications-accessories",
                 "applications-other",
-                "cs-default-applications",
                 "gnome-desktop-item-edit",
                 "gnome-run",
-                "gnome-settings-default-applications",
                 "preferences-desktop-launch-feedback"
             ]
         }
@@ -5543,7 +5539,6 @@
         "linux": {
             "root": "desktop",
             "symlinks": [
-                "cs-desktop",
                 "deepin-show-desktop",
                 "dock",
                 "dockbarx",
@@ -9772,8 +9767,7 @@
         "linux": {
             "root": "gnome-multi-writer",
             "symlinks": [
-                "org.gnome.MultiWriter",
-                "popsicle"
+                "org.gnome.MultiWriter"
             ]
         }
     },
@@ -9916,7 +9910,10 @@
     },
     "gnome-settings-default-applications": {
         "linux": {
-            "root": "gnome-settings-default-applications"
+            "root": "gnome-settings-default-applications",
+            "symlinks": [
+                "cs-default-applications"
+            ]
         }
     },
     "gnome-social": {
@@ -12114,8 +12111,6 @@
                 "gnome-balsa2",
                 "imap",
                 "internet_mail",
-                "kmail2",
-                "kmailcvt",
                 "mail-generic",
                 "mail_generic",
                 "mailer",
@@ -12222,7 +12217,6 @@
             "root": "itunes",
             "symlinks": [
                 "atunes",
-                "freac",
                 "minitunes",
                 "tunesview"
             ]
@@ -13196,6 +13190,7 @@
             "root": "kmail",
             "symlinks": [
                 "kmail2",
+                "kmailcvt",
                 "org.kde.kmail",
                 "org.kde.kmail2"
             ]
@@ -15456,8 +15451,7 @@
         "linux": {
             "root": "mplayer",
             "symlinks": [
-                "kmplayer",
-                "kylin-video"
+                "kmplayer"
             ]
         }
     },
@@ -15806,7 +15800,7 @@
         "linux": {
             "root": "musictube",
             "symlinks": [
-                "org.tordini.flavio.Minitube"
+                "org.tordini.flavio.Musictube"
             ]
         }
     },
@@ -17627,11 +17621,9 @@
         "linux": {
             "root": "pdfmod",
             "symlinks": [
-                "com.github.muriloventuroso.pdftricks",
                 "flpsed",
                 "master-pdf-editor",
-                "net.codeindustry.MasterPDFEditor",
-                "pdftricks"
+                "net.codeindustry.MasterPDFEditor"
             ]
         }
     },
@@ -17642,11 +17634,7 @@
     },
     "pdfshuffler": {
         "linux": {
-            "root": "pdfshuffler",
-            "symlinks": [
-                "com.github.jeromerobert.pdfarranger",
-                "pdfarranger"
-            ]
+            "root": "pdfshuffler"
         }
     },
     "pdfslicer": {
@@ -20744,7 +20732,6 @@
         "linux": {
             "root": "screenlets",
             "symlinks": [
-                "com.github.lainsce.notejot",
                 "cs-desklets",
                 "footnote"
             ]
@@ -21030,7 +21017,6 @@
         "linux": {
             "root": "setzer",
             "symlinks": [
-                "com.github.manexim.typewriter",
                 "org.cvfosammmm.Setzer"
             ]
         }
@@ -21570,7 +21556,6 @@
             "root": "softwarecenter-debian",
             "symlinks": [
                 "com.github.donadigo.eddy",
-                "deepin-deb-installer",
                 "eddy"
             ]
         }
@@ -23127,7 +23112,6 @@
                 "org.xfce.mousepad",
                 "oxygen",
                 "scratch-text-editor",
-                "textadept",
                 "wine-notepad",
                 "xed",
                 "xfce-edit"
@@ -24974,10 +24958,7 @@
     },
     "waveform": {
         "linux": {
-            "root": "steam_icon_204180",
-            "symlinks": [
-                "freedv"
-            ]
+            "root": "steam_icon_204180"
         }
     },
     "wayland": {
