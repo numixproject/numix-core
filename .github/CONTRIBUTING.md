@@ -49,7 +49,7 @@ The `data.json` file contains all the information needed for linking the icons t
         "osx": [
             "icon-name",
             "alternative-name"
-        ],,
+        ],
         "tags": ["tag1", "tag2", "tag3"]
     }
 }
