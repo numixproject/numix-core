@@ -18,8 +18,8 @@ assignees: ''
       - numix-icon-theme-circle: https://github.com/numixproject/numix-icon-theme-circle
       - numix-icon-theme-square: https://github.com/numixproject/numix-icon-theme-square
 
-    For issues with core use the Core Bug Report issue template.  
- -->
+    For issues with core use the Core Bug Report issue template.
+-->
 
 ## Info
 <!-- Give the operating system / Linux distro on which you're experiencing the problem. -->

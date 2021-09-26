@@ -15,8 +15,8 @@ assignees: ''
       - numix-icon-theme-circle: https://github.com/numixproject/numix-icon-theme-circle
       - numix-icon-theme-square: https://github.com/numixproject/numix-icon-theme-square
 
-    For issues with icons please use the relevant issue template.  
- -->
+    For issues with icons please use the relevant issue template.
+-->
 
 ## Info
 <!-- Give the operating system / Linux distro on which you're experiencing the problem. -->
@@ -30,7 +30,6 @@ PROBLEM_HERE
 
 ## To Reproduce
 <!-- If applicable, let us know what steps we should take to reproduce the error. -->
-
 1. Do this,
 2. Then that,
 3. ???
