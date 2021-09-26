@@ -55,12 +55,13 @@ for key, value in data.items():
 
     if value.get("linux"):
         symlinks = value["linux"].get("symlinks")
-        if not symlinks:
-            continue
-        elif sort_errors(symlinks, "Linux symlink", key):
+        if symlinks and sort_errors(symlinks, "Linux symlink", key):
             has_errors = True
 
     if value.get("osx") and sort_errors(value["osx"], "OSX icon"):
+        has_errors = True
+
+    if value.get("tags") and sort_errors(value["tags"], "Icon tag"):
         has_errors = True
 
 if not has_errors:
