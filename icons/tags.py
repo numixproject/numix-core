@@ -18,6 +18,7 @@ from shutil import copy2, rmtree
 # Used for viewing all the icon files across all themes that have a
 # certain tag. Can be used either for related icons (e.g. ms-office,
 # icons using the same design element (e.g. world-baseplate), etc.
+# More info at: https://github.com/numixproject/numix-core/wiki/Tags
 
 
 def mkdir(directory):

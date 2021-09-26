@@ -45,23 +45,34 @@ The `data.json` file contains all the information needed for linking the icons t
                 "alternative-entry",
                 "org.other.Entry"
             ]
-        }
+        },
+        "osx": [
+            "icon-name",
+            "alternative-name"
+        ],
+        "tags": ["tag1", "tag2", "tag3"]
     }
 }
 ```
 
-* The `icon-entry` is the name of the SVG file and should be [meaningfully named](https://github.com/numixproject/numix-core/blob/master/data.json#L7529-L7533) using [dash-case](https://en.wikipedia.org/wiki/Naming_convention_(programming)#Delimiter-separated_words).
-* The `android`  part is the list of components the icon should use, which can be gathered from the "ComponentInfo" [here](http://activities.tundem.com/).
-* The `linux` part holds the names from the `Icon=*` line of `*.desktop` files
-  * the `root` holds the primary entry
-  * the `symlinks` holds alternative names
+* `icon-entry` is the name of the SVG file and should be [meaningfully named](https://github.com/numixproject/numix-core/blob/master/data.json#L10-L17) using [dash-case](https://en.wikipedia.org/wiki/Naming_convention_(programming)#Delimiter-separated_words).
+* `android` is a list of components the icon should use, which can be gathered from the "ComponentInfo" [here](http://activities.tundem.com/).
+* `linux` holds the names from the `Icon=*` line of `*.desktop` files
+  * `root` holds the primary entry
+  * `symlinks` holds alternative names
+* `osx` is a list of icon names to export for the macOS theme.
+* `tags` is a list of [common design elements](../Icons) used by this SVG.
 
-If you're making changes to this file in a pull request Travis will run a validation check to make sure you haven't made any errors, but please try and check before pushing to make review as easy as possible.
+When editing this file for a pull request GitHub Actions will run a validation check to make sure you haven't made any errors, but please try and check before pushing to make review as easy as possible.
 
 ## Code
 
-The scripts used for theme building and validation are written in Python. Similarly to the data file, Travis will run a validation check using [pycodestyle](https://github.com/pycqa/pycodestyle) to make sure the coding style you've used is consistent with that used in the project. If you are working on this part of the project it's recommended that you check your changes using a pycodestyle linter before creating a pull request.
+The scripts used for theme building and validation are written in Python. Similarly to the data file, GitHub Actions will run a validation check using [flake8](https://flake8.pycqa.org) to make sure the coding style you've used is consistent with that used in the project. If you are working on this part of the project it's recommended that you check your changes using flake8 before creating a pull request.
 
 ### Indentation
 
-Throughout this project we use 4 spaces for JSON and Python files, and generally use 1 space for SVG. If you want to diverge, do it locally (e.g. using [git filters](https://stackoverflow.com/questions/2316677/can-git-automatically-switch-between-spaces-and-tabs#2318063)).
+Throughout this project we use 4 spaces for JSON and Python files, and generally use 1 space for SVG. The easiest way to do this is to use the [editorconfig](https://editorconfig.org) included [here](../.editorconfig). If you want to diverge, do it locally (e.g. using [git filters](https://stackoverflow.com/questions/2316677/can-git-automatically-switch-between-spaces-and-tabs#2318063)).
+
+## Docs
+
+Documentation is all written in markdown and should be [markdownlint](https://github.com/DavidAnson/markdownlint) compliant.
