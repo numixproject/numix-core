@@ -21,10 +21,10 @@ jobs:
           python-version: 3.6
 
       - name: Install dependencies
-        run: pip3 install pycodestyle
+        run: pip3 install flake8
 
       - name: Check PEP8 compliance
-        run: find . -name "*.py" | xargs pycodestyle $1
+        run: find . -name "*.py" | xargs flake8 $1
 
       - name: Check mdl compliance
         uses: articulate/actions-markdownlint@v1.1.0
