@@ -29,7 +29,8 @@ def mkdir(directory):
 # Parse arguments
 parser = ArgumentParser(prog="Core Tag Viewer")
 parser.add_argument("--tag", "-t", help="Tag you want to view.")
-parser.add_argument("--clean", "-c", action="store_true", help="Delete all tag outputs.")
+parser.add_argument("--clean", "-c", action="store_true",
+                    help="Delete all tag outputs.")
 args = parser.parse_args()
 
 # Cleanup first if `--clean` passed
@@ -70,7 +71,7 @@ for icon_name, icon in icons.items():
             source = "{0}/48/{1}.svg".format(theme, icon_name)
             if not path.exists(source):
                 continue
-            # Copy icons for tagged keys into output directory 
+            # Copy icons for tagged keys into output directory
             copy2(source, "tag.{0}/{1}".format(tag, theme))
 
 # Clean Up

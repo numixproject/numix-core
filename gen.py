@@ -41,7 +41,8 @@ except FileNotFoundError:
 parser = ArgumentParser(prog="Numix-core")
 
 try:
-    theme, themes = "", listdir("icons")
+    # Exclude files and tag directories from the list of themes
+    themes = [dir for dir in listdir("icons") if "." not in dir]
 except FileNotFoundError:
     exit("No icons folder found. Please reclone and try again.")
 parser.add_argument("--theme", "-t",
