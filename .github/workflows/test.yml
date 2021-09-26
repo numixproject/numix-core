@@ -7,32 +7,55 @@ on:
     branches: [master]
 
 jobs:
-  build:
+  # Checks relating to the linting of files
+  lint:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
-      - name: Set up Python 3.6
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
         uses: actions/setup-python@v2
         with:
           python-version: 3.6
 
-      - uses: actions/cache@v2
+      - name: Install dependencies
+        run: pip3 install flake8
+
+      - name: Check PEP8 compliance
+        run: find . -name "*.py" | xargs flake8 $1
+
+      - name: Check mdl compliance
+        uses: articulate/actions-markdownlint@v1.1.0
         with:
-          path: ~/.cache/pip
-          key: ${{ hashFiles('./.github/workflow-assets/test-requirements.txt') }}
+          config: .github/workflows/markdownlint-config.json
+          ignore: LICENSE
+
+      - name: Check .editorconfig compliance
+        uses: editorconfig-checker/action-editorconfig-checker@v1
+
+  # Checks relating to the database
+  check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.6
 
       - name: Install dependencies
-        run: |
-          sudo apt-get -y update
-          sudo apt-get install -y python3-pip python3-gi gir1.2-gtk-3.0 libgtk-3-dev libgirepository1.0-dev
-          pip3 install --upgrade --upgrade-strategy eager -r ./.github/workflow-assets/test-requirements.txt
+        run: pip3 install jsonschema
 
-      - name: Test
+      - name: Check database
         run: |
-          sh ./tests/pycodestyle.sh
           python3 ./tests/schema.py
           python3 ./tests/db_entry.py
           python3 ./tests/icons_entry.py
           python3 ./tests/ordered_db.py
           python3 ./tests/icon_cache.py
+          python3 ./tests/duplicates.py
