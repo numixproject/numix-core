@@ -36,7 +36,7 @@ jobs:
         uses: editorconfig-checker/action-editorconfig-checker@v1
 
   # Checks relating to the database
-  build:
+  check:
     runs-on: ubuntu-latest
 
     steps:
@@ -48,16 +48,8 @@ jobs:
         with:
           python-version: 3.6
 
-      - name: Cache dependencies
-        uses: actions/cache@v2
-        with:
-          path: ~/.cache/pip
-          key: ${{ hashFiles('./.github/workflow-assets/test-requirements.txt') }}
-
       - name: Install dependencies
-        run: |  # Note python3-pip and python3-gi should already be installed on Ubuntu
-          sudo apt-get install -y python3-pip python3-gi gir1.2-gtk-3.0 libgtk-3-dev libgirepository1.0-dev
-          pip3 install -r ./.github/workflow-assets/test-requirements.txt
+        run: pip3 install jsonschema
 
       - name: Check database
         run: |
