@@ -13,11 +13,11 @@ from glob import glob
 from json import load
 from os import path
 
-from utils import error, THEMES
+from utils import error, success, THEMES, DB_FILE, ICONS_DIR
 
-ABS_PATH = path.dirname(path.abspath(__file__))
-DB_FILE = path.join(ABS_PATH, "../data.json")
-ICONS_DIR = path.join(ABS_PATH, "../icons/")
+# Test to check whether every icon in the themes which core support have
+# associed entries in the data.json file Success signified by exit code.
+
 
 with open(DB_FILE, 'r') as db_obj:
     entries = load(db_obj).keys()
@@ -34,5 +34,8 @@ for theme in THEMES:
         reported.append(icon_name)
         has_errors = True
         error("'{}' doesn't have an entry in the database.".format(icon_name))
+
+if not has_errors:
+    success("Every icon has a database entry")
 
 exit(has_errors)

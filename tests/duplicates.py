@@ -10,13 +10,12 @@ If not, see <http://www.gnu.org/licenses/>.
 """
 
 from json import load
-from os import path
 
-from utils import error
+from utils import error, success, DB_FILE
 
+# Test which checks for duplicates across all the Linux root icons
+# and symlinks. Success signified by exit code.
 
-ABS_PATH = path.dirname(path.abspath(__file__))
-DB_FILE = path.join(ABS_PATH, "../data.json")
 
 with open(DB_FILE, 'r') as db_obj:
     data = load(db_obj)
@@ -40,10 +39,12 @@ for name in linux_names:
     if linux_names.count(name) > 1:
         linux_dupes[name] = linux_names.count(name)
 
-if len(linux_names) > 0:
+if len(linux_dupes) > 0:
     has_linux_dupes = True
     error("Found the following Linux icon names duplicated:")
     for dupe in sorted(linux_dupes.keys()):
         error("- {} ({} times)".format(dupe, linux_dupes[dupe]))
+else:
+    success("No database duplicates")
 
 exit(has_linux_dupes)

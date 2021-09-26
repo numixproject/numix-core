@@ -10,13 +10,21 @@ If not, see <http://www.gnu.org/licenses/>.
 """
 
 from json import load
-from os import path
 
-from utils import error, space_check
+from utils import error, success, DB_FILE
+
+# Test which checks whether the Linux icon cache would be valid for
+# the given data.json file. Success signified by exit code.
 
 
-ABS_PATH = path.dirname(path.abspath(__file__))
-DB_FILE = path.join(ABS_PATH, "../data.json")
+def space_check(string):
+    """Checks if a string contains an empty space."""
+    if " " in string:
+        error("'{}' contains an empty space".format(string))
+        return True
+    else:
+        return False
+
 
 with open(DB_FILE, 'r') as db_obj:
     data = load(db_obj)
@@ -27,13 +35,18 @@ for key, value in data.items():
         continue
 
     icon = data[key]["linux"]
-    has_errors = space_check(icon["root"])
+    if space_check(icon["root"]):
+        has_errors = True
 
     if not icon.get("symlinks"):
         continue
 
     symlinks = icon["symlinks"]
     for symlink in symlinks:
-        has_errors = space_check(symlink)
+        if space_check(symlink):
+            has_errors = True
+
+if not has_errors:
+    success("Icon cache is valid")
 
 exit(has_errors)

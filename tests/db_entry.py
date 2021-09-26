@@ -12,11 +12,11 @@ If not, see <http://www.gnu.org/licenses/>.
 from json import load
 from os import path
 
-from utils import error, THEMES
+from utils import error, success, DB_FILE, ICONS_DIR, THEMES
 
-ABS_PATH = path.dirname(path.abspath(__file__))
-DB_FILE = path.join(ABS_PATH, "../data.json")
-ICONS_DIR = path.join(ABS_PATH, "../icons/")
+# Test which checks whether every key in data.json has an icon in
+# the themes which Core supports. Success signified by exit code.
+
 
 with open(DB_FILE, 'r') as db_obj:
     data = load(db_obj)
@@ -30,5 +30,8 @@ for entry in data:
 
         has_errors = True
         error("'{}' doesn't have an icon in the {} theme".format(entry, theme))
+
+if not has_errors:
+    success("Every database entry has an icon")
 
 exit(has_errors)

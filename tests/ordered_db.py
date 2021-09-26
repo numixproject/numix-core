@@ -11,30 +11,59 @@ If not, see <http://www.gnu.org/licenses/>.
 
 from collections import OrderedDict
 from json import load
-from os import path
 
-from utils import error, sort_check
+from utils import error, success, DB_FILE
+
+# Test which checks whether the data.json file is sorted by key and
+# any lists within those keys. Success signified by exit code.
 
 
-ABS_PATH = path.dirname(path.abspath(__file__))
-DB_FILE = path.realpath(path.join(ABS_PATH, "../data.json"))
+def sort_errors(list, stype, root=""):
+    """
+    Checks if a list of 'stype' strings has sorting errors, case insensitive.
+    Takes as optional string 'root' as a root value for use with sublists.
+    """
+    has_errors = False
+    reference = sorted(list, key=lambda item: item.lower())
+
+    for i in range(len(list)):
+        if list[i] == reference[i]:
+            continue
+
+        correct_index = reference.index(list[i])
+        has_errors = True
+
+        if root == "":
+            error_msg = "{} '{}' not correctly ordred"
+        else:
+            error_msg = "{} '{}' of '{}' not correctly ordred"
+
+        error(error_msg.format(stype, list[i], root))
+        print("Should be placed at {} instead of {}".format(correct_index, i))
+
+    return has_errors
+
 
 with open(DB_FILE, 'r') as db_obj:
     data = load(db_obj, object_pairs_hook=OrderedDict)
 
-has_errors = sort_check(list(data.keys()), "Database entry")
+has_errors = sort_errors(list(data.keys()), "Database entry")
 
 for key, value in data.items():
-    if value.get("android"):
-        has_errors = sort_check(value["android"], "Android icon")
+    if value.get("android") and sort_errors(value["android"], "Android icon"):
+        has_errors = True
 
     if value.get("linux"):
         symlinks = value["linux"].get("symlinks")
         if not symlinks:
             continue
-        has_errors = sort_check(symlinks, "Linux symlink", key)
+        elif sort_errors(symlinks, "Linux symlink", key):
+            has_errors = True
 
-    if value.get("osx"):
-        has_errors = sort_check(value["osx"], "OSX icon")
+    if value.get("osx") and sort_errors(value["osx"], "OSX icon"):
+        has_errors = True
+
+if not has_errors:
+    success("Database is properly sorted")
 
 exit(has_errors)

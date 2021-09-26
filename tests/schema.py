@@ -12,14 +12,12 @@ If not, see <http://www.gnu.org/licenses/>.
 import json
 from jsonschema import validate, ValidationError
 from jsonschema.exceptions import SchemaError as SchemaError
-from os import path
 
-from utils import error, success
+from utils import error, success, DB_FILE, SCHEMA_FILE
 
+# Test which checks whether data.json matches with schema.json using
+# jsonschema. Success is signified by exit code.
 
-ABS_PATH = path.dirname(path.abspath(__file__))
-DB_FILE = path.join(ABS_PATH, "../data.json")
-SCHEMA_FILE = path.join(ABS_PATH, 'schema.json')
 
 with open(SCHEMA_FILE, 'r') as schema_obj:
     SCHEMA = json.load(schema_obj)
@@ -28,10 +26,10 @@ has_errors = False
 with open(DB_FILE, 'r') as db_obj:
     try:
         validate(json.load(db_obj), SCHEMA)
-    except (ValidationError, ValueError, SchemaError) as error:
+    except (ValidationError, ValueError, SchemaError) as thrown:
         has_errors = True
         error("Invalid database")
-        error("{}".format(error))
+        error("{}".format(thrown))
     else:
         success("The database is valid")
 
