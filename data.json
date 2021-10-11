@@ -1997,6 +1997,14 @@
             "root": "audiobook"
         }
     },
+    "audiosharing": {
+        "linux": {
+            "root": "audiosharing",
+            "symlinks": [
+                "de.haeckerfelix.AudioSharing"
+            ]
+        }
+    },
     "audiosurf-2": {
         "linux": {
             "root": "steam_icon_235800",
