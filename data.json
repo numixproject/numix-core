@@ -11265,7 +11265,11 @@
     },
     "harmony": {
         "linux": {
-            "root": "harmony"
+            "root": "harmony",
+            "symlinks": [
+                "audok",
+                "com.github.kalibari.audok"
+            ]
         }
     },
     "haroopad": {
