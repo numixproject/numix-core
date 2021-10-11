@@ -15872,7 +15872,11 @@
     },
     "mynotes": {
         "linux": {
-            "root": "mynotes"
+            "root": "mynotes",
+            "symlinks": [
+                "com.github.flxzt.rnote",
+                "rnote"
+            ]
         }
     },
     "mynotex": {
