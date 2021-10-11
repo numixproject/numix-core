@@ -26396,6 +26396,14 @@
             "root": "steam_icon_223830"
         }
     },
+    "xemu": {
+        "linux": {
+            "root": "xemu",
+            "symlinks": [
+                "app.xemu.xemu"
+            ]
+        }
+    },
     "xfce4-appfinder": {
         "linux": {
             "root": "xfce4-appfinder",
