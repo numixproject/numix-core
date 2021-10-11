@@ -9377,6 +9377,14 @@
             ]
         }
     },
+    "glyphtracer": {
+        "linux": {
+            "root": "glyphtracer",
+            "symlinks": [
+                "com.github.jpakkane.glyphtracer"
+            ]
+        }
+    },
     "gmail": {
         "android": [
             "com.google.android.gm/com.google.android.gm.ConversationListActivityGmail",
