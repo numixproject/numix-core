@@ -17918,7 +17918,11 @@
     },
     "phototonic": {
         "linux": {
-            "root": "phototonic"
+            "root": "phototonic",
+            "symlinks": [
+                "org.libvips.vipsdisp",
+                "vipsdisp"
+            ]
         }
     },
     "phpstorm": {
