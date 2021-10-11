@@ -22944,6 +22944,15 @@
             ]
         }
     },
+    "telesculptor": {
+        "linux": {
+            "root": "telesculptor",
+            "symlinks": [
+                "com.github.kitware.telesculptor",
+                "org.telesculptor.TeleSculptor"
+            ]
+        }
+    },
     "telyngtk": {
         "linux": {
             "root": "telyngtk",
