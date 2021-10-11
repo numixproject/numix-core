@@ -10702,6 +10702,15 @@
             ]
         }
     },
+    "graviton": {
+        "linux": {
+            "root": "graviton",
+            "symlinks": [
+                "graviton-app",
+                "graviton-code-editor"
+            ]
+        }
+    },
     "greed-corp": {
         "linux": {
             "root": "GreedCorp",
