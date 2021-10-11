@@ -3988,7 +3988,10 @@
     },
     "calf": {
         "linux": {
-            "root": "calf"
+            "root": "calf",
+            "symlinks": [
+                "org.freedesktop.LinuxAudio.Plugins.Calf"
+            ]
         }
     },
     "calibre": {
@@ -8246,7 +8249,10 @@
     },
     "flutube": {
         "linux": {
-            "root": "flutube"
+            "root": "flutube",
+            "symlinks": [
+                "io.github.prateekmedia.flutube"
+            ]
         }
     },
     "fluxgui": {
@@ -26392,17 +26398,17 @@
             "root": "xdman"
         }
     },
-    "xenonauts": {
-        "linux": {
-            "root": "steam_icon_223830"
-        }
-    },
     "xemu": {
         "linux": {
             "root": "xemu",
             "symlinks": [
                 "app.xemu.xemu"
             ]
+        }
+    },
+    "xenonauts": {
+        "linux": {
+            "root": "steam_icon_223830"
         }
     },
     "xfce4-appfinder": {
