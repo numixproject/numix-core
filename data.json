@@ -1785,6 +1785,14 @@
             ]
         }
     },
+    "ashpd-demo": {
+        "linux": {
+            "root": "ashpd-demo",
+            "symlinks": [
+                "com.belmoussaoui.ashpd.demo"
+            ]
+        }
+    },
     "assaultcube": {
         "linux": {
             "root": "assaultcube"
