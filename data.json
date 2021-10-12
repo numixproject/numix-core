@@ -8857,7 +8857,9 @@
         "linux": {
             "root": "gaupol",
             "symlinks": [
-                "io.otsaloma.gaupol"
+                "io.otsaloma.gaupol",
+                "org.kde.subtitlecomposer",
+                "subtitlecomposer"
             ]
         }
     },
@@ -13396,6 +13398,14 @@
             ]
         }
     },
+    "konbucase": {
+        "linux": {
+            "root": "konbucase",
+            "symlinks": [
+                "com.github.ryonakano.konbucase"
+            ]
+        }
+    },
     "kongdash": {
         "linux": {
             "root": "kongdash"
@@ -13428,14 +13438,6 @@
     "konstruktor": {
         "linux": {
             "root": "konstruktor"
-        }
-    },
-    "konbucase": {
-        "linux": {
-            "root": "konbucase",
-            "symlinks": [
-                "com.github.ryonakano.konbucase"
-            ]
         }
     },
     "kontena-lens": {
