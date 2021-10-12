@@ -25869,14 +25869,6 @@
             ]
         }
     },
-    "webfontkitgenerator": {
-        "linux": {
-            "root": "webfontkitgenerator",
-            "symlinks": [
-                "com.rafaelmardojai.WebfontKitGenerator"
-            ]
-        }
-    },
     "webby": {
         "linux": {
             "root": "webby",
@@ -25889,6 +25881,14 @@
     "webcamoid": {
         "linux": {
             "root": "webcamoid"
+        }
+    },
+    "webfontkitgenerator": {
+        "linux": {
+            "root": "webfontkitgenerator",
+            "symlinks": [
+                "com.rafaelmardojai.WebfontKitGenerator"
+            ]
         }
     },
     "webissues": {
