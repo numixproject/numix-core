@@ -13009,6 +13009,14 @@
             "root": "keybase"
         }
     },
+    "keysmith": {
+        "linux": {
+            "root": "keysmith",
+            "symlinks": [
+                "org.kde.keysmith"
+            ]
+        }
+    },
     "keyring-manager": {
         "android": [
             "com.agilebits.onepassword/com.agilebits.onepassword.activity.LoginActivity"
