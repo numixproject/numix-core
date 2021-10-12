@@ -9668,7 +9668,9 @@
         "linux": {
             "root": "gnome-design-symbolicpreview",
             "symlinks": [
-                "org.gnome.design.SymbolicPreview"
+                "org.gnome.design.SymbolicPreview",
+                "org.kde.SymbolEditor",
+                "symboleditor"
             ]
         }
     },
