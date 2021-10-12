@@ -9633,7 +9633,9 @@
         "linux": {
             "root": "gnome-design-contrast",
             "symlinks": [
-                "org.gnome.design.Contrast"
+                "kontrast",
+                "org.gnome.design.Contrast",
+                "org.kde.kontrast"
             ]
         }
     },
