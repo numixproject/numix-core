@@ -332,6 +332,7 @@
                 "io.elementary.camera",
                 "kamoso",
                 "org.kde.kamoso",
+                "org.kde.plasma.camera",
                 "org.maui.booth",
                 "org.postmarketos.Megapixels",
                 "qvidcap"
@@ -1538,6 +1539,7 @@
                 "apport-gtk2",
                 "bug",
                 "deepin-feedback",
+                "drkonqi",
                 "gnome-abrt",
                 "gnome-warning",
                 "io.elementary.feedback",
@@ -1546,6 +1548,7 @@
                 "mintreport",
                 "org.freedesktop.GnomeAbrt",
                 "org.freedesktop.problems.applet",
+                "org.kde.drkonqi",
                 "setroubleshoot_red_icon",
                 "system-error",
                 "tools-report-bug"
@@ -2348,6 +2351,7 @@
                 "notes",
                 "org.gnome.bijiben",
                 "org.gnome.Bijiben",
+                "org.kde.basket",
                 "org.kde.knotes",
                 "org.zim_wiki.Zim",
                 "org.zimwiki.Zim",
@@ -5243,7 +5247,8 @@
                 "envelope",
                 "keurocalc",
                 "mmex",
-                "money-manager-ex"
+                "money-manager-ex",
+                "org.kde.keurocalc"
             ]
         }
     },
@@ -5514,6 +5519,7 @@
                 "mintBackup",
                 "mintbackup",
                 "org.gnome.DejaDup",
+                "org.kde.kbackup",
                 "yast-snapper"
             ]
         }
@@ -5817,7 +5823,8 @@
         "linux": {
             "root": "disk-usage-analyzer",
             "symlinks": [
-                "kdf"
+                "kdf",
+                "org.kde.kdf"
             ]
         }
     },
@@ -8939,6 +8946,7 @@
         "linux": {
             "root": "gcleaner",
             "symlinks": [
+                "org.kde.sweeper",
                 "preferences-system-privacy-housekeeping",
                 "shredder",
                 "sweeper"
@@ -9723,9 +9731,11 @@
         "linux": {
             "root": "gnome-genius",
             "symlinks": [
+                "abakus",
                 "com.github.SubhadeepJasu.pebbles",
                 "com.github.subhadeepjasu.pebbles",
-                "org.gnome.Genius"
+                "org.gnome.Genius",
+                "org.kde.abakus"
             ]
         }
     },
@@ -9945,7 +9955,9 @@
         "linux": {
             "root": "gnome-recipes",
             "symlinks": [
-                "org.gnome.Recipes"
+                "kookbook",
+                "org.gnome.Recipes",
+                "org.kde.kookbook"
             ]
         }
     },
@@ -9965,7 +9977,9 @@
             "symlinks": [
                 "FcronQ",
                 "kapow",
-                "org.gottcode.Kapow"
+                "kcron",
+                "org.gottcode.Kapow",
+                "org.kde.kcron"
             ]
         }
     },
@@ -10881,7 +10895,9 @@
             "symlinks": [
                 "ddrescue-gui",
                 "diskmonitor",
-                "org.gnome.GSmartControl"
+                "org.gnome.GSmartControl",
+                "org.kde.plasma.disks",
+                "preferences-smart-status"
             ]
         }
     },
@@ -11314,7 +11330,9 @@
             "symlinks": [
                 "com.github.lpereira.HardInfo",
                 "com.github.lpereira.hardinfo",
-                "harddrake2"
+                "harddrake2",
+                "kinfocenter",
+                "org.kde.kinfocenter"
             ]
         }
     },
@@ -11410,7 +11428,10 @@
     },
     "heaptrack": {
         "linux": {
-            "root": "heaptrack"
+            "root": "heaptrack",
+            "symlinks": [
+                "org.kde.heaptrack"
+            ]
         }
     },
     "hearthstone": {
@@ -11469,6 +11490,7 @@
                 "khelpcenter",
                 "kylin-user-guide",
                 "org.gnome.Yelp",
+                "org.kde.Help",
                 "stock_help-agent",
                 "susehelpcenter",
                 "system-help",
@@ -12126,7 +12148,8 @@
         "linux": {
             "root": "input-tablet",
             "symlinks": [
-                "cs-tablet"
+                "cs-tablet",
+                "preferences-desktop-tablet"
             ]
         }
     },
@@ -12897,7 +12920,10 @@
     },
     "kdesvn": {
         "linux": {
-            "root": "kdesvn"
+            "root": "kdesvn",
+            "symlinks": [
+                "org.kde.kdesvn"
+            ]
         }
     },
     "kdevelop": {
@@ -12998,6 +13024,7 @@
                 "kwalletmanager",
                 "lock",
                 "lock-ok",
+                "org.kde.kwalletmanager5",
                 "password",
                 "passwords",
                 "preferences-desktop-user-password",
@@ -14389,6 +14416,7 @@
                 "logviewer",
                 "mate-system-log",
                 "org.gnome.Logs",
+                "org.kde.ksystemlog",
                 "system-utilities-logviewer",
                 "utilities-log-viewer"
             ]
@@ -15051,6 +15079,7 @@
                 "kmenuedit",
                 "menulibre",
                 "mozo",
+                "org.kde.kmenuedit",
                 "xfce4-menueditor"
             ]
         }
@@ -15736,7 +15765,8 @@
             "root": "multibootusb",
             "symlinks": [
                 "deepin-boot-maker",
-                "isoimagewriter"
+                "isoimagewriter",
+                "org.kde.isoimagewriter"
             ]
         }
     },
@@ -18897,7 +18927,9 @@
             "root": "printer",
             "symlinks": [
                 "cs-printer",
-                "preferences-desktop-printer"
+                "org.kde.ConfigurePrinter",
+                "preferences-desktop-printer",
+                "preferences-devices-printer"
             ]
         }
     },
@@ -20158,7 +20190,9 @@
         "linux": {
             "root": "regextester",
             "symlinks": [
-                "com.github.artemanufrij.regextester"
+                "com.github.artemanufrij.regextester",
+                "kregexpeditor",
+                "org.kde.kregexpeditor"
             ]
         }
     },
@@ -21031,6 +21065,7 @@
                 "gsearchtool",
                 "kerry",
                 "kfind",
+                "org.kde.kfind",
                 "org.kde.kdesearch",
                 "regexxer",
                 "searchmonkey",
@@ -24510,6 +24545,7 @@
                 "io.elementary.monitor",
                 "ksysguard",
                 "org.gnome.SystemMonitor",
+                "org.kde.ksysguard",
                 "org.xfce.genmon",
                 "preferences-system-performance",
                 "qps"
@@ -26916,6 +26952,8 @@
                 "eu.tiliado.NuvolaAppYoutube",
                 "gtk-youtube-viewer",
                 "nuvolaplayer3_youtube",
+                "org.kde.plasmatube",
+                "plasmatube",
                 "unity-webapps-youtube",
                 "web-google-youtube",
                 "Youtube-youtube.com",
