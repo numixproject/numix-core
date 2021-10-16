@@ -10823,6 +10823,15 @@
             "root": "gretl"
         }
     },
+    "gridplayer": {
+        "linux": {
+            "root": "gridplayer",
+            "symlinks": [
+                "com.github.vzhd1701.gridplayer",
+                "com.vzhd1701.gridplayer"
+            ]
+        }
+    },
     "grip": {
         "linux": {
             "root": "grip"
