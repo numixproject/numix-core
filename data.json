@@ -5262,7 +5262,10 @@
     },
     "cutecom": {
         "linux": {
-            "root": "cutecom"
+            "root": "cutecom",
+            "symlinks": [
+                "com.gitlab.cutecom.cutecom"
+            ]
         }
     },
     "cutemarked": {
