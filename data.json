@@ -15419,13 +15419,13 @@
             "root": "mkvinfo"
         }
     },
-    "mkvmerge": {
+    "mkvtoolnix-gui": {
         "linux": {
-            "root": "mkvmerge",
+            "root": "mkvtoolnix-gui",
             "symlinks": [
                 "mkv-gui",
+                "mkvmerge",
                 "mkvmergeGUI",
-                "mkvtoolnix-gui",
                 "org.bunkus.mkvtoolnix-gui"
             ]
         }
