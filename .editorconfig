@@ -8,8 +8,8 @@ indent_style = space
 trim_trailing_whitespace = true
 insert_final_newline = true
 
-[*.json]
-insert_final_newline = false
+[*.svg]
+indent_size = 1
 
 [*.{py,json}]
 indent_size = 4
