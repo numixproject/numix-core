@@ -862,6 +862,14 @@
             "root": "airstrike"
         }
     },
+    "airtame": {
+        "linux": {
+            "root": "airtame-application",
+            "symlinks": [
+                "com.airtame.Client"
+            ]
+        }
+    },
     "airvpn": {
         "linux": {
             "root": "airvpn",
