@@ -853,6 +853,21 @@
             "root": "apachedirectorystudio"
         }
     },
+    "app-launcher": {
+        "linux": {
+            "root": "app-launcher",
+            "bfb": "launcher_bfb",
+            "symlinks": [
+                "chrome-app-list",
+                "deepin-launcher"
+            ]
+        }
+    },
+    "app-outlet": {
+        "linux": {
+            "root": "app-outlet"
+        }
+    },
     "appgamekit-classic": {
         "linux": {
             "root": "agk",
@@ -869,21 +884,6 @@
                 "steam_icon_1024640",
                 "steam_icon_1151790"
             ]
-        }
-    },
-    "app-launcher": {
-        "linux": {
-            "root": "app-launcher",
-            "bfb": "launcher_bfb",
-            "symlinks": [
-                "chrome-app-list",
-                "deepin-launcher"
-            ]
-        }
-    },
-    "app-outlet": {
-        "linux": {
-            "root": "app-outlet"
         }
     },
     "appgrid": {
