@@ -1398,6 +1398,24 @@
             "root": "app-outlet"
         }
     },
+    "appgamekit-classic": {
+        "linux": {
+            "root": "agk",
+            "symlinks": [
+                "steam_icon_325180",
+                "steam_icon_333500"
+            ]
+        }
+    },
+    "appgamekit-studio": {
+        "linux": {
+            "root": "agk-studio",
+            "symlinks": [
+                "steam_icon_1024640",
+                "steam_icon_1151790"
+            ]
+        }
+    },
     "appgrid": {
         "linux": {
             "root": "appgrid"
