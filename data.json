@@ -2670,7 +2670,10 @@
     },
     "blockbench": {
         "linux": {
-            "root": "blockbench"
+            "root": "blockbench",
+            "symlinks": [
+                "net.blockbench.Blockbench"
+            ]
         }
     },
     "blockstorm": {
@@ -16156,6 +16159,8 @@
             "symlinks": [
                 "com.github.carlos157oliveira.Calculus",
                 "com.github.parnold-x.nasc",
+                "com.gitlab.wef.gdcalc",
+                "gdcalc",
                 "io.gitlab.leesonwai.Sums"
             ]
         }
@@ -20773,7 +20778,10 @@
     },
     "rstudio": {
         "linux": {
-            "root": "rstudio"
+            "root": "rstudio",
+            "symlinks": [
+                "com.rstudio.RStudio"
+            ]
         }
     },
     "rtcw": {
