@@ -13725,7 +13725,12 @@
     },
     "osu": {
         "linux": {
-            "root": "osu"
+            "root": "osu",
+            "symlinks": [
+                "sh.ppy.osu",
+                "sh.ppy.osu.osulazer",
+                "sh.ppy.osulazer"
+            ]
         }
     },
     "othman-browser": {
