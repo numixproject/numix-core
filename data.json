@@ -4882,15 +4882,6 @@
             "root": "steam_icon_231430"
         }
     },
-    "compass": {
-        "linux": {
-            "root": "compass",
-            "symlinks": [
-                "ats",
-                "openats"
-            ]
-        }
-    },
     "compton": {
         "linux": {
             "root": "compton"
@@ -17196,6 +17187,15 @@
             "symlinks": [
                 "openarena128",
                 "ws.openarena.OpenArena"
+            ]
+        }
+    },
+    "openats-compass": {
+        "linux": {
+            "root": "openats-compass",
+            "symlinks": [
+                "ats",
+                "openats"
             ]
         }
     },
