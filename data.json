@@ -4882,6 +4882,15 @@
             "root": "steam_icon_231430"
         }
     },
+    "compass": {
+        "linux": {
+            "root": "compass",
+            "symlinks": [
+                "ats",
+                "openats"
+            ]
+        }
+    },
     "compton": {
         "linux": {
             "root": "compton"
