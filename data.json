@@ -1822,8 +1822,6 @@
         "linux": {
             "root": "aseprite",
             "symlinks": [
-                "com.github.libresprite.LibreSprite",
-                "libresprite",
                 "steam_icon_431730"
             ]
         }
@@ -14253,6 +14251,14 @@
             "root": "librepcb",
             "symlinks": [
                 "org.librepcb.LibrePCB"
+            ]
+        }
+    },
+    "libresprite": {
+        "linux": {
+            "root": "libresprite",
+            "symlinks": [
+                "com.github.libresprite.LibreSprite"
             ]
         }
     },
