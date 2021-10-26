@@ -5272,7 +5272,7 @@
                 "cudatext-256",
                 "cudatext-512",
                 "io.github.cudatext.Cudatext",
-                "io.github.cudatext.Cudatext-Qt5","
+                "io.github.cudatext.Cudatext-Qt5"
             ]
         }
     },
@@ -23517,7 +23517,6 @@
                 "journal",
                 "kate",
                 "kedit",
-                "kwrite",
                 "l3afpad",
                 "leafpad",
                 "leftpad",
@@ -23530,7 +23529,6 @@
                 "org.gnome.TextEditor",
                 "org.kde.blogilo",
                 "org.kde.kate",
-                "org.kde.kwrite",
                 "org.xfce.mousepad",
                 "oxygen",
                 "scratch-text-editor",
@@ -26706,6 +26704,8 @@
         "linux": {
             "root": "wxmedit",
             "symlinks": [
+                "kwrite",
+                "org.kde.kwrite",
                 "textadept"
             ]
         }
