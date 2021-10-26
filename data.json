@@ -5265,6 +5265,17 @@
             "root": "steam_icon_207250"
         }
     },
+    "cudatext": {
+        "linux": {
+            "root": "cudatext",
+            "symlinks": [
+                "cudatext-256",
+                "cudatext-512",
+                "io.github.cudatext.Cudatext",
+                "io.github.cudatext.Cudatext-Qt5","
+            ]
+        }
+    },
     "cups-launcher": {
         "linux": {
             "root": "cups-launcher"
@@ -26695,10 +26706,6 @@
         "linux": {
             "root": "wxmedit",
             "symlinks": [
-                "cudatext",
-                "cudatext-256",
-                "io.github.cudatext.Cudatext",
-                "io.github.cudatext.Cudatext-Qt5",
                 "textadept"
             ]
         }
