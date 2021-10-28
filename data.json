@@ -383,6 +383,8 @@
         "linux": {
             "root": "accessories-image-viewer",
             "symlinks": [
+                "eog",
+                "eom",
                 "gallery-app",
                 "geeqie",
                 "graphics-image-viewer",
@@ -391,6 +393,7 @@
                 "lximage",
                 "lximage-qt",
                 "org.geeqie.Geeqie",
+                "org.gnome.eog",
                 "org.kde.showfoto",
                 "showfoto"
             ]
@@ -7510,15 +7513,6 @@
     "envy24control": {
         "linux": {
             "root": "envy24control"
-        }
-    },
-    "eog": {
-        "linux": {
-            "root": "eog",
-            "symlinks": [
-                "eom",
-                "org.gnome.eog"
-            ]
         }
     },
     "eolie": {
