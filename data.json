@@ -5277,7 +5277,8 @@
                 "cudatext-256",
                 "cudatext-512",
                 "io.github.cudatext.Cudatext",
-                "io.github.cudatext.Cudatext-Qt5"
+                "io.github.cudatext.Cudatext-Qt5",
+                "io.github.cudatext.Cudatext-Qt6"
             ]
         }
     },
@@ -9334,7 +9335,8 @@
             "symlinks": [
                 "com.github.manisandro.gImageReader",
                 "com.github.manisandro.gImageReader-gtk",
-                "com.github.manisandro.gImageReader-qt5"
+                "com.github.manisandro.gImageReader-qt5",
+                "com.github.manisandro.gImageReader-qt6"
             ]
         }
     },
@@ -19801,6 +19803,7 @@
                 "qt4-logo",
                 "qt4logo",
                 "qt5-logo",
+                "qt6-logo",
                 "QtIcon"
             ]
         }
@@ -19817,6 +19820,7 @@
                 "assistant",
                 "assistant-qt4",
                 "assistant-qt5",
+                "assistant-qt6",
                 "assistant5"
             ]
         }
@@ -19836,7 +19840,8 @@
             "root": "qtconfig",
             "symlinks": [
                 "qtconfig-qt4",
-                "qtconfig-qt5"
+                "qtconfig-qt5",
+                "qtconfig-qt6"
             ]
         }
     },
@@ -19867,7 +19872,9 @@
                 "qdbusviewer",
                 "qdbusviewer-qt4",
                 "qdbusviewer-qt5",
-                "qdbusviewer5"
+                "qdbusviewer-qt6",
+                "qdbusviewer5",
+                "qdbusviewer6"
             ]
         }
     },
@@ -19878,6 +19885,7 @@
                 "designer",
                 "designer-qt4",
                 "designer-qt5",
+                "designer-qt6",
                 "QtProject-designer"
             ]
         }
@@ -19899,6 +19907,7 @@
                 "linguist",
                 "linguist-qt4",
                 "linguist-qt5",
+                "linguist-qt6",
                 "linguistic",
                 "qtlinguist"
             ]
@@ -21244,7 +21253,8 @@
             "root": "seafile",
             "symlinks": [
                 "seafile-client",
-                "seafile-client-qt5"
+                "seafile-client-qt5",
+                "seafile-client-qt6"
             ]
         }
     },
@@ -21484,7 +21494,9 @@
         "linux": {
             "root": "shadowsocks-qt5",
             "symlinks": [
-                "org.shadowsocks.qt5client"
+                "org.shadowsocks.qt5client",
+                "org.shadowsocks.qt6client",
+                "shadowsocks-qt6"
             ]
         }
     },
