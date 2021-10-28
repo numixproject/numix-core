@@ -2289,6 +2289,16 @@
             ]
         }
     },
+    "baidu-cloud": {
+        "linux": {
+            "root": "bcloud"
+        }
+    },
+    "baidu-netdisk": {
+        "linux": {
+            "root": "baidunetdisk"
+        }
+    },
     "baiji-manga-viewer": {
         "linux": {
             "root": "baiji-manga-viewer"
@@ -2424,11 +2434,6 @@
     "bauh": {
         "linux": {
             "root": "bauh"
-        }
-    },
-    "bcloud": {
-        "linux": {
-            "root": "bcloud"
         }
     },
     "beaker": {
