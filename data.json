@@ -2401,9 +2401,7 @@
                 "bijiben",
                 "chrome-mijlebbfndhelmdpmllgcfadlkankhok-Default",
                 "gnome-note",
-                "gnome-sticky-notes-applet",
                 "knotes",
-                "mate-sticky-notes-applet",
                 "notes",
                 "org.gnome.bijiben",
                 "org.gnome.Bijiben",
@@ -2412,7 +2410,6 @@
                 "org.zim_wiki.Zim",
                 "org.zimwiki.Zim",
                 "semn",
-                "sticky-notes",
                 "xfce4-notes-plugin",
                 "xpad",
                 "zim"
@@ -12188,16 +12185,6 @@
             "root": "indicator-sound-switcher"
         }
     },
-    "indicator-stickynotes": {
-        "linux": {
-            "root": "indicator-stickynotes",
-            "symlinks": [
-                "com.github.lainsce.notejot",
-                "gjots2",
-                "io.github.lainsce.Notejot"
-            ]
-        }
-    },
     "indicator-weather": {
         "linux": {
             "root": "indicator-weather",
@@ -16140,6 +16127,7 @@
             "root": "mynotes",
             "symlinks": [
                 "com.github.flxzt.rnote",
+                "gjots2",
                 "rnote"
             ]
         }
@@ -18865,6 +18853,7 @@
         "linux": {
             "root": "preferences-desktop-keyboard",
             "symlinks": [
+                "cinnamon-virtual-keyboard",
                 "cs-keyboard",
                 "eekboard",
                 "input-keyboard",
@@ -22585,6 +22574,19 @@
             "root": "step",
             "symlinks": [
                 "org.kde.step"
+            ]
+        }
+    },
+    "stickynotes": {
+        "linux": {
+            "root": "stickynotes",
+            "symlinks": [
+                "com.github.lainsce.notejot",
+                "gnome-sticky-notes-applet",
+                "indicator-stickynotes",
+                "io.github.lainsce.Notejot",
+                "mate-sticky-notes-applet",
+                "sticky"
             ]
         }
     },
