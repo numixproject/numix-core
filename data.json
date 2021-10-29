@@ -9738,6 +9738,7 @@
         "linux": {
             "root": "gnome-design-contrast",
             "symlinks": [
+                "brightnesssettings",
                 "kontrast",
                 "org.gnome.design.Contrast",
                 "org.kde.kontrast"
@@ -15422,6 +15423,8 @@
             "root": "mintupload",
             "symlinks": [
                 "mintUpload",
+                "gigolo",
+                "org.xfce.gigolo"
                 "org.xfce.Gigolo"
             ]
         }
@@ -21973,7 +21976,9 @@
             "root": "softwarecenter-debian",
             "symlinks": [
                 "com.github.donadigo.eddy",
-                "eddy"
+                "eddy",
+                "galternatives",
+                "org.debian.galternatives"
             ]
         }
     },
