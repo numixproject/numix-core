@@ -7850,6 +7850,14 @@
             ]
         }
     },
+    "feather-wallet": {
+        "linux": {
+            "root": "feather-wallet",
+            "symlinks": [
+                "feather"
+            ]
+        }
+    },
     "feathernotes": {
         "linux": {
             "root": "feathernotes"
