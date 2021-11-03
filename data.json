@@ -8201,6 +8201,14 @@
             "root": "steam_icon_383870"
         }
     },
+    "firmware-updater": {
+        "linux": {
+            "root": "firmware-updater",
+            "symlinks": [
+                "firmware"
+            ]
+        }
+    },
     "fistful-of-frags": {
         "linux": {
             "root": "steam_icon_265630"
