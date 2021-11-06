@@ -8538,7 +8538,11 @@
     },
     "forged-alliance-forever": {
         "linux": {
-            "root": "ForgedAllianceForever"
+            "root": "ForgedAllianceForever",
+            "symlinks": [
+                "com.faforever.Client",
+                "faf-client"
+            ]
         }
     },
     "formiko": {
@@ -9940,6 +9944,7 @@
             "root": "gnome-mines",
             "symlinks": [
                 "gnomine",
+                "io.github.Bollos00.LibreMines",
                 "kmines",
                 "org.gnome.Mines",
                 "org.kde.kmines",
@@ -13666,7 +13671,8 @@
             "root": "krecipes",
             "symlinks": [
                 "anymeal",
-                "com.github.bartzaalberg.recipes"
+                "com.github.bartzaalberg.recipes",
+                "de.wedesoft.anymeal"
             ]
         }
     },
@@ -17873,6 +17879,7 @@
         "linux": {
             "root": "passky",
             "symlinks": [
+                "com.rabbit-company.passky",
                 "Passky"
             ]
         }
