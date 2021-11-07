@@ -14897,7 +14897,10 @@
     },
     "manuskript": {
         "linux": {
-            "root": "manuskript"
+            "root": "manuskript",
+            "symlinks": [
+                "ch.theologeek.Manuskript"
+            ]
         }
     },
     "mapton": {
