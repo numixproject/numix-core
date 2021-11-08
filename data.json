@@ -17307,6 +17307,14 @@
             "root": "openerp-client"
         }
     },
+    "openjournal": {
+        "linux": {
+            "root": "openjournal",
+            "symlinks": [
+                "io.github.bgallois.openjournal"
+            ]
+        }
+    },
     "openkj": {
         "linux": {
             "root": "openkj",
