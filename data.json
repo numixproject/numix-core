@@ -7809,6 +7809,14 @@
             "root": "steam_icon_588430"
         }
     },
+    "fasttrack": {
+        "linux": {
+            "root": "fasttrack",
+            "symlinks": [
+                "sh.fasttrack.fasttrack"
+            ]
+        }
+    },
     "fbmessenger": {
         "android": [
             "com.facebook.orca/com.facebook.orca.auth.StartScreenActivity"
