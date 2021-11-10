@@ -2113,14 +2113,6 @@
             "root": "steam_icon_112100"
         }
     },
-    "avant-window-navigator": {
-        "linux": {
-            "root": "avant-window-navigator",
-            "symlinks": [
-                "awn-window-fallback"
-            ]
-        }
-    },
     "avastgui": {
         "android": [
             "com.avast.android.mobilesecurity/com.avast.android.mobilesecurity.app.home.HomeActivity",
@@ -5248,15 +5240,6 @@
             ]
         }
     },
-    "cs-applets": {
-        "linux": {
-            "root": "cs-applets",
-            "symlinks": [
-                "awn-manager",
-                "awn-settings"
-            ]
-        }
-    },
     "cs-cat-admin": {
         "linux": {
             "root": "cs-cat-admin"
@@ -5664,6 +5647,11 @@
         "linux": {
             "root": "desktop",
             "symlinks": [
+                "avant-window-navigator",                
+                "awn-manager",
+                "awn-settings"
+                "awn-window-fallback",
+                "cs-applets",
                 "deepin-show-desktop",
                 "dock",
                 "dockbarx",
