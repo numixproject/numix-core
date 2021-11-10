@@ -23820,6 +23820,15 @@
             ]
         }
     },
+    "threema": {
+        "linux": {
+            "root": "threema",
+            "symlinks": [
+                "ch.threema.threema",
+                "threema-web-electron"
+            ]
+        }
+    },
     "thrive-launcher": {
         "linux": {
             "root": "thrive-launcher"
