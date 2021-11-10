@@ -5649,7 +5649,7 @@
             "symlinks": [
                 "avant-window-navigator",                
                 "awn-manager",
-                "awn-settings"
+                "awn-settings",
                 "awn-window-fallback",
                 "cs-applets",
                 "deepin-show-desktop",
@@ -20875,6 +20875,11 @@
             ]
         }
     },
+        "rss-green-2": {
+        "linux": {
+            "root": "urserver"
+        }
+    },
     "rss-inverted": {
         "linux": {
             "root": "gnome-feeds",
@@ -24742,11 +24747,6 @@
     "urbanlightscape": {
         "linux": {
             "root": "urbanlightscape"
-        }
-    },
-    "urserver": {
-        "linux": {
-            "root": "urserver"
         }
     },
     "usb-creator": {
