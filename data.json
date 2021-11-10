@@ -20371,6 +20371,14 @@
             ]
         }
     },
+    "reactions": {
+        "linux": {
+            "root": "reactions",
+            "symlinks": [
+                "dev.atoft.Reactions"
+            ]
+        }
+    },
     "reactotron": {
         "linux": {
             "root": "reactotron"
