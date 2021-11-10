@@ -5928,6 +5928,14 @@
             "root": "steam_icon_233610"
         }
     },
+    "distccmon": {
+        "linux": {
+            "root": "distccmon",
+            "symlinks": [
+                "distccmon-gnome"
+            ]
+        }
+    },
     "distributor-logo-absolute": {
         "linux": {
             "root": "distributor-logo-absolute"
