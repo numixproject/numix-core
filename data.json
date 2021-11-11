@@ -27471,7 +27471,10 @@
     },
     "zettlr": {
         "linux": {
-            "root": "zettlr"
+            "root": "zettlr",
+            "symlinks": [
+                "Zettlr"
+            ]
         }
     },
     "ziggurat": {
