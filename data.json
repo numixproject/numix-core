@@ -9668,7 +9668,8 @@
         "linux": {
             "root": "gnome-activity-journal",
             "symlinks": [
-                "kjournal"
+                "kjournal",
+                "org.gnome.ActivityJournal"
             ]
         }
     },
