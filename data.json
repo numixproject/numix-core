@@ -2585,7 +2585,10 @@
     },
     "bitmap2component": {
         "linux": {
-            "root": "bitmap2component"
+            "root": "bitmap2component",
+            "symlinks": [
+                "org.kicad.KiCad.bitmap2component"
+            ]
         }
     },
     "bitmask": {
@@ -7236,7 +7239,10 @@
     },
     "eeschema": {
         "linux": {
-            "root": "eeschema"
+            "root": "eeschema",
+            "symlinks": [
+                "org.kicad.KiCad.eeschema"
+            ]
         }
     },
     "efax-gtk": {
@@ -9299,7 +9305,10 @@
     },
     "gerbview": {
         "linux": {
-            "root": "gerbview"
+            "root": "gerbview",
+            "symlinks": [
+                "org.kicad.KiCad.gerbview"
+            ]
         }
     },
     "gespeaker": {
@@ -13267,6 +13276,7 @@
         "linux": {
             "root": "kicad",
             "symlinks": [
+                "org.kicad.KiCad",
                 "org.kicad_pcb.KiCad"
             ]
         }
@@ -17976,12 +17986,18 @@
     },
     "pcbcalculator": {
         "linux": {
-            "root": "pcbcalculator"
+            "root": "pcbcalculator",
+            "symlinks": [
+                "org.kicad.KiCad.pcbcalculator"
+            ]
         }
     },
     "pcbnew": {
         "linux": {
-            "root": "pcbnew"
+            "root": "pcbnew",
+            "symlinks": [
+                "org.kicad.KiCad.pcbnew"
+            ]
         }
     },
     "pcsx-icon": {
