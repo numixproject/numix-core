@@ -8866,7 +8866,11 @@
     },
     "fromscratch": {
         "linux": {
-            "root": "fromscratch"
+            "root": "fromscratch",
+            "symlinks": [
+                "fyi.zoey.Boop-GTK",
+                "uk.co.mrbenshef.Boop-GTK"
+                ]
         }
     },
     "frostpunk": {
@@ -15108,10 +15112,10 @@
         "linux": {
             "root": "maui-station",
             "symlinks": [
-                "fyi.zoey.Boop-GTK",
+                "com.gitlab.miridyan.Mt",
+                "Mt",
                 "org.kde.station",
-                "station",
-                "uk.co.mrbenshef.Boop-GTK"
+                "station"
             ]
         }
     },
