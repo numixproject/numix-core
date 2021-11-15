@@ -26440,7 +26440,10 @@
     },
     "whalebird": {
         "linux": {
-            "root": "whalebird"
+            "root": "whalebird",
+            "symlinks": [
+                "social.whalebird.WhalebirdDesktop"
+            ]
         }
     },
     "what-ip": {
