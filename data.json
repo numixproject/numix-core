@@ -7658,6 +7658,14 @@
             "root": "steam_icon_236850"
         }
     },
+    "euterpe-gtk": {
+        "linux": {
+            "root": "euterpe-gtk",
+            "symlinks": [
+                "com.doycho.euterpe.gtk"
+            ]
+        }
+    },
     "evernote": {
         "android": [
             "com.evernote/com.evernote.ui.HomeActivity"
