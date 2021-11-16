@@ -2337,8 +2337,7 @@
                 "org.gnome.Baobab",
                 "org.gnome.baobab",
                 "org.kde.filelight",
-                "partitions",
-                "qdirstat"
+                "partitions"
             ]
         }
     },
@@ -19640,6 +19639,14 @@
     "qdigidoc-crypto": {
         "linux": {
             "root": "qdigidoc-crypto"
+        }
+    },
+    "qdirstat": {
+        "linux": {
+            "root": "qdirstat",
+            "symlinks": [
+                "kdirstat"
+            ]
         }
     },
     "qelectrotech": {
