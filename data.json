@@ -13597,6 +13597,15 @@
             ]
         }
     },
+    "kolibri": {
+        "linux": {
+            "root": "kolibri",
+            "symlinks": [
+                "org.learningequality.Kolibri",
+                "org.learningequality.Kolibri.Frontend"
+            ]
+        }
+    },
     "kollision": {
         "linux": {
             "root": "kollision",
