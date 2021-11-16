@@ -2123,6 +2123,14 @@
             "root": "avastgui"
         }
     },
+        "avatar-creator": {
+        "linux": {
+            "root": "avatar-creator",
+            "symlinks": [
+                "org.endlessos.avatarCreator"
+            ]
+        }
+    },
     "avidemux": {
         "linux": {
             "root": "avidemux",
