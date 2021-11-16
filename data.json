@@ -6687,6 +6687,14 @@
             "root": "djvulibre-djview4"
         }
     },
+    "dlt-viewer": {
+        "linux": {
+            "root": "dlt-viewer",
+            "symlinks": [
+                "org.genivi.DLTViewer"
+            ]
+        }
+    },
     "dmanager": {
         "linux": {
             "root": "dmanager"
