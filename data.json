@@ -17421,6 +17421,15 @@
             "root": "openerp-client"
         }
     },
+    "openhantek": {
+        "linux": {
+            "root": "openhantek",
+            "symlinks": [
+                "OpenHantek",
+                "OpenHantek6022"
+            ]
+        }
+    },
     "openjournal": {
         "linux": {
             "root": "openjournal",
