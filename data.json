@@ -2867,7 +2867,11 @@
     },
     "boomaga": {
         "linux": {
-            "root": "boomaga"
+            "root": "boomaga",
+            "symlinks": [
+                "gtk4-print-editor",
+                "org.gtk.PrintEditor4"
+            ]
         }
     },
     "boostnote": {
