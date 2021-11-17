@@ -770,6 +770,15 @@
             ]
         }
     },
+    "adwaita-demo": {
+        "linux": {
+            "root": "adwaita-demo",
+            "symlinks": [
+                "adwaita-1-demo",
+                "org.gnome.Adwaita1.Demo"
+            ]
+        }
+    },
     "aegisub": {
         "linux": {
             "root": "aegisub",
