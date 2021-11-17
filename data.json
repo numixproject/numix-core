@@ -10104,6 +10104,14 @@
             ]
         }
     },
+    "gnome-patterns": {
+        "linux": {
+            "root": "gnome-patterns",
+            "symlinks": [
+                "org.gnome.Patterns"
+            ]
+        }
+    },
     "gnome-photos": {
         "linux": {
             "root": "gnome-photos",
