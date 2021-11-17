@@ -11216,6 +11216,7 @@
             "symlinks": [
                 "gtk4-demo",
                 "kde-gtk-config",
+                "org.gtk.Demo",
                 "org.gtk.Demo3",
                 "org.gtk.Demo4"
             ]
@@ -11226,8 +11227,19 @@
             "root": "gtk3-widget-factory",
             "symlinks": [
                 "gtk4-widget-factory",
+                "org.gtk.WidgetFactory",
                 "org.gtk.WidgetFactory3",
                 "org.gtk.WidgetFactory4"
+            ]
+        }
+    },
+    "gtk4-node-editor": {
+        "linux": {
+            "root": "gtk4-node-editor",
+            "symlinks": [
+                "org.gtk.gtk4.NodeEditor",
+                "org.gtk.NodeEditor"
+                "org.gtk.NodeEditor4"
             ]
         }
     },
@@ -12138,6 +12150,7 @@
                 "ikona",
                 "org.gnome.design.AppIconPreview",
                 "org.gnome.IconPreview",
+                "org.gtk.IconBrowser",
                 "org.gtk.IconBrowser3",
                 "org.gtk.IconBrowser4",
                 "org.kde.Ikona",
