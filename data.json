@@ -4286,7 +4286,10 @@
     },
     "carla": {
         "linux": {
-            "root": "carla"
+            "root": "carla",
+            "symlinks": [
+                "com.github.falkTX.Carla"
+            ]
         }
     },
     "carla-control": {
