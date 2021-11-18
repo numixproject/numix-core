@@ -27091,7 +27091,10 @@
     },
     "xcos": {
         "linux": {
-            "root": "xcos"
+            "root": "xcos",
+            "symlinks": [
+                "audmes"
+            ]
         }
     },
     "xdiagnose": {
