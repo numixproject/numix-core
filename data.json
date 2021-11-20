@@ -1706,7 +1706,10 @@
     },
     "ariamaestosa": {
         "linux": {
-            "root": "ariamaestosa"
+            "root": "ariamaestosa",
+            "symlinks": [
+                "aria64"
+            ]
         }
     },
     "arista": {
