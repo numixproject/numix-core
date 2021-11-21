@@ -7560,6 +7560,14 @@
             "root": "enpass"
         }
     },
+    "ensembles": {
+        "linux": {
+            "root": "ensembles",
+            "symlinks": [
+                "com.github.subhadeepjasu.ensembles"
+            ]
+        }
+    },
     "entangle": {
         "linux": {
             "root": "entangle",
