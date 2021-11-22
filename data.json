@@ -1119,6 +1119,14 @@
             ]
         }
     },
+    "ambience": {
+        "linux": {
+            "root": "ambience",
+            "symlinks": [
+                "io.github.lukajankovic.ambience"
+            ]
+        }
+    },
     "amd": {
         "android": [
             "com.amd.link/com.amd.link.view.activities.MainActivity",
