@@ -3072,6 +3072,14 @@
             "root": "breaktimer"
         }
     },
+    "breathing": {
+        "linux": {
+            "root": "breathing",
+            "symlinks": [
+                "io.github.seadve.Breathing"
+            ]
+        }
+    },
     "brlcad": {
         "linux": {
             "root": "brlcad"
