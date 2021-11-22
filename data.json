@@ -18145,7 +18145,9 @@
         "linux": {
             "root": "passwordsafe",
             "symlinks": [
-                "org.gnome.PasswordSafe"
+                "org.gnome.PasswordSafe",
+                "org.gnome.World.Secrets",
+                "secrets"
             ]
         }
     },
