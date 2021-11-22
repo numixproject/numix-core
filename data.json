@@ -420,6 +420,7 @@
                 "graphics-image-editor",
                 "kolourpaint",
                 "org.kde.kolourpaint",
+                "org.sugarlabs.Paint",
                 "tuxpaint"
             ]
         }
@@ -2076,7 +2077,10 @@
     },
     "auralquiz": {
         "linux": {
-            "root": "auralquiz"
+            "root": "auralquiz",
+            "symlinks": [
+                "org.sugarlabs.MusicBlocks"
+            ]
         }
     },
     "aurees": {
@@ -5366,7 +5370,8 @@
                 "keurocalc",
                 "mmex",
                 "money-manager-ex",
-                "org.kde.keurocalc"
+                "org.kde.keurocalc",
+                "org.sugarlabs.Finance"
             ]
         }
     },
@@ -7067,7 +7072,10 @@
     },
     "ds9": {
         "linux": {
-            "root": "ds9"
+            "root": "ds9",
+            "symlinks": [
+                "org.sugarlabs.SolarSystem",
+            ]
         }
     },
     "duckduckgo": {
@@ -7655,7 +7663,8 @@
             "root": "espeak-gui",
             "symlinks": [
                 "espeak-qtgui",
-                "kmouth"
+                "kmouth",
+                "org.sugarlabs.Speak"
             ]
         }
     },
@@ -9025,7 +9034,10 @@
     },
     "galois": {
         "linux": {
-            "root": "galois"
+            "root": "galois",
+            "symlinks": [
+                "org.sugarlabs.Pukllanapac"
+            ]
         }
     },
     "gambas": {
@@ -9979,7 +9991,8 @@
                 "com.github.SubhadeepJasu.pebbles",
                 "com.github.subhadeepjasu.pebbles",
                 "org.gnome.Genius",
-                "org.kde.abakus"
+                "org.kde.abakus",
+                "org.sugarlabs.AbacusActivity"
             ]
         }
     },
@@ -10402,7 +10415,10 @@
     },
     "gnotski": {
         "linux": {
-            "root": "gnotski"
+            "root": "gnotski",
+            "symlinks": [
+                "org.sugarlabs.ImplodeActivity"
+            ]
         }
     },
     "gns3": {
@@ -13175,7 +13191,8 @@
         "linux": {
             "root": "kbruch",
             "symlinks": [
-                "org.kde.bruch"
+                "org.kde.bruch",
+                "org.sugarlabs.FractionBounce"
             ]
         }
     },
@@ -16363,7 +16380,10 @@
     },
     "mynotex": {
         "linux": {
-            "root": "mynotex"
+            "root": "mynotex",
+            "symlinks": [
+                "org.sugarlabs.StoryActivity"
+            ]
         }
     },
     "mypaint": {
@@ -17330,7 +17350,8 @@
                 "openofficeorg-impress",
                 "openofficeorg24-impress",
                 "openofficeorg3-impress",
-                "openofficeorg3.0-impress"
+                "openofficeorg3.0-impress",
+                "org.sugarlabs.Chart"
             ]
         }
     },
@@ -17511,7 +17532,8 @@
         "linux": {
             "root": "openjournal",
             "symlinks": [
-                "io.github.bgallois.openjournal"
+                "io.github.bgallois.openjournal",
+                "org.sugarlabs.ReadETexts"
             ]
         }
     },
@@ -18360,7 +18382,8 @@
         "linux": {
             "root": "peruse",
             "symlinks": [
-                "org.kde.peruse"
+                "org.kde.peruse",
+                "org.sugarlabs.FotoToon"
             ]
         }
     },
@@ -19630,6 +19653,7 @@
             "symlinks": [
                 "gnubik",
                 "kubrick",
+                "org.sugarlabs.ColorDeducto",
                 "playbox"
             ]
         }
@@ -19667,7 +19691,8 @@
             "root": "pychess",
             "symlinks": [
                 "3dchess",
-                "dreamchess"
+                "dreamchess",
+                "org.sugarlabs.Chess"
             ]
         }
     },
@@ -19735,7 +19760,10 @@
     },
     "python-idle": {
         "linux": {
-            "root": "python-idle"
+            "root": "python-idle",
+            "symlinks": [
+                "org.sugarlabs.Pippy"
+            ]
         }
     },
     "pytrainer": {
@@ -21907,7 +21935,10 @@
     },
     "siliconsneaker": {
         "linux": {
-            "root": "siliconsneaker"
+            "root": "siliconsneaker",
+            "symlinks": [
+                "org.sugarlabs.SwiftFeet"
+            ]
         }
     },
     "silverjuke": {
@@ -22360,6 +22391,7 @@
         "linux": {
             "root": "sonic-visualiser",
             "symlinks": [
+                "org.sugarlabs.Measure",
                 "spectrum3d",
                 "sv-icon"
             ]
@@ -22879,7 +22911,8 @@
         "linux": {
             "root": "step",
             "symlinks": [
-                "org.kde.step"
+                "org.kde.step",
+                "org.sugarlabs.Physics"
             ]
         }
     },
@@ -23634,6 +23667,7 @@
             "symlinks": [
                 "co.luoja.Telyn",
                 "org.luojalabs.Telyn",
+                "org.sugarlabs.Sliderule",
                 "TelynGtk"
             ]
         }
@@ -24646,6 +24680,7 @@
             "root": "turtlico",
             "symlinks": [
                 "io.gitlab.Turtlico",
+                "org.sugarlabs.TurtlePondActivity",
                 "tk.turtlico.Turtlico"
             ]
         }
@@ -25531,7 +25566,8 @@
                 "44F2_SynthesiaConfig.0",
                 "5B46_Synthesia.0",
                 "linthesia",
-                "net.sourceforge.VMPK"
+                "net.sourceforge.VMPK",
+                "org.sugarlabs.MusicKeyboard"
             ]
         }
     },
