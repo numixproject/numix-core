@@ -13002,6 +13002,8 @@
         "linux": {
             "root": "jstest-gtk",
             "symlinks": [
+                "evtest-qt",
+                "io.gitlab.evtest_qt.evtest_qt",
                 "io.gitlab.jstest_gtk.jstest_gtk",
                 "io.gitlab.sdl_jstest.sdl2_jstest",
                 "io.gitlab.sdl_jstest.sdl_jstest"
