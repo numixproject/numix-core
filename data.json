@@ -7549,7 +7549,10 @@
     },
     "enigma": {
         "linux": {
-            "root": "enigma"
+            "root": "enigma",
+            "symlinks": [
+                "org.nongnu.enigma"
+            ]
         }
     },
     "enpass": {
