@@ -20403,6 +20403,14 @@
             "root": "qucs"
         }
     },
+    "quick-lookup": {
+        "linux": {
+            "root": "quick-lookup",
+            "symlinks": [
+                "com.github.johnfactotum.QuickLookup"
+            ]
+        }
+    },
     "quickdocs": {
         "linux": {
             "root": "quickdocs",
