@@ -13172,8 +13172,6 @@
         "linux": {
             "root": "kbibtex",
             "symlinks": [
-                "badabib",
-                "com.github.rogercrocker.badabib",
                 "pybliographic"
             ]
         }
@@ -18896,7 +18894,11 @@
     },
     "polar-bookshelf": {
         "linux": {
-            "root": "polar-bookshelf"
+            "root": "polar-bookshelf",
+            "symlinks": [
+                "badabib",
+                "com.github.rogercrocker.badabib"
+            ]
         }
     },
     "polari": {
