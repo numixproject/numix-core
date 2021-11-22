@@ -22123,7 +22123,12 @@
     },
     "skychart": {
         "linux": {
-            "root": "skychart"
+            "root": "skychart",
+            "symlinks": [
+                "de.uni_heidelberg.zah.GaiaSky",
+                "gaiasky",
+                "gs_icon"
+            ]
         }
     },
     "skydmin": {
