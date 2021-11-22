@@ -2774,6 +2774,14 @@
             "root": "blue-log-viewer"
         }
     },
+   "blue-recorder": {
+        "linux": {
+            "root": "blue-recorder",
+            "symlinks": [
+                "sa.sy.bluerecorder"
+            ]
+        }
+    },
     "bluefish": {
         "linux": {
             "root": "bluefish",
