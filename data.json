@@ -15267,6 +15267,15 @@
             ]
         }
     },
+    "maze": {
+        "linux": {
+            "root": "maze",
+            "symlinks": [
+                "maze-activity",
+                "org.sugarlabs.Maze"
+            ]
+        }
+    },
     "mcosu": {
         "linux": {
             "root": "steam_icon_607260"
