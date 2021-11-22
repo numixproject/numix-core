@@ -2368,6 +2368,14 @@
             ]
         }
     },
+    "banking": {
+        "linux": {
+            "root": "banking",
+            "symlinks": [
+                "org.tabos.banking"
+            ]
+        }
+    },
     "baobab": {
         "linux": {
             "root": "baobab",
