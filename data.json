@@ -25242,6 +25242,15 @@
             ]
         }
     },
+    "utsushi": {
+        "linux": {
+            "root": "utsushi",
+            "symlinks": [
+                "com.github.utsushi.Utsushi",
+                "com.gitlab.utsushi.Utsushi"
+            ]
+        }
+    },
     "uzbl": {
         "linux": {
             "root": "uzbl"
