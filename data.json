@@ -10870,7 +10870,10 @@
     },
     "goxel": {
         "linux": {
-            "root": "goxel"
+            "root": "goxel",
+            "symlinks": [
+                "io.github.guillaumechereau.Goxel"
+            ]
         }
     },
     "gparted": {
