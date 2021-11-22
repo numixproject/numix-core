@@ -14925,6 +14925,14 @@
             "root": "luna"
         }
     },
+    "lunarvim": {
+        "linux": {
+            "root": "lunarvim",
+            "symlinks": [
+                "lvim"
+            ]
+        }
+    },
     "luppp": {
         "linux": {
             "root": "luppp"
