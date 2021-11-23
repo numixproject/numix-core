@@ -17032,6 +17032,14 @@
             "root": "novelwriter"
         }
     },
+    "novprog": {
+        "linux": {
+            "root": "novprog",
+            "symlinks": [
+                "org.gottcode.NovProg"
+            ]
+        }
+    },
     "nsight": {
         "linux": {
             "root": "nsight"
