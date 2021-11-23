@@ -15362,7 +15362,9 @@
         "linux": {
             "root": "maze",
             "symlinks": [
+                "cutemaze",
                 "maze-activity",
+                "org.gottcode.CuteMaze",
                 "org.sugarlabs.Maze"
             ]
         }
