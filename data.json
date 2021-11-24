@@ -7958,6 +7958,15 @@
             "root": "steam_icon_588430"
         }
     },
+    "famistudio": {
+        "linux": {
+            "root": "famistudio",
+            "symlinks": [
+                "FamiStudio",
+                "org.famistudio.FamiStudio"
+            ]
+        }
+    },
     "fasttrack": {
         "linux": {
             "root": "fasttrack",
