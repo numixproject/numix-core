@@ -4335,13 +4335,17 @@
         "linux": {
             "root": "carla",
             "symlinks": [
-                "com.github.falkTX.Carla"
+                "com.github.falkTX.Carla",
+                " studio.kx.carla"
             ]
         }
     },
     "carla-control": {
         "linux": {
-            "root": "carla-control"
+            "root": "carla-control",
+            "symlinks": [
+                " studio.kx.carla-control"
+            ]
         }
     },
     "castle-crashers": {
