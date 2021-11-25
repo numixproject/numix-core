@@ -4868,6 +4868,14 @@
             ]
         }
     },
+    "cockpit-client": {
+        "linux": {
+            "root": "cockpit-client",
+            "symlinks": [
+                "org.cockpit_project.CockpitClient"
+            ]
+        }
+    },
     "codeblocks": {
         "linux": {
             "root": "codeblocks",
