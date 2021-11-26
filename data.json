@@ -15430,7 +15430,10 @@
     },
     "media-downloader": {
         "linux": {
-            "root": "media-downloader"
+            "root": "media-downloader",
+            "symlinks": [
+                "streamcapture2"
+            ]
         }
     },
     "media-dupes": {
