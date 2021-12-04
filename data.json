@@ -18128,6 +18128,14 @@
             "root": "panel-searchtool"
         }
     },
+    "pango-layout-editor": {
+        "linux": {
+            "root": "pango-layout-editor",
+            "symlinks": [
+                "org.pango.LayoutEditor"
+            ]
+        }
+    },
     "papers-please": {
         "linux": {
             "root": "steam_icon_239030"
