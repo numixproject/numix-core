@@ -2611,6 +2611,14 @@
             "root": "birdie"
         }
     },
+    "bisq": {
+        "linux": {
+            "root": "bisq",
+            "symlinks": [
+                "network.bisq.Bisq"
+            ]
+        }
+    },
     "bitcoin": {
         "linux": {
             "root": "bitcoin",
