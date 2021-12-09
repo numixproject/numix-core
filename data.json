@@ -12174,6 +12174,14 @@
             "root": "hwbrowser"
         }
     },
+    "hwloc": {
+        "linux": {
+            "root": "hwloc",
+            "symlinks": [
+                "lstopo"
+            ]
+        }
+    },
     "hwmixvolume": {
         "linux": {
             "root": "hwmixvolume",
