@@ -13751,6 +13751,14 @@
             ]
         }
     },
+    "kmidimon": {
+        "linux": {
+            "root": "kmidimon",
+            "symlinks": [
+                "net.sourceforge.kmidimon"
+            ]
+        }
+    },
     "kmplot": {
         "linux": {
             "root": "kmplot",
