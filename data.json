@@ -20008,6 +20008,15 @@
             ]
         }
     },
+    "qefientrymanager": {
+        "linux": {
+            "root": "qefientrymanager",
+            "symlinks": [
+                "cc.inoki.qefientrymanager",
+                "QEFIEntryManager"
+            ]
+        }
+    },
     "qelectrotech": {
         "linux": {
             "root": "qelectrotech",
