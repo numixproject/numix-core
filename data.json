@@ -7927,6 +7927,8 @@
         "linux": {
             "root": "f3d",
             "symlinks": [
+                "com.f3d-app.F3D",
+                "com.kitware.F3D",
                 "io.github.kitware.F3D"
             ]
         }
@@ -10065,7 +10067,8 @@
         "linux": {
             "root": "gnome-documents",
             "symlinks": [
-                "org.gnome.Documents"
+                "org.gnome.Documents",
+                "thingy"
             ]
         }
     },
