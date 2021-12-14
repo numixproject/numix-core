@@ -18448,7 +18448,11 @@
     },
     "pdfshuffler": {
         "linux": {
-            "root": "pdfshuffler"
+            "root": "pdfshuffler",
+            "symlinks": [
+                "com.github.mgropp.PdfJumbler",
+                "pdfjumbler"
+            ]
         }
     },
     "pdfslicer": {
