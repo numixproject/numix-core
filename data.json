@@ -4600,6 +4600,7 @@
                 "chromium-browser-privacy",
                 "chromium-browser2",
                 "com.github.Eloston.ungoogled-chromium",
+                "com.github.Eloston.UngoogledChromium",
                 "google-chromium",
                 "org.chromium.Chromium",
                 "ungoogled-chromium"
@@ -15637,7 +15638,10 @@
     },
     "meshlab": {
         "linux": {
-            "root": "meshlab"
+            "root": "meshlab",
+            "symlinks": [
+                "net.meshlab.MeshLab"
+            ]
         }
     },
     "metadata-cleaner": {
