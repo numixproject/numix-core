@@ -1,5 +1,5 @@
-<svg style="" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <defs style="">
+<svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs>
   <linearGradient id="bg" x1="1" x2="47" style="" gradientTransform="translate(-48 .002215)" gradientUnits="userSpaceOnUse">
    <stop style="stop-color:#6cb85a" offset="0"/>
    <stop style="stop-color:#79be69" offset="1"/>
@@ -10,14 +10,8 @@
  <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
  <rect transform="rotate(-90)" x="-47" y="1" width="46" height="46" rx="4" style="fill:url(#bg)"/>
  <path d="m1 39v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
- <g transform="translate(-1,-1)">
-  <g transform="translate(1,1)">
-   <g style="opacity:.1">
-    <path transform="translate(-1,-1)" d="m13 13v8h8v-8zm4 12v12h4v-4h8v4h4v-12zm12-4h8v-8h-8z"/>
-   </g>
-  </g>
- </g>
- <g transform="translate(0,-1)">
-  <path d="m12 12v8h8v-8zm8 8v4h-4v12h4v-4h8v4h4v-12h-4v-4zm8 0h8v-8h-8z" style="fill:#2d2d2d"/>
+ <path d="m12 12v8h8v-8zm4 12v12h4v-4h8v4h4v-12zm12-4h8v-8h-8z" style="opacity:.1"/>
+ <g transform="translate(0,-1)" style="fill:#383838">
+  <path d="m12 12v8h8v-8zm8 8v4h-4v12h4v-4h8v4h4v-12h-4v-4zm8 0h8v-8h-8z" style="fill:#383838"/>
  </g>
 </svg>
