@@ -8954,7 +8954,11 @@
     },
     "freedroid": {
         "linux": {
-            "root": "freedroid"
+            "root": "freedroid",
+            "symlinks": [
+                "freedroidrpg",
+                "freedroidRPG"
+            ]
         }
     },
     "freedv": {
