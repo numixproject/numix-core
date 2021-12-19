@@ -7790,6 +7790,15 @@
             ]
         }
     },
+    "esys-escript": {
+        "linux": {
+            "root": "esys-escript",
+            "symlinks": [
+                "au.edu.uq.esys.escript",
+                "uq.esys.escript"
+            ]
+        }
+    },
     "etcher": {
         "linux": {
             "root": "etcher",
