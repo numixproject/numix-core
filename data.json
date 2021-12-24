@@ -27050,6 +27050,14 @@
             "root": "steam_icon_597220"
         }
     },
+    "wezterm": {
+        "linux": {
+            "root": "wezterm",
+            "symlinks": [
+                "org.wezfurlong.wezterm"
+            ]
+        }
+    },
     "whalebird": {
         "linux": {
             "root": "whalebird",
