@@ -26207,6 +26207,15 @@
             "root": "wdos"
         }
     },
+    "weasis": {
+        "linux": {
+            "root": "weasis",
+            "symlinks": [
+                "io.github.nroduit.Weasis",
+                "weasis-logo128x128"
+            ]
+        }
+    },
     "web-4chan": {
         "linux": {
             "root": "4chan.org",
