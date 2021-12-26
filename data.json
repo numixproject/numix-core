@@ -19337,6 +19337,14 @@
             "root": "power-installer"
         }
     },
+    "powertabeditor": {
+        "linux": {
+            "root": "powertabeditor",
+            "symlinks": [
+                "com.github.powertab.powertabeditor"
+            ]
+        }
+    },
     "ppsspp": {
         "linux": {
             "root": "ppsspp",
