@@ -16241,6 +16241,15 @@
             ]
         }
     },
+    "mqttx": {
+        "linux": {
+            "root": "mqttx",
+            "symlinks": [
+                "app.mqttx.MQTTX",
+                "com.emqx.MQTTX"
+            ]
+        }
+    },
     "ms-access": {
         "linux": {
             "root": "ms-access"
