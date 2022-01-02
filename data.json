@@ -19201,6 +19201,14 @@
             "root": "polycode"
         }
     },
+    "polymc": {
+        "linux": {
+            "root": "polymc",
+            "symlinks": [
+                "org.polymc.PolyMC"
+            ]
+        }
+    },
     "polyphone": {
         "linux": {
             "root": "polyphone",
