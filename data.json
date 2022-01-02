@@ -25770,6 +25770,15 @@
             ]
         }
     },
+    "vibrantlinux": {
+        "linux": {
+            "root": "vibrantlinux",
+            "symlinks": [
+                "io.github.libvibrant.vibrantLinux",
+                "vibrantLinux"
+            ]
+        }
+    },
     "vice": {
         "linux": {
             "root": "vice",
