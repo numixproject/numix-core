@@ -1595,8 +1595,7 @@
             "root": "applications-system",
             "symlinks": [
                 "hwinfo",
-                "mate-indicator-applet",
-                "yast-hwinfo"
+                "mate-indicator-applet"
             ]
         }
     },
@@ -12255,7 +12254,9 @@
         "linux": {
             "root": "hwloc",
             "symlinks": [
-                "lstopo"
+                "lstopo",
+                "yast-hardware",
+                "yast-hwinfo"
             ]
         }
     },
@@ -19752,11 +19753,6 @@
             ]
         }
     },
-    "prjm16-transparent": {
-        "linux": {
-            "root": "prjm16-transparent"
-        }
-    },
     "processing-pde": {
         "linux": {
             "root": "processing-pde",
@@ -19783,6 +19779,18 @@
     "projectlibre": {
         "linux": {
             "root": "projectlibre"
+        }
+    },
+    "projectm": {
+        "linux": {
+            "root": "projectm",
+            "symlinks": [
+                "net.sourceforge.projectM",
+                "prjm",
+                "prjm16",
+                "prjm16-transparent",
+                "projectM"
+            ]
         }
     },
     "projectpad": {
@@ -25238,7 +25246,10 @@
     },
     "ufraw": {
         "linux": {
-            "root": "ufraw"
+            "root": "ufraw",
+            "symlinks": [
+                "nufraw"
+            ]
         }
     },
     "ugene": {
