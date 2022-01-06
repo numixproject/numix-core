@@ -23494,6 +23494,14 @@
             ]
         }
     },
+    "sumo": {
+        "linux": {
+            "root": "sumo",
+            "symlinks": [
+                "org.eclipse.sumo"
+            ]
+        }
+    },
     "sunflower": {
         "linux": {
             "root": "sunflower"
