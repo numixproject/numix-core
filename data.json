@@ -14975,7 +14975,10 @@
     },
     "logseq": {
         "linux": {
-            "root": "logseq"
+            "root": "logseq",
+            "symlinks": [
+                "com.logseq.Logseq"
+            ]
         }
     },
     "logview": {
@@ -18499,6 +18502,7 @@
         "linux": {
             "root": "pd",
             "symlinks": [
+                "info.puredata.Pd",
                 "net.purrdata.PurrData",
                 "pure-data"
             ]
@@ -18506,7 +18510,10 @@
     },
     "pd-extended": {
         "linux": {
-            "root": "pd-extended"
+            "root": "pd-extended",
+            "symlinks": [
+                "info.puredata.Pd-extended"
+            ]
         }
     },
     "pdf-xchange": {
@@ -20428,7 +20435,10 @@
     },
     "qsynth": {
         "linux": {
-            "root": "qsynth"
+            "root": "qsynth",
+            "symlinks": [
+                "org.rncbc.qsynth"
+            ]
         }
     },
     "qt": {
