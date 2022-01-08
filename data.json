@@ -23970,6 +23970,16 @@
             ]
         }
     },
+    "tauno-plotter": {
+        "linux": {
+            "root": "tauno-plotter",
+            "symlinks": [
+                "art.taunoerik.tauno-serial-plotter",
+                "Tauno-plotter",
+                "tauno-serial-plotter"
+            ]
+        }
+    },
     "tauonmb": {
         "linux": {
             "root": "tauonmb",
