@@ -26186,7 +26186,10 @@
     },
     "war-thunder": {
         "linux": {
-            "root": "steam_icon_236390"
+            "root": "steam_icon_236390",
+            "symlinks": [
+                "net.gaijin.WarThunder"
+            ]
         }
     },
     "warframe": {
