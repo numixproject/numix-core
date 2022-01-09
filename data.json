@@ -25138,6 +25138,15 @@
             "root": "tupi"
         }
     },
+    "turbowarp": {
+        "linux": {
+            "root": "turbowarp",
+            "symlinks": [
+                "org.turbowarp.TurboWarp",
+                "turbowarp-desktop"
+            ]
+        }
+    },
     "turmoil": {
         "linux": {
             "root": "steam_icon_361280"
