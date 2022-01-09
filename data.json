@@ -16098,6 +16098,14 @@
             "root": "modelio"
         }
     },
+    "moderndeck": {
+        "linux": {
+            "root": "moderndeck",
+            "symlinks": [
+                "com.dangeredwolf.ModernDeck"
+            ]
+        }
+    },
     "modularcalculator": {
         "linux": {
             "root": "modularcalculator",
