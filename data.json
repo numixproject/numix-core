@@ -19195,7 +19195,10 @@
     },
     "pokerth": {
         "linux": {
-            "root": "pokerth"
+            "root": "pokerth",
+            "symlinks": [
+                "coronapoker"
+            ]
         }
     },
     "polar-bookshelf": {
