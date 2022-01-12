@@ -20996,7 +20996,12 @@
     },
     "rdm": {
         "linux": {
-            "root": "rdm"
+            "root": "rdm",
+            "symlinks": [
+                "app.resp.RESP",
+                "dev.rdm.RDM",
+                "resp"
+            ]
         }
     },
     "rdplot": {
@@ -26095,6 +26100,7 @@
             "symlinks": [
                 "44F2_SynthesiaConfig.0",
                 "5B46_Synthesia.0",
+                "com.github.linthesia.linthesia",
                 "linthesia",
                 "net.sourceforge.VMPK",
                 "org.sugarlabs.MusicKeyboard"
