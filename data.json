@@ -7953,6 +7953,14 @@
             "root": "exponent-xde"
         }
     },
+    "extension-manager": {
+        "linux": {
+            "root": "extension-manager",
+            "symlinks": [
+                "com.mattjakeman.ExtensionManager"
+            ]
+        }
+    },
     "extensions": {
         "linux": {
             "root": "extensions",
