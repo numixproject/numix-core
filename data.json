@@ -9967,10 +9967,9 @@
         "linux": {
             "root": "gnome-aisleriot",
             "symlinks": [
+                "aisleriot",
                 "gnome-freecell",
-                "lskat",
-                "org.gnome.Aisleriot",
-                "org.kde.lskat"
+                "org.gnome.Aisleriot"
             ]
         }
     },
@@ -14100,7 +14099,6 @@
             "root": "kpat",
             "symlinks": [
                 "ace",
-                "aisleriot",
                 "gnome-hearts",
                 "kpatience",
                 "nmm_qt_client",
@@ -15116,6 +15114,14 @@
     "lshw": {
         "linux": {
             "root": "lshw-gtk"
+        }
+    },
+    "lskat": {
+        "linux": {
+            "root": "lskat",
+            "symlinks": [
+                "org.kde.lskat"
+            ]
         }
     },
     "lsp-plugins": {
