@@ -20640,6 +20640,14 @@
             "root": "qtpass"
         }
     },
+    "qtractor": {
+        "linux": {
+            "root": "qtractor",
+            "symlinks": [
+                "org.rncbc.qtractor"
+            ]
+        }
+    },
     "qtsconverter": {
         "linux": {
             "root": "qtsconverter",
@@ -22922,7 +22930,6 @@
             "symlinks": [
                 "oggconvert",
                 "org.soundconverter.SoundConverter",
-                "qtractor",
                 "soundkonverter"
             ]
         }
