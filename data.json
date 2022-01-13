@@ -14068,19 +14068,19 @@
             ]
         }
     },
-    "kooha": {
-        "linux": {
-            "root": "kooha",
-            "symlinks": [
-                "io.github.seadve.Kooha"
-            ]
-        }
-    },
     "koodo-reader": {
         "linux": {
             "root": "koodo-reader",
             "symlinks": [
                 "koodo"
+            ]
+        }
+    },
+    "kooha": {
+        "linux": {
+            "root": "kooha",
+            "symlinks": [
+                "io.github.seadve.Kooha"
             ]
         }
     },
@@ -26306,6 +26306,14 @@
             "root": "steam_icon_236390",
             "symlinks": [
                 "net.gaijin.WarThunder"
+            ]
+        }
+    },
+    "warble": {
+        "linux": {
+            "root": "warble",
+            "symlinks": [
+                "com.github.avojak.warble"
             ]
         }
     },
