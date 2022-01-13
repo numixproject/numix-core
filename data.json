@@ -14076,6 +14076,14 @@
             ]
         }
     },
+    "koodo-reader": {
+        "linux": {
+            "root": "koodo-reader",
+            "symlinks": [
+                "koodo"
+            ]
+        }
+    },
     "kopia-ui": {
         "linux": {
             "root": "kopia-ui"
