@@ -13258,7 +13258,9 @@
                 "jupyter-console",
                 "jupyter-lab",
                 "jupyter-notebook",
-                "JupyterConsole"
+                "JupyterConsole",
+                "jupyterlab",
+                "jupyterlab-desktop"
             ]
         }
     },
@@ -20875,7 +20877,7 @@
     },
     "race-the-sun": {
         "linux": {
-            "root": "RaceTheSun",
+            "root": pyt"RaceTheSun",
             "symlinks": [
                 "steam_icon_253030"
             ]
