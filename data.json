@@ -28401,9 +28401,10 @@
             "us.zoom.videomeetings/com.zipow.videobox.LauncherActivity"
         ],
         "linux": {
-            "root": "Zoom",
+            "root": "zoom",
             "symlinks": [
                 "us.zoom.Zoom",
+                "Zoom",
                 "zoom-desktop",
                 "zoom-icon",
                 "zoom-videocam"
