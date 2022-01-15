@@ -331,20 +331,6 @@
             "root": "accerciser"
         }
     },
-    "access": {
-        "linux": {
-            "root": "access",
-            "symlinks": [
-                "accessibility",
-                "accessibility_section",
-                "ax-applet",
-                "cs-universal-access",
-                "gnome-settings-accessibility-keyboard",
-                "gnome-settings-accessibility-technologies",
-                "orca"
-            ]
-        }
-    },
     "accessibility-directory": {
         "linux": {
             "root": "accessibility-directory"
@@ -19493,6 +19479,14 @@
         "linux": {
             "root": "preferences-desktop-accessibility",
             "symlinks": [
+                "access",
+                "accessibility",
+                "accessibility_section",
+                "ax-applet",
+                "cs-universal-access",
+                "gnome-settings-accessibility-keyboard",
+                "gnome-settings-accessibility-technologies",
+                "orca",
                 "org.xfce.settings.accessibility"
             ]
         }
