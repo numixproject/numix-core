@@ -10,13 +10,7 @@
  <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
  <rect x="1" y="1" width="46" height="46" rx="4" style="fill:url(#bg)"/>
  <path d="m1 39v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
- <path d="
-  m 12 23 a 11 11 0 0 1 11 -11 v 11 z
-  m 13 0 v -11 h 11 v 11 z
-  m 0 2 h 11 a 11 11 0 0 1 -11 11 z
-  m -2 0 h -7 v 7 h 7 z" opacity=".1"/>
- <rect x="25" y="11" width="11" height="11" fill="#333"/>
- <rect x="16" y="24" width="7" height="7"  fill="#333"/>
- <path d="m 12 22 a 11 11 0 0 1 11 -11 v 11 z" fill="#ddd"/>
- <path d="m 25 24 h 11 a 11 11 0 0 1 -11 11 z" fill="#ddd"/>
+ <path d="m12 23a11 11 0 0 1 11-11v11zm13 0v-11h11v11zm0 2h11a11 11 0 0 1-11 11zm-2 0h-7v7h7z" opacity=".1"/>
+ <path d="m25 11v11h11v-11h-11zm-9 13v7h7v-7h-7z" style="fill:#424242"/>
+ <path d="m23 11a11 11 0 0 0-11 11h11v-11zm2 13v11a11 11 0 0 0 11-11h-11z" style="fill:#e5e5e5"/>
 </svg>
