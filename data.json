@@ -23017,6 +23017,14 @@
             "root": "spacefm-find"
         }
     },
+    "spacelaunch": {
+        "linux": {
+            "root": "spacelaunch",
+            "symlinks": [
+                "org.emilien.SpaceLaunch"
+            ]
+        }
+    },
     "spacemacs": {
         "linux": {
             "root": "spacemacs"
