@@ -20518,6 +20518,7 @@
         "linux": {
             "root": "qt",
             "symlinks": [
+                "io.qt.Qt",
                 "qt4-logo",
                 "qt4logo",
                 "qt5-logo",
@@ -20539,7 +20540,8 @@
                 "assistant-qt4",
                 "assistant-qt5",
                 "assistant-qt6",
-                "assistant5"
+                "assistant5",
+                "io.qt.Assistant"
             ]
         }
     },
@@ -20605,6 +20607,7 @@
                 "designer-qt4",
                 "designer-qt5",
                 "designer-qt6",
+                "io.qt.Designer",
                 "QtProject-designer"
             ]
         }
@@ -20623,6 +20626,7 @@
         "linux": {
             "root": "qtlinguistic",
             "symlinks": [
+                "io.qt.Linguist",
                 "linguist",
                 "linguist-qt4",
                 "linguist-qt5",
@@ -28387,6 +28391,7 @@
         "linux": {
             "root": "zettlr",
             "symlinks": [
+                "com.zettlr.Zettlr",
                 "Zettlr"
             ]
         }
