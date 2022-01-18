@@ -7161,7 +7161,10 @@
     },
     "drumkv1": {
         "linux": {
-            "root": "drumkv1"
+            "root": "drumkv1",
+            "symlinks": [
+                "org.rncbc.drumkv1"
+            ]
         }
     },
     "drumstick": {
@@ -18269,7 +18272,10 @@
     },
     "padthv1": {
         "linux": {
-            "root": "padthv1"
+            "root": "padthv1",
+            "symlinks": [
+                "org.rncbc.padthv1"
+            ]
         }
     },
     "paintown": {
@@ -20343,7 +20349,10 @@
     },
     "qjackctl": {
         "linux": {
-            "root": "qjackctl"
+            "root": "qjackctl",
+            "symlinks": [
+                "org.rncbc.qjackctl"
+            ]
         }
     },
     "qjackrcd": {
@@ -20382,12 +20391,18 @@
     },
     "qmidictl": {
         "linux": {
-            "root": "qmidictl"
+            "root": "qmidictl",
+            "symlinks": [
+                "org.rncbc.qmidictl"
+            ]
         }
     },
     "qmidinet": {
         "linux": {
-            "root": "qmidinet"
+            "root": "qmidinet",
+            "symlinks": [
+                "org.rncbc.qmidinet"
+            ]
         }
     },
     "qmlscene": {
@@ -20495,7 +20510,10 @@
     },
     "qsampler": {
         "linux": {
-            "root": "qsampler"
+            "root": "qsampler",
+            "symlinks": [
+                "org.rncbc.qsampler"
+            ]
         }
     },
     "qstopmotion": {
@@ -20866,7 +20884,10 @@
     },
     "qxgedit": {
         "linux": {
-            "root": "qxgedit"
+            "root": "qxgedit",
+            "symlinks": [
+                "org.rncbc.qxgedit"
+            ]
         }
     },
     "qxmledit": {
@@ -21753,7 +21774,10 @@
     },
     "samplv1": {
         "linux": {
-            "root": "samplv1"
+            "root": "samplv1",
+            "symlinks": [
+                "org.rncbc.samplv1"
+            ]
         }
     },
     "samrewritten": {
@@ -23836,7 +23860,10 @@
     },
     "synthv1": {
         "linux": {
-            "root": "synthv1"
+            "root": "synthv1",
+            "symlinks": [
+                "org.rncbc.synthv1"
+            ]
         }
     },
     "sysmontask": {
