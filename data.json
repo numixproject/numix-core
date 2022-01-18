@@ -10061,6 +10061,14 @@
             ]
         }
     },
+    "gnome-console": {
+        "linux": {
+            "root": "gnome-console",
+            "symlinks": [
+                "org.gnome.Console"
+            ]
+        }
+    },
     "gnome-crosswords": {
         "linux": {
             "root": "crosswords",
@@ -15541,9 +15549,7 @@
             "root": "maui-station",
             "symlinks": [
                 "com.gitlab.miridyan.Mt",
-                "gnome-console",
                 "Mt",
-                "org.gnome.Console",
                 "org.kde.station",
                 "station"
             ]
