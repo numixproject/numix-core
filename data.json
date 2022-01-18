@@ -20488,6 +20488,15 @@
             "root": "qphotorec"
         }
     },
+    "qpwgraph": {
+        "linux": {
+            "root": "qpwgraph",
+            "symlinks": [
+                "org.freedesktop.rncbc.qpwgraph",
+                "org.rncbc.qpwgraph"
+            ]
+        }
+    },
     "qqintl": {
         "linux": {
             "root": "qqintl",
