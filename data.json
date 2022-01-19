@@ -21477,6 +21477,15 @@
             "root": "rkward"
         }
     },
+    "rmg": {
+        "linux": {
+            "root": "rmg",
+            "symlinks": [
+                "com.github.Rosalie241.RMG",
+                "RMG"
+            ]
+        }
+    },
     "robocode": {
         "linux": {
             "root": "robocode",
