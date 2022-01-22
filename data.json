@@ -14994,7 +14994,10 @@
     },
     "loginized": {
         "linux": {
-            "root": "loginized"
+            "root": "loginized",
+            "symlinks": [
+                "me.orszulak.keyring"
+            ]
         }
     },
     "logisim": {
@@ -27224,6 +27227,7 @@
                 "chrome-gcjbnclfkeffmdfdhflnadahgmajfgcm-Default",
                 "com.gigitux.gtkwhats",
                 "com.gigitux.youp",
+                "com.rtosta.zapzap",
                 "eu.scarpetta.QtWAW",
                 "io.bit3.WhatsAppQT",
                 "io.fossbr.WhatsAppQT",
