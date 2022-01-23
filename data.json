@@ -13576,6 +13576,7 @@
                 "kwalletmanager",
                 "lock",
                 "lock-ok",
+                "org.gnupg.GPA",
                 "org.kde.kwalletmanager5",
                 "password",
                 "passwords",
@@ -26474,7 +26475,10 @@
     },
     "wavebox": {
         "linux": {
-            "root": "wavebox"
+            "root": "wavebox",
+            "symlinks": [
+                "io.wavebox.Wavebox"
+            ]
         }
     },
     "waveform": {
