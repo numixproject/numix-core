@@ -4397,6 +4397,16 @@
             ]
         }
     },
+    "cataclysm-dda": {
+        "linux": {
+            "root": "cataclysm-dda",
+            "symlinks": [
+                "cataclysm-tiles",
+                "cataclysmdda",
+                "org.cataclysmdda.CataclysmDDA"
+            ]
+        }
+    },
     "catarina": {
         "linux": {
             "root": "catarina"
