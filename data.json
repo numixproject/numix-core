@@ -3106,7 +3106,11 @@
     },
     "breaktimer": {
         "linux": {
-            "root": "breaktimer"
+            "root": "breaktimer",
+            "symlinks": [
+                "kteatime",
+                "org.kde.kteatime"
+            ]
         }
     },
     "breathing": {
