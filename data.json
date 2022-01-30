@@ -916,6 +916,14 @@
             "root": "airwave-manager"
         }
     },
+    "akarixb": {
+        "linux": {
+            "root": "akarixb",
+            "symlinks": [
+                "org.nongnu.akarixb"
+            ]
+        }
+    },
     "akira": {
         "linux": {
             "root": "akira",
