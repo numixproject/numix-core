@@ -20503,6 +20503,14 @@
         },
         "tags": ["world_baseplate"]
     },
+    "qoobar": {
+        "linux": {
+            "root": "qoobar",
+            "symlinks": [
+                "io.sourceforge.qoobar.Qoobar"
+            ]
+        }
+    },
     "qopenvpn": {
         "linux": {
             "root": "qopenvpn",
