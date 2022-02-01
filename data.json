@@ -15275,6 +15275,14 @@
             "root": "luxrender"
         }
     },
+    "lxi-gui": {
+        "linux": {
+            "root": "lxi-gui",
+            "symlinks": [
+                "io.github.lxi-tools.lxi-gui"
+            ]
+        }
+    },
     "lxmusic": {
         "linux": {
             "root": "lxmusic"
