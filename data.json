@@ -16771,10 +16771,8 @@
         "linux": {
             "root": "mynotes",
             "symlinks": [
-                "com.github.flxzt.rnote",
                 "gjots2",
-                "noblenote",
-                "rnote"
+                "noblenote"
             ]
         }
     },
@@ -16782,7 +16780,9 @@
         "linux": {
             "root": "mynotex",
             "symlinks": [
-                "org.sugarlabs.StoryActivity"
+                "com.github.flxzt.rnote",
+                "org.sugarlabs.StoryActivity",
+                "rnote"
             ]
         }
     },
