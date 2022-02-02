@@ -13703,8 +13703,17 @@
         "linux": {
             "root": "kicad",
             "symlinks": [
+                "org.kicad.kicad",
                 "org.kicad.KiCad",
                 "org.kicad_pcb.KiCad"
+            ]
+        }
+    },
+    "kicad-nightly": {
+        "linux": {
+            "root": "kicad-nightly",
+            "symlinks": [
+                "org.kicad.kicad-nightly"
             ]
         }
     },
