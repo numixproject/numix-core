@@ -26592,7 +26592,10 @@
     },
     "wayland": {
         "linux": {
-            "root": "wayland"
+            "root": "wayland",
+            "symlinks": [
+                "org.freedesktop.weston"
+            ]
         }
     },
     "wdos": {
