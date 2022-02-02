@@ -11438,6 +11438,14 @@
             ]
         }
     },
+    "gstreamer-pipeline-studio": {
+        "linux": {
+            "root": "gstreamer-pipeline-studio",
+            "symlinks": [
+                "org.freedesktop.dabrain34.GstPipelineStudio"
+            ]
+        }
+    },
     "gta-5": {
         "linux": {
             "root": "steam_icon_271590"
