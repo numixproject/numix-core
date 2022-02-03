@@ -14675,6 +14675,7 @@
                 "libreoffice7.0-base",
                 "libreoffice7.1-base",
                 "libreoffice7.2-base",
+                "libreoffice7.3-base",
                 "libreofficedev6.1-base",
                 "org.libreoffice.LibreOffice-base",
                 "org.libreoffice.LibreOffice.base"
@@ -14694,6 +14695,7 @@
                 "libreoffice7.0-calc",
                 "libreoffice7.1-calc",
                 "libreoffice7.2-calc",
+                "libreoffice7.3-calc",
                 "libreofficedev6.1-calc",
                 "org.libreoffice.LibreOffice-calc",
                 "org.libreoffice.LibreOffice.calc"
@@ -14713,6 +14715,7 @@
                 "libreoffice7.0-draw",
                 "libreoffice7.1-draw",
                 "libreoffice7.2-draw",
+                "libreoffice7.3-draw",
                 "libreofficedev6.1-draw",
                 "org.libreoffice.LibreOffice-draw",
                 "org.libreoffice.LibreOffice.draw"
@@ -14732,6 +14735,7 @@
                 "libreoffice7.0-impress",
                 "libreoffice7.1-impress",
                 "libreoffice7.2-impress",
+                "libreoffice7.3-impress",
                 "libreofficedev6.1-impress",
                 "org.libreoffice.LibreOffice-impress",
                 "org.libreoffice.LibreOffice.impress"
@@ -14758,6 +14762,7 @@
                 "libreoffice7.0-startcenter",
                 "libreoffice7.1-startcenter",
                 "libreoffice7.2-startcenter",
+                "libreoffice7.3-startcenter",
                 "libreofficedev6.1-startcenter",
                 "org.libreoffice.LibreOffice-startcenter",
                 "org.libreoffice.LibreOffice.startcenter"
@@ -14777,6 +14782,7 @@
                 "libreoffice7.0-math",
                 "libreoffice7.1-math",
                 "libreoffice7.2-math",
+                "libreoffice7.3-math",
                 "libreofficedev6.1-math",
                 "org.libreoffice.LibreOffice-math",
                 "org.libreoffice.LibreOffice.math"
@@ -14789,7 +14795,8 @@
             "symlinks": [
                 "libreoffice3-template",
                 "libreoffice34-template",
-                "libreoffice7.2-template"
+                "libreoffice7.2-template",
+                "libreoffice7.3-template"
             ]
         }
     },
@@ -14806,6 +14813,7 @@
                 "libreoffice7.0-writer",
                 "libreoffice7.1-writer",
                 "libreoffice7.2-writer",
+                "libreoffice7.3-writer",
                 "libreofficedev6.1-writer",
                 "org.libreoffice.LibreOffice-writer",
                 "org.libreoffice.LibreOffice.writer"
@@ -26594,7 +26602,8 @@
         "linux": {
             "root": "wayland",
             "symlinks": [
-                "org.freedesktop.weston"
+                "org.freedesktop.weston",
+                "weston"
             ]
         }
     },
