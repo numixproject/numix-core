@@ -4558,9 +4558,19 @@
                 "gnome-chess",
                 "gnome-glchess",
                 "org.gnome.Chess",
-                "org.gnome.chess",
-                "scid",
-                "tagua"
+                "org.gnome.chess"
+            ]
+        }
+    },
+    "chessx": {
+        "linux": {
+            "root": "chessx",
+            "symlinks": [
+                "eboard",
+                "gambitchess",
+                "net.sourceforge.Chessx",
+                "qtchess",
+                "xchess"
             ]
         }
     },
@@ -14016,14 +14026,12 @@
         "linux": {
             "root": "knights",
             "symlinks": [
-                "chessx",
                 "com.github.sakya.corechess",
                 "corechess",
                 "CoreChess",
-                "gambitchess",
-                "net.sourceforge.Chessx",
-                "xboard",
-                "xchess"
+                "cutechess",
+                "org.kde.knights",
+                "xboard"
             ]
         }
     },
@@ -20254,9 +20262,10 @@
             "root": "pychess",
             "symlinks": [
                 "3dchess",
-                "cutechess",
                 "dreamchess",
-                "org.sugarlabs.Chess"
+                "lichess",
+                "lichesslogowhite",
+                "lichobile-electron"
             ]
         }
     },
@@ -22070,6 +22079,16 @@
     "sci-hub-eva": {
         "linux": {
             "root": "SciHubEVA"
+        }
+    },
+    "scid": {
+        "linux": {
+            "root": "scid",
+            "symlinks": [
+                "jerry",
+                "org.sugarlabs.Chess",
+                "tagua"
+            ]
         }
     },
     "sciencefair": {
