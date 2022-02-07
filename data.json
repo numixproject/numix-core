@@ -7301,6 +7301,22 @@
             ]
         }
     },
+    "dustracing": {
+        "linux": {
+            "root": "dustracing",
+            "symlinks": [
+                "dustrac-game"
+            ]
+        }
+    },
+    "dustracing-editor": {
+        "linux": {
+            "root": "dustracing-editor",
+            "symlinks": [
+                "dustrac-editor"
+            ]
+        }
+    },
     "dvdisaster": {
         "linux": {
             "root": "dvdisaster"
