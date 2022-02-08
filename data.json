@@ -22853,6 +22853,15 @@
             "root": "slic3r"
         }
     },
+    "slic3r-gcodeviewer": {
+        "linux": {
+            "root": "slic3r-gcodeviewer",
+            "symlinks": [
+                "com.prusa3d.PrusaSlicer-gcodeviewer",
+                "PrusaSlicer-gcodeviewer"
+            ]
+        }
+    },
     "slic3r-prusa3d": {
         "linux": {
             "root": "slic3r-prusa3d",
