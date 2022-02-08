@@ -21750,6 +21750,15 @@
             ]
         }
     },
+    "rotp": {
+        "linux": {
+            "root": "rotp",
+            "symlinks": [
+                "com.remnantsoftheprecursors.ROTP",
+                "remnantsoftheprecursors"
+            ]
+        }
+    },
     "roxterm": {
         "linux": {
             "root": "roxterm"
