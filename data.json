@@ -7377,7 +7377,10 @@
     },
     "eagle": {
         "linux": {
-            "root": "eagle"
+            "root": "eagle",
+            "symlinks": [
+                "com.autodesk.Eagle"
+            ]
         }
     },
     "easylife": {
