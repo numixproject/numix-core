@@ -634,7 +634,10 @@
     },
     "adobe-bridge": {
         "linux": {
-            "root": "AdobeBridge"
+            "root": "AdobeBridge",
+            "symlinks": [
+                "FDE2_Bridge.0"
+            ]
         }
     },
     "adobe-character-animator": {
@@ -6821,6 +6824,8 @@
         "linux": {
             "root": "distributor-logo-windows",
             "symlinks": [
+                "1CD8_rundll32.0",
+                "5742_rundll32.0",
                 "windows",
                 "windows95",
                 "winusb",
@@ -12062,6 +12067,7 @@
                 "4137_winhlp32.0",
                 "A35F_hh.0",
                 "browser-help",
+                "D15F_hh.0",
                 "debian-reference",
                 "deepin-manual",
                 "gnochm",
@@ -26815,6 +26821,7 @@
                 "applications-webbrowsers",
                 "browser",
                 "dillo",
+                "ECB7_iexplore.0",
                 "epiphany",
                 "epiphany-browser",
                 "epiphany-gecko",
@@ -27693,9 +27700,10 @@
         "linux": {
             "root": "wine",
             "symlinks": [
-                "1CD8_rundll32.0",
                 "7765_winebrowser.0",
+                "81F5_winebrowser.0",
                 "bottles_wine",
+                "D3EE_SwitchBoard.0",
                 "org.winehq.Wine"
             ]
         }
@@ -27705,6 +27713,7 @@
             "root": "wine-uninstaller",
             "symlinks": [
                 "bottles_wine-uninstaller",
+                "D23E_msiexec.0",
                 "msiexec"
             ]
         }
