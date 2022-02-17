@@ -14457,7 +14457,10 @@
     },
     "kwave": {
         "linux": {
-            "root": "kwave"
+            "root": "kwave",
+            "symlinks": [
+                "org.kde.kwave"
+            ]
         }
     },
     "kwordquiz": {
