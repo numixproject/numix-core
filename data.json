@@ -13908,7 +13908,11 @@
     },
     "kkedit": {
         "linux": {
-            "root": "KKEdit"
+            "root": "KKEdit",
+            "symlinks": [
+                "blogilo",
+                "org.kde.blogilo"
+            ]
         }
     },
     "kkedit-root": {
@@ -24746,18 +24750,12 @@
             "symlinks": [
                 "1E64_notepad.0",
                 "accessories-text-editor",
-                "blogilo",
                 "bottles_notepad",
                 "code",
                 "deepin-editor",
-                "gedit",
-                "gedit-icon",
-                "gedit-logo",
-                "gedit1",
-                "gedit2",
                 "gnome-word",
+                "gnome-text-editor",
                 "io.elementary.code",
-                "io.liri.Text",
                 "journal",
                 "kate",
                 "kedit",
@@ -24769,9 +24767,7 @@
                 "notecase",
                 "notepad",
                 "notepad-48",
-                "org.gnome.gedit",
                 "org.gnome.TextEditor",
-                "org.kde.blogilo",
                 "org.kde.kate",
                 "org.xfce.mousepad",
                 "oxygen",
@@ -24779,6 +24775,19 @@
                 "wine-notepad",
                 "xed",
                 "xfce-edit"
+            ]
+        }
+    },
+    "text-editor-red": {
+        "linux": {
+            "root": "gedit",
+            "symlinks": [
+                "gedit-icon",
+                "gedit-logo",
+                "gedit1",
+                "gedit2",
+                "io.liri.Text",
+                "org.gnome.gedit",
             ]
         }
     },
