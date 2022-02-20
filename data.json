@@ -1766,11 +1766,6 @@
             "root": "arista"
         }
     },
-    "armorpaint": {
-        "linux": {
-            "root": "armorpaint"
-        }
-    },
     "ark-survival-evolved": {
         "linux": {
             "root": "steam_icon_346110"
@@ -1805,6 +1800,11 @@
             "symlinks": [
                 "kali-armitage"
             ]
+        }
+    },
+    "armorpaint": {
+        "linux": {
+            "root": "armorpaint"
         }
     },
     "armoryicon": {
@@ -18063,7 +18063,9 @@
             "root": "openjournal",
             "symlinks": [
                 "io.github.bgallois.openjournal",
-                "org.sugarlabs.ReadETexts"
+                "me.someretical.TheoreticalDiary",
+                "org.sugarlabs.ReadETexts",
+                "theoreticaldiary"
             ]
         }
     },
