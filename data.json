@@ -7162,6 +7162,14 @@
         },
         "tags": ["world_baseplate"]
     },
+    "drfinance": {
+        "linux": {
+            "root": "drfinance",
+            "symlinks": [
+                "com.darhon.drfinance"
+            ]
+        }
+    },
     "drgeo": {
         "linux": {
             "root": "drgeo",
