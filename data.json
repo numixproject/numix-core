@@ -9262,6 +9262,14 @@
             "root": "furiusisomount"
         }
     },
+    "furnace": {
+        "linux": {
+            "root": "furnace",
+            "symlinks": [
+                "org.tildearrow.furnace"
+            ]
+        }
+    },
     "fuse-emulator": {
         "linux": {
             "root": "fuse-emulator",
