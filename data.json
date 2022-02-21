@@ -18649,6 +18649,14 @@
             ]
         }
     },
+    "parsec": {
+        "linux": {
+            "root": "parsec",
+            "symlinks": [
+                "parsecd"
+            ]
+        }
+    },
     "particl-desktop": {
         "linux": {
             "root": "particl-desktop"
