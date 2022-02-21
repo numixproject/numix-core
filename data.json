@@ -27748,6 +27748,15 @@
             ]
         }
     },
+    "winbox": {
+        "linux": {
+            "root": "winbox",
+            "symlinks": [
+                "Winbox",
+                "winbox64"
+            ]
+        }
+    },
     "wincaml": {
         "linux": {
             "root": "WinCaml"
