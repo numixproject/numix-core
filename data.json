@@ -4552,6 +4552,7 @@
         "linux": {
             "root": "cheese",
             "symlinks": [
+                "Cheese",
                 "guvcview",
                 "org.gnome.Cheese"
             ]
@@ -4673,6 +4674,7 @@
                 "com.github.Eloston.UngoogledChromium",
                 "google-chromium",
                 "org.chromium.Chromium",
+                "org.chromium.Chromium.BaseApp",
                 "ungoogled-chromium"
             ]
         }
@@ -7249,7 +7251,10 @@
             "com.duckduckgo.mobile.android/com.duckduckgo.mobile.android.activity.DuckDuckGo"
         ],
         "linux": {
-            "root": "web-duckduckgo"
+            "root": "duckduckgo",
+            "symlinks": [
+                "web-duckduckgo"
+            ]
         }
     },
     "duet": {
@@ -12129,7 +12134,9 @@
         "linux": {
             "root": "heroic-game-launcher",
             "symlinks": [
-                "heroic"
+                "com.heroicgameslauncher.hgl",
+                "heroic",
+                "heroic-games-launcher"
             ]
         }
     },
@@ -16470,7 +16477,10 @@
     },
     "mpc-qt": {
         "linux": {
-            "root": "mpc-qt"
+            "root": "mpc-qt",
+            "symlinks": [
+                "io.github.mpc_qt.Mpc-Qt"
+            ]
         }
     },
     "mpdevil": {
@@ -25001,6 +25011,7 @@
             "root": "threema",
             "symlinks": [
                 "ch.threema.threema",
+                "ch.threema.threema-web-desktop",
                 "io.bit3.ThreemaQT",
                 "threema-web-electron"
             ]
