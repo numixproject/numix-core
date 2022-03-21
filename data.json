@@ -8925,6 +8925,7 @@
         "linux": {
             "root": "fosstriangulator",
             "symlinks": [
+                "com.enjoyingfoss.FOSStriangulator",
                 "org.enjoyingfoss.FOSStriangulator"
             ]
         }
@@ -12010,6 +12011,8 @@
         "linux": {
             "root": "hashbrown",
             "symlinks": [
+                "collision",
+                "dev.geopjr.Collision",
                 "dev.geopjr.Hashbrown"
             ]
         }
@@ -13037,6 +13040,7 @@
         "linux": {
             "root": "jadx",
             "symlinks": [
+                "com.github.skylot.jadx",
                 "jadx-bin",
                 "jadx-gui"
             ]
@@ -18710,6 +18714,8 @@
             "root": "passky",
             "symlinks": [
                 "com.rabbit-company.passky",
+                "com.rabbit_company.passky",
+                "com.rabbitcompany.passky",
                 "Passky"
             ]
         }
@@ -21334,6 +21340,7 @@
             "symlinks": [
                 "freerct",
                 "io.openrct2.OpenRCT2",
+                "net.freerct.FreeRCT",
                 "openrct",
                 "openrct2"
             ]
@@ -27607,7 +27614,10 @@
     },
     "webcamoid": {
         "linux": {
-            "root": "webcamoid"
+            "root": "webcamoid",
+            "symlinks": [
+                "org.webcamoid.Webcamoid"
+            ]
         }
     },
     "webfontkitgenerator": {
@@ -28240,7 +28250,11 @@
     },
     "xclicker": {
         "linux": {
-            "root": "xclicker"
+            "root": "xclicker",
+            "symlinks": [
+                "audmes",
+                "dev.robiot.xclicker"
+            ]
         }
     },
     "xcom-enemy-unknown": {
@@ -28360,6 +28374,7 @@
         "linux": {
             "root": "xmind",
             "symlinks": [
+                "net.xmind.XMind",
                 "net.xmind.XMind8",
                 "net.xmind.ZEN",
                 "XMind"
