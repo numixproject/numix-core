@@ -4723,6 +4723,15 @@
             ]
         }
     },
+    "cider": {
+        "linux": {
+            "root": "cider",
+            "symlinks": [
+                "org.cidercollective.cider",
+                "sh.cider.Cider"
+            ]
+        }
+    },
     "cine-encoder": {
         "linux": {
             "root": "cine-encoder"
