@@ -3157,6 +3157,15 @@
             ]
         }
     },
+    "briar": {
+        "linux": {
+            "root": "briar",
+            "symlinks": [
+                "briar-desktop",
+                "org.briarproject.Briar"
+            ]
+        }
+    },
     "brlcad": {
         "linux": {
             "root": "brlcad"
@@ -27620,8 +27629,8 @@
                 "chrome-bgkodfmeijboinjdegggmkbkjfiagaan-Default",
                 "chrome-gcjbnclfkeffmdfdhflnadahgmajfgcm-Default",
                 "com.gigitux.gtkwhats",
-                "com.github.WhatsApp-For-Linux",
                 "com.gigitux.youp",
+                "com.github.WhatsApp-For-Linux",
                 "com.rtosta.zapzap",
                 "eu.scarpetta.QtWAW",
                 "io.bit3.WhatsAppQT",
