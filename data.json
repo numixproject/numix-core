@@ -20668,6 +20668,14 @@
             "root": "qlipper"
         }
     },
+    "qlogexplorer": {
+        "linux": {
+            "root": "qlogexplorer",
+            "symlinks": [
+                "io.github.rafaelfassi.QLogExplorer"
+            ]
+        }
+    },
     "qmaptool": {
         "linux": {
             "root": "qmaptool",
