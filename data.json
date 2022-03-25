@@ -1420,7 +1420,10 @@
     },
     "apachedirectorystudio": {
         "linux": {
-            "root": "apachedirectorystudio"
+            "root": "apachedirectorystudio",
+            "symlinks": [
+                "org.apache.directory.studio"
+            ]
         }
     },
     "apk-editor-studio": {
@@ -2780,6 +2783,7 @@
             "symlinks": [
                 "Blender",
                 "org.blender.Blender",
+                "org.blender.BlenderLTS",
                 "steam_icon_365670"
             ]
         }
@@ -6979,6 +6983,7 @@
         "linux": {
             "root": "dolphin-emu",
             "symlinks": [
+                "io.github.shiiion.primehack",
                 "org.DolphinEmu.dolphin-emu"
             ]
         }
@@ -8773,7 +8778,9 @@
         "linux": {
             "root": "flutube",
             "symlinks": [
-                "io.github.prateekmedia.flutube"
+                "io.github.prateekmedia.flutube",
+                "io.github.prateekmedia.pstube",
+                "pstube"
             ]
         }
     },
@@ -24152,6 +24159,7 @@
                 "com.github.cassidyjames.palette",
                 "com.github.keyilan.swatches",
                 "io.github.lainsce.Emulsion",
+                "org.gabmus.swatch",
                 "org.gnome.design.Palette",
                 "org.gnome.zbrown.Palette"
             ]
@@ -27604,6 +27612,7 @@
                 "chrome-bgkodfmeijboinjdegggmkbkjfiagaan-Default",
                 "chrome-gcjbnclfkeffmdfdhflnadahgmajfgcm-Default",
                 "com.gigitux.gtkwhats",
+                "com.github.WhatsApp-For-Linux",
                 "com.gigitux.youp",
                 "com.rtosta.zapzap",
                 "eu.scarpetta.QtWAW",
