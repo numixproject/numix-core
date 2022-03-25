@@ -19671,7 +19671,7 @@
             ]
         }
     },
-        "portmaster": {
+    "portmaster": {
         "linux": {
             "root": "portmaster"
         }
@@ -21032,6 +21032,14 @@
                 "gnome-quadrapassel",
                 "org.gnome.Quadrapassel",
                 "org.gnome.quadrapassel"
+            ]
+        }
+    },
+    "quadrix": {
+        "linux": {
+            "root": "quadrix",
+            "symlinks": [
+                "chat.quadrix.Quadrix"
             ]
         }
     },
