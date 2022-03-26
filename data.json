@@ -18750,6 +18750,14 @@
             ]
         }
     },
+    "passes": {
+        "linux": {
+            "root": "passes",
+            "symlinks": [
+                "me.sanchezrodriguez.passes"
+            ]
+        }
+    },
     "passky": {
         "linux": {
             "root": "passky",
