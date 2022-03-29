@@ -9576,7 +9576,10 @@
     },
     "gdevelop": {
         "linux": {
-            "root": "GDevelop"
+            "root": "GDevelop",
+            "symlinks": [
+                "io.gdevelop.ide"
+            ]
         }
     },
     "geany": {
