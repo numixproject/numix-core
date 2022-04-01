@@ -26738,6 +26738,15 @@
             "root": "Vocaluxe"
         }
     },
+    "voicegen": {
+        "linux": {
+            "root": "voicegen",
+            "symlinks": [
+                "com.gitlab.persiangolf.voicegen",
+                "io.gitlab.persiangolf.voicegen"
+            ]
+        }
+    },
     "vollyball": {
         "linux": {
             "root": "vollyball",
