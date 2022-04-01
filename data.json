@@ -9313,15 +9313,6 @@
             "root": "funkin"
         }
     },
-    "furtherance": {
-        "linux": {
-            "root": "furtherance",
-            "symlinks": [
-                "app.furtherance.Furtherance",
-                "com.lakoliu.Furtherance"
-            ]
-        }
-    },
     "furiusisomount": {
         "linux": {
             "root": "furiusisomount"
@@ -9332,6 +9323,15 @@
             "root": "furnace",
             "symlinks": [
                 "org.tildearrow.furnace"
+            ]
+        }
+    },
+    "furtherance": {
+        "linux": {
+            "root": "furtherance",
+            "symlinks": [
+                "app.furtherance.Furtherance",
+                "com.lakoliu.Furtherance"
             ]
         }
     },
