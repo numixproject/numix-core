@@ -26735,7 +26735,10 @@
     },
     "vocaluxe": {
         "linux": {
-            "root": "Vocaluxe"
+            "root": "vocaluxe",
+            "symlinks": [
+                "Vocaluxe"
+            ]
         }
     },
     "voicegen": {
