@@ -22135,6 +22135,16 @@
             "root": "rygel"
         }
     },
+    "rymdport": {
+        "linux": {
+            "root": "rymdport",
+            "symlinks": [
+                "io.github.jacalz.rymdport",
+                "io.github.jacalz.wormhole_gui",
+                "wormhole-gui"
+            ]
+        }
+    },
     "sabnzbdplus": {
         "linux": {
             "root": "sabnzbdplus"
