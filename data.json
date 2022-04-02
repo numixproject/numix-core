@@ -1956,7 +1956,9 @@
         "linux": {
             "root": "atanks",
             "symlinks": [
-                "net.sourceforge.atanks"
+                "lgeneral",
+                "net.sourceforge.atanks",
+                "net.sourceforge.lgames.LGeneral"
             ]
         }
     },
@@ -13637,6 +13639,8 @@
         "linux": {
             "root": "kbreakout",
             "symlinks": [
+                "lbreakouthd",
+                "net.sourceforge.lgames.LBreakoutHD",
                 "org.kde.kbreakout"
             ]
         }
@@ -15410,6 +15414,7 @@
             "root": "ltris",
             "symlinks": [
                 "gottet",
+                "net.sourceforge.lgames.LTris",
                 "org.gottcode.Gottet"
             ]
         }
@@ -22342,7 +22347,11 @@
     },
     "scorched3d": {
         "linux": {
-            "root": "scorched3d"
+            "root": "scorched3d",
+            "symlinks": [
+                "barrage",
+                "net.sourceforge.lgames.Barrage"
+            ]
         }
     },
     "scram": {
