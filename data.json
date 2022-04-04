@@ -12956,6 +12956,14 @@
             "root": "internet-telephony"
         }
     },
+    "iotas": {
+        "linux": {
+            "root": "iotas",
+            "symlinks": [
+                "org.gnome.gitlab.cheywood.Iotas"
+            ]
+        }
+    },
     "ipfs-desktop": {
         "linux": {
             "root": "ipfs-desktop"
