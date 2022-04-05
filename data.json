@@ -12518,6 +12518,14 @@
             ]
         }
     },
+    "hypatia": {
+        "linux": {
+            "root": "hypatia",
+            "symlinks": [
+                "com.github.HypatiaProject.hypatia"
+            ]
+        }
+    },
     "hyperdex": {
         "linux": {
             "root": "hyperdex"
@@ -26969,7 +26977,7 @@
             ]
         }
     },
-    "wavebreaker": {
+    "wavbreaker": {
         "linux": {
             "root": "wavbreaker",
             "symlinks": [
