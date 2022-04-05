@@ -23291,7 +23291,10 @@
     },
     "solaar": {
         "linux": {
-            "root": "solaar"
+            "root": "solaar",
+            "symlinks": [
+                "io.github.pwr_solaar.solaar"
+            ]
         }
     },
     "solanum": {
