@@ -24435,6 +24435,14 @@
             ]
         }
     },
+    "system-monitoring-center": {
+        "linux": {
+            "root": "system-monitoring-center",
+            "symlinks": [
+                "com.github.hakand34.system-monitoring-center"
+            ]
+        }
+    },
     "system-restart": {
         "linux": {
             "root": "system-restart",
