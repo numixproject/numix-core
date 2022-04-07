@@ -7709,6 +7709,18 @@
             "root": "elki-icon"
         }
     },
+    "elmer": {
+        "linux": {
+            "root": "elmer",
+            "symlinks": [
+                "elmer-fem",
+                "elmerfem",
+                "ElmerGUI",
+                "fi.csc.Elmer",
+                "org.elmerfem.ElmerFEM"
+            ]
+        }
+    },
     "emacs": {
         "linux": {
             "root": "emacs",
