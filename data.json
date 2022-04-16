@@ -18736,6 +18736,14 @@
             "root": "paradroid"
         }
     },
+    "parallel-launcher": {
+        "linux": {
+            "root": "parallel-launcher",
+            "symlinks": [
+                "ca.parallel_launcher.ParallelLauncher"
+            ]
+        }
+    },
     "parano": {
         "linux": {
             "root": "parano",
