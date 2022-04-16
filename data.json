@@ -27663,6 +27663,18 @@
             "root": "chrome-eempgbpnkjnacmilmobpbhbfpdjdcpgd-Default"
         }
     },
+    "web-tidal": {
+        "linux": {
+            "root": "web-tidal",
+            "symlinks": [
+                "com.mastermindzh.tidal-hifi",
+                "eu.tiliado.NuvolaAppTidal",
+                "nuvolaplayer3_tidal",
+                "tidal",
+                "tidal-hifi"
+            ]
+        }
+    },
     "web-todoist": {
         "linux": {
             "root": "chrome-fnibmbcdeepaahjmddiihohjanlimlmj-Default",
