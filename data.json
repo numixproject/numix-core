@@ -18535,6 +18535,7 @@
             "symlinks": [
                 "com.github.bitedasher.osulazer",
                 "sh.ppy.osu",
+                "sh.ppy.osu.lazer",
                 "sh.ppy.osu.osulazer",
                 "sh.ppy.osulazer"
             ]
@@ -25290,7 +25291,10 @@
     },
     "thrive-launcher": {
         "linux": {
-            "root": "thrive-launcher"
+            "root": "thrive-launcher",
+            "symlinks": [
+                "com.revolutionarygamesstudio.ThriveLauncher"
+            ]
         }
     },
     "thunar": {
