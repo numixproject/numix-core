@@ -17611,6 +17611,15 @@
             "root": "notepack"
         }
     },
+    "notepadnext": {
+        "linux": {
+            "root": "notepadnext",
+            "symlinks": [
+                "com.github.dail8859.NotepadNext",
+                "NotepadNext"
+            ]
+        }
+    },
     "notepadqq": {
         "linux": {
             "root": "notepadqq",
