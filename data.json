@@ -16218,7 +16218,10 @@
     },
     "milkytracker": {
         "linux": {
-            "root": "milkytracker"
+            "root": "milkytracker",
+            "symlinks": [
+                "org.milkytracker.MilkyTracker"
+            ]
         }
     },
     "milton": {
