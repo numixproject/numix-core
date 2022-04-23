@@ -7379,7 +7379,8 @@
         "linux": {
             "root": "dupeguru",
             "symlinks": [
-                "dgse_logo_128"
+                "dgse_logo_128",
+                "net.voltaicideas.dupeGuru"
             ]
         }
     },
@@ -21963,7 +21964,10 @@
     },
     "rkward": {
         "linux": {
-            "root": "rkward"
+            "root": "rkward",
+            "symlinks": [
+                "org.kde.rkward"
+            ]
         }
     },
     "rmg": {
