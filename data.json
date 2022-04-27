@@ -13334,6 +13334,15 @@
             ]
         }
     },
+    "jdreplace": {
+        "linux": {
+            "root": "jdreplace",
+            "symlinks": [
+                "com.gitlab.JakobDev.jdReplace",
+                "jdReplace"
+            ]
+        }
+    },
     "jedit": {
         "linux": {
             "root": "jedit"
