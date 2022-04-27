@@ -22829,6 +22829,15 @@
             "root": "sfxr-qt"
         }
     },
+    "sgdboop": {
+        "linux": {
+            "root": "sgdboop",
+            "symlinks": [
+                "com.steamgriddb.SGDBoop",
+                "SGDBoop"
+            ]
+        }
+    },
     "shadered": {
         "linux": {
             "root": "shadered",
