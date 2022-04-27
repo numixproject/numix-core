@@ -9890,7 +9890,10 @@
     },
     "git-cola": {
         "linux": {
-            "root": "git-cola"
+            "root": "git-cola",
+            "symlinks": [
+                "com.github.git_cola.git-cola"
+            ]
         }
     },
     "git-it": {
@@ -21387,7 +21390,8 @@
         "linux": {
             "root": "qxmledit",
             "symlinks": [
-                "com.github.fleury08.prettifier"
+                "com.github.fleury08.prettifier",
+                "org.qxmledit.QXmlEdit"
             ]
         }
     },
@@ -24021,7 +24025,10 @@
     },
     "steam-rom-manager": {
         "linux": {
-            "root": "steam-rom-manager"
+            "root": "steam-rom-manager",
+            "symlinks": [
+                "com.steamgriddb.steam-rom-manager"
+            ]
         }
     },
     "steamskinmanager": {
