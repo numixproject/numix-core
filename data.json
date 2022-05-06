@@ -10506,13 +10506,15 @@
         "linux": {
             "root": "gnome-mines",
             "symlinks": [
+                "billig-sweeper",
                 "gnomine",
                 "io.github.Bollos00.LibreMines",
                 "kmines",
                 "org.gnome.Mines",
                 "org.kde.kmines",
                 "sgt-mines",
-                "winemine"
+                "winemine",
+                "xyz.stuerz.BilligSweeper"
             ]
         }
     },
