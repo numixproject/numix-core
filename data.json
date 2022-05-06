@@ -14574,7 +14574,10 @@
     },
     "kst": {
         "linux": {
-            "root": "kst"
+            "root": "kst",
+            "symlinks": [
+                "org.kde.kst"
+            ]
         }
     },
     "kstars": {
