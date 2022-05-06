@@ -2974,6 +2974,14 @@
             "root": "boda-lite"
         }
     },
+    "boilr": {
+        "linux": {
+            "root": "boilr",
+            "symlinks": [
+                "io.github.philipk.boilr"
+            ]
+        }
+    },
     "boinc": {
         "linux": {
             "root": "boinc",
