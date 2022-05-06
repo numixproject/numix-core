@@ -10906,6 +10906,14 @@
             ]
         }
     },
+    "gnunet-messenger": {
+        "linux": {
+            "root": "gnunet-messenger",
+            "symlinks": [
+                "org.gnunet.Messenger"
+            ]
+        }
+    },
     "gnupg": {
         "linux": {
             "root": "gnupg",
