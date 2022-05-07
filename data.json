@@ -19387,7 +19387,10 @@
     },
     "pick-colour-picker": {
         "linux": {
-            "root": "pick-colour-picker"
+            "root": "pick-colour-picker",
+            "symlinks": [
+                "org.kryogenix.Pick"
+            ]
         }
     },
     "picmi": {
@@ -23926,7 +23929,8 @@
         "linux": {
             "root": "sqlitebrowser",
             "symlinks": [
-                "com.github.sqlitebrowser.sqlitebrowser"
+                "com.github.sqlitebrowser.sqlitebrowser",
+		"org.sqlitebrowser.sqlitebrowser"
             ]
         }
     },
