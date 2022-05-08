@@ -7429,6 +7429,7 @@
         "linux": {
             "root": "dustracing",
             "symlinks": [
+                "com.github.juzzlin.DustRacing2D",
                 "dustrac-game"
             ]
         }
@@ -8396,7 +8397,10 @@
     },
     "fheroes2": {
         "linux": {
-            "root": "fheroes2"
+            "root": "fheroes2",
+            "symlinks": [
+                "io.github.inhub.fheroes2"
+            ]
         }
     },
     "fiddler": {
@@ -24789,7 +24793,11 @@
     },
     "tartube": {
         "linux": {
-            "root": "tartube"
+            "root": "tartube",
+            "symlinks": [
+                "io.sourceforge.tartube",
+                "io.sourceforge.tartube.Tartube"
+            ]
         }
     },
     "taskcoach": {
