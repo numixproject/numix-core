@@ -23516,13 +23516,18 @@
         "linux": {
             "root": "solarus",
             "symlinks": [
+                "org.solarus_games.solarus",
+                "org.solarus_games.solarus.Launcher",
                 "solarus-launcher"
             ]
         }
     },
     "solarus-quest-editor": {
         "linux": {
-            "root": "solarus-quest-editor"
+            "root": "solarus-quest-editor",
+            "symlinks": [
+                "org.solarus_games.solarus.QuestEditor",
+            ]
         }
     },
     "solfege": {
