@@ -11223,7 +11223,10 @@
     },
     "google2ubuntu": {
         "linux": {
-            "root": "google2ubuntu"
+            "root": "google2ubuntu",
+            "symlinks": [
+                "com.github.alexkdeveloper.recorder"
+            ]
         }
     },
     "googleplus": {
