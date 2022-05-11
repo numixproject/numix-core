@@ -7001,6 +7001,15 @@
             "root": "docfetcher"
         }
     },
+    "docker": {
+        "linux": {
+            "root": "docker",
+            "symlinks": [
+                "com.github.sdv43.whaler",
+                "docker-desktop"
+            ]
+        }
+    },
     "dockremoteclient": {
         "linux": {
             "root": "dockremoteclient"
