@@ -24120,7 +24120,11 @@
     },
     "steamskinmanager": {
         "linux": {
-            "root": "steamskinmanager"
+            "root": "steamskinmanager",
+            "symlinks": [
+                "crankshaft",
+                "space.crankshaft.Crankshaft"
+            ]
         }
     },
     "stella": {
