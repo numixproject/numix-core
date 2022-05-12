@@ -5466,7 +5466,10 @@
     },
     "crow-translate": {
         "linux": {
-            "root": "crow-translate"
+            "root": "crow-translate",
+            "symlinks": [
+                "io.crow_translate.CrowTranslate"
+            ]
         }
     },
     "crusader-kings": {
@@ -14622,9 +14625,11 @@
         "linux": {
             "root": "ktrip",
             "symlinks": [
+                "com.gitlab.maevemi.publictransport",
                 "de.schmidhuberj.DieBahn",
                 "diebahn",
-                "org.kde.ktrip"
+                "org.kde.ktrip",
+                "publictransport"
             ]
         }
     },
@@ -26062,6 +26067,7 @@
         "linux": {
             "root": "tuxemon",
             "symlinks": [
+                "org.tuxemon.tuxemon"
                 "org.tuxemon.Tuxemon"
             ]
         }
@@ -26959,7 +26965,11 @@
     },
     "vlmc": {
         "linux": {
-            "root": "vlmc"
+            "root": "vlmc",
+            "symlinks": [
+                "kino",
+                "net.sourceforge.Kino"
+            ]
         }
     },
     "vmpk": {
