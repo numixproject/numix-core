@@ -18494,7 +18494,10 @@
     },
     "opentyrian": {
         "linux": {
-            "root": "opentyrian"
+            "root": "opentyrian",
+            "symlinks": [
+                "io.github.opentyrian.Opentyrian"
+            ]
         }
     },
     "openxcom": {
@@ -27202,6 +27205,7 @@
         "linux": {
             "root": "warsow",
             "symlinks": [
+                "net.warsow.Warsow",
                 "warsow128x128",
                 "wsw"
             ]
