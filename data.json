@@ -8418,7 +8418,7 @@
             "root": "fheroes2",
             "symlinks": [
                 "io.github.inhub.fheroes2",
-		"io.github.ihhub.Fheroes2"
+                "io.github.ihhub.Fheroes2"
             ]
         }
     },
@@ -10987,7 +10987,12 @@
     },
     "goat-simulator": {
         "linux": {
-            "root": "steam_icon_265930"
+            "root": "steam_icon_265930",
+            "symlinks": [
+                "goatattack",
+                "goatattack-mapeditor",
+                "net.goatattack.goatattack"
+            ]
         }
     },
     "gobby": {
@@ -13731,6 +13736,7 @@
             "symlinks": [
                 "atomix",
                 "atomix-icon",
+                "org.gnome.atomix",
                 "org.gnome.Atomix",
                 "org.kde.katomic"
             ]
@@ -13755,6 +13761,7 @@
         "linux": {
             "root": "kbibtex",
             "symlinks": [
+                "org.kde.kbibtex",
                 "pybliographic"
             ]
         }
@@ -14803,7 +14810,10 @@
     },
     "lapce": {
         "linux": {
-            "root": "lapce"
+            "root": "lapce",
+            "symlinks": [
+                "dev.lapce.lapce"
+            ]
         }
     },
     "laptop-mode-tools": {
@@ -19213,7 +19223,10 @@
     },
     "pentobi": {
         "linux": {
-            "root": "pentobi"
+            "root": "pentobi",
+            "symlinks": [
+                "io.sourceforge.pentobi"
+            ]
         }
     },
     "penumbra-black-plague-gold-edition": {
@@ -22694,7 +22707,10 @@
     },
     "sdl-ball": {
         "linux": {
-            "root": "sdl-ball"
+            "root": "sdl-ball",
+            "symlinks": [
+                "net.sourceforge.SDL-Ball"
+            ]
         }
     },
     "sdrangel": {
@@ -24146,8 +24162,10 @@
         "linux": {
             "root": "steamskinmanager",
             "symlinks": [
+                "com.valvesoftware.Steam.Utility.steamtinkerlaunch",
                 "crankshaft",
-                "space.crankshaft.Crankshaft"
+                "space.crankshaft.Crankshaft",
+                "steamtinkerlaunch"
             ]
         }
     },
