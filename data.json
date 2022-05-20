@@ -3404,7 +3404,8 @@
         "linux": {
             "root": "caffeine",
             "symlinks": [
-                "kaffeine"
+                "kaffeine",
+                "org.kde.kaffeine"
             ]
         }
     },
@@ -20501,7 +20502,10 @@
     },
     "puddletag": {
         "linux": {
-            "root": "puddletag"
+            "root": "puddletag",
+            "symlinks": [
+                "net.puddletag.puddletag"
+            ]
         }
     },
     "pulse-secure": {
