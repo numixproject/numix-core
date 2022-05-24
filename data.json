@@ -12898,6 +12898,14 @@
             "root": "iViewer"
         }
     },
+    "imhex": {
+        "linux": {
+            "root": "imhex",
+            "symlinks": [
+                "net.werwolv.ImHex"
+            ]
+        }
+    },
     "impro-visor": {
         "linux": {
             "root": "impro-visor"
@@ -13001,7 +13009,9 @@
             "root": "input-tablet",
             "symlinks": [
                 "cs-tablet",
-                "preferences-desktop-tablet"
+                "org.freedesktop.Tuhi",
+                "preferences-desktop-tablet",
+                "tuhi"
             ]
         }
     },
