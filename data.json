@@ -444,6 +444,7 @@
                 "convertall-icon",
                 "fjt",
                 "mirovideoconverter",
+                "net.fasterland.converseen",
                 "soundconverter-logo"
             ]
         }
@@ -1743,6 +1744,7 @@
                 "arduino-icon-small",
                 "arduino-ide",
                 "cc.arduino.arduinoide",
+                "cc.arduino.IDE2",
                 "gnoduino"
             ]
         }
@@ -4688,7 +4690,10 @@
     },
     "chocolate-doom": {
         "linux": {
-            "root": "chocolate-doom"
+            "root": "chocolate-doom",
+            "symlinks": [
+                "org.chocolate_doom.ChocolateDoom"
+            ]
         }
     },
     "chocolate-doom-setup": {
@@ -12913,7 +12918,8 @@
                 "gtimelog",
                 "io.github.diegoivanme.flowtime",
                 "ktimetracker",
-                "org.gtimelog.GTimeLog"
+                "org.gtimelog.GTimeLog",
+                "org.kde.ktimetracker"
             ]
         }
     },
@@ -22364,7 +22370,8 @@
         "linux": {
             "root": "runelite",
             "symlinks": [
-                "net.runelite.RuneLite"
+                "net.runelite.RuneLite",
+                "RuneLite"
             ]
         }
     },
