@@ -17872,7 +17872,12 @@
     },
     "nvvp": {
         "linux": {
-            "root": "nvvp"
+            "root": "nvvp",
+            "symlinks": [
+                "io.github.congard.qnvsm",
+                "nvidia-system-monitor-qt",
+                "qnvsm"
+            ]
         }
     },
     "nwn": {
