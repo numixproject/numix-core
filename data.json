@@ -28617,6 +28617,15 @@
             ]
         }
     },
+    "writernote": {
+        "linux": {
+            "root": "writernote",
+            "symlinks": [
+                "com.github.giacomogroppi.writernote-qt",
+                "writernote-qt"
+            ]
+        }
+    },
     "wuala": {
         "linux": {
             "root": "wuala"
