@@ -339,7 +339,10 @@
     },
     "abuse-game": {
         "linux": {
-            "root": "abuse"
+            "root": "abuse",
+            "symlinks": [
+                "com.github.Xenoveritas.abuse"
+            ]
         }
     },
     "accerciser": {
@@ -6127,6 +6130,8 @@
         "linux": {
             "root": "diffpdf",
             "symlinks": [
+                "com.gitlab.JakobDev.jdDiff",
+                "jddiff",
                 "raktpdf"
             ]
         }
@@ -8379,7 +8384,9 @@
         "linux": {
             "root": "ferdi",
             "symlinks": [
-                "com.getferdi.Ferdi"
+                "com.getferdi.Ferdi",
+                "ferdium",
+                "org.ferdium.Ferdium"
             ]
         }
     },
@@ -9320,7 +9327,10 @@
     },
     "frogatto": {
         "linux": {
-            "root": "frogatto"
+            "root": "frogatto",
+            "symlinks": [
+                "com.frogatto.Frogatto"
+            ]
         }
     },
     "frogr": {
