@@ -2498,7 +2498,10 @@
     },
     "bashtop": {
         "linux": {
-            "root": "bashtop"
+            "root": "bashtop",
+            "symlinks": [
+                "btop"
+            ]
         }
     },
     "basilisk2": {
