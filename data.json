@@ -20537,6 +20537,14 @@
             "root": "psensor"
         }
     },
+    "psi": {
+        "linux": {
+            "root": "psi",
+            "symlinks": [
+                "org.psi_im.Psi"
+            ]
+        }
+    },
     "psi-plus": {
         "linux": {
             "root": "psi-plus"
