@@ -18673,6 +18673,14 @@
             "root": "orion"
         }
     },
+    "os-installer": {
+        "linux": {
+            "root": "os-installer",
+            "symlinks": [
+                "com.github.p3732.OS-Installer"
+            ]
+        }
+    },
     "ossia-score": {
         "linux": {
             "root": "ossia-score"
@@ -18904,14 +18912,14 @@
             ]
         }
     },
-    "papers-please": {
-        "linux": {
-            "root": "steam_icon_239030"
-        }
-    },
     "papercraft": {
         "linux": {
             "root": "papercraft"
+        }
+    },
+    "papers-please": {
+        "linux": {
+            "root": "steam_icon_239030"
         }
     },
     "paperwork": {
