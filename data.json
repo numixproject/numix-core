@@ -4732,7 +4732,11 @@
     },
     "chrome-remote-desktop": {
         "linux": {
-            "root": "chrome-gbchcmhmhahfdphkhkmpfmihenigjmpp-Default"
+            "root": "chrome-remote-desktop",
+            "symlinks": [
+                "chrome-gbchcmhmhahfdphkhkmpfmihenigjmpp-Default",
+                "chrome-efmjfjelnicpmdcmfikempdhlmainjcb-Default"
+            ]
         }
     },
     "chrome-webstore": {
@@ -5628,7 +5632,9 @@
                 "keurocalc",
                 "mmex",
                 "money-manager-ex",
+                "open-numismat",
                 "org.kde.keurocalc",
+                "org.opennumismat.OpenNumismat",
                 "org.sugarlabs.Finance"
             ]
         }
@@ -6116,7 +6122,10 @@
     },
     "dia": {
         "linux": {
-            "root": "dia"
+            "root": "dia",
+            "symlinks": [
+                "org.gnome.Dia"
+            ]
         }
     },
     "dianara": {
@@ -6197,6 +6206,7 @@
                 "discord-bin",
                 "discord-ptb",
                 "gtkcord",
+                "io.github.spacingbat3.webcord",
                 "web-discord",
                 "webcord"
             ]
@@ -14759,7 +14769,10 @@
     },
     "kvirc": {
         "linux": {
-            "root": "kvirc"
+            "root": "kvirc",
+            "symlinks": [
+                "net.kvirc.KVIrc"
+            ]
         }
     },
     "kwave": {
@@ -29145,7 +29158,10 @@
     },
     "ymuse": {
         "linux": {
-            "root": "ymuse"
+            "root": "ymuse",
+            "symlinks": [
+                "com.yktoo.ymuse"
+            ]
         }
     },
     "yoga-image-optimizer": {
