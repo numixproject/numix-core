@@ -20084,7 +20084,10 @@
     },
     "pragha": {
         "linux": {
-            "root": "pragha"
+            "root": "pragha",
+            "symlinks": [
+                "io.github.pragha_music_player"
+            ]
         }
     },
     "prboom-plus": {
