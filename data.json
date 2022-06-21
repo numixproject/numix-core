@@ -19774,7 +19774,8 @@
                 "plex",
                 "plex-icon-256",
                 "plex-media-player",
-                "plexmediaplayer"
+                "plexmediaplayer",
+                "tv.plex.PlexDesktop"
             ]
         }
     },
@@ -20573,7 +20574,11 @@
     },
     "pspp": {
         "linux": {
-            "root": "pspp"
+            "root": "pspp",
+            "symlinks": [
+                "org.fsf.pspp",
+                "org.gnu.pspp"
+            ]
         }
     },
     "ptb": {
@@ -21086,7 +21091,10 @@
     },
     "qmmp": {
         "linux": {
-            "root": "qmmp"
+            "root": "qmmp",
+            "symlinks": [
+                "com.ylsoftware.qmmp.Qmmp"
+            ]
         }
     },
     "qmplay2": {
