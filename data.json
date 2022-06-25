@@ -2131,6 +2131,7 @@
         "linux": {
             "root": "audio-tag-tool",
             "symlinks": [
+                "org.nickvision.tagger",
                 "tageditor",
                 "TagTool"
             ]
@@ -2182,7 +2183,10 @@
     },
     "authpass": {
         "linux": {
-            "root": "authpass"
+            "root": "authpass",
+            "symlinks": [
+                "app.authpass.AuthPass"
+            ]
         }
     },
     "authy": {
@@ -12939,7 +12943,10 @@
     },
     "imessage": {
         "linux": {
-            "root": "iViewer"
+            "root": "iViewer",
+            "symlinks": [
+                "app.bluebubbles.BlueBubbles"
+            ]
         }
     },
     "imhex": {
@@ -16706,7 +16713,10 @@
     },
     "mongodb": {
         "linux": {
-            "root": "mongodb"
+            "root": "mongodb",
+            "symlinks": [
+                "com.mongodb.Compass"
+            ]
         }
     },
     "mono": {
