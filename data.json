@@ -13470,6 +13470,14 @@
             ]
         }
     },
+    "jdeolconverter": {
+        "linux": {
+            "root": "jdeolconverter",
+            "symlinks": [
+                "com.gitlab.JakobDev.jdEolConverter"
+            ]
+        }
+    },
     "jdownloader": {
         "linux": {
             "root": "jdownloader",
@@ -15443,7 +15451,8 @@
         "linux": {
             "root": "livewallpaper",
             "symlinks": [
-                "livewallpaper-config"
+                "livewallpaper-config",
+                "org.ubuntubudgie.wallstreet-control"
             ]
         }
     },
@@ -17101,7 +17110,8 @@
         "linux": {
             "root": "multitasking-view",
             "symlinks": [
-                "deepin-multitasking-view"
+                "deepin-multitasking-view",
+                "org.ubuntubudgie.shuffler-control"
             ]
         }
     },
@@ -20358,6 +20368,7 @@
                 "gnome-system-config",
                 "io.elementary.switchboard",
                 "kcontrol",
+                "org.buddiesofbudgie.Settings",
                 "org.gnome.Settings",
                 "org.xfce.settings.manager",
                 "paprefs",
@@ -23847,6 +23858,7 @@
         "linux": {
             "root": "soundux",
             "symlinks": [
+                "io.github.soundux.Soundux",
                 "io.github.Soundux"
             ]
         }
