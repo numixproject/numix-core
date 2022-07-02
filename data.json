@@ -4640,7 +4640,8 @@
         "linux": {
             "root": "cherrytree",
             "symlinks": [
-                "com.giuspen.cherrytree"
+                "com.giuspen.cherrytree",
+                "net.giuspen.cherrytree"
             ]
         }
     },
@@ -8739,7 +8740,10 @@
     },
     "fityk": {
         "linux": {
-            "root": "fityk"
+            "root": "fityk",
+            "symlinks": [
+                "pl.nieto.fityk"
+            ]
         }
     },
     "fitzthefox": {
@@ -28247,6 +28251,7 @@
         "linux": {
             "root": "webcamoid",
             "symlinks": [
+                "hu.irl.cameractrls",
                 "org.webcamoid.Webcamoid"
             ]
         }
