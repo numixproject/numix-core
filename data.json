@@ -1660,6 +1660,7 @@
                 "org.freedesktop.GnomeAbrt",
                 "org.freedesktop.problems.applet",
                 "org.kde.drkonqi",
+                "preferences-desktop-feedback",
                 "setroubleshoot_red_icon",
                 "system-error",
                 "tools-report-bug"
@@ -5439,6 +5440,7 @@
                 "cs-online-accounts",
                 "deepin-cloud-configuration",
                 "online-accounts",
+                "preferences-online-accounts",
                 "preferences-desktop-online-accounts"
             ]
         }
@@ -8709,6 +8711,7 @@
                 "firewall-config",
                 "fwbuilder",
                 "gufw_menu",
+                "preferences-security-firewall",
                 "preferences-system-firewall",
                 "system-config-firewall",
                 "ufw-frontends"
@@ -26029,7 +26032,8 @@
         "linux": {
             "root": "translit",
             "symlinks": [
-                "com.github.artemanufrij.translit"
+                "com.github.artemanufrij.translit",
+                "org.ubuntubudgie.quickchar"
             ]
         }
     },
@@ -27989,6 +27993,8 @@
         "linux": {
             "root": "web-reddit",
             "symlinks": [
+                "brave-lgnggepjiihbfdbedefdhcffnmhcahbm-Default",
+                "chrome-lgnggepjiihbfdbedefdhcffnmhcahbm-Default",
                 "gtkeddit",
                 "io.gitlab.caveman250.gtkeddit",
                 "io.gitlab.caveman250.headlines",
