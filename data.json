@@ -3373,6 +3373,14 @@
             ]
         }
     },
+    "butterfly": {
+        "linux": {
+            "root": "butterfly",
+            "symlinks": [
+                "dev.linwood.butterfly"
+            ]
+        }
+    },
     "buzztrax": {
         "linux": {
             "root": "buzztrax"
@@ -5440,8 +5448,8 @@
                 "cs-online-accounts",
                 "deepin-cloud-configuration",
                 "online-accounts",
-                "preferences-online-accounts",
-                "preferences-desktop-online-accounts"
+                "preferences-desktop-online-accounts",
+                "preferences-online-accounts"
             ]
         }
     },
