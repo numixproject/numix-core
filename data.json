@@ -3120,6 +3120,14 @@
             ]
         }
     },
+    "boxi": {
+        "linux": {
+            "root": "boxi",
+            "symlinks": [
+                "dev.boxi.Boxi"
+            ]
+        }
+    },
     "bpython": {
         "linux": {
             "root": "bpython"
