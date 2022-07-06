@@ -23574,6 +23574,14 @@
             "root": "slingscold"
         }
     },
+    "slowmovideo": {
+        "linux": {
+            "root": "slowmovideo",
+            "symlinks": [
+                "net.granjow.slowmovideo"
+            ]
+        }
+    },
     "sm-ssc": {
         "linux": {
             "root": "sm-ssc",
