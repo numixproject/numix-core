@@ -24851,6 +24851,14 @@
             ]
         }
     },
+    "sysdvr-qt": {
+        "linux": {
+            "root": "sysdvr-qt",
+            "symlinks": [
+                "io.github.parnassius.SysDVR_Qt"
+            ]
+        }
+    },
     "sysmontask": {
         "linux": {
             "root": "sysmontask",
