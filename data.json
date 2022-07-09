@@ -23161,7 +23161,11 @@
     },
     "sfxr-qt": {
         "linux": {
-            "root": "sfxr-qt"
+            "root": "sfxr-qt",
+            "symlinks": [
+                "Pulsemeeter",
+                "pulsemeeter"
+            ]
         }
     },
     "sgdboop": {
