@@ -2604,7 +2604,10 @@
     },
     "beeref": {
         "linux": {
-            "root": "beeref"
+            "root": "beeref",
+            "symlinks": [
+                "org.beeref.BeeRef"
+            ]
         }
     },
     "beholder": {
