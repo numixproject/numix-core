@@ -1695,13 +1695,13 @@
             "root": "steam_icon_24420"
         }
     },
-    "aquemu": {
+    "aqemu": {
         "linux": {
-            "root": "aquemu",
+            "root": "aqemu",
             "symlinks": [
                 "aqemu",
                 "aqemu-32x32",
-                "aquemu_48x48"
+                "aqemu_48x48"
             ]
         }
     },
@@ -21074,6 +21074,8 @@
                 "qemu-system-i386",
                 "qemu-system-x86_64",
                 "qemu-system-x86_64-spice",
+                "quickgui",
+                "quickgui_512",
                 "qtemu"
             ]
         }
@@ -28492,7 +28494,10 @@
     },
     "whatsie": {
         "linux": {
-            "root": "whatsie"
+            "root": "whatsie",
+            "symlinks": [
+                "com.ktechpit.whatsie"
+            ]
         }
     },
     "whoswho": {
