@@ -1482,6 +1482,7 @@
             "symlinks": [
                 "applications-all",
                 "chrome-app-list",
+                "create-launcher",
                 "deepin-launcher"
             ]
         }
@@ -1758,8 +1759,11 @@
         "linux": {
             "root": "areca",
             "symlinks": [
+                "anacronopete",
                 "areca_72x72",
-                "backintime"
+                "backintime",
+                "cronopete",
+                "org.rastersoft.cronopete"
             ]
         }
     },
@@ -13791,6 +13795,7 @@
                 "acidrip",
                 "backlite",
                 "devede",
+                "devedeng_icon",
                 "devedeng",
                 "k9copy"
             ]
@@ -25415,7 +25420,10 @@
     },
     "terminus": {
         "linux": {
-            "root": "terminus"
+            "root": "terminus",
+            "symlinks": [
+                "org.rastersoft.terminus"
+            ]
         }
     },
     "terminusdb": {
