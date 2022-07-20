@@ -232,8 +232,8 @@
             "root": "86box",
             "symlinks": [
                 "86Box",
-                "net._86box._86Box",
-                "net.86box.86Box"
+                "net.86box.86Box",
+                "net._86box._86Box"
             ]
         }
     },
@@ -19661,6 +19661,14 @@
     "picom": {
         "linux": {
             "root": "picom"
+        }
+    },
+    "picplanner": {
+        "linux": {
+            "root": "picplanner",
+            "symlinks": [
+                "de.zwarf.picplanner"
+            ]
         }
     },
     "picsaw": {
