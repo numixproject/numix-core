@@ -231,7 +231,9 @@
         "linux": {
             "root": "86box",
             "symlinks": [
-                "86Box"
+                "86Box",
+                "net._86box._86Box",
+                "net.86box.86Box"
             ]
         }
     },
