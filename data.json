@@ -1125,7 +1125,11 @@
     },
     "am2r": {
         "linux": {
-            "root": "am2r"
+            "root": "am2r",
+            "symlinks": [
+                "AM2RLauncher",
+                "io.github.am2rcommunitydevelopers.AM2RLauncher"
+            ]
         }
     },
     "amarok": {
