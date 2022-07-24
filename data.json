@@ -5025,6 +5025,14 @@
             "root": "com.github.davidmhewitt.clipped"
         }
     },
+    "clipqr": {
+        "linux": {
+            "root": "clipqr",
+            "symlinks": [
+                "ch.imatt.ClipQR"
+            ]
+        }
+    },
     "closure": {
         "linux": {
             "root": "steam_icon_72000"
@@ -25976,6 +25984,14 @@
             ]
         }
     },
+    "tlpui": {
+        "linux": {
+            "root": "tlpui",
+            "symlinks": [
+                "com.github.d4nj1.tlpui"
+            ]
+        }
+    },
     "to-the-moon": {
         "linux": {
             "root": "steam_icon_206440"
@@ -26012,14 +26028,6 @@
             "symlinks": [
                 "steam_icon_201430",
                 "steam_icon_237530"
-            ]
-        }
-    },
-    "tlpui": {
-        "linux": {
-            "root": "tlpui",
-            "symlinks": [
-                "com.github.d4nj1.tlpui"
             ]
         }
     },
