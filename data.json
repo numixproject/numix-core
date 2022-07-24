@@ -5270,19 +5270,19 @@
             "root": "conky-manager-alt"
         }
     },
-    "contour": {
-        "linux": {
-            "root": "cotour",
-            "symlinks": [
-                "org.contour_terminal.Terminal"
-            ]
-        }
-    },
     "connectagram": {
         "linux": {
             "root": "connectagram",
             "symlinks": [
                 "org.gottcode.Connectagram"
+            ]
+        }
+    },
+    "contour": {
+        "linux": {
+            "root": "cotour",
+            "symlinks": [
+                "org.contour_terminal.Terminal"
             ]
         }
     },
@@ -26012,6 +26012,14 @@
             "symlinks": [
                 "steam_icon_201430",
                 "steam_icon_237530"
+            ]
+        }
+    },
+    "tlpui": {
+        "linux": {
+            "root": "tlpui",
+            "symlinks": [
+                "com.github.d4nj1.tlpui"
             ]
         }
     },
