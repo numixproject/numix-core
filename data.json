@@ -5270,6 +5270,14 @@
             "root": "conky-manager-alt"
         }
     },
+    "contour": {
+        "linux": {
+            "root": "cotour",
+            "symlinks": [
+                "org.contour_terminal.Terminal"
+            ]
+        }
+    },
     "connectagram": {
         "linux": {
             "root": "connectagram",
