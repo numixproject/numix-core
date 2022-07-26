@@ -25098,6 +25098,14 @@
             "root": "systemback"
         }
     },
+    "tachidesk": {
+        "linux": {
+            "root": "tachidesk",
+            "symlinks": [
+                "tachidesk-server"
+            ]
+        }
+    },
     "tachiyomi": {
         "android": [
             "eu.kanade.tachiyomi/eu.kanade.tachiyomi.ui.main.MainActivity"
