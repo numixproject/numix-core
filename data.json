@@ -19292,6 +19292,15 @@
             ]
         }
     },
+    "pcem": {
+        "linux": {
+            "root": "pcem",
+            "symlinks": [
+                "pcem-run",
+                "uk.co.pcem_emulator.pcem"
+            ]
+        }
+    },
     "pcsx-icon": {
         "linux": {
             "root": "pcsx-icon",
