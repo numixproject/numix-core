@@ -4484,7 +4484,10 @@
     },
     "caneda": {
         "linux": {
-            "root": "caneda"
+            "root": "caneda",
+            "symlinks": [
+                "openhardwaremonitor"
+            ]
         }
     },
     "canopy": {
