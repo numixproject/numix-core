@@ -24521,7 +24521,10 @@
     },
     "stella": {
         "linux": {
-            "root": "stella"
+            "root": "stella",
+            "symlinks": [
+                "io.github.stella_emu.Stella"
+            ]
         }
     },
     "stellaris": {
