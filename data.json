@@ -365,6 +365,7 @@
             "root": "accessories-camera",
             "symlinks": [
                 "BTM",
+                "booth",
                 "camera",
                 "camera-app",
                 "camera-photo",
@@ -1591,10 +1592,12 @@
         "linux": {
             "root": "applications-games",
             "symlinks": [
+                "arkade",
                 "deepin-game-center",
                 "gnome-games",
                 "org.gnome.Games",
                 "org.gnome.World.Highscore",
+                "org.kde.arkade",
                 "preferences-desktop-gaming"
             ]
         }
@@ -2036,7 +2039,8 @@
         "linux": {
             "root": "atlantik",
             "symlinks": [
-                "gtkatlantic"
+                "gtkatlantic",
+                "org.kde.atlantik"
             ]
         }
     },
@@ -2132,7 +2136,10 @@
     },
     "audex": {
         "linux": {
-            "root": "audex"
+            "root": "audex",
+            "symlinks": [
+                "org.kde.audex"
+            ]
         }
     },
     "audience": {
@@ -4770,7 +4777,10 @@
     },
     "choqok": {
         "linux": {
-            "root": "choqok"
+            "root": "choqok",
+            "symlinks": [
+                "org.kde.choqok"
+            ]
         }
     },
     "chores": {
@@ -5050,7 +5060,9 @@
         "linux": {
             "root": "clipqr",
             "symlinks": [
-                "ch.imatt.ClipQR"
+                "ch.imatt.ClipQR",
+                "kodaskanna",
+                "org.kde.kodaskanna"
             ]
         }
     },
@@ -9129,7 +9141,7 @@
                 "applications-fonts",
                 "cs-fonts",
                 "deepin-font-installer",
-                "deepin-font-manager"
+                "deepin-font-manager",
                 "gnome-settings-font",
                 "kfontview",
                 "org.gnome.font-viewer",
@@ -10531,8 +10543,10 @@
         "linux": {
             "root": "gnome-design-lorem",
             "symlinks": [
+                "eloquens",
                 "lorem",
-                "org.gnome.design.Lorem"
+                "org.gnome.design.Lorem",
+                "org.kde.eloquens"
             ]
         }
     },
@@ -13166,6 +13180,7 @@
                 "input_device_settings",
                 "kmousetool",
                 "mouse",
+                "org.kde.kmousetool",
                 "org.xfce.settings.mouse",
                 "preferences-desktop-mouse"
             ]
@@ -16976,7 +16991,8 @@
         "linux": {
             "root": "mplayer",
             "symlinks": [
-                "kmplayer"
+                "kmplayer",
+                "org.kde.kmplayer"
             ]
         }
     },
@@ -20016,7 +20032,9 @@
         "linux": {
             "root": "plots",
             "symlinks": [
-                "com.github.alexhuntley.Plots"
+                "com.github.alexhuntley.Plots",
+                "khipu",
+                "org.kde.khipu"
             ]
         }
     },
@@ -20964,6 +20982,7 @@
             "symlinks": [
                 "gnubik",
                 "kubrick",
+                "org.kde.kubrick",
                 "org.sugarlabs.ColorDeducto",
                 "playbox"
             ]
@@ -25257,6 +25276,7 @@
                 "done",
                 "io.elementary.reminders",
                 "org.devloop.Done",
+                "org.kde.tasks",
                 "yishu"
             ]
         }
@@ -25993,7 +26013,8 @@
             "root": "timetrack",
             "symlinks": [
                 "net.danigm.timetrack",
-                "org.gnome.timetrack"
+                "org.gnome.timetrack",
+                "org.kde.francis"
             ]
         }
     },
@@ -27074,7 +27095,9 @@
         "linux": {
             "root": "vaults",
             "symlinks": [
-                "io.github.mpobaschnig.Vaults"
+                "io.github.mpobaschnig.Vaults",
+                "org.kde.plasmavault",
+                "plasmavault"
             ]
         }
     },
@@ -28071,6 +28094,7 @@
             "symlinks": [
                 "chrome-icdipabjmbhpdkjaihfjoikhjjeneebd-Default",
                 "helpman",
+                "org.kde.tellico",
                 "tellico",
                 "unity-webapps-amazoncloudreader"
             ]
