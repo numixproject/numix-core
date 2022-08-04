@@ -369,6 +369,7 @@
                 "camera-app",
                 "camera-photo",
                 "camorama",
+                "deepin-camera",
                 "gtkam",
                 "io.elementary.camera",
                 "kamoso",
@@ -402,6 +403,7 @@
             "root": "accessories-document-viewer",
             "symlinks": [
                 "atril",
+                "deepin-reader",
                 "graphics-viewer-document",
                 "maui-shelf",
                 "org.maui.shelf",
@@ -2414,7 +2416,8 @@
         "linux": {
             "root": "backer",
             "symlinks": [
-                "Backer"
+                "Backer",
+                "deepin-clone"
             ]
         }
     },
@@ -4487,6 +4490,7 @@
         "linux": {
             "root": "caneda",
             "symlinks": [
+                "deepin-graphics-driver-manager",
                 "openhardwaremonitor"
             ]
         }
@@ -8631,6 +8635,7 @@
                 "archive-manager",
                 "archivemanager",
                 "ark",
+                "deepin-compressor",
                 "engrampa",
                 "gvfsd-archive-file",
                 "lxqt-archiver",
@@ -9124,6 +9129,7 @@
                 "applications-fonts",
                 "cs-fonts",
                 "deepin-font-installer",
+                "deepin-font-manager"
                 "gnome-settings-font",
                 "kfontview",
                 "org.gnome.font-viewer",
@@ -9202,6 +9208,7 @@
             "root": "fotowall",
             "symlinks": [
                 "com.github.aharotias2.parapara",
+                "deepin-album",
                 "kirigami2gallery",
                 "kphotoalbum",
                 "org.kde.kirigami2.gallery",
@@ -10038,7 +10045,8 @@
                 "com.github.manisandro.gImageReader",
                 "com.github.manisandro.gImageReader-gtk",
                 "com.github.manisandro.gImageReader-qt5",
-                "com.github.manisandro.gImageReader-qt6"
+                "com.github.manisandro.gImageReader-qt6",
+                "deepin-ocr"
             ]
         }
     },
@@ -11919,7 +11927,8 @@
         "linux": {
             "root": "gtk-stress-testing",
             "symlinks": [
-                "com.leinardi.gst"
+                "com.leinardi.gst",
+                "deepin-devicemanager"
             ]
         }
     },
@@ -14258,6 +14267,8 @@
             "symlinks": [
                 "cgoban",
                 "cgoban_32x32",
+                "com.deepin.gomoku",
+                "deepin-gomoku",
                 "gogui",
                 "org.kde.kigo",
                 "quarry"
@@ -15657,6 +15668,7 @@
         "linux": {
             "root": "logview",
             "symlinks": [
+                "deepin-log-viewer",
                 "gnome-logs",
                 "gnome-system-log",
                 "logviewer",
@@ -16399,6 +16411,7 @@
                 "alacarte",
                 "com.github.alexkdeveloper.desktop-files-creator",
                 "com.github.donadigo.appeditor",
+                "desktop-entry-editor",
                 "drakmenustyle",
                 "ezame",
                 "gnome-gmenu",
@@ -19048,6 +19061,7 @@
         "linux": {
             "root": "palimpsest",
             "symlinks": [
+                "deepin-diskmanager",
                 "gdiskdump",
                 "gdmap",
                 "gdmap_icon",
@@ -20669,6 +20683,7 @@
             "root": "printer",
             "symlinks": [
                 "cs-printer",
+                "dde-printer",
                 "org.kde.ConfigurePrinter",
                 "preferences-desktop-printer",
                 "preferences-devices-printer"
@@ -25565,6 +25580,8 @@
         "linux": {
             "root": "tetzle",
             "symlinks": [
+                "com.deepin.lianliankan",
+                "deepin-lianliankan",
                 "n-puzzle",
                 "org.gottcode.Tetzle"
             ]
@@ -26878,7 +26895,11 @@
     },
     "usb-imagewriter-ng": {
         "linux": {
-            "root": "usb-imagewriter-ng"
+            "root": "usb-imagewriter-ng",
+            "symlinks": [
+                "dde-device-formatter",
+                "usb-device-formatter"
+            ]
         }
     },
     "usbguard": {
@@ -27483,6 +27504,7 @@
             "symlinks": [
                 "com.github.needle-and-thread.vocal",
                 "com.github.needleandthread.vocal",
+                "deepin-voice-note",
                 "kasts",
                 "org.kde.kasts"
             ]
