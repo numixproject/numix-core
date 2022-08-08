@@ -5864,7 +5864,13 @@
     },
     "date-countdown": {
         "linux": {
-            "root": "com.github.rickybas.date-countdown"
+            "root": "com.github.rickybas.date-countdown",
+            "symlinks": [
+                "com.jetbrains.DataGrip",
+                "daykountdown",
+                "jetbrains-datagrip",
+                "org.kde.daykountdown"
+            ]
         }
     },
     "daty": {
@@ -10454,6 +10460,7 @@
                 "alarm-clock",
                 "cairo-clock",
                 "cuckoo",
+                "kclock",
                 "klock",
                 "korgac",
                 "mate-panel-clock",
