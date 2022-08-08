@@ -15424,6 +15424,14 @@
             "root": "librevault"
         }
     },
+    "licentia": {
+        "linux": {
+            "root": "licentia",
+            "symlinks": [
+                "org.kde.licentia"
+            ]
+        }
+    },
     "librewolf": {
         "linux": {
             "root": "librewolf",
