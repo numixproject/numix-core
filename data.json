@@ -22645,6 +22645,14 @@
             "root": "raven-reader"
         }
     },
+    "rss-orange-dark": {
+        "linux": {
+            "root": "syndic",
+            "symlinks": [
+                "com.rocksandpaper.syndic"
+            ]
+        }
+    },
     "rss-red": {
         "linux": {
             "root": "allen-b1.news",
