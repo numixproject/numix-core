@@ -13915,6 +13915,14 @@
             "root": "kaku"
         }
     },
+    "kalarm": {
+        "linux": {
+            "root": "kalarm",
+            "symlinks": [
+                "org.kde.kalarm"
+            ]
+        }
+    },
     "kalgebra": {
         "linux": {
             "root": "kalgebra",
@@ -20665,9 +20673,7 @@
                 "gnome-set-time",
                 "gtubeclock",
                 "gworldclock",
-                "kalarm",
                 "ktimer",
-                "org.kde.kalarm",
                 "org.kde.ktimer",
                 "preferences-system-cron",
                 "stock_alarm",
