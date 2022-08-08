@@ -15424,20 +15424,20 @@
             "root": "librevault"
         }
     },
-    "licentia": {
-        "linux": {
-            "root": "licentia",
-            "symlinks": [
-                "org.kde.licentia"
-            ]
-        }
-    },
     "librewolf": {
         "linux": {
             "root": "librewolf",
             "symlinks": [
                 "io.gitlab.LibreWolf",
                 "io.gitlab.librewolf-community"
+            ]
+        }
+    },
+    "licentia": {
+        "linux": {
+            "root": "licentia",
+            "symlinks": [
+                "org.kde.licentia"
             ]
         }
     },
@@ -26135,6 +26135,14 @@
             "symlinks": [
                 "steam_icon_201430",
                 "steam_icon_237530"
+            ]
+        }
+    },
+    "tokodon": {
+        "linux": {
+            "root": "tokodon",
+            "symlinks": [
+                "org.kde.tokodon"
             ]
         }
     },
