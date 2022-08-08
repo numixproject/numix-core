@@ -26157,11 +26157,19 @@
             ]
         }
     },
-        "tomviz": {
+    "tomviz": {
         "linux": {
             "root": "tomviz",
             "symlinks": [
                 "org.tomviz.Tomviz"
+            ]
+        }
+    },
+    "toolbx-tuner": {
+        "linux": {
+            "root": "toolbx-tuner",
+            "symlinks": [
+                "org.kuchelmeister.ToolbxTuner"
             ]
         }
     },
