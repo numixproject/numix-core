@@ -17473,7 +17473,10 @@
     },
     "myuzi": {
         "linux": {
-            "root": "myuzi"
+            "root": "myuzi",
+            "symlinks": [
+                "com.gitlab.zehkira.Myuzi"
+            ]
         }
     },
     "myvpn": {
