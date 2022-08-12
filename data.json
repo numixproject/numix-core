@@ -15873,6 +15873,14 @@
             "root": "ludo"
         }
     },
+    "ludusavi": {
+        "linux": {
+            "root": "ludusavi",
+            "symlinks": [
+                "com.github.mtkennerly.ludusavi"
+            ]
+        }
+    },
     "luminance-hdr": {
         "linux": {
             "root": "luminance-hdr",
