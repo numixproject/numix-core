@@ -20097,6 +20097,14 @@
             ]
         }
     },
+    "podman-desktop": {
+        "linux": {
+            "root": "podman-desktop",
+            "symlinks": [
+                "io.podman_desktop.PodmanDesktop"
+            ]
+        }
+    },
     "poedit": {
         "linux": {
             "root": "poedit",
