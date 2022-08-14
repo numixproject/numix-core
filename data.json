@@ -22951,9 +22951,17 @@
             ]
         }
     },
-        "scenarist": {
+    "scenarist": {
         "linux": {
             "root": "scenarist"
+        }
+    },
+    "scenebuilder": {
+        "linux": {
+            "root": "scenebuilder",
+            "symlinks": [
+                "com.gluonhq.scenebuilder"
+            ]
         }
     },
     "schildichat": {
