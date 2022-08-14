@@ -27813,6 +27813,14 @@
             ]
         }
     },
+    "watchmate": {
+        "linux": {
+            "root": "watchmate",
+            "symlinks": [
+                "io.gitlab.azymohliad.WatchMate"
+            ]
+        }
+    },
     "waterfox": {
         "linux": {
             "root": "waterfox",
