@@ -12558,7 +12558,10 @@
     },
     "highlight": {
         "linux": {
-            "root": "highlight"
+            "root": "highlight",
+            "symlinks": [
+                "io.github.thiefmd.themegenerator"
+            ]
         }
     },
     "hipchat": {
