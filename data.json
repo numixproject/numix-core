@@ -11601,6 +11601,16 @@
             ]
         }
     },
+    "gradience": {
+        "linux": {
+            "root": "gradience",
+            "symlinks": [
+                "adwcustomizer",
+                "com.github.AdwCustomizerTeam.AdwCustomizer",
+                "com.github.AdwCustomizerTeam.Gradience"
+            ]
+        }
+    },
     "gradio": {
         "linux": {
             "root": "gradio",
