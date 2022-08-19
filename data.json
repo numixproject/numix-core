@@ -11597,7 +11597,9 @@
         "linux": {
             "root": "grace",
             "symlinks": [
-                "ngraph"
+                "ngraph",
+                "ro.fxdata.taskmonitor.viewer",
+                "tkmviewer",
             ]
         }
     },
