@@ -11599,7 +11599,7 @@
             "symlinks": [
                 "ngraph",
                 "ro.fxdata.taskmonitor.viewer",
-                "tkmviewer",
+                "tkmviewer"
             ]
         }
     },
@@ -13550,6 +13550,7 @@
                 "java16-openjdk",
                 "java17-openjdk",
                 "java18-openjdk",
+                "java19-openjdk",
                 "java8-openjdk",
                 "java9-openjdk",
                 "javaws",
@@ -13562,6 +13563,7 @@
                 "openjdk-16",
                 "openjdk-17",
                 "openjdk-18",
+                "openjdk-19",
                 "openjdk-6",
                 "openjdk-7",
                 "openjdk-8",
@@ -13576,6 +13578,7 @@
                 "oracle_java16",
                 "oracle_java17",
                 "oracle_java18",
+                "oracle_java19",
                 "oracle_java6",
                 "oracle_java7",
                 "oracle_java8",
@@ -13591,6 +13594,7 @@
                 "org.freedesktop.Sdk.Extension.openjdk16",
                 "org.freedesktop.Sdk.Extension.openjdk17",
                 "org.freedesktop.Sdk.Extension.openjdk18",
+                "org.freedesktop.Sdk.Extension.openjdk19",
                 "org.freedesktop.Sdk.Extension.openjdk8",
                 "org.freedesktop.Sdk.Extension.openjdk9",
                 "sun-java",
@@ -15297,6 +15301,7 @@
                 "libreoffice7.1-base",
                 "libreoffice7.2-base",
                 "libreoffice7.3-base",
+                "libreoffice7.4-base",
                 "libreofficedev6.1-base",
                 "org.libreoffice.LibreOffice-base",
                 "org.libreoffice.LibreOffice.base"
@@ -15317,6 +15322,7 @@
                 "libreoffice7.1-calc",
                 "libreoffice7.2-calc",
                 "libreoffice7.3-calc",
+                "libreoffice7.4-calc",
                 "libreofficedev6.1-calc",
                 "org.libreoffice.LibreOffice-calc",
                 "org.libreoffice.LibreOffice.calc"
@@ -15337,6 +15343,7 @@
                 "libreoffice7.1-draw",
                 "libreoffice7.2-draw",
                 "libreoffice7.3-draw",
+                "libreoffice7.4-draw",
                 "libreofficedev6.1-draw",
                 "org.libreoffice.LibreOffice-draw",
                 "org.libreoffice.LibreOffice.draw"
@@ -15357,6 +15364,7 @@
                 "libreoffice7.1-impress",
                 "libreoffice7.2-impress",
                 "libreoffice7.3-impress",
+                "libreoffice7.4-impress",
                 "libreofficedev6.1-impress",
                 "org.libreoffice.LibreOffice-impress",
                 "org.libreoffice.LibreOffice.impress"
@@ -15384,6 +15392,7 @@
                 "libreoffice7.1-startcenter",
                 "libreoffice7.2-startcenter",
                 "libreoffice7.3-startcenter",
+                "libreoffice7.4-startcenter",
                 "libreofficedev6.1-startcenter",
                 "org.libreoffice.LibreOffice-startcenter",
                 "org.libreoffice.LibreOffice.startcenter"
@@ -15404,6 +15413,7 @@
                 "libreoffice7.1-math",
                 "libreoffice7.2-math",
                 "libreoffice7.3-math",
+                "libreoffice7.4-math",
                 "libreofficedev6.1-math",
                 "org.libreoffice.LibreOffice-math",
                 "org.libreoffice.LibreOffice.math"
@@ -15417,7 +15427,8 @@
                 "libreoffice3-template",
                 "libreoffice34-template",
                 "libreoffice7.2-template",
-                "libreoffice7.3-template"
+                "libreoffice7.3-template",
+                "libreoffice7.4-template"
             ]
         }
     },
@@ -15435,6 +15446,7 @@
                 "libreoffice7.1-writer",
                 "libreoffice7.2-writer",
                 "libreoffice7.3-writer",
+                "libreoffice7.4-writer",
                 "libreofficedev6.1-writer",
                 "org.libreoffice.LibreOffice-writer",
                 "org.libreoffice.LibreOffice.writer"
