@@ -200,6 +200,7 @@
         "linux": {
             "root": "7kaa",
             "symlinks": [
+                "com.sevenkfans.SevenKingdomsAncientAdversaries",
                 "steam_icon_450140"
             ]
         }
@@ -6545,7 +6546,10 @@
     },
     "distributor-logo-endeavouros": {
         "linux": {
-            "root": "distributor-logo-endeavouros"
+            "root": "distributor-logo-endeavouros",
+            "symlinks": [
+                "endeavouros-icon"
+            ]
         }
     },
     "distributor-logo-endlessos": {
