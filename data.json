@@ -9726,6 +9726,7 @@
                 "bsnes",
                 "dev.bsnes.bsnes",
                 "gvbam",
+                "io.github.sameboy.SameBoy",
                 "io.mgba.mGBA",
                 "mgba",
                 "sameboy",
@@ -11663,6 +11664,9 @@
         "linux": {
             "root": "granatier",
             "symlinks": [
+                "com.github.varnholt.dynablaster_revenge",
+                "dynablaster",
+                "dynablaster_revenge",
                 "org.kde.granatier"
             ]
         }
