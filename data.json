@@ -2251,7 +2251,7 @@
             "root": "avastgui"
         }
     },
-        "avatar-creator": {
+    "avatar-creator": {
         "linux": {
             "root": "avatar-creator",
             "symlinks": [
@@ -2664,6 +2664,14 @@
             "symlinks": [
                 "bespoke_icon",
                 "BespokeSynth"
+            ]
+        }
+    },
+    "betterbird": {
+        "linux": {
+            "root": "betterbird",
+            "symlinks": [
+                "eu.betterbird.Betterbird"
             ]
         }
     },
