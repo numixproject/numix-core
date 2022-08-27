@@ -10479,7 +10479,6 @@
                 "org.gnome.clocks",
                 "org.gnome.Clocks",
                 "org.kde.kclock",
-                "osmo",
                 "rclock"
             ]
         }
@@ -16290,9 +16289,11 @@
             "root": "maui-contacts",
             "symlinks": [
                 "communicator",
+                "net.sourceforge.osmo",
                 "org.kde.communicator",
                 "org.kde.phonebook",
-                "org.maui.contacts"
+                "org.maui.contacts",
+                "osmo"
             ]
         }
     },
