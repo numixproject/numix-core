@@ -21339,7 +21339,11 @@
     },
     "qfractalnow": {
         "linux": {
-            "root": "qfractalnow"
+            "root": "qfractalnow",
+            "symlinks": [
+                "io.github.xaos_project.XaoS",
+                "xaos"
+            ]
         }
     },
     "qgifer": {
