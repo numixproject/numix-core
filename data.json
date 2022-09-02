@@ -15912,7 +15912,9 @@
         "linux": {
             "root": "ltris",
             "symlinks": [
+                "blockattack",
                 "gottet",
+                "net.blockattack.game",
                 "net.sourceforge.lgames.LTris",
                 "org.gottcode.Gottet"
             ]
@@ -26423,7 +26425,10 @@
     },
     "torrent-file-editor": {
         "linux": {
-            "root": "torrent-file-editor"
+            "root": "torrent-file-editor",
+            "symlinks": [
+                "io.github.Torrent-file-editor"
+            ]
         }
     },
     "torrential": {
