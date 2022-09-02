@@ -1994,6 +1994,7 @@
         "linux": {
             "root": "atanks",
             "symlinks": [
+                "io.sourceforge.atanks",
                 "lgeneral",
                 "net.sourceforge.atanks",
                 "net.sourceforge.lgames.LGeneral"
@@ -2106,7 +2107,10 @@
     },
     "atomic-wallet": {
         "linux": {
-            "root": "atomic"
+            "root": "atomic-wallet",
+            "symlinks": [
+                "atomic"
+            ]
         }
     },
     "auale": {
@@ -7827,6 +7831,16 @@
                 "electron7",
                 "electron8",
                 "electron9",
+                "electron10",
+                "electron11",
+                "electron12",
+                "electron13",
+                "electron14",
+                "electron15",
+                "electron16",
+                "electron17",
+                "electron18",
+                "electron19",
                 "io.atom.electron.BaseApp",
                 "org.electronjs.Electron.BaseApp",
                 "org.electronjs.Electron2.BaseApp",
@@ -7893,6 +7907,7 @@
         "linux": {
             "root": "element-desktop",
             "symlinks": [
+                "Element",
                 "element",
                 "element-desktop-bin",
                 "element-nightly",
@@ -16021,9 +16036,12 @@
             "symlinks": [
                 "com.github.efdos.mupengui",
                 "io.github.m64p.m64p",
+                "io.github.simple64.simple64",
+                "m64p",
                 "mupen64plus",
                 "mupen64plus-qt",
-                "org.mupen64plus.Mupen64Plus"
+                "org.mupen64plus.Mupen64Plus",
+                "simple64"
             ]
         }
     },
@@ -20100,7 +20118,8 @@
                 "org.phoenicis.playonlinux",
                 "phoenicis",
                 "PlayOnLinux",
-                "playonlinux32"
+                "playonlinux32",
+                "playonlinux4"
             ]
         }
     },
