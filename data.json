@@ -7733,7 +7733,10 @@
     },
     "edgar": {
         "linux": {
-            "root": "edgar"
+            "root": "edgar",
+            "symlinks": [
+                "uk.co.parallelrealities.games.edgar"
+            ]
         }
     },
     "edge-game": {
@@ -11572,8 +11575,10 @@
         "linux": {
             "root": "gpodder",
             "symlinks": [
+                "gpodder-adaptive",
                 "io.gpodder.gPodder",
-                "org.gpodder.gpodder"
+                "org.gpodder.gpodder",
+                "org.gpodder.gpodder-adaptive"
             ]
         }
     },
@@ -17171,6 +17176,7 @@
                 "chrome-ciniambnphakdoflgeamacamhfllbkmo-Default",
                 "com.corifeus.onenote",
                 "onenote",
+                "p3x-onenote",
                 "web-onenote"
             ]
         }
@@ -21263,7 +21269,8 @@
             "symlinks": [
                 "io.github.Qalculate",
                 "io.github.qalculate.Qalculate",
-                "io.github.Qalculate.qalculate-qt"
+                "io.github.Qalculate.qalculate-qt",
+                "qalculate-qt"
             ]
         }
     },
