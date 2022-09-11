@@ -2097,14 +2097,6 @@
             ]
         }
     },
-    "atoms": {
-        "linux": {
-            "root": "atoms",
-            "symlinks": [
-                "pm.mirko.Atoms"
-            ]
-        }
-    },
     "atomic-game-engine": {
         "linux": {
             "root": "AtomicGameEngine",
@@ -2118,6 +2110,14 @@
             "root": "atomic-wallet",
             "symlinks": [
                 "atomic"
+            ]
+        }
+    },
+    "atoms": {
+        "linux": {
+            "root": "atoms",
+            "symlinks": [
+                "pm.mirko.Atoms"
             ]
         }
     },
@@ -8359,6 +8359,14 @@
     "exult": {
         "linux": {
             "root": "exult"
+        }
+    },
+    "eyedropper": {
+        "linux": {
+            "root": "eyedropper",
+            "symlinks": [
+                "com.github.finefindus.eyedropper"
+            ]
         }
     },
     "f-spot": {
