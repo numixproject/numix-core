@@ -2097,6 +2097,14 @@
             ]
         }
     },
+    "atoms": {
+        "linux": {
+            "root": "atoms",
+            "symlinks": [
+                "pm.mirko.Atoms"
+            ]
+        }
+    },
     "atomic-game-engine": {
         "linux": {
             "root": "AtomicGameEngine",
