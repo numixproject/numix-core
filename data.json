@@ -27354,6 +27354,14 @@
             "root": "valyriatear"
         }
     },
+    "vapad": {
+        "linux": {
+            "root": "vapad",
+            "symlinks": [
+                "org.hitchhiker_linux.vapad"
+            ]
+        }
+    },
     "varicad-viewer": {
         "linux": {
             "root": "varicad-viewer"
