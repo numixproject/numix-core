@@ -23826,7 +23826,10 @@
     },
     "sk1-color-picker": {
         "linux": {
-            "root": "sk1-color-picker"
+            "root": "sk1-color-picker",
+            "symlinks": [
+                "xcolor"
+            ]
         }
     },
     "skifra": {
