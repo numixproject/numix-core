@@ -7818,7 +7818,11 @@
     },
     "eko": {
         "linux": {
-            "root": "eko"
+            "root": "eko",
+            "symlinks": [
+                "gwaveedit",
+                "mhwaveedit"
+            ]
         }
     },
     "electorrent": {
