@@ -9983,6 +9983,14 @@
             "root": "genymotion-player"
         }
     },
+    "geobug": {
+        "linux": {
+            "root": "geobug",
+            "symlinks": [
+                "page.codeberg.tpikonen.geobug"
+            ]
+        }
+    },
     "geogebra": {
         "linux": {
             "root": "geogebra",
