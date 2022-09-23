@@ -14229,7 +14229,11 @@
     },
     "kdiskmark": {
         "linux": {
-            "root": "kdiskmark"
+            "root": "kdiskmark",
+            "symlinks": [
+                "dev.jonmagon.kdiskmark",
+                "io.github.jonmagon.kdiskmark"
+            ]
         }
     },
     "keep-talking-and-nobody-explodes": {
