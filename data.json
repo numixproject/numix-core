@@ -24806,8 +24806,10 @@
         "linux": {
             "root": "steamskinmanager",
             "symlinks": [
+                "adwaita-steam-gtk",
                 "com.valvesoftware.Steam.Utility.steamtinkerlaunch",
                 "crankshaft",
+                "io.github.Foldex.AdwSteamGtk",
                 "space.crankshaft.Crankshaft",
                 "steamtinkerlaunch"
             ]
