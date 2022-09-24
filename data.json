@@ -14291,6 +14291,14 @@
             "root": "keybase"
         }
     },
+    "keyrack": {
+        "linux": {
+            "root": "keyrack",
+            "symlinks": [
+                "app.drey.KeyRack"
+            ]
+        }
+    },
     "keyring-manager": {
         "android": [
             "com.agilebits.onepassword/com.agilebits.onepassword.activity.LoginActivity"
@@ -19994,6 +20002,7 @@
         "linux": {
             "root": "pika-backup",
             "symlinks": [
+                "app.drey.PikaBackup",
                 "org.gnome.World.PikaBackup"
             ]
         }
