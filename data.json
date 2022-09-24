@@ -10297,7 +10297,10 @@
     },
     "glaxnimate": {
         "linux": {
-            "root": "glaxnimate"
+            "root": "glaxnimate",
+            "symlinks": [
+                "org.mattbas.Glaxnimate"
+            ]
         }
     },
     "glc-player": {
@@ -29810,6 +29813,7 @@
         "linux": {
             "root": "yacreader-library",
             "symlinks": [
+                "com.yacreader.YACReader",
                 "YACReaderLibrary"
             ]
         }
