@@ -13848,7 +13848,8 @@
         "linux": {
             "root": "jmeter",
             "symlinks": [
-                "JMeter"
+                "JMeter",
+                "org.apache.jmeter"
             ]
         }
     },
@@ -24184,6 +24185,7 @@
         "linux": {
             "root": "soapui",
             "symlinks": [
+                "org.soapui.SoapUI",
                 "SoapUI"
             ]
         }
