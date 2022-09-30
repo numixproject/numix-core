@@ -13042,14 +13042,6 @@
             "root": "i-score"
         }
     },
-    "iaito": {
-        "linux": {
-            "root": "iaito",
-            "symlinks": [
-                "org.radare.iaito"
-            ]
-        }
-    },
     "i2pd": {
         "linux": {
             "root": "i2pd",
@@ -13069,6 +13061,14 @@
             "symlinks": [
                 "org.gnome.Iagno",
                 "org.gnome.iagno"
+            ]
+        }
+    },
+    "iaito": {
+        "linux": {
+            "root": "iaito",
+            "symlinks": [
+                "org.radare.iaito"
             ]
         }
     },
