@@ -18285,6 +18285,15 @@
             ]
         }
     },
+    "notesnook": {
+        "linux": {
+            "root": "notesnook",
+            "symlinks": [
+                "com.notesnook.Notesnook",
+                "com.streetwriters.notesnook"
+            ]
+        }
+    },
     "notifyosdconf": {
         "linux": {
             "root": "notifyosdconf"
