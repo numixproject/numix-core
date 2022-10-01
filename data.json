@@ -8649,6 +8649,11 @@
             ]
         }
     },
+    "ferrum": {
+        "linux": {
+            "root": "ferrum"
+        }
+    },
     "fez": {
         "linux": {
             "root": "steam_icon_224760"
@@ -17451,8 +17456,8 @@
             "root": "multibootusb",
             "symlinks": [
                 "deepin-boot-maker",
-                "isoimagewriter",
                 "isodumper",
+                "isoimagewriter",
                 "org.kde.isoimagewriter"
             ]
         }
