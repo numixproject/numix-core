@@ -25140,7 +25140,11 @@
     },
     "sunflower": {
         "linux": {
-            "root": "sunflower"
+            "root": "sunflower",
+            "symlinks": [
+                "hidamari",
+                "io.github.jeffshee.Hidamari"
+            ]
         }
     },
     "sunrise-calendar": {
