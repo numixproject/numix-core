@@ -16018,6 +16018,14 @@
             "root": "web-lounge"
         }
     },
+    "loupe": {
+        "linux": {
+            "root": "loupe",
+            "symlinks": [
+                "org.gnome.Loupe"
+            ]
+        }
+    },
     "love-app": {
         "linux": {
             "root": "love-app",
