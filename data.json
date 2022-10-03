@@ -27031,7 +27031,11 @@
     },
     "tvbrowser": {
         "linux": {
-            "root": "tvbrowser"
+            "root": "tvbrowser",
+            "symlinks": [
+                "org.kde.telly-skout",
+                "telly-skout"
+            ]
         }
     },
     "tvmaxe": {
