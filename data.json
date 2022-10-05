@@ -6281,7 +6281,10 @@
     },
     "dianara": {
         "linux": {
-            "root": "dianara"
+            "root": "dianara",
+            "symlinks": [
+                "org.nongnu.dianara"
+            ]
         }
     },
     "dibuja": {
