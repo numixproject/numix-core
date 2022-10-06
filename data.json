@@ -5766,9 +5766,7 @@
                 "keurocalc",
                 "mmex",
                 "money-manager-ex",
-                "open-numismat",
                 "org.kde.keurocalc",
-                "org.opennumismat.OpenNumismat",
                 "org.sugarlabs.Finance"
             ]
         }
@@ -8511,7 +8509,10 @@
     },
     "fall-guys": {
         "linux": {
-            "root": "steam_icon_1097150"
+            "root": "steam_icon_1097150",
+            "symlinks": [
+                "fall_guys"
+            ]
         }
     },
     "falling-time": {
@@ -18855,7 +18856,10 @@
     },
     "open-numismat": {
         "linux": {
-            "root": "open-numismat"
+            "root": "open-numismat",
+            "symlinks": [
+                "org.opennumismat.OpenNumismat"
+            ]
         }
     },
     "open-orienteering-mapper": {
