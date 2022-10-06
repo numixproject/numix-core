@@ -24156,7 +24156,10 @@
     },
     "slingscold": {
         "linux": {
-            "root": "slingscold"
+            "root": "slingscold",
+            "symlinks": [
+                "jgmenu"
+            ]
         }
     },
     "slowmovideo": {
@@ -29338,7 +29341,8 @@
         "linux": {
             "root": "wingpanel",
             "symlinks": [
-                "io.elementary.wingpanel"
+                "io.elementary.wingpanel",
+                "tint2"
             ]
         }
     },
