@@ -21455,7 +21455,10 @@
     },
     "pysol": {
         "linux": {
-            "root": "pysol"
+            "root": "pysol",
+            "symlinks": [
+                "io.sourceforge.pysolfc.PySolFC"
+            ]
         }
     },
     "pyspread": {
