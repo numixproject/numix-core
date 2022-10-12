@@ -17586,7 +17586,10 @@
     },
     "multipass": {
         "linux": {
-            "root": "multipass"
+            "root": "multipass",
+            "symlinks": [
+                "multipass.gui"
+            ]
         }
     },
     "multisystem": {
