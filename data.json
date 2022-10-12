@@ -22762,7 +22762,9 @@
         "linux": {
             "root": "rhyme-player",
             "symlinks": [
-                "com.github.rhyme_player.rhyme"
+                "com.github.rhyme_player.rhyme",
+                "io.sonlink.pqmusic",
+                "pqmusic"
             ]
         }
     },
