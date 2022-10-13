@@ -26755,7 +26755,14 @@
     },
     "tortoisehg": {
         "linux": {
-            "root": "thg_logo"
+            "root": "thg_logo",
+            "symlinks": [
+                "org.laptop.TurtleArtActivity",
+                "thg",
+                "thg-logo",
+                "turtleart",
+                "turtleblocks"
+            ]
         }
     },
     "totem": {
