@@ -1887,11 +1887,7 @@
     },
     "artha": {
         "linux": {
-            "root": "artha",
-            "symlinks": [
-                "org.sugarlabs.ReadETexts",
-                "read-etexts"
-            ]
+            "root": "artha"
         }
     },
     "artifact": {
@@ -19003,6 +18999,7 @@
                 "io.github.bgallois.openjournal",
                 "me.someretical.TheoreticalDiary",
                 "org.sugarlabs.ReadETexts",
+                "read-etexts",
                 "theoreticaldiary"
             ]
         }
@@ -19966,8 +19963,7 @@
     "peruse": {
         "linux": {
             "root": "peruse",
-            "symlinks": [
-            
+            "symlinks": [      
                 "org.kde.peruse",
                 "org.sugarlabs.FotoToon"
             ]
