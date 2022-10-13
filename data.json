@@ -1887,7 +1887,11 @@
     },
     "artha": {
         "linux": {
-            "root": "artha"
+            "root": "artha",
+            "symlinks": [
+                "org.sugarlabs.ReadETexts",
+                "read-etexts"
+            ]
         }
     },
     "artifact": {
@@ -6194,6 +6198,8 @@
         "linux": {
             "root": "desktop-environment-sugar",
             "symlinks": [
+                "org.sugarizer.Sugarizer",
+                "org.sugarlabs.BaseApp",
                 "sugarizer"
             ]
         }
@@ -9771,6 +9777,7 @@
         "linux": {
             "root": "galois",
             "symlinks": [
+                "activity-pukllanapac",
                 "org.sugarlabs.Pukllanapac"
             ]
         }
@@ -11223,6 +11230,7 @@
         "linux": {
             "root": "gnotski",
             "symlinks": [
+                "activity-implode",
                 "org.sugarlabs.ImplodeActivity"
             ]
         }
@@ -14284,6 +14292,7 @@
         "linux": {
             "root": "kbruch",
             "symlinks": [
+                "activity-fractionbounce",
                 "org.kde.bruch",
                 "org.sugarlabs.FractionBounce"
             ]
@@ -17751,6 +17760,7 @@
         "linux": {
             "root": "mynotex",
             "symlinks": [
+                "activity-story",
                 "com.github.flxzt.rnote",
                 "org.sugarlabs.StoryActivity",
                 "rnote"
@@ -18792,6 +18802,7 @@
         "linux": {
             "root": "ooo-impress",
             "symlinks": [
+                "chart-activity",
                 "ooo-impress2",
                 "ooo-impress24",
                 "ooo-impress3.0",
@@ -19956,6 +19967,7 @@
         "linux": {
             "root": "peruse",
             "symlinks": [
+            
                 "org.kde.peruse",
                 "org.sugarlabs.FotoToon"
             ]
@@ -21380,6 +21392,7 @@
         "linux": {
             "root": "pybik",
             "symlinks": [
+                "activity-color-deducto",
                 "gnubik",
                 "kubrick",
                 "org.kde.kubrick",
@@ -23970,6 +23983,7 @@
         "linux": {
             "root": "siliconsneaker",
             "symlinks": [
+                "activity-swiftfeet",
                 "org.sugarlabs.SwiftFeet"
             ]
         }
@@ -24473,6 +24487,7 @@
         "linux": {
             "root": "sonic-visualiser",
             "symlinks": [
+                "activity-mesure",
                 "org.sugarlabs.Measure",
                 "spectrum3d",
                 "sv-icon"
@@ -25050,6 +25065,7 @@
         "linux": {
             "root": "step",
             "symlinks": [
+                "activity-physics",
                 "org.kde.step",
                 "org.sugarlabs.Physics"
             ]
@@ -25931,6 +25947,7 @@
         "linux": {
             "root": "telyngtk",
             "symlinks": [
+                "activity-sliderule",
                 "co.luoja.Telyn",
                 "org.luojalabs.Telyn",
                 "org.sugarlabs.Sliderule",
@@ -27064,6 +27081,7 @@
         "linux": {
             "root": "turtlico",
             "symlinks": [
+                "activity-turtlepond",
                 "io.gitlab.Turtlico",
                 "org.sugarlabs.TurtlePondActivity",
                 "tk.turtlico.Turtlico"
@@ -28024,6 +28042,7 @@
             "symlinks": [
                 "44F2_SynthesiaConfig.0",
                 "5B46_Synthesia.0",
+                "activity-simplepiano",
                 "com.github.linthesia.linthesia",
                 "linthesia",
                 "net.sourceforge.VMPK",
