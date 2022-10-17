@@ -21364,7 +21364,8 @@
             "root": "putty",
             "symlinks": [
                 "org.putty.putty",
-                "pterm"
+                "pterm",
+                "uk.org.greenend.chiark.sgtatham.putty"
             ]
         }
     },
@@ -25601,7 +25602,10 @@
         "linux": {
             "root": "system-monitoring-center",
             "symlinks": [
-                "com.github.hakand34.system-monitoring-center"
+                "com.github.hakand34.system-monitoring-center",
+                "com.github.hakandundar34coding.mini-system-monitor",
+                "io.github.hakandundar34coding.mini-system-monitor",
+                "mini-system-monitor"
             ]
         }
     },
