@@ -16464,7 +16464,8 @@
         "linux": {
             "root": "master-key",
             "symlinks": [
-                "com.gitlab.guillermop.MasterKey"
+                "com.gitlab.guillermop.MasterKey",
+                "io.github.unicornyrainbow.secrets"
             ]
         }
     },
@@ -23331,6 +23332,8 @@
             "root": "scanner",
             "symlinks": [
                 "deepin-cloud-scan-config-helper",
+                "escan2_app",
+                "net.epson.epsonscan2",
                 "org.gnome.SimpleScan",
                 "org.kde.skanlite",
                 "package_graphics_scanning",
@@ -25606,6 +25609,7 @@
             "root": "system-monitoring-center",
             "symlinks": [
                 "com.github.hakand34.system-monitoring-center",
+                "io.github.hakandundar34coding.system-monitoring-center",
                 "com.github.hakandundar34coding.mini-system-monitor",
                 "io.github.hakandundar34coding.mini-system-monitor",
                 "mini-system-monitor"
