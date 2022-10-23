@@ -22091,7 +22091,10 @@
     },
     "qtscrcpy": {
         "linux": {
-            "root": "qtscrcpy"
+            "root": "qtscrcpy",
+            "symlinks": [
+                "Scrcpy"
+            ]
         }
     },
     "qtsixa": {
