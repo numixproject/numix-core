@@ -2871,6 +2871,14 @@
             ]
         }
     },
+    "blackfennec": {
+        "linux": {
+            "root": "blackfennec",
+            "symlinks": [
+                "org.blackfennec.app"
+            ]
+        }
+    },
     "blank-up": {
         "linux": {
             "root": "BlankUp"
