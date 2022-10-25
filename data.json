@@ -15953,6 +15953,7 @@
         "linux": {
             "root": "login",
             "symlinks": [
+                "cs-login",
                 "gdm",
                 "gdm-login-photo",
                 "gdm-settings",
@@ -23757,7 +23758,6 @@
         "linux": {
             "root": "session-properties",
             "symlinks": [
-                "cs-login",
                 "cs-startup-programs",
                 "gnome-session",
                 "gnome-session-properties",
