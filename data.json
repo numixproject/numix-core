@@ -11445,6 +11445,14 @@
             "com.google.android.apps.authenticator2/com.google.android.apps.authenticator.AuthenticatorActivity"
         ]
     },
+    "google-chat": {
+        "linux": {
+            "root": "google-chat",
+            "symlinks": [
+                "chrome-mdpkiolbdkhdjpekfbkbmhigcaggjagi-Default"
+            ]
+        }
+    },
     "google-chrome": {
         "android": [
             "com.android.chrome/com.google.android.apps.chrome.Main"
