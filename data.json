@@ -28410,6 +28410,14 @@
             "root": "steam_icon_204180"
         }
     },
+    "waydroid": {
+        "linux": {
+            "root": "waydroid",
+            "symlinks": [
+                "Waydroid"
+            ]
+        }
+    },
     "wayland": {
         "linux": {
             "root": "wayland",
