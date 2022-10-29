@@ -3511,7 +3511,11 @@
     },
     "cadence": {
         "linux": {
-            "root": "cadence"
+            "root": "cadence",
+            "symlinks": [
+                "com.github.falkTX.Cadence",
+                "studio.kx.cadence"
+            ]
         }
     },
     "caffeine": {
@@ -4584,6 +4588,15 @@
             "root": "caption"
         }
     },
+    "cardinal": {
+        "linux": {
+            "root": "cadinal",
+            "symlinks": [
+                "Cardinal",
+                "studio.kx.distrho.Cardinal"
+            ]
+        }
+    },
     "carla": {
         "linux": {
             "root": "carla",
@@ -4626,12 +4639,20 @@
     },
     "catarina": {
         "linux": {
-            "root": "catarina"
+            "root": "catarina",
+            "symlinks": [
+                "com.github.falkTX.Cadtarina",
+                "studio.kx.catarina"
+            ]
         }
     },
     "catia": {
         "linux": {
-            "root": "catia"
+            "root": "catia",
+            "symlinks": [
+                "com.github.falkTX.Catia",
+                "studio.kx.catia"
+            ]
         }
     },
     "cave-story": {
@@ -5056,12 +5077,19 @@
     },
     "claudia": {
         "linux": {
-            "root": "claudia"
+            "root": "claudia",
+            "symlinks": [
+                "com.github.falkTX.Claudia",
+                "studio.kx.claudia"
+            ]
         }
     },
     "claudia-launcher": {
         "linux": {
-            "root": "claudia-launcher"
+            "root": "claudia-launcher",
+            "symlinks": [
+                "studio.kx.calaudia-launcher"
+            ]
         }
     },
     "claws-mail": {
