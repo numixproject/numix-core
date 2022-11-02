@@ -9524,7 +9524,12 @@
     },
     "freechartgeany": {
         "linux": {
-            "root": "freechartgeany"
+            "root": "freechartgeany",
+            "symlinks": [
+                "ChartGeany",
+                "chartgeany",
+                "io.sourceforge.chart_geany.chart-geany"
+            ]
         }
     },
     "freeciv-client": {
@@ -19984,7 +19989,9 @@
         "linux": {
             "root": "penpot",
             "symlinks": [
-                "com.github.vikdevelop.penpot-electron"
+                "com.github.vikdevelop.penpot-electron",
+                "com.korbsstudio.penpot-desktop",
+                "penpot-desktop"
             ]
         }
     },
