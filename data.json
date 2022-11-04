@@ -23097,7 +23097,10 @@
     },
     "roxterm": {
         "linux": {
-            "root": "roxterm"
+            "root": "roxterm",
+            "symlinks": [
+                "funterm"
+            ]
         }
     },
     "rpcs3": {
