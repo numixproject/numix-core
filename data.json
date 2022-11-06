@@ -26637,6 +26637,14 @@
             "root": "timeshift"
         }
     },
+    "timeswitch": {
+        "linux": {
+            "root": "timeswitch",
+            "symlinks": [
+                "io.github.fsobolev.TimeSwitch"
+            ]
+        }
+    },
     "timetable": {
         "linux": {
             "root": "timetable",
