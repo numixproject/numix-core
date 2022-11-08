@@ -2753,7 +2753,10 @@
     },
     "bino": {
         "linux": {
-            "root": "bino"
+            "root": "bino",
+            "symlinks": [
+                "org.bino3d.bino"
+            ]
         }
     },
     "birdfont": {
