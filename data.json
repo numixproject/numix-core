@@ -27882,7 +27882,10 @@
     },
     "ventoy": {
         "linux": {
-            "root": "venotoy"
+            "root": "venotoy",
+            "symlinks": [
+                "ventoygui"
+            ]
         }
     },
     "veracrypt": {
