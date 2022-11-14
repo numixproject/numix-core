@@ -17125,6 +17125,15 @@
             ]
         }
     },
+    "mixin": {
+        "linux": {
+            "root": "mixin",
+            "symlinks": [
+                "mixin_desktop",
+                "one.mixin.messenger"
+            ]
+        }
+    },
     "mixxx-icon": {
         "linux": {
             "root": "mixxx-icon",
