@@ -27588,6 +27588,14 @@
             ]
         }
     },
+    "upscaler": {
+        "linux": {
+            "root": "upscaler",
+            "symlinks": [
+                "io.gitlab.theevilskeleton.Upscaler"
+            ]
+        }
+    },
     "upscayl": {
         "linux": {
             "root": "upscayl",
