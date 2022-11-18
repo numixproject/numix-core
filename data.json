@@ -24429,7 +24429,12 @@
     "snapchat": {
         "android": [
             "com.snapchat.android/com.snapchat.android.LandingPageActivity"
-        ]
+        ],
+        "linux": {
+            "root": "snapchat",
+            "symlinks": [
+                "snapchat-nativefier",
+            ]
     },
     "snappy": {
         "linux": {
@@ -29266,6 +29271,7 @@
                 "whatsapp",
                 "whatsapp-desktop",
                 "whatsapp-for-linux",
+                "whatsapp-nativefier",
                 "whatsappfordesktop",
                 "whatsdesk"
             ]
