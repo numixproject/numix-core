@@ -358,7 +358,11 @@
     },
     "accerciser": {
         "linux": {
-            "root": "accerciser"
+            "root": "accerciser",
+            "symlinks": [
+                "org.a11y.Accerciser",
+                "org.gnome.Accerciser"
+            ]
         }
     },
     "accessibility-directory": {
@@ -493,6 +497,7 @@
                 "gnome-panel-screenshot",
                 "gnome-screenshot",
                 "gscreenshot",
+                "io.elementary.screenshot",
                 "io.elementary.screenshot-tool",
                 "kscreenshot",
                 "ksnapshot",
@@ -993,6 +998,7 @@
             "root": "alacritty",
             "symlinks": [
                 "Alacritty",
+                "alacritty-simple",
                 "com.alacritty.Alacritty"
             ]
         }
@@ -16929,7 +16935,8 @@
         "linux": {
             "root": "micro",
             "symlinks": [
-                "com.github.zyedidia.micro"
+                "com.github.zyedidia.micro",
+                "micro-logo-mark"
             ]
         }
     },
@@ -17611,6 +17618,7 @@
             "root": "multibootusb",
             "symlinks": [
                 "deepin-boot-maker",
+                "io.github.giantpinkrobots.bootqt",
                 "isodumper",
                 "isoimagewriter",
                 "org.kde.isoimagewriter"
@@ -21325,7 +21333,10 @@
     },
     "psensor": {
         "linux": {
-            "root": "psensor"
+            "root": "psensor",
+            "symlinks": [
+                "thermal-monitor"
+            ]
         }
     },
     "psi": {
@@ -23143,7 +23154,8 @@
         "linux": {
             "root": "rsibreak",
             "symlinks": [
-                "org.kde.rsibreak"
+                "org.kde.rsibreak",
+                "safeeyes"
             ]
         }
     },
