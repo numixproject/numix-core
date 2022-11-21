@@ -21240,6 +21240,7 @@
                 "cs-printer",
                 "dde-printer",
                 "org.kde.ConfigurePrinter",
+                "org.kde.print-manager",
                 "preferences-desktop-printer",
                 "preferences-devices-printer"
             ]
@@ -26732,6 +26733,7 @@
         "linux": {
             "root": "timetrack",
             "symlinks": [
+                "francis",
                 "net.danigm.timetrack",
                 "org.gnome.timetrack",
                 "org.kde.francis"
