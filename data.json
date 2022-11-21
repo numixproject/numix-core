@@ -9385,6 +9385,14 @@
             "root": "foobnix"
         }
     },
+    "foot": {
+        "linux": {
+            "root": "foot",
+            "symlinks": [
+                "org.codeberg.dnkl.foot"
+            ]
+        }
+    },
     "football-manager-2014": {
         "linux": {
             "root": "steam_icon_231670"
