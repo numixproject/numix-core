@@ -10156,6 +10156,15 @@
             "root": "gemrb"
         }
     },
+    "gencolormap": {
+        "linux": {
+            "root": "gencolormap",
+            "symlinks": [
+                "de.marlam.gencolormap",
+                "gencolormap-gui"
+            ]
+        }
+    },
     "gendarme": {
         "linux": {
             "root": "gendarme"
