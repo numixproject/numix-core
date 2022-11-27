@@ -26211,6 +26211,9 @@
         "linux": {
             "root": "terminator",
             "symlinks": [
+                "io.github.gnome_terminator.terminator",
+                "net.tenshu.Terminator2",
+                "org.gnome_terminator.Terminator2",
                 "terminator-128"
             ]
         }
