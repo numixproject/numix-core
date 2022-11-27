@@ -10221,6 +10221,14 @@
             ]
         }
     },
+    "gephi": {
+        "linux": {
+            "root": "gephi",
+            "symlinks": [
+                "org.gephi.Gephi"
+            ]
+        }
+    },
     "geppetto": {
         "linux": {
             "root": "geppetto"
@@ -18004,6 +18012,14 @@
     "navit": {
         "linux": {
             "root": "navit"
+        }
+    },
+    "ncspot": {
+        "linux": {
+            "root": "ncspot",
+            "symlinks": [
+                "io.github.hrkfdn.ncspot"
+            ]
         }
     },
     "ndm": {
