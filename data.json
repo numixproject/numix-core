@@ -14183,7 +14183,10 @@
     },
     "julia": {
         "linux": {
-            "root": "julia"
+            "root": "julia",
+            "symlinks": [
+                "juliabackend"
+            ]
         }
     },
     "jumpnbump": {
