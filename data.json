@@ -19120,7 +19120,11 @@
     },
     "openerp": {
         "linux": {
-            "root": "openerp-client"
+            "root": "openerp-client",
+            "symlinks": [
+                "odoo",
+                "openerp-icon"
+            ]
         }
     },
     "openhantek": {
