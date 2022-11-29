@@ -30201,6 +30201,14 @@
             ]
         }
     },
+    "xlog": {
+        "linux": {
+            "root": "xlog",
+            "symlinks": [
+                "org.nongnu.Xlog"
+            ]
+        }
+    },
     "xmind": {
         "linux": {
             "root": "xmind",
