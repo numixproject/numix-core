@@ -8720,6 +8720,15 @@
             ]
         }
     },
+    "feeel": {
+        "linux": {
+            "root": "feeel",
+            "symlinks": [
+                "com.enjoyingfoss.Feeel",
+                "com.enjoyingfoss.feeel"
+            ]
+        }
+    },
     "feh": {
         "linux": {
             "root": "feh"
@@ -9803,6 +9812,15 @@
     "funkin": {
         "linux": {
             "root": "funkin"
+        }
+    },
+    "funkplot-gui": {
+        "linux": {
+            "root": "funkplot-gui",
+            "symlinks": [
+                "org.unafrog.funkplot",
+                "sh.funkplot.Funkplot"
+            ]
         }
     },
     "furiusisomount": {
