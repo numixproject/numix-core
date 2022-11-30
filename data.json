@@ -14567,7 +14567,8 @@
         "linux": {
             "root": "keyrack",
             "symlinks": [
-                "app.drey.KeyRack"
+                "app.drey.KeyRack",
+                "kse"
             ]
         }
     },
@@ -20992,6 +20993,11 @@
     "preferences-desktop-display-color": {
         "linux": {
             "root": "preferences-desktop-display-color"
+        }
+    },
+    "preferences-desktop-display-cursors": {
+        "linux": {
+            "root": "preferences-desktop-display-cursors"
         }
     },
     "preferences-desktop-emoticons": {
