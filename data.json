@@ -7812,7 +7812,8 @@
             "symlinks": [
                 "com.github.alexkdeveloper.dwxmlcreator",
                 "com.github.maoschanz.DynamicWallpaperEditor",
-                "me.dusansimic.DynamicWallpaper"
+                "me.dusansimic.DynamicWallpaper",
+                "preferences-desktop-display-nightcolor"
             ]
         }
     },
@@ -11922,7 +11923,8 @@
                 "adwcustomizer",
                 "com.github.AdwCustomizerTeam.AdwCustomizer",
                 "com.github.AdwCustomizerTeam.Gradience",
-                "com.github.GradienceTeam.Gradience"
+                "com.github.GradienceTeam.Gradience",
+                "preferences-desktop-theme-windowdecorations"
             ]
         }
     },
@@ -14328,6 +14330,7 @@
             "root": "kalzium",
             "symlinks": [
                 "molsketch",
+                "molsketch-qt5",
                 "net.sourceforge.molsketch",
                 "org.kde.kalzium"
             ]
@@ -27456,7 +27459,10 @@
     },
     "ubuntu-tweak": {
         "linux": {
-            "root": "ubuntu-tweak"
+            "root": "ubuntu-tweak",
+            "symlinks": [
+                "utilities-tweak-tool"
+            ]
         }
     },
     "ubuntuone": {
@@ -29870,7 +29876,10 @@
     },
     "workspace-switcher-top-left": {
         "linux": {
-            "root": "workspace-switcher-top-left"
+            "root": "workspace-switcher-top-left",
+            "symlinks": [
+                "preferences-desktop-activities"
+            ]
         }
     },
     "world-of-goo": {
