@@ -3534,7 +3534,10 @@
     },
     "cadabra": {
         "linux": {
-            "root": "cadabra"
+            "root": "cadabra",
+            "symlinks": [
+                "cadabra2-gtk"
+            ]
         }
     },
     "cadence": {
@@ -17875,7 +17878,8 @@
         "linux": {
             "root": "musique",
             "symlinks": [
-                "com.github.qier222.YesPlayMusic"
+                "com.github.qier222.YesPlayMusic",
+                "io.github.qier222.YesPlayMusic"
             ]
         }
     },
@@ -21781,6 +21785,7 @@
         "linux": {
             "root": "qdirstat",
             "symlinks": [
+                "k4dirstat",
                 "kdirstat"
             ]
         }
@@ -27269,6 +27274,7 @@
         "linux": {
             "root": "tryton",
             "symlinks": [
+                "org.tryton.Tryton",
                 "tryton-icon"
             ]
         }
