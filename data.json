@@ -17872,7 +17872,10 @@
     },
     "musique": {
         "linux": {
-            "root": "musique"
+            "root": "musique",
+            "symlinks": [
+                "com.github.qier222.YesPlayMusic"
+            ]
         }
     },
     "mutt": {
