@@ -2915,6 +2915,7 @@
         "linux": {
             "root": "blanket",
             "symlinks": [
+                "com.mardojai.Blanket"
                 "com.rafaelmardojai.Blanket"
             ]
         }
@@ -6370,6 +6371,14 @@
     "dibuja": {
         "linux": {
             "root": "dibuja"
+        }
+    },
+    "diccionario-lengua": {
+        "linux": {
+            "root": "diccionario-lengua",
+            "symlinks": [
+                "com.mardojai.DiccionarioLengua"
+            ]
         }
     },
     "diffpdf": {
@@ -29460,6 +29469,7 @@
         "linux": {
             "root": "webfontkitgenerator",
             "symlinks": [
+                "com.mardojai.WebfontKitGenerator"
                 "com.rafaelmardojai.WebfontKitGenerator"
             ]
         }
