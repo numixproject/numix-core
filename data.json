@@ -2026,6 +2026,14 @@
             ]
         }
     },
+    "atari800": {
+        "linux": {
+            "root": "atari800",
+            "symlinks": [
+                "io.github.atari800.Atari800"
+            ]
+        }
+    },
     "atari-vault": {
         "linux": {
             "root": "steam_icon_400020"
