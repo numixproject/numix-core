@@ -21983,7 +21983,10 @@
     },
     "qmplay2": {
         "linux": {
-            "root": "QMPlay2"
+            "root": "QMPlay2",
+            "symlinks": [
+                "io.github.zaps166.QMPlay2"
+            ]
         }
     },
     "qnapi": {
@@ -30691,6 +30694,8 @@
         "linux": {
             "root": "zegrapher",
             "symlinks": [
+                "datman",
+                "se.sjoerd.DatMan"
                 "ZeGrapher"
             ]
         }
