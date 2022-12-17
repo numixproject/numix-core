@@ -16051,6 +16051,14 @@
             "root": "steam_icon_221260"
         }
     },
+    "livecaptions": {
+        "linux": {
+            "root": "livecaptions",
+            "symlinks": [
+                "net.sapples.LiveCaptions"
+            ]
+        }
+    },
     "liveinst": {
         "linux": {
             "root": "liveinst"
