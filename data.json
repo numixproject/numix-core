@@ -10493,6 +10493,14 @@
             "root": "gitify"
         }
     },
+    "gitklient": {
+        "linux": {
+            "root": "gitklient",
+            "symlinks": [
+                "org.kde.gitklient"
+            ]
+        }
+    },
     "gitkraken": {
         "linux": {
             "root": "gitkraken",
