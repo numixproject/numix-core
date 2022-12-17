@@ -2026,17 +2026,17 @@
             ]
         }
     },
+    "atari-vault": {
+        "linux": {
+            "root": "steam_icon_400020"
+        }
+    },
     "atari800": {
         "linux": {
             "root": "atari800",
             "symlinks": [
                 "io.github.atari800.Atari800"
             ]
-        }
-    },
-    "atari-vault": {
-        "linux": {
-            "root": "steam_icon_400020"
         }
     },
     "atelier": {
@@ -2926,7 +2926,7 @@
         "linux": {
             "root": "blanket",
             "symlinks": [
-                "com.mardojai.Blanket"
+                "com.mardojai.Blanket",
                 "com.rafaelmardojai.Blanket"
             ]
         }
@@ -29487,7 +29487,7 @@
         "linux": {
             "root": "webfontkitgenerator",
             "symlinks": [
-                "com.mardojai.WebfontKitGenerator"
+                "com.mardojai.WebfontKitGenerator",
                 "com.rafaelmardojai.WebfontKitGenerator"
             ]
         }
@@ -30726,7 +30726,7 @@
             "root": "zegrapher",
             "symlinks": [
                 "datman",
-                "se.sjoerd.DatMan"
+                "se.sjoerd.DatMan",
                 "ZeGrapher"
             ]
         }
