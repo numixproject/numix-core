@@ -15683,6 +15683,7 @@
         "linux": {
             "root": "libinput-gestures",
             "symlinks": [
+                "com.gitlab.cunidev.Gestures",
                 "libinput-gestures-qt",
                 "org.cunidev.gestures"
             ]
