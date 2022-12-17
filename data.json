@@ -20398,6 +20398,14 @@
             ]
         }
     },
+    "pinapp": {
+        "linux": {
+            "root": "pinapp",
+            "symlinks": [
+                "io.github.fabrialberio.pinapp"
+            ]
+        }
+    },
     "pinball": {
         "linux": {
             "root": "pinball"
