@@ -13774,7 +13774,11 @@
     },
     "itch": {
         "linux": {
-            "root": "itch"
+            "root": "itch",
+            "symlinks": [
+                "io.itch.App",
+                "io.itch.Itch"
+            ]
         }
     },
     "itinerary": {
@@ -22685,7 +22689,10 @@
     },
     "rclone-browser": {
         "linux": {
-            "root": "rclone-browser"
+            "root": "rclone-browser",
+            "symlinks": [
+                "io.github.darkhz.rclonetui"
+            ]
         }
     },
     "rcmdr": {
