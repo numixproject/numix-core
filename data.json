@@ -2673,7 +2673,10 @@
     },
     "beekeeper-studio": {
         "linux": {
-            "root": "beekeeper-studio"
+            "root": "beekeeper-studio",
+            "symlinks": [
+                "io.beekeeperstudio.Studio"
+            ]
         }
     },
     "beeref": {
@@ -30694,7 +30697,10 @@
     },
     "zaz": {
         "linux": {
-            "root": "zaz"
+            "root": "zaz",
+            "symlinks": [
+                "io.sourceforge.zaz"
+            ]
         }
     },
     "zbstudio": {
