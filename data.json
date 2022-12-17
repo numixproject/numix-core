@@ -17449,6 +17449,14 @@
             ]
         }
     },
+    "moosync": {
+        "linux": {
+            "root": "moosync",
+            "symlinks": [
+                "app.moosync.moosync"
+            ]
+        }
+    },
     "moserial": {
         "linux": {
             "root": "moserial",
@@ -23920,6 +23928,14 @@
     "selene": {
         "linux": {
             "root": "selene"
+        }
+    },
+    "selfprivacy": {
+        "linux": {
+            "root": "selfprivacy",
+            "symlinks": [
+                "org.selfprivacy.app"
+            ]
         }
     },
     "selinux": {
