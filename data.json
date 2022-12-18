@@ -15174,7 +15174,10 @@
     },
     "koreader": {
         "linux": {
-            "root": "koreader"
+            "root": "koreader",
+            "symlinks": [
+                "org.koreader.KOReader"
+            ]
         }
     },
     "korg": {
