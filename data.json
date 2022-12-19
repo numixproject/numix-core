@@ -15716,7 +15716,10 @@
     },
     "librecad": {
         "linux": {
-            "root": "librecad"
+            "root": "librecad",
+            "symlinks": [
+                "org.librecad.librecad"
+            ]
         }
     },
     "libreoffice-base": {
