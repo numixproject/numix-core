@@ -2259,7 +2259,8 @@
         "linux": {
             "root": "authy",
             "symlinks": [
-                "chrome-gaedmjdfmmahhbjefcbgaolhhanlaolb-Default"
+                "chrome-gaedmjdfmmahhbjefcbgaolhhanlaolb-Default",
+                "com.authy.Authy"
             ]
         }
     },
@@ -5891,7 +5892,10 @@
     },
     "cutepeaks": {
         "linux": {
-            "root": "cutepeaks"
+            "root": "cutepeaks",
+            "symlinks": [
+                "io.github.labsquare.CutePeaks"
+            ]
         }
     },
     "cutter": {
