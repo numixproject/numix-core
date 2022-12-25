@@ -19590,7 +19590,10 @@
     },
     "outline-client": {
         "linux": {
-            "root": "outline-client"
+            "root": "outline-client",
+            "symlinks": [
+                "org.getoutline.OutlineClient"
+            ]
         }
     },
     "outline-manager": {
