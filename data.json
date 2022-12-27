@@ -638,6 +638,7 @@
                 "org.gnome.Contacts",
                 "org.kde.kaddressbook",
                 "org.kde.kontact",
+                "org.kde.ktpcontactlist",
                 "package_office_addressbook",
                 "preferences-contact-list",
                 "stock_addressbook",
@@ -1685,6 +1686,7 @@
                 "gnome-abrt",
                 "gnome-warning",
                 "io.elementary.feedback",
+                "kali-bugs",
                 "kbugbuster",
                 "kbugster",
                 "mintreport",
@@ -2004,7 +2006,8 @@
         "linux": {
             "root": "astromenace",
             "symlinks": [
-                "com.viewizard.AstroMenace"
+                "com.viewizard.AstroMenace",
+                "com.viewizard.astromenace"
             ]
         }
     },
@@ -3134,6 +3137,7 @@
         "linux": {
             "root": "bomber",
             "symlinks": [
+                "bombermaan",
                 "org.kde.bomber"
             ]
         }
@@ -5943,6 +5947,7 @@
         "linux": {
             "root": "d-spy",
             "symlinks": [
+                "kali-undercover",
                 "org.gnome.dspy"
             ]
         }
@@ -6633,6 +6638,7 @@
             "root": "distributor-logo-archlinux",
             "symlinks": [
                 "archlinux",
+                "org.kde.archUpdate",
                 "start-here-archlinux"
             ]
         }
@@ -7031,7 +7037,10 @@
     },
     "distributor-logo-parsix": {
         "linux": {
-            "root": "distributor-logo-parsix"
+            "root": "distributor-logo-parsix",
+            "symlinks": [
+                "gerbera"
+            ]
         }
     },
     "distributor-logo-pcbsd": {
@@ -7119,7 +7128,17 @@
     },
     "distributor-logo-rhel": {
         "linux": {
-            "root": "distributor-logo-rhel"
+            "root": "distributor-logo-rhel",
+            "symlinks": [
+                "redhat-documentation",
+                "redhat-release-notes",
+                "redhat-utils",
+                "redhatutils",
+                "rhel-documentation",
+                "rhel-release-notes",
+                "rhel-utils",
+                "rhelutils"
+            ]
         }
     },
     "distributor-logo-rockylinux": {
@@ -7665,6 +7684,7 @@
         "linux": {
             "root": "drracket",
             "symlinks": [
+                "org.racket_lang.Racket",
                 "plt",
                 "racket-logo"
             ]
@@ -7928,7 +7948,8 @@
             "root": "edb",
             "symlinks": [
                 "edb-debugger",
-                "edb48-logo"
+                "edb48-logo",
+                "kali-edb-debugger"
             ]
         }
     },
@@ -10562,7 +10583,8 @@
         "linux": {
             "root": "gksu-root-terminal",
             "symlinks": [
-                "gksu-debian"
+                "gksu-debian",
+                "kali-shellnoob"
             ]
         }
     },
@@ -11961,7 +11983,10 @@
     },
     "gqrx": {
         "linux": {
-            "root": "gqrx"
+            "root": "gqrx",
+            "symlinks": [
+                "kali-gqrx"
+            ]
         }
     },
     "grace": {
@@ -12328,7 +12353,10 @@
     },
     "gtk-recordmydesktop": {
         "linux": {
-            "root": "gtk-recordmydesktop"
+            "root": "gtk-recordmydesktop",
+            "symlinks": [
+                "kali-recordmydesktop"
+            ]
         }
     },
     "gtk-stress-testing": {
@@ -12479,6 +12507,8 @@
         "linux": {
             "root": "gx_head",
             "symlinks": [
+                "guitarix",
+                "guitarix2",
                 "org.freedesktop.LinuxAudio.Plugins.Guitarix",
                 "org.guitarix.Guitarix"
             ]
@@ -14820,6 +14850,7 @@
         "linux": {
             "root": "kingsoft-presentation",
             "symlinks": [
+                "com.wps.Office.wppmain",
                 "wps-office-wppmain",
                 "wps-pres"
             ]
@@ -14829,6 +14860,7 @@
         "linux": {
             "root": "kingsoft-spreadsheets",
             "symlinks": [
+                "com.wps.Office.etmain",
                 "wps-calc",
                 "wps-office-etmain"
             ]
@@ -14838,6 +14870,7 @@
         "linux": {
             "root": "kingsoft-writer",
             "symlinks": [
+                "com.wps.Office.wpsmain",
                 "wps-office-wpsmain",
                 "wps-word"
             ]
@@ -15245,6 +15278,7 @@
         "linux": {
             "root": "kronometer",
             "symlinks": [
+                "com.github.naaando.rush",
                 "org.kde.kronometer",
                 "zeegaree",
                 "zeegaree-lite",
@@ -18475,6 +18509,7 @@
                 "gnome-nettool",
                 "gnome-nettools",
                 "gnome-networktool",
+                "kali-nmap",
                 "knemo",
                 "mate-nettool"
             ]
@@ -21491,9 +21526,11 @@
             "root": "protonmail",
             "symlinks": [
                 "ch.protonmail.protonmail-bridge",
+                "ch.protonmail.protonmail-import-export-app",
                 "protonmail-desktop",
                 "protonmail-desktop-unofficial",
-                "ProtonMail_Bridge"
+                "ProtonMail_Bridge",
+                "protonmail-bridge"
             ]
         }
     },
@@ -22496,7 +22533,8 @@
             "symlinks": [
                 "animechecker",
                 "artemanufrij.hashit",
-                "com.github.artemanufrij.hashit"
+                "com.github.artemanufrij.hashit",
+                "qcalcfilehash"
             ]
         }
     },
@@ -22898,6 +22936,7 @@
                 "gammastep",
                 "gtk-redshift",
                 "redshift-gtk",
+                "redshift-icon-256",
                 "redshiftgui"
             ]
         }
@@ -24414,6 +24453,7 @@
         "linux": {
             "root": "skanpage",
             "symlinks": [
+                "com.hamrick.VueScan",
                 "org.kde.skanpage"
             ]
         }
@@ -27381,7 +27421,10 @@
     },
     "truecrypt": {
         "linux": {
-            "root": "truecrypt"
+            "root": "truecrypt",
+            "symlinks": [
+                "kali-truecrypt"
+            ]
         }
     },
     "tryton": {
@@ -27566,7 +27609,10 @@
     },
     "typora": {
         "linux": {
-            "root": "typora"
+            "root": "typora",
+            "symlinks": [
+                "io.typora.Typora"
+            ]
         }
     },
     "uberwriter": {
@@ -28027,6 +28073,7 @@
         "linux": {
             "root": "vala",
             "symlinks": [
+                "com.github.bartzaalberg.vala-tester",
                 "com.github.basjam.valacompiler",
                 "vala-compiler"
             ]
@@ -28453,6 +28500,7 @@
                 "5B46_Synthesia.0",
                 "activity-simplepiano",
                 "com.github.linthesia.linthesia",
+                "kcmmidi",
                 "linthesia",
                 "net.sourceforge.VMPK",
                 "org.sugarlabs.MusicKeyboard"
@@ -29874,6 +29922,7 @@
             "root": "wireshark",
             "symlinks": [
                 "hi48-app-wireshark",
+                "kali-wireshark",
                 "org.wireshark.gtk",
                 "org.wireshark.qt",
                 "org.wireshark.Wireshark"
