@@ -7726,6 +7726,16 @@
             ]
         }
     },
+    "duckstation": {
+        "linux": {
+            "root": "duckstation",
+            "symlinks": [
+                "duckstation-qt",
+                "duckstation-sdl",
+                "org.duckstation.DuckStation"
+            ]
+        }
+    },
     "duet": {
         "android": [
             "com.kumobius.android.duet/com.kumobius.android.KumoAppActivity"
