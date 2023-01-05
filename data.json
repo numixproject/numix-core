@@ -12892,7 +12892,10 @@
     },
     "helix": {
         "linux": {
-            "root": "helix"
+            "root": "helix",
+            "symlinks": [
+                "com.helix_editor.Helix"
+            ]
         }
     },
     "helltaker": {
@@ -19233,7 +19236,9 @@
         "linux": {
             "root": "openarena",
             "symlinks": [
+                "io.github.ec_.Quake3e.OpenArena",
                 "openarena128",
+                "org.fxt.openarena",
                 "ws.openarena.OpenArena"
             ]
         }
@@ -19511,6 +19516,7 @@
         "linux": {
             "root": "opera",
             "symlinks": [
+                "com.opera.Opera",
                 "opera-browser",
                 "opera-browser-icon",
                 "opera-browser-icons",
@@ -27944,6 +27950,7 @@
         "linux": {
             "root": "upscayl",
             "symlinks": [
+                "io.github.upscayl.Upscayl",
                 "org.upscayl.app"
             ]
         }
