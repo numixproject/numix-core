@@ -1410,6 +1410,14 @@
             "root": "another-redis-desktop-manager"
         }
     },
+    "ansel": {
+        "linux": {
+            "root": "ansel",
+            "symlinks": [
+                "photos.ansel.app"
+            ]
+        }
+    },
     "ant-downloader": {
         "linux": {
             "root": "ant-downloader"
