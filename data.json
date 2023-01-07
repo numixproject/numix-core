@@ -19623,6 +19623,15 @@
             ]
         }
     },
+    "osmscout-server": {
+        "linux": {
+            "root": "osmscout-server",
+            "symlinks": [
+                "harbour-osmscout-server",
+                "io.github.rinigus.OSMScoutServer"
+            ]
+        }
+    },
     "ossia-score": {
         "linux": {
             "root": "ossia-score"
