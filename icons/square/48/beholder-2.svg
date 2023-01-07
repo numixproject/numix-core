@@ -1,0 +1,23 @@
+<svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="bg" x2="0" y1="1" y2="47" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#654e34" offset="0"/>
+   <stop style="stop-color:#58442d" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4zm0 0.5v0.5c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.5c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.02"/>
+ <path d="m1 43.25v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.05"/>
+ <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
+ <rect x="1" y="1" width="46" height="46" rx="4" style="fill:url(#bg)"/>
+ <path d="m1 39v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
+ <path d="m12 12c-1.108 0-2 0.892-2 2v20c0 1.108 0.892 2 2 2h2v1h4v-1h12v1h4v-1h2c1.108 0 2-0.892 2-2v-20c0-1.108-0.892-2-2-2z" style="opacity:.1"/>
+ <rect x="12" y="11" width="24" height="24" style="fill:#ff9c9c;opacity:.4"/>
+ <path d="m14 34v2h4v-2zm16 0v2h4v-2z" style="fill:#846f48"/>
+ <rect x="10" y="11" width="28" height="24" ry="2" style="fill:#9f8556"/>
+ <path d="m14 13h20c1.108 0 2 0.892 2 2v16c0 1.108-0.892 2-2 2h-1l-9-3-9 3h-1c-1.108 0-2-0.892-2-2v-16c0-1.108 0.892-2 2-2z" style="fill:#383c42"/>
+ <rect x="17" y="16" width="14" height="16" style="fill:#575757"/>
+ <path d="m17 31h3l4-1 4 1h3l-2 2h-1l-1.5-1-1.5 1h-2l-1.5-1-1.5 1h-1z" style="fill:#616161"/>
+ <path d="m24 17c-3 0-3 2-3 2v1c0 1 0.5 2 0.5 2l-2.5 0.99998-2 4 4 3-1 1v2h3v-2h2v2h3v-2l-0.99996-1 4-3-2-4-2.5001-0.99998s0.5-1 0.50012-2v-1s0-2-3-2zm-3 8v3l-1-1zm6 0 1 2-1 1z" style="fill:#363636"/>
+ <path d="m15 27v6h4v-6zm14 0v6h4v-6z" style="fill:#707070"/>
+ <path d="m22 20s0 1.3949 1 1.418c0.48823 0.01125 0.5-0.41797 0.5-0.41797zm4 0-1.5 1s0.01177 0.42922 0.5 0.41797c1-0.02306 1-1.418 1-1.418z" style="fill:#f9f9f9"/>
+</svg>

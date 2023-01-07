@@ -1,6 +1,6 @@
 <svg width="48" height="48" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <linearGradient id="linearGradient6688" x1="-47" x2="-1" y1="24" y2="24" gradientTransform="matrix(0 -1 1 0 -1.5e-6 48)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="bg" x1="-47" x2="-1" y1="24" y2="24" gradientTransform="matrix(0 -1 1 0 -1.5e-6 48)" gradientUnits="userSpaceOnUse">
    <stop style="stop-color:#e4e4e4" offset="0"/>
    <stop style="stop-color:#eee" offset="1"/>
   </linearGradient>
@@ -8,11 +8,10 @@
  <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4zm0 0.5v0.5c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.5c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.02"/>
  <path d="m1 43.25v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.05"/>
  <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
- <rect transform="rotate(-90)" x="-47" y="1" width="46" height="46" rx="4" style="fill:url(#linearGradient6688)"/>
- <path d="m24 11-13 13 12 12v11h2v-11l12-12-13-13zm0 3 10 10-10 10-10-10 10-10zm0 3-7 7 7 7 7-7-7-7z" style="fill-opacity:.098;fill-rule:evenodd"/>
- <path d="m23 34v13h2v-13h-2z" style="fill:#808080"/>
- <path d="m24 10-13 13 13 13 13-13-13-13zm0 3 10 10-10 10-10-10 10-10z" style="fill-rule:evenodd;fill:#808080"/>
- <rect transform="rotate(-45)" x="-4.2429" y="28.284" width="9.899" height="9.899" style="fill-rule:evenodd;fill:#0ec6a2"/>
+ <rect transform="rotate(-90)" x="-47" y="1" width="46" height="46" rx="4" style="fill:url(#bg)"/>
+ <path d="m24 11-13 13 12 12h2l12-12zm0 3 10 10-10 10-10-10zm0 3-7 7 7 7 7-7z" style="opacity:.1"/>
+ <path d="m24 10-13 13 12 12v12h2v-12l12-12-13-13zm0 3 10 10-10 10-10-10 10-10z" style="fill:#808080"/>
+ <rect transform="rotate(-45)" x="-4.2429" y="28.284" width="9.899" height="9.899" style="fill:#0ec6a2"/>
  <g transform="translate(0,-1004.4)">
   <path d="m1 1043.4v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
  </g>

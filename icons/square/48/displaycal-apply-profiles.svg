@@ -1,0 +1,18 @@
+<svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="bg" x2="0" y1="1" y2="47" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#5e5e5e" offset="0"/>
+   <stop style="stop-color:#545454" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path d="m1 43v.25c0 2.22 1.78 4 4 4h38c2.22 0 4-1.78 4-4v-.25c0 2.22-1.78 4-4 4h-38c-2.22 0-4-1.78-4-4zm0 .5v.5c0 2.22 1.78 4 4 4h38c2.22 0 4-1.78 4-4v-.5c0 2.22-1.78 4-4 4h-38c-2.22 0-4-1.78-4-4z" style="opacity:.02"/>
+ <path d="m1 43.2v.25c0 2.22 1.78 4 4 4h38c2.22 0 4-1.78 4-4v-.25c0 2.22-1.78 4-4 4h-38c-2.22 0-4-1.78-4-4z" style="opacity:.05"/>
+ <path d="m1 43v.25c0 2.22 1.78 4 4 4h38c2.22 0 4-1.78 4-4v-.25c0 2.22-1.78 4-4 4h-38c-2.22 0-4-1.78-4-4z" style="opacity:.1"/>
+ <rect x="1" y="1" width="46" height="46" rx="4" style="fill:url(#bg)"/>
+ <path d="m1 39v4c0 2.22 1.78 4 4 4h38c2.22 0 4-1.78 4-4v-4c0 2.22-1.78 4-4 4h-38c-2.22 0-4-1.78-4-4z" style="opacity:.1"/>
+ <path d="m24 10s-14 6.27-14 14 6.27 14 14 14 14-6.27 14-14l-14 11s-7-7.13-7-11 3.13-7 7-7c1.61.0113 3.16.575 4.4 1.6l-2.4 2.4h10v-3z" style="opacity:.1"/>
+ <path d="m10 23c0 7.73 6.27 14 14 14l1-4-1-3c-3.87 0-7-3.13-7-7l-4-.999z" style="fill:#f185dc"/>
+ <path d="m31 23a7 7 0 01-7 7v7a14 14 0 0014-14z" style="fill:#f17f72"/>
+ <path d="m24 9c-7.73 0-14 6.27-14 14h7c0-3.87 3.13-7 7-7l1-4z" style="fill:#81b9f3"/>
+ <path d="m24 9v7a7 7 0 014.4 1.6l-2.4 2.4h10v-10l-2.63 2.63a14 14 0 00-9.37-3.63z" style="fill:#7bf572"/>
+</svg>
