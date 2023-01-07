@@ -11739,9 +11739,7 @@
                 "earth",
                 "google-earth-pro",
                 "googleearth",
-                "googleearth-icon",
-                "marble",
-                "org.kde.marble"
+                "googleearth-icon"
             ]
         }
     },
@@ -16675,6 +16673,14 @@
     "mapton": {
         "linux": {
             "root": "mapton"
+        }
+    },
+    "marble": {
+        "linux": {
+            "root": "marble",
+            "symlinks": [
+                "org.kde.marble"
+            ]
         }
     },
     "mark-of-the-ninja": {
