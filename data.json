@@ -12568,7 +12568,10 @@
     },
     "gummi": {
         "linux": {
-            "root": "gummi"
+            "root": "gummi",
+            "symlinks": [
+                "app.gummi.gummi"
+            ]
         }
     },
     "guns-of-icarus-online": {
@@ -19267,6 +19270,7 @@
             "root": "openarena",
             "symlinks": [
                 "io.github.ec_.Quake3e.OpenArena",
+                "io.github.xplshn.openarena",
                 "openarena128",
                 "org.fxt.openarena",
                 "ws.openarena.OpenArena"
@@ -23833,6 +23837,7 @@
         "linux": {
             "root": "scid",
             "symlinks": [
+                "com.github.benini.scid",
                 "gambito",
                 "jerry",
                 "net.danigm.gambito",
