@@ -1983,7 +1983,10 @@
     },
     "assaultcube": {
         "linux": {
-            "root": "assaultcube"
+            "root": "assaultcube",
+            "symlinks": [
+                "net.cubers.assault.AssaultCube"
+            ]
         }
     },
     "assaultcube-reloaded": {
@@ -6610,7 +6613,10 @@
     },
     "distributor-logo-alpine": {
         "linux": {
-            "root": "distributor-logo-alpine"
+            "root": "distributor-logo-alpine",
+            "symlinks": [
+                "io.github.paledega.alpine-rootfs"
+            ]
         }
     },
     "distributor-logo-alt": {
@@ -8990,7 +8996,10 @@
     },
     "filebot": {
         "linux": {
-            "root": "filebot"
+            "root": "filebot",
+            "symlinks": [
+                "net.filebot.FileBot"
+            ]
         }
     },
     "filezilla": {
@@ -12468,6 +12477,7 @@
         "linux": {
             "root": "gtkwave",
             "symlinks": [
+                "io.github.gtkwave.GTKWave",
                 "net.sourceforge.GTKWave",
                 "qspectrumanalyzer",
                 "viva"
@@ -21144,7 +21154,8 @@
         "linux": {
             "root": "pragha",
             "symlinks": [
-                "io.github.pragha_music_player"
+                "io.github.pragha_music_player",
+                "io.github.pragha_music_player.pragha"
             ]
         }
     },
@@ -21951,7 +21962,10 @@
     },
     "q4wine": {
         "linux": {
-            "root": "q4wine"
+            "root": "q4wine",
+            "symlinks": [
+                "ua.org.brezblock.q4wine"
+            ]
         }
     },
     "qalculate": {
@@ -23776,6 +23790,7 @@
             "root": "scanner",
             "symlinks": [
                 "deepin-cloud-scan-config-helper",
+                "epsonscan2",
                 "escan2_app",
                 "net.epson.epsonscan2",
                 "org.gnome.SimpleScan",
@@ -25639,7 +25654,8 @@
         "linux": {
             "root": "suanpan",
             "symlinks": [
-                "io.github.tlcfem.suanPan"
+                "io.github.tlcfem.suanPan",
+                "suanPan"
             ]
         }
     },
