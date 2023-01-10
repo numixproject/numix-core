@@ -15053,7 +15053,9 @@
         "linux": {
             "root": "kmidimon",
             "symlinks": [
-                "net.sourceforge.kmidimon"
+                "midiconn",
+                "net.sourceforge.kmidimon",
+                "xyz.safeworlds.midiconn"
             ]
         }
     },
