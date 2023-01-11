@@ -25203,7 +25203,10 @@
     },
     "spek": {
         "linux": {
-            "root": "spek"
+            "root": "spek",
+            "symlinks": [
+                "cc.spek.Spek"
+            ]
         }
     },
     "spelunky": {
