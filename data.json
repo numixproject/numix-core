@@ -15241,6 +15241,7 @@
         "linux": {
             "root": "kontena-lens",
             "symlinks": [
+                "dev.k8slens.Lens",
                 "lens"
             ]
         }
@@ -16649,7 +16650,11 @@
     },
     "mancy": {
         "linux": {
-            "root": "mancy"
+            "root": "mancy",
+            "symlinks": [
+                "br.app.pw3270",
+                "pw3270"
+            ]
         }
     },
     "mandelbulber": {
