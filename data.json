@@ -12936,6 +12936,15 @@
             "root": "helia"
         }
     },
+    "helio": {
+        "linux": {
+            "root": "helio",
+            "symlinks": [
+                "fm.helio.Workstation",
+                "helio-workstation"
+            ]
+        }
+    },
     "helix": {
         "linux": {
             "root": "helix",
