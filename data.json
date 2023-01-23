@@ -9698,7 +9698,8 @@
         "linux": {
             "root": "freeciv-client",
             "symlinks": [
-                "org.freeciv.Freeciv"
+                "org.freeciv.Freeciv",
+                "org.freeciv.gtk322"
             ]
         }
     },
