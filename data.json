@@ -1916,7 +1916,12 @@
     },
     "artha": {
         "linux": {
-            "root": "artha"
+            "root": "artha",
+            "symlinks": [
+                "cr3",
+                "crqt",
+                "io.gitlab.coolreader_ng.crqt-ng"
+            ]
         }
     },
     "artifact": {
