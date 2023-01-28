@@ -3183,7 +3183,9 @@
         "linux": {
             "root": "bookworm",
             "symlinks": [
-                "com.github.babluboy.bookworm"
+                "com.github.babluboy.bookworm",
+                "io.github.ilius.pyglossary",
+                "pyglossary"
             ]
         }
     },
