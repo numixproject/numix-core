@@ -9753,10 +9753,16 @@
     },
     "freedroid": {
         "linux": {
-            "root": "freedroid",
+            "root": "freedroid"
+        }
+    },
+    "freedroidrpg": {
+        "linux": {
+            "root": "freedroidrpg",
             "symlinks": [
-                "freedroidrpg",
-                "freedroidRPG"
+                "freedroidRPG",
+                "org.freedroid.freedroidRPG",
+                "steam_icon_1979930"
             ]
         }
     },
@@ -9878,7 +9884,7 @@
             "symlinks": [
                 "fyi.zoey.Boop-GTK",
                 "uk.co.mrbenshef.Boop-GTK"
-                ]
+            ]
         }
     },
     "frostpunk": {
