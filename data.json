@@ -25349,7 +25349,11 @@
     },
     "sportstracker": {
         "linux": {
-            "root": "sportstracker"
+            "root": "sportstracker",
+            "symlinks": [
+                "SportsTracker",
+                "st-logo-128"
+            ]
         }
     },
     "spotify-client": {
@@ -28922,6 +28926,7 @@
         "linux": {
             "root": "warzone2100",
             "symlinks": [
+                "net.wz2100.warzone2100",
                 "net.wz2100.wz2100"
             ]
         }
