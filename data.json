@@ -27082,7 +27082,11 @@
     },
     "tigervnc": {
         "linux": {
-            "root": "tigervnc"
+            "root": "tigervnc",
+            "symlinks": [
+                "org.tigervnc.TigerVNC",
+                "org.tigervnc.vncviewer"
+            ]
         }
     },
     "tiktok": {
