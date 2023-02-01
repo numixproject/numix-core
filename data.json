@@ -12523,6 +12523,14 @@
             ]
         }
     },
+    "gtksourceview-schemes": {
+        "linux": {
+            "root": "gtksourceview-schemes",
+            "symlinks": [
+                "me.hergert.Schemes"
+            ]
+        }
+    },
     "gtkwave": {
         "linux": {
             "root": "gtkwave",
