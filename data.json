@@ -27646,6 +27646,15 @@
             "root": "tsMuxerGUI"
         }
     },
+    "tubecards": {
+        "linux": {
+            "root": "tubecards",
+            "symlinks": [
+                "app.getspace.Space",
+                "app.tubecards.TubeCards"
+            ]
+        }
+    },
     "tubefeeder": {
         "linux": {
             "root": "tubefeeder",
