@@ -8485,6 +8485,15 @@
             ]
         }
     },
+    "etlegacy": {
+        "linux": {
+            "root": "etlegacy",
+            "symlinks": [
+                "com.etlegacy.ETLegacy",
+                "etl"
+            ]
+        }
+    },
     "etr": {
         "linux": {
             "root": "etr",
