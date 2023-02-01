@@ -18663,6 +18663,14 @@
             ]
         }
     },
+    "nix-software-center": {
+        "linux": {
+            "root": "nix-software-center",
+            "symlinks": [
+                "dev.vlinkz.NixSoftwareCenter"
+            ]
+        }
+    },
     "nixwriter": {
         "linux": {
             "root": "nixwriter",
