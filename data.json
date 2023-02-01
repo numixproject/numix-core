@@ -16299,6 +16299,14 @@
             ]
         }
     },
+    "localsend": {
+        "linux": {
+            "root": "localsend",
+            "symlinks": [
+                "org.localsend.localsend_app"
+            ]
+        }
+    },
     "log-analyzer": {
         "linux": {
             "root": "LogAnalyzer"
