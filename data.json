@@ -4772,6 +4772,14 @@
             "root": "cecilia"
         }
     },
+    "celeste": {
+        "linux": {
+            "root": "celeste",
+            "symlinks": [
+                "com.hunterwittenborn.Celeste"
+            ]
+        }
+    },
     "celluloid": {
         "linux": {
             "root": "celluloid",
