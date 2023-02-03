@@ -28330,6 +28330,14 @@
             "root": "vacuum"
         }
     },
+    "vail": {
+        "linux": {
+            "root": "vail",
+            "symlinks": [
+                "org.kde.vail"
+            ]
+        }
+    },
     "vala": {
         "linux": {
             "root": "vala",
