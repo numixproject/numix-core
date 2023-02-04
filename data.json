@@ -31106,7 +31106,10 @@
     },
     "zbstudio": {
         "linux": {
-            "root": "zbstudio"
+            "root": "zbstudio",
+            "symlinks": [
+                "com.zerobrane.studio"
+            ]
         }
     },
     "zdoom": {
