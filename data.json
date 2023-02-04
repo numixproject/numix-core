@@ -8442,12 +8442,19 @@
     },
     "eric": {
         "linux": {
-            "root": "eric"
+            "root": "eric",
+            "symlinks": [
+                "eric7_ide"
+            ]
         }
     },
     "eric-web": {
         "linux": {
-            "root": "ericWeb"
+            "root": "ericWeb",
+            "symlinks": [
+                "eric7_browser",
+                "ericWeb48"
+            ]
         },
         "tags": ["world_baseplate"]
     },
@@ -11681,8 +11688,8 @@
         "linux": {
             "root": "gobby",
             "symlinks": [
-                "de._0x539.gobby",
                 "de.0x539.gobby",
+                "de._0x539.gobby",
                 "gobby-0.5"
             ]
         }
@@ -23857,7 +23864,13 @@
     },
     "saga": {
         "linux": {
-            "root": "saga"
+            "root": "saga",
+            "symlinks": [
+                "org.saga-gis.saga-gui",
+                "org.saga_gis.saga",
+                "org.saga_gis.saga.desktop"
+                "saga_gui"
+            ]
         }
     },
     "sage-notebook": {
