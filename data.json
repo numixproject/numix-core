@@ -6256,6 +6256,14 @@
             "root": "steam_icon_292910"
         }
     },
+    "design-cad": {
+        "linux": {
+            "root": "design-cad",
+            "symlinks": [
+                "io.github.dubstar_04.design"
+            ]
+        }
+    },
     "desktop": {
         "linux": {
             "root": "desktop",
@@ -16082,7 +16090,6 @@
         "linux": {
             "root": "librepcb",
             "symlinks": [
-                "io.github.dubstar_04.design",
                 "org.librepcb.LibrePCB"
             ]
         }
