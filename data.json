@@ -17140,6 +17140,14 @@
             ]
         }
     },
+    "megamek": {
+        "linux": {
+            "root": "megamek",
+            "symlinks": [
+                "org.megamek.MegaMek"
+            ]
+        }
+    },
     "meld": {
         "linux": {
             "root": "meld",
@@ -27525,7 +27533,7 @@
             "symlinks": [
                 "cavalier",
                 "com.github.nick92.tranqil",
-                "io.github.fsobolev.Cavalier",
+                "io.github.fsobolev.Cavalier"
             ]
         }
     },
