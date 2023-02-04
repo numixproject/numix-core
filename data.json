@@ -992,7 +992,8 @@
             "root": "akonadi",
             "symlinks": [
                 "akonadiconsole",
-                "akonaditray"
+                "akonaditray",
+                "org.kde.akonadi"
             ]
         }
     },
@@ -1032,7 +1033,10 @@
     },
     "alevt": {
         "linux": {
-            "root": "alevt"
+            "root": "alevt",
+            "symlinks": [
+                "mini-alevt"
+            ]
         }
     },
     "alexandra": {
@@ -1830,6 +1834,8 @@
         "linux": {
             "root": "ariamaestosa",
             "symlinks": [
+                "Aria",
+                "aria",
                 "aria64"
             ]
         }
@@ -2301,7 +2307,10 @@
     },
     "autokey": {
         "linux": {
-            "root": "autokey"
+            "root": "autokey",
+            "symlinks": [
+                "autokey-gtk"
+            ]
         }
     },
     "autoplus": {
@@ -2650,7 +2659,10 @@
     },
     "bat": {
         "linux": {
-            "root": "bat"
+            "root": "bat",
+            "symlinks": [
+                "bareos"
+            ]
         }
     },
     "battleblock-theater": {
@@ -3285,7 +3297,10 @@
     },
     "bpython": {
         "linux": {
-            "root": "bpython"
+            "root": "bpython",
+            "symlinks": [
+                "org.bpython-interpreter.bpython"
+            ]
         }
     },
     "bpytop": {
@@ -3333,6 +3348,7 @@
                 "k3b",
                 "media-cdrom",
                 "nautilus-cd-burner",
+                "org.gnome.brasero",
                 "org.kde.k3b",
                 "org.xfce.xfburn",
                 "stock_xfburn",
@@ -3449,7 +3465,10 @@
     },
     "bubblemail": {
         "linux": {
-            "root": "bubblemail"
+            "root": "bubblemail",
+            "symlinks": [
+                "fr.free.bubblemail"
+            ]
         }
     },
     "budapest-public-transit": {
@@ -4638,7 +4657,10 @@
     },
     "canorus": {
         "linux": {
-            "root": "canorus"
+            "root": "canorus",
+            "symlinks": [
+                "clogosm"
+            ]
         }
     },
     "cantata": {
@@ -5847,6 +5869,7 @@
         "linux": {
             "root": "csoundqt",
             "symlinks": [
+                "org.csoundqt.CsoundQt",
                 "qtcs"
             ]
         }
@@ -6139,7 +6162,10 @@
     },
     "ddrescueview": {
         "linux": {
-            "root": "ddrescueview"
+            "root": "ddrescueview",
+            "symlinks": [
+                "kddrescueview"
+            ]
         }
     },
     "deadbeef": {
@@ -7967,7 +7993,13 @@
     },
     "easyrpg": {
         "linux": {
-            "root": "easyrpg"
+            "root": "easyrpg",
+            "symlinks": [
+                "easyrpg-editor",
+                "easyrpg-player",
+                "org.easyrpg.editor",
+                "org.easyrpg.player"
+            ]
         }
     },
     "easyssh": {
@@ -10103,7 +10135,11 @@
     },
     "gamma-ray": {
         "linux": {
-            "root": "GammaRay"
+            "root": "GammaRay",
+            "symlinks": [
+                "com.kdab.GammaRay",
+                "gammaray"
+            ]
         }
     },
     "gang-beasts": {
@@ -10274,12 +10310,18 @@
     },
     "gda-browser": {
         "linux": {
-            "root": "gda-browser-5.0"
+            "root": "gda-browser-5.0",
+            "symlinks": [
+                "org.gnome.gda.Browser"
+            ]
         }
     },
     "gda-control-center": {
         "linux": {
-            "root": "gda-control-center"
+            "root": "gda-control-center",
+            "symlinks": [
+                "gda-control-center-6.0"
+            ]
         }
     },
     "gdebi": {
@@ -10356,7 +10398,10 @@
     },
     "gemrb": {
         "linux": {
-            "root": "gemrb"
+            "root": "gemrb",
+            "symlinks": [
+                "org.gemrb.gemrb"
+            ]
         }
     },
     "gencolormap": {
@@ -10819,7 +10864,10 @@
     },
     "gmsh": {
         "linux": {
-            "root": "gmsh"
+            "root": "gmsh",
+            "symlinks": [
+                "info.gmsh.gmsh"
+            ]
         }
     },
     "gmtpicon": {
@@ -12006,6 +12054,7 @@
             "root": "gparted",
             "symlinks": [
                 "blivet-gui",
+                "org.gnome.gparted",
                 "org.kde.partitionmanager",
                 "partitionmanager"
             ]
@@ -12115,6 +12164,7 @@
         "linux": {
             "root": "gqrx",
             "symlinks": [
+                "dk.gqrx.gqrx",
                 "kali-gqrx"
             ]
         }
@@ -12270,7 +12320,10 @@
     },
     "gretl": {
         "linux": {
-            "root": "gretl"
+            "root": "gretl",
+            "symlinks": [
+                "gretl_edit"
+            ]
         }
     },
     "gridcoinresearch": {
@@ -21214,7 +21267,10 @@
     },
     "portecle": {
         "linux": {
-            "root": "portecle"
+            "root": "portecle",
+            "symlinks": [
+                "net.sf.portecle"
+            ]
         }
     },
     "portfolio": {
@@ -23868,7 +23924,7 @@
             "symlinks": [
                 "org.saga-gis.saga-gui",
                 "org.saga_gis.saga",
-                "org.saga_gis.saga.desktop"
+                "org.saga_gis.saga.desktop",
                 "saga_gui"
             ]
         }
