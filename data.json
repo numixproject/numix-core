@@ -1572,7 +1572,9 @@
             "root": "appimagetool",
             "symlinks": [
                 "appimage",
-                "AppImage"
+                "AppImage",
+                "flake",
+                "io.github.salaniLeo.flake"
             ]
         }
     },
@@ -11680,7 +11682,7 @@
             "root": "gobby",
             "symlinks": [
                 "de._0x539.gobby",
-                "de.0x539.gobby"
+                "de.0x539.gobby",
                 "gobby-0.5"
             ]
         }
@@ -23003,7 +23005,8 @@
         "linux": {
             "root": "rars",
             "symlinks": [
-                "com.github.TheThirdOne.rars"
+                "com.github.TheThirdOne.rars",
+                "io.github.TheThirdOne.rars"
             ]
         }
     },
