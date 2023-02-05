@@ -7849,7 +7849,10 @@
     },
     "dunelegacy": {
         "linux": {
-            "root": "dunelegacy"
+            "root": "dunelegacy",
+            "symlinks": [
+                "net.sourceforge.DuneLegacy"
+            ]
         }
     },
     "dungeon-crawl": {
