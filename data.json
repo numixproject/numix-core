@@ -8842,7 +8842,11 @@
     },
     "fceux": {
         "linux": {
-            "root": "fceux"
+            "root": "fceux",
+            "symlinks": [
+                "io.github.punesemu.puNES",
+                "punes"
+            ]
         }
     },
     "fcitx": {
@@ -31355,7 +31359,7 @@
             "root": "zsnes",
             "symlinks": [
                 "bsnes",
-                "dev.bsnes.bsnes",
+                "dev.bsnes.bsnes"
             ]
         }
     },
