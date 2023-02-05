@@ -12180,6 +12180,14 @@
             "root": "gpsprune"
         }
     },
+    "gpuvis": {
+        "linux": {
+            "root": "gpuvis",
+            "symlinks": [
+                "dcom.github.gpuvis.Gpuvis"
+            ]
+        }
+    },
     "gqrx": {
         "linux": {
             "root": "gqrx",
