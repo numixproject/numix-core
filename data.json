@@ -5837,7 +5837,9 @@
         "linux": {
             "root": "cryptote",
             "symlinks": [
-                "encryptpad"
+                "com.github.jkotra.unlockr",
+                "encryptpad",
+                "unlockr"
             ]
         }
     },
@@ -9881,6 +9883,7 @@
         "linux": {
             "root": "freeminer",
             "symlinks": [
+                "ch.tlaun.TL",
                 "terasology"
             ]
         }
