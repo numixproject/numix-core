@@ -5059,7 +5059,12 @@
     },
     "cine-encoder": {
         "linux": {
-            "root": "cine-encoder"
+            "root": "cine-encoder",
+            "symlinks": [
+                "Boram",
+                "com.github.kagami.boram",
+                "org.cidercollective.cider"
+            ]
         }
     },
     "cinelerra": {
