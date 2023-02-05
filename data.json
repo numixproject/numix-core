@@ -15342,7 +15342,8 @@
         "linux": {
             "root": "komodo",
             "symlinks": [
-                "komodo-ide"
+                "komodo-ide",
+                "komodo48"
             ]
         }
     },
@@ -15689,7 +15690,10 @@
     },
     "kverbos": {
         "linux": {
-            "root": "kverbos"
+            "root": "kverbos",
+            "symlinks": [
+                "org.kde.kverbos"
+            ]
         }
     },
     "kvirc": {
@@ -15943,7 +15947,10 @@
     },
     "lenmus": {
         "linux": {
-            "root": "lenmus"
+            "root": "lenmus",
+            "symlinks": [
+                "org.lenmus.lenmus"
+            ]
         }
     },
     "leocad": {
@@ -16588,7 +16595,10 @@
     },
     "lshw": {
         "linux": {
-            "root": "lshw-gtk"
+            "root": "lshw-gtk",
+            "symlinks": [
+                "gtk-lshw"
+            ]
         }
     },
     "lskat": {
@@ -16730,7 +16740,10 @@
     },
     "lyx": {
         "linux": {
-            "root": "lyx"
+            "root": "lyx",
+            "symlinks": [
+                "org.lyx.lyx"
+            ]
         }
     },
     "m64py": {
@@ -16785,7 +16798,10 @@
     },
     "makehuman": {
         "linux": {
-            "root": "makehuman"
+            "root": "makehuman",
+            "symlinks": [
+                "makehuman_bg"
+            ]
         }
     },
     "makemkv": {
@@ -17285,7 +17301,10 @@
     },
     "merkaartor": {
         "linux": {
-            "root": "merkaartor"
+            "root": "merkaartor",
+            "symlinks": [
+                "org.merkaartor.merkaartor"
+            ]
         }
     },
     "merkato": {
@@ -25574,6 +25593,7 @@
         "linux": {
             "root": "spyder",
             "symlinks": [
+                "org.spyder_ide.spyder",
                 "spyder3"
             ]
         }
@@ -30545,7 +30565,10 @@
     },
     "wxformbuilder": {
         "linux": {
-            "root": "wxformbuilder"
+            "root": "wxformbuilder",
+            "symlinks": [
+                "org.wxformbuilder.wxFormBuilder"
+            ]
         }
     },
     "wxglade": {
