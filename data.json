@@ -15443,7 +15443,8 @@
         "linux": {
             "root": "koreader",
             "symlinks": [
-                "org.koreader.KOReader"
+                "org.koreader.KOReader",
+                "rocks.koreader.KOReader"
             ]
         }
     },
@@ -19954,7 +19955,10 @@
     },
     "outline-manager": {
         "linux": {
-            "root": "outline-manager"
+            "root": "outline-manager",
+            "symlinks": [
+                "org.getoutline.OutlineManager"
+            ]
         }
     },
     "outliner": {
