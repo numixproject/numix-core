@@ -25928,6 +25928,15 @@
             ]
         }
     },
+    "stochas": {
+        "linux": {
+            "root": "stochas",
+            "symlinks": [
+                "org.stochas.Stochas",
+                "Stochas"
+            ]
+        }
+    },
     "stoken-gui": {
         "linux": {
             "root": "stoken-gui"
