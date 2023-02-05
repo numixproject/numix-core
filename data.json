@@ -232,7 +232,9 @@
                 "chrome-ddfplgpeamcbpecnihfpikllkfojgkai-Default",
                 "com.github.cassidyjames.clairvoyant",
                 "dk.sunsite.foobillard",
-                "foobillardplus"
+                "eight-ball",
+                "foobillardplus",
+                "ml.mdwalters.EightBall"
             ]
         }
     },
@@ -3646,6 +3648,7 @@
                 "gnome-calculator",
                 "io.elementary.calculator",
                 "io.liri.Calculator",
+                "io.playnux.calculator",
                 "kalk",
                 "kcalc",
                 "org.deepin.flatdeb.deepin-calculator",
@@ -14658,6 +14661,8 @@
         "linux": {
             "root": "kanagram",
             "symlinks": [
+                "anagramarama",
+                "com.identicalsoftware.anagramarama",
                 "org.kde.kanagram"
             ]
         }
@@ -27487,7 +27492,9 @@
             "symlinks": [
                 "com.github.luizaugustomm.tomato",
                 "com.github.tomatoers.tomato",
-                "tomato"
+                "net.sourceforge.tomatoes.IHaveNoTomatoes",
+                "tomato",
+                "tomatoes"
             ]
         }
     },
