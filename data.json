@@ -6288,6 +6288,7 @@
         "linux": {
             "root": "design-cad",
             "symlinks": [
+                "com.github.dubstar.design",
                 "io.github.dubstar_04.design"
             ]
         }
@@ -6555,7 +6556,8 @@
                 "startarmcord",
                 "web-discord",
                 "webcord",
-                "xyz.armcord.ArmCord"
+                "xyz.armcord.ArmCord",
+                "xyz.diamondb.gtkcord4"
             ]
         }
     },
@@ -10200,8 +10202,6 @@
         "linux": {
             "root": "gba",
             "symlinks": [
-                "bsnes",
-                "dev.bsnes.bsnes",
                 "gvbam",
                 "io.github.sameboy.SameBoy",
                 "io.mgba.mGBA",
@@ -31352,7 +31352,11 @@
     },
     "zsnes": {
         "linux": {
-            "root": "zsnes"
+            "root": "zsnes",
+            "symlinks": [
+                "bsnes",
+                "dev.bsnes.bsnes",
+            ]
         }
     },
     "zulip": {
