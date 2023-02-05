@@ -17367,7 +17367,10 @@
     },
     "metamorphose2": {
         "linux": {
-            "root": "metamorphose2"
+            "root": "metamorphose2",
+            "symlinks": [
+                "org.libsdl.Maelstrom"
+            ]
         }
     },
     "metro-2033": {
