@@ -12451,7 +12451,11 @@
     },
     "gsopcast": {
         "linux": {
-            "root": "gsopcast"
+            "root": "gsopcast",
+            "symlinks": [
+                "io.github.brunoherbelin.Vimix",
+                "vimix"
+            ]
         }
     },
     "gspectrum": {
