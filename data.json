@@ -28227,6 +28227,14 @@
             ]
         }
     },
+    "umftpd": {
+        "linux": {
+            "root": "umftpd",
+            "symlinks": [
+                "eu.ithz.umftpd"
+            ]
+        }
+    },
     "umlet": {
         "linux": {
             "root": "umlet",
