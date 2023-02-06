@@ -28960,17 +28960,24 @@
         "linux": {
             "root": "visualstudiocode",
             "symlinks": [
-                "code-oss",
                 "com.visualstudio.code",
-                "com.visualstudio.code-oss",
                 "com.visualstudio.code.insiders",
-                "com.visualstudio.code.oss",
                 "com.vscodium.codium",
                 "visual-studio-code",
                 "vsc",
                 "vscode",
                 "vscodium",
                 "vso"
+            ]
+        }
+    },
+    "visualstudiocode-oss": {
+        "linux": {
+            "root": "visualstudiocode-oss",
+            "symlinks": [
+                "code-oss",
+                "com.visualstudio.code-oss",
+                "com.visualstudio.code.oss"
             ]
         }
     },
