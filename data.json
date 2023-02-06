@@ -6821,6 +6821,15 @@
             "root": "distributor-logo-crux"
         }
     },
+    "distributor-logo-crystal": {
+        "linux": {
+            "root": "distributor-logo-crystal",
+            "symlinks": [
+                "al.getcryst.FirstSetup",
+                "crystal-first-setup"
+            ]
+        }
+    },
     "distributor-logo-cub": {
         "linux": {
             "root": "distributor-logo-cub"
