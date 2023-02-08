@@ -17863,6 +17863,14 @@
             "root": "monogame"
         }
     },
+    "monophony": {
+        "linux": {
+            "root": "monophony",
+            "symlinks": [
+                "io.gitlab.zehkira.Monophony"
+            ]
+        }
+    },
     "monster-prom": {
         "linux": {
             "root": "steam_icon_743450"
