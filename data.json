@@ -11905,7 +11905,10 @@
     },
     "google-chrome-unstable": {
         "linux": {
-            "root": "google-chrome-unstable"
+            "root": "google-chrome-unstable",
+            "symlinks": [
+                "com.google.ChromeDev"
+            ]
         }
     },
     "google-docs": {
@@ -24225,6 +24228,7 @@
             "symlinks": [
                 "com.github.benini.scid",
                 "gambito",
+                "io.github.benini.scid",
                 "jerry",
                 "net.danigm.gambito",
                 "org.sugarlabs.Chess",
