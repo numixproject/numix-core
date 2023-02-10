@@ -24059,6 +24059,14 @@
             ]
         }
     },
+    "ryujinx": {
+        "linux": {
+            "root": "ryujinx",
+            "symlinks": [
+                "org.ryujinx.Ryujinx"
+            ]
+        }
+    },
     "sabnzbdplus": {
         "linux": {
             "root": "sabnzbdplus"
