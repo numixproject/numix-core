@@ -34,8 +34,6 @@ jobs:
 
       - name: Check .editorconfig compliance
         uses: editorconfig-checker/action-editorconfig-checker@v1
-        with:
-          ignore: .git
 
   # Checks relating to the database
   check:
