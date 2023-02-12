@@ -14085,7 +14085,10 @@
     },
     "iptvnator": {
         "linux": {
-            "root": "iptvnator"
+            "root": "iptvnator",
+            "symlinks": [
+                "sopcast-player"
+            ]
         }
     },
     "ipython": {
