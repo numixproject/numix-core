@@ -16476,11 +16476,6 @@
             ]
         }
     },
-    "liveinst": {
-        "linux": {
-            "root": "liveinst"
-        }
-    },
     "lives": {
         "linux": {
             "root": "lives"
@@ -20015,6 +20010,7 @@
             "root": "os-installer",
             "symlinks": [
                 "al.getcryst.jadegui",
+                "anaconda",
                 "calamares",
                 "cnchi",
                 "com.github.calamares.calamares",
@@ -20022,6 +20018,8 @@
                 "com.ubunutu.ubiquity",
                 "io.calamares.calamares",
                 "jade-gui",
+                "liveinst",
+                "org.fedoraproject.AnacondaInstaller",
                 "ubiquity",
                 "ubiquity-kde"
             ]
@@ -26603,7 +26601,6 @@
         "linux": {
             "root": "system-software-install",
             "symlinks": [
-                "anaconda",
                 "apper",
                 "aptdaemon-download",
                 "aptdaemon-working",
