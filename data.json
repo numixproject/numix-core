@@ -1629,6 +1629,7 @@
             "symlinks": [
                 "arkade",
                 "deepin-game-center",
+                "garuda-gamer",
                 "gnome-games",
                 "org.gnome.Games",
                 "org.gnome.World.Highscore",
@@ -3255,6 +3256,8 @@
             "root": "bootrepair",
             "symlinks": [
                 "boot-repair",
+                "garuda-boot-options",
+                "indicator-cpufreq",
                 "x-boot-repair"
             ]
         }
@@ -6950,7 +6953,12 @@
     },
     "distributor-logo-garudalinux": {
         "linux": {
-            "root": "distributor-logo-garudalinux"
+            "root": "distributor-logo-garudalinux",
+            "symlinks": [
+                "garuda-assistant",
+                "garuda-welcome",
+                "garudalinux-logo"
+            ]
         }
     },
     "distributor-logo-gentoo": {
@@ -14496,6 +14504,7 @@
                 "deepin-repair-tools",
                 "device-notifier",
                 "driver-manager",
+                "garuda-system-maintenance",
                 "jockey-gtk",
                 "jockey-kde",
                 "mintdrivers",
@@ -14777,6 +14786,7 @@
         "linux": {
             "root": "kasts",
             "symlinks": [
+                "garuda-network-assistant",
                 "org.kde.kasts"
             ]
         }
@@ -15051,6 +15061,7 @@
         "linux": {
             "root": "kget",
             "symlinks": [
+                "garuda-downloader",
                 "org.kde.kget"
             ]
         }
@@ -28397,6 +28408,7 @@
         "linux": {
             "root": "unity-tweak-tool",
             "symlinks": [
+                "garuda-settings-manager",
                 "ubuntu-first-steps"
             ]
         }
