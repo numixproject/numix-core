@@ -4785,7 +4785,7 @@
         "linux": {
             "root": "catarina",
             "symlinks": [
-                "com.github.falkTX.Cadtarina",
+                "com.github.falkTX.Catarina",
                 "studio.kx.catarina"
             ]
         }
@@ -6624,7 +6624,8 @@
         "linux": {
             "root": "discord-canary",
             "symlinks": [
-                "com.discordapp.DiscordCanary"
+                "com.discordapp.DiscordCanary",
+                "discord-development"
             ]
         }
     },
@@ -7157,7 +7158,10 @@
     },
     "distributor-logo-nixos": {
         "linux": {
-            "root": "distributor-logo-nixos"
+            "root": "distributor-logo-nixos",
+            "symlinks": [
+                "nix-snowflake"
+            ]
         }
     },
     "distributor-logo-nomadbsd": {
@@ -14334,6 +14338,7 @@
                 "java17-openjdk",
                 "java18-openjdk",
                 "java19-openjdk",
+                "java20-openjdk",
                 "java8-openjdk",
                 "java9-openjdk",
                 "javaws",
@@ -14347,6 +14352,7 @@
                 "openjdk-17",
                 "openjdk-18",
                 "openjdk-19",
+                "openjdk-20",
                 "openjdk-6",
                 "openjdk-7",
                 "openjdk-8",
@@ -14362,6 +14368,7 @@
                 "oracle_java17",
                 "oracle_java18",
                 "oracle_java19",
+                "oracle_java20",
                 "oracle_java6",
                 "oracle_java7",
                 "oracle_java8",
@@ -14378,6 +14385,7 @@
                 "org.freedesktop.Sdk.Extension.openjdk17",
                 "org.freedesktop.Sdk.Extension.openjdk18",
                 "org.freedesktop.Sdk.Extension.openjdk19",
+                "org.freedesktop.Sdk.Extension.openjdk20",
                 "org.freedesktop.Sdk.Extension.openjdk8",
                 "org.freedesktop.Sdk.Extension.openjdk9",
                 "sun-java",
@@ -16151,6 +16159,7 @@
                 "libreoffice7.2-base",
                 "libreoffice7.3-base",
                 "libreoffice7.4-base",
+                "libreoffice7.5-base",
                 "libreofficedev6.1-base",
                 "org.libreoffice.LibreOffice-base",
                 "org.libreoffice.LibreOffice.base"
@@ -16172,6 +16181,7 @@
                 "libreoffice7.2-calc",
                 "libreoffice7.3-calc",
                 "libreoffice7.4-calc",
+                "libreoffice7.5-calc",
                 "libreofficedev6.1-calc",
                 "org.libreoffice.LibreOffice-calc",
                 "org.libreoffice.LibreOffice.calc"
@@ -16193,6 +16203,7 @@
                 "libreoffice7.2-draw",
                 "libreoffice7.3-draw",
                 "libreoffice7.4-draw",
+                "libreoffice7.5-draw",
                 "libreofficedev6.1-draw",
                 "org.libreoffice.LibreOffice-draw",
                 "org.libreoffice.LibreOffice.draw"
@@ -16214,6 +16225,7 @@
                 "libreoffice7.2-impress",
                 "libreoffice7.3-impress",
                 "libreoffice7.4-impress",
+                "libreoffice7.5-impress",
                 "libreofficedev6.1-impress",
                 "org.libreoffice.LibreOffice-impress",
                 "org.libreoffice.LibreOffice.impress"
@@ -16242,6 +16254,7 @@
                 "libreoffice7.2-startcenter",
                 "libreoffice7.3-startcenter",
                 "libreoffice7.4-startcenter",
+                "libreoffice7.5-startcenter",
                 "libreofficedev6.1-startcenter",
                 "org.libreoffice.LibreOffice-startcenter",
                 "org.libreoffice.LibreOffice.startcenter"
@@ -16263,6 +16276,7 @@
                 "libreoffice7.2-math",
                 "libreoffice7.3-math",
                 "libreoffice7.4-math",
+                "libreoffice7.5-math",
                 "libreofficedev6.1-math",
                 "org.libreoffice.LibreOffice-math",
                 "org.libreoffice.LibreOffice.math"
@@ -16277,7 +16291,8 @@
                 "libreoffice34-template",
                 "libreoffice7.2-template",
                 "libreoffice7.3-template",
-                "libreoffice7.4-template"
+                "libreoffice7.4-template",
+                "libreoffice7.5-template"
             ]
         }
     },
@@ -16296,6 +16311,7 @@
                 "libreoffice7.2-writer",
                 "libreoffice7.3-writer",
                 "libreoffice7.4-writer",
+                "libreoffice7.5-writer",
                 "libreofficedev6.1-writer",
                 "org.libreoffice.LibreOffice-writer",
                 "org.libreoffice.LibreOffice.writer"
@@ -19680,7 +19696,8 @@
         "linux": {
             "root": "openboard",
             "symlinks": [
-                "ch.openboard.OpenBoard"
+                "ch.openboard.OpenBoard",
+                "OpenBoard"
             ]
         }
     },
@@ -24928,6 +24945,7 @@
         "linux": {
             "root": "simplescreenrecorder",
             "symlinks": [
+                "com.github.vkohaupt.vokoscreenNG",
                 "vokoscreen",
                 "vokoscreenNG"
             ]
