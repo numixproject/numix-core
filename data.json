@@ -25129,6 +25129,14 @@
             "root": "slimevolley"
         }
     },
+    "slimevr": {
+        "linux": {
+            "root": "slimevr",
+            "symlinks": [
+                "dev.slimevr.SlimeVR"
+            ]
+        }
+    },
     "slingscold": {
         "linux": {
             "root": "slingscold",
