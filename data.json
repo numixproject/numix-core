@@ -4762,6 +4762,15 @@
             ]
         }
     },
+    "castle-game-engine": {
+        "linux": {
+            "root": "castle-game-engine",
+            "symlinks": [
+                "castle-editor",
+                "castle_game_engine_icon"
+            ]
+        }
+    },
     "cataclysm-dda": {
         "linux": {
             "root": "cataclysm-dda",
