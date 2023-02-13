@@ -8249,6 +8249,10 @@
                 "electron18",
                 "electron19",
                 "electron2",
+                "electron20",
+                "electron21",
+                "electron22",
+                "electron23",
                 "electron3",
                 "electron4",
                 "electron5",
@@ -20220,7 +20224,10 @@
     },
     "pacseek": {
         "linux": {
-            "root": "pacseek"
+            "root": "pacseek",
+            "symlinks": [
+                "org.moson.pacseek"
+            ]
         }
     },
     "padthv1": {
