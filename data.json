@@ -29085,11 +29085,9 @@
             "symlinks": [
                 "com.visualstudio.code",
                 "com.visualstudio.code.insiders",
-                "com.vscodium.codium",
                 "visual-studio-code",
                 "vsc",
                 "vscode",
-                "vscodium",
                 "vso"
             ]
         }
@@ -29286,6 +29284,14 @@
             "root": "vremenar",
             "symlinks": [
                 "si.tano.Vremenar"
+            ]
+        }
+    },
+    "vscodium": {
+        "linux": {
+            "root": "vscodium",
+            "symlinks": [
+                "com.vscodium.codium"
             ]
         }
     },
