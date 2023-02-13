@@ -17645,7 +17645,10 @@
             "nz.co.codepoint.minimetro/com.unity3d.player.UnityPlayerActivity"
         ],
         "linux": {
-            "root": "steam_icon_287980"
+            "root": "steam_icon_287980",
+            "symlinks": [
+                "BigMetro"
+            ]
         }
     },
     "minigalaxy": {
