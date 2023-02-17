@@ -11141,7 +11141,8 @@
         "linux": {
             "root": "gnome-console",
             "symlinks": [
-                "org.gnome.Console"
+                "org.gnome.Console",
+                "org.kde.qmlkonsole"
             ]
         }
     },
@@ -20918,6 +20919,7 @@
             "root": "phototonic",
             "symlinks": [
                 "aphototoollibre",
+                "me.ahola.aphototoollibre",
                 "org.libvips.vipsdisp",
                 "vipsdisp"
             ]
@@ -29422,6 +29424,7 @@
         "linux": {
             "root": "waterfox",
             "symlinks": [
+                "net.waterfox.waterfox",
                 "waterfox-icon"
             ]
         }
