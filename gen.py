@@ -179,11 +179,6 @@ elif platform == "linux":
                 except FileExistsError:
                     continue
 
-            # Unity 7 BFB icons
-            if icon["linux"].get("bfb") and (size == "48"):
-                output_bfb = icon["linux"].get("bfb") + ".png"
-                convert_svg2png(source, output + output_bfb, 144, 144)
-
 
 # OSX Generation Code
 elif platform == "osx":

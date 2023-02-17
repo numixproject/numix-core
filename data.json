@@ -1519,7 +1519,6 @@
     "app-launcher": {
         "linux": {
             "root": "app-launcher",
-            "bfb": "launcher_bfb",
             "symlinks": [
                 "applications-all",
                 "chrome-app-list",
@@ -7396,7 +7395,6 @@
     "distributor-logo-ubuntu": {
         "linux": {
             "root": "distributor-logo-ubuntu",
-            "bfb": "launcher_bfb_ubuntu",
             "symlinks": [
                 "distributor-logo",
                 "ubuntu-online-tour"
@@ -19174,7 +19172,6 @@
     "numix": {
         "linux": {
             "root": "numix",
-            "bfb": "launcher_bfb_numix",
             "symlinks": [
                 "icon-requests",
                 "preferences-desktop-icons"
