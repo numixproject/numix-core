@@ -9773,12 +9773,13 @@
         "linux": {
             "root": "fotowall",
             "symlinks": [
-                "com.github.aharotias2.parapara",
                 "deepin-album",
                 "kirigami2gallery",
                 "kphotoalbum",
                 "org.kde.kirigami2.gallery",
-                "org.kde.kphotoalbum"
+                "org.kde.kphotoalbum",
+                "org.pwall.Pwall",
+                "pwall"
             ]
         }
     },
@@ -20870,6 +20871,7 @@
         "linux": {
             "root": "photocollage",
             "symlinks": [
+                "com.github.aharotias2.parapara",
                 "koko",
                 "org.kde.koko"
             ]
