@@ -4761,6 +4761,14 @@
             "root": "steam_icon_953490"
         }
     },
+    "cartridges": {
+        "linux": {
+            "root": "cartridges",
+            "symlinks": [
+                "hu.kramo.Cartridges"
+            ]
+        }
+    },
     "castle-crashers": {
         "linux": {
             "root": "steam_icon_204360",
