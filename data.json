@@ -18539,9 +18539,7 @@
             "root": "mynotex",
             "symlinks": [
                 "activity-story",
-                "com.github.flxzt.rnote",
-                "org.sugarlabs.StoryActivity",
-                "rnote"
+                "org.sugarlabs.StoryActivity"
             ]
         }
     },
@@ -23892,6 +23890,14 @@
             "symlinks": [
                 "com.github.Rosalie241.RMG",
                 "RMG"
+            ]
+        }
+    },
+    "rnote": {
+        "linux": {
+            "root": "rnote",
+            "symlinks": [
+                "com.github.flxzt.rnote"
             ]
         }
     },
