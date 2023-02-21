@@ -5582,6 +5582,11 @@
             ]
         }
     },
+    "converter": {
+        "linux": {
+            "root": "io.gitlab.adhami3310.Converter"
+        }
+    },
     "cool-retro-term": {
         "linux": {
             "root": "cool-retro-term"
@@ -11934,7 +11939,6 @@
         "linux": {
             "root": "gonvert",
             "symlinks": [
-                "io.gitlab.adhami3310.Converter",
                 "net.bartkessels.SimpleConvert",
                 "net.bartkessels.simpleconvert",
                 "simpleconvert"
