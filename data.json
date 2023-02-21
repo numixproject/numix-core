@@ -10897,6 +10897,14 @@
             "root": "glc_player"
         }
     },
+    "glide": {
+        "linux": {
+            "root": "glide",
+            "symlinks": [
+                "net.base-art.Glide"
+            ]
+        }
+    },
     "glom": {
         "linux": {
             "root": "glom"
@@ -21491,7 +21499,7 @@
         "linux": {
             "root": "popcorntime",
             "symlinks": [
-                "butter",
+                "butter-desktop",
                 "popcorn-time",
                 "popcorntime-ce",
                 "sh.popcorntime.PopcornTime"
