@@ -19002,6 +19002,14 @@
             ]
         }
     },
+    "nixos-conf-editor": {
+        "linux": {
+            "root": "nixos-conf-editor",
+            "symlinks": [
+                "dev.vlinkz.NixosConfEditor"
+            ]
+        }
+    },
     "nixwriter": {
         "linux": {
             "root": "nixwriter",
