@@ -21218,6 +21218,15 @@
             ]
         }
     },
+    "pizarra": {
+        "linux": {
+            "root": "pizarra",
+            "symlinks": [
+                "pizarra-gtk",
+                "tk.categulario.pizarra"
+            ]
+        }
+    },
     "plague": {
         "linux": {
             "root": "plague",
