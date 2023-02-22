@@ -25872,6 +25872,14 @@
             ]
         }
     },
+    "spot": {
+        "linux": {
+            "root": "spot",
+            "symlinks": [
+                "dev.alextren.Spot"
+            ]
+        }
+    },
     "spotify-client": {
         "android": [
             "com.spotify.music/com.spotify.music.MainActivity"
@@ -25881,7 +25889,6 @@
             "symlinks": [
                 "chrome-cnkjkdjlofllcpbemipjbcpfnglbgieh-Default",
                 "com.spotify.Client",
-                "dev.alextren.Spot",
                 "eu.tiliado.NuvolaAppSpotify",
                 "nuvolaplayer3_spotify",
                 "Spotify",
