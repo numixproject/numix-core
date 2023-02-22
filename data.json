@@ -8089,6 +8089,14 @@
             ]
         }
     },
+        "easyeffects": {
+        "linux": {
+            "root": "easyeffects",
+            "symlinks": [
+                "com.github.wwmm.easyeffects"
+            ]
+        }
+    },
     "easylife": {
         "linux": {
             "root": "easylife"
@@ -22258,9 +22266,7 @@
         "linux": {
             "root": "pulseeffects",
             "symlinks": [
-                "com.github.wwmm.easyeffects",
-                "com.github.wwmm.pulseeffects",
-                "easyeffects"
+                "com.github.wwmm.pulseeffects"
             ]
         }
     },
