@@ -22222,6 +22222,14 @@
             ]
         }
     },
+    "pulsar": {
+        "linux": {
+            "root": "pulsar",
+            "symlinks": [
+                "dev.pulsar_edit.Pulsar"
+            ]
+        }
+    },
     "pulse-secure": {
         "linux": {
             "root": "pulse-secure"
