@@ -4651,6 +4651,9 @@
         }
     },
     "calls": {
+        "android": [
+            "com.samsung.android.contacts/com.android.dialer.DialtactsActivity"
+        ],
         "linux": {
             "root": "calls",
             "symlinks": [
@@ -5934,11 +5937,6 @@
             ]
         }
     },
-    "cs-cat-admin": {
-        "linux": {
-            "root": "cs-cat-admin"
-        }
-    },
     "cs-desktop": {
         "linux": {
             "root": "cs-desktop",
@@ -5949,7 +5947,10 @@
     },
     "cs-user-accounts": {
         "linux": {
-            "root": "cs-user-accounts"
+            "root": "cs-user-accounts",
+            "symlinks": [
+                "cs-cat-admin"
+            ]
         }
     },
     "csoundqt": {
@@ -20940,11 +20941,6 @@
         "linux": {
             "root": "phd2"
         }
-    },
-    "phone": {
-        "android": [
-            "com.samsung.android.contacts/com.android.dialer.DialtactsActivity"
-        ]
     },
     "phoronix-test-suite": {
         "linux": {
