@@ -5545,6 +5545,14 @@
             ]
         }
     },
+    "conjure": {
+        "linux": {
+            "root": "conky",
+            "symlinks": [
+                "io.github.nate_xyz.Conjure"
+            ]
+        }
+    },
     "conky": {
         "linux": {
             "root": "conky",
