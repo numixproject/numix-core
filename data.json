@@ -3414,6 +3414,11 @@
             ]
         }
     },
+    "brewtarget": {
+        "linux": {
+            "root": "brewtarget"
+        }
+    },
     "briar": {
         "linux": {
             "root": "briar",
@@ -16009,7 +16014,7 @@
         "linux": {
             "root": "lanchat",
             "symlinks": [
-                "io.github.tofudd.lanchat.terminal"
+                "io.github.tofudd.lanchat.terminal",
                 "lanshare"
             ]
         }
