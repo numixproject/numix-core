@@ -5981,7 +5981,10 @@
     },
     "cups-launcher": {
         "linux": {
-            "root": "cups-launcher"
+            "root": "cups-launcher",
+            "symlinks": [
+                "cups"
+            ]
         }
     },
     "cura": {
@@ -14607,6 +14610,7 @@
                 "jockey-kde",
                 "mintdrivers",
                 "nxclient-wizard",
+                "samsung-driver",
                 "system76-driver"
             ]
         }
@@ -19451,7 +19455,6 @@
         "linux": {
             "root": "office-printer",
             "symlinks": [
-                "cups",
                 "libreoffice-printeradmin",
                 "libreoffice3-printeradmin",
                 "libreoffice34-printeradmin",
@@ -19459,8 +19462,7 @@
                 "openoffice4-printeradmin",
                 "openofficeorg-printeradmin",
                 "openofficeorg3-printeradmin",
-                "openofficeorg3.0-printeradmin",
-                "samsung-driver"
+                "openofficeorg3.0-printeradmin"
             ]
         }
     },
