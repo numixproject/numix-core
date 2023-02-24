@@ -14152,6 +14152,14 @@
             "root": "ipfs-desktop"
         }
     },
+    "iplan": {
+        "linux": {
+            "root": "iplan",
+            "symlinks": [
+                "ir.imansalmani.IPlan"
+            ]
+        }
+    },
     "ipscan": {
         "linux": {
             "root": "ipscan"
