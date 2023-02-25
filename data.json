@@ -4342,7 +4342,6 @@
                 "deepin-calendar",
                 "gnome-calendar",
                 "gnome-mime-text-x-vcalendar",
-                "gnome-planner",
                 "io.elementary.calendar",
                 "korganizer",
                 "office-date",
@@ -22133,7 +22132,11 @@
     },
     "projectlibre": {
         "linux": {
-            "root": "projectlibre"
+            "root": "projectlibre",
+            "symlinks": [
+                "app.drey.Planner",
+                "gnome-planner"
+            ]
         }
     },
     "projectm": {
