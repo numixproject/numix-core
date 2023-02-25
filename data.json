@@ -20841,7 +20841,6 @@
         "linux": {
             "root": "pencil2d",
             "symlinks": [
-                "MrWriter",
                 "org.pencil2d.Pencil2D"
             ]
         }
@@ -30748,6 +30747,7 @@
         "linux": {
             "root": "wireframe-sketcher",
             "symlinks": [
+                "MrWriter",
                 "WireframeSketcher",
                 "WireframeSketcherStudio",
                 "wireframing"
