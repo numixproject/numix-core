@@ -3677,6 +3677,7 @@
             "root": "calc",
             "symlinks": [
                 "accessories-calculator",
+                "brun",
                 "com.deepin.Calculator",
                 "cutefish-calculator",
                 "deepin-calculator",
@@ -4012,6 +4013,7 @@
                 "kalendar",
                 "orage",
                 "orage_globaltime",
+                "org.kde.agenda",
                 "org.kde.kalendar",
                 "org.xfce.orage",
                 "unity-webapps-google-calendar",
@@ -9229,6 +9231,7 @@
             "root": "file-roller",
             "symlinks": [
                 "accessories-archiver",
+                "arca",
                 "archive-manager",
                 "archivemanager",
                 "ark",
@@ -9238,6 +9241,7 @@
                 "lxqt-archiver",
                 "org.gnome.ArchiveManager",
                 "org.gnome.FileRoller",
+                "org.kde.arca",
                 "org.kde.ark",
                 "utilities-file-archiver",
                 "xarchiver"
@@ -17326,6 +17330,8 @@
         "linux": {
             "root": "maui-sol",
             "symlinks": [
+                "fiery",
+                "org.kde.fiery",
                 "org.kde.sol",
                 "sol"
             ]
@@ -22071,6 +22077,7 @@
                 "clocks",
                 "config-date",
                 "cs-date-time",
+                "era",
                 "gnome-panel-clock",
                 "gnome-set-time",
                 "gtubeclock",
