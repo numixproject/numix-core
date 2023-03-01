@@ -208,6 +208,7 @@
         "linux": {
             "root": "7kaa",
             "symlinks": [
+                "com.sevenkfans.sevenkaa",
                 "com.sevenkfans.SevenKingdomsAncientAdversaries",
                 "steam_icon_450140"
             ]
@@ -424,6 +425,7 @@
                 "deepin-reader",
                 "graphics-viewer-document",
                 "maui-shelf",
+                "org.cubocore.CorePDF",
                 "org.maui.shelf",
                 "shelf",
                 "x-pdf",
@@ -503,6 +505,7 @@
                 "gscreenshot",
                 "io.elementary.screenshot",
                 "io.elementary.screenshot-tool",
+                "io.github.igorlogius.scr2ppm",
                 "kscreenshot",
                 "ksnapshot",
                 "ksnip",
@@ -879,7 +882,10 @@
     },
     "age-of-mythology": {
         "linux": {
-            "root": "steam_icon_266840"
+            "root": "steam_icon_266840",
+            "symlinks": [
+                "org.sil.FieldWorks"
+            ]
         }
     },
     "agenda": {
@@ -1156,6 +1162,7 @@
             "root": "am2r",
             "symlinks": [
                 "AM2RLauncher",
+                "io.github.am2r_community_developers.AM2RLauncher",
                 "io.github.am2rcommunitydevelopers.AM2RLauncher"
             ]
         }
@@ -2584,6 +2591,7 @@
         "linux": {
             "root": "banking",
             "symlinks": [
+                "org.tabos.Banking",
                 "org.tabos.banking"
             ]
         }
@@ -2881,7 +2889,8 @@
                 "fr.fgrabenstaetter.DigitalAssets",
                 "multibit",
                 "multibit-hd",
-                "org.bitcoincore.bitcoin-qt"
+                "org.bitcoincore.bitcoin-qt",
+                "org.btchd.btchd-qt"
             ]
         }
     },
@@ -3612,7 +3621,7 @@
             "root": "bygfoot",
             "symlinks": [
                 "com.github.mirkobrombin.football",
-                "io.gitlab.leesonwai.Tactics.desktop",
+                "io.gitlab.leesonwai.Tactics",
                 "io.sourceforge.YSoccer",
                 "kickoff-player",
                 "ysoccer"
@@ -4689,7 +4698,9 @@
         "linux": {
             "root": "caneda",
             "symlinks": [
-                "openhardwaremonitor"
+                "cz.cvut.edu.comparch.qtrvsim",
+                "openhardwaremonitor",
+                "qtrvsim"
             ]
         }
     },
@@ -5529,6 +5540,8 @@
         "linux": {
             "root": "colorway",
             "symlinks": [
+                "colormate",
+                "com.github.ckruse.ColorMate",
                 "io.github.lainsce.Colorway"
             ]
         }
@@ -5607,7 +5620,8 @@
         "linux": {
             "root": "cotour",
             "symlinks": [
-                "org.contour_terminal.Terminal"
+                "org.contour_terminal.Terminal",
+                "org.contourterminal.Contour"
             ]
         }
     },
@@ -6657,6 +6671,7 @@
                 "com.discordapp.DiscordPTB",
                 "datcord",
                 "datcord256",
+                "de.shorsh.discord-screenaudio",
                 "discord-bin",
                 "discord-ptb",
                 "gtkcord",
@@ -6706,7 +6721,10 @@
     },
     "displaycal": {
         "linux": {
-            "root": "displaycal"
+            "root": "displaycal",
+            "symlinks": [
+                "net.displaycal.DisplayCAL"
+            ]
         }
     },
     "displaycal-3dlut-maker": {
@@ -8744,7 +8762,8 @@
         "linux": {
             "root": "euterpe-gtk",
             "symlinks": [
-                "com.doycho.euterpe.gtk"
+                "com.doycho.euterpe.gtk",
+                "io.github.helpseeker.Gyre"
             ]
         }
     },
@@ -9100,7 +9119,11 @@
     },
     "ferrum": {
         "linux": {
-            "root": "ferrum"
+            "root": "ferrum",
+            "symlinks": [
+                "net.sourceforge.paulstretch",
+                "paulstretch"
+            ]
         }
     },
     "feudaltactics": {
@@ -9184,6 +9207,7 @@
             "root": "file-manager",
             "symlinks": [
                 "caja-actions",
+                "com.vicr123.thefile",
                 "dde-file-manager",
                 "file-system-manager",
                 "filerunner",
@@ -9194,11 +9218,13 @@
                 "nautilus",
                 "nautilus-actions",
                 "nautilus-actions-config-tool",
+                "org.cubocore.CoreFM",
                 "org.gnome.Nautilus",
                 "org.kde.index",
                 "org.xfce.filemanager",
                 "redhat-filemanager",
                 "system-file-manager",
+                "thefile",
                 "user-file-manager",
                 "WorkerIcon48",
                 "xfce-filemanager"
@@ -9244,6 +9270,7 @@
                 "engrampa",
                 "gvfsd-archive-file",
                 "lxqt-archiver",
+                "org.cubocore.CoreArchiver",
                 "org.gnome.ArchiveManager",
                 "org.gnome.FileRoller",
                 "org.kde.arca",
@@ -9845,6 +9872,7 @@
             "root": "fotowall",
             "symlinks": [
                 "deepin-album",
+                "io.github.davidoc26.wallpaper_selector",
                 "kirigami2gallery",
                 "kphotoalbum",
                 "org.kde.kirigami2.gallery",
@@ -10972,7 +11000,10 @@
     },
     "glom": {
         "linux": {
-            "root": "glom"
+            "root": "glom",
+            "symlinks": [
+                "io.github.limads.Queries"
+            ]
         }
     },
     "gloobus-preview": {
@@ -10988,7 +11019,8 @@
         "linux": {
             "root": "glossaico",
             "symlinks": [
-                "org.codeberg.dimkard.glossaico"
+                "org.codeberg.dimkard.glossaico",
+                "one.jiri.easydict-gtk"
             ]
         }
     },
@@ -11188,6 +11220,7 @@
             "symlinks": [
                 "alarm-clock",
                 "cairo-clock",
+                "com.vicr123.the24",
                 "cuckoo",
                 "kclock",
                 "klock",
@@ -11196,7 +11229,8 @@
                 "org.gnome.clocks",
                 "org.gnome.Clocks",
                 "org.kde.kclock",
-                "rclock"
+                "rclock",
+                "the24"
             ]
         }
     },
@@ -11521,7 +11555,8 @@
                 "gp",
                 "gpaint",
                 "lazpaint",
-                "mtpaint"
+                "mtpaint",
+                "org.cubocore.CorePaint"
             ]
         }
     },
@@ -11742,6 +11777,7 @@
             "symlinks": [
                 "com.github.stsdc.monitor",
                 "deepin-system-monitor",
+                "org.cubocore.CoreStats",
                 "org.gnome.Usage",
                 "org.xfce.taskmanager"
             ]
@@ -12718,7 +12754,9 @@
         "linux": {
             "root": "gthumb",
             "symlinks": [
-                "org.gnome.gThumb"
+                "org.cubocore.CoreImage",
+                "org.gnome.gThumb",
+                "thephoto"
             ]
         }
     },
@@ -13674,7 +13712,9 @@
         "linux": {
             "root": "hydrapaper",
             "symlinks": [
-                "org.gabmus.hydrapaper"
+                "es.estoes.wallpaperDownloader",
+                "org.gabmus.hydrapaper",
+                "wallpaperdownloader"
             ]
         }
     },
@@ -14293,7 +14333,8 @@
             "root": "itch",
             "symlinks": [
                 "io.itch.App",
-                "io.itch.Itch"
+                "io.itch.Itch",
+                "io.itch.itch"
             ]
         }
     },
@@ -14926,6 +14967,7 @@
             "root": "kasts",
             "symlinks": [
                 "garuda-network-assistant",
+                "net.qsl.QSSTV",
                 "org.kde.kasts"
             ]
         }
@@ -15549,7 +15591,11 @@
     },
     "knowthelist": {
         "linux": {
-            "root": "knowthelist"
+            "root": "knowthelist",
+            "symlinks": [
+                "com.vicr123.thebeat",
+                "thebeat"
+            ]
         }
     },
     "koala": {
@@ -15722,6 +15768,7 @@
             "root": "kpat",
             "symlinks": [
                 "ace",
+                "eu.planete_kraus.Tarot",
                 "freedoko",
                 "FreeDoko",
                 "gnome-hearts",
@@ -15766,6 +15813,7 @@
             "symlinks": [
                 "com.github.naaando.rush",
                 "com.github.vikdevelop.timer",
+                "org.cubocore.CoreTime",
                 "org.kde.kronometer",
                 "zeegaree",
                 "zeegaree-lite",
@@ -16901,6 +16949,7 @@
                 "gottet",
                 "net.blockattack.game",
                 "net.sourceforge.lgames.LTris",
+                "net.stabyourself.nottetris2",
                 "org.gottcode.Gottet"
             ]
         }
@@ -17180,7 +17229,11 @@
     },
     "mapton": {
         "linux": {
-            "root": "mapton"
+            "root": "mapton",
+            "symlinks": [
+                "com.milesalan.mepo",
+                "mepo"
+            ]
         }
     },
     "marble": {
@@ -17456,7 +17509,8 @@
         "linux": {
             "root": "mediainfo",
             "symlinks": [
-                "net.mediaarea.MediaInfo"
+                "net.mediaarea.MediaInfo",
+                "org.cubocore.CoreInfo"
             ]
         }
     },
@@ -17770,7 +17824,8 @@
         "linux": {
             "root": "steam_icon_287980",
             "symlinks": [
-                "BigMetro"
+                "BigMetro",
+                "com.inform7.IDE"
             ]
         }
     },
@@ -18112,6 +18167,9 @@
         "linux": {
             "root": "moserial",
             "symlinks": [
+                "dayon",
+                "io.github.retgal.Dayon",
+                "mpo.rga.Dayon",
                 "org.gnome.moserial"
             ]
         }
@@ -18171,7 +18229,8 @@
             "root": "mplayer",
             "symlinks": [
                 "kmplayer",
-                "org.kde.kmplayer"
+                "org.kde.kmplayer",
+                "org.sigxcpu.Livi"
             ]
         }
     },
@@ -18576,7 +18635,10 @@
     },
     "musikcube": {
         "linux": {
-            "root": "musikcube"
+            "root": "musikcube",
+            "symlinks": [
+                "io.github.cmus.cmus"
+            ]
         }
     },
     "musique": {
@@ -18624,6 +18686,7 @@
             "root": "mynotex",
             "symlinks": [
                 "activity-story",
+                "io.github.letslearn_app.letslearn",
                 "org.sugarlabs.StoryActivity"
             ]
         }
@@ -19901,8 +19964,10 @@
         "linux": {
             "root": "openhantek",
             "symlinks": [
+                "de.halaszovich.PMbrowser",
                 "OpenHantek",
-                "OpenHantek6022"
+                "OpenHantek6022",
+                "QtPMbrowser"
             ]
         }
     },
@@ -19930,7 +19995,10 @@
     },
     "openloco": {
         "linux": {
-            "root": "openloco"
+            "root": "openloco",
+            "symlinks": [
+                "org.libretrainsim.Libre-TrainSim"
+            ]
         }
     },
     "openlugaru": {
@@ -20787,7 +20855,9 @@
         "linux": {
             "root": "pdfmixtool",
             "symlinks": [
-                "eu.scarpetta.PDFMixTool"
+                "eu.scarpetta.PDFMixTool",
+                "net.sourceforge.Pdfedit",
+                "net.sourceforge.jpdftweak.jPdfTweak"
             ]
         }
     },
@@ -21838,7 +21908,7 @@
                 "gnome-dsiplay-properties",
                 "mate-preferences-desktop-display",
                 "org.xfce.settings.display",
-                "system-config-displayca",
+                "system-config-displaycal",
                 "unity-display-panel"
             ]
         }
@@ -22534,6 +22604,7 @@
             "root": "pyrenamer",
             "symlinks": [
                 "kfilereplace",
+                "org.cubocore.CoreRenamer",
                 "prefixsuffix"
             ]
         }
@@ -22949,6 +23020,7 @@
                 "com.qq.QQ",
                 "deepinwine-qq",
                 "icebreaker",
+                "io.github.Icalingua.Icalingua",
                 "org.mattdm.icebreaker"
             ]
         }
@@ -23619,7 +23691,8 @@
             "uk.co.nickfines.RealCalcPlus/uk.co.nickfines.RealCalcPlus.Calculator"
         ],
         "linux": {
-            "root": "com.github.vikdevelop.VCalculator"
+            "root": "com.github.vikdevelop.VCalculator",
+            "thecalculator"
         }
     },
     "realtimesync": {
@@ -23636,7 +23709,8 @@
         "linux": {
             "root": "recapp",
             "symlinks": [
-                "com.github.amikha1lov.RecApp"
+                "com.github.amikha1lov.RecApp",
+                "org.cubocore.CoreShot"
             ]
         }
     },
@@ -23781,14 +23855,11 @@
             "root": "remote-desktop",
             "symlinks": [
                 "chrome-iabmpiboiopbgfabjmgeedhcmjenhbla-Default",
-                "dayon",
                 "deepin-remote-assistance",
                 "gnome-rdp",
                 "gnome-remote-desktop",
-                "io.github.retgal.Dayon",
                 "krdc",
                 "krfb",
-                "mpo.rga.Dayon",
                 "org.kde.krdc",
                 "org.kde.krfb",
                 "preferences-desktop-remote-desktop",
@@ -24861,7 +24932,10 @@
     },
     "serialplot": {
         "linux": {
-            "root": "serialplot"
+            "root": "serialplot",
+            "symlinks": [
+                "io.github.wh201906.serialtest"
+            ]
         }
     },
     "serious-sam-3-bfe": {
@@ -25393,7 +25467,8 @@
             "symlinks": [
                 "io.gitlab.JakobDev.jdSimpleAutostart",
                 "jdsimpleautostart",
-                "jgmenu"
+                "jgmenu",
+                "org.easycoding.TunedSwitcher"
             ]
         }
     },
@@ -25543,7 +25618,10 @@
             "root": "software-center",
             "symlinks": [
                 "Appstore",
-                "mintinstall"
+                "com.vicr123.theshop",
+                "mintinstall",
+                "openstore",
+                "theshop"
             ]
         }
     },
@@ -25672,7 +25750,10 @@
             "com.sega.sonic2.runner/com.sega.sonic2px.MainActivity"
         ],
         "linux": {
-            "root": "sonic-the-hedgehog-2"
+            "root": "sonic-the-hedgehog-2",
+            "symlinks": [
+                "org.sonic3air.Sonic3AIR"
+            ]
         }
     },
     "sonic-visualiser": {
@@ -26790,8 +26871,10 @@
             "root": "sysmontask",
             "symlinks": [
                 "com.gitlab.kendellfab.restscope",
+                "com.vicr123.theheartbeat",
                 "restscope",
-                "SysMonTask"
+                "SysMonTask",
+                "theheartbeat"
             ]
         }
     },
@@ -26849,6 +26932,7 @@
                 "com.github.hakandundar34coding.mini-system-monitor",
                 "io.github.hakandundar34coding.mini-system-monitor",
                 "io.github.hakandundar34coding.system-monitoring-center",
+                "io.github.jorchube.monitorets",
                 "mini-system-monitor"
             ]
         }
@@ -26867,6 +26951,7 @@
             "root": "system-search",
             "symlinks": [
                 "catfish",
+                "org.cubocore.CoreHunt",
                 "org.xfce.catfish",
                 "tracker"
             ]
@@ -27104,7 +27189,8 @@
             "root": "tea",
             "symlinks": [
                 "codeslayer",
-                "featherpad"
+                "featherpad",
+                "org.cubocore.CorePad"
             ]
         }
     },
@@ -27250,6 +27336,7 @@
                 "angular-console",
                 "bash",
                 "chrome-kogcfmeennoidocadkgjhnbancebmlbf-Default",
+                "com.vicr123.theterminal",
                 "deepin-terminal",
                 "Etermutilities-terminal",
                 "gnome-eterm",
@@ -27271,6 +27358,7 @@
                 "org.xfce.terminalemulator",
                 "qterminal",
                 "Terminal",
+                "theterminal",
                 "tilda",
                 "utilities-terminal",
                 "utilities_terminal",
@@ -27473,7 +27561,8 @@
                 "gedit1",
                 "gedit2",
                 "io.liri.Text",
-                "org.gnome.gedit"
+                "org.gnome.gedit",
+                "theslate"
             ]
         }
     },
@@ -28073,9 +28162,11 @@
         "linux": {
             "root": "totem",
             "symlinks": [
+                "com.vicr123.thereel",
                 "org.gnome.Totem",
                 "videoplayer",
-                "xplayer"
+                "xplayer",
+                "thereel"
             ]
         }
     },
@@ -28190,7 +28281,10 @@
     },
     "treeline": {
         "linux": {
-            "root": "treeline"
+            "root": "treeline",
+            "symlinks": [
+                "com.itextpdf.RUPS"
+            ]
         }
     },
     "trelby": {
@@ -28677,6 +28771,7 @@
             "root": "unit-bargain-hunter",
             "symlinks": [
                 "codes.merritt.bargain",
+                "org.mmass.mMass",
                 "unit_bargain_hunter"
             ]
         }
@@ -29656,7 +29751,8 @@
         "linux": {
             "root": "watchflower",
             "symlinks": [
-                "io.emeric.watchflower"
+                "io.emeric.watchflower",
+                "org.eyecreate.qiflora"
             ]
         }
     },
@@ -29807,6 +29903,7 @@
                 "angelfish",
                 "applications-webbrowsers",
                 "browser",
+                "com.vicr123.theweb",
                 "dillo",
                 "ECB7_iexplore.0",
                 "flock-browser",
@@ -29820,6 +29917,7 @@
                 "preferences-web-browser-shortcuts",
                 "redhat-web-browser",
                 "rekonq",
+                "theweb",
                 "web-browser-app",
                 "webbrowser-app",
                 "www-browser",
@@ -30054,6 +30152,7 @@
             "symlinks": [
                 "chrome-icdipabjmbhpdkjaihfjoikhjjeneebd-Default",
                 "helpman",
+                "io.github.ciromattia.kcc",
                 "org.kde.tellico",
                 "tellico",
                 "unity-webapps-amazoncloudreader"
@@ -30272,6 +30371,7 @@
             "root": "signal-desktop",
             "symlinks": [
                 "chrome-bikioccmkafdpakkkcpdbppfkghcmihk-Default",
+                "org.nanuc.Axolotl",
                 "org.signal.Signal",
                 "signal"
             ]
@@ -30569,6 +30669,8 @@
             "root": "welle-io",
             "symlinks": [
                 "com.github.louis77.tuner",
+                "com.w1hkj.flrig",
+                "edu.princeton.physics.WSJTX",
                 "welle.io"
             ]
         }
@@ -31500,7 +31602,8 @@
             "root": "yagf",
             "symlinks": [
                 "com.github.tenderowl.frog",
-                "fslint_icon"
+                "fslint_icon",
+                "xyz.rescribe.rescribe"
             ]
         }
     },
@@ -31757,7 +31860,8 @@
         "linux": {
             "root": "zathura",
             "symlinks": [
-                "org.pwmt.zathura"
+                "org.pwmt.zathura",
+                "org.verapdf.veraPDF"
             ]
         }
     },
