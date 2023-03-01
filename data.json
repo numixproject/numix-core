@@ -3191,7 +3191,6 @@
         "linux": {
             "root": "bomber",
             "symlinks": [
-                "bombermaan",
                 "org.kde.bomber"
             ]
         }
@@ -4925,15 +4924,15 @@
     },
     "checkbox-touch": {
         "linux": {
-            "root": "checksumo",
-            "symlinks": [
-                "com.github.dawidd6.checksumo"
-            ]
+            "root": "checkbox-touch"
         }
     },
     "checksumo": {
         "linux": {
-            "root": "checkbox-touch"
+            "root": "checksumo",
+            "symlinks": [
+                "com.github.dawidd6.checksumo"
+            ]
         }
     },
     "cheese": {
@@ -5043,7 +5042,10 @@
     },
     "chores": {
         "linux": {
-            "root": "com.github.georgekap1an.chores"
+            "root": "com.github.georgekap1an.chores",
+            "symlinks": [
+                "com.github.ransome1.sleek"
+            ]
         }
     },
     "chrome-dev-editor": {
@@ -5456,6 +5458,7 @@
                 "applets-template",
                 "aptana",
                 "aptanastudio",
+                "com.hack_computer.OperatingSystemApp",
                 "do",
                 "edit-urpm-sources",
                 "gksu",
@@ -7918,6 +7921,7 @@
         "linux": {
             "root": "ds9",
             "symlinks": [
+                "com.github.alexkdeveloper.astronum",
                 "org.sugarlabs.SolarSystem",
                 "saods9"
             ]
@@ -10368,7 +10372,10 @@
     },
     "gb-studio": {
         "linux": {
-            "root": "gb-studio"
+            "root": "gb-studio",
+            "symlinks": [
+                "com.github.shonumi.gbe-plus"
+            ]
         }
     },
     "gba": {
@@ -12378,6 +12385,8 @@
         "linux": {
             "root": "grace",
             "symlinks": [
+                "com.github.makhber.Makhber",
+                "makhber",
                 "ngraph",
                 "ro.fxdata.taskmonitor.viewer",
                 "tkmviewer"
@@ -12435,6 +12444,8 @@
         "linux": {
             "root": "granatier",
             "symlinks": [
+                "bombermaan",
+                "com.github.bjaraujo.Bombermaaan",
                 "com.github.varnholt.dynablaster_revenge",
                 "dynablaster",
                 "dynablaster_revenge",
@@ -15241,8 +15252,10 @@
             "root": "kid3",
             "symlinks": [
                 "com.github.lachhebo.Gabtag",
+                "com.github.nrittsti.NTag",
                 "gabtag",
                 "kid3-qt",
+                "ntag",
                 "org.kde.kid3"
             ]
         }
@@ -19398,7 +19411,10 @@
     },
     "nyrna": {
         "linux": {
-            "root": "nyrna"
+            "root": "nyrna",
+            "symlinks": [
+                "codes.merritt.Nyrna"
+            ]
         }
     },
     "obfuscate": {
@@ -19894,10 +19910,12 @@
         "linux": {
             "root": "openjournal",
             "symlinks": [
+                "com.bjareholt.johan.SimpleDiary",
                 "io.github.bgallois.openjournal",
                 "me.someretical.TheoreticalDiary",
                 "org.sugarlabs.ReadETexts",
                 "read-etexts",
+                "simple-diary",
                 "theoreticaldiary"
             ]
         }
@@ -22763,7 +22781,10 @@
     },
     "qlcplus": {
         "linux": {
-            "root": "qlcplus"
+            "root": "qlcplus",
+            "symlinks": [
+                "com.github.benpocalypse.Huely"
+            ]
         }
     },
     "qlcplus-fixtureeditor": {
@@ -23596,7 +23617,10 @@
         "android": [
             "uk.co.nickfines.RealCalc/uk.co.nickfines.RealCalc.Calculator",
             "uk.co.nickfines.RealCalcPlus/uk.co.nickfines.RealCalcPlus.Calculator"
-        ]
+        ],
+        "linux": {
+            "root": "com.github.vikdevelop.VCalculator"
+        }
     },
     "realtimesync": {
         "linux": {
@@ -24132,6 +24156,7 @@
         "linux": {
             "root": "rsibreak",
             "symlinks": [
+                "com.github.theironrobin.siglo",
                 "org.kde.rsibreak",
                 "safeeyes"
             ]
@@ -26764,6 +26789,8 @@
         "linux": {
             "root": "sysmontask",
             "symlinks": [
+                "com.gitlab.kendellfab.restscope",
+                "restscope",
                 "SysMonTask"
             ]
         }
@@ -28096,6 +28123,7 @@
             "root": "tranqil",
             "symlinks": [
                 "cavalier",
+                "com.github.alexkdeveloper.relaxator",
                 "com.github.nick92.tranqil",
                 "io.github.fsobolev.Cavalier"
             ]
@@ -31105,6 +31133,8 @@
         "linux": {
             "root": "wxmedit",
             "symlinks": [
+                "com.gitlab.JakobDev.jdTextEdit",
+                "jdTextEdit",
                 "kwrite",
                 "org.kde.kwrite",
                 "textadept"
@@ -31620,6 +31650,7 @@
             "root": "youtube-dl",
             "symlinks": [
                 "com.github.JannikHv.Gydl",
+                "com.github.Johnn3y.Forklift",
                 "com.github.robertsanseries.karim",
                 "com.github.unrud.VideoDownloader",
                 "gydl",
