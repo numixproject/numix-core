@@ -23692,7 +23692,9 @@
         ],
         "linux": {
             "root": "com.github.vikdevelop.VCalculator",
-            "thecalculator"
+            "symlinks": [
+                "thecalculator"
+            ]
         }
     },
     "realtimesync": {
