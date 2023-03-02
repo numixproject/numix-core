@@ -1547,6 +1547,14 @@
             "root": "app-outlet"
         }
     },
+    "appflowy": {
+        "linux": {
+            "root": "appflowy",
+            "symlinks": [
+                "io.appflowy.AppFlowy"
+            ]
+        }
+    },
     "appgamekit-classic": {
         "linux": {
             "root": "agk",
