@@ -22614,6 +22614,16 @@
             ]
         }
     },
+    "pyfda": {
+        "linux": {
+            "root": "pyfda",
+            "symlinks": [
+                "com.github.chipmuenk.pyfda",
+                "org.flatpak.pyfda",
+                "pyfda-icon"
+            ]
+        }
+    },
     "pyhoca-gui": {
         "linux": {
             "root": "pyhoca-gui",
