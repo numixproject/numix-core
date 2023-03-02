@@ -624,6 +624,14 @@
             ]
         }
     },
+    "addhoursandminutes": {
+        "linux": {
+            "root": "addhoursandminutes",
+            "symlinks": [
+                "de.akaflieg_freiburg.cavok.add_hours_and_minutes"
+            ]
+        }
+    },
     "addressbook": {
         "android": [
             "com.android.contacts/com.android.contacts.activities.PeopleActivity",
@@ -16592,7 +16600,7 @@
             ]
         }
     },
-   "linien": {
+    "linien": {
         "linux": {
             "root": "linien",
             "symlinks": [
