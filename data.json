@@ -11266,6 +11266,7 @@
         "linux": {
             "root": "gnome-console",
             "symlinks": [
+                "com.fyralabs.Fermion",
                 "org.gnome.Console",
                 "org.kde.qmlkonsole"
             ]
@@ -11478,6 +11479,7 @@
             "symlinks": [
                 "atlas",
                 "chrome-lneaknkopdijkpnocmklfnjbeapigfbh-Default",
+                "com.fyralabs.Aqui",
                 "com.github.ryonakano.atlas",
                 "emerillon",
                 "maps",
@@ -11671,6 +11673,7 @@
         "linux": {
             "root": "gnome-settings-default-applications",
             "symlinks": [
+                "com.fyralabs.Fusebox",
                 "cs-default-applications"
             ]
         }
@@ -13924,7 +13927,10 @@
     },
     "iease-music": {
         "linux": {
-            "root": "iease-music"
+            "root": "iease-music",
+            "symlinks": [
+                "com.fyralabs.Victrola"
+            ]
         }
     },
     "ignuit": {
@@ -17399,6 +17405,7 @@
         "linux": {
             "root": "maui-contacts",
             "symlinks": [
+                "co.tauos.Buds",
                 "communicator",
                 "io.elementary.friends",
                 "net.sourceforge.osmo",
@@ -19141,6 +19148,7 @@
         "linux": {
             "root": "nimbus",
             "symlinks": [
+                "com.fyralabs.Kairos,
                 "com.github.bitseater.weather",
                 "com.github.danrabbit.nimbus",
                 "com.gitlab.bitseater.meteo",
@@ -22198,6 +22206,7 @@
                 "blueclock32",
                 "clock",
                 "clocks",
+                "com.fyralabs.Nixie",
                 "config-date",
                 "cs-date-time",
                 "era",
@@ -23733,6 +23742,7 @@
         "linux": {
             "root": "com.github.vikdevelop.VCalculator",
             "symlinks": [
+                "com.fyralabs.Abacus"
                 "thecalculator"
             ]
         }
@@ -24253,6 +24263,7 @@
         "linux": {
             "root": "roxterm",
             "symlinks": [
+                "com.fyralabs.Accelerator",
                 "funterm"
             ]
         }
@@ -25177,6 +25188,7 @@
         "linux": {
             "root": "shotwell",
             "symlinks": [
+                "com.fyralabs.Modi",
                 "io.elementary.photos",
                 "io.elementary.photos-viewer",
                 "multimedia-photo-manager",
@@ -31277,6 +31289,7 @@
         "linux": {
             "root": "wxmedit",
             "symlinks": [
+                "com.fyralabs.Enigma",
                 "com.gitlab.JakobDev.jdTextEdit",
                 "jdTextEdit",
                 "kwrite",
