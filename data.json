@@ -30710,7 +30710,11 @@
     },
     "weechat": {
         "linux": {
-            "root": "weechat"
+            "root": "weechat",
+            "symlinks": [
+                "app.lith.Lith",
+                "Lith"
+            ]
         }
     },
     "weektodo": {
