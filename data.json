@@ -12357,6 +12357,14 @@
             "root": "gpk-prefs"
         }
     },
+    "gplaces": {
+        "linux": {
+            "root": "gplaces",
+            "symlinks": [
+                "com.github.dimkr.gplaces"
+            ]
+        }
+    },
     "gplanarity": {
         "linux": {
             "root": "gPicon"
