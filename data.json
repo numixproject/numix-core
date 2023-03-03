@@ -509,6 +509,7 @@
                 "kscreenshot",
                 "ksnapshot",
                 "ksnip",
+                "org.buddiesofbudgie.BudgieScreenshot",
                 "org.deepin.flatdeb.deepin-screenshot",
                 "org.gnome.Screenshot",
                 "org.kde.spectacle",
@@ -1537,8 +1538,13 @@
             "symlinks": [
                 "applications-all",
                 "chrome-app-list",
+                "cosmic-app-library",
+                "cosmic-app-list",
                 "create-launcher",
-                "deepin-launcher"
+                "com.system76.CosmicAppLibrary",
+                "com.system76.CosmicAppList",
+                "deepin-launcher",
+                "pop-cosmic-applications"
             ]
         }
     },
@@ -12956,7 +12962,8 @@
             "symlinks": [
                 "accessories-character-map",
                 "gnome-character-map",
-                "org.gnome.CharacterMap"
+                "org.gnome.CharacterMap",
+                "org.ubuntubudgie.quickchar"
             ]
         }
     },
@@ -18601,7 +18608,8 @@
             "root": "multitasking-view",
             "symlinks": [
                 "deepin-multitasking-view",
-                "org.ubuntubudgie.shuffler-control"
+                "org.ubuntubudgie.shuffler-control",
+                "org.ubuntubudgie.shufflercontrol"
             ]
         }
     },
@@ -19346,6 +19354,8 @@
         "linux": {
             "root": "nostalgia",
             "symlinks": [
+                "com.system76.CosmicBackground",
+                "cosmic-bg",
                 "im.bernard.Nostalgia",
                 "org.gnome.Nostalgia"
             ]
@@ -22144,6 +22154,7 @@
             "symlinks": [
                 "configuration_section",
                 "control-center2",
+                "cosmic-settings",
                 "cs-cat-prefs",
                 "cs-general",
                 "gnome-control-center",
@@ -25561,10 +25572,12 @@
         "linux": {
             "root": "slingscold",
             "symlinks": [
+                "com.system76.CosmicLauncher",
                 "io.gitlab.JakobDev.jdSimpleAutostart",
                 "jdsimpleautostart",
                 "jgmenu",
-                "org.easycoding.TunedSwitcher"
+                "org.easycoding.TunedSwitcher",
+                "pop-cosmic-launcher"
             ]
         }
     },
@@ -31170,7 +31183,8 @@
         "linux": {
             "root": "workspace-overview",
             "symlinks": [
-                "mate-panel-workspace-switcher"
+                "mate-panel-workspace-switcher",
+                "pop-cosmic-workspaces"
             ]
         }
     },
