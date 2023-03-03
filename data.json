@@ -5936,6 +5936,15 @@
             ]
         }
     },
+    "cryo-utilities": {
+        "linux": {
+            "root": "cryo-utilities",
+            "symlinks": [
+                "steam-deck-utilities",
+                "steamdeck-gaming-return"
+            ]
+        }
+    },
     "crypt-of-the-necrodancer": {
         "linux": {
             "root": "steam_icon_247080"
@@ -28373,8 +28382,7 @@
         "linux": {
             "root": "translit",
             "symlinks": [
-                "com.github.artemanufrij.translit",
-                "org.ubuntubudgie.quickchar"
+                "com.github.artemanufrij.translit"
             ]
         }
     },
