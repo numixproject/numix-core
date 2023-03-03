@@ -6156,7 +6156,10 @@
     },
     "dabradio": {
         "linux": {
-            "root": "dabradio"
+            "root": "dabradio",
+            "symlinks": [
+                "dab-mini"
+            ]
         }
     },
     "daetools": {
@@ -23167,7 +23170,11 @@
     },
     "qt-dab": {
         "linux": {
-            "root": "qt-dab"
+            "root": "qt-dab",
+            "symlinks": [
+                "qt-dab-4",
+                "qt-dab-5"
+            ]
         }
     },
     "qtassistant": {
