@@ -11503,6 +11503,7 @@
                 "chrome-lneaknkopdijkpnocmklfnjbeapigfbh-Default",
                 "com.fyralabs.Aqui",
                 "com.github.ryonakano.atlas",
+                "com.github.vikdevelop.googlemaps",
                 "emerillon",
                 "maps",
                 "org.gnome.Maps",
@@ -24617,6 +24618,15 @@
             "root": "sauerbraten",
             "symlinks": [
                 "org.sauerbraten.Sauerbraten"
+            ]
+        }
+    },
+    "savedesktop": {
+        "linux": {
+            "root": "savedesktop",
+            "symlinks": [
+                "com.github.vikdevelop.SaveDesktop",
+                "io.github.vikdevelop.SaveDesktop"
             ]
         }
     },
