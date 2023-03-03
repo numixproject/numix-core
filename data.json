@@ -1537,7 +1537,6 @@
             "root": "app-launcher",
             "symlinks": [
                 "applications-all",
-                "chrome-app-list",
                 "cosmic-app-library",
                 "cosmic-app-list",
                 "create-launcher",
@@ -7916,6 +7915,11 @@
     "droid-assault": {
         "linux": {
             "root": "steam_icon_219200"
+        }
+    },
+    "droidcam": {
+        "linux": {
+            "root": "droidcam"
         }
     },
     "dropbox": {
