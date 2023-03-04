@@ -21089,6 +21089,15 @@
             ]
         }
     },
+    "pegasus": {
+        "linux": {
+            "root": "pegasus",
+            "symlinks": [
+                "org.pegasus_frontend.Pegasus",
+                "pegasus-fe"
+            ]
+        }
+    },
     "pencil": {
         "linux": {
             "root": "pencil",
