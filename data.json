@@ -8133,7 +8133,10 @@
     },
     "dwarf-fortress": {
         "linux": {
-            "root": "dwarf-fortress"
+            "root": "dwarf-fortress",
+            "symlinks": [
+                "steam_icon_975370"
+            ]
         }
     },
     "dwarfs": {
