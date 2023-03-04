@@ -16614,6 +16614,14 @@
             ]
         }
     },
+    "lichess": {
+        "linux": {
+            "root": "lichess",
+            "symlinks": [
+                "lichesslogowhite"
+            ]
+        }
+    },
     "life-is-strange": {
         "linux": {
             "root": "steam_icon_319630",
@@ -22687,8 +22695,6 @@
             "symlinks": [
                 "3dchess",
                 "dreamchess",
-                "lichess",
-                "lichesslogowhite",
                 "lichobile-electron"
             ]
         }
