@@ -2576,7 +2576,10 @@
     },
     "baidu-netdisk": {
         "linux": {
-            "root": "baidunetdisk"
+            "root": "baidunetdisk",
+            "symlinks": [
+                "com.baidu.NetDisk"
+            ]
         }
     },
     "baiji-manga-viewer": {
