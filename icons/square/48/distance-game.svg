@@ -1,0 +1,24 @@
+<svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="bg" x2="0" y1="1" y2="47" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#7b7cad" offset="0"/>
+   <stop style="stop-color:#6f70a5" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4zm0 0.5v0.5c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.5c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.02"/>
+ <path d="m1 43.25v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.05"/>
+ <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
+ <rect x="1" y="1" width="46" height="46" rx="4" style="fill:url(#bg)"/>
+ <path d="m1 39v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
+ <path d="m11 22v8l1 0.334v1.666c0 0.554 0.446 1 1 1h2c0.554 0 1-0.446 1-1v-2l1 1 3 1h8l3-1 1-1v2c0 0.554 0.446 1 1 1h2c0.554 0 1-0.446 1-1v-1.666l1-0.334v-8z" style="opacity:.1;paint-order:stroke fill markers"/>
+ <rect x="12" y="24" width="4" height="8" ry="1" style="fill:#3d3d3d;paint-order:stroke fill markers"/>
+ <rect x="32" y="24" width="4" height="8" ry="1" style="fill:#3d3d3d;paint-order:stroke fill markers"/>
+ <path d="m15 21s1-6 6-6h6c5 0 6 6 6 6z" style="fill:#3d3d3d"/>
+ <path d="m13 20-2 1v8l3 1 1-1h1l1 1 3 1h8l3-1 1-1h1l1 1 3-1v-8l-2-1-5 1-6-1-6 1z" style="fill:#ebf5f5"/>
+ <path d="m13 22v3l4 2v2l3 1h8l3-1v-2l4-2v-3l-4 1h-14z" style="fill:#3d3d3d"/>
+ <path d="m12 26v2.5l1 0.5v-1h2v-1z" style="fill:#4d4d4d"/>
+ <path d="m36 26v2.5l-1 0.5v-1h-2v-1z" style="fill:#4d4d4d"/>
+ <path d="m14 23v2l3 1v-2zm20 0-3 1v2l3-1z" style="fill:#f9f9f9"/>
+ <path d="m18 28 2 1h8l2-1v-3h-12z" style="fill:#4d4d4d"/>
+ <path d="m17 24v2l2-1h2l1 1h4l1-1h2l2 1v-2h-9z" style="fill:#3ba9ff;paint-order:stroke fill markers"/>
+</svg>
