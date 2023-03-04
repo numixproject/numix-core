@@ -18534,6 +18534,16 @@
             "root": "mudlet"
         }
     },
+    "muezzin": {
+        "linux": {
+            "root": "muezzin",
+            "symlinks": [
+                "io.github.dbchoco.muezzin",
+                "io.github.dbchoco.Salawat",
+                "salawat"
+            ]
+        }
+    },
     "muffon": {
         "linux": {
             "root": "muffon"
