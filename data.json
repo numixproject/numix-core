@@ -12540,6 +12540,24 @@
             ]
         }
     },
+    "grapejuice": {
+        "linux": {
+            "root": "grapejuice",
+            "symlinks": [
+                "net.brinkervii.grapejuice"
+            ]
+        }
+    },
+    "grapejuice-roblox-player": {
+        "linux": {
+            "root": "grapejuice-roblox-player"
+        }
+    },
+    "grapejuice-roblox-studio": {
+        "linux": {
+            "root": "grapejuice-roblox-studio"
+        }
+    },
     "graphql-playground-electron": {
         "linux": {
             "root": "graphql-playground-electron",
