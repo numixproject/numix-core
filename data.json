@@ -8606,7 +8606,10 @@
             "io.enpass.app/in.sinew.enpass.MainActivity"
         ],
         "linux": {
-            "root": "enpass"
+            "root": "enpass",
+            "symlinks": [
+                "io.enpass.Enpass"
+            ]
         }
     },
     "enroute": {
@@ -28899,6 +28902,7 @@
         "linux": {
             "root": "ultrastardx",
             "symlinks": [
+                "eu.usdx.UltraStarDeluxe",
                 "ultrastar",
                 "UltraStar-Deluxe",
                 "ultrastardx-icon"
