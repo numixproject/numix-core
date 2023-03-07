@@ -12863,12 +12863,10 @@
             "symlinks": [
                 "advancedmetronome",
                 "artemanufrij.metronome",
-                "com.adrienplazas.Metronome",
                 "com.github.artemanufrij.metronome",
                 "com.jvieira.tpt.Metronome",
                 "gtklick",
                 "kmetronome",
-                "metronome",
                 "metronomek",
                 "net.bartkessels.advancedmetronome",
                 "net.sf.metronomek",
@@ -17832,6 +17830,14 @@
             "root": "steam_icon_43160",
             "symlinks": [
                 "steam_icon_287390"
+            ]
+        }
+    },
+    "metronome": {
+        "linux": {
+            "root": "metronome",
+            "symlinks": [
+                "com.adrienplazas.Metronome"
             ]
         }
     },
