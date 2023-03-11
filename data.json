@@ -2517,7 +2517,8 @@
         "linux": {
             "root": "azuredatastudio",
             "symlinks": [
-                "com.azuredatastudio.oss"
+                "com.azuredatastudio.oss",
+                "com.microsoft.azuredatastudio"
             ]
         }
     },
@@ -15835,6 +15836,7 @@
         "linux": {
             "root": "koodo-reader",
             "symlinks": [
+                "io.github.troyeguo.koodo-reader",
                 "koodo"
             ]
         }
@@ -23013,7 +23015,11 @@
     },
     "qgroundcontrol": {
         "linux": {
-            "root": "qgroundcontrol"
+            "root": "qgroundcontrol",
+            "symlinks": [
+                "org.mavlink.QGroundControl",
+                "org.mavlink.qgroundcontrol"
+            ]
         }
     },
     "qide": {
@@ -28731,6 +28737,7 @@
             "root": "tvbrowser",
             "symlinks": [
                 "org.kde.telly-skout",
+                "org.tvbrowser.TVBrowser",
                 "telly-skout"
             ]
         }
