@@ -11590,7 +11590,9 @@
         "linux": {
             "root": "gnome-music",
             "symlinks": [
-                "org.gnome.Music"
+                "org.gnome.Music",
+                "music-app",
+                "musicpod"
             ]
         }
     },
