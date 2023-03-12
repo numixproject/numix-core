@@ -3176,7 +3176,11 @@
     },
     "bluetooth-black": {
         "linux": {
-            "root": "bluetooth-black"
+            "root": "bluetooth-black",
+            "symlinks": [
+                "io.emeric.toolblex",
+                "toolblex"
+            ]
         }
     },
     "bluetooth-inactive": {
