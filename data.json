@@ -6307,6 +6307,14 @@
             ]
         }
     },
+    "dbgate": {
+        "linux": {
+            "root": "dbgate",
+            "symlinks": [
+                "org.dbgate.DbGate"
+            ]
+        }
+    },
     "dconf-editor": {
         "linux": {
             "root": "dconf-editor",
