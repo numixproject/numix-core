@@ -12589,7 +12589,10 @@
         "linux": {
             "root": "grapejuice-roblox-player",
             "symlinks": [
-                "net.brinkervii.grapejuice.robloxplayer"
+                "io.github.vinegarhq.Vinegar.player",
+                "io.github.vinegarhq.vinegar.player",
+                "net.brinkervii.grapejuice.robloxplayer",
+                "roblox-player"
             ]
         }
     },
@@ -12597,7 +12600,10 @@
         "linux": {
             "root": "grapejuice-roblox-studio",
             "symlinks": [
-                "net.brinkervii.grapejuice.robloxstudio"
+                "io.github.vinegarhq.Vinegar.studio",
+                "io.github.vinegarhq.vinegar.studio",
+                "net.brinkervii.grapejuice.robloxstudio",
+                "roblox-studio"
             ]
         }
     },
