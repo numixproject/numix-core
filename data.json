@@ -9238,6 +9238,14 @@
             "root": "ccc_large"
         }
     },
+    "fgcom": {
+        "linux": {
+            "root": "fgcom",
+            "symlinks": [
+                "org.flightgear.FGCom"
+            ]
+        }
+    },
     "fgmk": {
         "linux": {
             "root": "fgmk"
