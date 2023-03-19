@@ -4934,6 +4934,14 @@
             "root": "cellwriter"
         }
     },
+    "cemu": {
+        "linux": {
+            "root": "cemu",
+            "symlinks": [
+                "info.cemu.Cemu"
+            ]
+        }
+    },
     "cerebro": {
         "linux": {
             "root": "cerebro"
@@ -9233,17 +9241,17 @@
             "root": "ffmulticonverter"
         }
     },
-    "fglrx": {
-        "linux": {
-            "root": "ccc_large"
-        }
-    },
     "fgcom": {
         "linux": {
             "root": "fgcom",
             "symlinks": [
                 "org.flightgear.FGCom"
             ]
+        }
+    },
+    "fglrx": {
+        "linux": {
+            "root": "ccc_large"
         }
     },
     "fgmk": {
