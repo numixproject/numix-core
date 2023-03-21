@@ -11862,7 +11862,7 @@
         "linux": {
             "root": "gnome-twofactorauth",
             "symlinks": [
-                "com.belmoussaoui.Authenticator"
+                "com.belmoussaoui.Authenticator",
                 "com.github.bilelmoussaoui.Authenticator",
                 "org.gnome.Authenticator"
             ]
@@ -23146,6 +23146,14 @@
             "root": "qmidinet",
             "symlinks": [
                 "org.rncbc.qmidinet"
+            ]
+        }
+    },
+    "qmidiplayer": {
+        "linux": {
+            "root": "qmidiplayer",
+            "symlinks": [
+                "qmidiplyr"
             ]
         }
     },
