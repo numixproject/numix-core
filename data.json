@@ -8581,6 +8581,14 @@
         },
         "tags": ["world_baseplate"]
     },
+    "emulationstation": {
+        "linux": {
+            "root": "emulationstation",
+            "symlinks": [
+                "org.es_de.emulationstation-de"
+            ]
+        }
+    },
     "encryptr": {
         "linux": {
             "root": "encryptr",
