@@ -9969,8 +9969,10 @@
         "linux": {
             "root": "fotowall",
             "symlinks": [
+                "com.github.ltiber.Pwall",
                 "deepin-album",
                 "io.github.davidoc26.wallpaper_selector",
+                "io.github.pwall.Pwall",
                 "kirigami2gallery",
                 "kphotoalbum",
                 "org.kde.kirigami2.gallery",
@@ -10501,7 +10503,8 @@
         "linux": {
             "root": "gb-studio",
             "symlinks": [
-                "com.github.shonumi.gbe-plus"
+                "com.github.shonumi.gbe-plus",
+                "dev.gbstudio.gb-studio"
             ]
         }
     },
@@ -12503,7 +12506,9 @@
             "symlinks": [
                 "ar.com.mbernardi.noaa-apt",
                 "gpsd-logo",
+                "io.github.wojciech_graj.OrbVis",
                 "noaa-apt",
+                "orbvis",
                 "page.codeberg.tpikonen.satellite",
                 "satdump",
                 "satdump-ui",
