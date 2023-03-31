@@ -11006,7 +11006,8 @@
         "linux": {
             "root": "gitkraken",
             "symlinks": [
-                "com.axosoft.GitKraken"
+                "com.axosoft.GitKraken",
+                "GitKraken"
             ]
         }
     },
@@ -28766,7 +28767,11 @@
     },
     "tupi": {
         "linux": {
-            "root": "tupi"
+            "root": "tupi",
+            "symlinks": [
+                "com.maefloresta.tupitube",
+                "tupitube.desk"
+            ]
         }
     },
     "turbowarp": {
