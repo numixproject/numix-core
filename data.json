@@ -5838,7 +5838,11 @@
     },
     "cqrlog": {
         "linux": {
-            "root": "cqrlog"
+            "root": "cqrlog",
+            "symlinks": [
+                "com.cqrlog.CQRLOG",
+                "com.cqrlog.cqrlog"
+            ]
         }
     },
     "crashplan": {
@@ -14483,7 +14487,10 @@
     },
     "irssi": {
         "linux": {
-            "root": "irssi"
+            "root": "irssi",
+            "symlinks": [
+                "org.irssi.irssi"
+            ]
         }
     },
     "ispconfig": {
@@ -18643,6 +18650,7 @@
             "symlinks": [
                 "io.github.dbchoco.muezzin",
                 "io.github.dbchoco.Salawat",
+                "org.altaqwaa.Altaqwaa",
                 "salawat"
             ]
         }
@@ -24399,7 +24407,10 @@
     },
     "roccat": {
         "linux": {
-            "root": "roccat"
+            "root": "roccat",
+            "symlinks": [
+                "net.sourceforge.roccat.roccat-tools"
+            ]
         }
     },
     "rochard": {
@@ -24515,6 +24526,7 @@
             "root": "rsibreak",
             "symlinks": [
                 "com.github.theironrobin.siglo",
+                "io.github.slgobinath.SafeEyes",
                 "org.kde.rsibreak",
                 "safeeyes"
             ]
