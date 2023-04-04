@@ -14130,6 +14130,14 @@
             ]
         }
     },
+    "imagery": {
+        "linux": {
+            "root": "imagery",
+            "symlinks": [
+                "io.github.mpobaschnig.Imagery"
+            ]
+        }
+    },
     "imageshack": {
         "linux": {
             "root": "imageshack"
@@ -29974,6 +29982,7 @@
         "linux": {
             "root": "vscodium",
             "symlinks": [
+                "codium"
                 "com.vscodium.codium"
             ]
         }

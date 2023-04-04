@@ -1,8 +1,8 @@
 <svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
  <defs>
   <linearGradient id="bg" x2="0" y1="1" y2="47" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#27ce9b" offset="0"/>
-   <stop style="stop-color:#24bc8d" offset="1"/>
+   <stop style="stop-color:#c8c47e" offset="0"/>
+   <stop style="stop-color:#c2be70" offset="1"/>
   </linearGradient>
  </defs>
  <path d="m1 43v0.25c0 2.22 1.78 4 4 4h38c2.22 0 4-1.78 4-4v-0.25c0 2.22-1.78 4-4 4h-38c-2.22 0-4-1.78-4-4zm0 0.5v0.5c0 2.22 1.78 4 4 4h38c2.22 0 4-1.78 4-4v-0.5c0 2.22-1.78 4-4 4h-38c-2.22 0-4-1.78-4-4z" style="opacity:.02"/>
@@ -10,10 +10,12 @@
  <path d="m1 43v0.25c0 2.22 1.78 4 4 4h38c2.22 0 4-1.78 4-4v-0.25c0 2.22-1.78 4-4 4h-38c-2.22 0-4-1.78-4-4z" style="opacity:.1"/>
  <rect x="1" y="1" width="46" height="46" rx="4" style="fill:url(#bg)"/>
  <path d="m1 39v4c0 2.22 1.78 4 4 4h38c2.22 0 4-1.78 4-4v-4c0 2.22-1.78 4-4 4h-38c-2.22 0-4-1.78-4-4z" style="opacity:.1"/>
- <rect x="11" y="13" width="26" height="22" rx="2" style="opacity:.1"/>
- <rect x="11" y="12" width="26" height="22" rx="2" ry="2" style="fill:#f5f5f5"/>
- <path d="m13 14h22l-2e-3 12-22 3z" style="fill:#79c1dd"/>
- <path d="m30 21-4.89 4.48-0.109 3.52 5 3h5v-6z" style="fill:#3ea83e"/>
- <path d="m23 19.5a3.5 3.5 0 0 1-7 0 3.5 3.5 0 1 1 7 0z" style="fill:#f0d956"/>
- <path d="m21 20-8 9v3h17z" style="fill:#2d9a58"/>
+ <path d="m11 15v18c0 1.11 0.892 2 2 2h10v2c0 0.552 0.448 1 1 1s1-0.448 1-1v-2h10c1.11 0 2-0.892 2-2v-18z" style="opacity:.1"/>
+ <path d="m35 12h-11v22h11c1.11 0 2-0.892 2-2v-18c0-1.11-0.892-2-2-2z" style="fill:#f5f5f5"/>
+ <path d="m35 14h-22l2e-3 12 22 3z" style="fill:#71bddb"/>
+ <path d="m26 18.5a3.5 3.5 0 0 0 7 0 3.5 3.5 0 1 0-7 0z" style="fill:#efdb62"/>
+ <path d="m29 20 6 9v3h-17z" style="fill:#2d9a58"/>
+ <path d="m24 12v22h-11c-1.11 0-2-0.892-2-2v-18c0-1.11 0.892-2 2-2z" style="fill:#eae7dc"/>
+ <path d="m13 14v2h8v-2zm0 5v2h6v-2zm0 4v2h8v-2zm0 4v2h4v-2z" style="fill:#6e6d68"/>
+ <path d="m24 9c0.554 0 1 0.446 1 1v26c0 0.554-0.446 1-1 1s-1-0.446-1-1v-26c0-0.554 0.446-1 1-1z" style="fill:#ef7771"/>
 </svg>
