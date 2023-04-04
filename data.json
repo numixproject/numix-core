@@ -3226,6 +3226,7 @@
         "linux": {
             "root": "boinc",
             "symlinks": [
+                "boinc-manager",
                 "boincmgr",
                 "edu.berkeley.BOINC"
             ]
@@ -6081,7 +6082,8 @@
         "linux": {
             "root": "cups-launcher",
             "symlinks": [
-                "cups"
+                "cups",
+                "printersandfax_q4os_startmenu"
             ]
         }
     },
@@ -29982,7 +29984,7 @@
         "linux": {
             "root": "vscodium",
             "symlinks": [
-                "codium"
+                "codium",
                 "com.vscodium.codium"
             ]
         }
