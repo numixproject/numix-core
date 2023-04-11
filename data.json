@@ -5728,9 +5728,9 @@
             ]
         }
     },
-    "corectl": {
+    "corectrl": {
         "linux": {
-            "root": "corectl",
+            "root": "corectrl",
             "symlinks": [
                 "org.corectrl.corectrl"
             ]
@@ -17821,7 +17821,10 @@
     },
     "memento": {
         "linux": {
-            "root": "memento"
+            "root": "memento",
+            "symlinks": [
+                "io.github.ripose_jp.Memento"
+            ]
         }
     },
     "mendeleydesktop": {
