@@ -1614,7 +1614,8 @@
                 "appimage",
                 "AppImage",
                 "flake",
-                "io.github.salaniLeo.flake"
+                "io.github.salaniLeo.flake",
+                "dev.salaniLeo.immagini"
             ]
         }
     },
@@ -32385,7 +32386,8 @@
             "root": "zsnes",
             "symlinks": [
                 "bsnes",
-                "dev.bsnes.bsnes"
+                "dev.bsnes.bsnes",
+                "io.github.xyproto.zsnes"
             ]
         }
     },
