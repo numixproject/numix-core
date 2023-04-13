@@ -1613,9 +1613,9 @@
             "symlinks": [
                 "appimage",
                 "AppImage",
+                "dev.salaniLeo.immagini",
                 "flake",
-                "io.github.salaniLeo.flake",
-                "dev.salaniLeo.immagini"
+                "io.github.salaniLeo.flake"
             ]
         }
     },
@@ -31126,8 +31126,10 @@
         "linux": {
             "root": "wicd",
             "symlinks": [
+                "org.xnec2c.Xnec2c",
                 "wicd-gtk",
-                "wpa_gui"
+                "wpa_gui",
+                "xnec2c"
             ]
         }
     },
