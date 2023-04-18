@@ -18915,7 +18915,10 @@
     },
     "mutt": {
         "linux": {
-            "root": "mutt"
+            "root": "mutt",
+            "symlinks": [
+                "neomutt"
+            ]
         }
     },
     "muwire": {
