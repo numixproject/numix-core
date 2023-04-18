@@ -28765,6 +28765,14 @@
             ]
         }
     },
+    "tubeconverter": {
+        "linux": {
+            "root": "tubeconverter",
+            "symlinks": [
+                "org.nickvision.tubeconverter"
+            ]
+        }
+    },
     "tubefeeder": {
         "linux": {
             "root": "tubefeeder",
@@ -32147,7 +32155,6 @@
                 "gydl",
                 "io.github.JaGoLi.ytdl_gui",
                 "org.gustavoperedo.VideoDownloader",
-                "org.nickvision.tubeconverter",
                 "youtube-dl-gui",
                 "youtube-dl-gui_48x48",
                 "youtube-dl-qt-icon",
