@@ -11193,6 +11193,14 @@
             ]
         }
     },
+    "gmetronome": {
+        "linux": {
+            "root": "gmetronome",
+            "symlinks": [
+                "org.gnome.gitlab.dqpb.GMetronome"
+            ]
+        }
+    },
     "gmpc": {
         "linux": {
             "root": "gmpc"
