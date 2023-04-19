@@ -14792,7 +14792,8 @@
         "linux": {
             "root": "jdeolconverter",
             "symlinks": [
-                "com.gitlab.JakobDev.jdEolConverter"
+                "com.gitlab.JakobDev.jdEolConverter",
+                "page.codeberg.JakobDev.jdEolConverter"
             ]
         }
     },
@@ -17326,6 +17327,14 @@
     "madedit": {
         "linux": {
             "root": "madedit"
+        }
+    },
+    "magicseteditor": {
+        "linux": {
+            "root": "magicseteditor",
+            "symlinks": [
+                "io.github.twanvl.MagicSetEditor2"
+            ]
         }
     },
     "magnifier-icon": {
