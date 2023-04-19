@@ -14775,7 +14775,8 @@
         "linux": {
             "root": "jdanimatedimagedeitor",
             "symlinks": [
-                "com.gitlab.JakobDev.jdAnimatedImageEditor"
+                "com.gitlab.JakobDev.jdAnimatedImageEditor",
+                "page.codeberg.JakobDev.jdAnimatedImageEditor"
             ]
         }
     },
@@ -14797,6 +14798,14 @@
             ]
         }
     },
+    "jdflatpaksnapshot": {
+        "linux": {
+            "root": "jdflatpaksnapshot",
+            "symlinks": [
+                "page.codeberg.JakobDev.jdFlatpakSnapshot"
+            ]
+        }
+    },
     "jdownloader": {
         "linux": {
             "root": "jdownloader",
@@ -14811,7 +14820,8 @@
             "root": "jdreplace",
             "symlinks": [
                 "com.gitlab.JakobDev.jdReplace",
-                "jdReplace"
+                "jdReplace",
+                "page.codeberg.JakobDev.jdReplace"
             ]
         }
     },
