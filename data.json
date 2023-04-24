@@ -15730,6 +15730,8 @@
         "linux": {
             "root": "kmidimon",
             "symlinks": [
+                "elektroid",
+                "io.github.dagargo.Elektroid",
                 "midiconn",
                 "net.sourceforge.kmidimon",
                 "xyz.safeworlds.midiconn"
@@ -24789,7 +24791,11 @@
     },
     "sabnzbdplus": {
         "linux": {
-            "root": "sabnzbdplus"
+            "root": "sabnzbdplus",
+            "symlinks": [
+                "org.sabnzbd.SABnzbd",
+                "org.sabnzbd.sabnzbd"
+            ]
         }
     },
     "saga": {
