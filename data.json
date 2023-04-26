@@ -19441,6 +19441,14 @@
             "root": "nightingale"
         }
     },
+    "nightpdf": {
+        "linux": {
+            "root": "nightpdf",
+            "symlinks": [
+                "io.github.lunarequest.NightPDF"
+            ]
+        }
+    },
     "nimbus": {
         "linux": {
             "root": "nimbus",
