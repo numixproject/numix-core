@@ -6672,6 +6672,14 @@
             "root": "devhub"
         }
     },
+    "devtoolbox": {
+        "linux": {
+            "root": "devtoolbox",
+            "symlinks": [
+                "me.iepure.devtoolbox"
+            ]
+        }
+    },
     "dia": {
         "linux": {
             "root": "dia",
