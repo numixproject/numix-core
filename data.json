@@ -3580,6 +3580,14 @@
             ]
         }
     },
+    "buhocms": {
+        "linux": {
+            "root": "buhocms",
+            "symlinks": [
+                "org.buhocms.BuhoCMS"
+            ]
+        }
+    },
     "builder": {
         "linux": {
             "root": "builder",
@@ -6874,7 +6882,8 @@
         "linux": {
             "root": "distccmon",
             "symlinks": [
-                "distccmon-gnome"
+                "distccmon-gnome",
+                "steam_icon_2060130"
             ]
         }
     },
