@@ -20243,6 +20243,14 @@
             "root": "openage"
         }
     },
+    "openandroidinstaller": {
+        "linux": {
+            "root": "openandroidinstaller",
+            "symlinks": [
+                "org.openandroidinstaller.OpenAndroidInstaller"
+            ]
+        }
+    },
     "openarena": {
         "linux": {
             "root": "openarena",
