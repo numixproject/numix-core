@@ -6732,6 +6732,7 @@
             "symlinks": [
                 "com.gitlab.JakobDev.jdDiff",
                 "jddiff",
+                "page.codeberg.JakobDev.jdDiff",
                 "raktpdf"
             ]
         }
@@ -11277,6 +11278,7 @@
         "linux": {
             "root": "gmult",
             "symlinks": [
+                "app.drey.MultiplicationPuzzle",
                 "net.launchpad.gmult"
             ]
         }
@@ -18774,10 +18776,12 @@
         "linux": {
             "root": "muezzin",
             "symlinks": [
+                "com.eminfedar.vaktisalah",
                 "io.github.dbchoco.muezzin",
                 "io.github.dbchoco.Salawat",
                 "org.altaqwaa.Altaqwaa",
-                "salawat"
+                "salawat",
+                "vaktisalah"
             ]
         }
     },
@@ -21242,7 +21246,8 @@
         "linux": {
             "root": "pdfarranger",
             "symlinks": [
-                "com.github.jeromerobert.pdfarranger"
+                "com.github.jeromerobert.pdfarranger",
+                "io.github.JakubMelka.Pdf4qt"
             ]
         }
     },
