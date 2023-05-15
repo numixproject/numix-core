@@ -8808,6 +8808,14 @@
         },
         "tags": ["world_baseplate"]
     },
+    "escambo": {
+        "linux": {
+            "root": "escambo",
+            "symlinks": [
+                "io.github.cleomenezesjr.Escambo"
+            ]
+        }
+    },
     "espeak-gui": {
         "linux": {
             "root": "espeak-gui",
