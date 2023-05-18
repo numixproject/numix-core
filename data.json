@@ -18928,6 +18928,14 @@
             ]
         }
     },
+    "multivnc": {
+        "linux": {
+            "root": "multivnc",
+            "symlinks": [
+                "net.christianbeier.MultiVNC"
+            ]
+        }
+    },
     "multiwinia": {
         "linux": {
             "root": "multiwinia",
