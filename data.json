@@ -8281,7 +8281,15 @@
             ]
         }
     },
-        "easyeffects": {
+    "easyaudiosync": {
+        "linux": {
+            "root": "easyaudiosync",
+            "symlinks": [
+                "io.github.complexlogic.EasyAudioSync"
+            ]
+        }
+    },
+    "easyeffects": {
         "linux": {
             "root": "easyeffects",
             "symlinks": [
