@@ -3156,6 +3156,14 @@
             "root": "blueman-device"
         }
     },
+    "blueprint": {
+        "linux": {
+            "root": "blueprint",
+            "symlinks": [
+                "dev.edfloreshz.Blueprint"
+            ]
+        }
+    },
     "blueprint-tycoon": {
         "linux": {
             "root": "blueprint_tycoon",
