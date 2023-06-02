@@ -12797,6 +12797,14 @@
             "air.com.bartbonte.green/air.com.bartbonte.green.AppEntry"
         ]
     },
+    "green-qt": {
+        "linux": {
+            "root": "green-qt",
+            "symlinks": [
+                "com.blockstream.Green"
+            ]
+        }
+    },
     "green-recorder": {
         "linux": {
             "root": "green-recorder"
@@ -18145,7 +18153,7 @@
             "root": "min"
         }
     },
-    "mindumate": {
+    "mindmate": {
         "linux": {
             "root": "mindmate",
             "symlinks": [
