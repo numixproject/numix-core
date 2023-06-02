@@ -1072,7 +1072,8 @@
         "linux": {
             "root": "alias",
             "symlinks": [
-                "com.github.bartzaalberg.alias"
+                "com.github.bartzaalberg.alias",
+                "io.github.aerocyber.sitemarker"
             ]
         }
     },
@@ -6163,6 +6164,7 @@
                 "mmex",
                 "money-manager-ex",
                 "org.kde.keurocalc",
+                "org.moneymanagerex.MMEX",
                 "org.sugarlabs.Finance"
             ]
         }
@@ -24922,6 +24924,14 @@
             "root": "rubyripper",
             "symlinks": [
                 "rrip_gui"
+            ]
+        }
+    },
+    "ruffle": {
+        "linux": {
+            "root": "ruffle",
+            "symlinks": [
+                "rs.ruffle.Ruffle"
             ]
         }
     },
