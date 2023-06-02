@@ -5746,6 +5746,14 @@
             ]
         }
     },
+    "coppwr": {
+        "linux": {
+            "root": "coppwr",
+            "symlinks": [
+                "xyz.dimtpap.coppwr"
+            ]
+        }
+    },
     "copy": {
         "linux": {
             "root": "copy",
@@ -11968,6 +11976,7 @@
             "symlinks": [
                 "com.github.alainm23.planner",
                 "io.elementary.tasks",
+                "io.github.alainm23.planify",
                 "org.gnome.Todo"
             ]
         }
@@ -27031,6 +27040,7 @@
         "linux": {
             "root": "stremio",
             "symlinks": [
+                "com.stremio.Service",
                 "com.stremio.Stremio",
                 "smartcode-stremio"
             ]
