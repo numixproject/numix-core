@@ -18393,6 +18393,14 @@
             ]
         }
     },
+    "mnemosyne": {
+        "linux": {
+            "root": "mnemosyne",
+            "symlinks": [
+                "org.mnemosyneproj.Mnemosyne"
+            ]
+        }
+    },
     "mntray": {
         "linux": {
             "root": "mntray"
