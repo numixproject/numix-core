@@ -19337,7 +19337,10 @@
     },
     "nemo": {
         "linux": {
-            "root": "nemo"
+            "root": "nemo",
+            "symlinks": [
+                "com.expidusos.file_manager"
+            ]
         }
     },
     "neochat": {
