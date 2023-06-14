@@ -5447,7 +5447,10 @@
     },
     "clipped": {
         "linux": {
-            "root": "com.github.davidmhewitt.clipped"
+            "root": "com.github.davidmhewitt.clipped",
+            "symlinks": [
+                "app.getclipboard.Clipboard"
+            ]
         }
     },
     "clipqr": {
