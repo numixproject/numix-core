@@ -19619,6 +19619,7 @@
                 "com.github.danrabbit.nimbus",
                 "com.gitlab.bitseater.meteo",
                 "io.elementary.meteo",
+                "io.github.amit9838.weather",
                 "kweather",
                 "org.kde.kweather"
             ]
@@ -25892,7 +25893,10 @@
     },
     "simplesok": {
         "linux": {
-            "root": "simplesok"
+            "root": "simplesok",
+            "symlinks": [
+                "io.osdn.simplesok"
+            ]
         }
     },
     "simsu": {
