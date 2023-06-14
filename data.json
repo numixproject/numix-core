@@ -11348,7 +11348,10 @@
     },
     "gmusicbrowser": {
         "linux": {
-            "root": "gmusicbrowser"
+            "root": "gmusicbrowser",
+            "symlinks": [
+                "dev.schlaubi.Tonbrett"
+            ]
         }
     },
     "gnac": {
