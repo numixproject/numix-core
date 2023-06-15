@@ -7682,7 +7682,10 @@
     },
     "distributor-logo-vanillaos": {
         "linux": {
-            "root": "distributor-logo-vanillaos"
+            "root": "distributor-logo-vanillaos",
+            "symlinks": [
+                "io.github.vanilla-os.FirstSetup"
+            ]
         }
     },
     "distributor-logo-void": {
@@ -16668,7 +16671,8 @@
                 "com.gitlab.cunidev.Gestures",
                 "cs-gestures",
                 "libinput-gestures-qt",
-                "org.cunidev.gestures"
+                "org.cunidev.gestures",
+                "preferences-desktop-touchscreen"
             ]
         }
     },
