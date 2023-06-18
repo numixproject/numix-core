@@ -14779,7 +14779,11 @@
     },
     "jamesdsp": {
         "linux": {
-            "root": "jamesdsp"
+            "root": "jamesdsp",
+            "symlinks": [
+                "me.timschneeberger.jdsp4linux",
+                "me.timschneeberger.jdsp4linux.pulse"
+            ]
         }
     },
     "jammr": {
