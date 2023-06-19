@@ -536,6 +536,7 @@
         "linux": {
             "root": "accessories-system-cleaner",
             "symlinks": [
+                "csd-housekeeping",
                 "gconf-cleaner"
             ]
         }
@@ -1226,7 +1227,8 @@
         "linux": {
             "root": "amazonmp3",
             "symlinks": [
-                "amazon-mp3-store-source"
+                "amazon-mp3-store-source",
+                "eu.tiliado.NuvolaAppAmazonCloudPlayer",
             ]
         }
     },
@@ -5829,19 +5831,26 @@
         "linux": {
             "root": "steam_icon_80",
             "symlinks": [
+                "cscz",
                 "steam_icon_100"
             ]
         }
     },
     "counterstrike-global-offensive": {
         "linux": {
-            "root": "steam_icon_730"
+            "root": "steam_icon_730",
+            "symlinks": [
+                "csgo",
+                "csgo_linux64"
+            ]
         }
     },
     "counterstrike-source": {
         "linux": {
             "root": "steam_icon_240",
             "symlinks": [
+                "cs",
+                "css",
                 "steam_icon_10"
             ]
         }
@@ -7110,6 +7119,7 @@
             "symlinks": [
                 "configure-debian",
                 "debian",
+                "debian-installer-launcher",
                 "debian-logo",
                 "debian-plymouth-manager",
                 "debian-swirl",
@@ -9751,11 +9761,7 @@
     },
     "flareget": {
         "linux": {
-            "root": "flareget",
-            "symlinks": [
-                "deepin-installer",
-                "deepin-installer-oem"
-            ]
+            "root": "flareget"
         }
     },
     "flash": {
@@ -10136,6 +10142,7 @@
         "linux": {
             "root": "foxit-reader",
             "symlinks": [
+                "foxitpdf",
                 "FoxitReader",
                 "foxitreader"
             ]
@@ -14472,6 +14479,7 @@
             "root": "input-mouse",
             "symlinks": [
                 "cs-mouse",
+                "csd-mouse",
                 "gnome-mouse",
                 "gnome-mouse-properties",
                 "gnome-settings-mouse",
@@ -14489,6 +14497,7 @@
             "root": "input-tablet",
             "symlinks": [
                 "cs-tablet",
+                "csd-wacom",
                 "org.freedesktop.Tuhi",
                 "preferences-desktop-tablet",
                 "tuhi"
@@ -18773,6 +18782,7 @@
             "symlinks": [
                 "chrome-ciniambnphakdoflgeamacamhfllbkmo-Default",
                 "com.corifeus.onenote",
+                "io.gitlab.o20.onenote",
                 "onenote",
                 "p3x-onenote",
                 "web-onenote"
@@ -18855,7 +18865,10 @@
             "com.microsoft.office.word/com.microsoft.office.word.WordActivity"
         ],
         "linux": {
-            "root": "ms-word"
+            "root": "ms-word",
+            "symlinks": [
+                "io.gitlab.o20.word"
+            ]
         }
     },
     "mtcelledit": {
@@ -19115,6 +19128,7 @@
             "root": "musescore",
             "symlinks": [
                 "mscore",
+                "mscore-portable",
                 "mscore3",
                 "Musescore",
                 "org.musescore.MuseScore"
@@ -20112,6 +20126,8 @@
         "linux": {
             "root": "office-printer",
             "symlinks": [
+                "csd-printer",
+                "cupsprinter",
                 "libreoffice-printeradmin",
                 "libreoffice3-printeradmin",
                 "libreoffice34-printeradmin",
@@ -20826,6 +20842,8 @@
                 "com.github.calamares.calamares",
                 "com.github.p3732.OS-Installer",
                 "com.ubunutu.ubiquity",
+                "deepin-installer",
+                "deepin-installer-oem"
                 "io.calamares.calamares",
                 "jade-gui",
                 "liveinst",
@@ -21425,8 +21443,10 @@
             "root": "pdfmixtool",
             "symlinks": [
                 "eu.scarpetta.PDFMixTool",
+                "jpdftweak",
                 "net.sourceforge.jpdftweak.jPdfTweak",
-                "net.sourceforge.Pdfedit"
+                "net.sourceforge.Pdfedit",
+                "pdfedit"
             ]
         }
     },
@@ -21437,6 +21457,10 @@
                 "flpsed",
                 "io.github.diegoivan.pdf_metadata_editor",
                 "master-pdf-editor",
+                "master-pdf-editor3",
+                "masterpdfeditor3",
+                "masterpdfeditor4",
+                "masterpdfeditor5",
                 "net.codeindustry.MasterPDFEditor",
                 "net.codeindustry.MasterPDFEditor-Legacy",
                 "pdf-metadata-editor"
@@ -29534,6 +29558,7 @@
             "root": "unity-tweak-tool",
             "symlinks": [
                 "garuda-settings-manager",
+                "org.vanillaos.ControlCenter",
                 "ubuntu-first-steps"
             ]
         }
