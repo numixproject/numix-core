@@ -6739,6 +6739,14 @@
             "root": "devhub"
         }
     },
+    "devpod": {
+        "linux": {
+            "root": "devpod",
+            "symlinks": [
+                "dev-pod"
+            ]
+        }
+    },
     "devtoolbox": {
         "linux": {
             "root": "devtoolbox",
