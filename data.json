@@ -20844,7 +20844,7 @@
                 "com.github.p3732.OS-Installer",
                 "com.ubunutu.ubiquity",
                 "deepin-installer",
-                "deepin-installer-oem"
+                "deepin-installer-oem",
                 "io.calamares.calamares",
                 "jade-gui",
                 "liveinst",
@@ -28712,7 +28712,8 @@
         "linux": {
             "root": "tlpui",
             "symlinks": [
-                "com.github.d4nj1.tlpui"
+                "com.github.d4nj1.tlpui",
+                "slimbookbattery"
             ]
         }
     },
