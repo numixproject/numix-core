@@ -1097,7 +1097,8 @@
         "linux": {
             "root": "alienarena",
             "symlinks": [
-                "alien-arena"
+                "alien-arena",
+                "org.alienarena.alienarena"
             ]
         }
     },
@@ -8850,6 +8851,7 @@
             "root": "equaliser",
             "symlinks": [
                 "chrome-npfkoakaabdallkcdbpkkhfilkkngakh-Default",
+                "dev.aunetx.deezer",
                 "eu.tiliado.NuvolaAppDeezer",
                 "nuvolaplayer3_deezer"
             ]
@@ -11944,6 +11946,8 @@
             "symlinks": [
                 "com.github.manexim.messages",
                 "com.tomjwatson.Emote",
+                "EmojiMart",
+                "io.github.vemonet.EmojiMart",
                 "org.gnome.Social"
             ]
         }
@@ -16692,6 +16696,7 @@
             "root": "libinput-gestures",
             "symlinks": [
                 "com.gitlab.cunidev.Gestures",
+                "cs-gesture",
                 "cs-gestures",
                 "libinput-gestures-qt",
                 "org.cunidev.gestures",
@@ -20907,6 +20912,7 @@
                 "albasheer",
                 "com.github.ojubaorg.Othman",
                 "com.github.yucefsourani.albasheer-electronic-quran-browser",
+                "io.github.zer0x.qurancompanion",
                 "Othman",
                 "sa.edu.ksa.ayat",
                 "zekr"
@@ -24442,6 +24448,7 @@
         "linux": {
             "root": "regextester",
             "symlinks": [
+                "com.felipekinoshita.Wildcard",
                 "com.github.artemanufrij.regextester",
                 "io.github.fkinoshita.Wildcard",
                 "kregexpeditor",
