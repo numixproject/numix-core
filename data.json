@@ -44,7 +44,10 @@
             "com.agilebits.onepassword/com.agilebits.onepassword.activity.LoginActivity"
         ],
         "linux": {
-            "root": "1password"
+            "root": "1password",
+            "symlinks": [
+                "com.onepassword.OnePassword"
+            ]
         }
     },
     "1weather": {
@@ -32070,6 +32073,7 @@
                 "jdTextEdit",
                 "kwrite",
                 "org.kde.kwrite",
+                "page.codeberg.JakobDev.jdTextEdit",
                 "textadept"
             ]
         }
