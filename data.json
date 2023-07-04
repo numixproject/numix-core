@@ -20246,6 +20246,15 @@
             "root": "oni"
         }
     },
+    "onionmedia": {
+        "linux": {
+            "root": "onionmedia",
+            "symlinks": [
+                "io.github.onionware_github.onionmedia",
+                "org.onionware.onionmedia"
+            ]
+        }
+    },
     "onionshare": {
         "linux": {
             "root": "onionshare",
