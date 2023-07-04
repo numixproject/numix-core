@@ -18954,9 +18954,22 @@
             "root": "muffon"
         }
     },
+    "mullvad-browser": {
+        "linux": {
+            "root": "mullvad-browser",
+            "symlinks": [
+                "net.mullvad.MullvadBrowser"
+            ]
+        }
+    },
     "mullvad-vpn": {
         "linux": {
-            "root": "mullvad-vpn"
+            "root": "mullvad-vpn",
+            "symlinks": [
+                "net.mullvad.MullvadVPN",
+                "net.mullvad.mullvadvpn",
+                "net.mullvad.vpn"
+            ]
         }
     },
     "multibootusb": {
