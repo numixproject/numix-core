@@ -14396,7 +14396,10 @@
     },
     "impro-visor": {
         "linux": {
-            "root": "impro-visor"
+            "root": "impro-visor",
+            "symlinks": [
+                "dev.bragefuglseth.Fretboard"
+            ]
         }
     },
     "incredipede": {
