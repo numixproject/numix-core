@@ -30438,7 +30438,11 @@
     },
     "voxelands": {
         "linux": {
-            "root": "voxelands"
+            "root": "voxelands",
+            "symlinks": [
+                "com.voxdsp.VoxelPaint",
+                "voxelpaint"
+            ]
         }
     },
     "vpv": {
