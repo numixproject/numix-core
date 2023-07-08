@@ -17458,6 +17458,11 @@
             ]
         }
     },
+    "luminance": {
+        "linux": {
+            "root": "com.sidevesh.Luminance"
+        }
+    },
     "luminance-hdr": {
         "linux": {
             "root": "luminance-hdr",
@@ -31010,6 +31015,16 @@
     "web-koding": {
         "linux": {
             "root": "chrome-fgbjpbdfegnodokpoejnbhnblcojccal-Default"
+        }
+    },
+    "web-lemmy": {
+        "linux": {
+            "root": "lemmy",
+            "symlinks": [
+                "chrome-nhhpmhangmpelmnonfbaoefjelemgink-Default",
+                "chrome-pnfibfkdchmoejioppahgknbhgfddfal-Default",
+                "io.github.lemmygtk.lemoa"
+            ]
         }
     },
     "web-line": {
