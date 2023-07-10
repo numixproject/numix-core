@@ -10263,12 +10263,32 @@
             ]
         }
     },
+    "freeciv-modpack": {
+        "linux": {
+            "root": "freeciv-modpack",
+            "symlinks": [
+                "freeciv21-modpack",
+                "mpicon"
+            ]
+        }
+    },
     "freeciv-server": {
         "linux": {
-            "root": "freeciv-server",
+            "root": "freeciv-server"
+        }
+    },
+    "freeciv21-client": {
+        "linux": {
+            "root": "freeciv21-client",
             "symlinks": [
-                "freeciv-modpack"
+                "civicon",
+                "net.longturn.freeciv21"
             ]
+        }
+    },
+    "freeciv21-server": {
+        "linux": {
+            "root": "freeciv21-server"
         }
     },
     "freecol": {
