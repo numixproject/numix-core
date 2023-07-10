@@ -16532,7 +16532,11 @@
     },
     "lantern": {
         "linux": {
-            "root": "lantern"
+            "root": "lantern",
+            "symlinks": [
+                "io.github.kalaksi.Lightkeeper",
+                "lightkeeper"
+            ]
         }
     },
     "lapce": {
