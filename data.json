@@ -7427,6 +7427,7 @@
         "linux": {
             "root": "distributor-logo-nixos",
             "symlinks": [
+                "nix",
                 "nix-snowflake"
             ]
         }
@@ -10492,6 +10493,7 @@
         "linux": {
             "root": "fs-uae",
             "symlinks": [
+                "fs-uae-launcher",
                 "net.fsuae.FS-UAE"
             ]
         }
@@ -10558,6 +10560,7 @@
         "linux": {
             "root": "fuse-emulator",
             "symlinks": [
+                "fuse",
                 "net.sf.fuse_emulator"
             ]
         }
@@ -24668,6 +24671,7 @@
         "linux": {
             "root": "retroarch",
             "symlinks": [
+                "fs-uae-arcade",
                 "org.libretro.RetroArch",
                 "steam_icon_1118310"
             ]
@@ -25184,7 +25188,10 @@
     },
     "rustdesk": {
         "linux": {
-            "root": "rustdesk"
+            "root": "rustdesk",
+            "symlinks": [
+                "com.rustdesk.RustDesk"
+            ]
         }
     },
     "rygel": {
@@ -30147,7 +30154,13 @@
         "linux": {
             "root": "vice",
             "symlinks": [
-                "net.sf.VICE"
+                "c128icon-32x28",
+                "c64icon-32x28",
+                "cbm2icon-32x28",
+                "net.sf.VICE",
+                "peticon-32x28",
+                "plus4icon-32x28",
+                "vic20icon-32x28"
             ]
         }
     },
@@ -31796,6 +31809,8 @@
             "root": "wine-winetricks",
             "symlinks": [
                 "bottles_wine-winetricks",
+                "com.github.Matoking.protontricks",
+                "protontricks",
                 "winetricks"
             ]
         }
@@ -32557,6 +32572,7 @@
         "linux": {
             "root": "yandex-browser",
             "symlinks": [
+                "ru.yandex.Browser",
                 "yandex-browser-beta"
             ]
         }
