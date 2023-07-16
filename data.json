@@ -12132,8 +12132,6 @@
         "linux": {
             "root": "gnome-window-manager",
             "symlinks": [
-                "cs-tiling",
-                "cs-windows",
                 "gnome-windows",
                 "gnome-wm",
                 "kcmkwm",
@@ -19127,6 +19125,7 @@
         "linux": {
             "root": "multitasking-view",
             "symlinks": [
+                "cs-windows",
                 "deepin-multitasking-view",
                 "org.ubuntubudgie.shuffler-control",
                 "org.ubuntubudgie.shufflercontrol"
@@ -22802,7 +22801,6 @@
                 "org.gnome.Settings",
                 "org.xfce.settings.manager",
                 "paprefs",
-                "preferences-desktop",
                 "redhat-server_settings",
                 "redhat-tools",
                 "startupmanager",
@@ -29683,6 +29681,7 @@
             "symlinks": [
                 "garuda-settings-manager",
                 "org.vanillaos.ControlCenter",
+                "preferences-desktop",
                 "ubuntu-first-steps"
             ]
         }
@@ -31999,6 +31998,7 @@
         "linux": {
             "root": "workspace-overview",
             "symlinks": [
+                "cs-workspaces",
                 "mate-panel-workspace-switcher",
                 "pop-cosmic-workspaces"
             ]
@@ -32018,7 +32018,7 @@
         "linux": {
             "root": "workspace-switcher-right-top",
             "symlinks": [
-                "cs-workspaces",
+                "cs-tiling",
                 "gnome-panel-workspace-switcher",
                 "org.xfce.workspaces",
                 "workspace-switcher",
