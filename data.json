@@ -2395,7 +2395,11 @@
     },
     "avadon-the-black-fortress": {
         "linux": {
-            "root": "steam_icon_112100"
+            "root": "steam_icon_112100",
+            "symlinks": [
+                "com.chroniclogic.Zatikon",
+                "zatikon"
+            ]
         }
     },
     "avastgui": {
