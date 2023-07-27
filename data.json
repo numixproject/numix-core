@@ -1818,7 +1818,10 @@
     },
     "archer": {
         "linux": {
-            "root": "archer"
+            "root": "archer",
+            "symlinks": [
+                "org.brlcad.BRL_CAD.archer"
+            ]
         }
     },
     "archipelago": {
@@ -3517,17 +3520,26 @@
     },
     "brlcad": {
         "linux": {
-            "root": "brlcad"
+            "root": "brlcad",
+            "symlinks": [
+                "org.brlcad.BRL_CAD"
+            ]
         }
     },
     "brlcad-db": {
         "linux": {
-            "root": "brlcad-db"
+            "root": "brlcad-db",
+            "symlinks": [
+                "org.brlcad.BRL_CAD.db"
+            ]
         }
     },
     "brlcad-doc": {
         "linux": {
-            "root": "brlcad-doc"
+            "root": "brlcad-doc",
+            "symlinks": [
+                "org.brlcad.BRL_CAD.doc"
+            ]
         }
     },
     "broforce": {
@@ -15139,7 +15151,10 @@
     },
     "jmol-icon": {
         "linux": {
-            "root": "jmol-icon"
+            "root": "jmol-icon",
+            "symlinks": [
+                "net.sourceforge.jmol"
+            ]
         }
     },
     "jockey": {
@@ -18245,7 +18260,10 @@
     },
     "mged": {
         "linux": {
-            "root": "mged"
+            "root": "mged",
+            "symlinks": [
+                "org.brlcad.BRL_CAD.mged"
+            ]
         }
     },
     "micoscope": {
@@ -22202,6 +22220,7 @@
         "linux": {
             "root": "playonlinux",
             "symlinks": [
+                "com.playonlinux.PlayOnLinux4",
                 "org.phoenicis.playonlinux",
                 "phoenicis",
                 "PlayOnLinux",
@@ -25144,7 +25163,10 @@
     },
     "rtwizard": {
         "linux": {
-            "root": "rtwizard"
+            "root": "rtwizard",
+            "symlinks": [
+                "org.brlcad.BRL_CAD.rtwizard"
+            ]
         }
     },
     "rubymine": {
