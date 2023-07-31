@@ -24615,7 +24615,10 @@
     },
     "rehex": {
         "linux": {
-            "root": "rehex"
+            "root": "rehex",
+            "symlinks": [
+                "org.exbin.BinEd"
+            ]
         }
     },
     "reicast": {
