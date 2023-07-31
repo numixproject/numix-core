@@ -23362,7 +23362,9 @@
         "linux": {
             "root": "pymol",
             "symlinks": [
-                "org.pymol.PyMOL"
+                "bkchem",
+                "org.pymol.PyMOL",
+                "org.zirael.bkchem.BKChem"
             ]
         }
     },
