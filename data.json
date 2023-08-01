@@ -10349,6 +10349,15 @@
             ]
         }
     },
+    "freedoom": {
+        "linux": {
+            "root": "freedoom",
+            "symlinks": [
+                "freedm",
+                "io.github.freedoom.FreeDM"
+            ]
+        }
+    },
     "freedoom-phase-1": {
         "linux": {
             "root": "freedoom1",
