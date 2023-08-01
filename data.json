@@ -11842,7 +11842,12 @@
     },
     "gnome-mplayer": {
         "linux": {
-            "root": "gnome-mplayer"
+            "root": "gnome-mplayer",
+            "symlinks": [
+                "daikhan",
+                "io.gitlab.daikhan.player",
+                "io.gitlab.daikhan.stable"
+            ]
         }
     },
     "gnome-multi-writer": {
@@ -30851,7 +30856,7 @@
             "root": "web-bandcamp",
             "symlinks": [
                 "bandcamp",
-                "campcounselor"
+                "campcounselor",
                 "eu.tiliado.NuvolaAppBandcamp",
                 "net.line72.campcounselor",
                 "net.line72.campcounselor-icon",
