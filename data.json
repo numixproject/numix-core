@@ -5794,7 +5794,11 @@
     },
     "converter": {
         "linux": {
-            "root": "io.gitlab.adhami3310.Converter"
+            "root": "io.gitlab.adhami3310.Converter",
+            "symlinks": [
+                "io.gitlab.adhami3310.Switcheroo",
+                "switcheroo"
+            ]
         }
     },
     "cool-retro-term": {
