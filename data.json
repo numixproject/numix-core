@@ -15317,7 +15317,10 @@
     },
     "juffed": {
         "linux": {
-            "root": "juffed"
+            "root": "juffed",
+            "symlinks": [
+                "io.github.nokse22.minitext"
+            ]
         }
     },
     "jugglinglab": {
