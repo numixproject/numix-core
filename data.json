@@ -26969,7 +26969,10 @@
     },
     "splash": {
         "linux": {
-            "root": "com.gitlab.sat_metalab.Splash"
+            "root": "com.gitlab.sat_metalab.Splash",
+            "symlinks": [
+                "xyz.splashmapper.Splash"
+            ]
         }
     },
     "splashtop-streamer": {
