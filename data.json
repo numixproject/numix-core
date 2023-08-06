@@ -16287,7 +16287,10 @@
     },
     "kopia-ui": {
         "linux": {
-            "root": "kopia-ui"
+            "root": "kopia-ui",
+            "symlinks": [
+                "io.kopia.KopiaUI"
+            ]
         }
     },
     "koreader": {
@@ -17190,7 +17193,8 @@
         "linux": {
             "root": "linssid",
             "symlinks": [
-                "LinSSID"
+                "LinSSID",
+                "nvtop"
             ]
         }
     },
