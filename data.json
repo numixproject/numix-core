@@ -16780,7 +16780,9 @@
         "linux": {
             "root": "LeagueOfLegends",
             "symlinks": [
-                "com.leagueoflegends.Client"
+                "com.kassindornelles.lolforlinuxinstaller",
+                "com.leagueoflegends.Client",
+                "lolforlinuxinstaller"
             ]
         }
     },
@@ -19769,7 +19771,8 @@
         "linux": {
             "root": "newsflash",
             "symlinks": [
-                "com.gitlab.newsflash"
+                "com.gitlab.newsflash",
+                "io.gitlab.news_flash.NewsFlash"
             ]
         }
     },
