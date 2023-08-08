@@ -11265,7 +11265,9 @@
         "linux": {
             "root": "gitklient",
             "symlinks": [
-                "org.kde.gitklient"
+                "kommit",
+                "org.kde.gitklient",
+                "org.kde.kommit"
             ]
         }
     },
