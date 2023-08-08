@@ -14674,6 +14674,11 @@
             ]
         }
     },
+    "inspector": {
+        "linux": {
+            "root": "io.github.nokse22.inspector"
+        }
+    },
     "inspektor": {
         "linux": {
             "root": "inspektor",
@@ -26335,7 +26340,10 @@
     },
     "slade": {
         "linux": {
-            "root": "slade"
+            "root": "slade",
+            "symlinks": [
+                "net.mancubus.SLADE"
+            ]
         }
     },
     "slayaway-camp": {
@@ -30670,7 +30678,9 @@
             "root": "voxelands",
             "symlinks": [
                 "com.voxdsp.VoxelPaint",
-                "voxelpaint"
+                "com.voxdsp.VoxelPaintPro",
+                "voxelpaint",
+                "voxelpaintpro"
             ]
         }
     },
