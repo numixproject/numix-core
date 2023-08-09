@@ -23586,6 +23586,11 @@
             ]
         }
     },
+    "qbrowser": {
+        "linux": {
+            "root": "qbrowser"
+        }
+    },
     "qcad": {
         "linux": {
             "root": "qcad",
@@ -23692,7 +23697,6 @@
             "symlinks": [
                 "org.qgis.qgis",
                 "org.qgis.qgis-ltr",
-                "qbrowser",
                 "qgis-icon",
                 "qgis-ltr"
             ]
