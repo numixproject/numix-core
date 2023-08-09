@@ -25117,6 +25117,15 @@
             ]
         }
     },
+    "root": {
+        "linux": {
+            "root": "root",
+            "symlinks": [
+                "cern.root.root",
+                "ch.cern.root"
+            ]
+        }
+    },
     "rosamp": {
         "linux": {
             "root": "rosamp"
