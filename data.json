@@ -15901,6 +15901,14 @@
             "root": "steam_icon_1250"
         }
     },
+    "kimagemapeditor": {
+        "linux": {
+            "root": "kimagemapeditor",
+            "symlinks": [
+                "org.kde.kimagemapeditor"
+            ]
+        }
+    },
     "kimtoy": {
         "linux": {
             "root": "kimtoy",
