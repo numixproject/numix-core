@@ -24201,7 +24201,10 @@
     },
     "quake3": {
         "linux": {
-            "root": "quake3"
+            "root": "quake3",
+            "symlinks": [
+                "com.rq3.Reaction"
+            ]
         }
     },
     "quake4": {
