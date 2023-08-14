@@ -12306,6 +12306,7 @@
         "linux": {
             "root": "gnumeric",
             "symlinks": [
+                "eu.cichy1173.tabela",
                 "gnome-gnumeric",
                 "org.gnumeric.Gnumeric"
             ]
@@ -21847,6 +21848,7 @@
             "symlinks": [
                 "com.github.vikdevelop.penpot-electron",
                 "com.korbsstudio.penpot-desktop",
+                "com.sudovanilla.penpot-desktop",
                 "penpot-desktop"
             ]
         }
@@ -25898,7 +25900,8 @@
         "linux": {
             "root": "sequeler",
             "symlinks": [
-                "com.github.alecaddd.sequeler"
+                "com.github.alecaddd.sequeler",
+                "me.ppvan.psequel"
             ]
         }
     },
@@ -26452,7 +26455,10 @@
     },
     "slimevolley": {
         "linux": {
-            "root": "slimevolley"
+            "root": "slimevolley",
+            "symlinks": [
+                "com.adilhanney.ricochlime"
+            ]
         }
     },
     "slimevr": {
@@ -27241,7 +27247,8 @@
         "linux": {
             "root": "stacer",
             "symlinks": [
-                "com.github.hannesschulze.optimizer"
+                "com.github.hannesschulze.optimizer",
+                "dev.lynith.Speedtest"
             ]
         }
     },
@@ -28532,7 +28539,10 @@
     },
     "tesseract": {
         "linux": {
-            "root": "tesseract"
+            "root": "tesseract",
+            "symlinks": [
+                "gg.tesseract.Tesseract"
+            ]
         }
     },
     "testdrive": {
