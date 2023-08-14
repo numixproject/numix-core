@@ -30314,8 +30314,9 @@
     },
     "ventoy": {
         "linux": {
-            "root": "venotoy",
+            "root": "ventoy",
             "symlinks": [
+                "Ventoy",
                 "ventoygui"
             ]
         }
