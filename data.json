@@ -846,6 +846,15 @@
             "root": "advanced-rest-client"
         }
     },
+    "advanced-strategic-command": {
+        "linux": {
+            "root": "advanced-strategic-command",
+            "symlinks": [
+                "asc",
+                "org.asc_hq.ASC"
+            ]
+        }
+    },
     "adventure-editor": {
         "linux": {
             "root": "adventure-editor",
