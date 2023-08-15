@@ -5811,6 +5811,8 @@
         "linux": {
             "root": "coolero",
             "symlinks": [
+                "coolercontrol",
+                "org.coolercontrol.CoolerControl",
                 "org.coolero.Coolero"
             ]
         }
@@ -30601,6 +30603,7 @@
         "linux": {
             "root": "vivaldi",
             "symlinks": [
+                "com.vivaldi.Vivaldi",
                 "vivaldi-beta",
                 "vivaldi-snapshot"
             ]
