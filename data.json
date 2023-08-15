@@ -17174,6 +17174,15 @@
             "root": "lighttable"
         }
     },
+    "lightwaveexplorer": {
+        "linux": {
+            "root": "lightwaveexplorer",
+            "symlinks": [
+                "io.github.NickKarpowicz.LightwaveExplorer",
+                "LightwaveExplorer"
+            ]
+        }
+    },
     "lightworks": {
         "linux": {
             "root": "lightworks"
