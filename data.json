@@ -7522,7 +7522,10 @@
     },
     "distributor-logo-opensuse": {
         "linux": {
-            "root": "distributor-logo-opensuse"
+            "root": "distributor-logo-opensuse",
+            "symlinks": [
+                "org.opensuse.opensuse_welcome"
+            ]
         }
     },
     "distributor-logo-parabola": {
@@ -20895,7 +20898,10 @@
     },
     "openmw-cs": {
         "linux": {
-            "root": "openmw-cs"
+            "root": "openmw-cs",
+            "symlinks": [
+                "org.openmw.OpenMW.OpenCS.svg"
+            ]
         }
     },
     "openra": {
@@ -20961,6 +20967,7 @@
             "root": "opensonic",
             "symlinks": [
                 "org.srb2.SRB2",
+                "org.srb2.SRB2Kart",
                 "org.srb2.SRB2Kart-galaxy",
                 "srb2",
                 "srb2kart"
@@ -32539,7 +32546,8 @@
         "linux": {
             "root": "xclicker",
             "symlinks": [
-                "dev.robiot.xclicker"
+                "dev.robiot.xclicker",
+                "mouse-actions-gui"
             ]
         }
     },
