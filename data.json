@@ -2050,7 +2050,11 @@
     },
     "ascii-design": {
         "linux": {
-            "root": "ascii-design"
+            "root": "ascii-design",
+            "symlinks": [
+                "ascii-draw",
+                "io.github.nokse22.asciidraw"
+            ]
         }
     },
     "asciidocfx": {
@@ -2598,7 +2602,9 @@
         "linux": {
             "root": "backdoor-factory",
             "symlinks": [
-                "kali-backdoor-factory"
+                "door-knocker",
+                "kali-backdoor-factory",
+                "xyz.tytanium.DoorKnocker"
             ]
         }
     },
@@ -13083,7 +13089,8 @@
         "linux": {
             "root": "grisbi",
             "symlinks": [
-                "eqonomize"
+                "eqonomize",
+                "org.grisbi.Grisbi"
             ]
         }
     },
@@ -15359,7 +15366,11 @@
     },
     "jugglinglab": {
         "linux": {
-            "root": "jugglinglab"
+            "root": "jugglinglab",
+            "symlinks": [
+                "com.howlingmoonsoftware.CrayonBall",
+                "crayonball"
+            ]
         }
     },
     "juk": {
@@ -21986,6 +21997,7 @@
                 "com.github.aharotias2.parapara",
                 "dev.levz.TinyImageFinder",
                 "image-finder",
+                "io.github.adrienverge.PhotoCollage",
                 "koko",
                 "org.kde.koko"
             ]
@@ -28345,6 +28357,7 @@
                 "app.drey.PaperPlane",
                 "chrome-clhhggbfdinjmjhajaheehoeibfljjno-Default",
                 "com.github.melix99.telegrand",
+                "o.github.tdesktop_x64.TDesktop",
                 "org.telegram.desktop",
                 "sigram",
                 "telegram-classic",
@@ -29805,7 +29818,10 @@
     },
     "ulcc": {
         "linux": {
-            "root": "ulcc"
+            "root": "ulcc",
+            "symlinks": [
+                "io.github.nokse22.triviaquiz"
+            ]
         }
     },
     "ultimate-chicken-horse": {
