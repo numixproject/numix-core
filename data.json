@@ -1085,6 +1085,7 @@
         "linux": {
             "root": "alias",
             "symlinks": [
+                "org.cubocore.CorePins",
                 "com.github.bartzaalberg.alias",
                 "io.github.aerocyber.sitemarker"
             ]
@@ -19311,6 +19312,7 @@
             "symlinks": [
                 "cs-windows",
                 "deepin-multitasking-view",
+                "org.cubocore.CoreStuff",
                 "org.ubuntubudgie.shuffler-control",
                 "org.ubuntubudgie.shufflercontrol"
             ]
@@ -23021,6 +23023,7 @@
                 "io.elementary.switchboard",
                 "kcontrol",
                 "org.buddiesofbudgie.Settings",
+                "org.cubocore.CoreGarage",
                 "org.gnome.Settings",
                 "org.xfce.settings.manager",
                 "paprefs",
@@ -30616,7 +30619,10 @@
     },
     "virtualplanet": {
         "linux": {
-            "root": "virtualplanet"
+            "root": "virtualplanet",
+            "symlinks": [
+                "org.cubocore.CoreUniverse"
+            ]
         }
     },
     "visicut": {
