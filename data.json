@@ -11702,7 +11702,8 @@
         "linux": {
             "root": "crosswords",
             "symlinks": [
-                "org.gnome.Crosswords"
+                "org.gnome.Crosswords",
+                "org.gnome.Crosswords.Editor"
             ]
         }
     },
@@ -12789,6 +12790,7 @@
             "root": "gpicview",
             "symlinks": [
                 "gwenview",
+                "io.github.mihnea_radulescu.imagefanreloaded",
                 "org.kde.Gwenview",
                 "org.kde.gwenview"
             ]
