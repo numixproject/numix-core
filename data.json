@@ -21314,6 +21314,14 @@
             ]
         }
     },
+    "package-transporter": {
+        "linux": {
+            "root": "package-transporter",
+            "symlinks": [
+                "io.gitlab.gwendalj.package-transporter"
+            ]
+        }
+    },
     "pacmanlogviewer": {
         "linux": {
             "root": "plv",
