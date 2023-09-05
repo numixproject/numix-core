@@ -17142,6 +17142,14 @@
             ]
         }
     },
+        "librum": {
+        "linux": {
+            "root": "librum",
+            "symlinks": [
+                "com.librumreader.librum"
+            ]
+        }
+    },
     "licentia": {
         "linux": {
             "root": "licentia",
