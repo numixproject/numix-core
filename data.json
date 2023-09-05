@@ -12267,6 +12267,7 @@
                 "kwin",
                 "mate-panel-window-menu",
                 "metacity",
+                "nwg-shell-config",
                 "obconf",
                 "obconf-qt",
                 "org.xfce.xfwm4",
@@ -14707,7 +14708,9 @@
             "root": "input-touchpad",
             "symlinks": [
                 "com.github.unrud.RemoteTouchpad",
-                "remote-touchpad"
+                "io.github.Sunderland93.sway-input-config",
+                "remote-touchpad",
+                "sway-input-config"
             ]
         }
     },
