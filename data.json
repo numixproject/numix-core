@@ -16244,8 +16244,10 @@
         "linux": {
             "root": "kolibri",
             "symlinks": [
+                "org.endlessos.Key",
                 "org.learningequality.Kolibri",
-                "org.learningequality.Kolibri.Frontend"
+                "org.learningequality.Kolibri.Frontend",
+                "org.learningequality.Kolibri.Launcher"
             ]
         }
     },
