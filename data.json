@@ -5880,6 +5880,22 @@
             ]
         }
     },
+    "corese-command": {
+        "linux": {
+            "root": "corese-command",
+            "symlinks": [
+                "ofr.inria.corese.CoreseCommand"
+            ]
+        }
+    },
+    "corese-gui": {
+        "linux": {
+            "root": "corese-gui",
+            "symlinks": [
+                "fr.inria.corese.CoreseGui"
+            ]
+        }
+    },
     "corsix-th": {
         "linux": {
             "root": "corsix-th",
