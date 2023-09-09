@@ -21150,6 +21150,24 @@
             "root": "orange-canvas"
         }
     },
+    "orcaslicer": {
+        "linux": {
+            "root": "orcaslicer",
+            "symlinks": [
+                "OrcaSlicer",
+                "orca-slicer"
+            ]
+        }
+    },
+    "orcaslicer-gcodeviewer": {
+        "linux": {
+            "root": "orcaslicer-gcodeviewer",
+            "symlinks": [
+                "OrcaSlicer-gcodeviewer",
+                "orca-slicer-gcodeviewer"
+            ]
+        }
+    },
     "oregano": {
         "linux": {
             "root": "oregano",
