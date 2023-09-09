@@ -14054,7 +14054,11 @@
     },
     "hopper-debugger-v3": {
         "linux": {
-            "root": "hopper-debugger-v3"
+            "root": "hopper-debugger-v3",
+            "symlinks": [
+                "jddbusdebugger",
+                "page.codeberg.JakobDev.jdDBusDebugger"
+            ]
         }
     },
     "hopper-disassembler-v3": {
