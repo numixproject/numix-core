@@ -25750,6 +25750,14 @@
             ]
         }
     },
+    "scoreboard": {
+        "linux": {
+            "root": "scoreboard",
+            "symlinks": [
+                "org.metal3d.scoreboard"
+            ]
+        }
+    },
     "scram": {
         "linux": {
             "root": "scram"
