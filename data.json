@@ -3520,7 +3520,8 @@
         "linux": {
             "root": "breathing",
             "symlinks": [
-                "io.github.seadve.Breathing"
+                "io.github.seadve.Breathing",
+                "io.naox.InnerBreeze"
             ]
         }
     },
@@ -3811,6 +3812,7 @@
                 "accessories-calculator",
                 "brun",
                 "com.deepin.Calculator",
+                "com.expidusos.calculator"
                 "cutefish-calculator",
                 "deepin-calculator",
                 "galculator",
@@ -26365,6 +26367,14 @@
             "root": "silverjuke"
         }
     },
+    "simple-wireplumber-gui": {
+        "linux": {
+            "root": "simple-wireplumber-gui",
+            "symlinks": [
+                "io.github.dyegoaurelio.simple-wireplumber-gui"
+            ]
+        }
+    },
     "simplenote": {
         "linux": {
             "root": "simplenote",
@@ -27396,7 +27406,8 @@
             "root": "stacer",
             "symlinks": [
                 "com.github.hannesschulze.optimizer",
-                "dev.lynith.Speedtest"
+                "dev.lynith.Speedtest",
+                "xyz.ketok.Speedtest"
             ]
         }
     },
