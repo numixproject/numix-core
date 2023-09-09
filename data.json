@@ -18359,6 +18359,7 @@
                 "mozo",
                 "org.bluesabre.MenuLibre",
                 "org.kde.kmenuedit",
+                "page.codeberg.libre_menu_editor.LibreMenuEditor",
                 "xfce4-menueditor"
             ]
         }
@@ -26701,6 +26702,11 @@
             "symlinks": [
                 "snapchat-nativefier"
             ]
+        }
+    },
+    "snapper-tools": {
+        "linux": {
+            "root": "snapper-tools"
         }
     },
     "snappy": {
