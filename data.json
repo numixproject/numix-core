@@ -664,6 +664,7 @@
                 "org.kde.kaddressbook",
                 "org.kde.kontact",
                 "org.kde.ktpcontactlist",
+                "org.kde.merkuro.contact",
                 "package_office_addressbook",
                 "preferences-contact-list",
                 "stock_addressbook",
@@ -4306,7 +4307,8 @@
         "linux": {
             "root": "ms-calendar",
             "symlinks": [
-                "calendar-purple-31"
+                "calendar-purple-31",
+                "org.kde.merkuro.calendar"
             ]
         }
     },
@@ -5216,7 +5218,8 @@
                 "codes.merritt.adventurelist",
                 "com.github.mrvladus.List",
                 "com.github.ransome1.sleek",
-                "io.github.mrvladus.List"
+                "io.github.mrvladus.List",
+                "org.kde.merkuro"
             ]
         }
     },
@@ -29583,6 +29586,7 @@
         "linux": {
             "root": "trojita",
             "symlinks": [
+                "org.kde.merkuro.mail",
                 "org.kde.trojita"
             ]
         }
