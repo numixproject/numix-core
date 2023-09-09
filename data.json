@@ -3812,7 +3812,7 @@
                 "accessories-calculator",
                 "brun",
                 "com.deepin.Calculator",
-                "com.expidusos.calculator"
+                "com.expidusos.calculator",
                 "cutefish-calculator",
                 "deepin-calculator",
                 "galculator",
@@ -24785,6 +24785,14 @@
     "receitanet-ajuda": {
         "linux": {
             "root": "receitanet-ajuda"
+        }
+    },
+    "rechnungs-assistent": {
+        "linux": {
+            "root": "rechnungs-assistent",
+            "symlinks": [
+                "de.linuxguides.RechnungsAssistent"
+            ]
         }
     },
     "recoll": {
