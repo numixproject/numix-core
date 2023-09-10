@@ -21156,8 +21156,8 @@
         "linux": {
             "root": "orcaslicer",
             "symlinks": [
-                "OrcaSlicer",
-                "orca-slicer"
+                "orca-slicer",
+                "OrcaSlicer"
             ]
         }
     },
@@ -21165,8 +21165,8 @@
         "linux": {
             "root": "orcaslicer-gcodeviewer",
             "symlinks": [
-                "OrcaSlicer-gcodeviewer",
-                "orca-slicer-gcodeviewer"
+                "orca-slicer-gcodeviewer",
+                "OrcaSlicer-gcodeviewer"
             ]
         }
     },
@@ -30070,7 +30070,9 @@
             "root": "unity-editor-icon",
             "symlinks": [
                 "com.unity.UnityEditor",
-                "unity-editor-beta-icon"
+                "com.unityhub.UnityEditor",
+                "unity-editor-beta-icon",
+                "unityeditor"
             ]
         }
     },
@@ -30097,6 +30099,14 @@
                 "org.vanillaos.ControlCenter",
                 "preferences-desktop",
                 "ubuntu-first-steps"
+            ]
+        }
+    },
+    "unityhub": {
+        "linux": {
+            "root": "unityhub",
+            "symlinks": [
+                "com.unityhub.UnityHub"
             ]
         }
     },
