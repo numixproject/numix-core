@@ -29101,6 +29101,14 @@
             ]
         }
     },
+    "ticketbooth": {
+        "linux": {
+            "root": "ticketbooth",
+            "symlinks": [
+                "me.iepure.Ticketbooth"
+            ]
+        }
+    },
     "tigervnc": {
         "linux": {
             "root": "tigervnc",
