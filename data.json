@@ -9032,6 +9032,14 @@
             ]
         }
     },
+    "espanso-gui": {
+        "linux": {
+            "root": "espanso-gui",
+            "symlinks": [
+                "io.unobserved.espansoGUI"
+            ]
+        }
+    },
     "espeak-gui": {
         "linux": {
             "root": "espeak-gui",
