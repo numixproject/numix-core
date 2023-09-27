@@ -16245,6 +16245,8 @@
         "linux": {
             "root": "knetwalk",
             "symlinks": [
+                "io.github.gssh_linux.gssh",
+                "io.github.gssh_linux.gssh.appicon",
                 "org.kde.knetwalk",
                 "sgt-net"
             ]
@@ -20930,7 +20932,10 @@
     },
     "opencomic": {
         "linux": {
-            "root": "opencomic"
+            "root": "opencomic",
+            "symlinks": [
+                "io.github.gen2brain.cbconvert"
+            ]
         }
     },
     "opencpn": {
@@ -24427,7 +24432,9 @@
         "linux": {
             "root": "quake3",
             "symlinks": [
-                "com.rq3.Reaction"
+                "com.rq3.Reaction",
+                "ioquake3",
+                "org.ioquake3.ioquake3"
             ]
         }
     },
@@ -26627,7 +26634,10 @@
     },
     "skylendar": {
         "linux": {
-            "root": "skylendar"
+            "root": "skylendar",
+            "symlinks": [
+                "io.github.alexkdeveloper.zodiac"
+            ]
         }
     },
     "skyrim-script-extender": {
