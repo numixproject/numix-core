@@ -31069,6 +31069,14 @@
             ]
         }
     },
+    "warehouse": {
+        "linux": {
+            "root": "warehouse",
+            "symlinks": [
+                "io.github.flattool.Warehouse"
+            ]
+        }
+    },
     "warframe": {
         "linux": {
             "root": "steam_icon_230410"
