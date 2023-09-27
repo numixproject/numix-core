@@ -31245,7 +31245,9 @@
         "linux": {
             "root": "wayland",
             "symlinks": [
+                "dev.serebit.Waycheck",
                 "org.freedesktop.weston",
+                "waycheck",
                 "weston"
             ]
         }
