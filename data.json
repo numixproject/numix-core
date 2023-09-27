@@ -29647,6 +29647,15 @@
             ]
         }
     },
+    "treesheets": {
+        "linux": {
+            "root": "treesheets",
+            "symlinks": [
+                "com.strlen.TreeSheets",
+                "org.aardappel.TreeSheets"
+            ]
+        }
+    },
     "trelby": {
         "linux": {
             "root": "trelby"
