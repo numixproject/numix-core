@@ -12465,15 +12465,11 @@
             ]
         }
     },
-    "godot": {
+    "godots": {
         "linux": {
-            "root": "godot",
+            "root": "godots",
             "symlinks": [
-                "godot-mono",
-                "org.godotengine.Godot",
-                "org.godotengine.Godot3",
-                "org.godotengine.Godot4",
-                "steam_icon_404790"
+                "io.github.MakovWait.Godots"
             ]
         }
     },
