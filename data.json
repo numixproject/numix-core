@@ -22130,6 +22130,14 @@
             "root": "photokinesis"
         }
     },
+    "photometric-viewer": {
+        "linux": {
+            "root": "photometric-viewer",
+            "symlinks": [
+                "io.github.dlippok.photometric-viewer"
+            ]
+        }
+    },
     "photoqt": {
         "linux": {
             "root": "photoqt",
@@ -32414,7 +32422,8 @@
         "linux": {
             "root": "wordbook",
             "symlinks": [
-                "com.github.fushinari.Wordbook"
+                "com.github.fushinari.Wordbook",
+                "dev.mufeed.Wordbook"
             ]
         }
     },
