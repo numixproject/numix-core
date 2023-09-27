@@ -5849,6 +5849,7 @@
         "linux": {
             "root": "coppwr",
             "symlinks": [
+                "io.github.dimtpap.coppwr",
                 "xyz.dimtpap.coppwr"
             ]
         }
@@ -8057,7 +8058,8 @@
         "linux": {
             "root": "dosbox-staging",
             "symlinks": [
-                "io.github.dosbox-staging"
+                "io.github.dosbox-staging",
+                "net.x_y.ykhwong.dosbox-daum"
             ]
         }
     },
@@ -16992,6 +16994,14 @@
             "root": "librecad",
             "symlinks": [
                 "org.librecad.librecad"
+            ]
+        }
+    },
+    "libredirect-frontends-manager": {
+        "linux": {
+            "root": "libredirect-frontends-manager",
+            "symlinks": [
+                "io.github.libredirect.frontends-manager"
             ]
         }
     },
