@@ -2601,6 +2601,7 @@
             "root": "bacade",
             "symlinks": [
                 "alexandria",
+                "io.github.btpf.alexandria",
                 "org.majsterklepka.bacade"
             ]
         }
@@ -17303,7 +17304,10 @@
     },
     "lightzone": {
         "linux": {
-            "root": "lightzone"
+            "root": "lightzone",
+            "symlinks": [
+                "io.github.ktgw0316.LightZone"
+            ]
         }
     },
     "limbo": {
@@ -17591,6 +17595,14 @@
     "loop": {
         "linux": {
             "root": "net.danigm.loop"
+        }
+    },
+    "loot": {
+        "linux": {
+            "root": "loot",
+            "symlinks": [
+                "io.github.loot.loot"
+            ]
         }
     },
     "lords-of-waterdeep": {
@@ -24726,11 +24738,7 @@
     },
     "rawstudio": {
         "linux": {
-            "root": "rawstudio",
-            "symlinks": [
-                "io.github.ktgw0316.LightZone",
-                "lightzone"
-            ]
+            "root": "rawstudio"
         }
     },
     "rawtherapee": {
