@@ -1418,7 +1418,11 @@
     },
     "angrysearch": {
         "linux": {
-            "root": "angrysearch"
+            "root": "angrysearch",
+            "symlinks": [
+                "de.philippun1.omgrep",
+                "de.philippun1.Snoop"
+            ]
         }
     },
     "anjuta": {
@@ -6967,6 +6971,7 @@
                 "io.github.diamondburned.gtkcord4",
                 "io.github.spacingbat3.webcord",
                 "org.gnome.gitlab.ranchester.Mirdorph",
+                "so.libdb.gtkcord4",
                 "startarmcord",
                 "web-discord",
                 "webcord",
@@ -8981,6 +8986,7 @@
                 "chrome-npfkoakaabdallkcdbpkkhfilkkngakh-Default",
                 "dev.aunetx.deezer",
                 "eu.tiliado.NuvolaAppDeezer",
+                "io.github.ddanilov.soundscape",
                 "nuvolaplayer3_deezer"
             ]
         }
@@ -12444,6 +12450,18 @@
                 "de.0x539.gobby",
                 "de._0x539.gobby",
                 "gobby-0.5"
+            ]
+        }
+    },
+    "godot": {
+        "linux": {
+            "root": "godot",
+            "symlinks": [
+                "godot-mono",
+                "org.godotengine.Godot",
+                "org.godotengine.Godot3",
+                "org.godotengine.Godot4",
+                "steam_icon_404790"
             ]
         }
     },
@@ -21032,6 +21050,7 @@
         "linux": {
             "root": "opensonic",
             "symlinks": [
+                "io.github.srb2.rphys",
                 "org.srb2.SRB2",
                 "org.srb2.SRB2Kart",
                 "org.srb2.SRB2Kart-galaxy",
@@ -23557,7 +23576,8 @@
                 "kubrick",
                 "org.kde.kubrick",
                 "org.sugarlabs.ColorDeducto",
-                "playbox"
+                "playbox",
+                "xyz.aguno.CubeTimer"
             ]
         }
     },
