@@ -21076,6 +21076,7 @@
                 "org.srb2.SRB2",
                 "org.srb2.SRB2Kart",
                 "org.srb2.SRB2Kart-galaxy",
+                "org.srb2.SRB2Kart-galaxy_azerty",
                 "srb2",
                 "srb2kart"
             ]
@@ -24717,7 +24718,11 @@
     },
     "rawstudio": {
         "linux": {
-            "root": "rawstudio"
+            "root": "rawstudio",
+            "symlinks": [
+                "io.github.ktgw0316.LightZone",
+                "lightzone"
+            ]
         }
     },
     "rawtherapee": {
