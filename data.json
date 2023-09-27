@@ -6566,6 +6566,14 @@
             "root": "decibel"
         }
     },
+    "decibels": {
+        "linux": {
+            "root": "decibels",
+            "symlinks": [
+                "com.vixalien.decibels"
+            ]
+        }
+    },
     "deemo": {
         "android": [
             "com.rayark.pluto/com.google.firebase.MessagingUnityPlayerActivity"
