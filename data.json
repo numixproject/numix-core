@@ -11999,6 +11999,7 @@
             "symlinks": [
                 "music-app",
                 "musicpod",
+                "org.feichtmeier.Musicpod",
                 "org.gnome.Music"
             ]
         }
@@ -29772,7 +29773,10 @@
     },
     "tropy": {
         "linux": {
-            "root": "tropy"
+            "root": "tropy",
+            "symlinks": [
+                "org.tropy.Tropy"
+            ]
         }
     },
     "trse": {
