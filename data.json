@@ -21743,7 +21743,9 @@
         "linux": {
             "root": "passbook",
             "symlinks": [
-                "org.gnome.Passbook"
+                "org.adishatz.syncpasswd",
+                "org.gnome.Passbook",
+                "syncpasswd"
             ]
         }
     },
