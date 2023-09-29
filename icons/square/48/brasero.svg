@@ -1,6 +1,6 @@
 <svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <linearGradient id="linearGradient4192" x1="-47" x2="-1" y1="24" y2="24" gradientTransform="matrix(0,-1,1,0,25,49.901)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="bg" x1="-47" x2="-1" y1="24" y2="24" gradientTransform="matrix(0,-1,1,0,25,49.901)" gradientUnits="userSpaceOnUse">
    <stop style="stop-color:#434343" offset="0"/>
    <stop style="stop-color:#4d4d4d" offset="1"/>
   </linearGradient>
@@ -8,7 +8,7 @@
  <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4zm0 0.5v0.5c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.5c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.02"/>
  <path d="m1 43.25v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.05"/>
  <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
- <rect transform="rotate(-90)" x="-47" y="1" width="46" height="46" rx="4" style="fill:url(#linearGradient4192)"/>
+ <rect transform="rotate(-90)" x="-47" y="1" width="46" height="46" rx="4" style="fill:url(#bg)"/>
  <path d="m24 9a15 15 0 0 0-15 15 15 15 0 0 0 15 15 15 15 0 0 0 15-15 15 15 0 0 0-15-15zm0 13a2 2 0 0 1 2 2 2 2 0 0 1-2 2 2 2 0 0 1-2-2 2 2 0 0 1 2-2z" style="opacity:.1"/>
  <path d="m24 8a15 15 0 0 0-15 15 15 15 0 0 0 4.9375 11.096l15.816 2.7266a15 15 0 0 0 9.2461-13.822 15 15 0 0 0-15-15zm0 13a2 2 0 0 1 2 2 2 2 0 0 1-2 2 2 2 0 0 1-2-2 2 2 0 0 1 2-2z" style="fill:#e0e0e0"/>
  <g transform="translate(0,-1004.4)">
