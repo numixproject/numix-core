@@ -1,14 +1,14 @@
 <svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
-  <linearGradient id="linearGradient3764" gradientTransform="translate(-48 .002215)" gradientUnits="userSpaceOnUse" x1="1" x2="47">
-   <stop offset="0" style="stop-color:#3d3d3d"/>
-   <stop offset="1" style="stop-color:#474747"/>
+  <linearGradient id="bg" gradientTransform="translate(-48" gradientUnits="userSpaceOnUse" x1="1" x2="47">
+   <stop offset="0" style="stop-color:#424242"/>
+   <stop offset="1" style="stop-color:#4c4c4c"/>
   </linearGradient>
  </defs>
  <path d="m 1 43 v .25 c 0 2.216 1.784 4 4 4 h 38 c 2.216 0 4 -1.784 4 -4 v -.25 c 0 2.216 -1.784 4 -4 4 h -38 c -2.216 0 -4 -1.784 -4 -4 z m 0 .5 v .5 c 0 2.216 1.784 4 4 4 h 38 c 2.216 0 4 -1.784 4 -4 v -.5 c 0 2.216 -1.784 4 -4 4 h -38 c -2.216 0 -4 -1.784 -4 -4 z" style="opacity:.02"/>
  <path d="m 1 43.25 v .25 c 0 2.216 1.784 4 4 4 h 38 c 2.216 0 4 -1.784 4 -4 v -.25 c 0 2.216 -1.784 4 -4 4 h -38 c -2.216 0 -4 -1.784 -4 -4 z" style="opacity:.05"/>
  <path d="m 1 43 v .25 c 0 2.216 1.784 4 4 4 h 38 c 2.216 0 4 -1.784 4 -4 v -.25 c 0 2.216 -1.784 4 -4 4 h -38 c -2.216 0 -4 -1.784 -4 -4 z" style="opacity:.1"/>
- <rect height="46" rx="4" style="fill:url(#linearGradient3764)" transform="rotate(-90)" width="46" x="-47" y="1"/>
+ <rect height="46" rx="4" style="fill:url(#bg)" transform="rotate(-90)" width="46" x="-47" y="1"/>
  <path d="m 12 12 v 24 l 24 -2 v -20 m -17 2 h 10 v 8 h -8 v 8 h -2 m 2 -14 v 4 h 6 v -4" style="opacity:.1"/>
  <path d="m 12 11 v 24 l 24 -2 v -20 m -17 2 h 10 v 8 h -8 v 8 h -2 m 2 -14 v 4 h 6 v -4" style="fill:#f9f9f9"/>
  <path d="m 1 39 v 4 c 0 2.216 1.784 4 4 4 h 38 c 2.216 0 4 -1.784 4 -4 v -4 c 0 2.216 -1.784 4 -4 4 h -38 c -2.216 0 -4 -1.784 -4 -4 z" style="opacity:.1"/>
