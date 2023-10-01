@@ -1,14 +1,14 @@
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <linearGradient id="linearGradient7" x1="24" x2="24" y1="1051" y2="1005" gradientTransform="rotate(-90 -478 -478)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#e4e4e4" offset="0"/>
-   <stop stop-color="#eee" offset="1"/>
+  <linearGradient id="bg" x2="0" y1="1" y2="47" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#ededed" offset="0"/>
+   <stop style="stop-color:#e3e3e3" offset="1"/>
   </linearGradient>
  </defs>
- <path d="m5 2c-2.22 0-4 1.78-4 4v37.2c0 2.22 1.78 4 4 4h38c2.22 0 4-1.78 4-4v-37.2c0-2.22-1.78-4-4-4zm-4 41.5v0.5c0 2.22 1.78 4 4 4h38c2.22 0 4-1.78 4-4v-0.5c0 2.22-1.78 4-4 4h-38c-2.22 0-4-1.78-4-4z" style="opacity:.02"/>
+ <path d="m1 43v0.25c0 2.22 1.78 4 4 4h38c2.22 0 4-1.78 4-4v-0.25c0 2.22-1.78 4-4 4h-38c-2.22 0-4-1.78-4-4zm0 0.5v0.5c0 2.22 1.78 4 4 4h38c2.22 0 4-1.78 4-4v-0.5c0 2.22-1.78 4-4 4h-38c-2.22 0-4-1.78-4-4z" style="opacity:.02"/>
  <path d="m1 43.2v0.25c0 2.22 1.78 4 4 4h38c2.22 0 4-1.78 4-4v-0.25c0 2.22-1.78 4-4 4h-38c-2.22 0-4-1.78-4-4z" style="opacity:.05"/>
- <rect x="1" y="1.2" width="46" height="46" rx="4" style="opacity:.1"/>
- <rect x="1" y="1" width="46" height="46" rx="4" style="fill:url(#linearGradient7)"/>
+ <path d="m1 43v0.25c0 2.22 1.78 4 4 4h38c2.22 0 4-1.78 4-4v-0.25c0 2.22-1.78 4-4 4h-38c-2.22 0-4-1.78-4-4z" style="opacity:.1"/>
+ <rect x="1" y="1" width="46" height="46" rx="4" style="fill:url(#bg)"/>
  <path d="m1 39v4c0 2.22 1.78 4 4 4h38c2.22 0 4-1.78 4-4v-4c0 2.22-1.78 4-4 4h-38c-2.22 0-4-1.78-4-4z" style="opacity:.1"/>
  <path d="m24.1 9c-8.24 0-15.1 6.71-15.1 14.9 0 8.24 6.81 15.1 15.1 15.1 8.25 0 14.9-6.81 14.9-15.1 0-8.24-6.7-14.9-14.9-14.9zm0 2.93c6.66 0 12 5.36 12 12 0 6.66-5.36 12.1-12 12.1-6.66 0-12.1-5.46-12.1-12.1 0-6.66 5.47-12 12.1-12zm-5.05 3.07v18l15-9z" style="opacity:.1;stroke-width:3.54"/>
  <path d="m24 8c-8.24 0-15 6.71-15 14.9 0 8.24 6.81 15 15 15 8.25 0 15-6.81 15-15 0-8.24-6.7-14.9-15-14.9m0 2.93c6.66 0 12 5.36 12 12 0 6.66-5.36 12.1-12 12.1-6.66 0-12.1-5.47-12.1-12.1 0-6.66 5.47-12 12.1-12" style="fill:#5860a7"/>
