@@ -9232,7 +9232,11 @@
     },
     "exifcleaner": {
         "linux": {
-            "root": "exifcleaner"
+            "root": "exifcleaner",
+            "symlinks": [
+                "com.github.najepaliya.kleaner",
+                "io.github.najepaliya.kleaner"
+            ]
         }
     },
     "expand-game": {
