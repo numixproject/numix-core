@@ -4889,6 +4889,14 @@
             "root": "caption"
         }
     },
+    "carburetor": {
+        "linux": {
+            "root": "carburetor",
+            "symlinks": [
+                "io.frama.tractor.carburetor"
+            ]
+        }
+    },
     "cardinal": {
         "linux": {
             "root": "cadinal",
