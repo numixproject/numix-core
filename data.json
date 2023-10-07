@@ -8053,6 +8053,14 @@
             ]
         }
     },
+    "dosage": {
+        "linux": {
+            "root": "dosage",
+            "symlinks": [
+                "io.github.diegopvlk.Dosage"
+            ]
+        }
+    },
     "dosbox": {
         "linux": {
             "root": "dosbox",
