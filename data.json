@@ -32519,6 +32519,14 @@
             ]
         }
     },
+    "winezgui": {
+        "linux": {
+            "root": "winezgui",
+            "symlinks": [
+                "io.github.fastrizwaan.WineZGUI"
+            ]
+        }
+    },
     "winff": {
         "linux": {
             "root": "winff"
