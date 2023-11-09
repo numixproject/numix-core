@@ -20349,6 +20349,11 @@
             ]
         }
     },
+    "notify": {
+        "linux": {
+            "root": "com.ranfdev.Notify"
+        }
+    },
     "notifyosdconf": {
         "linux": {
             "root": "notifyosdconf"
