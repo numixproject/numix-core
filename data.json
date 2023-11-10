@@ -15658,7 +15658,10 @@
     },
     "kanatest": {
         "linux": {
-            "root": "kanatest"
+            "root": "kanatest",
+            "symlinks": [
+                "com.felipekinoshita.Kana"
+            ]
         }
     },
     "kanri": {
