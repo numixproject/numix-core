@@ -1387,7 +1387,10 @@
     },
     "android-messages-desktop": {
         "linux": {
-            "root": "android-messages-desktop"
+            "root": "android-messages-desktop",
+            "symlinks": [
+                "AndroidMessages"
+            ]
         }
     },
     "android-sdk": {
