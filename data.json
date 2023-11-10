@@ -9411,6 +9411,8 @@
         "linux": {
             "root": "favagtk",
             "symlinks": [
+                "com.tercad.fingrom",
+                "fingrom",
                 "org.gnome.gitlab.johannesjh.favagtk"
             ]
         }
@@ -27020,8 +27022,8 @@
             "symlinks": [
                 "io.snapcraft.Store",
                 "snap-store",
-                "softwarecenter-ubuntu",
                 "software-store",
+                "softwarecenter-ubuntu",
                 "ubuntusoftware"
             ]
         }
