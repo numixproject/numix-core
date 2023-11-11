@@ -8393,6 +8393,7 @@
         "linux": {
             "root": "dunelegacy",
             "symlinks": [
+                "net.openra.OpenRA-d2k",
                 "net.sourceforge.DuneLegacy"
             ]
         }
@@ -23155,7 +23156,9 @@
                 "cs-keyboard",
                 "eekboard",
                 "input-keyboard",
-                "org.xfce.settings.keyboard"
+                "org.gnome.Tecla",
+                "org.xfce.settings.keyboard",
+                "tecla"
             ]
         }
     },
