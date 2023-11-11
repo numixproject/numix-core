@@ -17402,14 +17402,6 @@
             "root": "lightworks"
         }
     },
-    "lightzone": {
-        "linux": {
-            "root": "lightzone",
-            "symlinks": [
-                "io.github.ktgw0316.LightZone"
-            ]
-        }
-    },
     "limbo": {
         "android": [
             "com.playdead.limbo.full/com.duapps.ad.DuAd",
@@ -30490,7 +30482,11 @@
     },
     "urbanlightscape": {
         "linux": {
-            "root": "urbanlightscape"
+            "root": "urbanlightscape",
+            "symlinks": [
+                "io.github.ktgw0316.LightZone",
+                "lightzone"
+             ]
         }
     },
     "usb-creator": {
