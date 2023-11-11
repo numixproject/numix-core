@@ -2018,7 +2018,8 @@
             "symlinks": [
                 "cr3",
                 "crqt",
-                "io.gitlab.coolreader_ng.crqt-ng"
+                "io.gitlab.coolreader_ng.crqt-ng",
+                "net.sourceforge.artha.Artha"
             ]
         }
     },
@@ -2565,7 +2566,11 @@
     },
     "azpainter": {
         "linux": {
-            "root": "azpainter"
+            "root": "azpainter",
+            "symlinks": [
+                "org.pydpainter.PyDPainter",
+                "pydpainter"
+            ]
         }
     },
     "azuredatastudio": {
@@ -3659,7 +3664,11 @@
     },
     "bug-buddy": {
         "linux": {
-            "root": "bug-buddy"
+            "root": "bug-buddy",
+            "symlinks": [
+                "com.cyberbotics.Webots",
+                "webots"
+            ]
         }
     },
     "buho": {
@@ -6020,7 +6029,8 @@
         "linux": {
             "root": "cpu-x",
             "symlinks": [
-                "CPU-X"
+                "CPU-X",
+                "io.github.thetumultuousunicornofdarkness.cpu-x"
             ]
         }
     },
@@ -11514,6 +11524,7 @@
         "linux": {
             "root": "glossaico",
             "symlinks": [
+                "com.pot_app.pot",
                 "one.jiri.easydict-gtk",
                 "org.codeberg.dimkard.glossaico"
             ]
@@ -13488,6 +13499,8 @@
             "root": "gtkwave",
             "symlinks": [
                 "io.github.gtkwave.GTKWave",
+                "io.github.magnush.mhWaveEdit",
+                "mhwaveedit",
                 "net.sourceforge.GTKWave",
                 "qspectrumanalyzer",
                 "viva"
@@ -17349,7 +17362,8 @@
             "root": "lightsoff",
             "symlinks": [
                 "gnome-lightsoff",
-                "org.gnome.LightsOff"
+                "org.gnome.LightsOff",
+                "page.codeberg.Qwel.egui_picross"
             ]
         }
     },
@@ -20634,8 +20648,7 @@
         "linux": {
             "root": "office-runner",
             "symlinks": [
-                "org.gnome.OfficeRunner",
-                "xyz.slothlife.Jogger"
+                "org.gnome.OfficeRunner"
             ]
         }
     },
@@ -29920,6 +29933,7 @@
             "root": "tryton",
             "symlinks": [
                 "org.tryton.Tryton",
+                "org.tryton.Tryton-70",
                 "tryton-icon"
             ]
         }
@@ -31236,7 +31250,8 @@
             "root": "vscodium",
             "symlinks": [
                 "codium",
-                "com.vscodium.codium"
+                "com.vscodium.codium",
+                "com.vscodium.codium-insiders"
             ]
         }
     },
