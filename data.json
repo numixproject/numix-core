@@ -8689,6 +8689,7 @@
             "root": "eko",
             "symlinks": [
                 "gwaveedit",
+                "io.github.magnush.mhWaveEdit",
                 "mhwaveedit"
             ]
         }
@@ -8971,7 +8972,8 @@
         "linux": {
             "root": "ensembles",
             "symlinks": [
-                "com.github.subhadeepjasu.ensembles"
+                "com.github.subhadeepjasu.ensembles",
+                "org.surge_synth_team.Monique"
             ]
         }
     },
@@ -13499,8 +13501,6 @@
             "root": "gtkwave",
             "symlinks": [
                 "io.github.gtkwave.GTKWave",
-                "io.github.magnush.mhWaveEdit",
-                "mhwaveedit",
                 "net.sourceforge.GTKWave",
                 "qspectrumanalyzer",
                 "viva"
