@@ -1481,6 +1481,14 @@
             "root": "ant-downloader"
         }
     },
+    "antaressql": {
+        "linux": {
+            "root": "antaressql",
+            "symlinks": [
+                "it.fabiodistasio.AntaresSQL"
+            ]
+        }
+    },
     "antichamber": {
         "linux": {
             "root": "steam_icon_219890"
