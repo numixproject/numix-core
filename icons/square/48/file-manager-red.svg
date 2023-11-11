@@ -1,17 +1,18 @@
 <svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <linearGradient id="bg" x2="0" y1="1" y2="47" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#de6040" offset="0"/>
-   <stop style="stop-color:#db522f" offset="1"/>
+  <linearGradient id="bg" x1="1" x2="47" gradientTransform="translate(-48)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#db4a38" offset="0"/>
+   <stop style="stop-color:#de5a4a" offset="1"/>
   </linearGradient>
  </defs>
  <path d="m1 43v0.25c0 2.22 1.78 4 4 4h38c2.22 0 4-1.78 4-4v-0.25c0 2.22-1.78 4-4 4h-38c-2.22 0-4-1.78-4-4zm0 0.5v0.5c0 2.22 1.78 4 4 4h38c2.22 0 4-1.78 4-4v-0.5c0 2.22-1.78 4-4 4h-38c-2.22 0-4-1.78-4-4z" style="opacity:.02"/>
  <path d="m1 43.2v0.25c0 2.22 1.78 4 4 4h38c2.22 0 4-1.78 4-4v-0.25c0 2.22-1.78 4-4 4h-38c-2.22 0-4-1.78-4-4z" style="opacity:.05"/>
  <path d="m1 43v0.25c0 2.22 1.78 4 4 4h38c2.22 0 4-1.78 4-4v-0.25c0 2.22-1.78 4-4 4h-38c-2.22 0-4-1.78-4-4z" style="opacity:.1"/>
- <rect x="1" y="1" width="46" height="46" rx="4" style="fill:url(#bg)"/>
+ <rect transform="rotate(-90)" x="-47" y="1" width="46" height="46" rx="4" style="fill:url(#bg)"/>
  <path d="m1 39v4c0 2.22 1.78 4 4 4h38c2.22 0 4-1.78 4-4v-4c0 2.22-1.78 4-4 4h-38c-2.22 0-4-1.78-4-4z" style="opacity:.1"/>
- <path d="m12 31v2h24v-2z" style="opacity:.1"/>
- <path d="m12 15v3l13 0.997 0.0016-3-1-2h-11c-0.5 0-1 0.5-1 1z" style="fill:#ff8f00"/>
- <rect x="14" y="17" width="11" height="4" style="fill:#fffdf0"/>
- <path d="m36 17.1v14.9h-24v-14h12l1-2h10c0.5 0 1 0.535 1 1.07z" style="fill:#ffca28"/>
+ <path d="m14.5 15c-1.38 0-2.5 1.12-2.5 2.5v9.5h21l-1-12z" style="fill:#ea9036"/>
+ <path d="m12 30v1.5c0 1.38 1.12 2.5 2.5 2.5h19c1.38 0 2.5-1.12 2.5-2.5v-15z" style="opacity:.1"/>
+ <path d="m14.5 15c-1.38 0-2.5 1.12-2.5 2.5v1c0-1.38 1.12-2.5 2.5-2.5h17.5v-1z" style="fill:#fff;opacity:.2"/>
+ <path d="m27 13c-4 0-2 6-8 6h-4.5c-1.38 0-2.5 1.12-2.5 2.5v9c0 1.38 1.12 2.5 2.5 2.5h19c1.38 0 2.5-1.12 2.5-2.5v-15c0-1.38-1.12-2.5-2.5-2.5z" style="fill:#f2bb64"/>
+ <path d="m12 29.5v1c0 1.38 1.12 2.5 2.5 2.5h19c1.38 0 2.5-1.12 2.5-2.5v-1c0 1.38-1.12 2.5-2.5 2.5h-19c-1.38 0-2.5-1.12-2.5-2.5z" style="opacity:.15"/>
 </svg>
