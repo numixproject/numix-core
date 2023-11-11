@@ -13851,7 +13851,8 @@
         "linux": {
             "root": "harvey",
             "symlinks": [
-                "com.github.danrabbit.harvey"
+                "com.github.danrabbit.harvey",
+                "io.github.danrabbit.harvey"
             ]
         }
     },
@@ -14507,6 +14508,7 @@
                 "gtk3-icon-browser",
                 "gtk4-icon-browser",
                 "ikona",
+                "io.github.danrabbit.lookbook",
                 "org.gnome.design.AppIconPreview",
                 "org.gnome.IconPreview",
                 "org.gtk.IconBrowser",
@@ -20139,6 +20141,7 @@
                 "com.gitlab.bitseater.meteo",
                 "io.elementary.meteo",
                 "io.github.amit9838.weather",
+                "io.github.danirabbit.nimbus",
                 "kweather",
                 "org.kde.kweather"
             ]
@@ -21618,7 +21621,11 @@
     },
     "palemoon": {
         "linux": {
-            "root": "palemoon"
+            "root": "palemoon",
+            "symlinks": [
+                "astroimpact",
+                "com.voxdsp.AstroImpact"
+            ]
         }
     },
     "paleta": {
