@@ -2799,6 +2799,14 @@
             ]
         }
     },
+    "batteryinfo": {
+        "linux": {
+            "root": "batteryinfo",
+            "symlinks": [
+                "com.her01n.BatteryInfo"
+            ]
+        }
+    },
     "battleblock-theater": {
         "linux": {
             "root": "steam_icon_238460"
