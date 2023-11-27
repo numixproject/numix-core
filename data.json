@@ -28261,7 +28261,10 @@
     },
     "swappy": {
         "linux": {
-            "root": "swappy"
+            "root": "swappy",
+            "symlinks": [
+                "me.jtheoof.swappy"
+            ]
         }
     },
     "swatchbooker": {
