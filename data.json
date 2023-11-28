@@ -7079,7 +7079,11 @@
     },
     "disper": {
         "linux": {
-            "root": "disper"
+            "root": "disper",
+            "symlinks": [
+                "burnfix",
+                "io.github.vinser.burnfix"
+            ]
         }
     },
     "displaycal": {
