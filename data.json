@@ -9378,6 +9378,15 @@
             ]
         }
     },
+    "f-wallet": {
+        "linux": {
+            "root": "f-wallet",
+            "symlinks": [
+                "business.braid.f_wallet",
+                "f_wallet"
+            ]
+        }
+    },
     "f1-2015": {
         "linux": {
             "root": "steam_icon_286570"
