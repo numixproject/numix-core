@@ -5124,6 +5124,14 @@
             "root": "Charm"
         }
     },
+    "chatbox": {
+        "linux": {
+            "root": "chatbox",
+            "symlinks": [
+                "xyz.chatboxapp.app"
+            ]
+        }
+    },
     "chatterino": {
         "linux": {
             "root": "chatterino",
