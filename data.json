@@ -29881,8 +29881,6 @@
             "symlinks": [
                 "io.github.TransmissionRemoteGtk",
                 "org.equeim.Tremotesf",
-                "transgui",
-                "transgui-2",
                 "transmission-gtk",
                 "transmission-qt",
                 "transmission-remote-gtk",
@@ -29933,6 +29931,16 @@
     "tresorit": {
         "linux": {
             "root": "tresorit"
+        }
+    },
+    "trgui-ng": {
+        "linux": {
+            "root": "trgui-ng",
+            "symlinks": [
+                "org.openscopeproject.TrguiNG",
+                "transgui",
+                "transgui-2"
+            ]
         }
     },
     "tribler": {
