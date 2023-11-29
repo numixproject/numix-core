@@ -15698,7 +15698,6 @@
         "linux": {
             "root": "kaiteki",
             "symlinks": [
-                "mahjong",
                 "app.kaiteki.Kaiteki"
             ]
         }
@@ -28881,7 +28880,10 @@
     },
     "telegram-simple": {
         "linux": {
-            "root": "telegram-simple"
+            "root": "telegram-simple",
+            "symlinks": [
+                "forkgram"
+            ]
         }
     },
     "teleport": {
