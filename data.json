@@ -15694,6 +15694,15 @@
             "root": "steam_icon_233230"
         }
     },
+    "kaiteki": {
+        "linux": {
+            "root": "kaiteki",
+            "symlinks": [
+                "mahjong",
+                "app.kaiteki.Kaiteki"
+            ]
+        }
+    },
     "kajongg": {
         "linux": {
             "root": "kajongg",
