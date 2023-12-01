@@ -15028,7 +15028,12 @@
         "linux": {
             "root": "ipython",
             "symlinks": [
-                "ipython3"
+                "ipython-console",
+                "ipython3",
+                "jupyter-console",
+                "jupyter-qtconsole"
+                "JupyterConsole",
+                "jupyterconsole"
             ]
         }
     },
@@ -33109,6 +33114,7 @@
                 "com.fyralabs.Enigma",
                 "com.gitlab.JakobDev.jdTextEdit",
                 "jdTextEdit",
+                "jupyter-notebook",
                 "kwrite",
                 "org.kde.kwrite",
                 "page.codeberg.JakobDev.jdTextEdit",
