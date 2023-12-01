@@ -15658,6 +15658,14 @@
             ]
         }
     },
+        "jupyter-nbclassic": {
+        "linux": {
+            "root": "jupyter-nbclassic",
+            "symlinks": [
+                "nbclassic"
+            ]
+        }
+    },
     "jvgs": {
         "linux": {
             "root": "jvgs"
