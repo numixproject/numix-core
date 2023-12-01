@@ -17166,7 +17166,10 @@
     },
     "libation": {
         "linux": {
-            "root": "libation"
+            "root": "libation",
+            "symlinks": [
+                "com.github.aggalex.wineglass"
+            ]
         }
     },
     "libinput-gestures": {
