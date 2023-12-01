@@ -10259,7 +10259,11 @@
     },
     "font-editor": {
         "linux": {
-            "root": "font-editor"
+            "root": "font-editor",
+            "symlinks": [
+                "MFEKglif",
+                "org.mfek.MFEKglif"
+            ]
         }
     },
     "font-manager": {
@@ -15031,7 +15035,7 @@
                 "ipython-console",
                 "ipython3",
                 "jupyter-console",
-                "jupyter-qtconsole"
+                "jupyter-qtconsole",
                 "JupyterConsole",
                 "jupyterconsole"
             ]
