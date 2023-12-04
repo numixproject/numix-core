@@ -23231,7 +23231,6 @@
                 "cs-screen",
                 "deepin-graphics-driver-manager",
                 "display-capplet",
-                "gddccontrol",
                 "gnome-display-properties",
                 "gnome-dsiplay-properties",
                 "mate-preferences-desktop-display",
@@ -23243,7 +23242,10 @@
     },
     "preferences-desktop-display-color": {
         "linux": {
-            "root": "preferences-desktop-display-color"
+            "root": "preferences-desktop-display-color",
+            "symlinks": [
+                "gddccontrol"
+            ]
         }
     },
     "preferences-desktop-emoticons": {
