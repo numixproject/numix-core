@@ -22159,7 +22159,10 @@
     },
     "pdfsam": {
         "linux": {
-            "root": "pdfsam"
+            "root": "pdfsam",
+            "symlinks": [
+                "pdfsam-basic"
+            ]
         }
     },
     "pdfshuffler": {
