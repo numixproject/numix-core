@@ -24657,7 +24657,9 @@
         "linux": {
             "root": "quake",
             "symlinks": [
-                "quake-shareware"
+                "net.sourceforge.quakespasm.Quakespasm",
+                "quake-shareware",
+                "quakespasm"
             ]
         }
     },
@@ -28915,7 +28917,7 @@
             "root": "telegram",
             "symlinks": [
                 "app.drey.PaperPlane",
-                "brave-majiogicmcnmdhhlgmkahaleckhjbmlk-Default"
+                "brave-majiogicmcnmdhhlgmkahaleckhjbmlk-Default",
                 "chrome-clhhggbfdinjmjhajaheehoeibfljjno-Default",
                 "chrome-majiogicmcnmdhhlgmkahaleckhjbmlk-Default",
                 "com.github.melix99.telegrand",
