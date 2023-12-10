@@ -9962,7 +9962,9 @@
         "linux": {
             "root": "firmware-updater",
             "symlinks": [
-                "firmware"
+                "firmware",
+                "fr.dwightstudio.JArmEmu",
+                "jarmemu"
             ]
         }
     },
