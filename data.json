@@ -2363,6 +2363,15 @@
             ]
         }
     },
+    "audiostellar": {
+        "linux": {
+            "root": "audiostellar",
+            "symlinks": [
+                "xyz.audiostellar.AudioStellar",
+                "xyz.ayrsd.AudioStellar"
+            ]
+        }
+    },
     "audiosurf-2": {
         "linux": {
             "root": "steam_icon_235800",
