@@ -9583,7 +9583,10 @@
     },
     "fedy": {
         "linux": {
-            "root": "fedy"
+            "root": "fedy",
+            "symlinks": [
+                "app.drey.Toggle"
+            ]
         }
     },
     "feedly": {
