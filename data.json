@@ -10543,7 +10543,8 @@
             "symlinks": [
                 "org.freeciv.Freeciv",
                 "org.freeciv.gtk322",
-                "org.freeciv.qt"
+                "org.freeciv.qt",
+                "org.freeciv.sdl"
             ]
         }
     },
@@ -15023,7 +15024,8 @@
         "linux": {
             "root": "iotas",
             "symlinks": [
-                "org.gnome.gitlab.cheywood.Iotas"
+                "org.gnome.gitlab.cheywood.Iotas",
+                "org.gnome.World.Iotas"
             ]
         }
     },
@@ -31520,7 +31522,8 @@
             "symlinks": [
                 "codium",
                 "com.vscodium.codium",
-                "com.vscodium.codium-insiders"
+                "com.vscodium.codium-insiders",
+                "vscodium-insiders"
             ]
         }
     },
@@ -32018,8 +32021,11 @@
         "linux": {
             "root": "web-instagram",
             "symlinks": [
+                "brave-akpamiohjfcnimfljfndmaldlcfphjmp-Default",
+                "chrome-akpamiohjfcnimfljfndmaldlcfphjmp-Default",
                 "chrome-eknidjojcplfcgkoffboklcbfhmcdhip-Default",
                 "chrome-oacfdfgmgfbpgjgpgghdcjfaajdiggho-Default",
+                "msedge-akpamiohjfcnimfljfndmaldlcfphjmp-Default",
                 "ramme",
                 "unity-webapps-instagram"
             ]
