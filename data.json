@@ -8430,6 +8430,14 @@
             "root": "dukto"
         }
     },
+    "dune3d": {
+        "linux": {
+            "root": "dune3d",
+            "symlinks": [
+                "org.dune3d.dune3d"
+            ]
+        }
+    },
     "dunelegacy": {
         "linux": {
             "root": "dunelegacy",
