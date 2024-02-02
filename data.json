@@ -5302,6 +5302,7 @@
                 "com.github.mrvladus.List",
                 "com.github.ransome1.sleek",
                 "com.todotxt.sleek",
+                "errands",
                 "io.github.mrvladus.List",
                 "org.kde.merkuro"
             ]
@@ -12215,7 +12216,10 @@
     },
     "gnome-pie": {
         "linux": {
-            "root": "gnome-pie"
+            "root": "gnome-pie",
+            "symlinks": [
+                "kando"
+            ]
         }
     },
     "gnome-podcasts": {
