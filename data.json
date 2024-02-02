@@ -25192,6 +25192,14 @@
             ]
         }
     },
+    "reckoner": {
+        "linux": {
+            "root": "reckoner",
+            "symlinks": [
+                "finance.reckoner.Reckoner"
+            ]
+        }
+    },
     "recoll": {
         "linux": {
             "root": "recoll"
