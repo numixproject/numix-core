@@ -26333,6 +26333,14 @@
             "root": "setroubleshoot_icon"
         }
     },
+    "seabird": {
+        "linux": {
+            "root": "seabird",
+            "symlinks": [
+                "dev.skynomads.Seabird"
+            ]
+        }
+    },
     "seafile": {
         "linux": {
             "root": "seafile",
