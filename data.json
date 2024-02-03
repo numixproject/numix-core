@@ -28137,6 +28137,14 @@
             ]
         }
     },
+    "stimulator": {
+        "linux": {
+            "root": "stimulator",
+            "symlinks": [
+                "io.github.sigmasd.stimulator"
+            ]
+        }
+    },
     "stm32workbench": {
         "linux": {
             "root": "stm32workbench",
