@@ -2706,6 +2706,15 @@
             ]
         }
     },
+    "bambu-studio": {
+        "linux": {
+            "root": "bambu-studio",
+            "symlinks": [
+                "BambuStudio",
+                "com.bambulab.BambuStudio"
+            ]
+        }
+    },
     "banking": {
         "linux": {
             "root": "banking",
@@ -28417,12 +28426,7 @@
     },
     "svgcleaner": {
         "linux": {
-            "root": "svgcleaner",
-            "symlinks": [
-                "panelcleaner",
-                "pcleaner-gui",
-                "io.github.voxelcubes.panelcleaner"
-            ]
+            "root": "svgcleaner"
         }
     },
     "svgvi": {
@@ -30463,7 +30467,12 @@
     },
     "ubuntu-cleaner": {
         "linux": {
-            "root": "ubuntu-cleaner"
+            "root": "ubuntu-cleaner",
+            "symlinks": [
+                "panelcleaner",
+                "pcleaner-gui",
+                "io.github.voxelcubes.panelcleaner"
+            ]
         }
     },
     "ubuntu-kylin-software-center": {
