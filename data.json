@@ -9320,7 +9320,8 @@
             "symlinks": [
                 "gnome-pdf",
                 "org.gnome.Evince",
-                "org.gnome.Evince-previewer"
+                "org.gnome.Evince-previewer",
+                "org.gnome.Papers"
             ]
         }
     },
@@ -30485,9 +30486,9 @@
         "linux": {
             "root": "ubuntu-cleaner",
             "symlinks": [
-                "panelcleaner",
+                "io.github.voxelcubes.panelcleaner",
                 "pcleaner-gui",
-                "io.github.voxelcubes.panelcleaner"
+                "panelcleaner"
             ]
         }
     },
