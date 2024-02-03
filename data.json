@@ -20909,6 +20909,15 @@
             "root": "onboard-settings"
         }
     },
+    "one-click-backup": {
+        "linux": {
+            "root": "one-click-backup",
+            "symlinks": [
+                "io.gitlab.dev_nis.one-click-backup",
+                "NIS_One-Click-Backup_Qt"
+            ]
+        }
+    },
     "oneshot": {
         "linux": {
             "root": "steam_icon_420530"
