@@ -18377,6 +18377,7 @@
         "linux": {
             "root": "masterpassword-gui",
             "symlinks": [
+                "io.github.bkueng.qMasterPassword"
                 "org.emilien.Password",
                 "qmasterpassword"
             ]
@@ -19701,6 +19702,8 @@
         "linux": {
             "root": "multisystem",
             "symlinks": [
+                "boxbuddy-rs",
+                "io.github.dvlv.boxbuddyrs",
                 "multisystem-liveusb"
             ]
         }
