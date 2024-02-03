@@ -28417,7 +28417,12 @@
     },
     "svgcleaner": {
         "linux": {
-            "root": "svgcleaner"
+            "root": "svgcleaner",
+            "symlinks": [
+                "panelcleaner",
+                "pcleaner-gui",
+                "io.github.voxelcubes.panelcleaner"
+            ]
         }
     },
     "svgvi": {
