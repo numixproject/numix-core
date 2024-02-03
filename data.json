@@ -17724,6 +17724,14 @@
             ]
         }
     },
+    "localchat": {
+        "linux": {
+            "root": "localchat",
+            "symlinks": [
+                "local-chat"
+            ]
+        }
+    },
     "localsend": {
         "linux": {
             "root": "localsend",
