@@ -3147,7 +3147,10 @@
     },
     "blank-up": {
         "linux": {
-            "root": "BlankUp"
+            "root": "BlankUp",
+            "symlinks": [
+                "Bluestone"
+            ]
         }
     },
     "blanket": {
@@ -10260,6 +10263,11 @@
         ],
         "linux": {
             "root": "fluxgui"
+        }
+    },
+    "flying-carpet": {
+        "linux": {
+            "root": "flying-carpet"
         }
     },
     "fmit": {
