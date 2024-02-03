@@ -6502,6 +6502,14 @@
             ]
         }
     },
+    "dangerzone": {
+        "linux": {
+            "root": "dangerzone",
+            "symlinks": [
+                "press.freedom.dangerzone"
+            ]
+        }
+    },
     "dark-echo": {
         "linux": {
             "root": "steam_icon_368650"
@@ -30507,8 +30515,8 @@
             "root": "ubuntu-cleaner",
             "symlinks": [
                 "io.github.voxelcubes.panelcleaner",
-                "pcleaner-gui",
-                "panelcleaner"
+                "panelcleaner",
+                "pcleaner-gui"
             ]
         }
     },
