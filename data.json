@@ -24011,7 +24011,10 @@
     },
     "pwsafe": {
         "linux": {
-            "root": "pwsafe"
+            "root": "pwsafe",
+            "symlinks": [
+                "org.pwsafe.pwsafe"
+            ]
         }
     },
     "pybik": {
