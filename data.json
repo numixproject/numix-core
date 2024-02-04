@@ -33556,6 +33556,14 @@
             "root": "steam_icon_223830"
         }
     },
+    "xeyes": {
+        "linux": {
+            "root": "xeyes",
+            "symlinks": [
+                "org.freedesktop.xorg.xeyes"
+            ]
+        }
+    },
     "xfce4-appfinder": {
         "linux": {
             "root": "xfce4-appfinder",
