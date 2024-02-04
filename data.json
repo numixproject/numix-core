@@ -27042,6 +27042,15 @@
             ]
         }
     },
+    "simplesteamtinker": {
+        "linux": {
+            "root": "simplesteamtinker",
+            "symlinks": [
+                "com.valvesoftware.Steam.Utility.steamtinkerlaunch",
+                "steamtinkerlaunch"
+            ]
+        }
+    },
     "simsu": {
         "linux": {
             "root": "simsu",
@@ -28194,13 +28203,11 @@
             "root": "steamskinmanager",
             "symlinks": [
                 "adwaita-steam-gtk",
-                "com.valvesoftware.Steam.Utility.steamtinkerlaunch",
                 "crankshaft",
                 "io.github.Foldex.AdwSteamGtk",
                 "io.github.tralph3.Steam_Metadata_Editor",
                 "space.crankshaft.Crankshaft",
-                "steam-metadata-editor",
-                "steamtinkerlaunch"
+                "steam-metadata-editor"
             ]
         }
     },
