@@ -34059,6 +34059,14 @@
             ]
         }
     },
+    "zaproxy": {
+        "linux": {
+            "root": "zaproxy",
+            "symlinks": [
+                "org.zaproxy.ZAP"
+            ]
+        }
+    },
     "zathura": {
         "linux": {
             "root": "zathura",
