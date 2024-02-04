@@ -4929,6 +4929,7 @@
             "symlinks": [
                 "cz.cvut.edu.comparch.qtrvsim",
                 "openhardwaremonitor",
+                "pcb",
                 "qtrvsim"
             ]
         }
@@ -6125,7 +6126,7 @@
         "linux": {
             "root": "cpuinfo",
             "symlinks": [
-                "pcb"
+                "us.tylerc.cycles"
             ]
         }
     },
