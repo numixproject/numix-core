@@ -8731,6 +8731,14 @@
             "root": "edrawmax"
         }
     },
+    "eeman": {
+        "linux": {
+            "root": "eeman",
+            "symlinks": [
+                "sh.shuriken.Eeman"
+            ]
+        }
+    },
     "eeschema": {
         "linux": {
             "root": "eeschema",
@@ -15110,6 +15118,7 @@
         "linux": {
             "root": "iptvnator",
             "symlinks": [
+                "io.github.yuki_iptv.yuki-iptv",
                 "sopcast-player",
                 "yuki-iptv"
             ]
