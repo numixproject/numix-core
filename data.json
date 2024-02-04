@@ -26610,7 +26610,11 @@
     },
     "serious-sam-3-bfe": {
         "linux": {
-            "root": "steam_icon_41070"
+            "root": "steam_icon_41070",
+            "symlinks": [
+                "io.itch.tx00100xt.SeriousSamClassic",
+                "serioussam"
+            ]
         }
     },
     "servatrice": {
