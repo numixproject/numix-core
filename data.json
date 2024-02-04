@@ -19626,7 +19626,10 @@
     },
     "mucommander": {
         "linux": {
-            "root": "mucommander"
+            "root": "mucommander",
+            "symlinks": [
+                "com.mucommander.Mucommander"
+            ]
         }
     },
     "mudlet": {
