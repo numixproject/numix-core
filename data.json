@@ -3788,6 +3788,14 @@
             "stericson.busybox/stericson.busybox.Activity.MainActivity"
         ]
     },
+    "butler": {
+        "linux": {
+            "root": "butler",
+            "symlinks": [
+                "com.cassidyjames.butler"
+            ]
+        }
+    },
     "butt": {
         "linux": {
             "root": "butt"
