@@ -22827,6 +22827,15 @@
             "root": "org.freedesktop.Piper"
         }
     },
+    "pipeline": {
+        "linux": {
+            "root": "pipeline",
+            "symlinks": [
+                "de.schmidhuberj.tubefeeder",
+                "Pipeline"
+            ]
+        }
+    },
     "pipewalker": {
         "linux": {
             "root": "pipewalker",
@@ -30430,11 +30439,7 @@
     },
     "tubefeeder": {
         "linux": {
-            "root": "tubefeeder",
-            "symlinks": [
-                "de.schmidhuberj.tubefeeder",
-                "Pipeline"
-            ]
+            "root": "tubefeeder"
         }
     },
     "tumblr": {
