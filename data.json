@@ -30859,7 +30859,11 @@
     },
     "uqm": {
         "linux": {
-            "root": "uqm"
+            "root": "uqm",
+            "symlinks": [
+                "net.sourceforge.uqm_mods.UQM-MegaMod",
+                "UrQuanMasters"
+            ]
         }
     },
     "urbanlightscape": {
