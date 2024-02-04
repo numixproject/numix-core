@@ -3663,6 +3663,7 @@
             "symlinks": [
                 "com.github.micahflee.torbrowser-launcher",
                 "org.torproject.torbrowser",
+                "org.torproject.torbrowser-launcher",
                 "tor-browser",
                 "tor-browser-en",
                 "torbrowser"
@@ -19896,6 +19897,7 @@
         "linux": {
             "root": "mygnuhealth",
             "symlinks": [
+                "org.gnuhealth.mygnuhealth",
                 "org.kde.mygnuhealth"
             ]
         }
@@ -29027,6 +29029,7 @@
             "root": "teamspeak",
             "symlinks": [
                 "com.teamspeak.TeamSpeak",
+                "com.teamspeak.TeamSpeak3",
                 "teamspeak3",
                 "ts3client_linux_amd64"
             ]
@@ -30854,6 +30857,11 @@
             "root": "upterm"
         }
     },
+    "uqm": {
+        "linux": {
+            "root": "uqm"
+        }
+    },
     "urbanlightscape": {
         "linux": {
             "root": "urbanlightscape",
@@ -31561,7 +31569,10 @@
     },
     "vnote": {
         "linux": {
-            "root": "vnote"
+            "root": "vnote",
+            "symlinks": [
+                "fun.vnote.app.VNote"
+            ]
         }
     },
     "vocal": {
