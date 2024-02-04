@@ -26766,8 +26766,10 @@
         "linux": {
             "root": "sfxr-qt",
             "symlinks": [
+                "com.saivert.pwvucontrol.desktop",
                 "Pulsemeeter",
-                "pulsemeeter"
+                "pulsemeeter",
+                "pwvucontrol"
             ]
         }
     },
