@@ -22822,11 +22822,6 @@
             "root": "pioneers-server"
         }
     },
-    "piper": {
-        "linux": {
-            "root": "org.freedesktop.Piper"
-        }
-    },
     "pipeline": {
         "linux": {
             "root": "pipeline",
@@ -22834,6 +22829,11 @@
                 "de.schmidhuberj.tubefeeder",
                 "Pipeline"
             ]
+        }
+    },
+    "piper": {
+        "linux": {
+            "root": "org.freedesktop.Piper"
         }
     },
     "pipewalker": {
@@ -32574,6 +32574,7 @@
             "symlinks": [
                 "com.mastermindzh.tidal-hifi",
                 "eu.tiliado.NuvolaAppTidal",
+                "io.github.nokse22.high-tide",
                 "nuvolaplayer3_tidal",
                 "tidal",
                 "tidal-hifi"
