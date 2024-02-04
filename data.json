@@ -25146,6 +25146,14 @@
             "root": "rationalplan-single"
         }
     },
+    "raven": {
+        "linux": {
+            "root": "raven",
+            "symlinks": [
+                "ca.uwaterloo.Raven"
+            ]
+        }
+    },
     "rawstudio": {
         "linux": {
             "root": "rawstudio"
