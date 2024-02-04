@@ -25149,10 +25149,7 @@
     },
     "raven": {
         "linux": {
-            "root": "raven",
-            "symlinks": [
-                "ca.uwaterloo.Raven"
-            ]
+            "root": "ca.uwaterloo.Raven"
         }
     },
     "rawstudio": {
@@ -28229,6 +28226,7 @@
         "linux": {
             "root": "strawberry",
             "symlinks": [
+                "com.exok.Celeste64",
                 "org.strawberrymusicplayer.strawberry"
             ]
         }
