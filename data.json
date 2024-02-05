@@ -31358,6 +31358,14 @@
             "root": "vertris"
         }
     },
+    "vesktop": {
+        "linux": {
+            "root": "vesktop",
+            "symlinks": [
+                "dev.vencord.Vesktop"
+            ]
+        }
+    },
     "veusz": {
         "linux": {
             "root": "veusz",
