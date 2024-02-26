@@ -18319,6 +18319,14 @@
             ]
         }
     },
+    "mana": {
+        "linux": {
+            "root": "mana",
+            "symlinks": [
+                "org.manasource.Mana"
+            ]
+        }
+    },
     "manager-accounting": {
         "linux": {
             "root": "manager-accounting"
