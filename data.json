@@ -11546,6 +11546,14 @@
             "root": "git-it"
         }
     },
+    "gitbutler": {
+        "linux": {
+            "root": "gitbutler",
+            "symlinks": [
+                "com.gitbutler.gitbutler"
+            ]
+        }
+    },
     "gitahead": {
         "linux": {
             "root": "gitahead",
