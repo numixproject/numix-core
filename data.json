@@ -21365,6 +21365,14 @@
             "root": "openbve"
         }
     },
+    "openchrom": {
+        "linux": {
+            "root": "openchrom",
+            "symlinks": [
+                "com.lablicate.OpenChrom"
+            ]
+        }
+    },
     "openclonk": {
         "linux": {
             "root": "openclonk",
