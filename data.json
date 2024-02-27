@@ -10933,7 +10933,10 @@
     },
     "funkin": {
         "linux": {
-            "root": "funkin"
+            "root": "funkin",
+            "symlinks": [
+                "io.github.shadowmario.fnf-psychengine"
+            ]
         }
     },
     "funkplot-gui": {
