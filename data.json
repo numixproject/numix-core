@@ -5139,6 +5139,14 @@
             ]
         }
     },
+        "celestia": {
+        "linux": {
+            "root": "celestia",
+            "symlinks": [
+                "space.celestiaproject.Celestia"
+            ]
+        }
+    },
     "celluloid": {
         "linux": {
             "root": "celluloid",
@@ -11546,14 +11554,6 @@
             "root": "git-it"
         }
     },
-    "gitbutler": {
-        "linux": {
-            "root": "gitbutler",
-            "symlinks": [
-                "com.gitbutler.gitbutler"
-            ]
-        }
-    },
     "gitahead": {
         "linux": {
             "root": "gitahead",
@@ -11561,6 +11561,14 @@
                 "com.github.Murmele.Gittyup",
                 "gittyup",
                 "io.github.gitahed.Gitahead"
+            ]
+        }
+    },
+    "gitbutler": {
+        "linux": {
+            "root": "gitbutler",
+            "symlinks": [
+                "com.gitbutler.gitbutler"
             ]
         }
     },
@@ -28273,8 +28281,7 @@
         "linux": {
             "root": "stellarium",
             "symlinks": [
-                "celestia",
-                "org.stellarium.Stellarium"
+                "org.stellarium.Stellarium",
             ]
         }
     },
