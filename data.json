@@ -31254,7 +31254,11 @@
     },
     "valama": {
         "linux": {
-            "root": "valama"
+            "root": "valama",
+            "symlinks": [
+                "org.roojs.roobuilder.json",
+                "roobuilder"
+            ]
         }
     },
     "valdo-gtk": {
