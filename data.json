@@ -10072,6 +10072,14 @@
             ]
         }
     },
+    "firo": {
+        "linux": {
+            "root": "firo",
+            "symlinks": [
+                "org.firo.firo-qt"
+            ]
+        }
+    },
     "fish-shell": {
         "linux": {
             "root": "fish"
@@ -24653,6 +24661,7 @@
         "linux": {
             "root": "qpdfview",
             "symlinks": [
+                "br.eng.silas.qpdftools",
                 "epdfview",
                 "pdf-presenter-console",
                 "xreader"
@@ -32852,7 +32861,7 @@
             ]
         }
     },
-     "webapps": {
+    "webapps": {
         "linux": {
             "root": "net.codelogistics.webapps"
         }
