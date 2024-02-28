@@ -24852,6 +24852,14 @@
             ]
         }
     },
+    "qtel": {
+        "linux": {
+            "root": "qtel",
+            "symlinks": [
+                "org.svxlink.Qtel"
+            ]
+        }
+    },
     "qtiplot": {
         "linux": {
             "root": "qtiplot",
