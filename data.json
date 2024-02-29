@@ -33599,6 +33599,14 @@
             ]
         }
     },
+    "x11-calc": {
+        "linux": {
+            "root": "x11-calc",
+            "symlinks": [
+                "io.github.mike632t.x11_calc"
+            ]
+        }
+    },
     "x2goclient": {
         "linux": {
             "root": "x2goclient"
