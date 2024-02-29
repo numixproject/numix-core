@@ -25999,8 +25999,7 @@
             "root": "roxterm",
             "symlinks": [
                 "com.fyralabs.Accelerator",
-                "funterm",
-                "org.gnome.Prompt"
+                "funterm"
             ]
         }
     },
@@ -29429,7 +29428,10 @@
     },
     "terminal-tango": {
         "linux": {
-            "root": "terminal-tango"
+            "root": "terminal-tango",
+            "symlinks": [
+                "org.gnome.Ptyxis"
+            ]
         }
     },
     "terminator": {
