@@ -1274,6 +1274,15 @@
             ]
         }
     },
+    "amcsquad": {
+        "linux": {
+            "root": "amcsquad",
+            "symlinks": [
+                "io.itch.amcsquad.amc-squad",
+                "io.itch.amcsquad.amcsquad"
+            ]
+        }
+    },
     "amd": {
         "android": [
             "com.amd.link/com.amd.link.view.activities.MainActivity",
