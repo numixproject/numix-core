@@ -10278,6 +10278,14 @@
             "root": "flojoy-studio"
         }
     },
+    "floodlight-presenter": {
+        "linux": {
+            "root": "floodlight-presenter",
+            "symlinks": [
+                "io.gitlab.floodlight.Presenter"
+            ]
+        }
+    },
     "floorp": {
         "linux": {
             "root": "floorp",
