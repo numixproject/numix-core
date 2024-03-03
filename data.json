@@ -23164,6 +23164,14 @@
             "root": "plume-creator"
         }
     },
+    "pmim-ibus": {
+        "linux": {
+            "root": "pmim-ibus",
+            "symlinks": [
+                "io.github.fm_elpac.pmim_ibus"
+            ]
+        }
+    },
     "podbrowser": {
         "linux": {
             "root": "podbrowser"
