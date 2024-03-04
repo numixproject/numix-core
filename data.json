@@ -20305,8 +20305,10 @@
         "linux": {
             "root": "neovim",
             "symlinks": [
+                "dev.neovide.neovide",
                 "io.neovim.nvim",
                 "light_neovim_gtk",
+                "neovide",
                 "nvim",
                 "nvim-gtk",
                 "nvim-qt",
