@@ -30280,6 +30280,14 @@
             "root": "torrenttools"
         }
     },
+    "torrserver": {
+        "linux": {
+            "root": "torrserver",
+            "symlinks": [
+                "io.github.YouROK.TorrServer"
+            ]
+        }
+    },
     "tortoisehg": {
         "linux": {
             "root": "thg_logo",
