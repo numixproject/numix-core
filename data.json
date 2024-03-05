@@ -11075,6 +11075,15 @@
             "root": "steam_icon_239820"
         }
     },
+    "gameeky": {
+        "linux": {
+            "root": "gameky2",
+            "symlinks": [
+                "dev.tchx84.Gameeky",
+                "dev.tchx84.Gameeky.Devel"
+            ]
+        }
+    },
     "gamemaker-studio-2": {
         "linux": {
             "root": "gamemaker-studio-2",
