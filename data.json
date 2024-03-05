@@ -27327,6 +27327,16 @@
             ]
         }
     },
+    "skladnik": {
+        "linux": {
+            "root": "skladnik",
+            "symlinks": [
+                "ksokoban",
+                "org.kde.ksokoban",
+                "org.kde.skladnik"
+            ]
+        }
+    },
     "skribisto": {
         "linux": {
             "root": "skribisto",
