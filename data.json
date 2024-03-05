@@ -3565,7 +3565,11 @@
     },
     "braindump": {
         "linux": {
-            "root": "braindump"
+            "root": "braindump",
+            "symlinks": [
+                "klevernotes",
+                "org.kde.klevernotes"
+            ]
         }
     },
     "brainworkshop": {
@@ -23884,7 +23888,6 @@
                 "com.fyralabs.Nixie",
                 "config-date",
                 "cs-date-time",
-                "era",
                 "gnome-panel-clock",
                 "gnome-set-time",
                 "gtubeclock",
