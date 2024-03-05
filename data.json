@@ -4264,6 +4264,7 @@
                 "calendar-blue-31",
                 "chrome-ejjicmeblgpmajnghnpcppodonldlgfn-Default",
                 "com.github.calo001.luna",
+                "google-agenda",
                 "kalendar",
                 "orage",
                 "orage_globaltime",
@@ -14969,7 +14970,8 @@
         "linux": {
             "root": "iViewer",
             "symlinks": [
-                "app.bluebubbles.BlueBubbles"
+                "app.bluebubbles.BlueBubbles",
+                "google-messages"
             ]
         }
     },
@@ -18644,6 +18646,7 @@
             "symlinks": [
                 "co.tauos.Buds",
                 "communicator",
+                "google-contacts",
                 "io.elementary.friends",
                 "net.sourceforge.osmo",
                 "org.kde.communicator",
@@ -19711,9 +19714,13 @@
         "linux": {
             "root": "ms-teams",
             "symlinks": [
+                "brave-cifhbcnohmdccbgoicgdjpfamggdegmo-Default",
+                "chrome-cifhbcnohmdccbgoicgdjpfamggdegmo-Default",
                 "com.github.ismaelmartinez.teams-for-linux",
                 "com.github.IsmaelMartinez.teams_for_linux",
                 "com.microsoft.Teams",
+                "msedge-cifhbcnohmdccbgoicgdjpfamggdegmo-Default",
+                "opera-cifhbcnohmdccbgoicgdjpfamggdegmo-Default",
                 "teams",
                 "teams-for-linux"
             ]
