@@ -12008,7 +12008,9 @@
         "linux": {
             "root": "gnome-break-timer",
             "symlinks": [
-                "org.gnome.BreakTimer"
+                "era",
+                "org.gnome.BreakTimer",
+                "org.kde.era"
             ]
         }
     },
