@@ -3765,7 +3765,7 @@
                 "com.cyberbotics.Webots",
                 "debug-run",
                 "kdebugsettings",
-                "org.kde.kdebugsettings"
+                "org.kde.kdebugsettings",
                 "webots"
             ]
         }
@@ -20787,6 +20787,14 @@
     "notable": {
         "linux": {
             "root": "notable"
+        }
+    },
+    "notae": {
+        "linux": {
+            "root": "notae",
+            "symlinks": [
+                "org.kde.notae"
+            ]
         }
     },
     "notepack": {
