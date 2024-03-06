@@ -423,6 +423,7 @@
                 "kthesaurus",
                 "org.gnome.Dictionary",
                 "org.xfce.Dictionary",
+                "org.xfce.dictionary",
                 "verbiste",
                 "xfce4-dict"
             ]
@@ -530,7 +531,8 @@
                 "screenie",
                 "screenie-qt",
                 "spectacle",
-                "unity-lens-photos"
+                "unity-lens-photos",
+                "xfce4-screenshooter"
             ]
         }
     },
@@ -12453,6 +12455,7 @@
                 "org.xfce.powermanager",
                 "preferences-system-power",
                 "unity-power-panel",
+                "xfce4-power-manager",
                 "xfce4-power-manager-settings",
                 "xfpm-ac-adapter"
             ]
@@ -12628,7 +12631,8 @@
                 "org.gnome.Usage",
                 "org.kde.plasma-systemmonitor",
                 "org.xfce.taskmanager",
-                "plasma-systemmonitor"
+                "plasma-systemmonitor",
+                "xfce4-taskmanager"
             ]
         }
     },
@@ -19881,7 +19885,8 @@
                 "cutefish-videoplayer",
                 "io.elementary.videos",
                 "multimedia-player",
-                "org.xfce.xfmp"
+                "org.xfce.xfmp",
+                "xfmpc"
             ]
         }
     },
@@ -29552,6 +29557,7 @@
                 "utilities_terminal",
                 "vala-terminal",
                 "xfce-terminal",
+                "xfce4-terminal",
                 "xterm",
                 "xterm_32x32",
                 "xterm_48x48"
