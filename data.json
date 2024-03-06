@@ -1100,7 +1100,9 @@
             "symlinks": [
                 "com.github.bartzaalberg.alias",
                 "io.github.aerocyber.sitemarker",
-                "org.cubocore.CorePins"
+                "keditbookmarks",
+                "org.cubocore.CorePins",
+                "org.kde.keditbookmarks"
             ]
         }
     },
@@ -3628,7 +3630,9 @@
             "root": "breathing",
             "symlinks": [
                 "io.github.seadve.Breathing",
-                "io.naox.InnerBreeze"
+                "io.naox.InnerBreeze",
+                "kalm",
+                "org.kde.kalm"
             ]
         }
     },
@@ -3759,6 +3763,9 @@
             "root": "bug-buddy",
             "symlinks": [
                 "com.cyberbotics.Webots",
+                "debug-run",
+                "kdebugsettings",
+                "org.kde.kdebugsettings"
                 "webots"
             ]
         }
@@ -5832,6 +5839,8 @@
                 "gksuexec-debian",
                 "gnome-do",
                 "gnome-do-panel",
+                "org.kde.mobile.plasmasettings",
+                "plasma-settings",
                 "system-config-services"
             ]
         }
@@ -12617,7 +12626,9 @@
                 "deepin-system-monitor",
                 "org.cubocore.CoreStats",
                 "org.gnome.Usage",
-                "org.xfce.taskmanager"
+                "org.kde.plasma-systemmonitor",
+                "org.xfce.taskmanager",
+                "plasma-systemmonitor"
             ]
         }
     },
@@ -14338,6 +14349,7 @@
                 "kylin-user-guide",
                 "org.gnome.Yelp",
                 "org.kde.Help",
+                "org.kde.khelpcenter",
                 "stock_help-agent",
                 "susehelpcenter",
                 "system-help",
@@ -20762,7 +20774,8 @@
                 "com.system76.CosmicBackground",
                 "cosmic-bg",
                 "im.bernard.Nostalgia",
-                "org.gnome.Nostalgia"
+                "org.gnome.Nostalgia",
+                "preferences-desktop-display-randr"
             ]
         }
     },
@@ -23741,6 +23754,7 @@
                 "cs-user",
                 "login-photo",
                 "mugshot",
+                "preferences-system-users",
                 "system-config-authentication",
                 "system-users",
                 "user_icon"
@@ -23810,6 +23824,7 @@
                 "org.buddiesofbudgie.Settings",
                 "org.cubocore.CoreGarage",
                 "org.gnome.Settings",
+                "org.kde.systemsettings",
                 "org.xfce.settings.manager",
                 "paprefs",
                 "redhat-server_settings",
@@ -25146,7 +25161,9 @@
                 "animechecker",
                 "artemanufrij.hashit",
                 "com.github.artemanufrij.hashit",
+                "hashomatic",
                 "io.github.zefr0x.hashes",
+                "org.kde.hashomatic",
                 "qcalcfilehash"
             ]
         }
@@ -29870,6 +29887,7 @@
                 "gtk-theme-config",
                 "org.xfce.settings.appearance",
                 "preferences-desktop-theme",
+                "preferences-desktop-theme-global",
                 "preferences-theme",
                 "style",
                 "xfce-ui",
