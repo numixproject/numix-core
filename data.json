@@ -449,7 +449,10 @@
     },
     "accessories-ebook-reader": {
         "linux": {
-            "root": "accessories-ebook-reader"
+            "root": "accessories-ebook-reader",
+            "symlinks": [
+                "org.lvnauth.LVNAuth"
+            ]
         }
     },
     "accessories-image-viewer": {
