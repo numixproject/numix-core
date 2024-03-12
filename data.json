@@ -18221,6 +18221,7 @@
         "linux": {
             "root": "lsp-plugins",
             "symlinks": [
+                "com.voxdsp.Borg",
                 "org.freedesktop.LinuxAudio.LadspaPlugins.LSP",
                 "org.freedesktop.LinuxAudio.Lv2Plugins.LSP",
                 "org.freedesktop.LinuxAudio.Plugins.LSP"
