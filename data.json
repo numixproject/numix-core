@@ -9130,8 +9130,8 @@
         "linux": {
             "root": "endless-sky",
             "symlinks": [
-                "io.github.endless_sky.endless_sky",
                 "io.github.endless-sky.endless-sky",
+                "io.github.endless_sky.endless_sky",
                 "io.github.EndlessSky.endless-sky"
             ]
         }
@@ -23561,6 +23561,14 @@
     "power-installer": {
         "linux": {
             "root": "power-installer"
+        }
+    },
+    "powerplant": {
+        "linux": {
+            "root": "powerplant",
+            "symlinks": [
+                "org.kde.powerplant"
+            ]
         }
     },
     "powertabeditor": {
