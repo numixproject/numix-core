@@ -20207,7 +20207,10 @@
     },
     "myunity": {
         "linux": {
-            "root": "myunity"
+            "root": "myunity",
+            "symlinks": [
+                "app.drey.Toggle"
+            ]
         }
     },
     "myuzi": {
