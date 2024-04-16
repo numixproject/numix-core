@@ -17586,6 +17586,14 @@
             ]
         }
     },
+    "librelinkupdesktop": {
+        "linux": {
+            "root": "librelinkupdesktop",
+            "symlinks": [
+                "rocks.poopjournal.librelinkupdesktop"
+            ]
+        }
+    },
     "libreoffice-base": {
         "linux": {
             "root": "libreoffice-base",
@@ -24160,7 +24168,7 @@
         "linux": {
             "root": "proton",
             "symlinks": [
-                "com.raggesilver.Proton"
+                "com.raggesilver.Proton",
                 "ru.linux_gaming.PortProton"
             ]
         }
