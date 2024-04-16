@@ -6894,6 +6894,15 @@
             ]
         }
     },
+    "deltapatcher": {
+        "linux": {
+            "root": "deltapatcher",
+            "symlinks": [
+                "DeltaPatcher",
+                "io.github.marco_calautti.DeltaPatcher"
+            ]
+        }
+    },
     "deluge": {
         "linux": {
             "root": "deluge",
