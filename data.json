@@ -3101,6 +3101,7 @@
                 "multibit",
                 "multibit-hd",
                 "org.bitcoincore.bitcoin-qt",
+                "org.bitcoinknots.bitcoin-qt",
                 "org.btchd.btchd-qt"
             ]
         }
@@ -5091,7 +5092,8 @@
         "linux": {
             "root": "cartridges",
             "symlinks": [
-                "hu.kramo.Cartridges"
+                "hu.kramo.Cartridges",
+                "page.kramo.Cartridges"
             ]
         }
     },
@@ -6502,6 +6504,7 @@
         "linux": {
             "root": "currency",
             "symlinks": [
+                "com.blunix.currency_converter",
                 "com.github.brandonlujan.exchange",
                 "com.github.cjfloss.envelope",
                 "com.github.matfantinel.moneta",
@@ -10972,6 +10975,7 @@
             "root": "fromscratch",
             "symlinks": [
                 "fyi.zoey.Boop-GTK",
+                "org.gnome.gitlab.cheywood.Buffer",
                 "uk.co.mrbenshef.Boop-GTK"
             ]
         }
@@ -13551,6 +13555,7 @@
         "linux": {
             "root": "gresistor",
             "symlinks": [
+                "com.oyajun.ColorCode",
                 "eu.stethewwolf.gresistor",
                 "resistor_decoder"
             ]
@@ -17242,6 +17247,7 @@
         "linux": {
             "root": "kwordquiz",
             "symlinks": [
+                "net.krafting.SemantiK",
                 "org.kde.kwordquiz",
                 "wordflow"
             ]
@@ -17865,6 +17871,7 @@
         "linux": {
             "root": "lime",
             "symlinks": [
+                "io.github.lime3ds.Lime3DS",
                 "org.limetext.qml.LimeText"
             ]
         }
@@ -19870,6 +19877,7 @@
             "root": "muezzin",
             "symlinks": [
                 "com.eminfedar.vaktisalah",
+                "io.github.adenlall.salatok-gtk",
                 "io.github.dbchoco.muezzin",
                 "io.github.dbchoco.Salawat",
                 "org.altaqwaa.Altaqwaa",
@@ -27222,7 +27230,8 @@
         "linux": {
             "root": "showmethekey",
             "symlinks": [
-                "one.alynx.showmethekey"
+                "one.alynx.showmethekey",
+                "page.codeberg.JakobDev.jdMacroPlayer"
             ]
         }
     },
