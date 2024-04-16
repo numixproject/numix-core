@@ -2916,6 +2916,14 @@
             ]
         }
     },
+    "beaver-notes": {
+        "linux": {
+            "root": "beaver-notes",
+            "symlinks": [
+                "com.beavernotes.beavernotes"
+            ]
+        }
+    },
     "beekeeper-studio": {
         "linux": {
             "root": "beekeeper-studio",
@@ -9746,10 +9754,7 @@
     },
     "fedy": {
         "linux": {
-            "root": "fedy",
-            "symlinks": [
-                "app.drey.Toggle"
-            ]
+            "root": "fedy"
         }
     },
     "feedly": {
