@@ -3225,6 +3225,14 @@
             ]
         }
     },
+    "blink": {
+        "linux": {
+            "root": "blink",
+            "symlinks": [
+                "io.github.ychclone.blink"
+            ]
+        }
+    },
     "blinken": {
         "linux": {
             "root": "blinken",
