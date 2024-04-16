@@ -24547,7 +24547,10 @@
     },
     "qdigidoc-client": {
         "linux": {
-            "root": "qdigidoc-client"
+            "root": "qdigidoc-client",
+            "symlinks": [
+                "ee.ria.qdigidoc4"
+            ]
         }
     },
     "qdigidoc-crypto": {
