@@ -3406,6 +3406,7 @@
         "linux": {
             "root": "boatswain",
             "symlinks": [
+                "com.core447.StreamController",
                 "com.feaneron.Boatswain"
             ]
         }
@@ -5475,8 +5476,8 @@
                 "chromium-browser2",
                 "com.github.Eloston.ungoogled-chromium",
                 "com.github.Eloston.UngoogledChromium",
-                "io.github.ungoogled_software.ungoogled_chromium",
                 "google-chromium",
+                "io.github.ungoogled_software.ungoogled_chromium",
                 "org.chromium.Chromium",
                 "org.chromium.Chromium.BaseApp",
                 "ungoogled-chromium"
@@ -6799,7 +6800,8 @@
         "linux": {
             "root": "decibels",
             "symlinks": [
-                "com.vixalien.decibels"
+                "com.vixalien.decibels",
+                "org.gnome.Decibels"
             ]
         }
     },
@@ -7451,7 +7453,10 @@
     },
     "distributor-logo-chakra": {
         "linux": {
-            "root": "distributor-logo-chakra"
+            "root": "distributor-logo-chakra",
+            "symlinks": [
+                "eu.quelltext.open_chakra_toning"
+            ]
         }
     },
     "distributor-logo-chaletos": {
@@ -8841,6 +8846,7 @@
             "symlinks": [
                 "edb-debugger",
                 "edb48-logo",
+                "io.github.eteran.edb-debugger",
                 "kali-edb-debugger"
             ]
         }
@@ -10751,6 +10757,7 @@
         "linux": {
             "root": "freecad",
             "symlinks": [
+                "org.freecad.FreeCAD",
                 "org.freecadweb.FreeCAD"
             ]
         }
@@ -15202,6 +15209,7 @@
             "symlinks": [
                 "cs-tablet",
                 "csd-wacom",
+                "net.opentabletdriver.OpenTabletDriver",
                 "org.freedesktop.Tuhi",
                 "preferences-desktop-tablet",
                 "tuhi"
@@ -16731,10 +16739,12 @@
             "root": "kmplot",
             "symlinks": [
                 "applications-education-mathematics",
+                "io.github.babaissarkar.ssplot",
                 "LabPlot2",
                 "labplot2",
                 "org.kde.kmplot",
-                "org.kde.labplot2"
+                "org.kde.labplot2",
+                "ssplot"
             ]
         }
     },
@@ -16999,6 +17009,7 @@
             "root": "krecipes",
             "symlinks": [
                 "anymeal",
+                "com.cerebralnomad.recipescribe",
                 "com.github.bartzaalberg.recipes",
                 "de.wedesoft.anymeal"
             ]
@@ -33153,7 +33164,8 @@
             "symlinks": [
                 "artemanufrij.webpin",
                 "com.github.alexkdeveloper.web-app-creator",
-                "com.github.artemanufrij.webpin"
+                "com.github.artemanufrij.webpin",
+                "org.mintguide.WebAppReader"
             ]
         }
     },
@@ -33977,7 +33989,8 @@
             "root": "xeyes",
             "symlinks": [
                 "io.github.nyre221.kiview",
-                "org.freedesktop.xorg.xeyes"
+                "org.freedesktop.xorg.xeyes",
+                "org.sugarlabs.PyEyes"
             ]
         }
     },
