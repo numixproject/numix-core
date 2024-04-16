@@ -33031,6 +33031,7 @@
         "linux": {
             "root": "web-wechat",
             "symlinks": [
+                "com.tencent.WeChat",
                 "deepin.com.wechat",
                 "electronic-wechat",
                 "wechat",
@@ -33949,6 +33950,7 @@
         "linux": {
             "root": "xeyes",
             "symlinks": [
+                "io.github.nyre221.kiview",
                 "org.freedesktop.xorg.xeyes"
             ]
         }
