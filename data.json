@@ -9940,6 +9940,7 @@
             "root": "file-manager",
             "symlinks": [
                 "caja-actions",
+                "com.system76.CosmicFiles",
                 "com.vicr123.thefile",
                 "dde-file-manager",
                 "file-system-manager",
@@ -12150,6 +12151,7 @@
             "root": "gnome-console",
             "symlinks": [
                 "com.fyralabs.Fermion",
+                "com.system76.CosmicTerm",
                 "org.gnome.Console",
                 "org.kde.qmlkonsole"
             ]
@@ -16758,12 +16760,10 @@
             "root": "kmplot",
             "symlinks": [
                 "applications-education-mathematics",
-                "io.github.babaissarkar.ssplot",
                 "LabPlot2",
                 "labplot2",
                 "org.kde.kmplot",
-                "org.kde.labplot2",
-                "ssplot"
+                "org.kde.labplot2"
             ]
         }
     },
@@ -22138,7 +22138,11 @@
     },
     "ownplot": {
         "linux": {
-            "root": "ownplot"
+            "root": "ownplot",
+            "symlinks": [
+                "io.github.babaissarkar.ssplot",
+                "ssplot"
+            ]
         }
     },
     "oxygen-not-included": {
@@ -23953,6 +23957,7 @@
         "linux": {
             "root": "preferences-system",
             "symlinks": [
+                "com.system76.CosmicSettings",
                 "configuration_section",
                 "control-center2",
                 "cosmic-settings",
@@ -27845,6 +27850,7 @@
             "root": "software-center",
             "symlinks": [
                 "Appstore",
+                "com.system76.CosmicStore",
                 "com.vicr123.theshop",
                 "mintinstall",
                 "openstore",
@@ -30053,6 +30059,8 @@
         "linux": {
             "root": "theme-config",
             "symlinks": [
+                "com.System76.CosmicThemeEditor",
+                "cosmic-theme-editor",
                 "cs-cat-themes",
                 "cs-themes",
                 "gnome-settings-theme",
@@ -33892,6 +33900,7 @@
             "symlinks": [
                 "com.fyralabs.Enigma",
                 "com.gitlab.JakobDev.jdTextEdit",
+                "com.system76.CosmicEdit",
                 "jdTextEdit",
                 "kwrite",
                 "org.kde.kwrite",
