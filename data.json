@@ -24137,6 +24137,14 @@
             ]
         }
     },
+    "progress-tracker": {
+        "linux": {
+            "root": "progress-tracker",
+            "symlinks": [
+                "io.github.smolblackcat.Progress"
+            ]
+        }
+    },
     "progressbar95": {
         "android": [
             "com.spookyhousestudios.progressbar95/com.ansca.corona.CoronaActivity"
