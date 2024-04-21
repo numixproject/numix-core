@@ -7224,17 +7224,12 @@
                 "de.shorsh.discord-screenaudio",
                 "discord-bin",
                 "discord-ptb",
-                "gtkcord",
-                "io.github.diamondburned.gtkcord4",
                 "io.github.spacingbat3.webcord",
                 "org.gnome.gitlab.ranchester.Mirdorph",
-                "so.libdb.dissent",
-                "so.libdb.gtkcord4",
                 "startarmcord",
                 "web-discord",
                 "webcord",
                 "xyz.armcord.ArmCord",
-                "xyz.diamondb.gtkcord4"
             ]
         }
     },
@@ -7328,6 +7323,18 @@
             "root": "dispremi",
             "symlinks": [
                 "fr.etnadji.dispremi"
+            ]
+        }
+    },
+    "dissent": {
+        "linux": {
+            "root": "dissent",
+            "symlinks": [
+                "gtkcord",
+                "io.github.diamondburned.gtkcord4",
+                "so.libdb.dissent",
+                "so.libdb.gtkcord4",
+                "xyz.diamondb.gtkcord4"
             ]
         }
     },
