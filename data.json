@@ -7275,48 +7275,73 @@
         "linux": {
             "root": "displaycal",
             "symlinks": [
+                "dispcalGUI",
                 "net.displaycal.DisplayCAL"
             ]
         }
     },
     "displaycal-3dlut-maker": {
         "linux": {
-            "root": "displaycal-3dlut-maker"
+            "root": "displaycal-3dlut-maker",
+            "symlinks": [
+                "dispcalGUI-3DLUT-maker"
+            ]
         }
     },
     "displaycal-apply-profiles": {
         "linux": {
-            "root": "displaycal-apply-profiles"
+            "root": "displaycal-apply-profiles",
+            "symlinks": [
+                "dispcalGUI-apply-profiles"
+            ]
         }
     },
     "displaycal-curve-viewer": {
         "linux": {
-            "root": "displaycal-curve-viewer"
+            "root": "displaycal-curve-viewer",
+            "symlinks": [
+                "dispcalGUI-curve-viewer"
+            ]
         }
     },
     "displaycal-profile-info": {
         "linux": {
-            "root": "displaycal-profile-info"
+            "root": "displaycal-profile-info",
+            "symlinks": [
+                "dispcalGUI-profile-info"
+            ]
         }
     },
     "displaycal-scripting-client": {
         "linux": {
-            "root": "displaycal-scripting-client"
+            "root": "displaycal-scripting-client",
+            "symlinks": [
+                "dispcalGUI-scripting-client"
+            ]
         }
     },
     "displaycal-synthprofile": {
         "linux": {
-            "root": "displaycal-synthprofile"
+            "root": "displaycal-synthprofile",
+            "symlinks": [
+                "dispcalGUI-synthprofile"
+            ]
         }
     },
     "displaycal-testchart-editor": {
         "linux": {
-            "root": "displaycal-testchart-editor"
+            "root": "displaycal-testchart-editor",
+            "symlinks": [
+                "dispcalGUI-testchart-editor"
+            ]
         }
     },
     "displaycal-vrml-to-x3d-converter": {
         "linux": {
-            "root": "displaycal-vrml-to-x3d-converter"
+            "root": "displaycal-vrml-to-x3d-converter",
+            "symlinks": [
+                "dispcalGUI-VRML-to-X3D-converter"
+            ]
         }
     },
     "dispremi": {
@@ -23814,6 +23839,7 @@
                 "com.github.cassidyjames.ideogram",
                 "com.github.halfmexican.Mingle",
                 "feeling_finder",
+                "io.github.halfmexican.Mingle",
                 "it.mijorus.smile",
                 "ksmiletris",
                 "package_toys"
