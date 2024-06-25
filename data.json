@@ -13413,11 +13413,19 @@
             "root": "gpsprune"
         }
     },
+    "gpuviewer": {
+        "linux": {
+            "root": "gpuviewer",
+            "symlinks": [
+                "io.github.arunsivaramanneo.GPUViewer"
+            ]
+        }
+    },
     "gpuvis": {
         "linux": {
             "root": "gpuvis",
             "symlinks": [
-                "dcom.github.gpuvis.Gpuvis"
+                "com.github.gpuvis.Gpuvis"
             ]
         }
     },
