@@ -9573,6 +9573,11 @@
             ]
         }
     },
+    "exhibit": {
+        "linux": {
+            "root": "io.github.nokse22.Exhibit"
+        }
+    },
     "exifcleaner": {
         "linux": {
             "root": "exifcleaner",
@@ -29580,7 +29585,6 @@
             "symlinks": [
                 "codeslayer",
                 "featherpad",
-                "io.github.nokse22.minitext",
                 "jupyter-notebook",
                 "notebook",
                 "org.cubocore.CorePad"
