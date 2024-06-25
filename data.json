@@ -920,11 +920,6 @@
             ]
         }
     },
-    "afternoon": {
-        "linux": {
-            "root": "page.kramo.Afternoon"
-        }
-    },
     "agave": {
         "linux": {
             "root": "agave"
@@ -27357,6 +27352,14 @@
             "symlinks": [
                 "one.alynx.showmethekey",
                 "page.codeberg.JakobDev.jdMacroPlayer"
+            ]
+        }
+    },
+    "showtime": {
+        "linux": {
+            "root": "showtime",
+            "symlinks": [
+                "org.gnome.Showtime"
             ]
         }
     },
