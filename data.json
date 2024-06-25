@@ -16429,6 +16429,14 @@
             "root": "keybase"
         }
     },
+    "keypunch": {
+        "linux": {
+            "root": "keypunch",
+            "symlinks": [
+                "dev.bragefuglseth.Keypunch"
+            ]
+        }
+    },
     "keyrack": {
         "linux": {
             "root": "keyrack",
