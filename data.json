@@ -6366,7 +6366,8 @@
         "linux": {
             "root": "crow-translate",
             "symlinks": [
-                "io.crow_translate.CrowTranslate"
+                "io.crow_translate.CrowTranslate",
+                "org.kde.CrowTranslate"
             ]
         }
     },
@@ -7225,6 +7226,7 @@
         "linux": {
             "root": "discord",
             "symlinks": [
+                "armcord",
                 "com.discordapp.Discord",
                 "com.discordapp.DiscordPTB",
                 "datcord",
@@ -20316,7 +20318,9 @@
             "symlinks": [
                 "gjots2",
                 "io.github.nuttyartist.notes",
-                "noblenote"
+                "noblenote",
+                "org.xfce.notes",
+                "org.xfce.panel.notes"
             ]
         }
     },
@@ -20756,6 +20760,7 @@
         "linux": {
             "root": "nheko",
             "symlinks": [
+                "im.nheko.Nheko",
                 "io.github.mujx.Nheko",
                 "io.github.Nheko-Reborn.Nheko"
             ]
@@ -31759,7 +31764,10 @@
     },
     "vbam": {
         "linux": {
-            "root": "vbam"
+            "root": "vbam",
+            "symlinks": [
+                "visualboyadvance-m"
+            ]
         }
     },
     "vcash": {
