@@ -34708,6 +34708,14 @@
             ]
         }
     },
+    "zed": {
+        "linux": {
+            "root": "zed",
+            "symlinks": [
+                "dev.zed.Zed"
+            ]
+        }
+    },
     "zegrapher": {
         "linux": {
             "root": "zegrapher",
