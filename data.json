@@ -10550,7 +10550,7 @@
             ]
         }
     },
-        "follamac": {
+    "follamac": {
         "linux": {
             "root": "follamac",
             "symlinks": [
@@ -10652,6 +10652,14 @@
     "footnote-1": {
         "linux": {
             "root": "footnote-1"
+        }
+    },
+    "fooyin": {
+        "linux": {
+            "root": "fooyin",
+            "symlinks": [
+                "org.fooyin.fooyin"
+            ]
         }
     },
     "forager": {
