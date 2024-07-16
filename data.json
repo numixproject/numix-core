@@ -4949,6 +4949,7 @@
         "linux": {
             "root": "calligraphy",
             "symlinks": [
+                "dev.geopjr.Calligraphy",
                 "io.gitlab.gregorni.Calligraphy"
             ]
         }
@@ -5227,6 +5228,14 @@
             ]
         }
     },
+    "ce-emu": {
+        "linux": {
+            "root": "ce-emu",
+            "symlinks": [
+                "io.github.ceprogramming.CEmu"
+            ]
+        }
+    },
     "cecilia": {
         "linux": {
             "root": "cecilia"
@@ -5240,7 +5249,7 @@
             ]
         }
     },
-        "celestia": {
+    "celestia": {
         "linux": {
             "root": "celestia",
             "symlinks": [
@@ -5263,14 +5272,6 @@
     "cellwriter": {
         "linux": {
             "root": "cellwriter"
-        }
-    },
-    "ce-emu": {
-        "linux": {
-            "root": "ce-emu",
-            "symlinks": [
-                "io.github.ceprogramming.CEmu"
-            ]
         }
     },
     "cemu": {
@@ -11919,7 +11920,8 @@
         "linux": {
             "root": "givemelyrics",
             "symlinks": [
-                "com.github.muriloventuroso.givemelyrics"
+                "com.github.muriloventuroso.givemelyrics",
+                "io.github.TanmayPatil105.verse"
             ]
         }
     },
