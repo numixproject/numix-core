@@ -32128,6 +32128,14 @@
             "root": "virtual-engineering"
         }
     },
+    "virtual-pen": {
+        "linux": {
+            "root": "virtual-pen",
+            "symlinks": [
+                "io.github.androidvirtualpen.virtualpen"
+            ]
+        }
+    },
     "virtualbox": {
         "linux": {
             "root": "virtualbox",
