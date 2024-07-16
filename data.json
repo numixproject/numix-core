@@ -5030,7 +5030,10 @@
     },
     "cantata": {
         "linux": {
-            "root": "cantata"
+            "root": "cantata",
+            "symlinks": [
+                "dog.unix.cantata.Cantata"
+            ]
         }
     },
     "cantor": {
@@ -10849,6 +10852,7 @@
             "symlinks": [
                 "org.freeciv.Freeciv",
                 "org.freeciv.gtk322",
+                "org.freeciv.gtk4",
                 "org.freeciv.qt",
                 "org.freeciv.sdl"
             ]
@@ -13051,7 +13055,10 @@
     },
     "goofcord": {
         "linux": {
-            "root": "goofcord"
+            "root": "goofcord",
+            "symlinks": [
+                "io.github.milkshiift.GoofCord"
+            ]
         }
     },
     "google-authenticator": {
@@ -18053,7 +18060,10 @@
     },
     "liquidwar": {
         "linux": {
-            "root": "liquidwar"
+            "root": "liquidwar",
+            "symlinks": [
+                "org.gnu.liquidwar6"
+            ]
         }
     },
     "liri-browser": {
@@ -18813,6 +18823,7 @@
             "root": "masterpassword-gui",
             "symlinks": [
                 "io.github.bkueng.qMasterPassword",
+                "io.gitlab.elescoute.password",
                 "org.emilien.Password",
                 "qmasterpassword"
             ]
@@ -22118,7 +22129,10 @@
     },
     "ossia-score": {
         "linux": {
-            "root": "ossia-score"
+            "root": "ossia-score",
+            "symlinks": [
+                "io.ossia.score"
+            ]
         }
     },
     "ostorybook": {
@@ -22491,7 +22505,8 @@
             "root": "parlatype",
             "symlinks": [
                 "com.github.gkarsay.parlatype",
-                "org.parlatype.Parlatype"
+                "org.parlatype.Parlatype",
+                "xyz.parlatype.Parlatype"
             ]
         }
     },
@@ -22784,7 +22799,8 @@
         "linux": {
             "root": "pdfstitcher",
             "symlinks": [
-                "com.github.cfcurtis.pdfstitcher"
+                "com.github.cfcurtis.pdfstitcher",
+                "org.pdfstitcher.pdfstitcher"
             ]
         }
     },
@@ -23551,7 +23567,8 @@
         "linux": {
             "root": "pokerth",
             "symlinks": [
-                "coronapoker"
+                "coronapoker",
+                "net.pokerth.PokerTH"
             ]
         }
     },
@@ -24312,6 +24329,7 @@
             "symlinks": [
                 "ch.protonmail.protonmail-bridge",
                 "ch.protonmail.protonmail-import-export-app",
+                "me.proton.Mail",
                 "protonmail-bridge",
                 "protonmail-desktop",
                 "protonmail-desktop-unofficial",
@@ -27252,6 +27270,7 @@
         "linux": {
             "root": "sfxr-qt",
             "symlinks": [
+                "com.saivert.pwvucontrol",
                 "com.saivert.pwvucontrol.desktop",
                 "Pulsemeeter",
                 "pulsemeeter",
@@ -27550,7 +27569,10 @@
     },
     "simplex-chat": {
         "linux": {
-            "root": "simplex-chat"
+            "root": "simplex-chat",
+            "symlinks": [
+                "chat.simplex.simplex"
+            ]
         }
     },
     "simsu": {
@@ -27571,6 +27593,7 @@
         "linux": {
             "root": "simutrans",
             "symlinks": [
+                "com.simutrans.Simutrans",
                 "steam_icon_434520",
                 "TruckSim"
             ]
@@ -28266,6 +28289,7 @@
         "linux": {
             "root": "spacelaunch",
             "symlinks": [
+                "io.gitlab.elescoute.spacelaunch",
                 "org.emilien.SpaceLaunch"
             ]
         }
@@ -30070,7 +30094,8 @@
         "linux": {
             "root": "textpieces",
             "symlinks": [
-                "com.github.liferooter.textpieces"
+                "com.github.liferooter.textpieces",
+                "io.gitlab.liferooter.TextPieces"
             ]
         }
     },
@@ -30968,6 +30993,7 @@
             "symlinks": [
                 "org.tryton.Tryton",
                 "org.tryton.Tryton-70",
+                "org.tryton.Tryton-72",
                 "tryton-icon"
             ]
         }
