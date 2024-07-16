@@ -34176,7 +34176,10 @@
     },
     "xchat-gnome": {
         "linux": {
-            "root": "xchat-gnome"
+            "root": "xchat-gnome",
+            "symlinks": [
+                "io.gpt4all.gpt4all"
+            ]
         }
     },
     "xcircuit": {
