@@ -9741,6 +9741,14 @@
             ]
         }
     },
+    "fan-control": {
+        "linux": {
+            "root": "fan-control",
+            "symlinks": [
+                "io.github.wiiznokes.fan-control"
+            ]
+        }
+    },
     "fasttrack": {
         "linux": {
             "root": "fasttrack",
@@ -18541,7 +18549,10 @@
     },
     "lyricsx": {
         "linux": {
-            "root": "lyricsx"
+            "root": "lyricsx",
+            "symlinks": [
+                "io.github.waylyrics.Waylyrics"
+            ]
         }
     },
     "lyx": {
@@ -28371,6 +28382,7 @@
         "linux": {
             "root": "speed-dreams",
             "symlinks": [
+                "org.kartkrew.RingRacers",
                 "org.speed_dreams.SpeedDreams",
                 "speed-dreams-2",
                 "speeddreams"
