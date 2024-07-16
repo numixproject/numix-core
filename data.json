@@ -2789,6 +2789,14 @@
             ]
         }
     },
+    "barcoder": {
+        "linux": {
+            "root": "barcoder",
+            "symlinks": [
+                "cz.ondrejkolin.Barcoder"
+            ]
+        }
+    },
     "bareftp": {
         "linux": {
             "root": "bareftp"
