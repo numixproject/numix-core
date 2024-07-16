@@ -30506,9 +30506,12 @@
             ]
         }
     },
-        "timetracker": {
+    "timetracker": {
         "linux": {
-            "root": "com.lynnmichaelmartin.TimeTracker"
+            "root": "com.lynnmichaelmartin.TimeTracker",
+            "symlinks": [
+                "io.github.FedericoCalzoni.EventRecorder"
+            ]
         }
     },
     "tint2conf": {
