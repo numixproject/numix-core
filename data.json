@@ -19426,7 +19426,9 @@
             "root": "steam_icon_287980",
             "symlinks": [
                 "BigMetro",
-                "com.inform7.IDE"
+                "com.inform7.IDE",
+                "net.zdechov.app.TransLines",
+                "TransLines"
             ]
         }
     },
@@ -32053,6 +32055,14 @@
     "veyon-master": {
         "linux": {
             "root": "veyon-master"
+        }
+    },
+    "vht": {
+        "linux": {
+            "root": "vht",
+            "symlinks": [
+                "io.github.rdybka.vht"
+            ]
         }
     },
     "viber": {
