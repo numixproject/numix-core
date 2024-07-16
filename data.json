@@ -27462,6 +27462,14 @@
             "root": "SheepShaver"
         }
     },
+    "shm-modbus": {
+        "linux": {
+            "root": "shm-modbus",
+            "symlinks": [
+                "io.github.shmmodbus.shm-modbus"
+            ]
+        }
+    },
     "shortcircuit": {
         "linux": {
             "root": "shortcircuit",
