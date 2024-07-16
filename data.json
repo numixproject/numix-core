@@ -3047,6 +3047,7 @@
             "root": "bibletime",
             "symlinks": [
                 "info.bibletime.BibleTime",
+                "io.github.roseblume.rosary",
                 "org.hlwd.sonofman"
             ]
         }
@@ -14002,6 +14003,7 @@
         "linux": {
             "root": "gtksourceview-schemes",
             "symlinks": [
+                "app.devsuite.Schemes",
                 "me.hergert.Schemes"
             ]
         }
@@ -18751,7 +18753,10 @@
     },
     "manuals": {
         "linux": {
-            "root": "org.gnome.Manuals"
+            "root": "org.gnome.Manuals",
+            "symlinks": [
+                "app.devsuite.Manuals"
+            ]
         }
     },
     "manuskript": {
@@ -29937,6 +29942,7 @@
         "linux": {
             "root": "terminal-tango",
             "symlinks": [
+                "app.devsuite.Ptyxis",
                 "org.gnome.Ptyxis"
             ]
         }
@@ -31505,7 +31511,7 @@
             "root": "unity-tweak-tool",
             "symlinks": [
                 "garuda-settings-manager",
-                " io.github.pantheon_tweaks.pantheon-tweaks",
+                "io.github.pantheon_tweaks.pantheon-tweaks",
                 "org.vanillaos.ControlCenter",
                 "preferences-desktop",
                 "ubuntu-first-steps"
