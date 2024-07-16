@@ -25762,6 +25762,14 @@
             ]
         }
     },
+    "rclone-shuttle": {
+        "linux": {
+            "root": "rclone-shuttle",
+            "symlinks": [
+                "io.github.pieterdd.RcloneShuttle"
+            ]
+        }
+    },
     "rcmdr": {
         "linux": {
             "root": "rcmdr",
