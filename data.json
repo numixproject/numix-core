@@ -26865,6 +26865,15 @@
             ]
         }
     },
+    "scanoss-workbench": {
+        "linux": {
+            "root": "scanoss-workbench",
+            "symlinks": [
+                "com.scanoss.sbom-workbench",
+                "sbom-workbench"
+            ]
+        }
+    },
     "scantailor": {
         "linux": {
             "root": "scantailor",
