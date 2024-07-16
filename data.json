@@ -33403,7 +33403,10 @@
     },
     "webapps": {
         "linux": {
-            "root": "net.codelogistics.webapps"
+            "root": "net.codelogistics.webapps",
+            "symlinks": [
+                "io.github.elevenhsoft.WebApps"
+            ]
         }
     },
     "webarchives": {
