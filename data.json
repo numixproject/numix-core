@@ -5265,6 +5265,14 @@
             "root": "cellwriter"
         }
     },
+    "ce-emu": {
+        "linux": {
+            "root": "ce-emu",
+            "symlinks": [
+                "io.github.ceprogramming.CEmu"
+            ]
+        }
+    },
     "cemu": {
         "linux": {
             "root": "cemu",
@@ -24291,6 +24299,14 @@
                 "org.processing.processingide",
                 "pde-512",
                 "processing"
+            ]
+        }
+    },
+    "profectus": {
+        "linux": {
+            "root": "profectus",
+            "symlinks": [
+                "to.us.scrollprotocol.Profectus"
             ]
         }
     },
