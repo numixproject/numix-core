@@ -19220,6 +19220,15 @@
             ]
         }
     },
+    "mercury": {
+        "linux": {
+            "root": "mercury",
+            "symlinks": [
+                "mercury-browser",
+                "rocks.thorium.Mercury"
+            ]
+        }
+    },
     "merkaartor": {
         "linux": {
             "root": "merkaartor",
@@ -20172,7 +20181,6 @@
                 "applications-multimedia",
                 "arts",
                 "artscontrol",
-                "com.saivert.pwvucontrol",
                 "cs-sound",
                 "esd",
                 "gnome-audio",
@@ -20198,7 +20206,6 @@
                 "preferences-desktop-sound",
                 "preferences-sound",
                 "preferences-system-sound",
-                "pwvucontrol",
                 "unity-sound-panel",
                 "volume-knob",
                 "xfce-sound",
