@@ -21842,6 +21842,15 @@
             ]
         }
     },
+    "opengoal": {
+        "linux": {
+            "root": "opengoal",
+            "symlinks": [
+                "dev.opengoal.OpenGOAL",
+                "opengoal-launcher"
+            ]
+        }
+    },
     "openhantek": {
         "linux": {
             "root": "openhantek",
