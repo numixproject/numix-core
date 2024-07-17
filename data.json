@@ -117,6 +117,7 @@
                 "chrome-clgddkicplcbgjfobecebadodeggpghp-Default",
                 "chrome-jcjbnkncddbeomhaacaeokhfnefibpde-Default",
                 "gnome-2048",
+                "net.zdechov.app.x2048",
                 "org.gnome.2048",
                 "org.gnome.gnome-2048",
                 "org.gnome.TwentyFortyEight",
@@ -2158,7 +2159,10 @@
     },
     "assaultcube-reloaded": {
         "linux": {
-            "root": "acreloaded"
+            "root": "acreloaded",
+            "symlinks": [
+                "ca.victorz.acr.AssaultCubeReloaded"
+            ]
         }
     },
     "astah-pro": {
@@ -20168,6 +20172,7 @@
                 "applications-multimedia",
                 "arts",
                 "artscontrol",
+                "com.saivert.pwvucontrol",
                 "cs-sound",
                 "esd",
                 "gnome-audio",
@@ -20186,12 +20191,14 @@
                 "multimedia",
                 "org.kde.kmix",
                 "org.pulseaudio.pavucontrol",
+                "pavucontrol",
                 "phonon-gstreamer",
                 "pnmixer",
                 "preferences-desktop-multimedia",
                 "preferences-desktop-sound",
                 "preferences-sound",
                 "preferences-system-sound",
+                "pwvucontrol",
                 "unity-sound-panel",
                 "volume-knob",
                 "xfce-sound",
@@ -22281,6 +22288,7 @@
         "linux": {
             "root": "oversteer",
             "symlinks": [
+                "io.github.berarma.Oversteer",
                 "io.itch.pyLinuxWheel",
                 "org.berarma.Oversteer",
                 "pyLinuxWheel",
@@ -25043,7 +25051,10 @@
     },
     "qmlscene": {
         "linux": {
-            "root": "qmlscene"
+            "root": "qmlscene",
+            "symlinks": [
+                "io.qt.QtDesignStudio"
+            ]
         }
     },
     "qmmp": {
@@ -34280,7 +34291,8 @@
             "symlinks": [
                 "de.feschber.LanMouse",
                 "dev.robiot.xclicker",
-                "mouse-actions-gui"
+                "mouse-actions-gui",
+                "net.codelogistics.clicker"
             ]
         }
     },
