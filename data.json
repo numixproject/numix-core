@@ -24422,13 +24422,33 @@
         "linux": {
             "root": "protonmail",
             "symlinks": [
-                "ch.protonmail.protonmail-bridge",
-                "ch.protonmail.protonmail-import-export-app",
                 "me.proton.Mail",
-                "protonmail-bridge",
                 "protonmail-desktop",
-                "protonmail-desktop-unofficial",
+            ]
+        }
+    },
+    "protonmail-bridge": {
+        "linux": {
+            "root": "protonmail-bridge",
+            "symlinks": [
+                "ch.protonmail.protonmail-bridge",
                 "ProtonMail_Bridge"
+            ]
+        }
+    },
+    "protonmail-desktop-unofficial": {
+        "linux": {
+            "root": "protonmail-desktop-unofficial",
+            "symlinks": [
+                "ch.protonmail.protonmail-import-export-app"
+            ]
+        }
+    },
+    "protonpass": {
+        "linux": {
+            "root": "protonpass",
+            "symlinks": [
+                "me.proton.Pass"
             ]
         }
     },
