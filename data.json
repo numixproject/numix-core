@@ -10151,6 +10151,14 @@
             "root": "final-term"
         }
     },
+    "finamp": {
+        "linux": {
+            "root": "finamp",
+            "symlinks": [
+                "com.unicornsonlsd.finamp"
+            ]
+        }
+    },
     "finder": {
         "linux": {
             "root": "Finder_w"
