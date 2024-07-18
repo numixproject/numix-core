@@ -21337,6 +21337,17 @@
             ]
         }
     },
+    "nymvpn": {
+        "linux": {
+            "root": "nymvpn",
+            "symlinks": [
+                "nym",
+                "nym-vpn",
+                "nymvpn-desktop",
+                "nymvpn-x"
+            ]
+        }
+    },
     "nyrna": {
         "linux": {
             "root": "nyrna",
