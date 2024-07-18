@@ -12823,7 +12823,7 @@
         "linux": {
             "root": "gnome-twitch",
             "symlinks": [
-                "com.vinszent.GnomeTwitch"
+                "com.vinszent.GnomeTwitch",
             ]
         }
     },
@@ -18230,7 +18230,8 @@
         "linux": {
             "root": "livestreamer-twitch-gui",
             "symlinks": [
-                "streamlink-twitch-gui"
+                "streamlink-twitch-gui",
+                "twitch-downloader-gui"
             ]
         }
     },
@@ -19714,6 +19715,14 @@
     "mockoon": {
         "linux": {
             "root": "mockoon"
+        }
+    },
+    "modbusscope": {
+        "linux": {
+            "root": "modbusscope",
+            "symlinks": [
+                "ModbusScope"
+            ]
         }
     },
     "modelio": {
