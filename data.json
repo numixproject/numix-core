@@ -26394,7 +26394,10 @@
     },
     "ricochet-im": {
         "linux": {
-            "root": "ricochet"
+            "root": "ricochet",
+            "symlinks": [
+                "ricochet-refresh"
+            ]
         }
     },
     "rider": {
