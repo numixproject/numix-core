@@ -1114,7 +1114,10 @@
     },
     "alien-isolation": {
         "linux": {
-            "root": "steam_icon_214490"
+            "root": "steam_icon_214490",
+            "symlinks": [
+                "io.github.lo2dev.Echo"
+            ]
         }
     },
     "alien-swarm": {
@@ -24424,7 +24427,7 @@
             "root": "protonmail",
             "symlinks": [
                 "me.proton.Mail",
-                "protonmail-desktop",
+                "protonmail-desktop"
             ]
         }
     },
