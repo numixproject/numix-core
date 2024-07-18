@@ -9018,7 +9018,10 @@
     },
     "eintopf": {
         "linux": {
-            "root": "eintopf"
+            "root": "eintopf",
+            "symlinks": [
+                "org.metamuffin.hurrycurry.client"
+            ]
         }
     },
     "eiskaltdcpp": {
