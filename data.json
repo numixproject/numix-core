@@ -9213,6 +9213,11 @@
             ]
         }
     },
+    "embellish": {
+        "linux": {
+            "root": "io.github.getnf.embellish"
+        }
+    },
     "emerald-decorator": {
         "linux": {
             "root": "emerald-decorator",
@@ -30180,6 +30185,7 @@
         "linux": {
             "root": "texmacs",
             "symlinks": [
+                "org.texmacs.TeXmacs",
                 "TeXmacs"
             ]
         }
