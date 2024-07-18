@@ -21488,7 +21488,8 @@
         "linux": {
             "root": "okular",
             "symlinks": [
-                "org.kde.okular"
+                "org.kde.okular",
+                "org.kde.okular.kirigami"
             ]
         }
     },
@@ -21552,6 +21553,14 @@
     "oneshot": {
         "linux": {
             "root": "steam_icon_420530"
+        }
+    },
+    "oneware": {
+        "linux": {
+            "root": "oneware",
+            "symlinks": [
+                "com.one_ware.OneWare"
+            ]
         }
     },
     "oni": {
@@ -26942,7 +26951,10 @@
     },
     "sc-ide": {
         "linux": {
-            "root": "sc_ide"
+            "root": "sc_ide",
+            "symlinks": [
+                "io.github.supercollider.SuperCollider"
+            ]
         }
     },
     "scanner": {
