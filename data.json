@@ -3012,7 +3012,8 @@
             "root": "bespokesynth",
             "symlinks": [
                 "bespoke_icon",
-                "BespokeSynth"
+                "BespokeSynth",
+                "com.bespokesynth.BespokeSynth"
             ]
         }
     },
@@ -23479,6 +23480,14 @@
             ]
         }
     },
+    "plakativ": {
+        "linux": {
+            "root": "plakativ",
+            "symlinks": [
+                "de.mister-muffin.plakativ"
+            ]
+        }
+    },
     "planeshift": {
         "linux": {
             "root": "planeshift"
@@ -30853,7 +30862,9 @@
         "linux": {
             "root": "toolbx-tuner",
             "symlinks": [
-                "org.kuchelmeister.ToolbxTuner"
+                "org.kuchelmeister.ToolboxTuner",
+                "org.kuchelmeister.ToolbxTuner",
+                "toolbox-tuner"
             ]
         }
     },
