@@ -26289,6 +26289,14 @@
             "root": "remotebox"
         }
     },
+    "renderdoc": {
+        "linux": {
+            "root": "renderdoc",
+            "symlinks": [
+                "qrenderdoc"
+            ]
+        }
+    },
     "renoise3": {
         "linux": {
             "root": "renoise3",
