@@ -7291,7 +7291,7 @@
                 "io.github.spacingbat3.webcord",
                 "org.gnome.gitlab.ranchester.Mirdorph",
                 "web-discord",
-                "webcord",
+                "webcord"
             ]
         }
     },
@@ -25007,6 +25007,14 @@
             "symlinks": [
                 "k4dirstat",
                 "kdirstat"
+            ]
+        }
+    },
+    "qdiskinfo": {
+        "linux": {
+            "root": "qdiskinfo",
+            "symlinks": [
+                "QDiskInfo"
             ]
         }
     },
