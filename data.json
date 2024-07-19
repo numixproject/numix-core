@@ -16177,7 +16177,10 @@
     },
     "jumpnbump": {
         "linux": {
-            "root": "jumpnbump"
+            "root": "jumpnbump",
+            "symlinks": [
+                "rio.gitlab.LibreGames.jumpnbump"
+            ]
         }
     },
     "junction": {
