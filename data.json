@@ -2012,6 +2012,15 @@
             ]
         }
     },
+    "armcord": {
+        "linux": {
+            "root": "armcord",
+            "symlinks": [
+                "startarmcord",
+                "xyz.armcord.ArmCord"
+            ]
+        }
+    },
     "armello": {
         "linux": {
             "root": "steam_icon_290340"
@@ -7272,7 +7281,6 @@
         "linux": {
             "root": "discord",
             "symlinks": [
-                "armcord",
                 "com.discordapp.Discord",
                 "com.discordapp.DiscordPTB",
                 "datcord",
@@ -7282,10 +7290,8 @@
                 "discord-ptb",
                 "io.github.spacingbat3.webcord",
                 "org.gnome.gitlab.ranchester.Mirdorph",
-                "startarmcord",
                 "web-discord",
                 "webcord",
-                "xyz.armcord.ArmCord"
             ]
         }
     },
