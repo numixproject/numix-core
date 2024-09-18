@@ -6042,6 +6042,14 @@
             "root": "compton"
         }
     },
+    "concessio": {
+        "linux": {
+            "root": "concessio",
+            "symlinks": [
+                "io.github.ronniedroid.concessio"
+            ]
+        }
+    },
     "confy": {
         "linux": {
             "root": "confy",
