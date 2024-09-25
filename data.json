@@ -31767,7 +31767,10 @@
     },
     "unity-mail": {
         "linux": {
-            "root": "unity-mail"
+            "root": "unity-mail",
+            "symlinks": [
+                "app.drey.Envelope"
+            ]
         }
     },
     "unity-monodevelop": {
