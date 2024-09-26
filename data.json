@@ -5381,6 +5381,11 @@
             ]
         }
     },
+    "chemcanvas": {
+        "linux": {
+            "root": "chemcanvas"
+        }
+    },
     "cherrytree": {
         "linux": {
             "root": "cherrytree",
@@ -25466,11 +25471,11 @@
         "linux": {
             "root": "qtconfig",
             "symlinks": [
+                "qt5ct",
+                "qt6ct",
                 "qtconfig-qt4",
                 "qtconfig-qt5",
-                "qtconfig-qt6",
-                "qt5ct",
-                "qt6ct"
+                "qtconfig-qt6"
             ]
         }
     },
