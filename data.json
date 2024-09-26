@@ -35181,6 +35181,14 @@
             "root": "steam_icon_61600"
         }
     },
+    "zen-browser": {
+        "linux": {
+            "root": "zen-browser",
+            "symlinks": [
+                "io.github.zen_browser.zen"
+            ]
+        }
+    },
     "zenmap": {
         "linux": {
             "root": "zenmap",
