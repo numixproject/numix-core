@@ -12060,7 +12060,10 @@
     },
     "glc-player": {
         "linux": {
-            "root": "glc_player"
+            "root": "glc_player",
+            "symlinks": [
+                "io.github.ecotubehq.player"
+            ]
         }
     },
     "glide": {
@@ -21495,6 +21498,14 @@
             "root": "ocsstore",
             "symlinks": [
                 "opendesktop-app"
+            ]
+        }
+    },
+    "oculante": {
+        "linux": {
+            "root": "oculante",
+            "symlinks": [
+                "io.github.woelper.Oculante"
             ]
         }
     },
