@@ -20227,7 +20227,10 @@
     },
     "mudlet": {
         "linux": {
-            "root": "mudlet"
+            "root": "mudlet",
+            "symlinks": [
+                "io.github.MrPiggy92.ScriptedJourneys"
+            ]
         }
     },
     "muezzin": {
