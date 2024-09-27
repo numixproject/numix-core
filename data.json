@@ -18415,6 +18415,7 @@
             "root": "logisim",
             "symlinks": [
                 "com.cburch.Logisim",
+                "com.github.hneemann.digital",
                 "com.github.reds.LogisimEvolution",
                 "glogic",
                 "klogic4",
@@ -21501,14 +21502,6 @@
             ]
         }
     },
-    "oculante": {
-        "linux": {
-            "root": "oculante",
-            "symlinks": [
-                "io.github.woelper.Oculante"
-            ]
-        }
-    },
     "octave": {
         "linux": {
             "root": "octave",
@@ -21531,6 +21524,14 @@
             "root": "octopi",
             "symlinks": [
                 "octopi-repoeditor"
+            ]
+        }
+    },
+    "oculante": {
+        "linux": {
+            "root": "oculante",
+            "symlinks": [
+                "io.github.woelper.Oculante"
             ]
         }
     },
@@ -22991,6 +22992,7 @@
             "symlinks": [
                 "flpsed",
                 "io.github.diegoivan.pdf_metadata_editor",
+                "io.github.mihnea_radulescu.quickpdfjoin",
                 "master-pdf-editor",
                 "master-pdf-editor3",
                 "masterpdfeditor3",
@@ -27951,7 +27953,8 @@
         "linux": {
             "root": "sirikali",
             "symlinks": [
-                "io.github.mhogomchungu.SiriKali"
+                "io.github.mhogomchungu.SiriKali",
+                "io.github.mhogomchungu.sirikali"
             ]
         }
     },
@@ -27959,7 +27962,8 @@
         "linux": {
             "root": "siril",
             "symlinks": [
-                "org.free-astro.siril"
+                "org.free-astro.siril",
+                "org.siril.Siril"
             ]
         }
     },
@@ -31236,7 +31240,10 @@
     },
     "trelby": {
         "linux": {
-            "root": "trelby"
+            "root": "trelby",
+            "symlinks": [
+                "org.trelby.Trelby"
+            ]
         }
     },
     "tresorit": {
