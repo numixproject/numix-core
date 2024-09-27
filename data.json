@@ -23378,6 +23378,14 @@
             "root": "pico-8"
         }
     },
+    "picocrypt": {
+        "linux": {
+            "root": "picocrypt",
+            "symlinks": [
+                "io.github.picocrypt.Picocrypt"
+            ]
+        }
+    },
     "picom": {
         "linux": {
             "root": "picom"
