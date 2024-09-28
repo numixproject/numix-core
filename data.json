@@ -34870,6 +34870,14 @@
             "root": "y-ppa-manager"
         }
     },
+    "yacas-gui": {
+        "linux": {
+            "root": "yacas-gui",
+            "symlinks": [
+                "org.yacas.yacas-gui"
+            ]
+        }
+    },
     "yacreader": {
         "linux": {
             "root": "yacreader",
