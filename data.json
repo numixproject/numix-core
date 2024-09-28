@@ -15954,6 +15954,7 @@
             "symlinks": [
                 "com.gitlab.JakobDev.jdAnimatedImageEditor",
                 "com.nickgirga.webready",
+                "io.github.breadmakesyoufull.bpm2fps",
                 "page.codeberg.JakobDev.jdAnimatedImageEditor"
             ]
         }
@@ -19017,6 +19018,14 @@
                 "io.gitlab.elescoute.password",
                 "org.emilien.Password",
                 "qmasterpassword"
+            ]
+        }
+    },
+    "masvisgtk": {
+        "linux": {
+            "root": "masvisgtk",
+            "symlinks": [
+                "io.github.itprojects.MasVisGtk"
             ]
         }
     },
