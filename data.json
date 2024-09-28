@@ -3283,6 +3283,7 @@
         "linux": {
             "root": "blink",
             "symlinks": [
+                "ch.bailu.gtk_meteo",
                 "io.github.ychclone.blink"
             ]
         }
@@ -12096,7 +12097,9 @@
         "linux": {
             "root": "glide",
             "symlinks": [
-                "net.base-art.Glide"
+                "net.base_art.Glide",
+                "net.base-art.Glide",
+                "net.baseart.Glide"
             ]
         }
     },
@@ -17589,7 +17592,10 @@
     },
     "kylin-video": {
         "linux": {
-            "root": "kylin-video"
+            "root": "kylin-video",
+            "symlinks": [
+                "dev.toastbits.spmp"
+            ]
         }
     },
     "laborejo": {
@@ -19221,6 +19227,7 @@
         "linux": {
             "root": "media-downloader",
             "symlinks": [
+                "com.markopejic.downloader",
                 "io.github.giantpinkrobots.varia",
                 "streamcapture2"
             ]
@@ -22770,6 +22777,7 @@
         "linux": {
             "root": "parano",
             "symlinks": [
+                "de.hohnstaedt.xca",
                 "io.github.chris2511.xca",
                 "kleopatra",
                 "org.kde.kleopatra",
@@ -29749,7 +29757,8 @@
         "linux": {
             "root": "syntalos",
             "symlinks": [
-                "io.github.bothlab.syntalos"
+                "io.github.bothlab.syntalos",
+                "org.syntalos.syntalos"
             ]
         }
     },
