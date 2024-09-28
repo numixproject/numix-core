@@ -18235,6 +18235,7 @@
             "root": "lime",
             "symlinks": [
                 "io.github.lime3ds.Lime3DS",
+                "io.github.limo_app.limo",
                 "org.limetext.qml.LimeText"
             ]
         }
@@ -26062,6 +26063,7 @@
         "linux": {
             "root": "randomgtk",
             "symlinks": [
+                "io.github.mezoahmedii.Picker",
                 "page.codeberg.foreverxml.Random"
             ]
         }
@@ -29988,7 +29990,8 @@
         "linux": {
             "root": "tabletop-club",
             "symlinks": [
-                "io.itch.drwhut.TabletopClub"
+                "io.itch.drwhut.TabletopClub",
+                "net.tabletopclub.TabletopClub"
             ]
         }
     },
@@ -34317,7 +34320,7 @@
             ]
         }
     },
-     "wivrn": {
+    "wivrn": {
         "linux": {
             "root": "wivrn",
             "symlinks": [
@@ -35068,6 +35071,14 @@
             "root": "yarssr",
             "symlinks": [
                 "paper_green"
+            ]
+        }
+    },
+    "yass": {
+        "linux": {
+            "root": "yass",
+            "symlinks": [
+                "io.github.chilledheart.yass"
             ]
         }
     },
