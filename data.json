@@ -2112,6 +2112,14 @@
             ]
         }
     },
+    "artisan": {
+        "linux": {
+            "root": "artisan",
+            "symlinks": [
+                "org.artisan_scope.artisan"
+            ]
+        }
+    },
     "arx": {
         "linux": {
             "root": "arx",
