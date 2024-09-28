@@ -12097,8 +12097,8 @@
         "linux": {
             "root": "glide",
             "symlinks": [
-                "net.base_art.Glide",
                 "net.base-art.Glide",
+                "net.base_art.Glide",
                 "net.baseart.Glide"
             ]
         }
@@ -14850,6 +14850,14 @@
             "symlinks": [
                 "holc",
                 "holc-icon192x192"
+            ]
+        }
+    },
+    "hoptodesk": {
+        "linux": {
+            "root": "hoptodesk",
+            "symlinks": [
+                "com.hoptodesk.HopToDesk"
             ]
         }
     },
