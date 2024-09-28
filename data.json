@@ -19696,6 +19696,14 @@
             "root": "miro-browse"
         }
     },
+    "mirrorhall": {
+        "linux": {
+            "root": "mirrorhall",
+            "symlinks": [
+                "eu.nokun.MirrorHall"
+            ]
+        }
+    },
     "mirrors-edge": {
         "linux": {
             "root": "steam_icon_17410"
