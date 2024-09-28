@@ -16285,7 +16285,7 @@
             ]
         }
     },
-        "jupyter-nbclassic": {
+    "jupyter-nbclassic": {
         "linux": {
             "root": "jupyter-nbclassic",
             "symlinks": [
@@ -16376,6 +16376,14 @@
             "symlinks": [
                 "io.github.dgsasha.Remembrance",
                 "org.kde.kalarm"
+            ]
+        }
+    },
+    "kalba": {
+        "linux": {
+            "root": "kalba",
+            "symlinks": [
+                "com.kalbareader.Kalba"
             ]
         }
     },
