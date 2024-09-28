@@ -437,6 +437,7 @@
                 "atril",
                 "deepin-reader",
                 "graphics-viewer-document",
+                "io.github.b43NnUNF4vidFYFhpqaLWy2ANawtRbMtUXZY9Pf.jumpdf",
                 "maui-shelf",
                 "org.cubocore.CorePDF",
                 "org.kde.shelf",
@@ -15589,7 +15590,10 @@
     },
     "ipscan": {
         "linux": {
-            "root": "ipscan"
+            "root": "ipscan",
+            "symlinks": [
+                "org.angryip.ipscan"
+            ]
         }
     },
     "iptracker": {
@@ -16484,6 +16488,7 @@
         "linux": {
             "root": "kbreakout",
             "symlinks": [
+                "io.github.yesser_studios.Pong",
                 "lbreakouthd",
                 "net.sourceforge.lgames.LBreakoutHD",
                 "org.kde.kbreakout"
@@ -22778,6 +22783,7 @@
         "linux": {
             "root": "parnold-x.timer",
             "symlinks": [
+                "co.logonoff.awakeonlan",
                 "com.github.parnold-x.timer"
             ]
         }
@@ -32249,6 +32255,7 @@
         "linux": {
             "root": "vcvrack",
             "symlinks": [
+                "com.vcvrack.Rack2",
                 "VCVRack"
             ]
         }
