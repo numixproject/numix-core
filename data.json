@@ -6323,6 +6323,7 @@
         "linux": {
             "root": "cpuinfo",
             "symlinks": [
+                "com.kgurgul.cpuinfo",
                 "us.tylerc.cycles"
             ]
         }
@@ -17749,6 +17750,15 @@
     "lazarus": {
         "linux": {
             "root": "lazarus"
+        }
+    },
+    "lazfuck": {
+        "linux": {
+            "root": "lazfuck",
+            "symlinks": [
+                "LazFuck",
+                "net.zdechov.app.LazFuck"
+            ]
         }
     },
     "lbry": {
