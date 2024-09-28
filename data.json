@@ -6725,9 +6725,17 @@
             ]
         }
     },
-    "damask": {
+    "damask-grid": {
         "linux": {
-            "root": "damask",
+            "root": "damask-grid",
+            "symlinks": [
+                "org.damask_multiphysics.DAMASK_grid"
+            ]
+        }
+    },
+    "damask-mesh": {
+        "linux": {
+            "root": "damask-mesh",
             "symlinks": [
                 "org.damask_multiphysics.DAMASK_mesh"
             ]
