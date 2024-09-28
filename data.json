@@ -26226,6 +26226,14 @@
             "root": "recoll"
         }
     },
+    "recordbox": {
+        "linux": {
+            "root": "recordbox",
+            "symlinks": [
+                "ca.edestcroix.Recordbox"
+            ]
+        }
+    },
     "red-game": {
         "android": [
             "air.com.bartbonte.red/air.com.bartbonte.red.AppEntry"
