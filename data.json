@@ -6725,6 +6725,14 @@
             ]
         }
     },
+    "damask": {
+        "linux": {
+            "root": "damask",
+            "symlinks": [
+                "org.damask_multiphysics.DAMASK_mesh"
+            ]
+        }
+    },
     "dangerzone": {
         "linux": {
             "root": "dangerzone",
