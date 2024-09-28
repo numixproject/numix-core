@@ -18399,6 +18399,14 @@
             ]
         }
     },
+    "lnxlink": {
+        "linux": {
+            "root": "lnxlink",
+            "symlinks": [
+                "io.github.bkbilly.lnxlink"
+            ]
+        }
+    },
     "localchat": {
         "linux": {
             "root": "localchat",
@@ -19238,6 +19246,7 @@
             "symlinks": [
                 "com.markopejic.downloader",
                 "io.github.giantpinkrobots.varia",
+                "io.github.mhogomchungu.media-downloader",
                 "streamcapture2"
             ]
         }
