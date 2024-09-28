@@ -1903,6 +1903,14 @@
             "root": "archipelago"
         }
     },
+    "archives": {
+        "linux": {
+            "root": "archives",
+            "symlinks": [
+                "dev.geopjr.Archives"
+            ]
+        }
+    },
     "ardour": {
         "linux": {
             "root": "ardour",
@@ -34659,7 +34667,8 @@
         "linux": {
             "root": "x11-calc",
             "symlinks": [
-                "io.github.mike632t.x11_calc"
+                "io.github.mike632t.x11_calc",
+                "uno.platform.uno-calculator"
             ]
         }
     },
