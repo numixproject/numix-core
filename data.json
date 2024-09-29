@@ -10278,6 +10278,7 @@
         "linux": {
             "root": "fingerpaint",
             "symlinks": [
+                "io.github.electronstudio.WeylusCommunityEdition",
                 "io.github.wazzaps.Fingerpaint"
             ]
         }
@@ -11645,6 +11646,7 @@
                 "gedbi",
                 "gnome-mime-application-x-deb",
                 "nx-software-center",
+                "org.dupot.easyflatpak",
                 "org.nxos.softwarecenter",
                 "pkgbrowser",
                 "tkpacman",
@@ -22566,11 +22568,20 @@
             ]
         }
     },
+    "overlayed": {
+        "linux": {
+            "root": "overlayed",
+            "symlinks": [
+                "dev.overlayed.Overlayed"
+            ]
+        }
+    },
     "oversteer": {
         "linux": {
             "root": "oversteer",
             "symlinks": [
                 "io.github.berarma.Oversteer",
+                "io.github.lawstorant.boxflat",
                 "io.itch.pyLinuxWheel",
                 "org.berarma.Oversteer",
                 "pyLinuxWheel",
