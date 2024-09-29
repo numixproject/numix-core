@@ -5430,7 +5430,8 @@
         "linux": {
             "root": "chess-clock",
             "symlinks": [
-                "com.clarahobbs.chessclock"
+                "com.clarahobbs.chessclock",
+                "eu.fortysixandtwo.chessclock"
             ]
         }
     },
@@ -5638,7 +5639,10 @@
     },
     "cinecred": {
         "linux": {
-            "root": "cinecred"
+            "root": "cinecred",
+            "symlinks": [
+                "com.cinecred.cinecred"
+            ]
         }
     },
     "cinelerra": {
@@ -9991,7 +9995,10 @@
     },
     "fedy": {
         "linux": {
-            "root": "fedy"
+            "root": "fedy",
+            "symlinks": [
+                "dev.edfloreshz.CosmicTweaks"
+            ]
         }
     },
     "feedly": {
@@ -10767,6 +10774,7 @@
         "linux": {
             "root": "font-manager",
             "symlinks": [
+                "com.github.FontManager.FontManager",
                 "font-viewer",
                 "org.gnome.FontManager",
                 "org.gnome.FontViewer"
@@ -10856,6 +10864,7 @@
         "linux": {
             "root": "forecast",
             "symlinks": [
+                "com.jwestall.Forecast",
                 "dev.salaniLeo.forecast"
             ]
         }
@@ -12761,7 +12770,8 @@
             "root": "gnome-podcasts",
             "symlinks": [
                 "io.github.Rirusha.Cassette",
-                "org.gnome.Podcasts"
+                "org.gnome.Podcasts",
+                "space.rirusha.Cassette"
             ]
         }
     },
@@ -16280,7 +16290,7 @@
         "linux": {
             "root": "jumpnbump",
             "symlinks": [
-                "rio.gitlab.LibreGames.jumpnbump"
+                "io.gitlab.LibreGames.jumpnbump"
             ]
         }
     },
@@ -25068,6 +25078,7 @@
             "symlinks": [
                 "kfilereplace",
                 "org.cubocore.CoreRenamer",
+                "org.ricsdev.pathnv",
                 "prefixsuffix"
             ]
         }
