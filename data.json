@@ -3473,6 +3473,15 @@
             ]
         }
     },
+    "bmicalculator": {
+        "linux": {
+            "root": "bmicalculator",
+            "symlinks": [
+                "io.github.johannesboehler2.BmiCalculator",
+                "io.github.philippkosarev.bmi"
+            ]
+        }
+    },
     "boatswain": {
         "linux": {
             "root": "boatswain",
@@ -24910,7 +24919,8 @@
         "linux": {
             "root": "pure-maps",
             "symlinks": [
-                "harbour-pure-maps"
+                "harbour-pure-maps",
+                "io.github.rinigus.PureMaps"
             ]
         }
     },
