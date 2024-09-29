@@ -9856,6 +9856,7 @@
         "linux": {
             "root": "factorio",
             "symlinks": [
+                "io.github.plrigaux.sysd-manager",
                 "steam_icon_427520",
                 "steam_icon_452280"
             ]
@@ -20177,6 +20178,15 @@
     "mpz": {
         "linux": {
             "root": "mpz"
+        }
+    },
+    "mqttmultimeter": {
+        "linux": {
+            "root": "mqttmultimeter",
+            "symlinks": [
+                "io.github.chkr1011.mqttMultimeter",
+                "mqttMultimeter"
+            ]
         }
     },
     "mqttx": {
