@@ -9451,6 +9451,15 @@
             ]
         }
     },
+    "ente": {
+        "linux": {
+            "root": "ente",
+            "symlinks": [
+                "io.ente.auth",
+                "io.ente.photos"
+            ]
+        }
+    },
     "enter-the-gungeon": {
         "linux": {
             "root": "steam_icon_311690"
@@ -26155,7 +26164,10 @@
     },
     "rapid-photo-downloader": {
         "linux": {
-            "root": "rapid-photo-downloader"
+            "root": "rapid-photo-downloader",
+            "symlinks": [
+                "net.damonlynch.rapid_photo_downloader"
+            ]
         }
     },
     "rapidsvn": {
