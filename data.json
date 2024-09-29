@@ -1753,6 +1753,7 @@
                 "deepin-game-center",
                 "garuda-gamer",
                 "gnome-games",
+                "io.github.accessory.minus_games",
                 "org.gnome.Games",
                 "org.gnome.World.Highscore",
                 "org.kde.arkade",
@@ -25177,6 +25178,14 @@
             ]
         }
     },
+    "qcanvas": {
+        "linux": {
+            "root": "qcanvas",
+            "symlinks": [
+                "io.github.qcanvas.QCanvasApp"
+            ]
+        }
+    },
     "qcheckers": {
         "linux": {
             "root": "qcheckers"
@@ -26415,6 +26424,7 @@
                 "com.github.artemanufrij.regextester",
                 "com.neoutils.NeoRegex",
                 "io.github.fkinoshita.Wildcard",
+                "io.github.lucasew.regex101",
                 "kregexpeditor",
                 "org.kde.kregexpeditor"
             ]
@@ -26952,7 +26962,8 @@
         "linux": {
             "root": "liferea",
             "symlinks": [
-                "net.sourceforge.liferea"
+                "net.sourceforge.liferea",
+                "org.gnome.gitlab.cheywood.Pulp"
             ]
         }
     },
@@ -27572,6 +27583,7 @@
         "linux": {
             "root": "seamlyme",
             "symlinks": [
+                "io.seamly.seamly2d",
                 "net.seamly.seamly2d",
                 "seamly2d",
                 "tape"
