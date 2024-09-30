@@ -35111,6 +35111,14 @@
             "root": "y-ppa-manager"
         }
     },
+    "yaak": {
+        "linux": {
+            "root": "yaak",
+            "symlinks": [
+                "yaak-app"
+            ]
+        }
+    },
     "yacas-gui": {
         "linux": {
             "root": "yacas-gui",
