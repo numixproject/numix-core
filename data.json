@@ -29689,6 +29689,15 @@
             ]
         }
     },
+    "supersonic": {
+        "linux": {
+            "root": "supersonic",
+            "symlinks": [
+                "io.github.dweymouth.supersonic",
+                "supersonic-desktop"
+            ]
+        }
+    },
     "supertux": {
         "linux": {
             "root": "supertux",
@@ -30247,9 +30256,7 @@
         "linux": {
             "root": "tauonmb",
             "symlinks": [
-                "com.github.taiko2k.tauonmb",
-                "io.github.dweymouth.supersonic",
-                "supersonic-desktop"
+                "com.github.taiko2k.tauonmb"
             ]
         }
     },
