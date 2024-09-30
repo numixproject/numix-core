@@ -17575,6 +17575,7 @@
                 "civ",
                 "com.deepin.ImageViewer",
                 "com.endlessm.photos",
+                "com.github.aliencoweatcake.imageviewer",
                 "com.github.artemanufrij.showmypictures",
                 "deepin-image-viewer",
                 "org.deepin.flatdeb.deepin-image-viewer",
@@ -27806,6 +27807,7 @@
         "linux": {
             "root": "setbfree",
             "symlinks": [
+                "GrandOrgue",
                 "grandorgue",
                 "net.sourceforge.GrandOrgue",
                 "org.freedesktop.LinuxAudio.Lv2Plugins.setBfree",
@@ -28192,6 +28194,11 @@
                 "org.free-astro.siril",
                 "org.siril.Siril"
             ]
+        }
+    },
+    "siteone-crawler": {
+        "linux": {
+            "root": "siteone-crawler"
         }
     },
     "siyuan": {
