@@ -16539,6 +16539,15 @@
             ]
         }
     },
+    "katharagui": {
+        "linux": {
+            "root": "katharagui",
+            "symlinks": [
+                "io.github.buonhobo.KatharaGUI",
+                "KatharaGUI"
+            ]
+        }
+    },
     "katomic": {
         "linux": {
             "root": "katomic",
