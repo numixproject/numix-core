@@ -6158,9 +6158,14 @@
             ]
         }
     },
+    "container-desktop": {
+        "linux": {
+            "root": "container-desktop"
+        }
+    },
     "contour": {
         "linux": {
-            "root": "cotour",
+            "root": "contour",
             "symlinks": [
                 "org.contour_terminal.Terminal",
                 "org.contourterminal.Contour"
