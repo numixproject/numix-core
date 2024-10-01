@@ -1,6 +1,6 @@
 <svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <linearGradient id="bg" x1="-47" x2="-1" y1="0" y2="0" gradientUnits="userSpaceOnUse">
+  <linearGradient id="bg" x1="-47" x2="-1" gradientUnits="userSpaceOnUse">
    <stop style="stop-color:#e9900c" offset="0"/>
    <stop style="stop-color:#f29a17" offset="1"/>
   </linearGradient>
@@ -11,5 +11,5 @@
  <rect transform="rotate(-90)" x="-47" y="1" width="46" height="46" rx="4" style="fill:url(#bg)"/>
  <path d="m12 16v17.4c0 0.871 0.801 1.56 1.78 1.56h20.4c0.98 0 1.78-0.69 1.78-1.56v-12.9l-21-2.06 20-3.35c1-0.234 1-0.545 1-1.15v-2z" style="opacity:.1"/>
  <path d="m1 39v4c0 2.22 1.78 4 4 4h38c2.22 0 4-1.78 4-4v-4c0 2.22-1.78 4-4 4h-38c-2.22 0-4-1.78-4-4z" style="opacity:.1"/>
- <path d="m35 10.2-22 3.43c-1 0.34-1 0.816-1 1.34v17.4c0 0.871 0.793 1.57 1.77 1.57h20.5c0.98 0 1.77-0.701 1.77-1.57v-12.9c0-0.867-0.791-1.57-1.77-1.57h-19.2v-0.5l20-3.34c1-0.234 1-0.559 1-1.17v-2c0-0.445-0.457-0.766-1-0.77z" style="fill:#474747"/>
+ <path d="m35 10.2-22 3.43c-1 0.34-1 0.816-1 1.34v17.4c0 0.871 0.793 1.57 1.77 1.57h20.5c0.98 0 1.77-0.701 1.77-1.57v-12.9c0-0.867-0.791-1.57-1.77-1.57h-19.2v-0.5l20-3.34c1-0.234 1-0.559 1-1.17v-2c0-0.445-0.457-0.766-1-0.77z" style="fill:#4d4d4d"/>
 </svg>
