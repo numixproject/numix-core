@@ -15834,7 +15834,9 @@
         "linux": {
             "root": "jack-keyboard",
             "symlinks": [
-                "midieditor"
+                "hu.irl.sysex-controls",
+                "midieditor",
+                "sysex-controls"
             ]
         }
     },
@@ -30204,6 +30206,7 @@
         "linux": {
             "root": "tally",
             "symlinks": [
+                "ca.vlacroix.Tally",
                 "com.cassidyjames.plausible"
             ]
         }
