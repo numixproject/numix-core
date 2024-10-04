@@ -24703,6 +24703,14 @@
             ]
         }
     },
+    "principia": {
+        "linux": {
+            "root": "principia",
+            "symlinks": [
+                "se.principia_web.principia"
+            ]
+        }
+    },
     "printer": {
         "linux": {
             "root": "printer",
@@ -33645,6 +33653,7 @@
         "linux": {
             "root": "lemmy",
             "symlinks": [
+                "app.drey.Lemmings",
                 "chrome-nhhpmhangmpelmnonfbaoefjelemgink-Default",
                 "chrome-pnfibfkdchmoejioppahgknbhgfddfal-Default",
                 "io.github.lemmygtk.lemoa"
