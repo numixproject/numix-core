@@ -1757,6 +1757,7 @@
         "linux": {
             "root": "applications-games",
             "symlinks": [
+                "app.drey.Highscore",
                 "arkade",
                 "deepin-game-center",
                 "garuda-gamer",
@@ -9506,6 +9507,7 @@
         "linux": {
             "root": "eolie",
             "symlinks": [
+                "app.drey.Navigator",
                 "org.gnome.Eolie"
             ]
         }
@@ -12924,6 +12926,7 @@
         "linux": {
             "root": "gnome-sound-recorder",
             "symlinks": [
+                "app.drey.Vocalis",
                 "audio-recorder",
                 "com.deepin.VoiceRecorder",
                 "com.github.ryonakano.reco",
