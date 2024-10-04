@@ -33051,6 +33051,15 @@
             ]
         }
     },
+    "volaris": {
+        "linux": {
+            "root": "volaris",
+            "symlinks": [
+                "com.leohanney.Volaris",
+                "volaris-gui"
+            ]
+        }
+    },
     "vollyball": {
         "linux": {
             "root": "vollyball",
