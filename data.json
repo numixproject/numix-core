@@ -11407,7 +11407,8 @@
             "symlinks": [
                 "app.furtherance.Furtherance",
                 "com.codemouse92.timecard",
-                "com.lakoliu.Furtherance"
+                "com.lakoliu.Furtherance",
+                "io.unobserved.furtherance"
             ]
         }
     },
@@ -16555,7 +16556,7 @@
             "root": "katharagui",
             "symlinks": [
                 "io.github.buonhobo.KatharaGUI",
-                "io.github.buonhobo.Katharsis,
+                "io.github.buonhobo.Katharsis",
                 "KatharaGUI",
                 "Katharsis"
             ]
@@ -29259,6 +29260,21 @@
                 "dev.lynith.Speedtest",
                 "xyz.ketok.Speedtest"
             ]
+        }
+    },
+    "stalker-cop": {
+        "linux": {
+            "root": "steam_icon_41700"
+        }
+    },
+    "stalker-cs": {
+        "linux": {
+            "root": "steam_icon_20510"
+        }
+    },
+    "stalker-soc": {
+        "linux": {
+            "root": "steam_icon_4500"
         }
     },
     "standardnotes": {
