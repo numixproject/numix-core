@@ -22081,6 +22081,15 @@
             "root": "open-stage-control"
         }
     },
+    "open-tv": {
+        "linux": {
+            "root": "open-tv",
+            "symlinks": [
+                "dev.fredol.open-tv",
+                "open_tv"
+            ]
+        }
+    },
     "openage": {
         "linux": {
             "root": "openage"
