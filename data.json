@@ -10634,6 +10634,14 @@
             "root": "flaw"
         }
     },
+    "flclash": {
+        "linux": {
+            "root": "flclash",
+            "symlinks": [
+                "io.github.chen08209.FlClash"
+            ]
+        }
+    },
     "flickr": {
         "linux": {
             "root": "flickr",
