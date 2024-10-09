@@ -9390,6 +9390,15 @@
         },
         "tags": ["world_baseplate"]
     },
+    "emptyepsilon": {
+        "linux": {
+            "root": "emptyepsilon",
+            "symlinks": [
+                "EmptyEpsilon",
+                "io.github.daid.EmptyEpsilon"
+            ]
+        }
+    },
     "emulationstation": {
         "linux": {
             "root": "emulationstation",
