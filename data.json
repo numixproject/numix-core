@@ -4043,6 +4043,7 @@
         "linux": {
             "root": "caffeine",
             "symlinks": [
+                "com.konstantintutsch.Caffeine",
                 "kaffeine",
                 "org.kde.kaffeine"
             ]
@@ -15138,7 +15139,8 @@
         "linux": {
             "root": "hypatia",
             "symlinks": [
-                "com.github.HypatiaProject.hypatia"
+                "com.github.HypatiaProject.hypatia",
+                "net.hypatiaproject.Hypatia"
             ]
         }
     },
@@ -32340,6 +32342,7 @@
                 "gnome-info",
                 "gnome-logo-icon-transparent",
                 "indicator-applet",
+                "io.github.cosmic_utils.Examine",
                 "page.codeberg.sungsphinx.Examine",
                 "user-info",
                 "xfce-system-info"
@@ -34503,6 +34506,7 @@
         "linux": {
             "root": "wireframe-sketcher",
             "symlinks": [
+                "com.wireframesketcher.WireframeSketcher",
                 "MrWriter",
                 "WireframeSketcher",
                 "WireframeSketcherStudio",
