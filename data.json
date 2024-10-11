@@ -5923,6 +5923,14 @@
             ]
         }
     },
+    "cloudotp": {
+        "linux": {
+            "root": "cloudotp",
+            "symlinks": [
+                "com.cloudchewie.cloudotp"
+            ]
+        }
+    },
     "clubhouse": {
         "linux": {
             "root": "clubhouse",
