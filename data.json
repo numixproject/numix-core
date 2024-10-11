@@ -15539,9 +15539,7 @@
         "linux": {
             "root": "inendi-inspector",
             "symlinks": [
-                "com.gitlab.inendi.Inspector",
-                "org.squey.Squey",
-                "squey"
+                "com.gitlab.inendi.Inspector"
             ]
         }
     },
@@ -29287,6 +29285,14 @@
     "squarecells": {
         "linux": {
             "root": "steam_icon_416770"
+        }
+    },
+    "squey": {
+        "linux": {
+            "root": "squey",
+            "symlinks": [
+                "org.squey.Squey"
+            ]
         }
     },
     "squiid": {
