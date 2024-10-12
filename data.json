@@ -21008,6 +21008,14 @@
             ]
         }
     },
+    "neoregex": {
+        "linux": {
+            "root": "neoregex",
+            "symlinks": [
+                "com.neoutils.NeoRegex",
+            ]
+        }
+    },
     "neosurf": {
         "linux": {
             "root": "neosurf"
@@ -26589,7 +26597,6 @@
             "symlinks": [
                 "com.felipekinoshita.Wildcard",
                 "com.github.artemanufrij.regextester",
-                "com.neoutils.NeoRegex",
                 "io.github.fkinoshita.Wildcard",
                 "io.github.lucasew.regex101",
                 "kregexpeditor",
