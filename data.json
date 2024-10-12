@@ -12578,9 +12578,9 @@
         "linux": {
             "root": "gnome-design-symbolicpreview",
             "symlinks": [
+                "cuttlefish",
                 "org.gnome.design.SymbolicPreview",
-                "org.kde.SymbolEditor",
-                "symboleditor"
+                "org.kde.cuttlefish"
             ]
         }
     },
@@ -22017,7 +22017,9 @@
                 "openofficeorg-draw",
                 "openofficeorg24-draw",
                 "openofficeorg3-draw",
-                "openofficeorg3.0-draw"
+                "openofficeorg3.0-draw",
+                "org.kde.SymbolEditor",
+                "symboleditor"
             ]
         }
     },
@@ -23908,7 +23910,7 @@
         "linux": {
             "root": "plasma",
             "symlinks": [
-                "cuttlefish"
+                "desktop-environment-plasma"
             ]
         }
     },
@@ -30195,6 +30197,7 @@
                 "kpackage",
                 "muon",
                 "org.gnome.Packages",
+                "org.kde.muon",
                 "org.manjaro.pamac.manager",
                 "package-manager-icon",
                 "pamac",
