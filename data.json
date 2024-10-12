@@ -7769,7 +7769,9 @@
         "linux": {
             "root": "distributor-logo-endeavouros",
             "symlinks": [
-                "endeavouros-icon"
+                "endeavouros-icon",
+                "start-here-endeavoursos",
+                "start-here-eos"
             ]
         }
     },
@@ -21012,7 +21014,7 @@
         "linux": {
             "root": "neoregex",
             "symlinks": [
-                "com.neoutils.NeoRegex",
+                "com.neoutils.NeoRegex"
             ]
         }
     },
@@ -24295,6 +24297,7 @@
             "root": "portfolio-performance",
             "symlinks": [
                 "info.portfolio_performance.PortfolioPerformance",
+                "name.abuchen.portfolio",
                 "PortfolioPerformance"
             ]
         }
@@ -29819,7 +29822,10 @@
     },
     "superproductivity": {
         "linux": {
-            "root": "superproductivity"
+            "root": "superproductivity",
+            "symlinks": [
+                "superProductivity"
+            ]
         }
     },
     "superslicer": {
