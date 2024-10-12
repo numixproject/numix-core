@@ -550,7 +550,8 @@
             "root": "accessories-system-cleaner",
             "symlinks": [
                 "csd-housekeeping",
-                "gconf-cleaner"
+                "gconf-cleaner",
+                "mx-cleanup"
             ]
         }
     },
@@ -3371,7 +3372,10 @@
     },
     "blue-log-viewer": {
         "linux": {
-            "root": "blue-log-viewer"
+            "root": "blue-log-viewer",
+            "symlinks": [
+                "mx-viewer"
+            ]
         }
     },
     "blue-recorder": {
@@ -6187,7 +6191,10 @@
     },
     "conky-manager-alt": {
         "linux": {
-            "root": "conky-manager-alt"
+            "root": "conky-manager-alt",
+            "symlinks": [
+                "mx-conky"
+            ]
         }
     },
     "connectagram": {
@@ -6624,7 +6631,8 @@
         "linux": {
             "root": "cs-desktop",
             "symlinks": [
-                "deepin-toggle-desktop"
+                "deepin-toggle-desktop",
+                "mx-tweak"
             ]
         }
     },
@@ -6632,7 +6640,8 @@
         "linux": {
             "root": "cs-user-accounts",
             "symlinks": [
-                "cs-cat-admin"
+                "cs-cat-admin",
+                "mx-user"
             ]
         }
     },
@@ -7993,7 +8002,10 @@
     },
     "distributor-logo-mx": {
         "linux": {
-            "root": "distributor-logo-mx"
+            "root": "distributor-logo-mx",
+            "symlinks": [
+                "mx-welcome"
+            ]
         }
     },
     "distributor-logo-neptuneos": {
@@ -12788,6 +12800,7 @@
         "linux": {
             "root": "gnome-network-displays",
             "symlinks": [
+                "mx-broadcom-manager",
                 "org.gnome.NetworkDisplays"
             ]
         }
@@ -15515,6 +15528,7 @@
                 "gtimelog",
                 "io.github.diegoivanme.flowtime",
                 "ktimetracker",
+                "mx-clocky",
                 "org.gtimelog.GTimeLog",
                 "org.kde.ktimetracker"
             ]
@@ -15522,7 +15536,10 @@
     },
     "indicator-sound-switcher": {
         "linux": {
-            "root": "indicator-sound-switcher"
+            "root": "indicator-sound-switcher",
+            "symlinks": [
+                "mx-select-sound"
+            ]
         }
     },
     "indicator-weather": {
@@ -16513,6 +16530,7 @@
             "root": "kalarm",
             "symlinks": [
                 "io.github.dgsasha.Remembrance",
+                "mx-alerts",
                 "org.kde.kalarm"
             ]
         }
@@ -17231,6 +17249,7 @@
             "root": "knetattach",
             "symlinks": [
                 "com.github.emmanueltouzery.hotwire",
+                "mx-network-assistant",
                 "org.kde.knetattach"
             ]
         }
@@ -19562,6 +19581,7 @@
                 "kmenuedit",
                 "menulibre",
                 "mozo",
+                "mx-menu-editor",
                 "org.bluesabre.MenuLibre",
                 "org.kde.kmenuedit",
                 "page.codeberg.libre_menu_editor.LibreMenuEditor",
@@ -20788,6 +20808,16 @@
             "symlinks": [
                 "com.vixalien.muzika"
             ]
+        }
+    },
+    "mx-bootrepair": {
+        "linux": {
+            "root": "mx-bootrepair"
+        }
+    },
+    "mx-snapshot": {
+        "linux": {
+            "root": "mx-snapshot"
         }
     },
     "mygnuhealth": {
@@ -24746,11 +24776,13 @@
                 "gtubeclock",
                 "gworldclock",
                 "ktimer",
+                "mx-timeset-gui-icon",
                 "org.kde.ktimer",
                 "preferences-system-cron",
                 "stock_alarm",
                 "time",
                 "time-admin",
+                "timeset-gui-icon",
                 "unity-datetime-panel",
                 "xfce-schedule",
                 "xfce4-clock"
@@ -28067,6 +28099,7 @@
             "root": "shares",
             "symlinks": [
                 "jftp",
+                "mx-findshares",
                 "org.kde.smb4k",
                 "smb4k"
             ]
@@ -28276,6 +28309,7 @@
             "root": "simplesteamtinker",
             "symlinks": [
                 "com.valvesoftware.Steam.Utility.steamtinkerlaunch",
+                "mx-tools",
                 "steamtinkerlaunch"
             ]
         }
@@ -28725,6 +28759,7 @@
                 "com.system76.CosmicStore",
                 "com.vicr123.theshop",
                 "mintinstall",
+                "mx-packageinstaller",
                 "openstore",
                 "theshop"
             ]
@@ -31252,7 +31287,8 @@
             "symlinks": [
                 "com.github.emmanueltouzery.cigale",
                 "com.github.lainsce.timetable",
-                "io.github.kaschpal.timetable"
+                "io.github.kaschpal.timetable",
+                "mx-datetime"
             ]
         }
     },
@@ -32453,6 +32489,7 @@
             "symlinks": [
                 "ejecter",
                 "mm",
+                "mx-usb-unmounter",
                 "vDisc"
             ]
         }
@@ -32832,7 +32869,8 @@
         "linux": {
             "root": "videomass",
             "symlinks": [
-                "io.github.jeanslack.videomass"
+                "io.github.jeanslack.videomass",
+                "mx-codecs"
             ]
         }
     },
@@ -35726,7 +35764,10 @@
     },
     "zeroinstall": {
         "linux": {
-            "root": "zeroinstall"
+            "root": "zeroinstall",
+            "symlinks": [
+                "mx-repo-manager"
+            ]
         },
         "tags": ["world_baseplate"]
     },
