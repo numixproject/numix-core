@@ -19880,6 +19880,14 @@
             "root": "steam_icon_17410"
         }
     },
+    "missioncenter": {
+        "linux": {
+            "root": "missioncenter",
+            "symlinks": [
+                "io.missioncenter.MissionCenter"
+            ]
+        }
+    },
     "mitmproxy": {
         "linux": {
             "root": "mitmproxy",
@@ -30112,7 +30120,6 @@
             "symlinks": [
                 "com.gitlab.kendellfab.restscope",
                 "com.vicr123.theheartbeat",
-                "io.missioncenter.MissionCenter",
                 "restscope",
                 "SysMonTask",
                 "theheartbeat"
