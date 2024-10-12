@@ -5240,6 +5240,7 @@
             "symlinks": [
                 "cataclysm-tiles",
                 "cataclysmdda",
+                "cataicon",
                 "org.cataclysmdda.CataclysmDDA",
                 "steam_icon_2330750"
             ]
@@ -16747,8 +16748,7 @@
             "root": "kdiskmark",
             "symlinks": [
                 "dev.jonmagon.kdiskmark",
-                "io.github.jonmagon.kdiskmark",
-                "net.nokyan.Resources"
+                "io.github.jonmagon.kdiskmark"
             ]
         }
     },
@@ -26715,6 +26715,11 @@
     "renpy": {
         "linux": {
             "root": "renpy"
+        }
+    },
+    "resources": {
+        "linux": {
+            "root": "net.nokyan.Resources"
         }
     },
     "response": {
