@@ -18066,6 +18066,15 @@
             "root": "lepton-snippet-manager"
         }
     },
+    "letterpress": {
+        "linux": {
+            "root": "letterpress",
+            "symlinks": [
+                "io.gitlab.gregorni.ASCIIImages",
+                "io.gitlab.gregorni.Letterpress"
+            ]
+        }
+    },
     "lftp": {
         "linux": {
             "root": "lftp",
@@ -26251,9 +26260,7 @@
         "linux": {
             "root": "qview",
             "symlinks": [
-                "com.interversehq.qView",
-                "io.gitlab.gregorni.ASCIIImages",
-                "io.gitlab.gregorni.Letterpress"
+                "com.interversehq.qView"
             ]
         }
     },
