@@ -10996,6 +10996,14 @@
             ]
         }
     },
+    "forge-sparks": {
+        "linux": {
+            "root": "forge-sparks",
+            "symlinks": [
+                "com.mardojai.ForgeSparks"
+            ]
+        }
+    },
     "forged-alliance-forever": {
         "linux": {
             "root": "ForgedAllianceForever",
@@ -12643,7 +12651,7 @@
             "root": "gnome-desktop-config"
         }
     },
-   "gnome-disks": {
+    "gnome-disks": {
         "linux": {
             "root": "gnome-disks",
             "symlinks": [
