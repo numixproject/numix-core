@@ -7463,6 +7463,20 @@
             ]
         }
     },
+    "disk-manager": {
+        "linux": {
+            "root": "disk-manager",
+            "symlinks": [
+                "deepin-diskmanager",
+                "gdiskdump",
+                "gdmap",
+                "gdmap_icon",
+                "matepalimpsest",
+                "ntfs-config",
+                "palimpsest"
+            ]
+        }
+    },
     "disk-usage-analyzer": {
         "linux": {
             "root": "disk-usage-analyzer",
@@ -12627,6 +12641,15 @@
     "gnome-desktop-config": {
         "linux": {
             "root": "gnome-desktop-config"
+        }
+    },
+   "gnome-disks": {
+        "linux": {
+            "root": "gnome-disks",
+            "symlinks": [
+                "gnome-disk-utility",
+                "org.gnome.DiskUtility"
+            ]
         }
     },
     "gnome-documents": {
@@ -22963,23 +22986,6 @@
             "root": "paleta",
             "symlinks": [
                 "io.github.nate_xyz.Paleta"
-            ]
-        }
-    },
-    "palimpsest": {
-        "linux": {
-            "root": "palimpsest",
-            "symlinks": [
-                "deepin-diskmanager",
-                "disk-manager",
-                "gdiskdump",
-                "gdmap",
-                "gdmap_icon",
-                "gnome-disk-utility",
-                "gnome-disks",
-                "matepalimpsest",
-                "ntfs-config",
-                "org.gnome.DiskUtility"
             ]
         }
     },
