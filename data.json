@@ -10918,9 +10918,9 @@
         "linux": {
             "root": "font-viewer",
             "symlinks": [
+                "org.gnome.font-viewer",
                 "org.gnome.Fonts",
-                "org.gnome.FontViewer",
-                "org.gnome.font-viewer"
+                "org.gnome.FontViewer"
             ]
         }
     },
