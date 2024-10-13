@@ -3767,7 +3767,10 @@
     },
     "brewtarget": {
         "linux": {
-            "root": "brewtarget"
+            "root": "brewtarget",
+            "symlinks": [
+                "beersmith"
+            ]
         }
     },
     "briar": {
