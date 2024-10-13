@@ -12850,6 +12850,9 @@
             "root": "gnome-news",
             "symlinks": [
                 "com.github.manexim.news",
+                "com.gitlab.newsflash",
+                "io.gitlab.news_flash.NewsFlash",
+                "newsflash",
                 "org.gnome.News"
             ]
         }
@@ -21296,13 +21299,9 @@
             ]
         }
     },
-    "newsflash": {
+    "news-flash": {
         "linux": {
-            "root": "newsflash",
-            "symlinks": [
-                "com.gitlab.newsflash",
-                "io.gitlab.news_flash.NewsFlash"
-            ]
+            "root": "news-flash"
         }
     },
     "nextcloud": {
