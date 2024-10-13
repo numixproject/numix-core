@@ -1643,6 +1643,7 @@
                 "cosmic-app-library",
                 "cosmic-app-list",
                 "create-launcher",
+                "custom-toolbox",
                 "deepin-launcher",
                 "pop-cosmic-applications"
             ]
@@ -6045,6 +6046,7 @@
                 "gksuexec-debian",
                 "gnome-do",
                 "gnome-do-panel",
+                "mx-service-manager",
                 "org.kde.mobile.plasmasettings",
                 "plasma-settings",
                 "system-config-services"
@@ -7164,6 +7166,7 @@
                 "dock",
                 "dockbarx",
                 "jdDesktopEntryEdit",
+                "mx-dockmaker",
                 "page.codeberg.JakobDev.jdDesktopEntryEdit",
                 "panel-applets",
                 "show-background",
@@ -8004,7 +8007,9 @@
         "linux": {
             "root": "distributor-logo-mx",
             "symlinks": [
-                "mx-welcome"
+                "mx-tour",
+                "mx-welcome",
+                "mxflux"
             ]
         }
     },
@@ -11759,6 +11764,7 @@
         "linux": {
             "root": "gdebi",
             "symlinks": [
+                "deb-installer",
                 "gdeb",
                 "gedbi",
                 "gnome-mime-application-x-deb",
@@ -12938,6 +12944,7 @@
             "root": "gnome-schedule",
             "symlinks": [
                 "FcronQ",
+                "job-scheduler",
                 "kapow",
                 "kcron",
                 "org.gottcode.Kapow",
@@ -13654,7 +13661,10 @@
     },
     "gpg-crypter": {
         "linux": {
-            "root": "gpg-crypter"
+            "root": "gpg-crypter",
+            "symlinks": [
+                "checkaptgpg"
+            ]
         }
     },
     "gpgfrontend": {
@@ -16757,7 +16767,8 @@
             "symlinks": [
                 "com.github.qarmin.czkawka",
                 "compared",
-                "org.kde.kdiff3"
+                "org.kde.kdiff3",
+                "xdelta3-gui"
             ]
         }
     },
@@ -20539,6 +20550,7 @@
             "root": "multibootusb",
             "symlinks": [
                 "deepin-boot-maker",
+                "formatusb",
                 "isodumper",
                 "isoimagewriter",
                 "org.kde.isoimagewriter"
@@ -20808,6 +20820,11 @@
             "symlinks": [
                 "com.vixalien.muzika"
             ]
+        }
+    },
+    "mx-boot-options": {
+        "linux": {
+            "root": "mx-boot-options"
         }
     },
     "mx-bootrepair": {
@@ -22941,6 +22958,7 @@
             "root": "palimpsest",
             "symlinks": [
                 "deepin-diskmanager",
+                "disk-manager",
                 "gdiskdump",
                 "gdmap",
                 "gdmap_icon",
@@ -28170,7 +28188,8 @@
             "root": "showmethekey",
             "symlinks": [
                 "one.alynx.showmethekey",
-                "page.codeberg.JakobDev.jdMacroPlayer"
+                "page.codeberg.JakobDev.jdMacroPlayer",
+                "system-keyboard-qt"
             ]
         }
     },
@@ -30187,7 +30206,10 @@
     },
     "system-config-samba": {
         "linux": {
-            "root": "system-config-samba"
+            "root": "system-config-samba",
+            "symlinks": [
+                "mx-samba-config"
+            ]
         }
     },
     "system-hibernate": {
@@ -31051,6 +31073,7 @@
                 "cs-themes",
                 "gnome-settings-theme",
                 "gtk-theme-config",
+                "mxrm-icon",
                 "org.xfce.settings.appearance",
                 "preferences-desktop-theme",
                 "preferences-desktop-theme-global",
@@ -32477,6 +32500,7 @@
                 "gnome-logo-icon-transparent",
                 "indicator-applet",
                 "io.github.cosmic_utils.Examine",
+                "mx-qsi",
                 "page.codeberg.sungsphinx.Examine",
                 "user-info",
                 "xfce-system-info"
