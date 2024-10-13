@@ -10918,8 +10918,8 @@
         "linux": {
             "root": "font-viewer",
             "symlinks": [
-                "org.gnome.FontViewer",
                 "org.gnome.Fonts",
+                "org.gnome.FontViewer",
                 "org.gnome.font-viewer"
             ]
         }
@@ -22376,6 +22376,14 @@
             ]
         }
     },
+    "opendeck": {
+        "linux": {
+            "root": "opendeck",
+            "symlinks": [
+                "me.amankhanna.opendeck"
+            ]
+        }
+    },
     "opendict": {
         "linux": {
             "root": "opendict"
@@ -26858,14 +26866,6 @@
             ]
         }
     },
-    "retrom": {
-        "linux": {
-            "root": "retrom",
-            "symlinks": [
-                "Retrom"
-            ]
-        }
-    },
     "retroarch": {
         "linux": {
             "root": "retroarch",
@@ -26873,6 +26873,14 @@
                 "fs-uae-arcade",
                 "org.libretro.RetroArch",
                 "steam_icon_1118310"
+            ]
+        }
+    },
+    "retrom": {
+        "linux": {
+            "root": "retrom",
+            "symlinks": [
+                "Retrom"
             ]
         }
     },
