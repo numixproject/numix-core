@@ -10910,9 +10910,9 @@
         "linux": {
             "root": "font-viewer",
             "symlinks": [
-                "org.gnome.font-viewer",
                 "org.gnome.FontViewer",
-                "org.gnome.Fonts"
+                "org.gnome.Fonts",
+                "org.gnome.font-viewer
             ]
         }
     },
@@ -11329,6 +11329,11 @@
             "symlinks": [
                 "org.frescobaldi.Frescobaldi"
             ]
+        }
+    },
+    "fretboard": {
+        "linux": {
+            "root": "dev.bragefuglseth.Fretboard"
         }
     },
     "friction": {
@@ -15560,10 +15565,7 @@
     },
     "impro-visor": {
         "linux": {
-            "root": "impro-visor",
-            "symlinks": [
-                "dev.bragefuglseth.Fretboard"
-            ]
+            "root": "impro-visor"
         }
     },
     "incredipede": {
