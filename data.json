@@ -10902,9 +10902,17 @@
             "root": "font-manager",
             "symlinks": [
                 "com.github.FontManager.FontManager",
-                "font-viewer",
-                "org.gnome.FontManager",
-                "org.gnome.FontViewer"
+                "org.gnome.FontManager"
+            ]
+        }
+    },
+    "font-viewer": {
+        "linux": {
+            "root": "font-viewer",
+            "symlinks": [
+                "org.gnome.font-viewer",
+                "org.gnome.FontViewer",
+                "org.gnome.Fonts"
             ]
         }
     },
@@ -10940,8 +10948,6 @@
                 "deepin-font-manager",
                 "gnome-settings-font",
                 "kfontview",
-                "org.gnome.font-viewer",
-                "org.gnome.Fonts",
                 "preferences-desktop-font"
             ]
         }
