@@ -11158,6 +11158,14 @@
             ]
         }
     },
+    "frappe-books": {
+        "linux": {
+            "root": "frappe-books",
+            "symlinks": [
+                "io.frappe.books"
+            ]
+        }
+    },
     "fraqtive": {
         "linux": {
             "root": "fraqtive"
