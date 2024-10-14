@@ -26724,9 +26724,7 @@
         "linux": {
             "root": "regextester",
             "symlinks": [
-                "com.felipekinoshita.Wildcard",
                 "com.github.artemanufrij.regextester",
-                "io.github.fkinoshita.Wildcard",
                 "io.github.lucasew.regex101",
                 "kregexpeditor",
                 "org.kde.kregexpeditor"
@@ -34650,6 +34648,15 @@
             "root": "wikit",
             "symlinks": [
                 "com.zhqli.wikit"
+            ]
+        }
+    },
+    "wildcard": {
+        "linux": {
+            "root": "wildcard",
+            "symlinks": [
+                "com.felipekinoshita.Wildcard",
+                "io.github.fkinoshita.Wildcard"
             ]
         }
     },
