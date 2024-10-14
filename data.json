@@ -15285,6 +15285,14 @@
             "root": "hyperdex"
         }
     },
+    "hyperplay": {
+        "linux": {
+            "root": "hyperplay",
+            "symlinks": [
+                "xyz.hyperplay.HyperPlay"
+            ]
+        }
+    },
     "hyperrogue": {
         "linux": {
             "root": "hyperrogue",
