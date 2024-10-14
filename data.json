@@ -29729,6 +29729,14 @@
             ]
         }
     },
+    "stockpile": {
+        "linux": {
+            "root": "stockpile",
+            "symlinks": [
+                "garden.turtle.Jellybean"
+            ]
+        }
+    },
     "stoken-gui": {
         "linux": {
             "root": "stoken-gui"
