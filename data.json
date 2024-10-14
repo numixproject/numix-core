@@ -23696,7 +23696,10 @@
     },
     "photokinesis": {
         "linux": {
-            "root": "photokinesis"
+            "root": "photokinesis",
+            "symlinks": [
+                "io.itsterminal.WebPConverter"
+            ]
         }
     },
     "photometric-viewer": {
