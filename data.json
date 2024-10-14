@@ -32965,6 +32965,15 @@
             ]
         }
     },
+    "video-downloader": {
+        "linux": {
+            "root": "video-downloader",
+            "symlinks": [
+                "com.github.unrud.VideoDownloader",
+                "org.gustavoperedo.VideoDownloader"
+            ]
+        }
+    },
     "videomass": {
         "linux": {
             "root": "videomass",
@@ -35661,10 +35670,8 @@
                 "com.github.JannikHv.Gydl",
                 "com.github.Johnn3y.Forklift",
                 "com.github.robertsanseries.karim",
-                "com.github.unrud.VideoDownloader",
                 "gydl",
                 "io.github.JaGoLi.ytdl_gui",
-                "org.gustavoperedo.VideoDownloader",
                 "youtube-dl-gui",
                 "youtube-dl-gui_48x48",
                 "youtube-dl-qt-icon",
