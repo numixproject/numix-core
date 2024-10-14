@@ -2505,6 +2505,14 @@
             "root": "auryo"
         }
     },
+    "ausweisapp": {
+        "linux": {
+            "root": "ausweisapp",
+            "symlinks": [
+                "de.bund.ausweisapp.ausweisapp2"
+            ]
+        }
+    },
     "authpass": {
         "linux": {
             "root": "authpass",
