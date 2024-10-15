@@ -3396,6 +3396,15 @@
             ]
         }
     },
+    "bluebubbles": {
+    "linux": {
+            "root": "bluebubbles",
+            "symlinks": [
+                "app.bluebubbles.BlueBubbles",
+                "bluebubbles-app"
+            ]
+        }
+    },
     "bluefish": {
         "linux": {
             "root": "bluefish",
