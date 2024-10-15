@@ -9052,6 +9052,17 @@
             "root": "steam_icon_202730"
         }
     },
+    "e2-sat-editor": {
+        "linux": {
+            "root": "e2-sat-editor",
+            "symlinks": [
+                "e2se",
+                "e2se-cli",
+                "io.github.ctlcltd.e2se",
+                "io.github.ctlcltd.e2se-cli"
+            ]
+        }
+    },
     "eagle": {
         "linux": {
             "root": "eagle",
