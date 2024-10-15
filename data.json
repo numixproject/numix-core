@@ -9581,6 +9581,7 @@
         "linux": {
             "root": "ente",
             "symlinks": [
+                "ente_auth",
                 "io.ente.auth",
                 "io.ente.photos"
             ]
@@ -15615,7 +15616,6 @@
         "linux": {
             "root": "iViewer",
             "symlinks": [
-                "app.bluebubbles.BlueBubbles",
                 "google-messages"
             ]
         }
