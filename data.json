@@ -11170,6 +11170,14 @@
             "root": "frama-c"
         }
     },
+    "framestop": {
+        "linux": {
+            "root": "framestop",
+            "symlinks": [
+                "io.github.Abstract_AA.Framestop"
+            ]
+        }
+    },
     "fran-bow": {
         "linux": {
             "root": "franbow",
