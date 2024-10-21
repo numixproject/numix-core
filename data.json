@@ -3898,6 +3898,7 @@
         "linux": {
             "root": "buddi",
             "symlinks": [
+                "com.dz4k.FruitCredits",
                 "org.nickvision.money",
                 "tilitin"
             ]
@@ -21385,7 +21386,10 @@
         "android": [
             "org.schabi.newpipe/org.schabi.newpipe.MainActivity",
             "org.schabi.newpipe/org.schabi.newpipe.VideoItemListActivity"
-        ]
+        ],
+        "linux": {
+            "root": "net.newpipe.NewPipe"
+        }
     },
     "newelle": {
         "linux": {
