@@ -21761,6 +21761,14 @@
             "root": "nteract"
         }
     },
+    "ntfy-desktop": {
+        "linux": {
+            "root": "ntfy-desktop",
+            "symlinks": [
+                "moe.emmaexe.ntfyDesktop"
+            ]
+        }
+    },
     "nuclear": {
         "linux": {
             "root": "nuclear",
@@ -34441,6 +34449,7 @@
                 "com.gigitux.youp",
                 "com.github.eneshecan.WhatsAppForLinux",
                 "com.github.WhatsApp-For-Linux",
+                "com.github.xeco23.WasIstLos",
                 "com.rtosta.zapzap",
                 "eu.scarpetta.QtWAW",
                 "io.bit3.WhatsAppQT",
