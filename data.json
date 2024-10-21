@@ -19114,6 +19114,7 @@
                 "m64p",
                 "mupen64plus",
                 "mupen64plus-qt",
+                "net.sourceforge.m64py.M64Py",
                 "org.mupen64plus.Mupen64Plus",
                 "simple64"
             ]
@@ -21824,6 +21825,7 @@
             "symlinks": [
                 "bumblebee-config-gui",
                 "com.leinardi.gwe",
+                "de.z_ray.OptimusUI",
                 "io.github.hmlendea.geforcenow-electron",
                 "nvidia-310-settings",
                 "nvidia-current-settings",
@@ -24352,7 +24354,10 @@
     },
     "polychromatic-controller": {
         "linux": {
-            "root": "polychromatic-controller"
+            "root": "polychromatic-controller",
+            "symlinks": [
+                "app.polychromatic.controller"
+            ]
         }
     },
     "polycode": {
@@ -27416,6 +27421,7 @@
         "linux": {
             "root": "rstudio",
             "symlinks": [
+                "co.posit.RStudio",
                 "com.rstudio.RStudio"
             ]
         }
