@@ -1,8 +1,8 @@
 # Numix Core
 
-[![By The Numix Project](https://img.shields.io/badge/By-The%20Numix%20Project-f0544c.svg?style=flat-round)](https://numixproject.org/)&nbsp;[![Test](https://img.shields.io/github/workflow/status/numixproject/numix-core/Test?label=Build)](https://github.com/numixproject/numix-core/actions/workflows/test.yml)
+[![By The Numix Project](https://img.shields.io/badge/By-The%20Numix%20Project-f0544c.svg?style=flat-round)](https://numixproject.org/)&nbsp;[![Test](https://img.shields.io/github/actions/workflow/status/numixproject/numix-core/test.yml?branch=master)](https://github.com/numixproject/numix-core/actions/workflows/test.yml)
 
-This repository powers the generation of the all the Numix app icon themes across all platforms. This new method is designed to make keeping themes on different platforms on feature parity easier as well as making it as simple as possible to add support for new platforms. Licensed under the GPL-3.0+ and maintained by [@foggalong](https://github.com/Foggalong) and [@palob](https://github.com/palob).
+This repository powers the generation of the all the Numix app icon themes across all platforms. This new method is designed to make keeping themes on different platforms on feature parity easier as well as making it as simple as possible to add support for new platforms. Licensed under the GPL-3.0+ and maintained by [@palob](https://github.com/palob).
 
 ## Artwork
 
