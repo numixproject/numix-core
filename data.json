@@ -15499,7 +15499,8 @@
                 "org.gtk.IconBrowser3",
                 "org.gtk.IconBrowser4",
                 "org.kde.Ikona",
-                "org.kde.ikona"
+                "org.kde.ikona",
+                "preferences-desktop-icons"
             ]
         }
     },
@@ -21806,8 +21807,7 @@
         "linux": {
             "root": "numix",
             "symlinks": [
-                "icon-requests",
-                "preferences-desktop-icons"
+                "icon-requests"
             ]
         }
     },
