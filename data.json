@@ -5880,6 +5880,7 @@
                 "claws-mail-32x32",
                 "claws-mail-64x64",
                 "clawsker",
+                "io.github.alescdb.mailviewer",
                 "org.claws_mail.Claws-Mail",
                 "org.clawsmail.Claws",
                 "org.kde.raven",
@@ -7075,7 +7076,8 @@
         "linux": {
             "root": "deepin-software-center",
             "symlinks": [
-                "deepin-appstore"
+                "deepin-appstore",
+                "deepin-store"
             ]
         }
     },
@@ -16708,7 +16710,8 @@
             "symlinks": [
                 "anagramarama",
                 "com.identicalsoftware.anagramarama",
-                "org.kde.kanagram"
+                "org.kde.kanagram",
+                "org.swordpuffin.splices"
             ]
         }
     },
