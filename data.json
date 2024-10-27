@@ -21650,7 +21650,8 @@
         "linux": {
             "root": "normcap",
             "symlinks": [
-                "com.github.dynobo.normcap"
+                "com.github.dynobo.normcap",
+                "com.github.philip-scott.wallpaperize"
             ]
         }
     },
@@ -26298,6 +26299,7 @@
             "symlinks": [
                 "animechecker",
                 "artemanufrij.hashit",
+                "com.github.arshubham.cipher",
                 "com.github.artemanufrij.hashit",
                 "hashomatic",
                 "io.github.zefr0x.hashes",
@@ -26936,7 +26938,10 @@
     },
     "resources": {
         "linux": {
-            "root": "net.nokyan.Resources"
+            "root": "net.nokyan.Resources",
+            "symlinks": [
+                "com.github.kmal-kenneth.monilet"
+            ]
         }
     },
     "response": {
