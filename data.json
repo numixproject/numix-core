@@ -14603,7 +14603,11 @@
     },
     "gyroflow": {
         "linux": {
-            "root": "gyroflow"
+            "root": "gyroflow",
+            "symlinks": [
+                "kirogi",
+                "org.kde.kirogi"
+            ]
         }
     },
     "gzdoom": {
