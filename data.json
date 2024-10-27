@@ -3401,7 +3401,9 @@
             "root": "bluebubbles",
             "symlinks": [
                 "app.bluebubbles.BlueBubbles",
-                "bluebubbles-app"
+                "bluebubbles-app",
+                "com.github.alonsoenrique.quotes",
+                "com.github.ma1onso.quotes"
             ]
         }
     },
@@ -12543,7 +12545,10 @@
     },
     "gnome-appfolders-manager": {
         "linux": {
-            "root": "gnome-appfolders-manager"
+            "root": "gnome-appfolders-manager",
+            "symlinks": [
+                "com.github.spheras.desktopfolder"
+            ]
         }
     },
     "gnome-arcade": {
@@ -15525,7 +15530,8 @@
         "linux": {
             "root": "iease-music",
             "symlinks": [
-                "com.fyralabs.Victrola"
+                "com.fyralabs.Victrola",
+                "com.github.bcedu.museic"
             ]
         }
     },
@@ -16459,6 +16465,7 @@
         "linux": {
             "root": "journable",
             "symlinks": [
+                "com.github.thejambi.dayjournal",
                 "net.daase.journable"
             ]
         }
@@ -19489,6 +19496,7 @@
         "linux": {
             "root": "maui-nota",
             "symlinks": [
+                "com.github.thejambi.psnotes",
                 "nota",
                 "org.kde.nota"
             ]
@@ -28805,6 +28813,7 @@
         "linux": {
             "root": "slowmovideo",
             "symlinks": [
+                "com.github.bharatkalluri.gifup",
                 "net.granjow.slowmovideo"
             ]
         }
@@ -30973,6 +30982,7 @@
         "linux": {
             "root": "terminus",
             "symlinks": [
+                "com.github.bartzaalberg.bookmark-manager",
                 "org.rastersoft.terminus"
             ]
         }
@@ -34222,6 +34232,7 @@
             "root": "web-pushbullet",
             "symlinks": [
                 "chrome-chlffgpmiacpedhhbkiomidkjlcfhogd-Default",
+                "com.github.harisvsulaiman.pushy",
                 "pb-for-desktop",
                 "pushbullet-indicator"
             ]
