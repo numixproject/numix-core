@@ -1,8 +1,8 @@
 <svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
  <defs>
   <linearGradient id="bg" x2="0" y1="1" y2="47" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#18b259" offset="0"/>
-   <stop style="stop-color:#16a050" offset="1"/>
+   <stop style="stop-color:#a9eac3" offset="0"/>
+   <stop style="stop-color:#99e6b8" offset="1"/>
   </linearGradient>
  </defs>
  <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4zm0 0.5v0.5c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.5c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.02"/>
@@ -10,9 +10,8 @@
  <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
  <rect x="1" y="1" width="46" height="46" rx="4" style="fill:url(#bg)"/>
  <path d="m1 39v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
- <path d="m12 12.781v22.438c0 0.98 0.80125 1.7812 1.7812 1.7812h20.438c0.98 0 1.7812-0.80125 1.7812-1.7812v-19.219z" style="opacity:.1"/>
- <path d="m13.781 10c-0.98 0-1.7812 0.80125-1.7812 1.7812v22.438c0 0.98 0.80125 1.7812 1.7812 1.7812h20.438c0.98 0 1.7812-0.80125 1.7812-1.7812v-19.219l-5-5z" style="fill:#ecf2ed"/>
- <path d="m31 10v5h5" style="fill:#fff"/>
- <path d="m36 20v-5h-5" style="fill-opacity:.2"/>
- <path d="m16 18v15h16v-15zm1 1h4v4h-4zm5 0h9v4h-9zm-5 5h4v3h-4zm5 0h9v3h-9zm-5 4h4v4h-4zm5 0h9v4h-9z" style="fill:#13a553"/>
+ <path d="m14 13v22c0 1.108 0.892 2 2 2h16c1.108 0 2-0.892 2-2v-17z" style="opacity:.1"/>
+ <path d="m16 10h11l2 5 5 2v17c0 1.108-0.892 2-2 2h-16c-1.108 0-2-0.892-2-2v-22c0-1.108 0.892-2 2-2z" style="fill:#0fb352"/>
+ <path d="m27 10v5c0 1.108 0.892 2 2 2h5z" style="fill:#0e9a3f"/>
+ <path d="m18.5 20c-0.277 0-0.5 0.223-0.5 0.5v9c0 0.277 0.223 0.5 0.5 0.5h11c0.277 0 0.5-0.223 0.5-0.5v-9c0-0.277-0.223-0.5-0.5-0.5zm1.5 2h3v2h-3zm5 0h3v2h-3zm-5 4h3v2h-3zm5 0h3v2h-3z" style="fill:#f9f9f9"/>
 </svg>

@@ -1,0 +1,50 @@
+<svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="bg" x2="0" y1="1" y2="47" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#cc2c7a" offset="0"/>
+   <stop style="stop-color:#bc2870" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4zm0 0.5v0.5c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.5c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.02"/>
+ <path d="m1 43.25v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.05"/>
+ <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
+ <rect x="1" y="1" width="46" height="46" rx="4" style="fill:url(#bg)"/>
+ <path d="m1 39v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
+ <path d="m35 19-2 2-8-3 2-2z" style="fill:#e6e6e6"/>
+ <path d="m13 19 2 2 8-3-2-2z" style="fill:#e6e6e6"/>
+ <circle cx="24" cy="18" r="7" style="fill:#ac9393"/>
+ <path d="m18 18s2-3 6-3 6 3 6 3-2 3-6 3-6-3-6-3z" style="fill:#f9f9f9"/>
+ <circle cx="24" cy="19" r="2" style="fill:#f64242"/>
+ <path d="m14 30s-2-1.7982-2-3c0-1 2-2 2-2l-1-4 1-1 1 1 1 3s7 1 7 2c0 2-1 3-1 3s0.29814-1.4037 0-2c-1-2-6-2-6-2s-3 1-3 2 1 3 1 3z" style="fill:#e6e6e6"/>
+ <circle cx="24" cy="19" r="1" style="fill:#2d2d2d"/>
+ <path d="m34 30s2-1.7982 2-3c0-1-2-2-2-2l1-4-1-1-1 1-1 3s-7 1-7 2c0 2 1 3 1 3s-0.29814-1.4037 0-2c1-2 6-2 6-2s3 1 3 2-1 3-1 3z" style="fill:#e6e6e6"/>
+ <circle cx="34" cy="20" r="2" style="fill:#ccc"/>
+ <rect x="26" y="28" width="8" height="7" ry="1" style="fill:#f9f9f9"/>
+ <rect x="27" y="29" width="6" height="5" ry="1" style="fill:#8dcfe9"/>
+ <circle cx="29" cy="30" r="1" style="fill:#e8e689"/>
+ <path d="m32 31-2 2-1-1-1.707 1.707c0.18075 0.18075 0.43003 0.29297 0.70703 0.29297h4c0.554 0 1-0.446 1-1v-1z" style="fill:#32c356"/>
+ <circle transform="scale(-1,1)" cx="-14" cy="20" r="2" style="fill:#ccc"/>
+ <rect x="14" y="28" width="8" height="7" ry="1" style="fill:#f9f9f9"/>
+ <rect x="15" y="29" width="6" height="5" ry="1" style="fill:#8dcfe9"/>
+ <circle cx="17" cy="30" r="1" style="fill:#e8e689"/>
+ <path d="m20 31-2 2-1-1-1.707 1.707c0.18075 0.18075 0.43003 0.29297 0.70703 0.29297h4c0.554 0 1-0.446 1-1v-1z" style="fill:#32c356"/>
+ <path d="m24 12a7 7 0 0 0-6.9746 6.4902l-2.0469 0.76758a2 2 0 0 0-0.97852-0.25781 2 2 0 0 0-2 2 2 2 0 0 0 1.209 1.834l0.79102 3.166s-2 1-2 2c0 1.2018 2 3 2 3s-1-2-1-3 3-2 3-2 5 0 6 2c0.29814 0.59628 0 2 0 2s1-1 1-3c0-1-7-2-7-2l-0.80078-2.4023a2 2 0 0 0 0.68359-0.92773l1.457-0.54688a7 7 0 0 0 6.6602 4.877 7 7 0 0 0 6.666-4.875l1.4512 0.54492a2 2 0 0 0 0.68359 0.92773l-0.80078 2.4023s-7 1-7 2c0 2 1 3 1 3s-0.29814-1.4037 0-2c1-2 6-2 6-2s3 1 3 2-1 3-1 3 2-1.7982 2-3c0-1-2-2-2-2l0.79102-3.166a2 2 0 0 0 1.209-1.834 2 2 0 0 0-2-2 2 2 0 0 0-0.97852 0.25781l-2.041-0.76562a7 7 0 0 0-6.9805-6.4922zm10 19v-1c0-0.554-0.446-1-1-1h-6c-0.554 0-1 0.446-1 1v5c0 0.554 0.446 1 1 1h6c0.554 0 1-0.446 1-1zm-12-1c0-0.554-0.446-1-1-1h-6c-0.554 0-1 0.446-1 1v5c0 0.554 0.446 1 1 1h6c0.554 0 1-0.446 1-1z" style="opacity:.1"/>
+ <path d="m35 19-2 2-8-3 2-2z" style="fill:#e6e6e6"/>
+ <path d="m13 19 2 2 8-3-2-2z" style="fill:#e6e6e6"/>
+ <circle cx="24" cy="18" r="7" style="fill:#ac9393"/>
+ <path d="m18 18s2-3 6-3 6 3 6 3-2 3-6 3-6-3-6-3z" style="fill:#f9f9f9"/>
+ <circle cx="24" cy="19" r="2" style="fill:#f64242"/>
+ <path d="m14 30s-2-1.7982-2-3c0-1 2-2 2-2l-1-4 1-1 1 1 1 3s7 1 7 2c0 2-1 3-1 3s0.29814-1.4037 0-2c-1-2-6-2-6-2s-3 1-3 2 1 3 1 3z" style="fill:#e6e6e6"/>
+ <circle cx="24" cy="19" r="1" style="fill:#2d2d2d"/>
+ <path d="m34 30s2-1.7982 2-3c0-1-2-2-2-2l1-4-1-1-1 1-1 3s-7 1-7 2c0 2 1 3 1 3s-0.29814-1.4037 0-2c1-2 6-2 6-2s3 1 3 2-1 3-1 3z" style="fill:#e6e6e6"/>
+ <circle cx="34" cy="20" r="2" style="fill:#ccc"/>
+ <rect x="26" y="28" width="8" height="7" ry="1" style="fill:#f9f9f9"/>
+ <rect x="27" y="29" width="6" height="5" ry="1" style="fill:#8dcfe9"/>
+ <circle cx="29" cy="30" r="1" style="fill:#e8e689"/>
+ <path d="m32 31-2 2-1-1-1.707 1.707c0.18075 0.18075 0.43003 0.29297 0.70703 0.29297h4c0.554 0 1-0.446 1-1v-1z" style="fill:#32c356"/>
+ <circle transform="scale(-1,1)" cx="-14" cy="20" r="2" style="fill:#ccc"/>
+ <rect x="14" y="28" width="8" height="7" ry="1" style="fill:#f9f9f9"/>
+ <rect x="15" y="29" width="6" height="5" ry="1" style="fill:#8dcfe9"/>
+ <circle cx="17" cy="30" r="1" style="fill:#e8e689"/>
+ <path d="m20 31-2 2-1-1-1.707 1.707c0.18075 0.18075 0.43003 0.29297 0.70703 0.29297h4c0.554 0 1-0.446 1-1v-1z" style="fill:#32c356"/>
+</svg>

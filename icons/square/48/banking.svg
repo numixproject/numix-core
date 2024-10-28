@@ -1,0 +1,20 @@
+<svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="bg" x2="0" y1="1" y2="47" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#c4804f" offset="0"/>
+   <stop style="stop-color:#bf7540" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4zm0 0.5v0.5c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.5c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.02"/>
+ <path d="m1 43.25v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.05"/>
+ <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
+ <rect x="1" y="1" width="46" height="46" rx="4" style="fill:url(#bg)"/>
+ <path d="m1 39v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
+ <rect x="11" y="16" width="26" height="16" ry="2" style="opacity:.1"/>
+ <rect x="11" y="15" width="26" height="16" ry="2" style="fill:#479ad2"/>
+ <rect x="13" y="17.001" width="6" height="5" ry="1" style="fill:#f7b83b"/>
+ <path d="m13 18v1h1v-1zm5 0v1h1v-1zm-5 2v1h1v-1zm5 0v1h1v-1z" style="opacity:.2"/>
+ <path d="m28 17v2.002h1v-2.002zm2 0v2.002h1v-2.002zm2 0v2.002h1v-2.002zm2 0v2.002h1v-2.002zm-21 8.002v1h2v-1zm4 0v1h3v-1zm5 0v1h2v-1zm-9 2v2h11v-2z" style="fill:#93d4dc"/>
+ <circle cx="32.5" cy="26.5" r="2.5" style="fill:#fac742"/>
+ <circle cx="29.5" cy="26.5" r="2.5" style="fill:#e05343"/>
+</svg>

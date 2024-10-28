@@ -1,6 +1,6 @@
-<svg style="" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <defs style="">
-  <linearGradient id="bg" x1="1" x2="47" style="" gradientTransform="translate(-48 .002215)" gradientUnits="userSpaceOnUse">
+<svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="bg" x1="1" x2="47" style="" gradientTransform="translate(-48 0)" gradientUnits="userSpaceOnUse">
    <stop style="stop-color:#e4e4e4" offset="0"/>
    <stop style="stop-color:#eee" offset="1"/>
   </linearGradient>
@@ -9,11 +9,11 @@
  <path d="m1 43.25v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.05"/>
  <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
  <rect transform="rotate(-90)" x="-47" y="1" width="46" height="46" rx="4" style="fill:url(#bg)"/>
- <path d="m17 11.004v19.996h2.999v-8.9648h10.315v-2.0664h-10.315v-6.9023h11.001v-2.0625zm2.999 19.996v0.0039c9.5e-4 -8.91e-4 0-0.0026 0-0.0039zm-1.7041 2.0039-4.2988 2 4.2988 1.9961h15.139s0.5625-0.32409 0.5625-1.9961c0-1.613-0.63281-2-0.63281-2z" style="opacity:.1"/>
- <path d="m33.434 36s0.563-0.324 0.563-1.996c0-1.613-0.633-2-0.633-2h-15.07l-4.297 2 4.297 1.996" style="fill:#ff6f03"/>
- <path d="m18 32.16-4 1.844 4 1.844" style="fill:#ffc13d"/>
- <path d="m16 33.06-2 0.938 2 0.941" style="fill:#2d2d2d"/>
- <path d="m31 32v4h2.438s0.563-0.324 0.563-2c0-1.613-0.625-2-0.625-2" style="fill:#ff2d5b"/>
- <path d="m17 10.004v19.996h3.002l-0.003906-8.9648h10.316v-2.0664h-10.316v-6.9023h11.002v-2.0625h-14z" style="fill:#535353"/>
  <path d="m1 39v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
+ <path d="m17 11v20h3v-9h10v-2h-10v-7h11v-2zm1 22-4 2 4 2h15.434s0.5625-0.32409 0.5625-1.9961c0-1.613-0.63281-2-0.63281-2z" style="opacity:.1"/>
+ <path d="m31 36 1-2-1-2h-13l-1 2 1 2" style="fill:#f47e25"/>
+ <path d="m18 32-2 1-1 1 1 1 2 1" style="fill:#eec368"/>
+ <path d="m16 33-2 1 2 1" style="fill:#4d4d4d"/>
+ <path d="m31 32v4h2.438s0.563-0.324 0.563-2c0-1.613-0.625-2-0.625-2" style="fill:#f5476d"/>
+ <path d="m20 30h-3v-20h14v2h-11v7h10v2h-10" style="fill:#535353"/>
 </svg>

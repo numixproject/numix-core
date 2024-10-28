@@ -1,4 +1,4 @@
-<svg width="48" height="48" version="1.1" viewBox="0 0 48 48.000001" xmlns="http://www.w3.org/2000/svg">
+<svg width="48" height="48" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
  <defs>
   <linearGradient id="linearGradient4501" x1="-47" x2="-1" y1="2.8779e-15" y2="6.1232e-17" gradientUnits="userSpaceOnUse">
    <stop style="stop-color:#dd524b" offset="0"/>
@@ -17,16 +17,11 @@
   </g>
  </g>
  <g style="opacity:.1">
-  <path d="m12 12v24h24v-24m-24 0" style="fill-rule:evenodd"/>
+  <path transform="translate(-1,-1)" d="m13 13v24h24v-24z"/>
  </g>
- <g transform="translate(0,-1)">
-  <path d="m12 12v24h24v-24m-24 0" style="fill-rule:evenodd;fill:#fc0"/>
-  <path d="m13 31v4h22v-4m-22 0" style="fill-rule:evenodd;fill:#f9f9f9"/>
-  <path d="m12 12v18h24v-18m-24 0" style="fill-rule:evenodd;fill:#ecb200"/>
-  <path d="m13 31.996v1h22v-1m-22 0" style="fill-rule:evenodd;fill:#e5e5e5"/>
-  <path d="m13 34v1h22v-1m-22 0" style="fill-rule:evenodd;fill:#e5e5e5"/>
-  <path d="m33 22c4e-3 0.547-0.656 0.996-1.477 1-0.824 8e-3 -1.504-0.426-1.523-0.973-0.02-0.551 0.625-1.012 1.449-1.027 0.82-0.016 1.512 0.41 1.551 0.957" style="fill:#ecb200"/>
-  <path d="m15 17v9c0.741 0 1.378 0.015 2 0 5 0 6.484-0.928 6.5-4.5 0.016-3.557-1.5-4.501-6.457-4.498l-2.043-2e-3m2 2 0.961 2e-3c2.333 0 3.047 0.521 3.039 2.496-8e-3 1.983-0.706 2.498-3.059 2.498-0.293 8e-3 -0.593 0-0.941 0v-4.996" style="fill-rule:evenodd;fill:#460707;opacity:.691"/>
-  <path d="m25 17v9c0.741 0 1.378 0.015 2 0 5 0 6.484-0.928 6.5-4.5 0.016-3.557-1.5-4.501-6.457-4.498l-2.043-2e-3m2 2 0.961 2e-3c2.333 0 3.047 0.521 3.039 2.496-8e-3 1.983-0.706 2.498-3.059 2.498-0.293 8e-3 -0.593 0-0.941 0v-4.996" style="fill-rule:evenodd;fill:#460707;opacity:.691"/>
- </g>
+ <path d="m12 29v6h24v-6l-12-4z" style="fill:#f4d03e"/>
+ <path d="m13 30v4h22v-4z" style="fill:#f9f9f9"/>
+ <path d="m12 11v18h24v-18z" style="fill:#f2bc17"/>
+ <path d="m13 30.996v1h22v-1zm0 2.0039v1h22v-1z" style="fill:#e5e5e5"/>
+ <path d="m15 15v10h3c2.77 0 5-2.23 5-5s-2.23-5-5-5zm10 0v10h3c2.77 0 5-2.23 5-5s-2.23-5-5-5zm-8 2h1c1.662 0 3 1.338 3 3s-1.338 3-3 3h-1zm10 0h1c1.662 0 3 1.338 3 3s-1.338 3-3 3h-1z" style="fill:#8a5324"/>
 </svg>

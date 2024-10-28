@@ -1,6 +1,6 @@
-<svg width="48" height="48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
-  <linearGradient id="linearGradient4075" x1="24" x2="24" y1="1051.4" y2="1005.4" gradientUnits="userSpaceOnUse">
+  <linearGradient id="linearGradient1385" x2="0" y1="1051.4" y2="1005.4" gradientTransform="translate(0 -1004.4)" gradientUnits="userSpaceOnUse">
    <stop style="stop-color:#faaa60" offset="0"/>
    <stop style="stop-color:#ffb36c" offset="1"/>
   </linearGradient>
@@ -10,12 +10,8 @@
   <path d="m1 1047.6v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.05"/>
   <rect x="1" y="1005.6" width="46" height="46" rx="4" style="opacity:.1"/>
  </g>
- <g transform="translate(0 -1004.4)">
-  <g transform="translate(0 .0022146)" style="fill:url(#linearGradient4075)">
-   <rect x="1" y="1005.4" width="46" height="46" rx="4" style="fill:url(#linearGradient4075)"/>
-  </g>
-  <path d="m1 1043.4v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
- </g>
+ <rect x="1" y="1.0022" width="46" height="46" rx="4" style="fill:url(#linearGradient1385)"/>
+ <path d="m1 39v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
  <g transform="matrix(3.5433 0 0 3.5433 .00038707 -2.1943e-7)" style="opacity:.1">
   <path transform="scale(.28222)" d="m24 12c-2.9296 0-5.604 1.142-7.6875 3.0312-1.1115 0.96875 0.6875 0.96875 1.2812 0.96875 1.8538-1.2681 4.0514-2 6.4062-2s4.5524 0.73191 6.4062 2c0.59375 0 2.5938 0 1.2812-0.96875-2.0835-1.8893-4.7579-3.0312-7.6875-3.0312z"/>
   <path transform="scale(.28222)" d="m24 10c-7.1797 0-13 6.268-13 14 0 2.5515 0.64273 4.94 1.75 7h2.3125c-1.2993-1.9703-2.0625-4.3876-2.0625-7 0-6.6274 4.9249-12 11-12s11 5.3726 11 12c0 2.6124-0.7632 5.0297-2.0625 7h2.3125c1.1073-2.06 1.75-4.4485 1.75-7 0-7.732-5.8203-14-13-14z"/>
@@ -27,7 +23,7 @@
  <path d="m24 11c-2.9296 0-5.604 1.142-7.6875 3.0312-1.1115 0.96875 0.6875 0.96875 1.2812 0.96875 1.8538-1.2681 4.0514-2 6.4062-2s4.5524 0.73191 6.4062 2c0.59375 0 2.5938 0 1.2812-0.96875-2.0835-1.8893-4.7579-3.0312-7.6875-3.0312z" style="fill:#636890"/>
  <path d="m24 9c-7.1797 0-13 6.268-13 14 0 2.5515 0.64273 4.94 1.75 7h2.3125c-1.2993-1.9703-2.0625-4.3876-2.0625-7 0-6.6274 4.9249-12 11-12s11 5.3726 11 12c0 2.6124-0.7632 5.0297-2.0625 7h2.3125c1.1073-2.06 1.75-4.4485 1.75-7 0-7.732-5.8203-14-13-14z" style="fill:#f8f0e2"/>
  <rect transform="matrix(.93969 -.34202 .34202 .93969 0 0)" x=".038135" y="30.312" width="2" height="6" rx=".88583" ry=".88583" style="fill:#636890"/>
- <rect transform="matrix(.93969 -.34202 .34202 .93969 0 0)" x="1.3462" y="29.229" width="4" height="8" rx="1.7717" ry="1.7717" style="fill:#ce1c22"/>
+ <rect transform="matrix(.93969 -.34202 .34202 .93969 0 0)" x="1.3462" y="29.229" width="4" height="8" rx="1.7717" ry="1.7717" style="fill:#de353a"/>
  <rect transform="matrix(-.93969 -.34202 -.34202 .93969 0 0)" x="-45.145" y="13.859" width="2" height="6" rx=".88583" ry=".88583" style="fill:#636890"/>
- <rect transform="matrix(-.93969 -.34202 -.34202 .93969 0 0)" x="-43.763" y="12.819" width="4" height="8" rx="1.7717" ry="1.7717" style="fill:#ce1c22"/>
+ <rect transform="matrix(-.93969 -.34202 -.34202 .93969 0 0)" x="-43.763" y="12.819" width="4" height="8" rx="1.7717" ry="1.7717" style="fill:#de353a"/>
 </svg>
