@@ -23010,7 +23010,10 @@
     },
     "overwitch": {
         "linux": {
-            "root": "overwitch"
+            "root": "overwitch",
+            "symlinks": [
+                "io.github.dagargo.Overwitch"
+            ]
         }
     },
     "owlboy": {
