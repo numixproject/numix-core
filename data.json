@@ -3121,6 +3121,7 @@
             "root": "bibletime",
             "symlinks": [
                 "info.bibletime.BibleTime",
+                "io.github.kovzol.bibref",
                 "io.github.roseblume.rosary",
                 "org.hlwd.biblemultithelife",
                 "org.hlwd.sonofman"
@@ -27329,6 +27330,14 @@
             "root": "rosegarden",
             "symlinks": [
                 "com.rosegardenmusic.rosegarden"
+            ]
+        }
+    },
+    "rota": {
+        "linux": {
+            "root": "rota",
+            "symlinks": [
+                "net.hhoney.rota"
             ]
         }
     },
