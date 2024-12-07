@@ -13015,7 +13015,8 @@
         "linux": {
             "root": "gnome-pie",
             "symlinks": [
-                "kando"
+                "kando",
+                "menu.kando.Kando"
             ]
         }
     },
@@ -33226,6 +33227,14 @@
     "violetumleditor": {
         "linux": {
             "root": "violetumleditor"
+        }
+    },
+    "vipster": {
+        "linux": {
+            "root": "vipster",
+            "symlinks": [
+                "io.github.sgsaenger.vipster"
+            ]
         }
     },
     "virdi": {
