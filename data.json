@@ -8856,6 +8856,15 @@
             ]
         }
     },
+    "drum-machine": {
+        "linux": {
+            "root": "drum-machine",
+            "symlinks": [
+                "io.github.revisto.drum-machine",
+                "io.github.revisto.DrumMachine"
+            ]
+        }
+    },
     "drumkv1": {
         "linux": {
             "root": "drumkv1",
@@ -34342,7 +34351,10 @@
     },
     "web-snake": {
         "linux": {
-            "root": "chrome-mlijpphckdfkmcjclnimmbknefojcaol-Default"
+            "root": "chrome-mlijpphckdfkmcjclnimmbknefojcaol-Default",
+            "symlinks": [
+                "page.codeberg.ilijaculap.snux"
+            ]
         }
     },
     "web-stackedit": {
