@@ -871,7 +871,8 @@
             "root": "advanced-strategic-command",
             "symlinks": [
                 "asc",
-                "org.asc_hq.ASC"
+                "org.asc_hq.ASC",
+                "page.codeberg.terratactician_expandoria.game"
             ]
         }
     },
@@ -10501,6 +10502,14 @@
     "fingerprint-gui": {
         "linux": {
             "root": "fingerprint-gui"
+        }
+    },
+    "fireflyluciferin": {
+        "linux": {
+            "root": "fireflyluciferin",
+            "symlinks": [
+                "org.dpsoftware.FireflyLuciferin"
+            ]
         }
     },
     "firefox": {
@@ -23682,6 +23691,7 @@
         "linux": {
             "root": "penpot",
             "symlinks": [
+                "com.authormore.penpotdesktop",
                 "com.github.vikdevelop.penpot-electron",
                 "com.korbsstudio.penpot-desktop",
                 "com.sudovanilla.penpot-desktop",
@@ -24428,6 +24438,14 @@
     "polly": {
         "linux": {
             "root": "polly"
+        }
+    },
+    "poliedros": {
+        "linux": {
+            "root": "poliedros",
+            "symlinks": [
+                "io.github.kriptolix.Poliedros"
+            ]
         }
     },
     "polo": {
@@ -26815,7 +26833,10 @@
     },
     "recoll": {
         "linux": {
-            "root": "recoll"
+            "root": "recoll",
+            "symlinks": [
+                "org.recoll.recoll"
+            ]
         }
     },
     "recordbox": {
@@ -30171,6 +30192,7 @@
         "linux": {
             "root": "superproductivity",
             "symlinks": [
+                "com.super_productivity.SuperProductivity",
                 "superProductivity"
             ]
         }
@@ -34282,6 +34304,7 @@
             "root": "web-pocket",
             "symlinks": [
                 "chrome-mjcnijlhddpbdemagnpefmlkjdagkogk-Default",
+                "it.dottorblaster.cauldron",
                 "Pocket-getpocket.com"
             ]
         }
