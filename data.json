@@ -7200,6 +7200,14 @@
             ]
         }
     },
+        "deskflow": {
+        "linux": {
+            "root": "deskflow",
+            "symlinks": [
+                "org.deskflow.deskflow"
+            ]
+        }
+    },
     "desktop": {
         "linux": {
             "root": "desktop",
