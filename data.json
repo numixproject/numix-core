@@ -4068,6 +4068,14 @@
             "root": "bzr-explorer"
         }
     },
+    "c-evo": {
+        "linux": {
+            "root": "c-evo",
+            "symlinks": [
+                "net.zdechov.app.C_evo"
+            ]
+        }
+    },
     "cacher": {
         "linux": {
             "root": "cacher"
