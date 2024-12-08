@@ -24443,17 +24443,17 @@
             ]
         }
     },
-    "polly": {
-        "linux": {
-            "root": "polly"
-        }
-    },
     "poliedros": {
         "linux": {
             "root": "poliedros",
             "symlinks": [
                 "io.github.kriptolix.Poliedros"
             ]
+        }
+    },
+    "polly": {
+        "linux": {
+            "root": "polly"
         }
     },
     "polo": {
@@ -25196,6 +25196,14 @@
     "proteus": {
         "linux": {
             "root": "steam_icon_219680"
+        }
+    },
+    "protodesk": {
+        "linux": {
+            "root": "protodesk",
+            "symlinks": [
+                "io.github.nemuelw.protodesk"
+            ]
         }
     },
     "proton": {
