@@ -34609,8 +34609,10 @@
         "linux": {
             "root": "webcamoid",
             "symlinks": [
+                "com.daniel15.wcc",
                 "hu.irl.cameractrls",
-                "org.webcamoid.Webcamoid"
+                "org.webcamoid.Webcamoid",
+                "webcamcontrol"
             ]
         }
     },
