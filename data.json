@@ -15065,6 +15065,14 @@
             ]
         }
     },
+    "hexcolordle": {
+        "linux": {
+            "root": "hexcolordle",
+            "symlinks": [
+                "net.krafting.HexColordle"
+            ]
+        }
+    },
     "hexedit": {
         "linux": {
             "root": "hexedit",
@@ -26371,7 +26379,10 @@
     },
     "qucs-s": {
         "linux": {
-            "root": "qucs-s"
+            "root": "qucs-s",
+            "symlinks": [
+                "io.github.ra3xdh.qucs_s"
+            ]
         }
     },
     "quick-lookup": {
@@ -29567,7 +29578,8 @@
         "linux": {
             "root": "spot",
             "symlinks": [
-                "dev.alextren.Spot"
+                "dev.alextren.Spot",
+                "io.github.aganzha.Stage"
             ]
         }
     },
