@@ -20542,6 +20542,14 @@
             ]
         }
     },
+    "mpris-timer": {
+        "linux": {
+            "root": "mpris-timer",
+            "symlinks": [
+                "io.github.efogdev.mpris-timer"
+            ]
+        }
+    },
     "mpv": {
         "linux": {
             "root": "mpv",
