@@ -23056,6 +23056,14 @@
             ]
         }
     },
+    "ouch": {
+        "linux": {
+            "root": "ouch",
+            "symlinks": [
+                "site.srht.shrimple.ouch"
+            ]
+        }
+    },
     "outlast": {
         "linux": {
             "root": "steam_icon_238320"
@@ -26413,7 +26421,8 @@
         "linux": {
             "root": "quaternion",
             "symlinks": [
-                "com.github.quaternion"
+                "com.github.quaternion",
+                "io.github.quotient_im.Quaternion"
             ]
         }
     },
