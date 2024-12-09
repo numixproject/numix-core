@@ -5616,7 +5616,10 @@
     },
     "chordpro": {
         "linux": {
-            "root": "chordpro"
+            "root": "chordpro",
+            "symlinks": [
+                "dev.ters.Chordcat"
+            ]
         }
     },
     "chores": {
@@ -15762,6 +15765,7 @@
         "linux": {
             "root": "indicator-remindor",
             "symlinks": [
+                "com.empesol.timetracker",
                 "gtimelog",
                 "io.github.diegoivanme.flowtime",
                 "ktimetracker",
@@ -27814,6 +27818,14 @@
             "root": "sasm",
             "symlinks": [
                 "io.github.dman95.SASM"
+            ]
+        }
+    },
+    "sasview": {
+        "linux": {
+            "root": "sasview",
+            "symlinks": [
+                "org.sasview.sasview"
             ]
         }
     },
