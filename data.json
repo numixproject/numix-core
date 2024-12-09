@@ -21403,6 +21403,7 @@
             "symlinks": [
                 "com.github.gmg137.netease-cloud-music-gtk",
                 "com.netease.CloudMusic",
+                "io.github.go_musicfox.go-musicfox",
                 "netease-cloud-music-gtk"
             ]
         }
@@ -21468,6 +21469,15 @@
                 "modem-manager-gui",
                 "networkmanager",
                 "preferences-system-network"
+            ]
+        }
+    },
+    "netxms": {
+        "linux": {
+            "root": "netxms",
+            "symlinks": [
+                "com.netxms.NetXMSClient",
+                "com.netxms.NetXMSClient51"
             ]
         }
     },
@@ -31663,6 +31673,8 @@
         "linux": {
             "root": "timetrack",
             "symlinks": [
+                "com.empesol.timetracker",
+                "com.empesol.timetracker.TimeTracker",
                 "francis",
                 "net.danigm.timetrack",
                 "org.gnome.timetrack",
@@ -32204,6 +32216,7 @@
                 "org.tryton.Tryton",
                 "org.tryton.Tryton-70",
                 "org.tryton.Tryton-72",
+                "org.tryton.Tryton-74",
                 "tryton-icon"
             ]
         }
