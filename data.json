@@ -6948,6 +6948,14 @@
             ]
         }
     },
+    "dashcore": {
+        "linux": {
+            "root": "dash128",
+            "symlinks": [
+                "org.dash.dash-core"
+            ]
+        }
+    },
     "datagrip": {
         "linux": {
             "root": "datagrip",
