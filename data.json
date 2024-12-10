@@ -3412,7 +3412,9 @@
     "linux": {
             "root": "blue-recorder",
             "symlinks": [
-                "sa.sy.bluerecorder"
+                "org.stronnag.wayfarer",
+                "sa.sy.bluerecorder",
+                "wayfarer"
             ]
         }
     },
@@ -10504,7 +10506,10 @@
     },
     "final-term": {
         "linux": {
-            "root": "final-term"
+            "root": "final-term",
+            "symlinks": [
+                "io.gitlab.sulincix.sterm"
+            ]
         }
     },
     "finamp": {
@@ -22478,6 +22483,7 @@
         "linux": {
             "root": "open-numismat",
             "symlinks": [
+                "io.github.opennumismat.OpenNumismat",
                 "org.opennumismat.OpenNumismat"
             ]
         }
