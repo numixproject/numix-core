@@ -27126,6 +27126,14 @@
             "root": "com.github.rajsolai.response"
         }
     },
+    "restfox": {
+        "linux": {
+            "root": "resfox",
+            "symlinks": [
+                "dev.restfox.Restfox"
+            ]
+        }
+    },
     "resticity": {
         "linux": {
             "root": "resticity",
