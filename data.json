@@ -19230,11 +19230,6 @@
             ]
         }
     },
-    "mq3t": {
-        "linux": {
-            "root": "mq3t"
-        }
-    },
     "m64py": {
         "linux": {
             "root": "m64py",
@@ -20585,6 +20580,11 @@
     "mpz": {
         "linux": {
             "root": "mpz"
+        }
+    },
+    "mq3t": {
+        "linux": {
+            "root": "mq3t"
         }
     },
     "mqttmultimeter": {
@@ -23084,6 +23084,14 @@
             "root": "ouch",
             "symlinks": [
                 "site.srht.shrimple.ouch"
+            ]
+        }
+    },
+    "outfly": {
+        "linux": {
+            "root": "outfly",
+            "symlinks": [
+                "page.codeberg.outfly.outfly"
             ]
         }
     },
