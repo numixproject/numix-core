@@ -11025,6 +11025,8 @@
         "linux": {
             "root": "font-editor",
             "symlinks": [
+                "gerb",
+                "io.github.epilys.gerb",
                 "MFEKglif",
                 "org.mfek.MFEKglif"
             ]
@@ -12976,6 +12978,7 @@
                 "dev.rzia.minesector",
                 "gnomine",
                 "io.github.Bollos00.LibreMines",
+                "io.github.heathcliff26.go-minesweeper"
                 "kmines",
                 "minesector",
                 "org.gnome.Mines",
@@ -24117,6 +24120,15 @@
             "root": "pinball"
         }
     },
+    "pinepods": {
+        "linux": {
+            "root": "pinepods",
+            "symlinks": [
+                "com.gooseberrydevelopment.pinepods",
+                "online.pinepods.Pinepods"
+            ]
+        }
+    },
     "pingnoo": {
         "linux": {
             "root": "pingnoo",
@@ -28106,6 +28118,7 @@
         "linux": {
             "root": "screenruler",
             "symlinks": [
+                "com.github.epilys.rlr",
                 "gnome-screenruler",
                 "kruler",
                 "org.kde.kruler",
