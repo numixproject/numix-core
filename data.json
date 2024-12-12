@@ -9417,6 +9417,7 @@
         "linux": {
             "root": "electrum",
             "symlinks": [
+                "electrum-cash",
                 "org.electrum.electrum"
             ]
         }
@@ -24899,6 +24900,7 @@
                 "io.github.halfmexican.Mingle",
                 "it.mijorus.smile",
                 "ksmiletris",
+                "org.kde.plasma.emojier",
                 "package_toys"
             ]
         }
@@ -36261,7 +36263,8 @@
         "linux": {
             "root": "zen-browser",
             "symlinks": [
-                "io.github.zen_browser.zen"
+                "io.github.zen_browser.zen",
+                "zen_browser_twilight"
             ]
         }
     },
