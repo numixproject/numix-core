@@ -10000,12 +10000,18 @@
     },
     "extraterm": {
         "linux": {
-            "root": "extraterm"
+            "root": "extraterm",
+            "symlinks": [
+                "org.sulincix.sterm"
+            ]
         }
     },
     "exult": {
         "linux": {
-            "root": "exult"
+            "root": "exult",
+            "symlinks": [
+                "info.exult.exult"
+            ]
         }
     },
     "eyedropper": {
@@ -13071,6 +13077,7 @@
                 "deepin-draw",
                 "gp",
                 "gpaint",
+                "io.github.bgrabitmap.LazPaint",
                 "lazpaint",
                 "mtpaint",
                 "org.cubocore.CorePaint"
@@ -15618,6 +15625,7 @@
                 "org.gtk.IconBrowser",
                 "org.gtk.IconBrowser3",
                 "org.gtk.IconBrowser4",
+                "org.kde.iconexplorer",
                 "org.kde.Ikona",
                 "org.kde.ikona",
                 "preferences-desktop-icons"
@@ -20209,7 +20217,8 @@
         "linux": {
             "root": "mitmproxy",
             "symlinks": [
-                "kali-mitmproxy"
+                "kali-mitmproxy",
+                "org.mitmproxy.mitmproxy"
             ]
         }
     },
@@ -22636,6 +22645,7 @@
         "linux": {
             "root": "opencomic",
             "symlinks": [
+                "app.opencomic.OpenComic",
                 "io.github.gen2brain.cbconvert"
             ]
         }
@@ -24055,7 +24065,8 @@
         "linux": {
             "root": "pick-colour-picker",
             "symlinks": [
-            "org.kryogenix.Pick"
+                "io.github.pixeldoted.cosmic-ext-color-picker",
+                "org.kryogenix.Pick"
             ]
         }
     },
@@ -27806,6 +27817,7 @@
         "linux": {
             "root": "ryujinx",
             "symlinks": [
+                "io.github.ryubing.Ryujinx",
                 "org.ryujinx.Ryujinx"
             ]
         }
@@ -34886,6 +34898,7 @@
                 "com.github.louis77.tuner",
                 "com.w1hkj.flrig",
                 "edu.princeton.physics.WSJTX",
+                "io.github.louis77.tuner",
                 "welle.io",
                 "xfb_icon"
             ]
@@ -36016,7 +36029,10 @@
     },
     "yazi": {
         "linux": {
-            "root": "yazi"
+            "root": "yazi",
+            "symlinks": [
+                "io.github.sxyazi.yazi"
+            ]
         }
     },
     "yed": {
