@@ -8433,7 +8433,8 @@
         "linux": {
             "root": "distributor-logo-vanillaos",
             "symlinks": [
-                "io.github.vanilla-os.FirstSetup"
+                "io.github.vanilla-os.FirstSetup",
+                "org.vanillaos.FirstSetup"
             ]
         }
     },
@@ -12175,6 +12176,14 @@
                 "Ghidra",
                 "org.ghidra_sre.Desktop",
                 "org.ghidra_sre.Ghidra"
+            ]
+        }
+    },
+    "ghostt<": {
+        "linux": {
+            "root": "ghostty",
+            "symlinks": [
+                "com.mitchellh.ghostty"
             ]
         }
     },
@@ -33022,6 +33031,7 @@
                 "ksysguard",
                 "org.gnome.SystemMonitor",
                 "org.kde.ksysguard",
+                "org.lxqt.Qps",
                 "org.xfce.genmon",
                 "preferences-system-performance",
                 "qps"
