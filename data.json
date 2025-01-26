@@ -9209,7 +9209,8 @@
         "linux": {
             "root": "easyssh",
             "symlinks": [
-                "com.github.muriloventuroso.easyssh"
+                "com.github.muriloventuroso.easyssh",
+                "org.mintguide.ssh-host-editor"
             ]
         }
     },
@@ -11621,6 +11622,16 @@
             "root": "fsleyes",
             "symlinks": [
                 "uk.ac.ox.fmrib.FSLeyes"
+            ]
+        }
+    },
+    "fstl": {
+        "linux": {
+            "root": "fstl",
+            "symlinks": [
+                "fstl-e",
+                "fstlapp-fstl",
+                "io.github.wdaniau.fstl"
             ]
         }
     },
@@ -22868,11 +22879,11 @@
             "root": "opensonic",
             "symlinks": [
                 "io.github.srb2.rphys",
+                "org.srb2.srb2-legacy",
                 "org.srb2.SRB2",
                 "org.srb2.SRB2Kart",
                 "org.srb2.SRB2Kart-galaxy",
                 "org.srb2.SRB2Kart-galaxy_azerty",
-                "org.srb2.srb2-legacy",
                 "srb2",
                 "srb2kart"
             ]
