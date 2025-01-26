@@ -20083,6 +20083,7 @@
         "linux": {
             "root": "mindmate",
             "symlinks": [
+                "io.github.alfianlosari.GTKChatGPT",
                 "io.github.koromelodev.mindmate"
             ]
         }
@@ -30845,6 +30846,15 @@
             "root": "systemback"
         }
     },
+    "systemd-pilot": {
+        "linux": {
+            "root": "systemd-pilot",
+            "symlinks": [
+                "io.github.mfat.systemdpilot",
+                "org.mfat.systemdpilot"
+            ]
+        }
+    },
     "tabby": {
         "linux": {
             "root": "tabby"
@@ -33004,6 +33014,7 @@
         "linux": {
             "root": "usbview",
             "symlinks": [
+                "net.carrotindustries.usbkvm",
                 "org.v1993.NXDumpClient",
                 "org.xfce.volman"
             ]
