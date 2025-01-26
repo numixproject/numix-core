@@ -1547,6 +1547,14 @@
             ]
         }
     },
+    "antibillard": {
+        "linux": {
+            "root": "antibillard",
+            "symlinks": [
+                "page.codeberg.maerchenfeeimgarten.AntiBillard"
+            ]
+        }
+    },
     "antichamber": {
         "linux": {
             "root": "steam_icon_219890"
@@ -22864,6 +22872,7 @@
                 "org.srb2.SRB2Kart",
                 "org.srb2.SRB2Kart-galaxy",
                 "org.srb2.SRB2Kart-galaxy_azerty",
+                "org.srb2.srb2-legacy",
                 "srb2",
                 "srb2kart"
             ]
@@ -25630,6 +25639,7 @@
             "symlinks": [
                 "activity-color-deducto",
                 "gnubik",
+                "io.github.vallabhvidy.CubeTimer",
                 "kubrick",
                 "org.kde.kubrick",
                 "org.sugarlabs.ColorDeducto",
