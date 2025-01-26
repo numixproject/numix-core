@@ -16069,6 +16069,14 @@
             "root": "iptracker"
         }
     },
+    "iptux": {
+        "linux": {
+            "root": "iptux",
+            "symlinks": [
+                "io.github.iptux_src.iptux"
+            ]
+        }
+    },
     "iptvnator": {
         "linux": {
             "root": "iptvnator",
