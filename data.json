@@ -4012,7 +4012,10 @@
     },
     "butt": {
         "linux": {
-            "root": "butt"
+            "root": "butt",
+            "symlinks": [
+                "de.danielnoethen.butt"
+            ]
         }
     },
     "butter": {
@@ -16838,6 +16841,7 @@
             "root": "kalarm",
             "symlinks": [
                 "io.github.dgsasha.Remembrance",
+                "io.github.leolost2605.emergency-alerts",
                 "mx-alerts",
                 "org.kde.kalarm"
             ]
