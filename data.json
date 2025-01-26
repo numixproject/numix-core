@@ -15676,6 +15676,14 @@
             ]
         }
     },
+    "ignition": {
+        "linux": {
+            "root": "ignition",
+            "symlinks": [
+                "io.github.flattool.Ignition"
+            ]
+        }
+    },
     "ignuit": {
         "linux": {
             "root": "ignuit"
@@ -18040,6 +18048,7 @@
         "linux": {
             "root": "kwordquiz",
             "symlinks": [
+                "io.github.swordpuffin.hunt",
                 "net.krafting.SemantiK",
                 "org.kde.kwordquiz",
                 "wordflow"
