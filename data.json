@@ -7559,6 +7559,7 @@
                 "matepalimpsest",
                 "ntfs-config",
                 "ocz-ssd-utility",
+                "org.dupot.nix-disk-manager",
                 "palimpsest"
             ]
         }
@@ -35928,6 +35929,14 @@
     "xt7-player-mpv": {
         "linux": {
             "root": "xt7-player-mpv"
+        }
+    },
+    "xtactics": {
+        "linux": {
+            "root": "xtactics",
+            "symlinks": [
+                "net.zdechov.app.xTactics"
+            ]
         }
     },
     "xterm-color": {
