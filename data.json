@@ -17151,7 +17151,8 @@
             "root": "keyrack",
             "symlinks": [
                 "app.drey.KeyRack",
-                "kse"
+                "kse",
+                "org.keystore_explorer.KeyStoreExplorer"
             ]
         }
     },
@@ -28567,6 +28568,14 @@
                 "org.shadowsocks.qt5client",
                 "org.shadowsocks.qt6client",
                 "shadowsocks-qt6"
+            ]
+        }
+    },
+    "shadps4": {
+        "linux": {
+            "root": "shadps4",
+            "symlinks": [
+                "net.shadps4.shadPS4"
             ]
         }
     },
