@@ -6279,6 +6279,24 @@
             ]
         }
     },
+    "constellation": {
+        "linux": {
+            "root": "constellation",
+            "symlinks": [
+                "de.desy.constellation",
+                "de.desy.constellation.missioncontrol"
+            ]
+        }
+    },
+    "constellation-observatory": {
+        "linux": {
+            "root": "constellation",
+            "symlinks": [
+                "de.desy.constellation.observatory",
+                "Observatory"
+            ]
+        }
+    },
     "container-desktop": {
         "linux": {
             "root": "container-desktop"
@@ -10143,7 +10161,9 @@
         "linux": {
             "root": "fan-control",
             "symlinks": [
-                "io.github.wiiznokes.fan-control"
+                "fancontrol_gui",
+                "io.github.wiiznokes.fan-control",
+                "org.kde.fancontrol.gui"
             ]
         }
     },
@@ -22879,8 +22899,8 @@
             "root": "opensonic",
             "symlinks": [
                 "io.github.srb2.rphys",
-                "org.srb2.srb2-legacy",
                 "org.srb2.SRB2",
+                "org.srb2.srb2-legacy",
                 "org.srb2.SRB2Kart",
                 "org.srb2.SRB2Kart-galaxy",
                 "org.srb2.SRB2Kart-galaxy_azerty",
@@ -28209,6 +28229,7 @@
             "symlinks": [
                 "com.github.epilys.rlr",
                 "gnome-screenruler",
+                "io.github.herve4m.Length",
                 "kruler",
                 "org.kde.kruler",
                 "screenruler-icon",
