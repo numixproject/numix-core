@@ -6291,7 +6291,7 @@
     },
     "constellation-observatory": {
         "linux": {
-            "root": "constellation",
+            "root": "constellation-observatory",
             "symlinks": [
                 "de.desy.constellation.observatory",
                 "Observatory"
@@ -24683,6 +24683,14 @@
     "polycode": {
         "linux": {
             "root": "polycode"
+        }
+    },
+    "polyglot": {
+        "linux": {
+            "root": "polyglot",
+            "symlinks": [
+                "io.github.DraqueT.PolyGlot"
+            ]
         }
     },
     "polymc": {
