@@ -6312,6 +6312,15 @@
             ]
         }
     },
+    "controllerbuddy": {
+        "linux": {
+            "root": "controllerbuddy",
+            "symlinks": [
+                "de.bwravencl.ControllerBuddy",
+                "org.controllerbuddy.ControllerBuddy"
+            ]
+        }
+    },
     "converter": {
         "linux": {
             "root": "io.gitlab.adhami3310.Converter",
