@@ -20732,6 +20732,14 @@
             "root": "mq3t"
         }
     },
+    "mqtt5-explorer": {
+        "linux": {
+            "root": "mqtt5-explorer",
+            "symlinks": [
+                "io.github.Omniaevo.mqtt5-explorer"
+            ]
+        }
+    },
     "mqttmultimeter": {
         "linux": {
             "root": "mqttmultimeter",
