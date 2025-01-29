@@ -200,7 +200,10 @@
     },
     "6180-the-moon": {
         "linux": {
-            "root": "steam_icon_299660"
+            "root": "steam_icon_299660",
+            "symlinks": [
+                "io.github.moonlight_mod.moonlight-installer"
+            ]
         }
     },
     "7-days-to-die": {
@@ -15996,6 +15999,14 @@
             "root": "inox"
         }
     },
+    "input-leap": {
+        "linux": {
+            "root": "input-leap",
+            "symlinks": [
+                "io.github.input_leap.input-leap"
+            ]
+        }
+    },
     "input-mouse": {
         "linux": {
             "root": "input-mouse",
@@ -28051,7 +28062,10 @@
     },
     "sane-break": {
         "linux": {
-            "root": "sane-break"
+            "root": "sane-break",
+            "symlinks": [
+                "io.github.AllanChain.sane-break"
+            ]
         }
     },
     "sasm": {
