@@ -27083,6 +27083,14 @@
             ]
         }
     },
+    "recordapps": {
+        "linux": {
+            "root": "recordapps",
+            "symlinks": [
+                "io.github.sigmasd.recordapps"
+            ]
+        }
+    },
     "recordbox": {
         "linux": {
             "root": "recordbox",
