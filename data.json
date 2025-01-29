@@ -594,6 +594,15 @@
             ]
         }
     },
+    "acronymdecoder": {
+        "linux": {
+            "root": "acronymdecoder",
+            "symlinks": [
+                "AcronymDecoder",
+                "net.zdechov.app.AcronymDecoder"
+            ]
+        }
+    },
     "acroread": {
         "android": [
             "com.adobe.reader/com.adobe.reader.AdobeReader"
