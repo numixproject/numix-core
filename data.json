@@ -22586,6 +22586,15 @@
             ]
         }
     },
+    "open-alert-viewer": {
+        "linux": {
+            "root": "open-alert-viewer",
+            "symlinks": [
+                "open_alert_viewer",
+                "studio.okcode.open_alert_viewer"
+            ]
+        }
+    },
     "open-hexagon": {
         "linux": {
             "root": "open-hexagon",
