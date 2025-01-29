@@ -24849,6 +24849,14 @@
             ]
         }
     },
+    "portainer-box": {
+        "linux": {
+            "root": "portainer-box",
+            "symlinks": [
+                "io.github.faveoled.Portainer-Box"
+            ]
+        }
+    },
     "portal": {
         "linux": {
             "root": "steam_icon_400",
