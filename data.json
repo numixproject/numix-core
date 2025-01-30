@@ -30686,6 +30686,14 @@
             "root": "susers"
         }
     },
+    "suyu": {
+        "linux": {
+            "root": "suyu",
+            "symlinks": [
+                "dev.suyu_emu.suyu"
+            ]
+        }
+    },
     "svgcleaner": {
         "linux": {
             "root": "svgcleaner"
