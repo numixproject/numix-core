@@ -1796,6 +1796,7 @@
                 "garuda-gamer",
                 "gnome-games",
                 "io.github.accessory.minus_games",
+                "opengamepadui",
                 "org.gnome.Games",
                 "org.gnome.World.Highscore",
                 "org.kde.arkade",
@@ -4044,6 +4045,7 @@
         "linux": {
             "root": "butter",
             "symlinks": [
+                "buttermanager",
                 "org.zhangyuannie.Butter"
             ]
         }
@@ -8127,7 +8129,11 @@
     },
     "distributor-logo-mageia": {
         "linux": {
-            "root": "distributor-logo-mageia"
+            "root": "distributor-logo-mageia",
+            "symlinks": [
+                "start-here-mageia",
+                "start-here-mageia2"
+            ]
         }
     },
     "distributor-logo-manjaro": {
@@ -10489,6 +10495,7 @@
                 "org.gnome.Nautilus",
                 "org.kde.index",
                 "org.xfce.filemanager",
+                "pacmanfm-qt",
                 "redhat-filemanager",
                 "system-file-manager",
                 "thefile",
@@ -18526,6 +18533,7 @@
         "linux": {
             "root": "libreoffice-base",
             "symlinks": [
+                "libreoffice24.8-base",
                 "libreoffice3-base",
                 "libreoffice34-base",
                 "libreoffice4.2-base",
@@ -18548,6 +18556,7 @@
         "linux": {
             "root": "libreoffice-calc",
             "symlinks": [
+                "libreoffice24.8-calc",
                 "libreoffice3-calc",
                 "libreoffice34-calc",
                 "libreoffice4.2-calc",
@@ -18570,6 +18579,7 @@
         "linux": {
             "root": "libreoffice-draw",
             "symlinks": [
+                "libreoffice24.8-draw",
                 "libreoffice3-draw",
                 "libreoffice34-draw",
                 "libreoffice4.2-draw",
@@ -18592,6 +18602,7 @@
         "linux": {
             "root": "libreoffice-impress",
             "symlinks": [
+                "libreoffice24.8-impress",
                 "libreoffice3-impress",
                 "libreoffice34-impress",
                 "libreoffice4.2-impress",
@@ -18617,6 +18628,7 @@
                 "libreoffice",
                 "libreoffice-start-centre",
                 "libreoffice-startcenter",
+                "libreoffice24.8-startcenter",
                 "libreoffice3",
                 "libreoffice3-main",
                 "libreoffice3-startcenter",
@@ -18643,6 +18655,7 @@
         "linux": {
             "root": "libreoffice-math",
             "symlinks": [
+                "libreoffice24.8-math",
                 "libreoffice3-math",
                 "libreoffice34-math",
                 "libreoffice4.2-math",
@@ -18665,6 +18678,7 @@
         "linux": {
             "root": "libreoffice-template",
             "symlinks": [
+                "libreoffice24.8-template",
                 "libreoffice3-template",
                 "libreoffice34-template",
                 "libreoffice7.2-template",
@@ -18678,6 +18692,7 @@
         "linux": {
             "root": "libreoffice-writer",
             "symlinks": [
+                "libreoffice24.8-writer",
                 "libreoffice3-writer",
                 "libreoffice34-writer",
                 "libreoffice4.2-writer",
@@ -19851,6 +19866,7 @@
         "linux": {
             "root": "media-downloader",
             "symlinks": [
+                "com.github.gabutakut.gabutdm",
                 "com.markopejic.downloader",
                 "io.github.giantpinkrobots.varia",
                 "io.github.mhogomchungu.media-downloader",
@@ -22217,6 +22233,7 @@
                 "net.nymtech.NymVPN",
                 "nym",
                 "nym-vpn",
+                "nym-vpn-app",
                 "nymvpn-desktop",
                 "nymvpn-x"
             ]
@@ -23853,6 +23870,7 @@
                 "flpsed",
                 "io.github.diegoivan.pdf_metadata_editor",
                 "io.github.mihnea_radulescu.quickpdfjoin",
+                "karp",
                 "master-pdf-editor",
                 "master-pdf-editor3",
                 "masterpdfeditor3",
@@ -23860,6 +23878,7 @@
                 "masterpdfeditor5",
                 "net.codeindustry.MasterPDFEditor",
                 "net.codeindustry.MasterPDFEditor-Legacy",
+                "org.kde.karp",
                 "pdf-metadata-editor"
             ]
         }
@@ -31147,8 +31166,15 @@
         "linux": {
             "root": "tartube",
             "symlinks": [
-                "io.sourceforge.tartube",
-                "io.sourceforge.tartube.Tartube"
+                "io.sourceforge.tartube"
+            ]
+        }
+    },
+    "tarug": {
+        "linux": {
+            "root": "tarug",
+            "symlinks": [
+                "io.github.ppvan.tarug"
             ]
         }
     },
@@ -35258,6 +35284,7 @@
         "linux": {
             "root": "wicd",
             "symlinks": [
+                "iwgtk",
                 "org.xnec2c.Xnec2c",
                 "wicd-gtk",
                 "wpa_gui",
