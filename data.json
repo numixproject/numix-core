@@ -2069,6 +2069,7 @@
         "linux": {
             "root": "armcord",
             "symlinks": [
+                "app.legcord.Legcord",
                 "startarmcord",
                 "xyz.armcord.ArmCord"
             ]
@@ -8164,7 +8165,10 @@
     },
     "distributor-logo-msdos": {
         "linux": {
-            "root": "distributor-logo-msdos"
+            "root": "distributor-logo-msdos",
+            "symlinks": [
+                "zone.dos.Browser"
+            ]
         }
     },
     "distributor-logo-mx": {
@@ -32160,6 +32164,7 @@
                 "com.github.luizaugustomm.tomato",
                 "com.github.tomatoers.tomato",
                 "net.sourceforge.tomatoes.IHaveNoTomatoes",
+                "org.flowkeeper.Flowkeeper",
                 "tomato",
                 "tomatoes"
             ]
@@ -35029,7 +35034,8 @@
         "linux": {
             "root": "net.codelogistics.webapps",
             "symlinks": [
-                "io.github.elevenhsoft.WebApps"
+                "io.github.elevenhsoft.WebApps",
+                "io.github.junalmeida.webapps_manager"
             ]
         }
     },
