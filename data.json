@@ -6843,6 +6843,7 @@
                 "io.github.ferraridamiano.ConverterNOW",
                 "io.github.idevecore.CurrencyConverter",
                 "io.github.idevecore.Valuta",
+                "io.github.r_sergii.multiCurrency",
                 "keurocalc",
                 "mmex",
                 "money-manager-ex",
@@ -9461,6 +9462,7 @@
                 "electron24",
                 "electron25",
                 "electron27",
+                "electron3",
                 "electron30",
                 "electron31",
                 "electron32",
@@ -9468,7 +9470,6 @@
                 "electron34",
                 "electron35",
                 "electron36",
-                "electron3",
                 "electron4",
                 "electron5",
                 "electron6",
@@ -24537,8 +24538,8 @@
             "root": "plank",
             "symlinks": [
                 "docky",
-                "plank-reloaded",
-                "net.launchpad.plank"
+                "net.launchpad.plank",
+                "plank-reloaded"
             ]
         }
     },
@@ -30665,6 +30666,7 @@
         "linux": {
             "root": "supertux",
             "symlinks": [
+                "io.github.JaredTweed.SuperTuxAdvance",
                 "io.github.retux_game.retux",
                 "org.supertux.SuperTux",
                 "org.supertux.SuperTux-Milestone1",
