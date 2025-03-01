@@ -238,6 +238,7 @@
             "root": "8-ball-pool",
             "symlinks": [
                 "chrome-ddfplgpeamcbpecnihfpikllkfojgkai-Default",
+                "com.cassidyjames.clairvoyant",
                 "com.github.cassidyjames.clairvoyant",
                 "dk.sunsite.foobillard",
                 "eight-ball",
@@ -319,7 +320,10 @@
             "aarddict.android/aarddict.android.LookupActivity"
         ],
         "linux": {
-            "root": "aarddict"
+            "root": "aarddict",
+            "symlinks": [
+                "net.eudic.dict"
+            ]
         },
         "tags": ["world_baseplate"]
     },
@@ -9456,6 +9460,14 @@
                 "electron23",
                 "electron24",
                 "electron25",
+                "electron27",
+                "electron30",
+                "electron31",
+                "electron32",
+                "electron33",
+                "electron34",
+                "electron35",
+                "electron36",
                 "electron3",
                 "electron4",
                 "electron5",
@@ -10460,6 +10472,7 @@
         "linux": {
             "root": "figma-linux",
             "symlinks": [
+                "chrome-iegnmldemghikgiphedaokmldcblecjl-Default",
                 "io.github.Figma_Linux.figma_linux"
             ]
         }
@@ -16450,6 +16463,8 @@
                 "java20-openjdk",
                 "java21-openjdk",
                 "java22-openjdk",
+                "java23-openjdk",
+                "java24-openjdk",
                 "java8-openjdk",
                 "java9-openjdk",
                 "javaws",
@@ -16466,6 +16481,8 @@
                 "openjdk-20",
                 "openjdk-21",
                 "openjdk-22",
+                "openjdk-23",
+                "openjdk-24",
                 "openjdk-6",
                 "openjdk-7",
                 "openjdk-8",
@@ -16484,6 +16501,8 @@
                 "oracle_java20",
                 "oracle_java21",
                 "oracle_java22",
+                "oracle_java23",
+                "oracle_java24",
                 "oracle_java6",
                 "oracle_java7",
                 "oracle_java8",
@@ -16503,6 +16522,8 @@
                 "org.freedesktop.Sdk.Extension.openjdk20",
                 "org.freedesktop.Sdk.Extension.openjdk21",
                 "org.freedesktop.Sdk.Extension.openjdk22",
+                "org.freedesktop.Sdk.Extension.openjdk23",
+                "org.freedesktop.Sdk.Extension.openjdk24",
                 "org.freedesktop.Sdk.Extension.openjdk8",
                 "org.freedesktop.Sdk.Extension.openjdk9",
                 "sun-java",
@@ -18328,6 +18349,7 @@
             "symlinks": [
                 "gnome-latex",
                 "ml.mdwalters.Lemonade",
+                "org.gnome.enter_tex",
                 "org.gnome.gnome-latex"
             ]
         }
@@ -20919,6 +20941,7 @@
             "symlinks": [
                 "brave-cifhbcnohmdccbgoicgdjpfamggdegmo-Default",
                 "chrome-cifhbcnohmdccbgoicgdjpfamggdegmo-Default",
+                "chrome-cifhbcnohmdccbgoicgdjpfamggdegmo-Profile_2",
                 "com.github.ismaelmartinez.teams-for-linux",
                 "com.github.IsmaelMartinez.teams_for_linux",
                 "com.microsoft.Teams",
@@ -24513,7 +24536,9 @@
         "linux": {
             "root": "plank",
             "symlinks": [
-                "docky"
+                "docky",
+                "plank-reloaded",
+                "net.launchpad.plank"
             ]
         }
     },
@@ -26033,6 +26058,7 @@
         "linux": {
             "root": "qdirstat",
             "symlinks": [
+                "io.github.shundhammer.qdirstat",
                 "k4dirstat",
                 "kdirstat"
             ]
@@ -29179,7 +29205,8 @@
             "symlinks": [
                 "de.uni_heidelberg.zah.GaiaSky",
                 "gaiasky",
-                "gs_icon"
+                "gs_icon",
+                "space.gaiasky.GaiaSky"
             ]
         }
     },
