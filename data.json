@@ -5976,15 +5976,6 @@
             ]
         }
     },
-    "clion": {
-        "linux": {
-            "root": "clion",
-            "symlinks": [
-                "com.jetbrains.CLion",
-                "jetbrains-clion"
-            ]
-        }
-    },
     "clipgrab": {
         "linux": {
             "root": "clipgrab"
@@ -7023,15 +7014,6 @@
             "root": "dash128",
             "symlinks": [
                 "org.dash.dash-core"
-            ]
-        }
-    },
-    "datagrip": {
-        "linux": {
-            "root": "datagrip",
-            "symlinks": [
-                "com.jetbrains.DataGrip",
-                "jetbrains-datagrip"
             ]
         }
     },
@@ -15755,25 +15737,6 @@
             ]
         }
     },
-    "idea": {
-        "linux": {
-            "root": "idea",
-            "symlinks": [
-                "com.jetbrains.Intellij-Community",
-                "com.jetbrains.IntelliJ-IDEA-Community",
-                "com.jetbrains.IntelliJ-IDEA-Ultimate",
-                "intellij",
-                "intellij-idea",
-                "intellij-idea-ce",
-                "intellij-idea-community",
-                "intellij-idea-ue-bundled-jre",
-                "intellij-idea-ultimate-edition",
-                "intellij_idea",
-                "jetbrains-intellij",
-                "jetbrains-intellij-idea"
-            ]
-        }
-    },
     "identity": {
         "linux": {
             "root": "identity",
@@ -16659,6 +16622,95 @@
     "jenny-leclue-detectivu": {
         "linux": {
             "root": "steam_icon_319870"
+        }
+    },
+    "jetbrains-clion": {
+        "linux": {
+            "root": "clion",
+            "symlinks": [
+                "com.jetbrains.CLion",
+                "jetbrains-clion"
+            ]
+        }
+    },
+    "jetbrains-datagrip": {
+        "linux": {
+            "root": "datagrip",
+            "symlinks": [
+                "com.jetbrains.DataGrip",
+                "jetbrains-datagrip"
+            ]
+        }
+    },
+    "jetbrains-idea": {
+        "linux": {
+            "root": "idea",
+            "symlinks": [
+                "com.jetbrains.Intellij-Community",
+                "com.jetbrains.IntelliJ-IDEA-Community",
+                "com.jetbrains.IntelliJ-IDEA-Ultimate",
+                "intellij",
+                "intellij-idea",
+                "intellij-idea-ce",
+                "intellij-idea-community",
+                "intellij-idea-ue-bundled-jre",
+                "intellij-idea-ultimate-edition",
+                "intellij_idea",
+                "jetbrains-intellij",
+                "jetbrains-intellij-idea"
+            ]
+        }
+    },
+    "jetbrains-phpstorm": {
+        "linux": {
+            "root": "phpstorm",
+            "symlinks": [
+                "com.jetbrains.PhpStorm",
+                "jetbrains-phpstorm",
+                "webide"
+            ]
+        }
+    },
+    "jetbrains-pycharm": {
+        "linux": {
+            "root": "pycharm",
+            "symlinks": [
+                "com.jetbrains.PyCharm",
+                "com.jetbrains.PyCharm-Community",
+                "com.jetbrains.PyCharm-Professional",
+                "jetbrains-pycharm",
+                "jetbrains-pycharm-edu",
+                "pycharm-community",
+                "pycharm-education",
+                "pycharm-professional"
+            ]
+        }
+    },
+    "jetbrains-rider": {
+        "linux": {
+            "root": "rider",
+            "symlinks": [
+                "com.jetbrains.Rider",
+                "jetbrains-rider"
+            ]
+        }
+    },
+    "jetbrains-rubymine": {
+        "linux": {
+            "root": "rubymine",
+            "symlinks": [
+                "com.jetbrains.RubyMine",
+                "jetbrains-rubymine"
+            ]
+        }
+    },
+    "jetbrains-webstorm": {
+        "linux": {
+            "root": "webstorm",
+            "symlinks": [
+                "com.jetbrains.WebStorm",
+                "jetbrains-webstorm"
+            ]
         }
     },
     "jiten": {
@@ -24211,16 +24263,6 @@
             ]
         }
     },
-    "phpstorm": {
-        "linux": {
-            "root": "phpstorm",
-            "symlinks": [
-                "com.jetbrains.PhpStorm",
-                "jetbrains-phpstorm",
-                "webide"
-            ]
-        }
-    },
     "pia-manager": {
         "linux": {
             "root": "pia-manager",
@@ -25834,21 +25876,6 @@
             "root": "pycad",
             "symlinks": [
                 "gtkpycad"
-            ]
-        }
-    },
-    "pycharm": {
-        "linux": {
-            "root": "pycharm",
-            "symlinks": [
-                "com.jetbrains.PyCharm",
-                "com.jetbrains.PyCharm-Community",
-                "com.jetbrains.PyCharm-Professional",
-                "jetbrains-pycharm",
-                "jetbrains-pycharm-edu",
-                "pycharm-community",
-                "pycharm-education",
-                "pycharm-professional"
             ]
         }
     },
@@ -27569,15 +27596,6 @@
             ]
         }
     },
-    "rider": {
-        "linux": {
-            "root": "rider",
-            "symlinks": [
-                "com.jetbrains.Rider",
-                "jetbrains-rider"
-            ]
-        }
-    },
     "riftshare": {
         "linux": {
             "root": "riftshare",
@@ -27964,15 +27982,6 @@
             "root": "rtwizard",
             "symlinks": [
                 "org.brlcad.BRL_CAD.rtwizard"
-            ]
-        }
-    },
-    "rubymine": {
-        "linux": {
-            "root": "rubymine",
-            "symlinks": [
-                "com.jetbrains.RubyMine",
-                "jetbrains-rubymine"
             ]
         }
     },
@@ -35165,15 +35174,6 @@
             "root": "webservice-office-zoho-sheet"
         }
     },
-    "webstorm": {
-        "linux": {
-            "root": "webstorm",
-            "symlinks": [
-                "com.jetbrains.WebStorm",
-                "jetbrains-webstorm"
-            ]
-        }
-    },
     "webtorrent-desktop": {
         "linux": {
             "root": "webtorrent-desktop",
@@ -35921,6 +35921,7 @@
             "symlinks": [
                 "circuit",
                 "com.kavilgroup.gelectrical",
+                "io.github.hamza_algohary.Coulomb",
                 "ktechlab",
                 "org.kde.ktechlab"
             ]
