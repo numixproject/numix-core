@@ -12713,6 +12713,14 @@
             "root": "gnash"
         }
     },
+    "gnatstudio": {
+        "linux": {
+            "root": "gnatstudio",
+            "symlinks": [
+                "com.adacore.gnatstudio"
+            ]
+        }
+    },
     "gneelight": {
         "linux": {
             "root": "gneelight",
