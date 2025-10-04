@@ -9452,6 +9452,9 @@
                 "electron34",
                 "electron35",
                 "electron36",
+                "electron37",
+                "electron38",
+                "electron39",
                 "electron4",
                 "electron5",
                 "electron6",
@@ -21308,6 +21311,8 @@
                 "mscore",
                 "mscore-portable",
                 "mscore3",
+                "mscore4",
+                "mscore4portable",
                 "Musescore",
                 "org.musescore.MuseScore"
             ]
@@ -26047,6 +26052,7 @@
         "linux": {
             "root": "qcad",
             "symlinks": [
+                "org.qcad.QCAD",
                 "qcad_icon"
             ]
         }
