@@ -18,7 +18,7 @@ We accept contributions, read [this page](.github/CONTRIBUTING.md#Icons) for mor
 
 ### Hardcoded Icons
 
-To deal with hardcoded application icons Numix uses the [hardcode-fixer](https://github.com/Foggalong/hardcode-fixer) script. A list of the applications supported by the script can be found [here](https://github.com/Foggalong/hardcode-fixer/wiki/App-Support).
+To deal with hardcoded application icons Numix uses the [hardcode-fixer](https://github.com/Foggalong/hardcode-fixer) script. A list of the applications supported by the script can be found [in this table](https://github.com/Foggalong/hardcode-fixer/wiki/App-Support).
 
 ## Script
 

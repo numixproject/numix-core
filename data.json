@@ -12660,6 +12660,14 @@
             ]
         }
     },
+    "gmic-qt": {
+        "linux": {
+            "root": "gmic-qt",
+            "symlinks": [
+                "gmic_qt"
+            ]
+        }
+    },
     "gmpc": {
         "linux": {
             "root": "gmpc"
