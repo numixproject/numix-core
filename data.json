@@ -14184,7 +14184,6 @@
         "linux": {
             "root": "gradia",
             "symlinks": [
-                "adwcustomizer",
                 "be.alexandervanhee.gradia"
             ]
         }
@@ -18519,6 +18518,14 @@
         "android": [
             "com.nitrome.leapday/com.nitrome.unityplugins.Main"
         ]
+    },
+    "learn6502": {
+        "linux": {
+            "root": "learn6502",
+            "symlinks": [
+                "eu.jumplink.Learn6502"
+            ]
+        }
     },
     "lector": {
         "linux": {
