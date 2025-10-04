@@ -16723,6 +16723,14 @@
             ]
         }
     },
+    "jetbrains-toolbox": {
+        "linux": {
+            "root": "jetbrains-toolbox",
+            "symlinks": [
+                "com.jetbrains.Toolbox"
+            ]
+        }
+    },
     "jetbrains-webstorm": {
         "linux": {
             "root": "webstorm",
