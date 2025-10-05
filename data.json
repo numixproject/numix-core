@@ -16733,10 +16733,20 @@
             ]
         }
     },
+    "jetbrains-rustrover": {
+        "linux": {
+            "root": "jetbrains-rustrover",
+            "symlinks": [
+                "com.jetbrains.RustRover",
+                "rustrover"
+            ]
+        }
+    },
     "jetbrains-toolbox": {
         "linux": {
             "root": "jetbrains-toolbox",
             "symlinks": [
+                "com.jetbrains.ToolBox",
                 "com.jetbrains.Toolbox"
             ]
         }
@@ -18066,6 +18076,7 @@
                 "com.francescogaglione.chronos",
                 "com.github.naaando.rush",
                 "com.github.vikdevelop.timer",
+                "io.github.gaheldev.Millisecond",
                 "org.cubocore.CoreTime",
                 "org.kde.kronometer",
                 "zeegaree",
