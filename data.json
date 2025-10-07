@@ -1835,7 +1835,10 @@
     },
     "applications-science": {
         "linux": {
-            "root": "applications-science"
+            "root": "applications-science",
+            "symlinks": [
+                "page.codeberg.lo_vely.Nucleus"
+            ]
         }
     },
     "applications-system": {
@@ -15082,7 +15085,10 @@
     },
     "hashsum": {
         "linux": {
-            "root": "hashsum"
+            "root": "hashsum",
+            "symlinks": [
+                "org.altlinux.Hashsum"
+            ]
         }
     },
     "hatari": {
@@ -22915,6 +22921,7 @@
         "linux": {
             "root": "openbazaar",
             "symlinks": [
+                "io.github.kolunmi.Bazaar",
                 "openbazaar2",
                 "openbazaar2client"
             ]
