@@ -19276,6 +19276,14 @@
             ]
         }
     },
+    "looking-glass-client": {
+        "linux": {
+            "root": "looking-glass-client",
+            "symlinks": [
+                "looking-glass"
+            ]
+        }
+    },
     "loop": {
         "linux": {
             "root": "net.danigm.loop"
