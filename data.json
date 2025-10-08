@@ -19202,6 +19202,7 @@
         "linux": {
             "root": "localsend",
             "symlinks": [
+                "localsend_app",
                 "org.localsend.localsend_app"
             ]
         }
@@ -23140,7 +23141,8 @@
             "root": "openra",
             "symlinks": [
                 "net.openra.openra",
-                "net.openra.OpenRA"
+                "net.openra.OpenRA",
+                "net.openra.OpenRA-cnc"
             ]
         }
     },
@@ -24511,6 +24513,14 @@
     "pinball": {
         "linux": {
             "root": "pinball"
+        }
+    },
+    "pince": {
+        "linux": {
+            "root": "pince",
+            "symlinks": [
+                "PINCE"
+            ]
         }
     },
     "pinepods": {
