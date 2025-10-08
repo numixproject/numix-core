@@ -3711,6 +3711,14 @@
             ]
         }
     },
+    "bouncer": {
+        "linux": {
+            "root": "bouncer",
+            "symlinks": [
+                "io.github.justinrdonnelly.bouncer"
+            ]
+        }
+    },
     "bovo": {
         "linux": {
             "root": "bovo",
