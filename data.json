@@ -15224,6 +15224,11 @@
             ]
         }
     },
+    "helium-browser": {
+        "linux": {
+            "root": "helium-browser"
+        }
+    },
     "helix": {
         "linux": {
             "root": "helix",
@@ -15878,9 +15883,9 @@
         "linux": {
             "root": "imagemagick",
             "symlinks": [
+                "display.im6",
                 "display-im6.Q16",
                 "display-im6.q16",
-                "display.im6",
                 "display-im7.q16"
             ]
         }
@@ -33879,6 +33884,7 @@
             "root": "video-downloader",
             "symlinks": [
                 "com.github.unrud.VideoDownloader",
+                "openvideodownloader",
                 "org.gustavoperedo.VideoDownloader"
             ]
         }
