@@ -10308,7 +10308,15 @@
             "root": "feathernotes"
         }
     },
-        "fedistar": {
+    "fedinspect": {
+        "linux": {
+            "root": "fedinspect",
+            "symlinks": [
+                "org.andypiper.Fedinspect"
+            ]
+        }
+    },
+    "fedistar": {
         "linux": {
             "root": "fedistar"
         }
@@ -25858,7 +25866,8 @@
         "linux": {
             "root": "pulseeffects",
             "symlinks": [
-                "com.github.wwmm.pulseeffects"
+                "com.github.wwmm.pulseeffects",
+                "org.altlinux.Tuner"
             ]
         }
     },
