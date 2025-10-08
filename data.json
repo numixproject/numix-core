@@ -3512,6 +3512,11 @@
             ]
         }
     },
+    "bluesky": {
+        "linux": {
+            "root": "bluesky"
+        }
+    },
     "bluetooth": {
         "linux": {
             "root": "bluetooth",
@@ -15875,7 +15880,8 @@
             "symlinks": [
                 "display-im6.Q16",
                 "display-im6.q16",
-                "display.im6"
+                "display.im6",
+                "display-im7.q16"
             ]
         }
     },
