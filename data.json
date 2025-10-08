@@ -19415,6 +19415,14 @@
             ]
         }
     },
+    "lptk": {
+        "linux": {
+            "root": "lptk",
+            "symlinks": [
+                "me.ogarcia.lptk"
+            ]
+        }
+    },
     "lshw": {
         "linux": {
             "root": "lshw-gtk",
@@ -27031,6 +27039,7 @@
         "linux": {
             "root": "r-quick-share",
             "symlinks": [
+                "io.github.nozwock.Packet",
                 "rquickshare"
             ]
         }
