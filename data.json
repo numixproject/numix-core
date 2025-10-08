@@ -5275,7 +5275,7 @@
             ]
         }
     },
-        "cardo": {
+    "cardo": {
         "linux": {
             "root": "cardo"
         }
@@ -7280,7 +7280,7 @@
             ]
         }
     },
-        "deskflow": {
+    "deskflow": {
         "linux": {
             "root": "deskflow",
             "symlinks": [
@@ -8535,6 +8535,14 @@
     "distributor-logo-zorin": {
         "linux": {
             "root": "distributor-logo-zorin"
+        }
+    },
+    "distroshelf": {
+        "linux": {
+            "root": "distroshelf",
+            "symlinks": [
+                "com.ranfdev.DistroShelf"
+            ]
         }
     },
     "djv-view": {
@@ -18911,7 +18919,7 @@
             ]
         }
     },
-        "librum": {
+    "librum": {
         "linux": {
             "root": "librum",
             "symlinks": [
