@@ -4139,6 +4139,7 @@
             "root": "caffeine",
             "symlinks": [
                 "com.konstantintutsch.Caffeine",
+                "de.swsnr.keepmeawake",
                 "kaffeine",
                 "org.kde.kaffeine"
             ]
@@ -5988,6 +5989,7 @@
             "root": "com.github.davidmhewitt.clipped",
             "symlinks": [
                 "app.getclipboard.Clipboard",
+                "io.github.cleomenezesjr.Serigy",
                 "io.github.sss_says_snek.Diurnals"
             ]
         }
@@ -19405,6 +19407,14 @@
             "root": "lpi-translate"
         }
     },
+    "lptk": {
+        "linux": {
+            "root": "lptk",
+            "symlinks": [
+                "me.ogarcia.lptk"
+            ]
+        }
+    },
     "lpub": {
         "linux": {
             "root": "lpub",
@@ -19412,14 +19422,6 @@
                 "io.github.trevorsandy.LPub3D",
                 "lpub3d",
                 "org.trevorsandy.lpub3d"
-            ]
-        }
-    },
-    "lptk": {
-        "linux": {
-            "root": "lptk",
-            "symlinks": [
-                "me.ogarcia.lptk"
             ]
         }
     },
@@ -20218,6 +20220,7 @@
                 "menulibre",
                 "mozo",
                 "mx-menu-editor",
+                "nl.emphisia.icon",
                 "org.bluesabre.MenuLibre",
                 "org.kde.kmenuedit",
                 "page.codeberg.libre_menu_editor.LibreMenuEditor",
@@ -20793,6 +20796,7 @@
         "linux": {
             "root": "monophony",
             "symlinks": [
+                "de.johrpan.Musicus",
                 "io.gitlab.zehkira.Monophony"
             ]
         }
@@ -25423,6 +25427,7 @@
             "symlinks": [
                 "background",
                 "cs-backgrounds",
+                "de.swsnr.pictureoftheday",
                 "gnome-settings-background",
                 "preferences-wallpaper",
                 "wallpaper",
