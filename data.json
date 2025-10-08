@@ -1683,6 +1683,7 @@
         "linux": {
             "root": "appflowy",
             "symlinks": [
+                "AppFlowy",
                 "io.appflowy.AppFlowy"
             ]
         }
@@ -15883,10 +15884,10 @@
         "linux": {
             "root": "imagemagick",
             "symlinks": [
-                "display.im6",
                 "display-im6.Q16",
                 "display-im6.q16",
-                "display-im7.q16"
+                "display-im7.q16",
+                "display.im6"
             ]
         }
     },
@@ -16528,6 +16529,8 @@
                 "openjdk-22",
                 "openjdk-23",
                 "openjdk-24",
+                "openjdk-25",
+                "openjdk-26",
                 "openjdk-6",
                 "openjdk-7",
                 "openjdk-8",
@@ -16569,6 +16572,8 @@
                 "org.freedesktop.Sdk.Extension.openjdk22",
                 "org.freedesktop.Sdk.Extension.openjdk23",
                 "org.freedesktop.Sdk.Extension.openjdk24",
+                "org.freedesktop.Sdk.Extension.openjdk25",
+                "org.freedesktop.Sdk.Extension.openjdk26",
                 "org.freedesktop.Sdk.Extension.openjdk8",
                 "org.freedesktop.Sdk.Extension.openjdk9",
                 "sun-java",
@@ -19457,7 +19462,8 @@
         "linux": {
             "root": "lskat",
             "symlinks": [
-                "org.kde.lskat"
+                "org.kde.lskat",
+                "steam_icon_2379780"
             ]
         }
     },
@@ -22395,7 +22401,9 @@
             "symlinks": [
                 "bumblebee-config-gui",
                 "com.leinardi.gwe",
+                "com.nvidia.geforcenow.svg",
                 "de.z_ray.OptimusUI",
+                "geforcenow",
                 "io.github.hmlendea.geforcenow-electron",
                 "nvidia-310-settings",
                 "nvidia-current-settings",
@@ -28685,6 +28693,7 @@
         "linux": {
             "root": "seahorse",
             "symlinks": [
+                "org.altlinux.userpasswd",
                 "org.gnome.Seahorse",
                 "org.gnome.seahorse.Application",
                 "password-manager",
@@ -32921,6 +32930,11 @@
     "turnon": {
         "linux": {
             "root": "de.swsnr.turnon"
+        }
+    },
+    "turntable": {
+        "linux": {
+            "root": "dev.geopjr.Turntable"
         }
     },
     "turpial": {
