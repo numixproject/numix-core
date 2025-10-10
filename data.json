@@ -30382,6 +30382,14 @@
             ]
         }
     },
+    "sshpilot": {
+        "linux": {
+            "root": "sshpilot",
+            "symlinks": [
+                "io.github.mfat.sshpilot"
+            ]
+        }
+    },
     "stacer": {
         "linux": {
             "root": "stacer",
