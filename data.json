@@ -16024,6 +16024,7 @@
                 "gis-weather",
                 "gnome-weather",
                 "indicator-china-weather",
+                "io.github.archisman_panigrahi.typhoon",
                 "org.gnome.Weather",
                 "org.gnome.Weather.Application",
                 "typhoon"
@@ -28810,7 +28811,10 @@
     },
     "selene": {
         "linux": {
-            "root": "selene"
+            "root": "selene",
+            "symlinks": [
+                "io.github.alamahant.Selene"
+            ]
         }
     },
     "selfprivacy": {
