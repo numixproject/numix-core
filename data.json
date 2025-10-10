@@ -5887,6 +5887,7 @@
                 "cytopia-tiledata-editor",
                 "cytopia_icon",
                 "cytopia_icon_iso",
+                "io.github.lincity_ng.lincity-ng",
                 "lincity-ng",
                 "Micropolis",
                 "micropolis",
@@ -6232,6 +6233,14 @@
                 "colormate",
                 "com.github.ckruse.ColorMate",
                 "io.github.lainsce.Colorway"
+            ]
+        }
+    },
+    "comaps": {
+        "linux": {
+            "root": "comaps",
+            "symlinks": [
+                "app.comaps.comaps"
             ]
         }
     },
@@ -26280,7 +26289,10 @@
     },
     "qcomicbook": {
         "linux": {
-            "root": "qcomicbook"
+            "root": "qcomicbook",
+            "symlinks": [
+                "com.binarynonsense.acbr"
+            ]
         }
     },
     "qdigidoc-client": {
