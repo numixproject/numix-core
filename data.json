@@ -12868,6 +12868,7 @@
             "root": "gnome-break-timer",
             "symlinks": [
                 "era",
+                "io.github.pieterdd.StretchBreak",
                 "org.gnome.BreakTimer",
                 "org.kde.era"
             ]
@@ -22227,6 +22228,14 @@
             "root": "nootka",
             "symlinks": [
                 "net.sf.nootka"
+            ]
+        }
+    },
+    "nordvpn": {
+        "linux": {
+            "root": "nordvpn",
+            "symlinks": [
+                "nordvpn.nordvpn-gui"
             ]
         }
     },
