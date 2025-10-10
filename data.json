@@ -20939,6 +20939,14 @@
             ]
         }
     },
+    "mozilla-vpn-client": {
+        "linux": {
+            "root": "mozilla-vpn-client",
+            "symlinks": [
+                "org.mozilla.vpn"
+            ]
+        }
+    },
     "mp3splt": {
         "linux": {
             "root": "mp3splt-gtk_ico"
