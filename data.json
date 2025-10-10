@@ -11832,6 +11832,7 @@
                 "app.furtherance.Furtherance",
                 "com.codemouse92.timecard",
                 "com.lakoliu.Furtherance",
+                "com.pojtinger.felicitas.Sessions",
                 "io.unobserved.furtherance"
             ]
         }
@@ -17618,6 +17619,7 @@
                 "gogui",
                 "gomoku",
                 "io.github.alexkdeveloper.gomoku",
+                "io.github.tobagin.Draughts",
                 "org.kde.kigo",
                 "quarry"
             ]
@@ -19632,7 +19634,8 @@
         "linux": {
             "root": "lyricsx",
             "symlinks": [
-                "io.github.waylyrics.Waylyrics"
+                "io.github.waylyrics.Waylyrics",
+                "net.lrclib.lrcget"
             ]
         }
     },
@@ -19918,6 +19921,7 @@
             "root": "master-key",
             "symlinks": [
                 "com.gitlab.guillermop.MasterKey",
+                "io.github.tobagin.secrets",
                 "io.github.unicornyrainbow.secrets"
             ]
         }
@@ -27330,6 +27334,7 @@
         "linux": {
             "root": "rclone-browser",
             "symlinks": [
+                "com.rcloneui.RcloneUI",
                 "io.github.darkhz.rclonetui"
             ]
         }
@@ -30367,7 +30372,10 @@
     },
     "sr-editor": {
         "linux": {
-            "root": "sr-editor"
+            "root": "sr-editor",
+            "symlinks": [
+                "io.github.tobagin.digger"
+            ]
         }
     },
     "srain": {
@@ -31543,6 +31551,7 @@
                 "codeslayer",
                 "featherpad",
                 "jupyter-notebook",
+                "net.codelogistics.letters",
                 "notebook",
                 "org.cubocore.CorePad"
             ]
@@ -35361,6 +35370,7 @@
                 "io.bit3.WhatsAppQT",
                 "io.fossbr.WhatsAppQT",
                 "io.github.mimbrero.WhatsAppDesktop",
+                "io.github.tobagin.karere",
                 "whatsapp",
                 "whatsapp-desktop",
                 "whatsapp-for-linux",
@@ -36348,6 +36358,7 @@
         "linux": {
             "root": "xlog",
             "symlinks": [
+                "io.github.tobagin.sonar",
                 "org.nongnu.Xlog"
             ]
         }
