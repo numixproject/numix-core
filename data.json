@@ -6335,6 +6335,14 @@
             ]
         }
     },
+    "constrict": {
+        "linux": {
+            "root": "constrict",
+            "symlinks": [
+                "io.github.wartybix.Constrict"
+            ]
+        }
+    },
     "container-desktop": {
         "linux": {
             "root": "container-desktop"
