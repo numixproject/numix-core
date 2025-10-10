@@ -13722,7 +13722,8 @@
         "linux": {
             "root": "godots",
             "symlinks": [
-                "io.github.MakovWait.Godots"
+                "io.github.MakovWait.Godots",
+                "io.github.sockeye_d.godl"
             ]
         }
     },
@@ -28800,7 +28801,8 @@
                 "clamav-gui",
                 "clamtk",
                 "com.github.davetheunsub.clamtk",
-                "com.gitlab.davem.ClamTk"
+                "com.gitlab.davem.ClamTk",
+                "io.github.asafelobotomy.SearchAndDestroy"
             ]
         }
     },
@@ -33114,6 +33116,7 @@
             "root": "uberwriter",
             "symlinks": [
                 "de.wolfvollprecht.UberWriter",
+                "io.github.quantum_mutnauq.fast_reader_gtk",
                 "Uberwriter"
             ]
         }
@@ -34389,7 +34392,10 @@
     },
     "waking-mars": {
         "linux": {
-            "root": "steam_icon_227200"
+            "root": "steam_icon_227200",
+            "symlinks": [
+                "io.github.rilsonjoas.MARS"
+            ]
         }
     },
     "war-thunder": {
