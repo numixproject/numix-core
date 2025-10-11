@@ -14658,6 +14658,7 @@
                 "gtklick",
                 "kmetronome",
                 "metronomek",
+                "sh.tat.bpmdetect",
                 "net.bartkessels.advancedmetronome",
                 "net.sf.metronomek",
                 "net.sourceforge.kmetronome"
@@ -17747,7 +17748,10 @@
     },
     "kitty": {
         "linux": {
-            "root": "kitty"
+            "root": "kitty",
+            "symlinks": [
+                "net.kovidgoyal.kitty"
+            ]
         }
     },
     "kkedit": {
@@ -20175,7 +20179,10 @@
     },
     "medit": {
         "linux": {
-            "root": "medit"
+            "root": "medit",
+            "symlinks": [
+                "dev.pantheum.janus"
+            ]
         }
     },
     "mednaffe": {
@@ -35218,6 +35225,7 @@
         "linux": {
             "root": "chrome-ieicmdpibfnjbmjolkmohnelljmjomoj-Default",
             "symlinks": [
+                "io.github.savantsavior.t-crisis4",
                 "openblok"
             ]
         }
