@@ -3458,7 +3458,8 @@
                 "app.bluebubbles.BlueBubbles",
                 "bluebubbles-app",
                 "com.github.alonsoenrique.quotes",
-                "com.github.ma1onso.quotes"
+                "com.github.ma1onso.quotes",
+                "io.github.mohfy.phoneme"
             ]
         }
     },
@@ -10370,6 +10371,14 @@
     "feathernotes": {
         "linux": {
             "root": "feathernotes"
+        }
+    },
+    "feedflow": {
+        "linux": {
+            "root": "feedflow",
+            "symlinks": [
+                "com.prof18.feedflow"
+            ]
         }
     },
     "fedinspect": {
@@ -26126,6 +26135,7 @@
                 "org.kde.kubrick",
                 "org.sugarlabs.ColorDeducto",
                 "playbox",
+                "uk.co.cappsy.Tesseract",
                 "xyz.aguno.CubeTimer"
             ]
         }
@@ -31485,7 +31495,8 @@
                 "gtali",
                 "kjumpingcube",
                 "org.gnome.Tali",
-                "org.kde.kjumpingcube"
+                "org.kde.kjumpingcube",
+                "page.codeberg.friedrich.DND-Dice-Roller"
             ]
         }
     },
