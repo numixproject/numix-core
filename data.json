@@ -10373,14 +10373,6 @@
             "root": "feathernotes"
         }
     },
-    "feedflow": {
-        "linux": {
-            "root": "feedflow",
-            "symlinks": [
-                "com.prof18.feedflow"
-            ]
-        }
-    },
     "fedinspect": {
         "linux": {
             "root": "fedinspect",
@@ -10415,6 +10407,14 @@
             "root": "fedy",
             "symlinks": [
                 "dev.edfloreshz.CosmicTweaks"
+            ]
+        }
+    },
+    "feedflow": {
+        "linux": {
+            "root": "feedflow",
+            "symlinks": [
+                "com.prof18.feedflow"
             ]
         }
     },
@@ -11983,6 +11983,11 @@
     "garrys-mod": {
         "linux": {
             "root": "steam_icon_4000"
+        }
+    },
+    "gauge": {
+        "linux": {
+            "root": "io.github.josephmawa.Gauge"
         }
     },
     "gaupol": {
