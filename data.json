@@ -1331,7 +1331,8 @@
             "root": "amcsquad",
             "symlinks": [
                 "io.itch.amcsquad.amc-squad",
-                "io.itch.amcsquad.amcsquad"
+                "io.itch.amcsquad.amcsquad",
+                "net.amcsquad.amcsquad"
             ]
         }
     },
@@ -12759,6 +12760,7 @@
         "linux": {
             "root": "gmetronome",
             "symlinks": [
+                "io.github.tobagin.tempo",
                 "org.gnome.gitlab.dqpb.GMetronome",
                 "org.kde.rattlesnake",
                 "rattlesnake"
@@ -17545,6 +17547,7 @@
         "linux": {
             "root": "keysmith",
             "symlinks": [
+                "io.github.tobagin.keysmith",
                 "org.kde.keysmith"
             ]
         }
@@ -21574,7 +21577,8 @@
             "root": "musique",
             "symlinks": [
                 "com.github.qier222.YesPlayMusic",
-                "io.github.qier222.YesPlayMusic"
+                "io.github.qier222.YesPlayMusic",
+                "org._3fz.mtoc"
             ]
         }
     },
@@ -22516,6 +22520,7 @@
                 "com.nvidia.geforcenow.svg",
                 "de.z_ray.OptimusUI",
                 "geforcenow",
+                "io.github.astralvixen.geforce-infinity",
                 "io.github.hmlendea.geforcenow-electron",
                 "nvidia-310-settings",
                 "nvidia-current-settings",
@@ -25555,7 +25560,10 @@
     },
     "preferences-desktop-text-to-speech": {
         "linux": {
-            "root": "preferences-desktop-text-to-speech"
+            "root": "preferences-desktop-text-to-speech",
+            "symlinks": [
+                "io.github.mohfy.word2ipa"
+            ]
         }
     },
     "preferences-desktop-user": {
@@ -30977,6 +30985,7 @@
             "root": "superproductivity",
             "symlinks": [
                 "com.super_productivity.SuperProductivity",
+                "io.github.friesi23.mhabit",
                 "superProductivity"
             ]
         }
@@ -36301,6 +36310,7 @@
             "symlinks": [
                 "de.feschber.LanMouse",
                 "dev.robiot.xclicker",
+                "io.github.heathcliff26.turbo-clicker",
                 "mouse-actions-gui",
                 "net.codelogistics.clicker"
             ]
