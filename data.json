@@ -6009,6 +6009,7 @@
             "root": "com.github.davidmhewitt.clipped",
             "symlinks": [
                 "app.getclipboard.Clipboard",
+                "bio.murat.clyp",
                 "io.github.cleomenezesjr.Serigy",
                 "io.github.sss_says_snek.Diurnals"
             ]
@@ -14365,6 +14366,11 @@
             ]
         }
     },
+    "graphite": {
+        "linux": {
+            "root": "io.github.cacheuseonly.graphite"
+        }
+    },
     "graphql-playground-electron": {
         "linux": {
             "root": "graphql-playground-electron",
@@ -14668,10 +14674,10 @@
                 "gtklick",
                 "kmetronome",
                 "metronomek",
-                "sh.tat.bpmdetect",
                 "net.bartkessels.advancedmetronome",
                 "net.sf.metronomek",
-                "net.sourceforge.kmetronome"
+                "net.sourceforge.kmetronome",
+                "sh.tat.bpmdetect"
             ]
         }
     },
