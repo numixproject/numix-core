@@ -22937,7 +22937,8 @@
                 "openofficeorg-writer",
                 "openofficeorg24-writer",
                 "openofficeorg3-writer",
-                "openofficeorg3.0-writer"
+                "openofficeorg3.0-writer",
+                "org.scratchmark.Scratchmark"
             ]
         }
     },
@@ -28600,6 +28601,11 @@
     "scram": {
         "linux": {
             "root": "scram"
+        }
+    },
+    "scramble": {
+        "linux": {
+            "root": "io.github.tobagin.scramble"
         }
     },
     "scratch": {
