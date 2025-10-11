@@ -1177,7 +1177,10 @@
     },
     "alleyoop": {
         "linux": {
-            "root": "alleyoop"
+            "root": "alleyoop",
+            "symlinks": [
+                "io.github.vmkspv.lenspect"
+            ]
         }
     },
     "allusion": {
