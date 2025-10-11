@@ -958,6 +958,7 @@
         "linux": {
             "root": "agenda",
             "symlinks": [
+                "com.bishwasaha.Koncentro",
                 "com.github.alainm23.planner",
                 "com.github.dahenson.agenda",
                 "io.github.alainm23.planify"
@@ -14513,7 +14514,10 @@
     },
     "grip": {
         "linux": {
-            "root": "grip"
+            "root": "grip",
+            "symlinks": [
+                "io.github.Ethanscharlie.albumripper"
+            ]
         }
     },
     "grisbi": {
@@ -16097,6 +16101,14 @@
             ]
         }
     },
+    "infinipaint": {
+        "linux": {
+            "root": "infinipaint",
+            "symlinks": [
+                "com.infinipaint.infinipaint"
+            ]
+        }
+    },
     "infinite": {
         "linux": {
             "root": "infinite",
@@ -16111,14 +16123,6 @@
             "symlinks": [
                 "InfiniteShooter",
                 "io.github.pastthepixels.InfiniteShooter"
-            ]
-        }
-    },
-    "infinipaint": {
-        "linux": {
-            "root": "infinipaint",
-            "symlinks": [
-                "com.infinipaint.infinipaint"
             ]
         }
     },
@@ -17167,7 +17171,10 @@
     },
     "kadu": {
         "linux": {
-            "root": "kadu"
+            "root": "kadu",
+            "symlinks": [
+                "io.github.timcharper.EmojiClu"
+            ]
         }
     },
     "kaidan": {
@@ -22401,7 +22408,8 @@
             "root": "notes-up",
             "symlinks": [
                 "com.github.phase1geo.journaler",
-                "com.github.philip-scott.notes-up"
+                "com.github.philip-scott.notes-up",
+                "io.github.mukonqi.nottodbox"
             ]
         }
     },
@@ -31188,7 +31196,11 @@
     },
     "symphonium": {
         "linux": {
-            "root": "symphonium"
+            "root": "symphonium",
+            "symlinks": [
+                "com.zaaane.pianotrainer",
+                "piano-trainer"
+            ]
         }
     },
     "synapse": {
@@ -35305,7 +35317,10 @@
     },
     "web-ticktick": {
         "linux": {
-            "root": "chrome-eempgbpnkjnacmilmobpbhbfpdjdcpgd-Default"
+            "root": "chrome-eempgbpnkjnacmilmobpbhbfpdjdcpgd-Default",
+            "symlinks": [
+                "net.bontal.Catalyst"
+            ]
         }
     },
     "web-tidal": {
