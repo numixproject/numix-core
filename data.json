@@ -9719,6 +9719,11 @@
             ]
         }
     },
+    "encoding-explorer": {
+        "linux": {
+            "root": "io.github.josephmawa.EncodingExplorer"
+        }
+    },
     "encryptr": {
         "linux": {
             "root": "encryptr",
@@ -17427,6 +17432,7 @@
             "symlinks": [
                 "com.github.qarmin.czkawka",
                 "compared",
+                "io.github.josephmawa.TextCompare",
                 "org.kde.kdiff3",
                 "xdelta3-gui"
             ]
