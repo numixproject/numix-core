@@ -5599,6 +5599,7 @@
                 "eboard",
                 "gambitchess",
                 "net.sourceforge.Chessx",
+                "org.chessmd.chessmd",
                 "qtchess",
                 "xchess"
             ]
@@ -20263,6 +20264,14 @@
             ]
         }
     },
+    "mendingwall": {
+        "linux": {
+            "root": "mendingwall",
+            "symlinks": [
+                "org.indii.mendingwall"
+            ]
+        }
+    },
     "menu-editor": {
         "linux": {
             "root": "menu-editor",
@@ -26661,6 +26670,7 @@
                 "qrca",
                 "qtqr",
                 "quearcode",
+                "tech.emendir.QR-ScanGen",
                 "vn.hoabinh.quan.CoBang",
                 "vn.hoabinh.quan.cobang"
             ]
