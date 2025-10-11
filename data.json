@@ -7441,6 +7441,14 @@
             ]
         }
     },
+    "desktop-environment-xfce": {
+        "linux": {
+            "root": "io.github.pol_rivero.github-desktop-plus",
+            "symlinks": [
+                "github-desktop-plus"
+            ]
+        }
+    },
     "desura": {
         "linux": {
             "root": "desura"
@@ -18392,6 +18400,7 @@
         "linux": {
             "root": "kwordquiz",
             "symlinks": [
+                "io.github.essentialist_app.essentialist",
                 "io.github.swordpuffin.hunt",
                 "net.krafting.SemantiK",
                 "org.kde.kwordquiz",
@@ -25217,6 +25226,7 @@
         "linux": {
             "root": "portecle",
             "symlinks": [
+                "io.github.tobagin.keymaker",
                 "net.sf.portecle"
             ]
         }
