@@ -7275,6 +7275,7 @@
         "linux": {
             "root": "deltachat",
             "symlinks": [
+                "chat.delta.DeltaChatTauri",
                 "chat.delta.desktop",
                 "deltachat-desktop"
             ]
@@ -11380,6 +11381,7 @@
             "symlinks": [
                 "Foto",
                 "fotoxx",
+                "io.github.saeugetier.photobooth",
                 "net.figuiere.Niepce",
                 "niepce"
             ]
@@ -13032,6 +13034,7 @@
         "linux": {
             "root": "gnome-design-iconlibrary",
             "symlinks": [
+                "io.github.rsvzz.iconvwadw",
                 "org.gnome.design.IconLibrary"
             ]
         }
@@ -19704,7 +19707,10 @@
     },
     "lxmusic": {
         "linux": {
-            "root": "lxmusic"
+            "root": "lxmusic",
+            "symlinks": [
+                "cn.toside.lxmusic.lx-music-desktop"
+            ]
         }
     },
     "lyne": {
@@ -19859,6 +19865,7 @@
             "root": "mancy",
             "symlinks": [
                 "br.app.pw3270",
+                "com.rioterm.Rio",
                 "io.raphamorim.Rio",
                 "pw3270",
                 "rio"
@@ -21684,6 +21691,7 @@
             "root": "mynotes",
             "symlinks": [
                 "gjots2",
+                "io.github.ellie_commons.jorts",
                 "io.github.nuttyartist.notes",
                 "noblenote",
                 "org.xfce.notes",
@@ -22538,7 +22546,10 @@
     },
     "nutty": {
         "linux": {
-            "root": "nutty"
+            "root": "nutty",
+            "symlinks": [
+                "dev.aa55.yetty"
+            ]
         }
     },
     "nuvolaplayer": {
@@ -24097,7 +24108,8 @@
         "linux": {
             "root": "passvault",
             "symlinks": [
-                "de.finnik.PassVault"
+                "de.finnik.PassVault",
+                "dev.mariinkys.Clockode"
             ]
         }
     },
@@ -32253,6 +32265,7 @@
             "root": "theia",
             "symlinks": [
                 "eclipse-theia",
+                "org.theia_ide.theia_ide",
                 "theia-electron",
                 "theia-ide"
             ]
@@ -32875,7 +32888,7 @@
                 "cs-input-method",
                 "deepin-translator",
                 "im-chooser",
-                "io.github.denysmb.klaro",s
+                "io.github.denysmb.klaro",
                 "mula-desktop",
                 "qtrans",
                 "redict"
