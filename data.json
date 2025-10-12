@@ -2139,7 +2139,8 @@
         "linux": {
             "root": "art",
             "symlinks": [
-                "ART"
+                "ART",
+                "us.pixls.art.ART"
             ]
         }
     },
@@ -13825,6 +13826,7 @@
         "linux": {
             "root": "goldendict",
             "symlinks": [
+                "io.github.dzheremi2.lexi",
                 "io.github.xiayifang.goldendict_ng",
                 "org.goldendict.desktop",
                 "org.goldendict.GoldenDict"
@@ -23117,8 +23119,8 @@
         "linux": {
             "root": "open-numismat",
             "symlinks": [
-                "io.github.opennumismat.OpenNumismat",
                 "io.github.opennumismat.open-numismat",
+                "io.github.opennumismat.OpenNumismat",
                 "org.opennumismat.OpenNumismat"
             ]
         }
@@ -26711,7 +26713,8 @@
         "linux": {
             "root": "QMPlay2",
             "symlinks": [
-                "io.github.zaps166.QMPlay2"
+                "io.github.zaps166.QMPlay2",
+                "org.free_astro.ser_player"
             ]
         }
     },
@@ -28443,6 +28446,11 @@
             "symlinks": [
                 "com.jagex.RuneScape"
             ]
+        }
+    },
+    "runemaster": {
+        "linux": {
+            "root": "io.github.johnfactotum.Runemaster"
         }
     },
     "runner": {
@@ -32676,6 +32684,7 @@
         "linux": {
             "root": "ToCA3",
             "symlinks": [
+                "io.github.TeamWheelWizard.WheelWizard",
                 "steam_icon_11500"
             ]
         }
