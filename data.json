@@ -14620,6 +14620,7 @@
             "root": "gscan2pdf",
             "symlinks": [
                 "com.github.unrud.djpdf",
+                "io.github.pleromix.IceBox",
                 "scans2pdf"
             ]
         }
@@ -18640,6 +18641,7 @@
             "root": "latexila",
             "symlinks": [
                 "gnome-latex",
+                "io.github.radiolamp.mangojuice",
                 "ml.mdwalters.Lemonade",
                 "org.gnome.enter_tex",
                 "org.gnome.gnome-latex"
@@ -23116,6 +23118,7 @@
             "root": "open-numismat",
             "symlinks": [
                 "io.github.opennumismat.OpenNumismat",
+                "io.github.opennumismat.open-numismat",
                 "org.opennumismat.OpenNumismat"
             ]
         }
@@ -26572,7 +26575,11 @@
     },
     "qgit": {
         "linux": {
-            "root": "qgit"
+            "root": "qgit",
+            "symlinks": [
+                "io.github.tibirna.qgit",
+                "org.tibirna.qgit"
+            ]
         }
     },
     "qgo": {
@@ -29666,6 +29673,7 @@
         "linux": {
             "root": "skylendar",
             "symlinks": [
+                "io.github.alamahant.Asteria",
                 "io.github.alexkdeveloper.zodiac"
             ]
         }
@@ -33554,6 +33562,7 @@
         "linux": {
             "root": "unison-gtk",
             "symlinks": [
+                "io.github.bcpierce00.unison",
                 "unison"
             ]
         }
@@ -37025,7 +37034,8 @@
         "linux": {
             "root": "ytop",
             "symlinks": [
-                "com.github.cjbassi.ytop"
+                "com.github.cjbassi.ytop",
+                "page.codeberg.JakobDev.jdSystemMonitor"
             ]
         }
     },
@@ -37196,6 +37206,11 @@
     "zerotier-gui": {
         "linux": {
             "root": "zerotier-gui"
+        }
+    },
+    "zetaoffice": {
+        "linux": {
+            "root": "de.allotropia.ZetaOffice"
         }
     },
     "zettlr": {
