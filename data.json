@@ -13078,6 +13078,7 @@
         "linux": {
             "root": "gnome-design-vectorslicer",
             "symlinks": [
+                "in.co.nandakumar.amsam",
                 "org.gnome.design.VectorSlicer"
             ]
         }
@@ -14124,7 +14125,10 @@
     },
     "goverlay": {
         "linux": {
-            "root": "goverlay"
+            "root": "goverlay",
+            "symlinks": [
+                "com.hperrin.StreamOverlay"
+            ]
         }
     },
     "goxel": {
@@ -20593,8 +20597,10 @@
         "linux": {
             "root": "minetest",
             "symlinks": [
+                "luanti",
                 "minetest-icon",
-                "net.minetest.Minetest"
+                "net.minetest.Minetest",
+                "org.luanti.luanti"
             ]
         }
     },
@@ -25479,6 +25485,7 @@
         "linux": {
             "root": "preferences-desktop-default-applications",
             "symlinks": [
+                "best.ellie.StartupConfiguration",
                 "org.xfce.settings.default-applications"
             ]
         }
@@ -29082,7 +29089,7 @@
         "linux": {
             "root": "setzer",
             "symlinks": [
-                "app.katvan.Katvan"
+                "app.katvan.Katvan",
                 "org.cvfosammmm.Setzer"
             ]
         }
@@ -32868,6 +32875,7 @@
                 "cs-input-method",
                 "deepin-translator",
                 "im-chooser",
+                "io.github.denysmb.klaro",s
                 "mula-desktop",
                 "qtrans",
                 "redict"
@@ -34509,6 +34517,7 @@
         "linux": {
             "root": "voxelands",
             "symlinks": [
+                "app.xmcl.voxelum",
                 "com.voxdsp.VoxelPaint",
                 "com.voxdsp.VoxelPaintPro",
                 "voxelpaint",
