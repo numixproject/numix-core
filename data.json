@@ -3467,6 +3467,7 @@
             "root": "bluebubbles",
             "symlinks": [
                 "app.bluebubbles.BlueBubbles",
+                "app.openbubbles.OpenBubbles",
                 "bluebubbles-app",
                 "com.github.alonsoenrique.quotes",
                 "com.github.ma1onso.quotes",
@@ -4103,7 +4104,10 @@
     },
     "buzz": {
         "linux": {
-            "root": "buzz"
+            "root": "buzz",
+            "symlinks": [
+                "io.github.chidiwilliams.Buzz"
+            ]
         }
     },
     "buzztrax": {
@@ -7520,7 +7524,8 @@
         "linux": {
             "root": "devpod",
             "symlinks": [
-                "dev-pod"
+                "dev-pod",
+                "sh.loft.devpod"
             ]
         }
     },
@@ -11314,7 +11319,8 @@
         "linux": {
             "root": "foot",
             "symlinks": [
-                "org.codeberg.dnkl.foot"
+                "org.codeberg.dnkl.foot",
+                "page.codeberg.dnkl.foot"
             ]
         }
     },
@@ -25302,6 +25308,7 @@
             "root": "pomidor",
             "symlinks": [
                 "gnome-pomodoro",
+                "io.github.mlm_games.pomodorot",
                 "org.gnome.Pomodoro"
             ]
         }
@@ -28466,17 +28473,17 @@
             ]
         }
     },
+    "runemaster": {
+        "linux": {
+            "root": "io.github.johnfactotum.Runemaster"
+        }
+    },
     "runescape": {
         "linux": {
             "root": "runescape",
             "symlinks": [
                 "com.jagex.RuneScape"
             ]
-        }
-    },
-    "runemaster": {
-        "linux": {
-            "root": "io.github.johnfactotum.Runemaster"
         }
     },
     "runner": {
@@ -31805,6 +31812,7 @@
             "symlinks": [
                 "codeslayer",
                 "featherpad",
+                "io.github.mfat.jottr",
                 "jupyter-notebook",
                 "net.codelogistics.letters",
                 "notebook",
