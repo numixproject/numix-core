@@ -28486,6 +28486,7 @@
         "linux": {
             "root": "ryujinx",
             "symlinks": [
+                "app.ryujinx.Ryujinx",
                 "io.github.ryubing.Ryujinx",
                 "org.ryujinx.Ryujinx"
             ]
@@ -37125,6 +37126,14 @@
             "root": "zed",
             "symlinks": [
                 "dev.zed.Zed"
+            ]
+        }
+    },
+    "zed-preview": {
+        "linux": {
+            "root": "zed-preview",
+            "symlinks": [
+                "dev.zed.Zed-Preview"
             ]
         }
     },
