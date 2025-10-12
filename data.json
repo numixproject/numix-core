@@ -18134,6 +18134,14 @@
             "root": "konstruktor"
         }
     },
+    "kontainer": {
+        "linux": {
+            "root": "kontainer",
+            "symlinks": [
+                "io.github.DenysMb.Kontainer"
+            ]
+        }
+    },
     "kontena-lens": {
         "linux": {
             "root": "kontena-lens",
@@ -30825,9 +30833,9 @@
         "linux": {
             "root": "stremio",
             "symlinks": [
-                "com.stremio.Service",
                 "com.stremio.App",
                 "com.stremio.Client",
+                "com.stremio.Service",
                 "com.stremio.Stremio",
                 "smartcode-stremio"
             ]
@@ -31362,6 +31370,7 @@
                 "com.gitlab.kendellfab.restscope",
                 "com.serial_studio.Serial-Studio",
                 "com.vicr123.theheartbeat",
+                "io.github.serial_studio.Serial_Studio",
                 "restscope",
                 "SysMonTask",
                 "theheartbeat"
