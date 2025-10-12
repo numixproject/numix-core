@@ -679,6 +679,14 @@
             ]
         }
     },
+    "addiction-tracker": {
+        "linux": {
+            "root": "addiction-tracker",
+            "symlinks": [
+                "net.charlesschaefer.addictiontracker"
+            ]
+        }
+    },
     "addressbook": {
         "android": [
             "com.android.contacts/com.android.contacts.activities.PeopleActivity",
