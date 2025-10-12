@@ -4168,7 +4168,6 @@
             "root": "caffeine",
             "symlinks": [
                 "com.konstantintutsch.Caffeine",
-                "de.swsnr.keepmeawake",
                 "kaffeine",
                 "org.kde.kaffeine"
             ]
@@ -6156,7 +6155,8 @@
             "root": "coffee",
             "symlinks": [
                 "coffee-news",
-                "com.github.nick92.coffee"
+                "com.github.nick92.coffee",
+                "de.swsnr.keepmeawake"
             ]
         }
     },
@@ -24656,6 +24656,11 @@
             ]
         }
     },
+    "picguard-pro": {
+        "linux": {
+            "root": "com.kjxbyz.PicGuardPro"
+        }
+    },
     "pick-colour-picker": {
         "linux": {
             "root": "pick-colour-picker",
@@ -30579,7 +30584,8 @@
         "linux": {
             "root": "srtnr",
             "symlinks": [
-                "com.github.arshubham.srtnr"
+                "com.github.arshubham.srtnr",
+                "com.vkhitrin.cosmicding"
             ]
         }
     },
@@ -33118,6 +33124,7 @@
                 "org.tryton.Tryton-70",
                 "org.tryton.Tryton-72",
                 "org.tryton.Tryton-74",
+                "org.tryton.Tryton-76",
                 "tryton-icon"
             ]
         }
