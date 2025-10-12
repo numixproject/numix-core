@@ -5562,7 +5562,10 @@
     },
     "chemcanvas": {
         "linux": {
-            "root": "chemcanvas"
+            "root": "chemcanvas",
+            "symlinks": [
+                "io.github.ksharindam.chemcanvas"
+            ]
         }
     },
     "cherrytree": {
@@ -5748,6 +5751,7 @@
                 "io.github.ungoogled_software.ungoogled_chromium",
                 "org.chromium.Chromium",
                 "org.chromium.Chromium.BaseApp",
+                "rocks.thorium.Thorium",
                 "ungoogled-chromium"
             ]
         }
@@ -8765,6 +8769,7 @@
             "root": "doomrunner",
             "symlinks": [
                 "DoomRunner",
+                "io.github.RobertBeckebans.RBDOOM-3-BFG",
                 "io.github.Youda008.DoomRunner"
             ]
         }
@@ -13126,6 +13131,7 @@
                 "abakus",
                 "com.github.SubhadeepJasu.pebbles",
                 "com.github.subhadeepjasu.pebbles",
+                "io.github.heidefinnischen.cuneo",
                 "numara",
                 "org.gnome.Genius",
                 "org.kde.abakus",
@@ -17548,6 +17554,7 @@
             "symlinks": [
                 "badge-small",
                 "com.konstantintutsch.Lock",
+                "com.opensslencrypt.OpenSSLEncrypt",
                 "cryptkeeper",
                 "gpa",
                 "info.olasagasti.revelation",
@@ -17930,6 +17937,7 @@
                 "LabPlot2",
                 "labplot2",
                 "org.kde.kmplot",
+                "org.kde.labplot",
                 "org.kde.labplot2"
             ]
         }
@@ -18459,6 +18467,7 @@
                 "io.github.swordpuffin.hunt",
                 "net.krafting.SemantiK",
                 "org.kde.kwordquiz",
+                "org.muttum.muttum",
                 "wordflow"
             ]
         }
@@ -19515,6 +19524,8 @@
             "root": "love-wallpaper",
             "symlinks": [
                 "app.drey.Damask",
+                "io.github.Cookiiieee.WSelector",
+                "io.github.debasish_patra_1987.linuxthemestore",
                 "wallch"
             ]
         }
@@ -19620,7 +19631,10 @@
     },
     "ludo": {
         "linux": {
-            "root": "ludo"
+            "root": "ludo",
+            "symlinks": [
+                "io.github.Faugus.faugus-launcher"
+            ]
         }
     },
     "ludusavi": {
@@ -19900,7 +19914,8 @@
         "linux": {
             "root": "manuskript",
             "symlinks": [
-                "ch.theologeek.Manuskript"
+                "ch.theologeek.Manuskript",
+                "io.github.cgueret.Scriptorium"
             ]
         }
     },
@@ -22977,6 +22992,7 @@
         "linux": {
             "root": "ooo-math",
             "symlinks": [
+                "com.yutovo.yutovo",
                 "kformula",
                 "ooo-math2",
                 "ooo-math24",
@@ -23778,6 +23794,7 @@
         "linux": {
             "root": "package-transporter",
             "symlinks": [
+                "com.sciactive.QuickDAV",
                 "io.gitlab.gwendalj.package-transporter"
             ]
         }
@@ -24221,6 +24238,7 @@
             "root": "pdfmixtool",
             "symlinks": [
                 "eu.scarpetta.PDFMixTool",
+                "io.gitlab.gjwu.pdf-tinkerer",
                 "jpdftweak",
                 "net.sourceforge.jpdftweak.jPdfTweak",
                 "net.sourceforge.Pdfedit",
@@ -26075,6 +26093,7 @@
             "root": "pulseeffects",
             "symlinks": [
                 "com.github.wwmm.pulseeffects",
+                "io.github.tapscodes.MuseAmp",
                 "org.altlinux.Tuner"
             ]
         }
@@ -28197,6 +28216,7 @@
             "root": "rsibreak",
             "symlinks": [
                 "com.github.theironrobin.siglo",
+                "io.github.pieterdd.StretchBreak",
                 "io.github.slgobinath.SafeEyes",
                 "org.kde.rsibreak",
                 "safeeyes"
@@ -29062,6 +29082,7 @@
         "linux": {
             "root": "setzer",
             "symlinks": [
+                "app.katvan.Katvan"
                 "org.cvfosammmm.Setzer"
             ]
         }
@@ -29217,7 +29238,10 @@
     },
     "shortcut": {
         "linux": {
-            "root": "io.github.andreibachim.shortcut"
+            "root": "io.github.andreibachim.shortcut",
+            "symlinks": [
+                "io.github.alamahant.Jasmine"
+            ]
         }
     },
     "shortwave": {
@@ -30783,6 +30807,8 @@
             "root": "stremio",
             "symlinks": [
                 "com.stremio.Service",
+                "com.stremio.App",
+                "com.stremio.Client",
                 "com.stremio.Stremio",
                 "smartcode-stremio"
             ]
@@ -31315,6 +31341,7 @@
             "root": "sysmontask",
             "symlinks": [
                 "com.gitlab.kendellfab.restscope",
+                "com.serial_studio.Serial-Studio",
                 "com.vicr123.theheartbeat",
                 "restscope",
                 "SysMonTask",
@@ -34971,7 +34998,8 @@
             "root": "web-google-movies",
             "symlinks": [
                 "chrome-fppdphmgcddhjeddoeghpjefkdlccljb-Default",
-                "chrome-gdijeikdkaembjbdobgfkoidjkpbmlkd-Default"
+                "chrome-gdijeikdkaembjbdobgfkoidjkpbmlkd-Default",
+                "page.codeberg.bjawebos.Filmbook"
             ]
         }
     },
@@ -36969,6 +36997,7 @@
         "linux": {
             "root": "zanshin",
             "symlinks": [
+                "com.jeffser.Pigment",
                 "org.kde.renku",
                 "org.kde.zanshin",
                 "renku"
