@@ -21172,6 +21172,14 @@
             ]
         }
     },
+    "mqtty": {
+        "linux": {
+            "root": "mqtty",
+            "symlinks": [
+                "io.github.otaxhu.MQTTy"
+            ]
+        }
+    },
     "ms-access": {
         "linux": {
             "root": "ms-access"
