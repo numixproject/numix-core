@@ -5737,7 +5737,8 @@
             "root": "chrome-remote-desktop",
             "symlinks": [
                 "chrome-efmjfjelnicpmdcmfikempdhlmainjcb-Default",
-                "chrome-gbchcmhmhahfdphkhkmpfmihenigjmpp-Default"
+                "chrome-gbchcmhmhahfdphkhkmpfmihenigjmpp-Default",
+                "de.capypara.FieldMonitor"
             ]
         }
     },
@@ -14282,6 +14283,7 @@
             "root": "gpuviewer",
             "symlinks": [
                 "io.github.arunsivaramanneo.GPUViewer",
+                "io.github.ilya_zlobintsev.LACT",
                 "io.github.lact-linux"
             ]
         }
@@ -15928,6 +15930,7 @@
         "linux": {
             "root": "identity",
             "symlinks": [
+                "io.github.Loganavter.Improve-ImgSLI",
                 "org.gnome.gitlab.YaLTeR.Identity"
             ]
         }
@@ -17615,7 +17618,10 @@
     },
     "kfoldersync": {
         "linux": {
-            "root": "kfoldersync"
+            "root": "kfoldersync",
+            "symlinks": [
+                "eu.codepoems.xl-converter"
+            ]
         }
     },
     "kgeography": {
@@ -19558,6 +19564,7 @@
                 "app.drey.Damask",
                 "io.github.Cookiiieee.WSelector",
                 "io.github.debasish_patra_1987.linuxthemestore",
+                "io.github.swordpuffin.wardrobe",
                 "wallch"
             ]
         }
@@ -19569,7 +19576,10 @@
     },
     "lpi-bug": {
         "linux": {
-            "root": "lpi-bug"
+            "root": "lpi-bug",
+            "symlinks": [
+                "page.codeberg.JakobDev.jdPermissionStoreEdit"
+            ]
         }
     },
     "lpi-translate": {
@@ -19734,7 +19744,8 @@
         "linux": {
             "root": "lxmusic",
             "symlinks": [
-                "cn.toside.lxmusic.lx-music-desktop"
+                "cn.toside.lxmusic.lx-music-desktop",
+                "net.rosebirch.nextgroove"
             ]
         }
     },
@@ -21108,7 +21119,8 @@
         "linux": {
             "root": "mpc-qt",
             "symlinks": [
-                "io.github.mpc_qt.Mpc-Qt"
+                "io.github.mpc_qt.Mpc-Qt".
+                "io.github.mpc_qt.mpc-qt"
             ]
         }
     },
@@ -22125,7 +22137,8 @@
             "root": "netxms",
             "symlinks": [
                 "com.netxms.NetXMSClient",
-                "com.netxms.NetXMSClient51"
+                "com.netxms.NetXMSClient51",
+                "com.netxms.NetXMSClient52"
             ]
         }
     },
@@ -22994,6 +23007,7 @@
         "linux": {
             "root": "ooo-calc",
             "symlinks": [
+                "com.mastropaolo.www.tabela",
                 "ooo-calc2",
                 "ooo-calc24",
                 "ooo-calc3.0",
@@ -24679,7 +24693,8 @@
         "linux": {
             "root": "picmi",
             "symlinks": [
-                "org.kde.picmi"
+                "org.kde.picmi",
+                "rocks.shy.VacuumTube"
             ]
         }
     },
@@ -27998,7 +28013,8 @@
                 "fr.free.brouits.qspeakers",
                 "org.gnome.Rhythmbox",
                 "org.gnome.Rhythmbox3",
-                "qspeakers"
+                "qspeakers",
+                "rocks.noise.qspeakers"
             ]
         }
     },
@@ -29068,7 +29084,8 @@
             "root": "sequeler",
             "symlinks": [
                 "com.github.alecaddd.sequeler",
-                "me.ppvan.psequel"
+                "me.ppvan.psequel",
+                "org.archivekeep.ArchiveKeep"
             ]
         }
     },
@@ -33099,7 +33116,8 @@
         "linux": {
             "root": "tripeaks-gdx",
             "symlinks": [
-                "io.github.mimoguz.TriPeaks-GDX"
+                "io.github.mimoguz.TriPeaks-GDX",
+                "io.github.mimoguz.tripeaks_neue"
             ]
         }
     },
@@ -33606,7 +33624,8 @@
         "linux": {
             "root": "unity-mail",
             "symlinks": [
-                "app.drey.Envelope"
+                "app.drey.Envelope",
+                "page.codeberg.dudenix.escritoire"
             ]
         }
     },
