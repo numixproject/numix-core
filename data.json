@@ -9404,6 +9404,7 @@
         "linux": {
             "root": "eeman",
             "symlinks": [
+                "pro.saladin.Eeman",
                 "sh.shuriken.Eeman"
             ]
         }
@@ -9844,7 +9845,8 @@
             "root": "eolie",
             "symlinks": [
                 "app.drey.Navigator",
-                "org.gnome.Eolie"
+                "org.gnome.Eolie",
+                "org.hdfgroup.HDFCompass"
             ]
         }
     },
@@ -21549,7 +21551,10 @@
     },
     "museeks": {
         "linux": {
-            "root": "museeks"
+            "root": "museeks",
+            "symlinks": [
+                "io.museeks.app"
+            ]
         }
     },
     "museeq": {
@@ -28069,6 +28074,7 @@
         "linux": {
             "root": "rocket-editor",
             "symlinks": [
+                "io.github.denzilferreira.asteroid_shooter",
                 "io.github.rocket.editor"
             ]
         }
@@ -32888,7 +32894,8 @@
         "linux": {
             "root": "treeline",
             "symlinks": [
-                "com.itextpdf.RUPS"
+                "com.itextpdf.RUPS",
+                "org.hdfgroup.HDFView"
             ]
         }
     },
@@ -36285,6 +36292,7 @@
         "linux": {
             "root": "x11-calc",
             "symlinks": [
+                "io.github.CardiJey.schulrechner",
                 "io.github.mike632t.x11_calc",
                 "uno.platform.uno-calculator"
             ]
