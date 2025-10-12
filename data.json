@@ -17821,6 +17821,7 @@
             "root": "KKEdit",
             "symlinks": [
                 "blogilo",
+                "io.github.fastrizwaan.WebkitWord",
                 "org.kde.blogilo"
             ]
         }
@@ -35875,6 +35876,14 @@
                 "com.github.Matoking.protontricks",
                 "protontricks",
                 "winetricks"
+            ]
+        }
+    },
+    "winecharm": {
+        "linux": {
+            "root": "winecharm",
+            "symlinks": [
+                "io.github.fastrizwaan.WineCharm"
             ]
         }
     },
