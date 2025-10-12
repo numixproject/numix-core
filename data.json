@@ -6141,7 +6141,10 @@
     },
     "codelite": {
         "linux": {
-            "root": "codelite"
+            "root": "codelite",
+            "symlinks": [
+                "org.codelite.codelite"
+            ]
         }
     },
     "coedit": {
@@ -7172,7 +7175,8 @@
         "linux": {
             "root": "ddrescueview",
             "symlinks": [
-                "kddrescueview"
+                "kddrescueview",
+                "net.sourceforge.ddrescueview"
             ]
         }
     },
@@ -12718,6 +12722,7 @@
             "root": "glossaico",
             "symlinks": [
                 "com.pot_app.pot",
+                "dev.ters.LocalTranslate",
                 "one.jiri.easydict-gtk",
                 "org.codeberg.dimkard.glossaico",
                 "pot"
@@ -14423,7 +14428,10 @@
     },
     "graphite": {
         "linux": {
-            "root": "io.github.cacheuseonly.graphite"
+            "root": "io.github.cacheuseonly.graphite",
+            "symlinks": [
+                "io.github.jchempaint.JChemPaint"
+            ]
         }
     },
     "graphql-playground-electron": {
@@ -21119,7 +21127,7 @@
         "linux": {
             "root": "mpc-qt",
             "symlinks": [
-                "io.github.mpc_qt.Mpc-Qt".
+                "io.github.mpc_qt.Mpc-Qt",
                 "io.github.mpc_qt.mpc-qt"
             ]
         }
@@ -23157,6 +23165,7 @@
             "root": "open-tv",
             "symlinks": [
                 "dev.fredol.open-tv",
+                "io.github.mfat.tvhplayer",
                 "open_tv"
             ]
         }
@@ -25881,7 +25890,8 @@
         "linux": {
             "root": "preferences-web-browser-identification",
             "symlinks": [
-                "agent"
+                "agent",
+                "in.varb.Ausweiskopie"
             ]
         }
     },
@@ -28915,7 +28925,8 @@
         "linux": {
             "root": "scummvm",
             "symlinks": [
-                "org.scummvm.ScummVM"
+                "org.scummvm.ScummVM",
+                "org.scummvm.scummvm"
             ]
         }
     },
@@ -35751,6 +35762,7 @@
                 "com.w1hkj.flrig",
                 "edu.princeton.physics.WSJTX",
                 "io.github.louis77.tuner",
+                "io.welle.welle-gui",
                 "welle.io",
                 "xfb_icon"
             ]
