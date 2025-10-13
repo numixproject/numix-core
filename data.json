@@ -17272,14 +17272,6 @@
             ]
         }
     },
-    "kanji-dojo": {
-        "linux": {
-            "root": "kanji-dojo",
-            "symlinks": [
-                "io.github.syt0r.kanji-dojo"
-                ]
-        }
-    },
     "kakoune": {
         "linux": {
             "root": "kakoune"
@@ -17347,6 +17339,14 @@
                 "com.felipekinoshita.Kana",
                 "me.sergiotarxz.JapaChar"
             ]
+        }
+    },
+    "kanji-dojo": {
+        "linux": {
+            "root": "kanji-dojo",
+            "symlinks": [
+                "io.github.syt0r.kanji-dojo"
+                ]
         }
     },
     "kanri": {
