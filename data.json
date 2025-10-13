@@ -14179,6 +14179,7 @@
         "linux": {
             "root": "gperiodic",
             "symlinks": [
+                "io.github.r_sergii.multiElement",
                 "ptbl"
             ]
         }
@@ -20687,6 +20688,7 @@
         "linux": {
             "root": "minimal-podcasts-player",
             "symlinks": [
+                "io.github.sigmasd.VirtAudio",
                 "io.sonlink.mpp"
             ]
         }
@@ -22295,6 +22297,8 @@
             "root": "nip2",
             "symlinks": [
                 "io.sourceforge.Pixelitor",
+                "nip4",
+                "org.libvips.nip4",
                 "pixelitor"
             ]
         }
@@ -29195,7 +29199,8 @@
             "root": "setzer",
             "symlinks": [
                 "app.katvan.Katvan",
-                "org.cvfosammmm.Setzer"
+                "org.cvfosammmm.Setzer",
+                "re.sonny.Eloquent"
             ]
         }
     },
@@ -29895,6 +29900,7 @@
         "linux": {
             "root": "smplayer",
             "symlinks": [
+                "com.xiaoyaocz.simple_live",
                 "info.smplayer.SMPlayer"
             ]
         }
@@ -34413,6 +34419,7 @@
         "linux": {
             "root": "virtualplanet",
             "symlinks": [
+                "io.github.smcameron.space-nerds-in-space",
                 "org.cubocore.CoreUniverse"
             ]
         }
