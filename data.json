@@ -3551,7 +3551,8 @@
         "linux": {
             "root": "bluetooth-active",
             "symlinks": [
-                "blueman-active"
+                "blueman-active",
+                "io.github.ebonjaeger.bluejay"
             ]
         }
     },
@@ -12061,6 +12062,7 @@
         "linux": {
             "root": "gazpacho",
             "symlinks": [
+                "com.connorcode.mslicer",
                 "gazpacho-icon"
             ]
         }
@@ -18564,6 +18566,7 @@
             "symlinks": [
                 "com.github.labyrinth_team.labyrinth",
                 "com.github.phase1geo.minder",
+                "io.github.wanglin2.mind-map",
                 "dementia",
                 "minder",
                 "semantik",
@@ -20618,6 +20621,11 @@
         "android": [
             "com.moquji.miminote/com.moquji.miminote.activity.MainActivity"
         ]
+    },
+    "mimiri-notes": {
+        "linux": {
+            "root": "io.mimiri.notes"
+        }
     },
     "mimo": {
         "android": [
@@ -35708,6 +35716,7 @@
         "linux": {
             "root": "net.codelogistics.webapps",
             "symlinks": [
+                "dev.heppen.webapps",
                 "io.github.elevenhsoft.WebApps",
                 "io.github.junalmeida.webapps_manager"
             ]
