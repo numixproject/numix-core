@@ -14934,6 +14934,7 @@
             "symlinks": [
                 "guiscrcpy_logo",
                 "in.srev.guiscrcpy",
+                "io.github.pizi_0.flutter-scrcpygui",
                 "io.srevinsaju.guiscrcpy"
             ]
         }
@@ -15360,7 +15361,10 @@
     },
     "helium-browser": {
         "linux": {
-            "root": "helium-browser"
+            "root": "helium-browser",
+            "symlinks": [
+                "net.imput.Helium"
+            ]
         }
     },
     "helix": {
@@ -17902,7 +17906,10 @@
     },
     "klatexformula": {
         "linux": {
-            "root": "klatexformula"
+            "root": "klatexformula",
+            "symlinks": [
+                "io.sourceforge.klatexformula.klatexformula"
+            ]
         }
     },
     "klavaro": {
@@ -27583,7 +27590,9 @@
             "root": "rclone-browser",
             "symlinks": [
                 "com.rcloneui.RcloneUI",
-                "io.github.darkhz.rclonetui"
+                "io.github.darkhz.rclonetui",
+                "io.github.rclone_manager.rclone-manager",
+                "rclone-manager"
             ]
         }
     },
@@ -34438,6 +34447,7 @@
         "linux": {
             "root": "virtualbox",
             "symlinks": [
+                "com.oracle.VirtualBox",
                 "multisystem-test-iso",
                 "multisystem-vbox",
                 "VBox",
