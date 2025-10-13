@@ -35103,7 +35103,10 @@
     },
     "web-google-flights": {
         "linux": {
-            "root": "chrome-epionbmgciknkbdibokmpmcfllkdfeeo-Default"
+            "root": "chrome-epionbmgciknkbdibokmpmcfllkdfeeo-Default",
+            "symlinks": [
+                "com.saunasim.saunasim"
+            ]
         }
     },
     "web-google-forms": {
