@@ -5217,6 +5217,14 @@
             ]
         }
     },
+    "camunda-modeler": {
+        "linux": {
+            "root": "camunda-modeler",
+            "symlinks": [
+                "io.github.suntorytimed.camunda-modeler"
+            ]
+        }
+    },
     "candywrapper": {
         "linux": {
             "root": "candywrapper",
