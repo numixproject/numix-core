@@ -7858,6 +7858,11 @@
             "root": "distributor-logo-android"
         }
     },
+    "distributor-logo-anduinos": {
+        "linux": {
+            "root": "distributor-logo-anduinos"
+        }
+    },
     "distributor-logo-antergos": {
         "linux": {
             "root": "distributor-logo-antergos"
@@ -8008,6 +8013,11 @@
     "distributor-logo-dragonflybsd": {
         "linux": {
             "root": "distributor-logo-dragonflybsd"
+        }
+    },
+    "distributor-logo-edubuntu": {
+        "linux": {
+            "root": "distributor-logo-edubuntu"
         }
     },
     "distributor-logo-elementaryos": {
@@ -8519,6 +8529,15 @@
     "distributor-logo-trisquel": {
         "linux": {
             "root": "distributor-logo-trisquel"
+        }
+    },
+    "distributor-logo-tuxedo-os": {
+        "linux": {
+            "root": "distributor-logo-tuxedo-os",
+            "symlinks": [
+                "tuxedo-control-center",
+                "tuxedo-control-center_256"
+            ]
         }
     },
     "distributor-logo-ubuntu": {
