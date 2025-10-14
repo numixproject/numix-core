@@ -25180,6 +25180,14 @@
             ]
         }
     },
+    "plover": {
+        "linux": {
+            "root": "plover",
+            "symlinks": [
+                "org.openstenoproject.Plover"
+            ]
+        }
+    },
     "plugdata": {
         "linux": {
             "root": "plugdata"
