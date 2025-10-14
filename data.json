@@ -9688,6 +9688,11 @@
             ]
         }
     },
+    "eloquent": {
+        "linux": {
+            "root": "re.sonny.Eloquent"
+        }
+    },
     "emacs": {
         "linux": {
             "root": "emacs",
@@ -15955,6 +15960,11 @@
             ]
         }
     },
+    "identities": {
+        "linux": {
+            "root": "one.k8ie.Identities"
+        }
+    },
     "identity": {
         "linux": {
             "root": "identity",
@@ -15962,11 +15972,6 @@
                 "io.github.Loganavter.Improve-ImgSLI",
                 "org.gnome.gitlab.YaLTeR.Identity"
             ]
-        }
-    },
-    "identities": {
-        "linux": {
-            "root": "one.k8ie.Identities"
         }
     },
     "iease-music": {
@@ -29242,8 +29247,7 @@
             "root": "setzer",
             "symlinks": [
                 "app.katvan.Katvan",
-                "org.cvfosammmm.Setzer",
-                "re.sonny.Eloquent"
+                "org.cvfosammmm.Setzer"
             ]
         }
     },
