@@ -6930,7 +6930,8 @@
         "linux": {
             "root": "cutecom",
             "symlinks": [
-                "com.gitlab.cutecom.cutecom"
+                "com.gitlab.cutecom.cutecom",
+                "io.github.satisflux.chirp"
             ]
         }
     },
@@ -10500,7 +10501,10 @@
     },
     "feishin": {
         "linux": {
-            "root": "feishin"
+            "root": "feishin",
+            "symlinks": [
+                "org.jeffvli.feishin"
+            ]
         }
     },
     "ferdi": {
@@ -12938,7 +12942,8 @@
             "root": "gnome-arcade",
             "symlinks": [
                 "com.github.tkashkin.gamehub",
-                "gamehub"
+                "gamehub",
+                "page.codeberg.vendillah.GamepadMirror"
             ]
         }
     },
@@ -15707,7 +15712,10 @@
     },
     "hue-game": {
         "linux": {
-            "root": "steam_icon_383270"
+            "root": "steam_icon_383270",
+            "symlinks": [
+                "io.github.tom94.tev"
+            ]
         }
     },
     "hugin": {
@@ -16619,6 +16627,7 @@
         "linux": {
             "root": "jan",
             "symlinks": [
+                "ai.jan.Jan",
                 "ai.menlo.jan"
             ]
         }
@@ -33422,7 +33431,10 @@
     "twilight": {
         "android": [
             "com.urbandroid.lux/com.urbandroid.lux.MainActivity"
-        ]
+        ],
+        "linux": {
+            "root": "io.github.orioletech.screendimmer"
+        }
     },
     "twine": {
         "linux": {
@@ -34474,7 +34486,10 @@
     },
     "visicut": {
         "linux": {
-            "root": "visicut"
+            "root": "visicut",
+            "symlinks": [
+                "com.barebaric.rayforge"
+            ]
         }
     },
     "visualparadigm": {
