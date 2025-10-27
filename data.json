@@ -20565,7 +20565,10 @@
     },
     "meshtasticd": {
         "linux": {
-            "root": "org.meshtastic.meshtasticd"
+            "root": "org.meshtastic.meshtasticd",
+            "symlinks": [
+                "chrome-jkcknjkmaddphholkgpdpbhmkiejejlc-Default"
+            ]
         }
     },
     "metadata-cleaner": {
