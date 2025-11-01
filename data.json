@@ -9436,7 +9436,7 @@
             ]
         }
     },
-    "edconv: {
+    "edconv": {
         "linux": {
             "root": "io.github.edneyosf.edconv"
         }
@@ -22325,6 +22325,14 @@
             "root": "nexuiz",
             "symlinks": [
                 "com.alientrap.nexuiz-classic"
+            ]
+        }
+    },
+    "nfc-lab": {
+        "linux": {
+            "root": "nfc-lab",
+            "symlinks": [
+                "io.github.josevcm.nfc-laboratory"
             ]
         }
     },
