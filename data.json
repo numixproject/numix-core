@@ -9436,6 +9436,11 @@
             ]
         }
     },
+    "edconv: {
+        "linux": {
+            "root": "io.github.edneyosf.edconv"
+        }
+    },
     "edex-ui": {
         "linux": {
             "root": "edex-ui"
@@ -28137,6 +28142,7 @@
             "root": "rhyme-player",
             "symlinks": [
                 "com.github.rhyme_player.rhyme",
+                "io.github.monsler.Kalorite",
                 "io.github.nate_xyz.Resonance",
                 "io.sonlink.pqmusic",
                 "pqmusic",
