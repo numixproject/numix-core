@@ -1096,7 +1096,8 @@
             "symlinks": [
                 "Alacritty",
                 "alacritty-simple",
-                "com.alacritty.Alacritty"
+                "com.alacritty.Alacritty",
+                "org.alacritty.Alacritty"
             ]
         }
     },
@@ -13592,7 +13593,8 @@
             "root": "gnome-todo",
             "symlinks": [
                 "io.elementary.tasks",
-                "org.gnome.Todo"
+                "org.gnome.Todo",
+                "x-notetask"
             ]
         }
     },
@@ -17167,7 +17169,10 @@
     },
     "jubler": {
         "linux": {
-            "root": "jubler"
+            "root": "jubler",
+            "symlinks": [
+                "com.panayotis.jubler"
+            ]
         }
     },
     "juci": {
@@ -27647,6 +27652,11 @@
             "symlinks": [
                 "com.rawtherapee.RawTherapee"
             ]
+        }
+    },
+    "rayforge": {
+        "linux": {
+            "root": "org.rayforge.rayforge"
         }
     },
     "razer": {
