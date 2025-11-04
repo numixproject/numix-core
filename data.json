@@ -12026,6 +12026,11 @@
             ]
         }
     },
+    "gamepadmirror": {
+        "linux": {
+            "root": "page.codeberg.vendillah.GamepadMirror"
+        }
+    },
     "gamemaker-studio-2": {
         "linux": {
             "root": "gamemaker-studio-2",
@@ -12978,8 +12983,7 @@
             "root": "gnome-arcade",
             "symlinks": [
                 "com.github.tkashkin.gamehub",
-                "gamehub",
-                "page.codeberg.vendillah.GamepadMirror"
+                "gamehub"
             ]
         }
     },
