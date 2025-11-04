@@ -10414,6 +10414,11 @@
             ]
         }
     },
+    "fcast-receiver": {
+        "linux": {
+            "root": "org.fcast.Receiver"
+        }
+    },
     "fceux": {
         "linux": {
             "root": "fceux",
