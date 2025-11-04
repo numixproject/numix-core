@@ -12031,11 +12031,6 @@
             ]
         }
     },
-    "gamepadmirror": {
-        "linux": {
-            "root": "page.codeberg.vendillah.GamepadMirror"
-        }
-    },
     "gamemaker-studio-2": {
         "linux": {
             "root": "gamemaker-studio-2",
@@ -12045,6 +12040,11 @@
                 "steam_icon_585610",
                 "steam_icon_585620"
             ]
+        }
+    },
+    "gamepadmirror": {
+        "linux": {
+            "root": "page.codeberg.vendillah.GamepadMirror"
         }
     },
     "gamma-editor": {
@@ -15708,7 +15708,8 @@
             "root": "hourglass",
             "symlinks": [
                 "com.github.sgpthomas.hourglass",
-                "d-tracker"
+                "d-tracker",
+                "io.gitlab.poltpolt.Sandglass"
             ]
         }
     },
@@ -16917,6 +16918,7 @@
                 "jellyfin-mpv-shim",
                 "jellyfin-theater",
                 "jellyfin-theatre",
+                "nl.jknaapen.fladder",
                 "org.jellyfin.Jellyfin",
                 "org.jellyfin.JellyfinServer"
             ]
