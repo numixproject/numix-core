@@ -15709,7 +15709,8 @@
             "symlinks": [
                 "com.github.sgpthomas.hourglass",
                 "d-tracker",
-                "io.gitlab.poltpolt.Sandglass"
+                "io.gitlab.poltpolt.Sandglass",
+                "sandglass"
             ]
         }
     },
@@ -23582,6 +23583,7 @@
         "linux": {
             "root": "opensnitch",
             "symlinks": [
+                "io.github.evilsocket.opensnitch",
                 "opensnitch-ui"
             ]
         }
@@ -24904,6 +24906,11 @@
             "symlinks": [
                 "com.pikatorrent.PikaTorrent"
             ]
+        }
+    },
+    "pilorama": {
+        "linux": {
+            "root": "pilorama"
         }
     },
     "pinapp": {
