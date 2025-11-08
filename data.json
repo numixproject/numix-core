@@ -24712,6 +24712,14 @@
         },
         "tags": ["world_baseplate"]
     },
+    "pgmanage": {
+        "linux": {
+            "root": "pgmanage",
+            "symlinks": [
+                "pgmanage_icon"
+            ]
+        }
+    },
     "pharlap": {
         "linux": {
             "root": "pharlap"
