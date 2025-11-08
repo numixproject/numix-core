@@ -640,7 +640,8 @@
         "linux": {
             "root": "actioneer",
             "symlinks": [
-                "com.github.phase1geo.actioneer"
+                "com.github.phase1geo.actioneer",
+                "me.spaceinbox.actioneer"
             ]
         }
     },
@@ -7068,6 +7069,11 @@
             "symlinks": [
                 "com.github.bluesabre.darkbar"
             ]
+        }
+    },
+    "darkradiant": {
+        "linux": {
+            "root": "net.darkradiant.DarkRadiant"
         }
     },
     "darktable": {
@@ -33582,6 +33588,11 @@
             ]
         }
     },
+    "typesetter": {
+        "linux": {
+            "root": "net.trowell.typesetter"
+        }
+    },
     "typewriter": {
         "linux": {
             "root": "typewriter",
@@ -33590,11 +33601,6 @@
                 "com.github.manexim.typewriter",
                 "org.gnome.gitlab.jangernert.Typster"
             ]
-        }
-    },
-    "typesetter": {
-        "linux": {
-            "root": "net.trowell.typesetter"
         }
     },
     "typora": {
