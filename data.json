@@ -7339,8 +7339,7 @@
         "linux": {
             "root": "deltatouch",
             "symlinks": [
-                "page.codeberg.lk108.DeltaTouch
-"
+                "page.codeberg.lk108.DeltaTouch"
             ]
         }
     },
@@ -15552,6 +15551,11 @@
                 "org.wxhexeditor.wxHexEditor",
                 "wxHexEditor"
             ]
+        }
+    },
+    "hexkudo": {
+        "linux": {
+            "root": "io.github.herve4m.Hexkudo"
         }
     },
     "hexo-client": {
