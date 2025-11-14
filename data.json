@@ -2139,7 +2139,10 @@
     },
     "arronax": {
         "linux": {
-            "root": "arronax"
+            "root": "arronax",
+            "symlinks": [
+                "Arronax"
+            ]
         }
     },
     "art": {
@@ -3953,7 +3956,10 @@
     },
     "bruno": {
         "linux": {
-            "root": "bruno"
+            "root": "bruno",
+            "symlinks": [
+                "com.usebruno.Bruno"
+            ]
         }
     },
     "btanks": {
@@ -13843,6 +13849,7 @@
         "linux": {
             "root": "go-for-it",
             "symlinks": [
+                "chronometer",
                 "com.github.jmoerman.go-for-it",
                 "de.manuel_kehl.go-for-it"
             ]
@@ -14386,7 +14393,8 @@
             "symlinks": [
                 "io.github.arunsivaramanneo.GPUViewer",
                 "io.github.ilya_zlobintsev.LACT",
-                "io.github.lact-linux"
+                "io.github.lact-linux",
+                "lact"
             ]
         }
     },
@@ -16759,6 +16767,8 @@
                 "java22-openjdk",
                 "java23-openjdk",
                 "java24-openjdk",
+                "java25-openjdk",
+                "java26-openjdk",
                 "java8-openjdk",
                 "java9-openjdk",
                 "javaws",
@@ -16799,6 +16809,8 @@
                 "oracle_java22",
                 "oracle_java23",
                 "oracle_java24",
+                "oracle_java25",
+                "oracle_java26",
                 "oracle_java6",
                 "oracle_java7",
                 "oracle_java8",
@@ -19738,7 +19750,8 @@
         "linux": {
             "root": "lptk",
             "symlinks": [
-                "me.ogarcia.lptk"
+                "me.ogarcia.lptk",
+                "me.ogarcia.rotor"
             ]
         }
     },
@@ -24817,7 +24830,8 @@
         "linux": {
             "root": "photoqt",
             "symlinks": [
-                "org.photoqt.PhotoQt"
+                "org.photoqt.PhotoQt",
+                "PhotoQt"
             ]
         }
     },
