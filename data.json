@@ -11246,6 +11246,11 @@
             ]
         }
     },
+    "fluster": {
+        "linux": {
+            "root": "fluster"
+        }
+    },
     "flutube": {
         "linux": {
             "root": "flutube",
@@ -12365,6 +12370,11 @@
             ]
         }
     },
+    "gelly": {
+        "linux": {
+            "root": "io.m51.Gelly"
+        }
+    },
     "gemrb": {
         "linux": {
             "root": "gemrb",
@@ -12452,11 +12462,6 @@
             "symlinks": [
                 "org.gephi.Gephi"
             ]
-        }
-    },
-    "gelly": {
-        "linux": {
-            "root": "io.m51.Gelly"
         }
     },
     "geppetto": {
