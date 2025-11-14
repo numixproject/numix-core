@@ -24368,11 +24368,6 @@
             ]
         }
     },
-    "passwordsecure": {
-        "linux": {
-            "root": "io.github.mihnea_radulescu.passwordsecure"
-        }
-    },
     "passwordsafe": {
         "linux": {
             "root": "passwordsafe",
@@ -24381,6 +24376,11 @@
                 "org.gnome.World.Secrets",
                 "secrets"
             ]
+        }
+    },
+    "passwordsecure": {
+        "linux": {
+            "root": "io.github.mihnea_radulescu.passwordsecure"
         }
     },
     "passy": {
@@ -30795,6 +30795,11 @@
     "spriteilluminator": {
         "linux": {
             "root": "spriteilluminator"
+        }
+    },
+    "spruce": {
+        "linux": {
+            "root": "io.github.shonubot.Spruce"
         }
     },
     "spyder": {
