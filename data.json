@@ -24363,6 +24363,11 @@
             ]
         }
     },
+    "passwordsecure": {
+        "linux": {
+            "root": "io.github.mihnea_radulescu.passwordsecure"
+        }
+    },
     "passwordsafe": {
         "linux": {
             "root": "passwordsafe",
@@ -24791,7 +24796,8 @@
                 "artemanufrij.playmyvideos",
                 "com.github.artemanufrij.playmyvideos",
                 "ffDiaporama",
-                "ffdiaporama"
+                "ffdiaporama",
+                "net.blumia.pineapple-steam-recording-exporter"
             ]
         }
     },
