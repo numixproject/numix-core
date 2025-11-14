@@ -3191,6 +3191,7 @@
                 "info.bibletime.BibleTime",
                 "io.github.kovzol.bibref",
                 "io.github.roseblume.rosary",
+                "io.github.wesenseged.Amharic-bible",
                 "org.hlwd.biblemultithelife",
                 "org.hlwd.sonofman"
             ]
@@ -4453,7 +4454,10 @@
     },
     "calendar-blue-13": {
         "linux": {
-            "root": "calendar-blue-13"
+            "root": "calendar-blue-13",
+            "symlinks": [
+                "io.github.wesenseged.Pagume"
+            ]
         }
     },
     "calendar-blue-14": {
@@ -13492,6 +13496,7 @@
             "symlinks": [
                 "io.github.Rirusha.Cassette",
                 "org.gnome.Podcasts",
+                "org.openair.podcast",
                 "space.rirusha.Cassette"
             ]
         }
@@ -17532,7 +17537,10 @@
     },
     "kawanime": {
         "linux": {
-            "root": "kawanime"
+            "root": "kawanime",
+            "symlinks": [
+                "moe.launcher.an-anime-game-launcher"
+            ]
         }
     },
     "kazam": {
@@ -31998,17 +32006,17 @@
             ]
         }
     },
+    "tarot-canvas": {
+        "linux": {
+            "root": "land.arcana.TarotCanvas"
+        }
+    },
     "tartube": {
         "linux": {
             "root": "tartube",
             "symlinks": [
                 "io.sourceforge.tartube"
             ]
-        }
-    },
-    "tarot-canvas": {
-        "linux": {
-            "root": "land.arcana.TarotCanvas"
         }
     },
     "tarug": {
