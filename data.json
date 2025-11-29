@@ -7619,6 +7619,11 @@
             ]
         }
     },
+    "dicomizer": {
+        "linux": {
+            "root": "Dicomizer"
+        }
+    },
     "diffpdf": {
         "linux": {
             "root": "diffpdf",
@@ -35169,6 +35174,7 @@
             "root": "weasis",
             "symlinks": [
                 "io.github.nroduit.Weasis",
+                "Weasis",
                 "weasis-logo128x128"
             ]
         }
