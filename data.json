@@ -407,6 +407,7 @@
                 "gtkam",
                 "gtkam-camera",
                 "io.elementary.camera",
+                "io.github.cosmicutils.camera",
                 "kamoso",
                 "net.flyingpimonster.Camera",
                 "org.gnome.Snapshot",
@@ -7676,7 +7677,9 @@
         "linux": {
             "root": "dino",
             "symlinks": [
-                "im.dino.Dino"
+                "im.dino.Dino",
+                "im.github.rallep71.DinoX",
+                "io.github.rallep71.DinoX"
             ]
         }
     },
@@ -25036,6 +25039,15 @@
             "symlinks": [
                 "com.gooseberrydevelopment.pinepods",
                 "online.pinepods.Pinepods"
+            ]
+        }
+    },
+    "pingmonitor": {
+        "linux": {
+            "root": "pingmonitor",
+            "symlinks": [
+                "io.github.sigma.ping",
+                "io.github.sigmasd.pingmonitor"
             ]
         }
     },
