@@ -1471,7 +1471,10 @@
     },
     "android-file-transfer": {
         "linux": {
-            "root": "android-file-transfer"
+            "root": "android-file-transfer",
+            "symlinks": [
+                "adb-gui-kit"
+            ]
         }
     },
     "android-messages-desktop": {
@@ -35149,6 +35152,7 @@
         "linux": {
             "root": "waydroid",
             "symlinks": [
+                "cu.axel.WaydroidSettings",
                 "Waydroid"
             ]
         }
