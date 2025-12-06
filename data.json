@@ -1695,6 +1695,7 @@
                 "create-launcher",
                 "custom-toolbox",
                 "deepin-launcher",
+                "io.github.d0ksan8.zen-app-manager",
                 "pop-cosmic-applications"
             ]
         }
@@ -3389,6 +3390,10 @@
                 "com.rafaelmardojai.Blanket"
             ]
         }
+    },
+    "blarock": {
+        "linux": {
+            "root": "io.gitlab.blahord.Blarock"
     },
     "bleachbit": {
         "linux": {
@@ -29840,6 +29845,7 @@
             "root": "simplesteamtinker",
             "symlinks": [
                 "bodev",
+                "com.tcs.allinonetoolkitv2",
                 "com.valvesoftware.Steam.Utility.steamtinkerlaunch",
                 "fr.sgued.bodev",
                 "mx-tools",
