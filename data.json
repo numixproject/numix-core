@@ -3394,6 +3394,7 @@
     "blarock": {
         "linux": {
             "root": "io.gitlab.blahord.Blarock"
+        }
     },
     "bleachbit": {
         "linux": {
@@ -23956,6 +23957,7 @@
                 "albasheer",
                 "com.github.ojubaorg.Othman",
                 "com.github.yucefsourani.albasheer-electronic-quran-browser",
+                "io.github.meypod.al-quran",
                 "io.github.zer0x.qurancompanion",
                 "Othman",
                 "sa.edu.ksa.ayat",
@@ -34404,6 +34406,15 @@
     "variety-slideshow": {
         "linux": {
             "root": "variety-slideshow"
+        }
+    },
+    "vassal": {
+        "linux": {
+            "root": "vassal",
+            "symlinks": [
+                "application-x-vassal",
+                "org.vassalengine.vassal"
+            ]
         }
     },
     "vaults": {
