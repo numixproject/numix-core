@@ -21788,8 +21788,9 @@
     },
     "munadi": {
         "linux": {
-            "root": "mundus",
+            "root": "munadi",
             "symlinks": [
+                "io.gitlab.hasanesa.Munadi",
                 "org.munadi.Munadi"
             ]
         }
@@ -31316,6 +31317,11 @@
             ]
         }
     },
+    "subscribi": {
+        "linux": {
+            "root": "dev.tony4.subscribi"
+        }
+    },
     "substance-alchemist": {
         "linux": {
             "root": "allegorithmic-Substance_Alchemist"
@@ -32962,7 +32968,10 @@
         "linux": {
             "root": "com.lynnmichaelmartin.TimeTracker",
             "symlinks": [
-                "io.github.FedericoCalzoni.EventRecorder"
+                "io.github.FedericoCalzoni.EventRecorder",
+                "work.worklog.desktop",
+                "work.worklog.worklog",
+                "worklog-desktop"
             ]
         }
     },
