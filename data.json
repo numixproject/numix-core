@@ -15295,6 +15295,14 @@
             ]
         }
     },
+    "hana": {
+        "linux": {
+            "root": "hana",
+            "symlinks": [
+                "org.kde.hana"
+            ]
+        }
+    },
     "happy-wheels": {
         "android": [
             "com.fancyforce.happywheels/org.cocos2dx.cpp.AppActivity"
@@ -23605,7 +23613,9 @@
         "linux": {
             "root": "openloco",
             "symlinks": [
-                "org.libretrainsim.Libre-TrainSim"
+                "io.sourceforge.xtrkcad_fork.xtrkcad",
+                "org.libretrainsim.Libre-TrainSim",
+                "xtrkcad"
             ]
         }
     },
