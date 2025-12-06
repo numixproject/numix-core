@@ -407,6 +407,7 @@
                 "gtkam",
                 "gtkam-camera",
                 "io.elementary.camera",
+                "io.github.cosmic_utils.camera",
                 "io.github.cosmicutils.camera",
                 "kamoso",
                 "net.flyingpimonster.Camera",
@@ -21785,7 +21786,7 @@
             ]
         }
     },
-    "munadi: {
+    "munadi": {
         "linux": {
             "root": "mundus",
             "symlinks": [
@@ -26268,6 +26269,11 @@
             "symlinks": [
                 "com.github.emmanueltouzery.projectpad"
             ]
+        }
+    },
+    "propad": {
+        "linux": {
+            "root": "io.github.sanjai.ProPad"
         }
     },
     "protege": {
