@@ -7697,7 +7697,10 @@
     },
     "diodon": {
         "linux": {
-            "root": "diodon"
+            "root": "diodon",
+            "symlinks": [
+                "nwg-clipman"
+            ]
         }
     },
     "dippi": {
@@ -16115,6 +16118,15 @@
             "symlinks": [
                 "io.github.Loganavter.Improve-ImgSLI",
                 "org.gnome.gitlab.YaLTeR.Identity"
+            ]
+        }
+    },
+    "idescriptor": {
+        "linux": {
+            "root": "idescriptor",
+            "symlinks": [
+                "com.idescriptor.idescriptor",
+                "iDescriptor"
             ]
         }
     },
@@ -25000,7 +25012,9 @@
         "linux": {
             "root": "picocrypt",
             "symlinks": [
-                "io.github.picocrypt.Picocrypt"
+                "io.github.picocrypt.Picocrypt",
+                "io.github.picocrypt-ng.Picocrypt-NG",
+                "picocrypt-ng-gui"
             ]
         }
     },
@@ -28296,6 +28310,7 @@
         "linux": {
             "root": "retrom",
             "symlinks": [
+                "io.github.jmberesford.Retrom",
                 "Retrom"
             ]
         }
