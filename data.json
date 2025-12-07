@@ -17766,6 +17766,14 @@
             "root": "keybase"
         }
     },
+    "keyboardsounds": {
+        "linux": {
+            "root": "keyboardsounds",
+            "symlinks": [
+                "kbs"
+            ]
+        }
+    },
     "keypunch": {
         "linux": {
             "root": "keypunch",
@@ -25012,8 +25020,8 @@
         "linux": {
             "root": "picocrypt",
             "symlinks": [
-                "io.github.picocrypt.Picocrypt",
                 "io.github.picocrypt-ng.Picocrypt-NG",
+                "io.github.picocrypt.Picocrypt",
                 "picocrypt-ng-gui"
             ]
         }
