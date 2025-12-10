@@ -1,14 +1,14 @@
 <svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <linearGradient id="linearGradient4312" x2="0" y1="47" y2="1" gradientTransform="translate(0 -.003)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="lG4312" x2="0" y1="47" y2="1" gradientTransform="translate(0 -.003)" gradientUnits="userSpaceOnUse">
    <stop style="stop-color:#3d76b0" offset="0"/>
    <stop style="stop-color:#427fbe" offset="1"/>
   </linearGradient>
-  <linearGradient id="linearGradient4189" x1="1" x2="47" gradientTransform="matrix(0 -1 1 0 .00221 48)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="lG4189" x1="1" x2="47" gradientTransform="matrix(0 -1 1 0 .00221 48)" gradientUnits="userSpaceOnUse">
    <stop style="stop-color:#1b589d" offset="0"/>
    <stop style="stop-color:#174a83" offset="1"/>
   </linearGradient>
-  <linearGradient id="linearGradient4205" x1="47" x2="47" y1="47" y2="1" gradientUnits="userSpaceOnUse">
+  <linearGradient id="lG4205" x1="47" x2="47" y1="47" y2="1" gradientUnits="userSpaceOnUse">
    <stop style="stop-color:#10437f" offset="0"/>
    <stop style="stop-color:#0d386b" offset="1"/>
   </linearGradient>
@@ -16,10 +16,10 @@
  <path d="m1 43v0.25c0 2.22 1.78 4 4 4h38c2.22 0 4-1.78 4-4v-0.25c0 2.22-1.78 4-4 4h-38c-2.22 0-4-1.78-4-4zm0 0.5v0.5c0 2.22 1.78 4 4 4h38c2.22 0 4-1.78 4-4v-0.5c0 2.22-1.78 4-4 4h-38c-2.22 0-4-1.78-4-4z" style="opacity:.02"/>
  <path d="m1 43.2v0.25c0 2.22 1.78 4 4 4h38c2.22 0 4-1.78 4-4v-0.25c0 2.22-1.78 4-4 4h-38c-2.22 0-4-1.78-4-4z" style="opacity:.05"/>
  <path d="m1 43v0.25c0 2.22 1.78 4 4 4h38c2.22 0 4-1.78 4-4v-0.25c0 2.22-1.78 4-4 4h-38c-2.22 0-4-1.78-4-4z" style="opacity:.1"/>
- <path d="m5 1c-2.22 0-4 1.78-4 4v38c0 2.22 1.78 4 4 4h4.45c10.6 0 37.6-20 37.6-26s-13.7-17.5-29-20z" style="fill:url(#linearGradient4189)"/>
- <path d="m47 21-37.6 26h33.6c2.21 0 4-1.79 4-4z" style="fill:url(#linearGradient4205)"/>
+ <path d="m5 1c-2.22 0-4 1.78-4 4v38c0 2.22 1.78 4 4 4h4.45c10.6 0 37.6-20 37.6-26s-13.7-17.5-29-20z" style="fill:url(#lG4189)"/>
+ <path d="m47 21-37.6 26h33.6c2.21 0 4-1.79 4-4z" style="fill:url(#lG4205)"/>
  <path d="m47 21-31.8 22h-10.2c-2.22 0-4-1.78-4-4v4c0 2.22 1.78 4 4 4h38c2.22 0 4-1.78 4-4v-4c0 2.22-1.78 4-4 4h-26.3l30.3-21z" style="opacity:.1"/>
- <path d="m18 1 29 20v-16a4 4 0 0 0-4-4h-25z" style="fill:url(#linearGradient4312)"/>
+ <path d="m18 1 29 20v-16a4 4 0 0 0-4-4h-25z" style="fill:url(#lG4312)"/>
  <path d="m28 22c0 7-4 10-8 10h-7v-20h7c4 0 8 3 8 10m-3 0c0-4-1.95-7-5.2-7h-3.8v14h3.8c3.33 0 5.2-3 5.2-7z" style="fill-opacity:.098"/>
  <path d="m28 21c0 7-4 10-8 10h-7v-20h7c4 0 8 3 8 10m-3 0c0-4-1.95-7-5.2-7h-3.8v14h3.8c3.33 0 5.2-3 5.2-7z" style="fill:#e6ef5d"/>
  <path d="m17 1 29.3 20.5 0.719-0.498-29-20h-1z" style="opacity:.1"/>

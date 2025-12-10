@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 48 48">
  <defs>
-  <linearGradient id="linearGradient3764" x2="47" gradientUnits="userSpaceOnUse" x1="1" gradientTransform="rotate(-90 24.001 23.999)">
+  <linearGradient id="lG3764" x2="47" gradientUnits="userSpaceOnUse" x1="1" gradientTransform="rotate(-90 24.001 23.999)">
    <stop stop-color="#23a0bf" offset="0"/>
    <stop stop-color="#26aed0" offset="1"/>
   </linearGradient>
-  <linearGradient id="linearGradient887" y2="2" gradientUnits="userSpaceOnUse" x2="0" gradientTransform="matrix(1 0 0 .99999 0 -.097627)" y1="48">
+  <linearGradient id="lG887" y2="2" gradientUnits="userSpaceOnUse" x2="0" gradientTransform="matrix(1 0 0 .99999 0 -.097627)" y1="48">
    <stop style="stop-color:#51c9e9" offset="0"/>
    <stop style="stop-color:#51c9e9" offset="1"/>
   </linearGradient>
@@ -12,7 +12,7 @@
  <path opacity=".02" d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4zm0 0.5v0.5c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.5c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z"/>
  <path opacity=".05" d="m1 43.25v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z"/>
  <path opacity=".1" d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z"/>
- <path style="fill:url(#linearGradient3764)" d="m1 6.2988v36.701c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-14.102z"/>
+ <path style="fill:url(#lG3764)" d="m1 6.2988v36.701c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-14.102z"/>
  <path style="opacity:.1" d="m1 6v1.2988c9.826 12.17 30.383 21.245 46 22.599v-2.9961z"/>
  <g clip-path="url(#clipPath-151430181)">
   <g opacity=".1"></g>
@@ -20,7 +20,7 @@
  <g clip-path="url(#clipPath-164231330)">
   <g transform="translate(0,-1)">
    <path style="fill:#87dfe9" d="m1.2422 3.7031c-0.1435 0.408-0.2422 0.8373-0.2422 1.2969v1.2988c9.826 12.17 30.383 21.245 46 22.599v-2.996c-10.095-10.016-32.153-16.081-45.758-22.199z" transform="translate(0,1)"/>
-   <path style="stroke-width:1.0011;fill:url(#linearGradient887)" d="m4.9102 2c-1.7283 0-3.183 1.0856-3.7482 2.6093 9.944 12.021 30.321 20.947 45.838 22.293v-20.902c0-2.216-1.788-4-4.009-4z"/>
+   <path style="stroke-width:1.0011;fill:url(#lG887)" d="m4.9102 2c-1.7283 0-3.183 1.0856-3.7482 2.6093 9.944 12.021 30.321 20.947 45.838 22.293v-20.902c0-2.216-1.788-4-4.009-4z"/>
   </g>
  </g>
  <g transform="translate(0 -1004.4)">

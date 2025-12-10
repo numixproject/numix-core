@@ -1,10 +1,10 @@
 <svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <linearGradient id="linearGradient4219" x1="1" x2="47" y1="47" y2="1" gradientTransform="translate(-48 .00221)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="lG4219" x1="1" x2="47" y1="47" y2="1" gradientTransform="translate(-48 .00221)" gradientUnits="userSpaceOnUse">
    <stop style="stop-color:#5697a9" offset="0"/>
    <stop style="stop-color:#64a0b0" offset="1"/>
   </linearGradient>
-  <linearGradient id="linearGradient1316" x2="0" y1="47" y2="1" gradientUnits="userSpaceOnUse">
+  <linearGradient id="lG1316" x2="0" y1="47" y2="1" gradientUnits="userSpaceOnUse">
    <stop style="stop-color:#e3e3e3" offset="0"/>
    <stop style="stop-color:#ededed" offset="1"/>
   </linearGradient>
@@ -12,9 +12,9 @@
  <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4zm0 0.5v0.5c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.5c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.02"/>
  <path d="m1 43.25v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.05"/>
  <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
- <rect transform="rotate(-90)" x="-47" y="1" width="46" height="46" rx="4" style="fill:url(#linearGradient4219)"/>
+ <rect transform="rotate(-90)" x="-47" y="1" width="46" height="46" rx="4" style="fill:url(#lG4219)"/>
  <path d="m5 1c-0.6892 0-1.3276 0.1877-1.8926 0.4922 1.5786 18.713 15.066 37.158 27.358 45.508h12.535c2.216 0 4-1.784 4-4v-14.904c-9.107-8.123-16.079-16.296-21.498-27.096h-20.502z" style="opacity:.1"/>
- <path d="m5 1c-0.652 0-1.258 0.1689-1.8008 0.4434 2.0281 19.166 16.331 37.883 28.801 45.557h11c2.216 0 4-1.784 4-4v-15.904c-8.826-7.872-15.65-15.785-20.994-26.096h-21.006z" style="fill:url(#linearGradient1316)"/>
+ <path d="m5 1c-0.652 0-1.258 0.1689-1.8008 0.4434 2.0281 19.166 16.331 37.883 28.801 45.557h11c2.216 0 4-1.784 4-4v-15.904c-8.826-7.872-15.65-15.785-20.994-26.096h-21.006z" style="fill:url(#lG1316)"/>
  <g transform="translate(0,-1004.4)">
   <path d="m1 1043.4v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
  </g>

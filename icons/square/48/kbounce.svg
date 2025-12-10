@@ -4,11 +4,11 @@
    <stop style="stop-color:#e4e4e4" offset="0"/>
    <stop style="stop-color:#eee" offset="1"/>
   </linearGradient>
-  <linearGradient id="linearGradient3948" x1="20" x2="37" y1="20" y2="37" gradientTransform="matrix(-1 0 0 1 50.008 -.99762)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="lG3948" x1="20" x2="37" y1="20" y2="37" gradientTransform="matrix(-1 0 0 1 50.008 -.99762)" gradientUnits="userSpaceOnUse">
    <stop style="stop-opacity:.118" offset="0"/>
    <stop style="stop-opacity:.039" offset="1"/>
   </linearGradient>
-  <linearGradient id="linearGradient3902" x2="0" y1="18" y2="40" gradientTransform="matrix(-.70692 -.70724 -.70692 .70724 55.865 20.418)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="lG3902" x2="0" y1="18" y2="40" gradientTransform="matrix(-.70692 -.70724 -.70692 .70724 55.865 20.418)" gradientUnits="userSpaceOnUse">
    <stop style="stop-color:#939393" offset="0"/>
    <stop style="stop-color:#9b9b9b;stop-opacity:.235" offset="1"/>
   </linearGradient>
@@ -28,7 +28,7 @@
    <path d="m1 1043.4v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
   </g>
  </g>
- <path d="m29.008 12.002c2.047 0 4.095 0.781 5.656 2.344 3.123 3.125 3.123 8.188 0 11.313 0 0-18.4 12.744-21.25 9.938-2.85-2.807 9.938-21.25 9.938-21.25 1.562-1.562 3.609-2.344 5.656-2.344" style="fill:url(#linearGradient3948)"/>
- <path d="m13.414 34.598c2.85 2.807 21.243-9.946 21.243-9.946l-11.307-11.306s-12.785 18.446-9.936 21.253z" style="fill:url(#linearGradient3902)"/>
+ <path d="m29.008 12.002c2.047 0 4.095 0.781 5.656 2.344 3.123 3.125 3.123 8.188 0 11.313 0 0-18.4 12.744-21.25 9.938-2.85-2.807 9.938-21.25 9.938-21.25 1.562-1.562 3.609-2.344 5.656-2.344" style="fill:url(#lG3948)"/>
+ <path d="m13.414 34.598c2.85 2.807 21.243-9.946 21.243-9.946l-11.307-11.306s-12.785 18.446-9.936 21.253z" style="fill:url(#lG3902)"/>
  <circle transform="matrix(-.70695 -.70726 -.70695 .70726 0 0)" cx="-33.952" cy="-7.0828" r="7.9997" style="fill:url(#radialGradient3910);stroke-width:1.1428"/>
 </svg>

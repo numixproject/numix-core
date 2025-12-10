@@ -1,10 +1,10 @@
 <svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
-  <linearGradient id="linearGradient857" x2="0" y1="47" y2="1" gradientUnits="userSpaceOnUse">
+  <linearGradient id="lG857" x2="0" y1="47" y2="1" gradientUnits="userSpaceOnUse">
    <stop style="stop-color:#5c5c64" offset="0"/>
    <stop style="stop-color:#66666e" offset="1"/>
   </linearGradient>
-  <linearGradient id="linearGradient865" x2="0" y1="47" y2="1" gradientUnits="userSpaceOnUse">
+  <linearGradient id="lG865" x2="0" y1="47" y2="1" gradientUnits="userSpaceOnUse">
    <stop style="stop-color:#dedcd9" offset="0"/>
    <stop style="stop-color:#e8e6e4" offset="1"/>
   </linearGradient>
@@ -12,8 +12,8 @@
  <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4zm0 0.5v0.5c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.5c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.02"/>
  <path d="m1 43.25v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.05"/>
  <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
- <path d="m24 1-1 11 1 11 11 1 12-1v-18c0-2.216-1.784-4-4-4zm0 22-12-1-11 1v20c0 2.216 1.784 4 4 4h19l1-12z" style="fill-rule:evenodd;fill:url(#linearGradient865)"/>
- <path d="m5 1c-2.216 0-4 1.784-4 4v18h23v-22h-19zm19 22v24h19c2.216 0 4-1.784 4-4v-20h-23z" style="fill-rule:evenodd;fill:url(#linearGradient857)"/>
+ <path d="m24 1-1 11 1 11 11 1 12-1v-18c0-2.216-1.784-4-4-4zm0 22-12-1-11 1v20c0 2.216 1.784 4 4 4h19l1-12z" style="fill-rule:evenodd;fill:url(#lG865)"/>
+ <path d="m5 1c-2.216 0-4 1.784-4 4v18h23v-22h-19zm19 22v24h19c2.216 0 4-1.784 4-4v-20h-23z" style="fill-rule:evenodd;fill:url(#lG857)"/>
  <g transform="translate(0,-1004.4)">
   <path d="m1 1043.4v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
  </g>

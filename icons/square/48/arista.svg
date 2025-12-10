@@ -1,21 +1,21 @@
 <svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
-  <linearGradient id="linearGradient2" x2="0" y1="47" y2="1" gradientUnits="userSpaceOnUse">
+  <linearGradient id="lG2" x2="0" y1="47" y2="1" gradientUnits="userSpaceOnUse">
    <stop style="stop-color:#d51a3b" offset="0"/>
    <stop style="stop-color:#e42043" offset="1"/>
   </linearGradient>
-  <linearGradient id="linearGradient4" x2="0" y1="47" y2="1" gradientUnits="userSpaceOnUse">
+  <linearGradient id="lG4" x2="0" y1="47" y2="1" gradientUnits="userSpaceOnUse">
    <stop style="stop-color:#39ae39" offset="0"/>
    <stop style="stop-color:#3ebc3e" offset="1"/>
   </linearGradient>
-  <linearGradient id="linearGradient6" x1="48" x2="48" y1="47" y2="1" gradientUnits="userSpaceOnUse">
+  <linearGradient id="lG6" x1="48" x2="48" y1="47" y2="1" gradientUnits="userSpaceOnUse">
    <stop style="stop-color:#3081d7" offset="0"/>
    <stop style="stop-color:#438ddb" offset="1"/>
   </linearGradient>
  </defs>
- <path d="m5 1c-2.22 0-4 1.78-4 4v38c0 2.22 1.78 4 4 4h11l5-23-5-23z" style="fill:url(#linearGradient2)"/>
- <path d="m16 1v46h16l5-23-5-23z" style="fill:url(#linearGradient4)"/>
- <path d="m32 1v46h11c2.22 0 4-1.78 4-4v-38c0-2.22-1.78-4-4-4h-11z" style="fill:url(#linearGradient6)"/>
+ <path d="m5 1c-2.22 0-4 1.78-4 4v38c0 2.22 1.78 4 4 4h11l5-23-5-23z" style="fill:url(#lG2)"/>
+ <path d="m16 1v46h16l5-23-5-23z" style="fill:url(#lG4)"/>
+ <path d="m32 1v46h11c2.22 0 4-1.78 4-4v-38c0-2.22-1.78-4-4-4h-11z" style="fill:url(#lG6)"/>
  <path d="m1 43v0.25c0 2.22 1.78 4 4 4h38c2.22 0 4-1.78 4-4v-0.25c0 2.22-1.78 4-4 4h-38c-2.22 0-4-1.78-4-4zm0 0.5v0.5c0 2.22 1.78 4 4 4h38c2.22 0 4-1.78 4-4v-0.5c0 2.22-1.78 4-4 4h-38c-2.22 0-4-1.78-4-4z" style="opacity:.02"/>
  <path d="m1 43.2v0.25c0 2.22 1.78 4 4 4h38c2.22 0 4-1.78 4-4v-0.25c0 2.22-1.78 4-4 4h-38c-2.22 0-4-1.78-4-4z" style="opacity:.05"/>
  <path d="m1 43v0.25c0 2.22 1.78 4 4 4h38c2.22 0 4-1.78 4-4v-0.25c0 2.22-1.78 4-4 4h-38c-2.22 0-4-1.78-4-4z" style="opacity:.1"/>

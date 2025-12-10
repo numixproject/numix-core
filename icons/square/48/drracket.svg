@@ -1,15 +1,15 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
-  <linearGradient id="linearGradient4075" x1="24" x2="24" y1="1051.4" y2="1005.4" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3979"/>
-  <linearGradient id="linearGradient3979">
+  <linearGradient id="lG4075" x1="24" x2="24" y1="1051.4" y2="1005.4" gradientUnits="userSpaceOnUse" xlink:href="#lG3979"/>
+  <linearGradient id="lG3979">
    <stop style="stop-color:#5389af" offset="0"/>
    <stop style="stop-color:#709dbd" offset="1"/>
   </linearGradient>
-  <linearGradient id="linearGradient4108" x2="0" y1="47" y2="1" gradientUnits="userSpaceOnUse">
+  <linearGradient id="lG4108" x2="0" y1="47" y2="1" gradientUnits="userSpaceOnUse">
    <stop style="stop-color:#d54141" offset="0"/>
    <stop style="stop-color:#e85959" offset="1"/>
   </linearGradient>
-  <linearGradient id="linearGradient940" x2="0" y1="1051.4" y2="1005.4" gradientTransform="translate(0 -1004.4)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3979"/>
+  <linearGradient id="lG940" x2="0" y1="1051.4" y2="1005.4" gradientTransform="translate(0 -1004.4)" gradientUnits="userSpaceOnUse" xlink:href="#lG3979"/>
  </defs>
  <g transform="translate(0 -1004.4)">
   <path d="m5 1006.4c-2.216 0-4 1.784-4 4v37.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-37.25c0-2.216-1.784-4-4-4h-38zm-4 41.5v0.5c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.5c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.02"/>
@@ -17,10 +17,10 @@
   <rect x="1" y="1005.6" width="46" height="46" rx="4" style="opacity:.1"/>
  </g>
  <g transform="translate(0 -1004.4)">
-  <g transform="translate(0 .0022146)" style="fill:url(#linearGradient4075)">
-   <path transform="translate(0 1004.4)" d="m24 1-5 23 5 23h19c2.216 0 4-1.784 4-4v-38c0-2.216-1.784-4-4-4z" style="fill:url(#linearGradient940)"/>
+  <g transform="translate(0 .0022146)" style="fill:url(#lG4075)">
+   <path transform="translate(0 1004.4)" d="m24 1-5 23 5 23h19c2.216 0 4-1.784 4-4v-38c0-2.216-1.784-4-4-4z" style="fill:url(#lG940)"/>
   </g>
-  <path transform="translate(0 1004.4)" d="m5 1c-2.216 0-4 1.784-4 4v38c0 2.216 1.784 4 4 4h19v-46h-19z" style="fill:url(#linearGradient4108)"/>
+  <path transform="translate(0 1004.4)" d="m5 1c-2.216 0-4 1.784-4 4v38c0 2.216 1.784 4 4 4h19v-46h-19z" style="fill:url(#lG4108)"/>
   <path d="m1 1043.4v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
  </g>
  <g transform="matrix(3.6748 0 0 3.4165 .0001115 -1)" style="opacity:.1">

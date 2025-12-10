@@ -1,6 +1,6 @@
 <svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
-  <linearGradient id="linearGradient864" x1="1" x2="0" y1="1" y2="47" gradientTransform="translate(-48 -48)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="lG864" x1="1" x2="0" y1="1" y2="47" gradientTransform="translate(-48 -48)" gradientUnits="userSpaceOnUse">
    <stop style="stop-color:#005088" offset="0"/>
    <stop style="stop-color:#005e9d" offset="1"/>
   </linearGradient>
@@ -8,7 +8,7 @@
  <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4zm0 0.5v0.5c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.5c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.02"/>
  <path d="m1 43.25v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.05"/>
  <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
- <rect transform="scale(-1)" x="-47" y="-47" width="46" height="46" rx="4" style="fill:url(#linearGradient864)"/>
+ <rect transform="scale(-1)" x="-47" y="-47" width="46" height="46" rx="4" style="fill:url(#lG864)"/>
  <path d="m1 39v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
  <path d="m20 11v2h-5v4h18v-4h-5v-2zm-5 7v15c0 2 0 4 3 4h12c3 0 3-2 3-4v-15z" style="opacity:.1"/>
  <path d="m33 17v15c0 2 0 4-3 4h-12c-3 0-3-2-3-4v-15" style="fill:#b6b6b6"/>
