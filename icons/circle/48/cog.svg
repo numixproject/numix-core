@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
  <defs>
   <linearGradient id="lG3764" x1="1" x2="47" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)">
-   <stop style="stop-color:#7e4c67;stop-opacity:1"/>
-   <stop offset="1" style="stop-color:#8b5371;stop-opacity:1"/>
+   <stop style="stop-color:#7e4c67"/>
+   <stop offset="1" style="stop-color:#8b5371"/>
   </linearGradient>
  </defs>
  <g>
@@ -29,6 +29,6 @@
    <rect y="32.941" x="9" height="3" width="4" transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"/>
    <rect y="42.941" x="-1" height="4" width="3" transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"/>
   </g>
-  <circle r="3" cy="24" cx="24" style="fill:#f9f9f9;stroke:none;fill-rule:evenodd"/>
+  <circle r="3" cy="24" cx="24" style="fill:#f9f9f9;fill-rule:evenodd"/>
  </g>
 </svg>
