@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
  <defs>
-  <linearGradient id="linearGradient3764" x1="1" x2="47" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)">
+  <linearGradient id="lG3764" x1="1" x2="47" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)">
    <stop style="stop-color:#5b8fb3;stop-opacity:1"/>
    <stop offset="1" style="stop-color:#6998b9;stop-opacity:1"/>
   </linearGradient>
-  <linearGradient id="linearGradient4077" y1="47" x2="0" y2="1" gradientUnits="userSpaceOnUse">
+  <linearGradient id="lG4077" y1="47" x2="0" y2="1" gradientUnits="userSpaceOnUse">
    <stop style="stop-color:#d74b4b;stop-opacity:1"/>
    <stop offset="1" style="stop-color:#e74f4f;stop-opacity:1"/>
   </linearGradient>
@@ -15,9 +15,9 @@
   <path d="m 31.25 2.375 c 8.615 3.154 14.75 11.417 14.75 21.13 c 0 12.426 -10.07 22.5 -22.5 22.5 c -9.708 0 -17.971 -6.135 -21.12 -14.75 a 23 23 0 0 0 44.875 -7 a 23 23 0 0 0 -16 -21.875 z" style="opacity:0.2"/>
  </g>
  <g>
-  <path d="M 24,1 C 36.703,1 47,11.297 47,24 47,36.703 36.703,47 24,47 18,43 18,4 24,1 Z" style="fill:url(#linearGradient3764)"/>
+  <path d="M 24,1 C 36.703,1 47,11.297 47,24 47,36.703 36.703,47 24,47 18,43 18,4 24,1 Z" style="fill:url(#lG3764)"/>
  </g>
- <path d="m 24 1 c -12.703 0 -23 10.297 -23 23 0 12.703 10.297 23 23 23 l 0 -46" style="fill:url(#linearGradient4077);stroke:none"/>
+ <path d="m 24 1 c -12.703 0 -23 10.297 -23 23 0 12.703 10.297 23 23 23 l 0 -46" style="fill:url(#lG4077);stroke:none"/>
  <g>
   <path d="m 40.03 7.531 c 3.712 4.084 5.969 9.514 5.969 15.469 0 12.703 -10.297 23 -23 23 c -5.954 0 -11.384 -2.256 -15.469 -5.969 4.178 4.291 10.01 6.969 16.469 6.969 c 12.703 0 23 -10.298 23 -23 0 -6.462 -2.677 -12.291 -6.969 -16.469 z" style="opacity:0.1"/>
  </g>
