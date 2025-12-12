@@ -14235,24 +14235,6 @@
             ]
         }
     },
-    "googleplus": {
-        "android": [
-            "com.google.android.apps.plus/com.google.android.apps.plus.phone.ConversationListActivity",
-            "com.google.android.apps.plus/com.google.android.apps.plus.phone.HomeActivity",
-            "com.google.android.apps.plus/com.google.android.apps.plus.phone.PhotosLegacyLauncherActivity"
-        ],
-        "linux": {
-            "root": "googleplus",
-            "symlinks": [
-                "chrome-dlppkpafhbajpcmmoheippocdidnckmm-Default",
-                "google-plus",
-                "Google-plus.google.com",
-                "unity-webapps-google-plus",
-                "unity-webapps-googleplus",
-                "web-google-plus"
-            ]
-        }
-    },
     "gopeed": {
         "linux": {
             "root": "gopeed",
