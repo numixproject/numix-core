@@ -5412,6 +5412,14 @@
             ]
         }
     },
+    "cataclysm-bn": {
+        "linux": {
+            "root": "cataclysm-bn",
+            "symlinks": [
+                "org.cataclysmbn.CataclysmBN"
+            ]
+        }
+    },
     "cataclysm-dda": {
         "linux": {
             "root": "cataclysm-dda",
@@ -33167,7 +33175,8 @@
                 "codes.loers.Punchclock",
                 "com.toggl.TogglDesktop",
                 "io.github.lainsce.Countdown",
-                "io.gitlab.idevecore.Pomodoro"
+                "io.gitlab.idevecore.Pomodoro",
+                "libresplit"
             ]
         }
     },
