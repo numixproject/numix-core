@@ -23552,6 +23552,15 @@
             ]
         }
     },
+    "opencloud": {
+        "linux": {
+            "root": "opencloud",
+            "symlinks": [
+                "com.handtrixxx.OpenCloud",
+                "opencloud-desktop"
+            ]
+        }
+    },
     "opencloudsaves": {
         "linux": {
             "root": "opencloudsaves",
