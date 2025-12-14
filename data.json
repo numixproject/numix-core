@@ -26347,7 +26347,10 @@
     },
     "propad": {
         "linux": {
-            "root": "io.github.sanjai.ProPad"
+            "root": "io.github.sanjai.ProPad",
+            "symlinks": [
+                "io.gitlab.Sanjai_Shaarugesh.Markforge"
+            ]
         }
     },
     "protege": {
@@ -29840,6 +29843,15 @@
             "root": "sideload",
             "symlinks": [
                 "io.elementary.sideload"
+            ]
+        }
+    },
+    "sieve-editor": {
+        "linux": {
+            "root": "sieve-editor",
+            "symlinks": [
+                "io.github.lenucksi.SieveEditor",
+                "sieveeditor"
             ]
         }
     },
