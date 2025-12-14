@@ -14282,7 +14282,8 @@
         "linux": {
             "root": "goverlay",
             "symlinks": [
-                "com.hperrin.StreamOverlay"
+                "com.hperrin.StreamOverlay",
+                "io.github.benjamimgois.goverlay"
             ]
         }
     },
@@ -14761,7 +14762,8 @@
         "linux": {
             "root": "grub-customizer",
             "symlinks": [
-                "bum"
+                "bum",
+                "io.github.taylan.grubsettings"
             ]
         }
     },
@@ -35242,6 +35244,11 @@
                 "net.waterfox.waterfox",
                 "waterfox-icon"
             ]
+        }
+    },
+    "watermelon": {
+        "linux": {
+            "root": "com.aashiqumar.watermelon"
         }
     },
     "wattage": {
