@@ -5549,6 +5549,11 @@
             ]
         }
     },
+    "censor": {
+        "linux": {
+            "root": "page.codeberg.censor.Censor"
+        }
+    },
     "cerebro": {
         "linux": {
             "root": "cerebro"
@@ -22625,6 +22630,11 @@
             "root": "steam_icon_275850"
         }
     },
+    "no-more-background": {
+        "linux": {
+            "root": "com.adilhanney.no_more_background"
+        }
+    },
     "no-more-room-in-hell": {
         "linux": {
             "root": "steam_icon_224260"
@@ -24989,6 +24999,7 @@
         "linux": {
             "root": "picmi",
             "symlinks": [
+                "io.github.falldaemon.engplayer",
                 "org.kde.picmi",
                 "rocks.shy.VacuumTube"
             ]
@@ -25591,7 +25602,8 @@
             "root": "polyphone",
             "symlinks": [
                 "com.polyphone_soundfonts.polyphone",
-                "com.polyphonesoundfonts.polyphone"
+                "com.polyphonesoundfonts.polyphone",
+                "io.github.alamahant.BinauralPlayer"
             ]
         }
     },
@@ -26554,6 +26566,7 @@
         "linux": {
             "root": "putty",
             "symlinks": [
+                "io.github.benladamm.ssh-client",
                 "org.putty.putty",
                 "pterm",
                 "uk.org.greenend.chiark.sgtatham.putty"
@@ -29112,6 +29125,7 @@
                 "com.github.benini.scid",
                 "gambito",
                 "io.github.benini.scid",
+                "io.github.whelanh.scidCommunity",
                 "jerry",
                 "net.danigm.gambito",
                 "net.sourceforge.scidvspc.scidvspc",
@@ -29989,6 +30003,7 @@
         "linux": {
             "root": "sk1-color-picker",
             "symlinks": [
+                "io.github.ellie_commons.cherrypick",
                 "xcolor"
             ]
         }
@@ -32217,6 +32232,7 @@
                 "com.teamspeak.TeamSpeak",
                 "com.teamspeak.TeamSpeak3",
                 "teamspeak3",
+                "teamspeak6-client",
                 "ts3client_linux_amd64"
             ]
         }
@@ -35917,7 +35933,8 @@
             "root": "chrome-fnibmbcdeepaahjmddiihohjanlimlmj-Default",
             "symlinks": [
                 "chrome-bgjohebimpjdhhocbknplfelpmdhifhd-Default",
-                "com.todoist.Todoist"
+                "com.todoist.Todoist",
+                "me.ariyadey.capturist"
             ]
         }
     },
