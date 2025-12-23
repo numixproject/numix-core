@@ -21161,7 +21161,10 @@
     },
     "mockoon": {
         "linux": {
-            "root": "mockoon"
+            "root": "mockoon",
+            "symlinks": [
+                "com.mockoon.Mockoon"
+            ]
         }
     },
     "modbusscope": {
@@ -25483,6 +25486,11 @@
     "plume-creator": {
         "linux": {
             "root": "plume-creator"
+        }
+    },
+    "plumeimpactor": {
+        "linux": {
+            "root": "dev.khcrysalis.PlumeImpactor"
         }
     },
     "pmim-ibus": {
