@@ -10068,6 +10068,14 @@
             ]
         }
     },
+    "eric-mpy": {
+        "linux": {
+            "root": "ericMPy",
+            "symlinks": [
+                "eric7_mpy"
+            ]
+        }
+    },
     "eric-web": {
         "linux": {
             "root": "ericWeb",
@@ -22728,6 +22736,11 @@
             "symlinks": [
                 "net.sf.nootka"
             ]
+        }
+    },
+    "nora": {
+        "linux": {
+            "root": "jp.nonbili.nora"
         }
     },
     "nordvpn": {
