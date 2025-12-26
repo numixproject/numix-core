@@ -1,8 +1,8 @@
 <svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
  <defs>
   <linearGradient id="bg" x2="0" y1="1" y2="47" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#e3c9c9" offset="0"/>
-   <stop style="stop-color:#dcbcbc" offset="1"/>
+   <stop style="stop-color:#bfd4e3" offset="0"/>
+   <stop style="stop-color:#b0cadd" offset="1"/>
   </linearGradient>
  </defs>
  <path d="m1 43v0.25c0 2.22 1.78 4 4 4h38c2.22 0 4-1.78 4-4v-0.25c0 2.22-1.78 4-4 4h-38c-2.22 0-4-1.78-4-4zm0 0.5v0.5c0 2.22 1.78 4 4 4h38c2.22 0 4-1.78 4-4v-0.5c0 2.22-1.78 4-4 4h-38c-2.22 0-4-1.78-4-4z" style="opacity:.02"/>
@@ -11,13 +11,13 @@
  <rect x="1" y="1" width="46" height="46" rx="4" style="fill:url(#bg)"/>
  <path d="m1 39v4c0 2.22 1.78 4 4 4h38c2.22 0 4-1.78 4-4v-4c0 2.22-1.78 4-4 4h-38c-2.22 0-4-1.78-4-4z" style="opacity:.1"/>
  <path d="m12 12v24h24v-24" style="opacity:.1"/>
- <path d="m12 29v6h24v-1l-1-2 1-2v-1l-12-1z" style="fill:#d05858"/>
+ <path d="m12 29v6h24v-1l-1-2 1-2v-1l-12-1z" style="fill:#2b70a0"/>
  <path d="m13 30v4h23v-4" style="fill:#f9f9f9"/>
- <path d="m12 11v18h24v-18" style="fill:#d83131"/>
+ <path d="m12 11v18h24v-18" style="fill:#1e7dbf"/>
  <path d="m17.9 23.2-2.3 3.84 4.42-0.471 13-8.33s0.301-0.578-0.602-1.99z" style="opacity:.1"/>
  <path d="m13 31v1h23v-1zm0 2v1h23v-1z" style="fill:#e5e5e5"/>
- <path d="m28.8 15.2-10.9 7 0.06 1.8 1.99 1.6 11-7.03 0.024-2.57z" style="fill:#f59f47"/>
- <path d="m28.8 15.2 2.16 3.37 2.06-1.32s0.301-0.578-0.602-1.99c-0.871-1.36-1.6-1.35-1.6-1.35l-2 1.28" style="fill:#f5476d"/>
- <path d="m17.9 22.2-1.2 1.9 0.339 0.891 0.803 0.816 2.21-0.236z" style="fill:#f2d187"/>
+ <path d="m28.8 15.2-10.9 7 0.06 1.8 1.99 1.6 11-7.03 0.024-2.57z" style="fill:#10b7cd"/>
+ <path d="m28.8 15.2 2.16 3.37 2.06-1.32s0.301-0.578-0.602-1.99c-0.871-1.36-1.6-1.35-1.6-1.35l-2 1.28" style="fill:#579bcc"/>
+ <path d="m17.9 22.2-1.2 1.9 0.339 0.891 0.803 0.816 2.21-0.236z" style="fill:#ebd6a7"/>
  <path d="m16.7 24.1-1.14 1.94 2.23-0.223" style="fill:#555"/>
 </svg>
