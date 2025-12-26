@@ -2549,6 +2549,14 @@
             ]
         }
     },
+    "audiotube": {
+        "linux": {
+            "root": "audiotube",
+            "symlinks": [
+                "org.kde.audiotube"
+            ]
+        }
+    },
     "augur": {
         "linux": {
             "root": "augur"
@@ -22066,20 +22074,20 @@
             "root": "mx-snapshot"
         }
     },
+    "myapps": {
+        "linux": {
+            "root": "myapps",
+            "symlinks": [
+                "io.github.nicolettas-muggelbude.myapps"
+            ]
+        }
+    },
     "mygnuhealth": {
         "linux": {
             "root": "mygnuhealth",
             "symlinks": [
                 "org.gnuhealth.mygnuhealth",
                 "org.kde.mygnuhealth"
-            ]
-        }
-    },
-    "myapps": {
-        "linux": {
-            "root": "myapps",
-            "symlinks": [
-                "io.github.nicolettas-muggelbude.myapps"
             ]
         }
     },
@@ -37657,13 +37665,11 @@
             "symlinks": [
                 "alltomp3",
                 "app.ytmdesktop.ytmdesktop",
-                "audiotube",
                 "brave-cinhimbnkkaeohfgghhklpknlkffjgod-Default",
                 "chrome-cinhimbnkkaeohfgghhklpknlkffjgod-Default",
                 "eu.tiliado.NuvolaAppYoutubeMusic",
                 "MediaHuman",
                 "nuvolaplayer3_youtube-music",
-                "org.kde.audiotube",
                 "youtube-music",
                 "youtube-music-desktop",
                 "youtube-music-desktop-app",
