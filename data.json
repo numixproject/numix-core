@@ -568,7 +568,8 @@
         "linux": {
             "root": "accessories-thesaurus",
             "symlinks": [
-                "clipit-trayicon",
+                "clipit",
+                "clipse-gui"
                 "glippy",
                 "ptask",
                 "stock_tasks",
@@ -7524,7 +7525,10 @@
     },
     "desktop-environment-lxqt": {
         "linux": {
-            "root": "desktop-environment-lxqt"
+            "root": "desktop-environment-lxqt",
+            "symlinks": [
+                "lxqt-about"
+            ]
         }
     },
     "desktop-environment-mate": {
@@ -7743,6 +7747,7 @@
         "linux": {
             "root": "diodon",
             "symlinks": [
+                "claw",
                 "nwg-clipman"
             ]
         }
@@ -20837,6 +20842,11 @@
             "root": "micropad"
         }
     },
+    "microwave-man": {
+        "linux": {
+            "root": "dev.project516.titledgames.microwave-man"
+        }
+    },
     "middleearth-shadow-of-mordor": {
         "linux": {
             "root": "steam_icon_241930"
@@ -25985,6 +25995,7 @@
                 "gnome-display-properties",
                 "gnome-dsiplay-properties",
                 "mate-preferences-desktop-display",
+                "network.cycles.wdisplays",
                 "org.xfce.settings.display",
                 "system-config-displaycal",
                 "unity-display-panel"
@@ -30116,6 +30127,7 @@
             "root": "skanpage",
             "symlinks": [
                 "com.hamrick.VueScan",
+                "com.naps2.Naps2",
                 "kooka",
                 "org.kde.kooka",
                 "org.kde.skanpage"
