@@ -569,7 +569,7 @@
             "root": "accessories-thesaurus",
             "symlinks": [
                 "clipit",
-                "clipse-gui"
+                "clipse-gui",
                 "glippy",
                 "ptask",
                 "stock_tasks",
@@ -2830,6 +2830,7 @@
             "symlinks": [
                 "alexandria",
                 "io.github.btpf.alexandria",
+                "io.github.ellie_commons.tales",
                 "org.majsterklepka.bacade"
             ]
         }
@@ -27883,6 +27884,7 @@
                 "com.github.alexkdeveloper.dice",
                 "com.github.zelikos.rannum",
                 "dev.zelikos.rollit",
+                "io.github.ellie_commons.rollit",
                 "rollit"
             ]
         }
@@ -29579,6 +29581,7 @@
             "root": "sequeler",
             "symlinks": [
                 "com.github.alecaddd.sequeler",
+                "io.github.ellie_commons.sequeler",
                 "me.ppvan.psequel",
                 "org.archivekeep.ArchiveKeep"
             ]
@@ -32309,7 +32312,8 @@
         "linux": {
             "root": "taxi",
             "symlinks": [
-                "com.github.alecaddd.taxi"
+                "com.github.alecaddd.taxi",
+                "io.github.ellie_commons.taxi"
             ]
         }
     },
@@ -33292,6 +33296,7 @@
             "symlinks": [
                 "com.github.luizaugustomm.tomato",
                 "com.github.tomatoers.tomato",
+                "io.github.ellie_commons.tomato",
                 "net.sourceforge.tomatoes.IHaveNoTomatoes",
                 "org.flowkeeper.Flowkeeper",
                 "tomato",
@@ -34338,7 +34343,8 @@
             "root": "usb-creator-kde",
             "symlinks": [
                 "com.github.artemanufrij.imageburner",
-                "imageburner"
+                "imageburner",
+                "io.github.ellie_commons.imageburner"
             ]
         }
     },
