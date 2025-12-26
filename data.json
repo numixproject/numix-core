@@ -3936,6 +3936,11 @@
             ]
         }
     },
+    "brief": {
+        "linux": {
+            "root": "io.github.shonebinu.Brief"
+        }
+    },
     "brlcad": {
         "linux": {
             "root": "brlcad",
@@ -7249,6 +7254,8 @@
         "linux": {
             "root": "dbgate",
             "symlinks": [
+                "gridix",
+                "io.github.mcb_smart_boy.Gridix",
                 "org.dbgate.DbGate"
             ]
         }
@@ -25309,6 +25316,7 @@
             "root": "pix",
             "symlinks": [
                 "net.blumia.pineapple-pictures",
+                "one.naiara.Kuychi",
                 "org.kde.pix"
             ]
         }
@@ -32340,6 +32348,8 @@
                 "codeslayer",
                 "featherpad",
                 "io.github.mfat.jottr",
+                "io.gitlab.zulfian1732.jollpi-text-editor",
+                "jollpi",
                 "jupyter-notebook",
                 "net.codelogistics.letters",
                 "notebook",
@@ -33304,6 +33314,7 @@
             "symlinks": [
                 "com.github.luizaugustomm.tomato",
                 "com.github.tomatoers.tomato",
+                "io.github.diegopvlk.Tomatillo",
                 "io.github.ellie_commons.tomato",
                 "net.sourceforge.tomatoes.IHaveNoTomatoes",
                 "org.flowkeeper.Flowkeeper",
@@ -33718,6 +33729,7 @@
                 "org.tryton.Tryton-72",
                 "org.tryton.Tryton-74",
                 "org.tryton.Tryton-76",
+                "org.tryton.Tryton-78",
                 "tryton-icon"
             ]
         }
