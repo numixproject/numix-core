@@ -33057,6 +33057,14 @@
             ]
         }
     },
+    "thunderbolt": {
+        "linux": {
+            "root": "thunderbolt",
+            "symlinks": [
+                "cs-thunderbolt"
+            ]
+        }
+    },
     "tic-tac-toe": {
         "linux": {
             "root": "tictactoe",
