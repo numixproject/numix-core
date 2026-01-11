@@ -337,7 +337,10 @@
     },
     "abe": {
         "linux": {
-            "root": "abe"
+            "root": "abe",
+            "symlinks": [
+                "dev.serwin.AbeRE"
+            ]
         }
     },
     "abgx360gui": {
@@ -7414,6 +7417,11 @@
     "delir": {
         "linux": {
             "root": "delir"
+        }
+    },
+    "deliveries": {
+        "linux": {
+            "root": "me.dumke.deliveries"
         }
     },
     "deltachat": {
@@ -17914,6 +17922,7 @@
         "linux": {
             "root": "kfloppy",
             "symlinks": [
+                "io.github.Matteo842.SaveState",
                 "org.kde.kfloppy"
             ]
         }
