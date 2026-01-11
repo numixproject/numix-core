@@ -10592,6 +10592,11 @@
             "root": "org.fcast.Receiver"
         }
     },
+    "fcast-sender": {
+        "linux": {
+            "root": "org.fcast.Sender"
+        }
+    },
     "fceux": {
         "linux": {
             "root": "fceux",
@@ -17786,6 +17791,7 @@
         "linux": {
             "root": "kdesvn",
             "symlinks": [
+                "io.github.sourcegit_scm.sourcegit",
                 "org.kde.kdesvn"
             ]
         }
@@ -29622,7 +29628,8 @@
                 "clamtk",
                 "com.github.davetheunsub.clamtk",
                 "com.gitlab.davem.ClamTk",
-                "io.github.asafelobotomy.SearchAndDestroy"
+                "io.github.asafelobotomy.SearchAndDestroy",
+                "io.github.linx_systems.ClamUI"
             ]
         }
     },
