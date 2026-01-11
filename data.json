@@ -9285,6 +9285,11 @@
             ]
         }
     },
+    "duelpy": {
+        "linux": {
+            "root": "io.github.lloura.DuelPy"
+        }
+    },
     "duet": {
         "android": [
             "com.kumobius.android.duet/com.kumobius.android.KumoAppActivity"
@@ -29861,7 +29866,10 @@
     },
     "sheepshaver": {
         "linux": {
-            "root": "SheepShaver"
+            "root": "SheepShaver",
+            "symlinks": [
+                "org.dupot.savethesheep"
+            ]
         }
     },
     "shm-modbus": {
