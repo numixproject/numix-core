@@ -9232,6 +9232,11 @@
             ]
         }
     },
+    "drosophilia": {
+        "linux": {
+            "root": "io.github.ergolyam.Drosophila"
+        }
+    },
     "drracket": {
         "linux": {
             "root": "drracket",
@@ -10513,6 +10518,7 @@
         "linux": {
             "root": "falkon",
             "symlinks": [
+                "falcond",
                 "org.kde.falkon"
             ]
         }
@@ -17805,6 +17811,7 @@
         "linux": {
             "root": "kdesvn",
             "symlinks": [
+                "com.markdeepwell.GitY",
                 "io.github.sourcegit_scm.sourcegit",
                 "org.kde.kdesvn"
             ]
