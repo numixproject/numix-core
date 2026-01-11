@@ -5826,6 +5826,7 @@
                 "com.todotxt.sleek",
                 "errands",
                 "io.github.mrvladus.List",
+                "me.dumke.Reinschrift",
                 "org.kde.merkuro"
             ]
         }
@@ -8079,7 +8080,10 @@
     },
     "distributor-logo-bluestar": {
         "linux": {
-            "root": "distributor-logo-bluestar"
+            "root": "distributor-logo-bluestar",
+            "symlinks": [
+                "it.astrogods.AstroGods"
+            ]
         }
     },
     "distributor-logo-bodhi": {
@@ -13743,7 +13747,8 @@
                 "org.deepin.flatdeb.deepin-voice-recorder",
                 "org.gnome.SoundRecorder",
                 "org.kde.krecorder",
-                "reco"
+                "reco",
+                "uz.mohirlab.senbrua"
             ]
         }
     },
@@ -37192,8 +37197,10 @@
         "linux": {
             "root": "xclicker",
             "symlinks": [
+                "crossmacro,
                 "de.feschber.LanMouse",
                 "dev.robiot.xclicker",
+                "io.github.alper_han.crossmacro",
                 "io.github.heathcliff26.turbo-clicker",
                 "mouse-actions-gui",
                 "net.codelogistics.clicker"
