@@ -15375,6 +15375,14 @@
             "root": "7BD8_halo.0"
         }
     },
+    "hammer-editor": {
+        "linux": {
+            "root": "hammer-editor",
+            "symlinks": [
+                "com.darkrockstudios.hammer"
+            ]
+        }
+    },
     "hammerfight": {
         "linux": {
             "root": "hammerfight",
@@ -20838,6 +20846,7 @@
         "linux": {
             "root": "metadata-cleaner",
             "symlinks": [
+                "dev.geopjr.MetadataCleaner",
                 "fingwit",
                 "fr.romainvigier.MetadataCleaner",
                 "io.gitlab.metadatacleaner.metadatacleaner",
@@ -37197,7 +37206,7 @@
         "linux": {
             "root": "xclicker",
             "symlinks": [
-                "crossmacro,
+                "crossmacro",
                 "de.feschber.LanMouse",
                 "dev.robiot.xclicker",
                 "io.github.alper_han.crossmacro",
