@@ -9178,6 +9178,14 @@
         },
         "tags": ["world_baseplate"]
     },
+    "drawy": {
+        "linux": {
+            "root": "drawy",
+            "symlinks": [
+                "org.kde.drawy"
+            ]
+        }
+    },
     "drfinance": {
         "linux": {
             "root": "drfinance",
@@ -12901,14 +12909,6 @@
             ]
         }
     },
-    "gittop": {
-        "linux": {
-            "root": "gittop",
-            "symlinks": [
-                "io.github.AmarBego.GitTop"
-            ]
-        }
-    },
     "gitter": {
         "android": [
             "im.gitter.gitter/im.gitter.gitter.activities.StartActivity"
@@ -12918,6 +12918,14 @@
             "symlinks": [
                 "Gitter",
                 "im.gitter.Gitter"
+            ]
+        }
+    },
+    "gittop": {
+        "linux": {
+            "root": "gittop",
+            "symlinks": [
+                "io.github.AmarBego.GitTop"
             ]
         }
     },
@@ -21023,8 +21031,8 @@
             "root": "mindmate",
             "symlinks": [
                 "io.github.alfianlosari.GTKChatGPT",
-                "io.github.koromelodev.mindmate",
-                "io.github.jackrabbithanna.Gnollama"
+                "io.github.jackrabbithanna.Gnollama",
+                "io.github.koromelodev.mindmate"
             ]
         }
     },
@@ -34398,6 +34406,8 @@
         "linux": {
             "root": "unknown-horizons",
             "symlinks": [
+                "gweatherrouting",
+                "org.gweatherrouting.gweatherrouting",
                 "org.unknown_horizons.UnknownHorizons"
             ]
         }
