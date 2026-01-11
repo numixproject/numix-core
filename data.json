@@ -12901,6 +12901,14 @@
             ]
         }
     },
+    "gittop": {
+        "linux": {
+            "root": "gittop",
+            "symlinks": [
+                "io.github.AmarBego.GitTop"
+            ]
+        }
+    },
     "gitter": {
         "android": [
             "im.gitter.gitter/im.gitter.gitter.activities.StartActivity"
@@ -21015,7 +21023,8 @@
             "root": "mindmate",
             "symlinks": [
                 "io.github.alfianlosari.GTKChatGPT",
-                "io.github.koromelodev.mindmate"
+                "io.github.koromelodev.mindmate",
+                "io.github.jackrabbithanna.Gnollama"
             ]
         }
     },
