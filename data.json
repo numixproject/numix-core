@@ -5616,6 +5616,14 @@
             "root": "cerebro"
         }
     },
+    "cfait": {
+        "linux": {
+            "root": "cfait",
+            "symlinks": [
+                "com.trougnouf.Cfait"
+            ]
+        }
+    },
     "charm": {
         "linux": {
             "root": "Charm"
@@ -20396,7 +20404,6 @@
             "root": "master-key",
             "symlinks": [
                 "com.gitlab.guillermop.MasterKey",
-                "io.github.tobagin.secrets",
                 "io.github.unicornyrainbow.secrets"
             ]
         }
