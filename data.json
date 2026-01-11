@@ -1657,6 +1657,14 @@
             ]
         }
     },
+    "aonsoku": {
+        "linux": {
+            "root": "aonsoku",
+            "symlinks": [
+                "io.github.victoralvesf.aonsoku"
+            ]
+        }
+    },
     "apachedirectorystudio": {
         "linux": {
             "root": "apachedirectorystudio",
@@ -12918,6 +12926,7 @@
             "root": "glabels",
             "symlinks": [
                 "glabels-3.0",
+                "org.glabels.glabels-qt",
                 "org.gnome.glabels-3"
             ]
         }
@@ -20853,6 +20862,7 @@
             "root": "metadata-cleaner",
             "symlinks": [
                 "dev.geopjr.MetadataCleaner",
+                "dev.geopjr.Scrubber",
                 "fingwit",
                 "fr.romainvigier.MetadataCleaner",
                 "io.gitlab.metadatacleaner.metadatacleaner",
@@ -32196,6 +32206,7 @@
                 "org.gnome.Packages",
                 "org.kde.muon",
                 "org.manjaro.pamac.manager",
+                "org.vanillaos.ApxGUI",
                 "package-manager-icon",
                 "pamac",
                 "pamac-manager",
