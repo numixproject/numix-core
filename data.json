@@ -7785,6 +7785,7 @@
             "root": "diodon",
             "symlinks": [
                 "claw",
+                "io.github.dyslechtchitect.tfcbm",
                 "nwg-clipman"
             ]
         }
@@ -22914,7 +22915,10 @@
     },
     "notify": {
         "linux": {
-            "root": "com.ranfdev.Notify"
+            "root": "com.ranfdev.Notify",
+            "symlinks": [
+                "io.github.tobagin.Ntfyr"
+            ]
         }
     },
     "notifyosdconf": {
@@ -24567,6 +24571,7 @@
         "linux": {
             "root": "passbook",
             "symlinks": [
+                "io.github.tobagin.secrets",
                 "org.adishatz.syncpasswd",
                 "org.gnome.Passbook",
                 "syncpasswd"
@@ -32651,7 +32656,8 @@
             "root": "terminix",
             "symlinks": [
                 "com.gexperts.Terminix",
-                "com.gexperts.Tilix"
+                "com.gexperts.Tilix",
+                "io.github.vdirienzo.TmuxGUI"
             ]
         }
     },
@@ -37236,6 +37242,7 @@
             "symlinks": [
                 "io.github.nyre221.kiview",
                 "org.freedesktop.xorg.xeyes",
+                "org.jeremy.BrightEyes",
                 "org.sugarlabs.PyEyes"
             ]
         }
