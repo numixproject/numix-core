@@ -9788,6 +9788,12 @@
                 "electron38",
                 "electron39",
                 "electron4",
+                "electron40",
+                "electron41",
+                "electron42",
+                "electron43",
+                "electron44",
+                "electron45",
                 "electron5",
                 "electron6",
                 "electron7",
@@ -17005,6 +17011,7 @@
                 "openjdk-24",
                 "openjdk-25",
                 "openjdk-26",
+                "openjdk-27",
                 "openjdk-6",
                 "openjdk-7",
                 "openjdk-8",
@@ -17050,6 +17057,7 @@
                 "org.freedesktop.Sdk.Extension.openjdk24",
                 "org.freedesktop.Sdk.Extension.openjdk25",
                 "org.freedesktop.Sdk.Extension.openjdk26",
+                "org.freedesktop.Sdk.Extension.openjdk27",
                 "org.freedesktop.Sdk.Extension.openjdk8",
                 "org.freedesktop.Sdk.Extension.openjdk9",
                 "sun-java",
@@ -20641,6 +20649,11 @@
     "meandmyshadow": {
         "linux": {
             "root": "meandmyshadow"
+        }
+    },
+    "mecalin": {
+        "linux": {
+            "root": "io.github.nacho.mecalin"
         }
     },
     "media-downloader": {
@@ -30480,6 +30493,7 @@
                 "io.gitlab.JakobDev.jdSimpleAutostart",
                 "jdsimpleautostart",
                 "jgmenu",
+                "org.altlinux.ReadySet",
                 "org.easycoding.TunedSwitcher",
                 "page.codeberg.JakobDev.jdSimpleAutostart",
                 "pop-cosmic-launcher"
