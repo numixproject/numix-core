@@ -1,0 +1,22 @@
+<svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="bg" x2="0" y1="1" y2="47" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#d3c8b6" offset="0"/>
+   <stop style="stop-color:#ccbfaa" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4zm0 0.5v0.5c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.5c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.02"/>
+ <path d="m1 43.25v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.05"/>
+ <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
+ <rect x="1" y="1" width="46" height="46" rx="4" style="fill:url(#bg)"/>
+ <path d="m1 39v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
+ <path d="m24 9c-4.9012 0.01358-9.4867 2.4208-12.281 6.4473l-2.7188-2.4473v9c0 1 0.02383 1.5166 0 2 0 8.2843 6.7157 15 15 15 4.9012-0.01358 9.4867-2.4208 12.281-6.4473l2.7188 2.4473v-11c0-8.2843-6.7157-15-15-15z" style="opacity:.1"/>
+ <path d="m24 8-2 11-12.846 1.9766a15 15 0 0 0-0.1543 2.0234 15 15 0 0 0 15 15l2-11 12.846-1.9766a15 15 0 0 0 0.1543-2.0234 15 15 0 0 0-15-15z" style="fill:#2d2d2d"/>
+ <circle cx="24" cy="23" r="9" style="fill:#e1cbad;paint-order:stroke fill markers;stroke-width:1.0588"/>
+ <circle cx="24" cy="23" r="7" style="fill:#f4ece1;paint-order:stroke fill markers"/>
+ <path d="m24 8a15 15 0 0 0-12.281 6.4473l-2.7188-2.4473v9h10l-2.7676-2.4922a9 9 0 0 1 7.7676-4.5078v-6z" style="fill:#e62f2f"/>
+ <path d="m24 38a15 15 0 0 0 12.281-6.4473l2.7188 2.4473v-9h-10l2.7676 2.4922a9 9 0 0 1-7.7676 4.5078z" style="fill:#2f56e6"/>
+ <path d="m22 21h4l2 3-2 3h-4l-2-3z" style="opacity:.1"/>
+ <path d="m22 20h4l2 3-2 3h-4l-2-3z" style="fill:#727272"/>
+ <circle cx="24" cy="23" r="3" style="fill:#a6a6a6;paint-order:stroke fill markers"/>
+</svg>
