@@ -17304,6 +17304,14 @@
             ]
         }
     },
+    "jgex": {
+        "linux": {
+            "root": "jgex",
+            "symlinks": [
+                "io.github.ADG_Foundation.Java-Geometry-Expert"
+            ]
+        }
+    },
     "jiten": {
         "linux": {
             "root": "jiten",
@@ -22356,7 +22364,10 @@
     },
     "nautune": {
         "linux": {
-            "root": "nautune"
+            "root": "nautune",
+            "symlinks": [
+                "io.github.ElysiumDisc.nautune"
+            ]
         }
     },
     "navicat": {
