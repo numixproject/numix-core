@@ -6387,6 +6387,11 @@
             "root": "colorhug-refresh"
         }
     },
+    "colorsmith": {
+        "linux": {
+            "root": "com.ktechpit.colorsmith"
+        }
+    },
     "colorway": {
         "linux": {
             "root": "colorway",
@@ -6959,7 +6964,8 @@
             "root": "cs-desktop",
             "symlinks": [
                 "deepin-toggle-desktop",
-                "mx-tweak"
+                "mx-tweak",
+                "org.nexuspenn.nexaos.customize"
             ]
         }
     },
@@ -15432,7 +15438,8 @@
         "linux": {
             "root": "hammer-editor",
             "symlinks": [
-                "com.darkrockstudios.hammer"
+                "com.darkrockstudios.hammer",
+                "studio.darkrock.hammer"
             ]
         }
     },
@@ -26293,6 +26300,7 @@
         "linux": {
             "root": "preferences-desktop-text-to-speech",
             "symlinks": [
+                "im.bernard.Parolu",
                 "io.github.mohfy.word2ipa"
             ]
         }
@@ -37311,6 +37319,7 @@
                 "dev.robiot.xclicker",
                 "io.github.alper_han.crossmacro",
                 "io.github.heathcliff26.turbo-clicker",
+                "io.github.mithcus.multiclicker",
                 "mouse-actions-gui",
                 "net.codelogistics.clicker"
             ]
