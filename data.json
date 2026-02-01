@@ -26141,6 +26141,7 @@
                 "cs-color",
                 "gnome-color-chooser",
                 "gnome-color-manager",
+                "io.github.enginkirmaci.lumux",
                 "kcolorchooser",
                 "mate-color-manager",
                 "org.gnome.ColorProfileViewer",
@@ -30313,6 +30314,14 @@
     "siteone-crawler": {
         "linux": {
             "root": "siteone-crawler"
+        }
+    },
+    "sitra": {
+        "linux": {
+            "root": "io.github.sitraorg.sitra",
+            "symlinks": [
+                "io.github.ronniedroid.sitra"
+            ]
         }
     },
     "siyuan": {
