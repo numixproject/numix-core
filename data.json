@@ -6769,6 +6769,11 @@
             ]
         }
     },
+    "crabdrop": {
+        "linux": {
+            "root": "io.github.alsofelix.crabdrop"
+        }
+    },
     "crashplan": {
         "linux": {
             "root": "crashplan"
@@ -12855,8 +12860,7 @@
         "linux": {
             "root": "giteye",
             "symlinks": [
-                "GitEye",
-                "sourcegit"
+                "GitEye"
             ]
         }
     },
