@@ -9274,6 +9274,7 @@
         "linux": {
             "root": "drumkv1",
             "symlinks": [
+                "dgedit",
                 "org.rncbc.drumkv1"
             ]
         }
@@ -22353,6 +22354,11 @@
             "root": "nautilus-scripts-manager"
         }
     },
+    "nautune": {
+        "linux": {
+            "root": "nautune"
+        }
+    },
     "navicat": {
         "linux": {
             "root": "navicat"
@@ -30493,6 +30499,7 @@
                 "io.gitlab.JakobDev.jdSimpleAutostart",
                 "jdsimpleautostart",
                 "jgmenu",
+                "mobi.phosh.PhoshTour",
                 "org.altlinux.ReadySet",
                 "org.easycoding.TunedSwitcher",
                 "page.codeberg.JakobDev.jdSimpleAutostart",
@@ -34389,6 +34396,7 @@
             "symlinks": [
                 "garuda-settings-manager",
                 "io.github.pantheon_tweaks.pantheon-tweaks",
+                "mobi.phosh.MobileSettings",
                 "org.vanillaos.ControlCenter",
                 "preferences-desktop",
                 "ubuntu-first-steps"
