@@ -12637,6 +12637,11 @@
             ]
         }
     },
+    "geogebra-discovery": {
+        "linux": {
+            "root": "io.github.kovzol.geogebra-discovery"
+        }
+    },
     "geometry-dash": {
         "linux": {
             "root": "steam_icon_322170"
@@ -19089,7 +19094,6 @@
     "launcherstudio": {
         "linux": {
             "root": "fr.arnaudmichel.launcherstudio"
-            ]
         }
     },
     "launchpad": {
@@ -23518,7 +23522,7 @@
             ]
         }
     },
-    "oomox": {
+    "oolite": {
         "linux": {
             "root": "oolite",
             "symlinks": [
@@ -26274,6 +26278,7 @@
                 "applet_lockkeys",
                 "gnome-settings-keybinding",
                 "gnome-settings-keybindings",
+                "io.github.gregfelice.DailyDriver",
                 "kcharselect",
                 "key_bindings",
                 "ktouch",
