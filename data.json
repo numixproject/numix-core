@@ -19086,6 +19086,12 @@
             ]
         }
     },
+    "launcherstudio": {
+        "linux": {
+            "root": "fr.arnaudmichel.launcherstudio"
+            ]
+        }
+    },
     "launchpad": {
         "linux": {
             "root": "launchpad",
@@ -23547,6 +23553,7 @@
         "linux": {
             "root": "ooo-base",
             "symlinks": [
+                "io.gitlab.dunkbing.dearsql",
                 "office-database",
                 "ooo-base2",
                 "ooo-base24",
@@ -33929,6 +33936,7 @@
             "root": "trojita",
             "symlinks": [
                 "com.github.matzipan.envoyer",
+                "io.github.hkdb.Aerion",
                 "org.kde.merkuro.mail",
                 "org.kde.trojita"
             ]
