@@ -16195,7 +16195,8 @@
             "root": "iagno",
             "symlinks": [
                 "org.gnome.Iagno",
-                "org.gnome.iagno"
+                "org.gnome.iagno",
+                "org.gnome.Reversi"
             ]
         }
     },
@@ -17871,7 +17872,6 @@
             "root": "kdesvn",
             "symlinks": [
                 "com.markdeepwell.GitY",
-                "io.github.sourcegit_scm.sourcegit",
                 "org.kde.kdesvn"
             ]
         }
@@ -23509,6 +23509,15 @@
                 "com.onlyoffice.DesktopEditors",
                 "onlyoffice-desktopeditors",
                 "org.onlyoffice.desktopeditors"
+            ]
+        }
+    },
+    "oomox": {
+        "linux": {
+            "root": "oolite",
+            "symlinks": [
+                "oolite-icon",
+                "space.oolite.Oolite"
             ]
         }
     },
