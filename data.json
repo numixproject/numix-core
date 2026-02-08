@@ -32136,6 +32136,12 @@
             ]
         }
     },
+    "switchyard": {
+        "linux": {
+            "root": "io.github.alyraffauf.Switchyard"
+            ]
+        }
+    },
     "symphonium": {
         "linux": {
             "root": "symphonium",
@@ -35269,6 +35275,7 @@
         "linux": {
             "root": "virtualplanet",
             "symlinks": [
+                "io.github.mlm_games.plutonic",
                 "io.github.smcameron.space-nerds-in-space",
                 "org.cubocore.CoreUniverse"
             ]
