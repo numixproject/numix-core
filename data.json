@@ -5627,7 +5627,11 @@
     },
     "censor": {
         "linux": {
-            "root": "page.codeberg.censor.Censor"
+            "root": "page.codeberg.censor.Censor",
+            "symlinks": [
+                "coverup",
+                "de.digidigital.coverup"
+            ]
         }
     },
     "cerebro": {
@@ -13535,7 +13539,8 @@
         "linux": {
             "root": "gnome-internet-radio-locator",
             "symlinks": [
-                "girl"
+                "girl",
+                "io.sourceforge.wsjt.wsjtx"
             ]
         }
     },
@@ -13864,6 +13869,7 @@
         "linux": {
             "root": "gnome-taquin",
             "symlinks": [
+                "io.github.tobagin.Tilepaint",
                 "org.gnome.Taquin",
                 "org.gnome.taquin"
             ]
@@ -14180,7 +14186,8 @@
             "root": "goldencheetah",
             "symlinks": [
                 "gc",
-                "golden-cheetah"
+                "golden-cheetah",
+                "org.goldencheetah.GoldenCheetah"
             ]
         }
     },
@@ -15870,6 +15877,7 @@
         "linux": {
             "root": "hitori",
             "symlinks": [
+                "io.github.tobagin.Kuro",
                 "org.gnome.Hitori"
             ]
         }
@@ -16038,7 +16046,10 @@
     },
     "httptoolkit": {
         "linux": {
-            "root": "httptoolkit"
+            "root": "httptoolkit",
+            "symlinks": [
+                "cz.bugsy.roster"
+            ]
         }
     },
     "httrack": {
@@ -16341,7 +16352,8 @@
             "root": "iease-music",
             "symlinks": [
                 "com.fyralabs.Victrola",
-                "com.github.bcedu.museic"
+                "com.github.bcedu.museic",
+                "net.fhannenheim.musicfetch"
             ]
         }
     },
@@ -19726,6 +19738,11 @@
             ]
         }
     },
+    "listenmoe": {
+        "linux": {
+            "root": "io.github.noobping.listenmoe"
+        }
+    },
     "lite-xl": {
         "linux": {
             "root": "lite-xl",
@@ -20732,6 +20749,7 @@
                 "com.markopejic.downloader",
                 "io.github.giantpinkrobots.varia",
                 "io.github.mhogomchungu.media-downloader",
+                "page.codeberg.impromptux.ytdl-gui",
                 "streamcapture2"
             ]
         }
@@ -22282,6 +22300,7 @@
             "root": "mynotes",
             "symlinks": [
                 "gjots2",
+                "io.github.elly_code.jorts",
                 "io.github.ellie_commons.jorts",
                 "io.github.nuttyartist.notes",
                 "noblenote",
@@ -30399,6 +30418,7 @@
         "linux": {
             "root": "sk1-color-picker",
             "symlinks": [
+                "io.github.elly_code.cherrypick",
                 "io.github.ellie_commons.cherrypick",
                 "xcolor"
             ]
@@ -37878,6 +37898,7 @@
         "linux": {
             "root": "yoga-image-optimizer",
             "symlinks": [
+                "com.ktechpit.pixelbatch",
                 "org.flozz.yoga-image-optimizer"
             ]
         }
