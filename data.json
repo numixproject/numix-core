@@ -13068,7 +13068,7 @@
         "linux": {
             "root": "glrp"
         }
-    },    
+    },
     "glyph": {
         "linux": {
             "root": "io.github.shonebinu.Glyph"
@@ -33611,6 +33611,14 @@
             "root": "tomviz",
             "symlinks": [
                 "org.tomviz.Tomviz"
+            ]
+        }
+    },
+    "tonearm": {
+        "linux": {
+            "root": "tonearm",
+            "symlinks": [
+                "dev.dergs.Tonearm"
             ]
         }
     },
