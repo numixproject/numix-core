@@ -3685,6 +3685,11 @@
             ]
         }
     },
+    "bobby": {
+        "linux": {
+            "root": "studio.planetpeanut.Bobby"
+        }
+    },
     "boda-lite": {
         "linux": {
             "root": "boda-lite"
@@ -6263,6 +6268,7 @@
         "linux": {
             "root": "cockpit-client",
             "symlinks": [
+                "io.github.mmp.Vice",
                 "org.cockpit_project.CockpitClient"
             ]
         }
@@ -34825,6 +34831,7 @@
             "root": "vail",
             "symlinks": [
                 "io.github.fkinoshita.Telegraph",
+                "io.github.teacond.Morse",
                 "org.kde.vail",
                 "telegraph"
             ]
