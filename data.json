@@ -2584,6 +2584,7 @@
             "symlinks": [
                 "com.github.marinm.songrec",
                 "org.sugarlabs.MusicBlocks",
+                "re.fossplant.songrec",
                 "songrec"
             ]
         }
@@ -30610,6 +30611,16 @@
             ]
         }
     },
+    "smallbasic": {
+        "linux": {
+            "root": "smallbasic",
+            "symlinks": [
+                "io.github.smallbasic.SmallBASIC",
+                "sb-desktop-128x128",
+                "sbasici"
+            ]
+        }
+    },
     "smartgithg": {
         "linux": {
             "root": "smartgithg",
@@ -32068,6 +32079,7 @@
                 "com.github.cassidyjames.palette",
                 "com.github.keyilan.swatches",
                 "io.github.lainsce.Emulsion",
+                "io.github.schwarzen.colormydesktop",
                 "org.gabmus.swatch",
                 "org.gnome.design.Palette",
                 "org.gnome.zbrown.Palette"
