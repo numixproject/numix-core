@@ -17242,6 +17242,15 @@
             ]
         }
     },
+    "jetbrains-goland": {
+        "linux": {
+            "root": "goland",
+            "symlinks": [
+                "com.jetbrains.GoLand",
+                "jetbrains-goland"
+            ]
+        }
+    },
     "jetbrains-idea": {
         "linux": {
             "root": "idea",
@@ -18695,7 +18704,6 @@
         "linux": {
             "root": "kreversi",
             "symlinks": [
-                "org.gnome.Reversi",
                 "org.kde.kreversi"
             ]
         }
