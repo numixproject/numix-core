@@ -12419,6 +12419,7 @@
                 "io.mgba.mGBA",
                 "io.nanoboyadvance.NanoBoyAdvance",
                 "mgba",
+                "net.andyofniall.missingno",
                 "pocket-sync",
                 "sameboy",
                 "vbaexpress",
@@ -25839,6 +25840,7 @@
                 "org.openstenoproject.Plover"
             ]
         }
+    },
     "plugdata": {
         "linux": {
             "root": "plugdata"
@@ -32223,6 +32225,7 @@
             "root": "symphonium",
             "symlinks": [
                 "com.zaaane.pianotrainer",
+                "net.figuiere.compiano",
                 "piano-trainer"
             ]
         }
@@ -33855,6 +33858,11 @@
     "trackma": {
         "linux": {
             "root": "trackma"
+        }
+    },
+    "tracy": {
+        "linux": {
+            "root": "tracy"
         }
     },
     "train-valley": {
