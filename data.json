@@ -2856,6 +2856,7 @@
                 "alexandria",
                 "io.github.btpf.alexandria",
                 "io.github.ellie_commons.tales",
+                "io.github.elly_code.tales",
                 "org.majsterklepka.bacade"
             ]
         }
@@ -22300,8 +22301,8 @@
             "root": "mynotes",
             "symlinks": [
                 "gjots2",
-                "io.github.elly_code.jorts",
                 "io.github.ellie_commons.jorts",
+                "io.github.elly_code.jorts",
                 "io.github.nuttyartist.notes",
                 "noblenote",
                 "org.xfce.notes",
@@ -24600,6 +24601,11 @@
     "pan": {
         "linux": {
             "root": "pan"
+        }
+    },
+    "pandora-launcher": {
+        "linux": {
+            "root": "com.moulberry.PandoraLauncher"
         }
     },
     "panel": {
@@ -28153,6 +28159,7 @@
                 "com.github.zelikos.rannum",
                 "dev.zelikos.rollit",
                 "io.github.ellie_commons.rollit",
+                "io.github.elly_code.rollit",
                 "rollit"
             ]
         }
@@ -29864,6 +29871,7 @@
             "symlinks": [
                 "com.github.alecaddd.sequeler",
                 "io.github.ellie_commons.sequeler",
+                "io.github.elly_code.sequeler",
                 "me.ppvan.psequel",
                 "org.archivekeep.ArchiveKeep"
             ]
@@ -30418,8 +30426,8 @@
         "linux": {
             "root": "sk1-color-picker",
             "symlinks": [
-                "io.github.elly_code.cherrypick",
                 "io.github.ellie_commons.cherrypick",
+                "io.github.elly_code.cherrypick",
                 "xcolor"
             ]
         }
@@ -32631,7 +32639,8 @@
             "root": "taxi",
             "symlinks": [
                 "com.github.alecaddd.taxi",
-                "io.github.ellie_commons.taxi"
+                "io.github.ellie_commons.taxi",
+                "io.github.elly_code.taxi"
             ]
         }
     },
@@ -33632,6 +33641,7 @@
                 "com.github.tomatoers.tomato",
                 "io.github.diegopvlk.Tomatillo",
                 "io.github.ellie_commons.tomato",
+                "io.github.elly_code.tomato",
                 "net.sourceforge.tomatoes.IHaveNoTomatoes",
                 "org.flowkeeper.Flowkeeper",
                 "tomato",
@@ -34697,7 +34707,8 @@
             "symlinks": [
                 "com.github.artemanufrij.imageburner",
                 "imageburner",
-                "io.github.ellie_commons.imageburner"
+                "io.github.ellie_commons.imageburner",
+                "io.github.elly_code.imageburner"
             ]
         }
     },
