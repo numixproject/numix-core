@@ -15881,7 +15881,8 @@
         "linux": {
             "root": "hipchat",
             "symlinks": [
-                "hipchat4"
+                "hipchat4",
+                "io.github.szczyglis_dev.py-gpt"
             ]
         }
     },
@@ -22980,6 +22981,14 @@
     "nodejs": {
         "linux": {
             "root": "nodejs"
+        }
+    },
+    "nodetool": {
+        "linux": {
+            "root": "nodetool",
+            "symlinks": [
+                "ai.nodetool.NodeTool"
+            ]
         }
     },
     "noisetorch": {
