@@ -11438,6 +11438,11 @@
             ]
         }
     },
+    "flow-browser": {
+        "linux": {
+            "root": "Flow"
+        }
+    },
     "flowblade": {
         "linux": {
             "root": "flowblade",
@@ -28236,7 +28241,10 @@
     },
     "raven": {
         "linux": {
-            "root": "ca.uwaterloo.Raven"
+            "root": "ca.uwaterloo.Raven",
+            "symlinks": [
+                "com.rwkvzone.chat"
+            ]
         }
     },
     "rawstudio": {
