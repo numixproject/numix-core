@@ -18476,6 +18476,7 @@
             "root": "knetattach",
             "symlinks": [
                 "com.github.emmanueltouzery.hotwire",
+                "io.github.totoshko88.RustConn",
                 "mx-network-assistant",
                 "org.kde.knetattach"
             ]
@@ -19864,6 +19865,14 @@
             ]
         }
     },
+    "lockbook": {
+        "linux": {
+            "root": "lockbook-desktop",
+            "symlinks": [
+                "net.lockbook.Lockbook"
+            ]
+        }
+    },
     "log-analyzer": {
         "linux": {
             "root": "LogAnalyzer"
@@ -20827,7 +20836,8 @@
         "linux": {
             "root": "medit",
             "symlinks": [
-                "dev.pantheum.janus"
+                "dev.pantheum.janus",
+                "Markpad"
             ]
         }
     },
