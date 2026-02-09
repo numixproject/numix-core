@@ -9636,6 +9636,11 @@
             ]
         }
     },
+    "echo": {
+        "linux": {
+            "root": "echo"
+        }
+    },
     "eclipse": {
         "linux": {
             "root": "eclipse",
@@ -25825,7 +25830,6 @@
                 "org.openstenoproject.Plover"
             ]
         }
-    },
     "plugdata": {
         "linux": {
             "root": "plugdata"
