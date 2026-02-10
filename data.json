@@ -31739,6 +31739,15 @@
             ]
         }
     },
+    "stoat": {
+        "linux": {
+            "root": "stoat",
+            "symlinks": [
+                "chat.stoat.StoatDesktop",
+                "stoat-desktop"
+            ]
+        }
+    },
     "stochas": {
         "linux": {
             "root": "stochas",
