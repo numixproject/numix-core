@@ -2280,7 +2280,8 @@
         "linux": {
             "root": "ashpd-demo",
             "symlinks": [
-                "com.belmoussaoui.ashpd.demo"
+                "com.belmoussaoui.ashpd.demo",
+                "io.github.msx80.DoorsOfDoomOmicron"
             ]
         }
     },
@@ -37826,6 +37827,7 @@
         "linux": {
             "root": "yaak",
             "symlinks": [
+                "app.yaak.Yaak",
                 "yaak-app"
             ]
         }
