@@ -1243,17 +1243,17 @@
             ]
         }
     },
+    "alsa-modular-synth": {
+        "linux": {
+            "root": "ams_32"
+        }
+    },
     "alsa-scarlett-gui": {
         "linux": {
             "root": "alsa-scarlett-gui",
             "symlinks": [
                 "vu.b4.alsa-scarlett-gui"
             ]
-        }
-    },
-    "alsa-modular-synth": {
-        "linux": {
-            "root": "ams_32"
         }
     },
     "altair": {
@@ -20946,6 +20946,11 @@
             "symlinks": [
                 "io.github.ripose_jp.Memento"
             ]
+        }
+    },
+    "memento-watchlist": {
+        "linux": {
+            "root": "io.github.ans_ibrahim.memento"
         }
     },
     "mendeleydesktop": {
