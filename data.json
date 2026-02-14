@@ -5664,7 +5664,8 @@
         "linux": {
             "root": "cfait",
             "symlinks": [
-                "com.trougnouf.Cfait"
+                "com.trougnouf.Cfait",
+                "me.ahmetcetinkaya.whph"
             ]
         }
     },
@@ -7198,6 +7199,7 @@
         "linux": {
             "root": "dabradio",
             "symlinks": [
+                "com.k0vcz.Artemis",
                 "dab-mini"
             ]
         }
@@ -26072,6 +26074,7 @@
         "linux": {
             "root": "pomodorolm",
             "symlinks": [
+                "io.github.focustimerhq.FocusTimer",
                 "org.jousse.vincent.Pomodorolm"
             ]
         }
@@ -27970,6 +27973,11 @@
             "symlinks": [
                 "io.github.ra3xdh.qucs_s"
             ]
+        }
+    },
+    "querystudio": {
+        "linux": {
+            "root": "querystudio
         }
     },
     "quick-lookup": {
