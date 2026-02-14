@@ -9201,7 +9201,14 @@
     },
     "drakconf": {
         "linux": {
-            "root": "drakconf"
+            "root": "drakconf",
+            "symlinks": [
+                "cronopete_preferences",
+                "gconf-editor",
+                "gconfeditor",
+                "gkdebconf",
+                "gkdebconf-icon"
+            ]
         }
     },
     "drakstats": {
@@ -12526,17 +12533,6 @@
             "symlinks": [
                 "gcompris-qt",
                 "org.kde.gcompris"
-            ]
-        }
-    },
-    "gconf-editor": {
-        "linux": {
-            "root": "gconf-editor",
-            "symlinks": [
-                "cronopete_preferences",
-                "gconfeditor",
-                "gkdebconf",
-                "gkdebconf-icon"
             ]
         }
     },
@@ -27977,7 +27973,7 @@
     },
     "querystudio": {
         "linux": {
-            "root": "querystudio
+            "root": "querystudio"
         }
     },
     "quick-lookup": {
@@ -29620,7 +29616,10 @@
     },
     "scinotes": {
         "linux": {
-            "root": "scinotes"
+            "root": "scinotes",
+            "symlinks": [
+                "org.scilab.Scinotes"
+            ]
         }
     },
     "scinsynth": {
@@ -37570,7 +37569,8 @@
             "symlinks": [
                 "audmes",
                 "net.sourceforge.audmes.audmes",
-                "org.audmes.audmes"
+                "org.audmes.audmes",
+                "org.scilab.Xcos"
             ]
         }
     },
