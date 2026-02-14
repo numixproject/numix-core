@@ -1243,6 +1243,14 @@
             ]
         }
     },
+    "alsa-scarlett-gui": {
+        "linux": {
+            "root": "alsa-scarlett-gui",
+            "symlinks": [
+                "vu.b4.alsa-scarlett-gui"
+            ]
+        }
+    },
     "alsa-modular-synth": {
         "linux": {
             "root": "ams_32"
