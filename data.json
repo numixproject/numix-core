@@ -8881,6 +8881,11 @@
             ]
         }
     },
+    "dji-logbook": {
+        "linux": {
+            "root": "dji-logbook"
+        }
+    },
     "djv-view": {
         "linux": {
             "root": "djv_view",
@@ -20164,7 +20169,9 @@
         "linux": {
             "root": "lskat",
             "symlinks": [
+                "io.codeberg.emviolet.cardthropic",
                 "org.kde.lskat",
+                "page.codeberg.emviolet.cardthropic",
                 "steam_icon_2379780"
             ]
         }
