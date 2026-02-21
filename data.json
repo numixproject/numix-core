@@ -4098,6 +4098,7 @@
             "symlinks": [
                 "com.dz4k.FruitCredits",
                 "com.francescogaglione.cosmicmoney",
+                "org.grouvya.BillTracker",
                 "org.nickvision.money",
                 "tilitin"
             ]
@@ -6794,6 +6795,7 @@
         "linux": {
             "root": "cpupower-gui",
             "symlinks": [
+                "io.github.serverket.cpugov",
                 "org.rnd2.cpupower_gui"
             ]
         }
@@ -7200,7 +7202,8 @@
             "root": "dabradio",
             "symlinks": [
                 "com.k0vcz.Artemis",
-                "dab-mini"
+                "dab-mini",
+                "io.github.meehow.Receiver"
             ]
         }
     },
@@ -13119,6 +13122,7 @@
             "symlinks": [
                 "com.pot_app.pot",
                 "dev.ters.LocalTranslate",
+                "io.github.elly_code.inscriptions",
                 "one.jiri.easydict-gtk",
                 "org.codeberg.dimkard.glossaico",
                 "pot"
@@ -14844,7 +14848,8 @@
                 "io.github.seadve.Dagger",
                 "io.github.seadve.Delineate",
                 "kgraphviewer",
-                "org.kde.kgraphviewer"
+                "org.kde.kgraphviewer",
+                "se.danielnylander.vsdview"
             ]
         }
     },
@@ -22472,6 +22477,7 @@
                 "com.github.parnold-x.nasc",
                 "com.gitlab.wef.gdcalc",
                 "fr.rubet.rpn",
+                "fr.rubet.rpnx",
                 "gdcalc",
                 "io.gitlab.leesonwai.Sums",
                 "rpn"
@@ -27295,6 +27301,7 @@
         "linux": {
             "root": "qdirstat",
             "symlinks": [
+                "io.github.lluciocc.Vish",
                 "io.github.shundhammer.qdirstat",
                 "k4dirstat",
                 "kdirstat"
@@ -31574,6 +31581,7 @@
             "symlinks": [
                 "com.github.hannesschulze.optimizer",
                 "dev.lynith.Speedtest",
+                "fr.quentium.stacer",
                 "xyz.ketok.Speedtest"
             ]
         }
@@ -34326,7 +34334,8 @@
         "linux": {
             "root": "tvmaxe",
             "symlinks": [
-                "gmplayer-dvb"
+                "gmplayer-dvb",
+                "tv.cybertelly.CyberTelly"
             ]
         }
     },
@@ -36770,7 +36779,10 @@
     },
     "webservice-office-zoho-sheet": {
         "linux": {
-            "root": "webservice-office-zoho-sheet"
+            "root": "webservice-office-zoho-sheet",
+            "symlinks": [
+                "io.gitlab.zulfian1732.munquet"
+            ]
         }
     },
     "webtorrent-desktop": {
