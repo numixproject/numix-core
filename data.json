@@ -6252,6 +6252,11 @@
             ]
         }
     },
+    "clustercut": {
+        "linux": {
+            "root": "com.keithvassallo.clustercut"
+        }
+    },
     "clustertruck": {
         "linux": {
             "root": "steam_icon_397950"
@@ -15444,7 +15449,8 @@
         "linux": {
             "root": "hackup",
             "symlinks": [
-                "com.github.mdh34.hackup"
+                "com.github.mdh34.hackup",
+                "com.ranfdev.Lobjur"
             ]
         }
     },
