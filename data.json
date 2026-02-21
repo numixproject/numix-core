@@ -11553,6 +11553,11 @@
             ]
         }
     },
+    "fluxer": {
+        "linux": {
+            "root": "app.fluxer.Fluxer"
+        }
+    },
     "fluxgui": {
         "android": [
             "com.justgetflux.flux/com.justgetflux.flux.FluxActivity"
