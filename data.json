@@ -1998,6 +1998,15 @@
             "root": "steam_icon_280160"
         }
     },
+    "aranym": {
+        "linux": {
+            "root": "aranym",
+            "symlinks": [
+                "aranym-jit",
+                "aranym-mmu"
+            ]
+        }
+    },
     "archer": {
         "linux": {
             "root": "archer",
