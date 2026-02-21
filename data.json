@@ -1867,7 +1867,14 @@
     },
     "applications-interfacedesign": {
         "linux": {
-            "root": "applications-interfacedesign"
+            "root": "applications-interfacedesign",
+            "symlinks": [
+                "gtk3-widget-factory",
+                "gtk4-widget-factory",
+                "org.gtk.WidgetFactory",
+                "org.gtk.WidgetFactory3",
+                "org.gtk.WidgetFactory4"
+            ]
         }
     },
     "applications-internet": {
@@ -15187,17 +15194,6 @@
                 "org.gtk.Demo",
                 "org.gtk.Demo3",
                 "org.gtk.Demo4"
-            ]
-        }
-    },
-    "gtk3-widget-factory": {
-        "linux": {
-            "root": "gtk3-widget-factory",
-            "symlinks": [
-                "gtk4-widget-factory",
-                "org.gtk.WidgetFactory",
-                "org.gtk.WidgetFactory3",
-                "org.gtk.WidgetFactory4"
             ]
         }
     },
