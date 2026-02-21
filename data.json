@@ -12054,6 +12054,33 @@
             "root": "freenet"
         }
     },
+    "freeoffice-planmaker": {
+        "linux": {
+            "root": "freeoffice-planmaker",
+            "symlinks": [
+                "application-x-pml18",
+                "application-x-pml18free"
+            ]
+        }
+    },
+    "freeoffice-presentations": {
+        "linux": {
+            "root": "freeoffice-presentations",
+            "symlinks": [
+                "application-x-prl18",
+                "application-x-prl18free"
+            ]
+        }
+    },
+    "freeoffice-textmaker": {
+        "linux": {
+            "root": "freeoffice-textmaker",
+            "symlinks": [
+                "application-x-tml18",
+                "application-x-tml18free"
+            ]
+        }
+    },
     "freeorion": {
         "linux": {
             "root": "freeorion",
