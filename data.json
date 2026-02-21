@@ -7884,7 +7884,10 @@
     },
     "dippi": {
         "linux": {
-            "root": "com.github.cassidyjames.dippi"
+            "root": "com.github.cassidyjames.dippi",
+            "symlinks": [
+                "com.cassidyjames.dippi"
+            ]
         }
     },
     "discord": {
@@ -10218,6 +10221,7 @@
         "linux": {
             "root": "ephemeral",
             "symlinks": [
+                "com.cassidyjames.ephemeral",
                 "com.github.cassidyjames.ephemeral"
             ]
         },
@@ -10444,7 +10448,10 @@
     },
     "eversticky": {
         "linux": {
-            "root": "eversticky"
+            "root": "eversticky",
+            "symlinks": [
+                "com.github.souren.BetterNotes"
+            ]
         }
     },
     "evince": {
@@ -18061,7 +18068,10 @@
     },
     "kerbal-space-program": {
         "linux": {
-            "root": "steam_icon_220200"
+            "root": "steam_icon_220200",
+            "symlinks": [
+                "com.aeroftp.AeroFTP"
+            ]
         }
     },
     "keybase": {
@@ -26379,6 +26389,7 @@
             "symlinks": [
                 "amor",
                 "codes.merritt.FeelingFinder",
+                "com.cassidyjames.ideogram",
                 "com.github.cassidyjames.ideogram",
                 "com.github.halfmexican.Mingle",
                 "feeling_finder",
@@ -32228,6 +32239,7 @@
         "linux": {
             "root": "swatchbooker",
             "symlinks": [
+                "com.cassidyjames.palette",
                 "com.github.cassidyjames.palette",
                 "com.github.keyilan.swatches",
                 "io.github.lainsce.Emulsion",
