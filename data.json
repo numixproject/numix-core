@@ -263,6 +263,7 @@
             "root": "steam_icon_250420"
         }
     },
+
     "911-operator": {
         "android": [
             "com.jutsugames.operator/com.unity3d.player.UnityPlayerActivity",
@@ -271,6 +272,13 @@
         "linux": {
             "root": "steam_icon_503560"
         }
+    },
+    "94percent": {
+        "android": [
+            "com.namogames.drj.ninetyfouranswers/com.namogames.drj.ninetyfouranswers.MainActivity",
+            "com.scimob.ninetyfour.percent/com.scimob.ninetyfour.percent.main.MainActivity",
+            "com.scimob.ninetyfour.percent/com.scimob.ninetyfour.percent.MainActivity"
+        ]
     },
     "a-boy-and-his-blob": {
         "linux": {
