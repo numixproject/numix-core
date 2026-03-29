@@ -13318,7 +13318,8 @@
             "symlinks": [
                 "aisleriot",
                 "gnome-freecell",
-                "org.gnome.Aisleriot"
+                "org.gnome.Aisleriot",
+                "org.gnome.gitlab.wwarner.Solitaire"
             ]
         }
     },
@@ -35376,6 +35377,11 @@
     "vineyard": {
         "linux": {
             "root": "vineyard"
+        }
+    },
+    "vinyl": {
+        "linux": {
+            "root": "page.codeberg.M23Snezhok.Vinyl"
         }
     },
     "vineyard-preferences": {
