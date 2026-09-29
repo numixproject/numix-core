@@ -11,45 +11,59 @@ jobs:
   lint:
     runs-on: ubuntu-latest
 
+    permissions:
+      # Report GitHub Commit status
+      statuses: write
+
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
-
-      - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/checkout@v7
         with:
-          python-version: 3.11
+          # Full git history needed to get proper list of changed files within super-linter
+          fetch-depth: 0
+          # Don't keep GITHUB_TOKEN on filesystem
+          persist-credentials: false
 
-      - name: Install dependencies
-        run: pip3 install flake8
+      - name: Check
+        uses: github/super-linter/slim@v7
+        env:
+          # Lint only changed files
+          VALIDATE_ALL_CODEBASE: false
+          # Exclude `pull_request_template.md` since it doesn't meet MD041/first-line-heading
+          # Exclude `icons/{circle,square}/` to reduce scan time when `VALIDATE_ALL_CODEBASE: true`
+          # since nothing in them is linted
+          FILTER_REGEX_EXCLUDE: '\.github/pull_request_template\.md|icons/(circle|square)/'
 
-      - name: Check PEP8 compliance
-        run: find . -name "*.py" | xargs flake8 $1
+          # Linter config files paths are relative to repo root
+          LINTER_RULES_PATH: "."
+          # Report GitHub Commit status
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Check mdl compliance
-        uses: articulate/actions-markdownlint@v1.1.0
-        with:
-          config: .github/workflows/markdownlint-config.json
-          ignore: LICENSE
+          # Linters
+          VALIDATE_PYTHON_FLAKE8: true
 
-      - name: Check .editorconfig compliance
-        uses: editorconfig-checker/action-editorconfig-checker@v1
+          VALIDATE_MARKDOWN: true
+          MARKDOWN_CONFIG_FILE: '.github/workflows/markdownlint-config.json'
+
+          VALIDATE_EDITORCONFIG: true
+          EDITORCONFIG_FILE_NAME: '.editorconfig'
+
 
   # Checks relating to the database
   check:
+    name: check database
+
+    # minimal permissions
+    permissions: {}
+
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
-
-      - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/checkout@v7
         with:
-          python-version: 3.11
-
-      - name: Install dependencies
-        run: pip3 install jsonschema
+          # Don't keep GITHUB_TOKEN on filesystem
+          persist-credentials: false
 
       - name: Check database
         run: |

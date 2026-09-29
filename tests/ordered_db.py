@@ -34,9 +34,9 @@ def sort_errors(list, stype, root=""):
         has_errors = True
 
         if root == "":
-            error_msg = "{} '{}' not correctly ordred"
+            error_msg = "{} '{}' not correctly ordered"
         else:
-            error_msg = "{} '{}' of '{}' not correctly ordred"
+            error_msg = "{} '{}' of '{}' not correctly ordered"
 
         error(error_msg.format(stype, list[i], root))
         print("Should be placed at {} instead of {}".format(correct_index, i))
