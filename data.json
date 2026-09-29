@@ -19334,6 +19334,14 @@
             "root": "lepton-snippet-manager"
         }
     },
+    "letos": {
+        "linux": {
+            "root": "letos",
+            "symlinks": [
+                "sqlitestudio"
+            ]
+        }
+    },
     "letterpress": {
         "linux": {
             "root": "letterpress",
@@ -31519,11 +31527,6 @@
     "sqliteman": {
         "linux": {
             "root": "sqliteman"
-        }
-    },
-    "sqlitestudio": {
-        "linux": {
-            "root": "sqlitestudio"
         }
     },
     "sqlrestore": {
